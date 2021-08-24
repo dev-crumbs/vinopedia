@@ -1,0 +1,12 @@
+---
+title: Early Burgundy
+description: "Early Burgundy" è un sinonimo.
+published: true
+date: 2021-08-02T17:00:03.012Z
+tags: vitigno, sinonimo, bacca nera
+editor: markdown
+dateCreated: 2021-08-02T17:00:00.732Z
+---
+
+# Early Burgundy
+"Early Burgundy" è un sinonimo utilizzato in California e Australia per il vitigno [Abouriou](/vitigni/bacca-nera/abouriou).
