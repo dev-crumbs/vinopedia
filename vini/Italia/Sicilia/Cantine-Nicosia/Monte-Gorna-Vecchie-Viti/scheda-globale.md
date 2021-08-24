@@ -13,6 +13,7 @@ dateCreated: 2021-08-24T11:55:59.971Z
 ## Caratteristiche
 - **Nome:** Monte Gorna Vecchie Viti
 - **Tipologia:** Rosso fermo
+- **Tipologia:** Rosso fermo
 - **Denominazione:** [Etna DOC](/denominazioni/Italia/Sicilia/DOC/Etna) (Rosso Riserva)
 - **Produttore:** [Cantine Nicosia](/produttori/Italia/Sicilia/Cantine-Nicosia) 
 - **Composizione:** 90% [Nerello mascalese](/vitigni/bacca-nera/nerello-mascalese) + 10% [Nerello cappuccio](/vitigni/bacca-nera/nerello-cappuccio)

@@ -12,6 +12,7 @@ dateCreated: 2021-08-22T21:27:45.497Z
 
 ## Caratteristiche
 - **Nome:** Vigna Cataratte Riserva
+- **Tipologia:** Rosso fermo
 - **Denominazione:** Aglianico del Taburno DOCG (Riserva)
 - **Produttore:** Fontanavecchia
 - **Composizione:** 100% [Aglianico](/vitigni/bacca-nera/aglianico)

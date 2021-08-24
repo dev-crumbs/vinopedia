@@ -12,6 +12,7 @@ dateCreated: 2021-08-23T12:22:31.894Z
 
 ## Caratteristiche
 - **Nome:** Barbaresco Riserva Rabajà
+- **Tipologia:** Rosso fermo
 - **Denominazione:** Barbaresco DOCG (Rabajà - Riserva)
 - **Produttore:** Produttori del Barbaresco
 - **Composizione:** 100% [Nebbiolo](/vitigni/bacca-nera/nebbiolo)

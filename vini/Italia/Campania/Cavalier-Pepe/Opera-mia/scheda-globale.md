@@ -11,7 +11,8 @@ dateCreated: 2021-08-11T15:27:13.077Z
 # Opera Mia
 
 ## Caratteristiche
-- **Nome:** Opera mia 
+- **Nome:** Opera mia
+- **Tipologia:** Rosso fermo 
 - **Denominazione:** Taurasi DOCG 
 - **Produttore:** Tenuta Cavalier Pepe 
 - **Composizione:** 100% [Aglianico](/vitigni/bacca-nera/aglianico)

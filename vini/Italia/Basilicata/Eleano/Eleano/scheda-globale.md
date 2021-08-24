@@ -11,7 +11,8 @@ dateCreated: 2021-08-23T07:36:55.405Z
 # Eleano
 
 ## Caratteristiche
-- **Nome:** Eleano 
+- **Nome:** Eleano
+- **Tipologia:** Rosso fermo 
 - **Denominazione:** Aglianico del Vulture Superiore DOCG 
 - **Produttore:** Eleano 
 - **Composizione:** 100% [Aglianico del Vulture](/vitigni/bacca-nera/aglianico-del-vulture)

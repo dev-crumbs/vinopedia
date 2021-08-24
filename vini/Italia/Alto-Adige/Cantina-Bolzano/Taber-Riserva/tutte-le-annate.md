@@ -11,7 +11,8 @@ dateCreated: 2021-08-23T09:13:09.952Z
 # Taber Riserva
 
 ## Caratteristiche
-- **Nome:** Taber Riserva 
+- **Nome:** Taber Riserva
+- **Tipologia:** Rosso fermo 
 - **Denominazione:** Alto Adige Lagrein DOC
 - **Produttore:** Cantina Bolzano 
 - **Composizione:** 100% [Lagrein](/vitigni/bacca-nera/lagrein)

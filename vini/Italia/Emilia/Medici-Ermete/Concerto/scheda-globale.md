@@ -12,6 +12,7 @@ dateCreated: 2021-08-18T10:27:11.126Z
 
 ## Caratteristiche
 - **Nome:** Concerto 
+- **Tipologia:** Rosso fermo
 - **Denominazione:** Reggiano DOC 
 - **Produttore:** Medici Ermete 
 - **Composizione:** 100% [Lambrusco Salamino](/vitigni/bacca-nera/lambrusco-salamino)

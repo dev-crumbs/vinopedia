@@ -12,6 +12,7 @@ dateCreated: 2021-08-24T11:16:41.742Z
 
 ## Caratteristiche
 - **Nome:** Malvasia 
+- **Tipologia:** Bianco fermo dolce
 - **Denominazione:** Cagliari DOC
 - **Produttore:** [Ferruccio Deiana](/produttori/Italia/Sardegna/Ferruccio-Deiana) 
 - **Composizione:** 100% [Malvasia di Sardegna](/vitigni/bacca-bianca/malvasia-di-sardegna)

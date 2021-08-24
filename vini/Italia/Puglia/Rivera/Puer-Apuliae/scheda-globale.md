@@ -12,6 +12,7 @@ dateCreated: 2021-08-24T11:31:20.502Z
 
 ## Caratteristiche
 - **Nome:** Puer Apuliae
+- **Tipologia:** Rosso fermo
 - **Denominazione:** [Castel del Monte Rosso Riserva DOCG](/denominazioni/Italia/Puglia/DOCG/Castel-del-Monte-Rosso-Riserva)
 - **Produttore:** [Rivera](/produttori/Italia/Puglia/Rivera) 
 - **Composizione:** 100% [Nero di Troia](/vitigni/bacca-nera/nero-di-troia)
