@@ -32,3 +32,6 @@ dateCreated: 2021-08-24T11:16:41.742Z
 ## Annate
 - [2014](vini/Italia/Sardegna/Ferruccio-Deiana/Malvasia/2014) -- 92/100
 
+## Note
+Il produttore indica come vitigno "Malvasia", senza specificare quale delle più di 20 varietà di [Malvasia](/vitigni/bacca-bianca/malvasia) si tratti. Trattandosi di un produttore sardo, verosimilmente il vitigno utilizzato è la [Malvasia di Sardegna](/vitigni/bacca-bianca/malvasia-di-sardegna), un sinonimo della [Malvasia di Lipari](/vitigni/bacca-bianca/malvasia-di-lipari).
+

@@ -12,7 +12,7 @@ dateCreated: 2021-08-12T08:47:39.689Z
 
 ## Caratteristiche
 - **Nome:** Monfort Rosé 
-- **Tipologia:** Spumante metodo classico rosé
+- **Tipologia:** Rosato spumante metodo classico
 - **Denominazione:** Trento DOC 
 - **Produttore:** Cantine Monfort 
 - **Composizione:** 50% [Pinot Noir](/vitigni/bacca-nera/pinot-noir) - 50% [Chardonnay](/vitigni/bacca-bianca/chardonnay)

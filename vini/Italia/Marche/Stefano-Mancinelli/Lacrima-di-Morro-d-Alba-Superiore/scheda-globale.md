@@ -1,0 +1,41 @@
+---
+title: Lacrima di Morro d'Alba Superiore – Lacrima di Morro DOC – Stefano Mancinelli
+description: 87 - 92 | Lacrima 100% | Marche (IT)
+published: true
+date: 2021-08-24T12:31:23.089Z
+tags: vino, italia, rosso, marche, varietale, lacrima, lombata di manzo in salsa di prugne rosse, pollo alla cacciatora, bocconcini di manzo ai porcini, filetto di manzo in crosta
+editor: markdown
+dateCreated: 2021-08-24T11:31:20.502Z
+---
+
+# Puer Apuliae
+
+## Caratteristiche
+- **Nome:** Lacrima di Morro d'Alba Superiore
+- **Tipologia:** Rosso fermo
+- **Denominazione:** [Lacrima di morro DOC](/denominazioni/Italia/Marche/DOC/Lacrima-di-morro) (Superiore)
+- **Produttore:** [Stefano Mancinelli](/produttori/Italia/Marche/Stefano-Mancinelli) 
+- **Composizione:** 100% [Lacrima](/vitigni/bacca-nera/lacrima)
+- **Affinamento:** 6 mesi in acciaio
+- **Fascia di prezzo:** 10 - 18 €
+{.grid-list}
+
+## Descrizione del produttore
+
+> n.d
+
+## Possibili abbinamenti
+*Vedere le singole annate per abbinamenti specifici*
+
+- lombata di manzo in salsa di prugne rosse
+- pollo alla cacciatora
+- bocconcini di manzo ai porcini
+- filetto di manzo in crosta
+
+## Annate
+- [2014](/vini/Italia/Marche/Stefano-Mancinelli/Lacrima-di-Morro-d-Alba-Superiore/2014) -- 87/100
+- [2015](/vini/Italia/Marche/Stefano-Mancinelli/Lacrima-di-Morro-d-Alba-Superiore/2015) -- 88/100
+- [2017](/vini/Italia/Marche/Stefano-Mancinelli/Lacrima-di-Morro-d-Alba-Superiore/2017) -- 88/100
+- [2018](/vini/Italia/Marche/Stefano-Mancinelli/Lacrima-di-Morro-d-Alba-Superiore/2018) -- 92/100
+
+

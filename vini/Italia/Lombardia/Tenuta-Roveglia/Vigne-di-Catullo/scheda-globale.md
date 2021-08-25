@@ -1,0 +1,47 @@
+---
+title: Vigne di Catullo – Lugana Riserva DOC – Tenuta Roveglia
+description: 88 - 96 | Trebbiano di Lugana 100% | Lombardia (IT)
+published: true
+date: 2021-08-24T12:31:23.089Z
+tags: vino, bianco, varietale, trebbiano di lugana, italia, lombardia, tagliatelle con lucioperca e gallinacci, spaghetti con ragu di coniglio, bigoli con le sarde, tagliolini all'uovo con ragu di coniglio
+editor: markdown
+dateCreated: 2021-08-24T11:31:20.502Z
+---
+
+# Puer Apuliae
+
+## Caratteristiche
+- **Nome:** Vigne di Catullo
+- **Tipologia:** Bianco fermo
+- **Denominazione:** [Lugana DOC](/denominazioni/Italia/Lombardia/DOC/Lugana) (Riserva)
+- **Produttore:** [Tenuta Roveglia](/produttori/Italia/Lombardia/Tenuta-Roveglia) 
+- **Composizione:** 100% [Trebbiano di Lugana](/vitigni/bacca-bianca/trebbiano-di-lugana)
+- **Affinamento:** 24 mesi in acciaio
+- **Fascia di prezzo:** 12 - 19 €
+{.grid-list}
+
+## Descrizione del produttore
+
+> È un Lugana di grande carattere, di colore giallo  intenso con riflessi dorati, robusto e al tempo stesso vellutato. Le  uve vengono scelte con cura dai vigneti con più di 55 anni di età. Presenta un bouquet particolarmente ricco dove le note più fredde e minerali si armonizzano con quelle della frutta matura. Il suo ricco  aroma, con sentori di nocciola ed un elegante retrogusto di mandorla, ne suggerisce l’abbinamento oltre che con il pesce, con i piatti di pasta, la carne alla griglia, i risotti ed i formaggi. 
+
+## Possibili abbinamenti
+*Vedere le singole annate per abbinamenti specifici*
+
+- tagliatelle con lucioperca e gallinacci 
+- spaghetti con ragu di coniglio 
+- bigoli con le sarde 
+- tagliolini all'uovo con ragu di coniglio
+
+## Annate
+- [2013](/vini/Italia/Lombardia/Tenuta-Roveglia/Vigne-di-Catullo/2013) -- 92/100
+- [2014](/vini/Italia/Lombardia/Tenuta-Roveglia/Vigne-di-Catullo/2014) -- 88/100
+- [2015](/vini/Italia/Lombardia/Tenuta-Roveglia/Vigne-di-Catullo/2015) -- 92/100
+- [2016](/vini/Italia/Lombardia/Tenuta-Roveglia/Vigne-di-Catullo/2016) -- 93/100
+- [2017](/vini/Italia/Lombardia/Tenuta-Roveglia/Vigne-di-Catullo/2017) -- 96/100
+
+## Note
+
+Il vitigno indicato dal produttore, [Trebbiano di Lugana](/vitigni/bacca-bianca/trebbiano-di-lugana), è in realtà un sinonimo del [Verdicchio bianco](/vitigni/bacca-bianca/verdicchio-bianco)
+
+
+
