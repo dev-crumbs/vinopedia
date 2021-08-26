@@ -34,8 +34,8 @@ dateCreated: 2021-08-24T11:31:20.502Z
 - gnocchi tartufo e noci
 
 ## Annate
-- [2014](/vini/Italia/Friuli-Venezia-Giulia/Scubla/Pomedes/2014) -- <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
-- [2015](/vini/Italia/Friuli-Venezia-Giulia/Scubla/Pomedes/2015) -- <i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i><i class="fas fa-star"></i>
+- [2014](/vini/Italia/Friuli-Venezia-Giulia/Scubla/Pomedes/2014) -- <span class="star-4"></span>
+- [2015](/vini/Italia/Friuli-Venezia-Giulia/Scubla/Pomedes/2015) -- <span class="star-5"></span>
 - [2016](/vini/Italia/Friuli-Venezia-Giulia/Scubla/Pomedes/2016) -- <span class="star-5"></span>
 - [2017](/vini/Italia/Friuli-Venezia-Giulia/Scubla/Pomedes/2017) -- <span class="star-5"></span>
 - [2018](/vini/Italia/Friuli-Venezia-Giulia/Scubla/Pomedes/2018) -- <span class="star-5"></span>
