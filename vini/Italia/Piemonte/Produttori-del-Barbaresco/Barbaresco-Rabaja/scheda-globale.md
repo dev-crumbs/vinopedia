@@ -1,9 +1,9 @@
 ---
 title: Barbaresco Riserva Rabajà - Barbaresco DOCG - Produttori del Barbaresco
-description: 87 - 93 | Nebbiolo 100% | Piemonte (IT)
+description: 3★ - 5★ | Nebbiolo 100% | Piemonte (IT)
 published: true
 date: 2021-08-24T10:19:50.562Z
-tags: vino, italia, rosso, varietale, piemonte, fagiano in umido, testun stagionato, spalla d'agnello
+tags: vino, italia, rosso, varietale, nebbiolo, piemonte, fagiano in umido, testun stagionato, spalla d'agnello
 editor: markdown
 dateCreated: 2021-08-23T12:22:31.894Z
 ---
@@ -17,7 +17,8 @@ dateCreated: 2021-08-23T12:22:31.894Z
 - **Produttore:** Produttori del Barbaresco
 - **Composizione:** 100% [Nebbiolo](/vitigni/bacca-nera/nebbiolo)
 - **Affinamento:** 10 mesi in barrique 
-- **Fascia di prezzo:** 45 - 55 €
+- **Alcol:** 14.5%
+- **Fascia di prezzo:** 45 - 49 €
 {.grid-list}
 
 ## Descrizione del produttore
@@ -32,7 +33,7 @@ dateCreated: 2021-08-23T12:22:31.894Z
 - Spalla di agnello
 
 ## Annate
-- [2011](vini/Italia/Piemonte/Produttori-del-Barbaresco/Barbaresco-Rabaja/2011) -- 87/100
-- [2013](vini/Italia/Piemonte/Produttori-del-Barbaresco/Barbaresco-Rabaja/2013) -- 89/100
-- [2014](vini/Italia/Piemonte/Produttori-del-Barbaresco/Barbaresco-Rabaja/2014) -- 89/100
-- [2015](vini/Italia/Piemonte/Produttori-del-Barbaresco/Barbaresco-Rabaja/2015) -- 93/100
+- Barbaresco Riserva Rabajà [2011](vini/Italia/Piemonte/Produttori-del-Barbaresco/Barbaresco-Rabaja/2011) -- <span class="star-3"></span>
+- Barbaresco Riserva Rabajà [2013](vini/Italia/Piemonte/Produttori-del-Barbaresco/Barbaresco-Rabaja/2013) -- <span class="star-4"></span>
+- Barbaresco Riserva Rabajà [2014](vini/Italia/Piemonte/Produttori-del-Barbaresco/Barbaresco-Rabaja/2014) -- <span class="star-4"></span>
+- Barbaresco Riserva Rabajà [2015](vini/Italia/Piemonte/Produttori-del-Barbaresco/Barbaresco-Rabaja/2015) -- <span class="star-5"></span>

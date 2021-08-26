@@ -1,6 +1,6 @@
 ---
 title: Pruno – Romagna Sangiovese Superiore Riserva DOC – Drei Donà
-description: 87 - 93 | Sangiovese 100%| Romagna (IT)
+description: 3★ - 5★ | Sangiovese 100%| Romagna (IT)
 published: true
 date: 2021-08-24T12:31:23.089Z
 tags: vino, rosso, varietale, sangiovese, italia, romagna, carrè di agnello al timo, cosciotto di agnello al forno, lepre alla ghiotta, lepre in salmì
@@ -17,7 +17,8 @@ dateCreated: 2021-08-24T11:31:20.502Z
 - **Produttore:** [Drei-Donà](/produttori/Italia/Romagna/Drei-Dona) 
 - **Composizione:** 100% [Sangiovese](/vitigni/bacca-nera/sangiovese)
 - **Affinamento:** 18 mesi in barrique + 10 in bottiglia
-- **Fascia di prezzo:** 23 - 35 € (annate "storiche" possono avere prezzi molto fuori dal range)
+- **Alcol:** 13.5%
+- **Fascia di prezzo:** 30 - 34 € (annate "storiche" possono avere prezzi molto fuori dal range)
 {.grid-list}
 
 ## Descrizione del produttore
@@ -33,7 +34,7 @@ dateCreated: 2021-08-24T11:31:20.502Z
 - lepre in salmì
 
 ## Annate
-- [2006](/vini/Italia/Romagna/Drei-Dona/Pruno/2006) -- 90/100
-- [2013](/vini/Italia/Romagna/Drei-Dona/Pruno/2013) -- 87/100
-- [2015](/vini/Italia/Romagna/Drei-Dona/Pruno/2015) -- 87/100
-- [2016](/vini/Italia/Romagna/Drei-Dona/Pruno/2016) -- 93/100
+- Pruno [2006](/vini/Italia/Romagna/Drei-Dona/Pruno/2006) -- <span class="star-4"></span>
+- Pruno [2013](/vini/Italia/Romagna/Drei-Dona/Pruno/2013) -- <span class="star-3"></span>
+- Pruno [2015](/vini/Italia/Romagna/Drei-Dona/Pruno/2015) -- <span class="star-3"></span>
+- Pruno [2016](/vini/Italia/Romagna/Drei-Dona/Pruno/2016) -- <span class="star-5"></span>

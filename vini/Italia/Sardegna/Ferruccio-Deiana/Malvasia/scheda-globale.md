@@ -1,6 +1,6 @@
 ---
 title: Malvasia – Cagliari DOC – Ferruccio Deiana
-description: 92 | Malvasia 100% | Sardegna (IT)
+description: 5★ | Malvasia 100% | Sardegna (IT)
 published: true
 date: 2021-08-24T11:16:44.400Z
 tags: vino, bianco, italia, varietale, sardegna, malvasia di sardegna, ravioli di mandorle
@@ -17,7 +17,8 @@ dateCreated: 2021-08-24T11:16:41.742Z
 - **Produttore:** [Ferruccio Deiana](/produttori/Italia/Sardegna/Ferruccio-Deiana) 
 - **Composizione:** 100% [Malvasia di Sardegna](/vitigni/bacca-bianca/malvasia-di-sardegna)
 - **Affinamento:** 4 mesi in barrique 
-- **Fascia di prezzo:** 10 - 20 €
+- **Alcol:** 15%
+- **Fascia di prezzo:** 15 - 19 €
 {.grid-list}
 
 ## Descrizione del produttore
@@ -30,7 +31,7 @@ dateCreated: 2021-08-24T11:16:41.742Z
 - Ravioli alle mandorle
 
 ## Annate
-- [2014](vini/Italia/Sardegna/Ferruccio-Deiana/Malvasia/2014) -- 92/100
+- Malvasia [2014](vini/Italia/Sardegna/Ferruccio-Deiana/Malvasia/2014) -- <span class="star-5"></span>
 
 ## Note
 Il produttore indica come vitigno "Malvasia", senza specificare quale delle più di 20 varietà di [Malvasia](/vitigni/bacca-bianca/malvasia) si tratti. Trattandosi di un produttore sardo, verosimilmente il vitigno utilizzato è la [Malvasia di Sardegna](/vitigni/bacca-bianca/malvasia-di-sardegna), un sinonimo della [Malvasia di Lipari](/vitigni/bacca-bianca/malvasia-di-lipari).

@@ -1,6 +1,6 @@
 ---
 title: Lambrusco di Sorbara Radice – Lambrusco di Sorbara DOC – Gianfranco Paltrinieri
-description: 87 - 92 | Lambrusco di Sorbara 100% | Emilia (IT)
+description: 3★ - 5★ | Lambrusco di Sorbara 100% | Emilia (IT)
 published: true
 date: 2021-08-24T12:31:23.089Z
 tags: vino, italia, rosato, spumante, metodo ancestrale, emilia, varietale, lambrusco di sorbara, maltagliati di farina di castagne, gamberi lardellati, catalana di crostacei
@@ -16,7 +16,8 @@ dateCreated: 2021-08-24T11:31:20.502Z
 - **Denominazione:** [Lambrusco di Sorbara DOC](/denominazioni/Italia/Emilia/DOC/Lambrusco-di-Sorbara)
 - **Produttore:** [Gianfranco Paltrinieri](/produttori/Italia/Emilia/Gianfranco-Paltrinieri) 
 - **Composizione:** 100% [Lambrusco di Sorbara](/vitigni/bacca-nera/lambrusco-di-sorbara)
-- **Fascia di prezzo:** 9 - 15 €
+- **Alcol:** 11%
+- **Fascia di prezzo:** 10 - 14 €
 
 ### Spumantizzazione
 - **Millesimo:** Sans Année
@@ -40,8 +41,8 @@ dateCreated: 2021-08-24T11:31:20.502Z
 > Per gli spumanti Sans Année le "annate" indicano esclusivamente gli anni in cui il vino è stato degustato.
 {.is-warning}
 
-- [2016](/vini/Italia/Emilia/Gianfranco-Paltrinieri/Lambrusco-di-Sorbara-Radice/2016) -- 87/100
-- [2017](/vini/Italia/Emilia/Gianfranco-Paltrinieri/Lambrusco-di-Sorbara-Radice/2017) -- 88/100
-- [2019](/vini/Italia/Emilia/Gianfranco-Paltrinieri/Lambrusco-di-Sorbara-Radice/2019) -- 92/100
+- Radice [2016](/vini/Italia/Emilia/Gianfranco-Paltrinieri/Lambrusco-di-Sorbara-Radice/2016) -- <span class="star-3"></span>
+- Radice [2017](/vini/Italia/Emilia/Gianfranco-Paltrinieri/Lambrusco-di-Sorbara-Radice/2017) -- <span class="star-3"></span>
+- Radice [2019](/vini/Italia/Emilia/Gianfranco-Paltrinieri/Lambrusco-di-Sorbara-Radice/2019) -- <span class="star-5"></span>
 
 

@@ -17,7 +17,8 @@ dateCreated: 2021-08-23T07:36:55.405Z
 - **Produttore:** Eleano 
 - **Composizione:** 100% [Aglianico del Vulture](/vitigni/bacca-nera/aglianico-del-vulture)
 - **Affinamento:** 24 mesi in barrique + 12 mesi in bottiglia
-- **Fascia di prezzo:** 25 - 35 €
+- **Alcol:** 14.5%
+- **Fascia di prezzo:** 30 - 34 €
 {.grid-list}
 
 ## Descrizione del produttore
@@ -32,8 +33,8 @@ dateCreated: 2021-08-23T07:36:55.405Z
 - Lombata di maiale al tartufo
 
 ## Annate
-- [2013](/vini/Italia/Basilicata/Eleano/Eleano/2013) -- 89/100
-- [2015](/vini/Italia/Basilicata/Eleano/Eleano/2015) -- 97/100
-- [2016](/vini/Italia/Basilicata/Eleano/Eleano/2016) -- 95/100
-- [2017](/vini/Italia/Basilicata/Eleano/Eleano/2017) -- 95/100
+- Eleano [2013](/vini/Italia/Basilicata/Eleano/Eleano/2013) -- <span class="star-4"></span>
+- Eleano [2015](/vini/Italia/Basilicata/Eleano/Eleano/2015) -- <span class="star-5"></span>
+- Eleano [2016](/vini/Italia/Basilicata/Eleano/Eleano/2016) -- <span class="star-5"></span>
+- Eleano [2017](/vini/Italia/Basilicata/Eleano/Eleano/2017) -- <span class="star-5"></span>
  

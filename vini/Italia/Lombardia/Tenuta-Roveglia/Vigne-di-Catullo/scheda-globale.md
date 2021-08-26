@@ -1,6 +1,6 @@
 ---
 title: Vigne di Catullo – Lugana Riserva DOC – Tenuta Roveglia
-description: 88 - 96 | Trebbiano di Lugana 100% | Lombardia (IT)
+description: 3★ - 5★ | Trebbiano di Lugana 100% | Lombardia (IT)
 published: true
 date: 2021-08-24T12:31:23.089Z
 tags: vino, bianco, varietale, trebbiano di lugana, italia, lombardia, tagliatelle con lucioperca e gallinacci, spaghetti con ragu di coniglio, bigoli con le sarde, tagliolini all'uovo con ragu di coniglio
@@ -17,7 +17,8 @@ dateCreated: 2021-08-24T11:31:20.502Z
 - **Produttore:** [Tenuta Roveglia](/produttori/Italia/Lombardia/Tenuta-Roveglia) 
 - **Composizione:** 100% [Trebbiano di Lugana](/vitigni/bacca-bianca/trebbiano-di-lugana)
 - **Affinamento:** 24 mesi in acciaio
-- **Fascia di prezzo:** 12 - 19 €
+- **Alcol:** 13%
+- **Fascia di prezzo:** 15 - 19 €
 {.grid-list}
 
 ## Descrizione del produttore
@@ -33,11 +34,11 @@ dateCreated: 2021-08-24T11:31:20.502Z
 - tagliolini all'uovo con ragu di coniglio
 
 ## Annate
-- [2013](/vini/Italia/Lombardia/Tenuta-Roveglia/Vigne-di-Catullo/2013) -- 92/100
-- [2014](/vini/Italia/Lombardia/Tenuta-Roveglia/Vigne-di-Catullo/2014) -- 88/100
-- [2015](/vini/Italia/Lombardia/Tenuta-Roveglia/Vigne-di-Catullo/2015) -- 92/100
-- [2016](/vini/Italia/Lombardia/Tenuta-Roveglia/Vigne-di-Catullo/2016) -- 93/100
-- [2017](/vini/Italia/Lombardia/Tenuta-Roveglia/Vigne-di-Catullo/2017) -- 96/100
+- Vigne di Catullo [2013](/vini/Italia/Lombardia/Tenuta-Roveglia/Vigne-di-Catullo/2013) -- <span class="star-5"></span>
+- Vigne di Catullo [2014](/vini/Italia/Lombardia/Tenuta-Roveglia/Vigne-di-Catullo/2014) -- <span class="star-3"></span>
+- Vigne di Catullo [2015](/vini/Italia/Lombardia/Tenuta-Roveglia/Vigne-di-Catullo/2015) -- <span class="star-5"></span>
+- Vigne di Catullo [2016](/vini/Italia/Lombardia/Tenuta-Roveglia/Vigne-di-Catullo/2016) -- <span class="star-5"></span>
+- Vigne di Catullo [2017](/vini/Italia/Lombardia/Tenuta-Roveglia/Vigne-di-Catullo/2017) -- <span class="star-5"></span>
 
 ## Note
 

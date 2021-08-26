@@ -1,6 +1,6 @@
 ---
 title: Opera Mia - Taurasi DOCG - Tenuta Cavalier Pepe
-description: 86 - 90 | Aglianico 100% | Campania (IT)
+description: 3★ - 5★ | Aglianico 100% | Campania (IT)
 published: true
 date: 2021-08-24T09:48:42.685Z
 tags: vino, rosso, aglianico, varietale, spezzatino di cinghiale al vino, anatra all'arancia, pancetta di agnello farcita
@@ -17,6 +17,9 @@ dateCreated: 2021-08-11T15:27:13.077Z
 - **Produttore:** Tenuta Cavalier Pepe 
 - **Composizione:** 100% [Aglianico](/vitigni/bacca-nera/aglianico)
 - **Affinamento:** 24 mesi in cemento + 12 mesi in barrique
+- **Alcol:** 14.5%
+- **Fascia di prezzo:** 30 - 34 €
+
 {.grid-list}
 
 ## Descrizione del produttore
@@ -31,8 +34,8 @@ dateCreated: 2021-08-11T15:27:13.077Z
 - Pancetta di agnello farcita
 
 ## Annate
-- [2010](/vini/Italia/Campania/Cavalier-Pepe/Opera-mia/2010) -- 90/100
-- [2012](/vini/Italia/Campania/Cavalier-Pepe/Opera-mia/2012) -- 86/100
-- [2013](/vini/Italia/Campania/Cavalier-Pepe/Opera-mia/2013) -- 88/100
-- [2014](/vini/Italia/Campania/Cavalier-Pepe/Opera-mia/2014) -- 90/100
+- [2010](/vini/Italia/Campania/Cavalier-Pepe/Opera-mia/2010) -- <span class="star-4"></span>
+- [2012](/vini/Italia/Campania/Cavalier-Pepe/Opera-mia/2012) -- <span class="star-3"></span>
+- [2013](/vini/Italia/Campania/Cavalier-Pepe/Opera-mia/2013) -- <span class="star-3"></span>
+- [2014](/vini/Italia/Campania/Cavalier-Pepe/Opera-mia/2014) -- <span class="star-5"></span>
  

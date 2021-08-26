@@ -1,6 +1,6 @@
 ---
 title: Concerto - Reggiano DOC - Medici Ermete
-description: 85 - 92 | Lambrusco Salamino 100% | Emilia (IT)
+description: 3★ - 5★ | Lambrusco Salamino 100% | Emilia (IT)
 published: true
 date: 2021-08-24T10:17:57.280Z
 tags: vino, rosso, varietale, frizzante, cotechino, cannelloni, coniglio in pancetta, gallinella all'acqua pazza, piadina con salsiccia, lambrusco salamino
@@ -17,6 +17,8 @@ dateCreated: 2021-08-18T10:27:11.126Z
 - **Produttore:** Medici Ermete 
 - **Composizione:** 100% [Lambrusco Salamino](/vitigni/bacca-nera/lambrusco-salamino)
 - **Affinamento:** 6 mesi in acciaio
+- **Alcol:** 11.5%
+- **Fascia di prezzo:** 5 - 9 €
 {.grid-list}
 
 ## Descrizione del produttore
@@ -37,8 +39,8 @@ dal grande equilibrio tra acidità e tannini.
 - Piadina con salamella e cipolle 
 
 ## Annate
-- [2016](/vini/Italia/Emilia/Medici-Ermete/Concerto/2016) -- 85/100
-- [2017](/vini/Italia/Emilia/Medici-Ermete/Concerto/2017) -- 87/100
-- [2018](/vini/Italia/Emilia/Medici-Ermete/Concerto/2018) -- 88/100
-- [2019](/vini/Italia/Emilia/Medici-Ermete/Concerto/2019) -- 92/100
+- Concerto [2016](/vini/Italia/Emilia/Medici-Ermete/Concerto/2016) -- <span class="star-3"></span>
+- Concerto [2017](/vini/Italia/Emilia/Medici-Ermete/Concerto/2017) -- <span class="star-3"></span>
+- Concerto [2018](/vini/Italia/Emilia/Medici-Ermete/Concerto/2018) -- <span class="star-3"></span>
+- Concerto [2019](/vini/Italia/Emilia/Medici-Ermete/Concerto/2019) -- <span class="star-5"></span>
 

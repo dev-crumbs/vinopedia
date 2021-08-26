@@ -1,6 +1,6 @@
 ---
 title: Monfort Rosé - Trento DOC - Cantine Monfort
-description: 87 | Pinot Noir + Chardonnay | Trentino (IT)
+description: 3★ | Pinot Noir + Chardonnay | Trentino (IT)
 published: true
 date: 2021-08-24T10:24:14.107Z
 tags: vino, blend, spumante, rosè, trento doc, trentino, metodo classico, gamberoni all'aceto balsamico, chardonnay, pinot nero, brut, tagliere di formaggi, sans annee
@@ -16,6 +16,8 @@ dateCreated: 2021-08-12T08:47:39.689Z
 - **Denominazione:** [Trento DOC](/denominazioni/Trentino/DOC/Trento)
 - **Produttore:** Cantine Monfort 
 - **Composizione:** 50% [Pinot Noir](/vitigni/bacca-nera/pinot-noir) - 50% [Chardonnay](/vitigni/bacca-bianca/chardonnay)
+- **Fascia di prezzo:** 25 - 29 €
+
 {.grid-list}
 
 ### Spumantizzazione
@@ -38,5 +40,5 @@ dateCreated: 2021-08-12T08:47:39.689Z
 > Per gli spumanti Sans Année le "annate" indicano esclusivamente gli anni in cui il vino è stato degustato.
 {.is-warning}
 
-- [2019](/vini/Italia/Trentino/Cantine-Monfort/Monfort-Rose/2019) -- 87/100
-- [2021](/vini/Italia/Trentino/Cantine-Monfort/Monfort-Rose/2021) -- 87/100
+- Monfort Rosé [2019](/vini/Italia/Trentino/Cantine-Monfort/Monfort-Rose/2019) -- <span class="star-3"></span>
+- Monfort Rosé [2021](/vini/Italia/Trentino/Cantine-Monfort/Monfort-Rose/2021) -- <span class="star-3"></span>

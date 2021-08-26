@@ -1,6 +1,6 @@
 ---
 title: Luigi e Giovanna – Orvieto Classico Superiore DOC – Barberani
-description: 93 - 96 | Grechetto 90% + Procanico 10% | Umbria (IT)
+description: 5★ | Grechetto 90% + Procanico 10% | Umbria (IT)
 published: true
 date: 2021-08-24T11:16:44.400Z
 tags: vino, bianco, blend, grechetto, procanico, italia, umbria, agnello in fricassea, cannelloni alla griglia con molluschi e besciamella di ostriche, lasagne con ragù di coda alla vaccinara, baccalà alla perugina, pollo alla diavola
@@ -17,7 +17,8 @@ dateCreated: 2021-08-24T11:16:41.742Z
 - **Produttore:** [Barberani](/produttori/Italia/Umbria/Barberani) 
 - **Composizione:** 90% [Grechetto](/vitigni/bacca-bianca/grechetto) + 90% [Procanico](/vitigni/bacca-bianca/trebbiano-toscano)
 - **Affinamento:** 12 mesi in botte grande 
-- **Fascia di prezzo:** 35 - 45 €
+- **Alcol:** 12.5%
+- **Fascia di prezzo:** 40 - 44 €
 {.grid-list}
 
 ## Descrizione del produttore
@@ -35,11 +36,11 @@ dateCreated: 2021-08-24T11:16:41.742Z
 - pollo alla diavola
 
 ## Annate
-- [2013](vini/Italia/Trentino/Poier-e-Sandri/Palai/2013) -- 93/100
-- [2014](vini/Italia/Trentino/Poier-e-Sandri/Palai/2014) -- 94/100
-- [2015](vini/Italia/Trentino/Poier-e-Sandri/Palai/2015) -- 95/100
-- [2016](vini/Italia/Trentino/Poier-e-Sandri/Palai/2016) -- 94/100
-- [2017](vini/Italia/Trentino/Poier-e-Sandri/Palai/2017) -- 96/100
+- Luigi e Giovanna [2013](vini/Italia/Trentino/Poier-e-Sandri/Palai/2013) -- <span class="star-5"></span>
+- Luigi e Giovanna [2014](vini/Italia/Trentino/Poier-e-Sandri/Palai/2014) -- <span class="star-5"></span>
+- Luigi e Giovanna [2015](vini/Italia/Trentino/Poier-e-Sandri/Palai/2015) -- <span class="star-5"></span>
+- Luigi e Giovanna [2016](vini/Italia/Trentino/Poier-e-Sandri/Palai/2016) -- <span class="star-5"></span>
+- Luigi e Giovanna [2017](vini/Italia/Trentino/Poier-e-Sandri/Palai/2017) -- <span class="star-5"></span>
 
 ## Note
 Il produttore dichira due sinonimi come nomi dei vitigni che compongono il blend: "[Grechetto](/vitigni/bacca-bianca/grechetto)" invece di "[Grechetto di Orvieto](/vitigni/bacca-bianca/grechetto-di-orvieto)" e "[Procanico](/vitigni/bacca-bianca/procanico)" invece di "[Trebbiano toscano](/vitigni/bacca-bianca/trebbiano-toscano)"

@@ -1,6 +1,6 @@
 ---
 title: Taber Riserva – Alto Adige Lagrein DOC – Cantina Bolzano
-description: 83 - 95 | Lagrein 100% | Alto Adige (IT)
+description: 2★ - 5★ | Lagrein 100% | Alto Adige (IT)
 published: true
 date: 2021-08-23T18:08:44.486Z
 tags: vino, italia, rosso, varietale, arrosto alla tirolese, gröstl, faraona lardellata, spezzatino di capriolo, lagrein, alto adige
@@ -17,7 +17,8 @@ dateCreated: 2021-08-23T09:13:09.952Z
 - **Produttore:** Cantina Bolzano 
 - **Composizione:** 100% [Lagrein](/vitigni/bacca-nera/lagrein)
 - **Affinamento:** 10 mesi in barrique 
-- **Fascia di prezzo:** 26 - 36 €
+- **Alcol:** 13.5%
+- **Fascia di prezzo:** 45 - 49 €
 {.grid-list}
 
 ## Descrizione del produttore
@@ -33,8 +34,8 @@ dateCreated: 2021-08-23T09:13:09.952Z
 - Faraona lardellata
 
 ## Annate
-- [2014](vini/italia/alto-adige/rossi/Taber-Riserva-Alto-Adige--Lagrein-DOC/Taber-Riserva-Alto-Adige--Lagrein-DOC-2014) -- 93/100
-- [2015](vini/italia/alto-adige/rossi/Taber-Riserva-Alto-Adige--Lagrein-DOC/Taber-Riserva-Alto-Adige--Lagrein-DOC-2015) -- 92/100
-- [2016](vini/italia/alto-adige/rossi/Taber-Riserva-Alto-Adige--Lagrein-DOC/Taber-Riserva-Alto-Adige--Lagrein-DOC-2016) -- 83/100
-- [2017](vini/italia/alto-adige/rossi/Taber-Riserva-Alto-Adige--Lagrein-DOC/Taber-Riserva-Alto-Adige--Lagrein-DOC-2016) -- 92/100
-- [2018](vini/italia/alto-adige/rossi/Taber-Riserva-Alto-Adige--Lagrein-DOC/Taber-Riserva-Alto-Adige--Lagrein-DOC-2014) -- 95/100
+- Taber [2014](vini/italia/alto-adige/rossi/Taber-Riserva-Alto-Adige--Lagrein-DOC/Taber-Riserva-Alto-Adige--Lagrein-DOC-2014) -- <span class="star-5"></span>
+- Taber [2015](vini/italia/alto-adige/rossi/Taber-Riserva-Alto-Adige--Lagrein-DOC/Taber-Riserva-Alto-Adige--Lagrein-DOC-2015) -- <span class="star-4"></span>
+- Taber [2016](vini/italia/alto-adige/rossi/Taber-Riserva-Alto-Adige--Lagrein-DOC/Taber-Riserva-Alto-Adige--Lagrein-DOC-2016) -- <span class="star-2"></span>
+- Taber [2017](vini/italia/alto-adige/rossi/Taber-Riserva-Alto-Adige--Lagrein-DOC/Taber-Riserva-Alto-Adige--Lagrein-DOC-2016) -- <span class="star-4"></span>
+- Taber [2018](vini/italia/alto-adige/rossi/Taber-Riserva-Alto-Adige--Lagrein-DOC/Taber-Riserva-Alto-Adige--Lagrein-DOC-2014) -- <span class="star-4"></span>

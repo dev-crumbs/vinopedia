@@ -1,6 +1,6 @@
 ---
 title: Palai – Vigneti delle Dolomiti IGT – Poier e Sandri
-description: 82 - 92 | Müller Thurgau 100% | Trentino (IT)
+description: 2★ - 5★ | Müller Thurgau 100% | Trentino (IT)
 published: true
 date: 2021-08-24T11:16:44.400Z
 tags: vino, bianco, italia, varietale, trentino, müller thurgau, spigola al cartoccio con patate
@@ -17,7 +17,7 @@ dateCreated: 2021-08-24T11:16:41.742Z
 - **Produttore:** [Poier e Sandri](/produttori/Italia/Trentino/Poier-e-Sandri) 
 - **Composizione:** 100% [Müller Thurgau](/vitigni/bacca-bianca/muller-thurgau)
 - **Affinamento:** 7 mesi in acciaio 
-- **Fascia di prezzo:** 9 - 16 €
+- **Fascia di prezzo:** 10 - 14 €
 {.grid-list}
 
 ## Descrizione del produttore
@@ -34,7 +34,7 @@ Non disdegna di essere offerto come aperitivo.
 - spigola al cartoccio con patate
 
 ## Annate
-- [2015](vini/Italia/Trentino/Poier-e-Sandri/Palai/2015) -- 82/100
-- [2016](vini/Italia/Trentino/Poier-e-Sandri/Palai/2016) -- 83/100
-- [2019](vini/Italia/Trentino/Poier-e-Sandri/Palai/2019) -- 92/100
+- Palai [2015](vini/Italia/Trentino/Poier-e-Sandri/Palai/2015) -- <span class="star-2"></span>
+- Palai [2016](vini/Italia/Trentino/Poier-e-Sandri/Palai/2016) -- <span class="star-2"></span>
+- Palai [2019](vini/Italia/Trentino/Poier-e-Sandri/Palai/2019) -- <span class="star-5"></span>
 

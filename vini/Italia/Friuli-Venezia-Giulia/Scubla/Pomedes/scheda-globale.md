@@ -17,7 +17,8 @@ dateCreated: 2021-08-24T11:31:20.502Z
 - **Produttore:** [Scubla](/produttori/Italia/Friuli-Venezia-Giulia/Scubla) 
 - **Composizione:** 70% [Pinot bianco](/vitigni/bacca-bianca/pinot-bianco) + 20% [Tocai friulano](/vitigni/bacca-bianca/tocai-friulano) + 10% [Riesling renano](/vitigni/bacca-bianca/riesling-renano)
 - **Affinamento:** 8 mesi in rovere france + 10 mesi in acciaio
-- **Fascia di prezzo:** 20 - 30 €
+- **Alcol:** 14%
+- **Fascia di prezzo:** 20 - 24 €
 {.grid-list}
 
 ## Descrizione del produttore
@@ -34,10 +35,10 @@ dateCreated: 2021-08-24T11:31:20.502Z
 - gnocchi tartufo e noci
 
 ## Annate
-- [2014](/vini/Italia/Friuli-Venezia-Giulia/Scubla/Pomedes/2014) -- <span class="star-4"></span>
-- [2015](/vini/Italia/Friuli-Venezia-Giulia/Scubla/Pomedes/2015) -- <span class="star-5"></span>
-- [2016](/vini/Italia/Friuli-Venezia-Giulia/Scubla/Pomedes/2016) -- <span class="star-5"></span>
-- [2017](/vini/Italia/Friuli-Venezia-Giulia/Scubla/Pomedes/2017) -- <span class="star-5"></span>
-- [2018](/vini/Italia/Friuli-Venezia-Giulia/Scubla/Pomedes/2018) -- <span class="star-5"></span>
+- Pomédes [2014](/vini/Italia/Friuli-Venezia-Giulia/Scubla/Pomedes/2014) -- <span class="star-4"></span>
+- Pomédes [2015](/vini/Italia/Friuli-Venezia-Giulia/Scubla/Pomedes/2015) -- <span class="star-5"></span>
+- Pomédes [2016](/vini/Italia/Friuli-Venezia-Giulia/Scubla/Pomedes/2016) -- <span class="star-5"></span>
+- Pomédes [2017](/vini/Italia/Friuli-Venezia-Giulia/Scubla/Pomedes/2017) -- <span class="star-5"></span>
+- Pomédes [2018](/vini/Italia/Friuli-Venezia-Giulia/Scubla/Pomedes/2018) -- <span class="star-5"></span>
 
 

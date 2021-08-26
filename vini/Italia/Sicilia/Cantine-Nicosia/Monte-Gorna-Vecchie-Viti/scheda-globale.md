@@ -1,6 +1,6 @@
 ---
 title: Monte Gorna Vecchie Viti – Etna Rosso Riserva DOC – Cantine Nicosia 
-description: 87 - 95 | Nerello Mascalese 90% + Nerello Cappuccio 10% | Sicilia (IT)
+description: 3★ - 5★ | Nerello Mascalese 90% + Nerello Cappuccio 10% | Sicilia (IT)
 published: true
 date: 2021-08-24T11:57:38.152Z
 tags: vino, italia, rosso, blend, sicilia, nerello mascalese, nerello cappuccio, pollo alla zingara, polenta con ragù di lepre, capretto alla sarda, agnello al timo con patate
@@ -18,7 +18,8 @@ dateCreated: 2021-08-24T11:55:59.971Z
 - **Produttore:** [Cantine Nicosia](/produttori/Italia/Sicilia/Cantine-Nicosia) 
 - **Composizione:** 90% [Nerello mascalese](/vitigni/bacca-nera/nerello-mascalese) + 10% [Nerello cappuccio](/vitigni/bacca-nera/nerello-cappuccio)
 - **Affinamento:** 24 mesi in barrique di rovere
-- **Fascia di prezzo:** 27 - 37 €
+- **Alcol:** 13.5%
+- **Fascia di prezzo:** 30 - 34 €
 {.grid-list}
 
 ## Descrizione del produttore
@@ -35,8 +36,8 @@ di secondo e terzo passaggio, ne completano il profilo gusto-olfattivo.
 - Agnello al timo con patate
 
 ## Annate
-- [2011](vini/Italia/Sicilia/Cantine-Nicosia/Monte-Gorna-Vecchie-Viti/2011) -- 87/100
-- [2012](vini/Italia/Sicilia/Cantine-Nicosia/Monte-Gorna-Vecchie-Viti/2012) -- 88/100
-- [2013](vini/Italia/Sicilia/Cantine-Nicosia/Monte-Gorna-Vecchie-Viti/2013) -- 86/100
-- [2014](vini/Italia/Sicilia/Cantine-Nicosia/Monte-Gorna-Vecchie-Viti/2014) -- 95/100
+- Monte Gorna Vecchie Viti [2011](vini/Italia/Sicilia/Cantine-Nicosia/Monte-Gorna-Vecchie-Viti/2011) -- <span class="star-3"></span>
+- Monte Gorna Vecchie Viti [2012](vini/Italia/Sicilia/Cantine-Nicosia/Monte-Gorna-Vecchie-Viti/2012) -- <span class="star-3"></span>
+- Monte Gorna Vecchie Viti [2013](vini/Italia/Sicilia/Cantine-Nicosia/Monte-Gorna-Vecchie-Viti/2013) -- <span class="star-3"></span>
+- Monte Gorna Vecchie Viti [2014](vini/Italia/Sicilia/Cantine-Nicosia/Monte-Gorna-Vecchie-Viti/2014) -- <span class="star-5"></span>
 
