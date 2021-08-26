@@ -1,6 +1,6 @@
 ---
 title: Pomédes – Friuli Colli Orientali DOC – Scubla
-description: 89 - 95 | Pinot bianco 60% + Tocai Friulano 30% + Riesling renano 10%| Lazio (IT)
+description: 4<span class="star"></span> - 5<span class="star"></span>| Pinot bianco 60% + Tocai Friulano 30% + Riesling renano 10%| Lazio (IT)
 published: true
 date: 2021-08-24T12:31:23.089Z
 tags: vino, italia, bianco, friuli venezia giulia, blend, pinot bianco, tocai friuliano, riesling renano, carpaccio di gamberi con burrata, agnolotti di ricotta e tartufo, gamberi al sale, astice alla catalana, gnocchi tartufo e noci
@@ -34,10 +34,10 @@ dateCreated: 2021-08-24T11:31:20.502Z
 - gnocchi tartufo e noci
 
 ## Annate
-- [2014](/vini/Italia/Friuli-Venezia-Giulia/Scubla/Pomedes/2014) -- 89/100
-- [2015](/vini/Italia/Friuli-Venezia-Giulia/Scubla/Pomedes/2015) -- 92/100
-- [2016](/vini/Italia/Friuli-Venezia-Giulia/Scubla/Pomedes/2016) -- 94/100
-- [2017](/vini/Italia/Friuli-Venezia-Giulia/Scubla/Pomedes/2017) -- 93/100
-- [2018](/vini/Italia/Friuli-Venezia-Giulia/Scubla/Pomedes/2018) -- 95/100
+- [2014](/vini/Italia/Friuli-Venezia-Giulia/Scubla/Pomedes/2014) -- <span class="star-4"></span>
+- [2015](/vini/Italia/Friuli-Venezia-Giulia/Scubla/Pomedes/2015) -- <span class="star-5"></span>
+- [2016](/vini/Italia/Friuli-Venezia-Giulia/Scubla/Pomedes/2016) -- <span class="star-5"></span>
+- [2017](/vini/Italia/Friuli-Venezia-Giulia/Scubla/Pomedes/2017) -- <span class="star-5"></span>
+- [2018](/vini/Italia/Friuli-Venezia-Giulia/Scubla/Pomedes/2018) -- <span class="star-5"></span>
 
 
