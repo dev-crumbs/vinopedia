@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-08-24T11:16:41.742Z
 ---
 
-# Malvasia
+# Palai
 
 ## Caratteristiche
 - **Nome:** Palai 
