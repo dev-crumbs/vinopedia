@@ -34,6 +34,6 @@ n.d.
 - Caciocavallo stagionato
 
 ## Annate
-- Vigna Cataratte [2009](/vini/Italia/Campania/Fontanavecchia/Vigna-Cataratte-Riserva/2009) -- <span class="star-5"></span>
-- Vigna Cataratte [2010](/vini/Italia/Campania/Fontanavecchia/Vigna-Cataratte-Riserva/2010) -- <span class="star-5"></span>
-- Vigna Cataratte [2015](vini/Italia/Campania/Fontanavecchia/Vigna-Cataratte-Riserva/2015) -- <span class="star-5"></span> 
+- Vigna Cataratte [2009](/vini/Italia/Campania/Fontanavecchia/Vigna-Cataratte-Riserva/2009) -- <span class="star-5"></span> -- 95/100
+- Vigna Cataratte [2010](/vini/Italia/Campania/Fontanavecchia/Vigna-Cataratte-Riserva/2010) -- <span class="star-5"></span> -- 92/100
+- Vigna Cataratte [2015](/vini/Italia/Campania/Fontanavecchia/Vigna-Cataratte-Riserva/2015) -- <span class="star-5"></span> -- 96/100

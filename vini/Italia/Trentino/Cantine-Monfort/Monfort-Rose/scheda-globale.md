@@ -40,5 +40,5 @@ dateCreated: 2021-08-12T08:47:39.689Z
 > Per gli spumanti Sans Année le "annate" indicano esclusivamente gli anni in cui il vino è stato degustato.
 {.is-warning}
 
-- Monfort Rosé [2019](/vini/Italia/Trentino/Cantine-Monfort/Monfort-Rose/2019) -- <span class="star-3"></span>
-- Monfort Rosé [2021](/vini/Italia/Trentino/Cantine-Monfort/Monfort-Rose/2021) -- <span class="star-3"></span>
+- Monfort Rosé [2019](/vini/Italia/Trentino/Cantine-Monfort/Monfort-Rose/2019) -- <span class="star-3"></span> -- 87/100
+- Monfort Rosé [2021](/vini/Italia/Trentino/Cantine-Monfort/Monfort-Rose/2021) -- <span class="star-3"></span> -- 87/100

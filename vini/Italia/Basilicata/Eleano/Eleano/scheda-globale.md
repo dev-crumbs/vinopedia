@@ -33,8 +33,8 @@ dateCreated: 2021-08-23T07:36:55.405Z
 - Lombata di maiale al tartufo
 
 ## Annate
-- Eleano [2013](/vini/Italia/Basilicata/Eleano/Eleano/2013) -- <span class="star-4"></span>
-- Eleano [2015](/vini/Italia/Basilicata/Eleano/Eleano/2015) -- <span class="star-5"></span>
-- Eleano [2016](/vini/Italia/Basilicata/Eleano/Eleano/2016) -- <span class="star-5"></span>
-- Eleano [2017](/vini/Italia/Basilicata/Eleano/Eleano/2017) -- <span class="star-5"></span>
+- Eleano [2013](/vini/Italia/Basilicata/Eleano/Eleano/2013) -- <span class="star-4"></span> -- 89/100
+- Eleano [2015](/vini/Italia/Basilicata/Eleano/Eleano/2015) -- <span class="star-5"></span> -- 97/100
+- Eleano [2016](/vini/Italia/Basilicata/Eleano/Eleano/2016) -- <span class="star-5"></span> -- 95/100
+- Eleano [2017](/vini/Italia/Basilicata/Eleano/Eleano/2017) -- <span class="star-5"></span> -- 95/100 
  

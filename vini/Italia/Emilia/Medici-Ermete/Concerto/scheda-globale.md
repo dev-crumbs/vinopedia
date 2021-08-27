@@ -39,8 +39,8 @@ dal grande equilibrio tra acidità e tannini.
 - Piadina con salamella e cipolle 
 
 ## Annate
-- Concerto [2016](/vini/Italia/Emilia/Medici-Ermete/Concerto/2016) -- <span class="star-3"></span>
-- Concerto [2017](/vini/Italia/Emilia/Medici-Ermete/Concerto/2017) -- <span class="star-3"></span>
-- Concerto [2018](/vini/Italia/Emilia/Medici-Ermete/Concerto/2018) -- <span class="star-3"></span>
-- Concerto [2019](/vini/Italia/Emilia/Medici-Ermete/Concerto/2019) -- <span class="star-5"></span>
+- Concerto [2016](/vini/Italia/Emilia/Medici-Ermete/Concerto/2016) -- <span class="star-3"></span> -- 85/100
+- Concerto [2017](/vini/Italia/Emilia/Medici-Ermete/Concerto/2017) -- <span class="star-3"></span> -- 87/100
+- Concerto [2018](/vini/Italia/Emilia/Medici-Ermete/Concerto/2018) -- <span class="star-3"></span> -- 88/100
+- Concerto [2019](/vini/Italia/Emilia/Medici-Ermete/Concerto/2019) -- <span class="star-5"></span> -- 92/100
 
