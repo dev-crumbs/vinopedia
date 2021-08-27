@@ -13,8 +13,8 @@ dateCreated: 2021-08-23T09:13:09.952Z
 ## Caratteristiche
 - **Nome:** Taber Riserva
 - **Tipologia:** Rosso fermo 
-- **Denominazione:** Alto Adige Lagrein DOC
-- **Produttore:** Cantina Bolzano 
+- **Denominazione:** [Alto Adige Lagrein DOC](/denominazioni/Italia/Alto-Adige/DOC/Alto-Adige-Lagrein)
+- **Produttore:** [Cantina Bolzano](/produttori/Italia/Alto-Adite/Cantina-Bolzano) 
 - **Composizione:** 100% [Lagrein](/vitigni/bacca-nera/lagrein)
 - **Affinamento:** 10 mesi in barrique 
 - **Alcol:** 13.5%

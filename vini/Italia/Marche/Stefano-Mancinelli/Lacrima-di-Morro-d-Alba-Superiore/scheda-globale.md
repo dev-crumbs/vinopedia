@@ -1,6 +1,6 @@
 ---
 title: Lacrima di Morro d'Alba Superiore – Lacrima di Morro DOC – Stefano Mancinelli
-description: 3★ - 5★ | Lacrima 100% | Marche (IT)
+description: 3★ - 5★ | Lacrima di Morro d'Alba 100% | Marche (IT)
 published: true
 date: 2021-08-24T12:31:23.089Z
 tags: vino, italia, rosso, marche, varietale, lacrima, lombata di manzo in salsa di prugne rosse, pollo alla cacciatora, bocconcini di manzo ai porcini, filetto di manzo in crosta
@@ -15,7 +15,7 @@ dateCreated: 2021-08-24T11:31:20.502Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Lacrima di morro DOC](/denominazioni/Italia/Marche/DOC/Lacrima-di-morro) (Superiore)
 - **Produttore:** [Stefano Mancinelli](/produttori/Italia/Marche/Stefano-Mancinelli) 
-- **Composizione:** 100% [Lacrima](/vitigni/bacca-nera/lacrima)
+- **Composizione:** 100% [Lacrima di Morro d'Alba](/vitigni/bacca-nera/lacrima-di-morro-d-alba)
 - **Affinamento:** 6 mesi in acciaio
 - **Alcol:** 13.5%
 - **Fascia di prezzo:** 15 - 19 €

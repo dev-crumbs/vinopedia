@@ -15,7 +15,7 @@ dateCreated: 2021-08-24T11:16:41.742Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Veneto IGT](/denominazioni/Italia/Veneto/IGT/Veneto) 
 - **Produttore:** [Lo Triolet](/produttori/Italia/Venissa/Venissa) 
-- **Composizione:** 100% [Pinto Grigio](/vitigni/bacca-bianca/dorona) 
+- **Composizione:** 100% [Dorona](/vitigni/bacca-bianca/dorona) 
 - **Affinamento:** 36 mesi in cemento 
 - **Alcol:** 13%
 - **Fascia di prezzo:** 150 - 200 €
