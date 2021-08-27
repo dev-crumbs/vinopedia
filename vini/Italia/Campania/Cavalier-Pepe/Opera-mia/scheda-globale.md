@@ -34,8 +34,8 @@ dateCreated: 2021-08-11T15:27:13.077Z
 - Pancetta di agnello farcita
 
 ## Annate
-- [2010](/vini/Italia/Campania/Cavalier-Pepe/Opera-mia/2010) -- <span class="star-4"></span>
-- [2012](/vini/Italia/Campania/Cavalier-Pepe/Opera-mia/2012) -- <span class="star-3"></span>
-- [2013](/vini/Italia/Campania/Cavalier-Pepe/Opera-mia/2013) -- <span class="star-3"></span>
-- [2014](/vini/Italia/Campania/Cavalier-Pepe/Opera-mia/2014) -- <span class="star-5"></span>
+- [2010](/vini/Italia/Campania/Cavalier-Pepe/Opera-mia/2010) -- <span class="star-4"></span> -- 90/100
+- [2012](/vini/Italia/Campania/Cavalier-Pepe/Opera-mia/2012) -- <span class="star-3"></span> -- 86/100
+- [2013](/vini/Italia/Campania/Cavalier-Pepe/Opera-mia/2013) -- <span class="star-3"></span> -- 88/100
+- [2014](/vini/Italia/Campania/Cavalier-Pepe/Opera-mia/2014) -- <span class="star-5"></span> -- 90/100
  
