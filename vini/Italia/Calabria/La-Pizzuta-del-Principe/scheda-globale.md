@@ -1,9 +1,9 @@
 ---
-title: Zingamaro - Val di Neto Rosso IGP - La Pizzuta del Principe
+title: Zingamaro - Val di Neto Rosso IGT - La Pizzuta del Principe
 description: 3★ - 5★ | Greco nero 100% | Calabria (IT)
 published: true
 date: 2021-08-24T10:19:50.562Z
-tags: vino, italia, rosso, varietale, greco nero, calabria, filetto di maiale al miele, filetto di manzo in crosta, pasticcio di carne, mezze maniche al ragù
+tags: vino, rosso, fermo, varietale, greco nero, italia, calabria, filetto di maiale al miele, filetto di manzo in crosta, pasticcio di carne, mezze maniche al ragù, 15 - 19€, 5 stelle
 editor: markdown
 dateCreated: 2021-08-23T12:22:31.894Z
 ---
@@ -13,7 +13,7 @@ dateCreated: 2021-08-23T12:22:31.894Z
 ## Caratteristiche
 - **Nome:** Zingamaro
 - **Tipologia:** Rosso fermo
-- **Denominazione:** [Val di Neto Rosso IGP](/denominazioni/Italia/Calabria/IGP/Val-di-Neto-Rosso)
+- **Denominazione:** [Val di Neto Rosso IGT](/denominazioni/Italia/Calabria/IGT/Val-di-Neto-Rosso)
 - **Produttore:** [La Pizzuta del Principe](/produttori/Italia/Calabria/La-Pizzuta-del-Principe)
 - **Composizione:** 100% [Greco nero](/vitigni/bacca-nera/greco-nero)
 - **Affinamento:** 18 mesi tra acciaio e botte grande di rovere

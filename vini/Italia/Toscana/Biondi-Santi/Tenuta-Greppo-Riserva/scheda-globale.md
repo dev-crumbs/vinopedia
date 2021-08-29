@@ -3,7 +3,7 @@ title: Tenuta Greppo Riserva – Brunello di Montalcino DOCG – Biondi Santi
 description: 5★ | Sangiovese 100% | Toscana (IT)
 published: true
 date: 2021-08-24T11:57:38.152Z
-tags: vino, rosso, varietale, sangiovese, italia, toscana, pernice ai porcini speck e castagne, terrina di beccaccia, filetto di kobe al tartufo bianco
+tags: vino, rosso, fermo, varietale, sangiovese, italia, toscana, pernice ai porcini speck e castagne, terrina di beccaccia, filetto di kobe al tartufo bianco, > 450 €, 5 stelle
 
 editor: markdown
 dateCreated: 2021-08-24T11:55:59.971Z
@@ -14,12 +14,12 @@ dateCreated: 2021-08-24T11:55:59.971Z
 ## Caratteristiche
 - **Nome:** Tenuta Greppo Riserva
 - **Tipologia:** Rosso fermo
-- **Denominazione:** [Brunello di Montalcino DOCG](/denominazioni/Italia/Toscana/DOCG/Brunello di Montalcino) (Riserva)
+- **Denominazione:** [Brunello di Montalcino DOCG](/denominazioni/Italia/Toscana/DOCG/Brunello-di-Montalcino) (Riserva)
 - **Produttore:** [Biondi Santi](/produttori/Italia/Toscana/Biondi-Santi) 
 - **Composizione:** 100% [Sangiovese](/vitigni/bacca-nera/sangiovese)
 - **Affinamento:** 36 mesi in botte grande + periodo variabile in bottiglia per annata
 - **Alcol:** 13.5%
-- **Fascia di prezzo:** a partire da 450 € 
+- **Fascia di prezzo:** > 450 € 
 {.grid-list}
 
 ## Descrizione del produttore
@@ -37,6 +37,6 @@ dateCreated: 2021-08-24T11:55:59.971Z
 - filetto di kobe al tartufo bianco
 
 ## Annate
-- Brunello di Montalcino Tenuta Greppo Riserva [2010](vini/Italia/Toscana/Biondi-Santi/Tenuta-Greppo/Riserva/2010) -- <span class="star-5"></span>
-- Brunello di Montalcino Tenuta Greppo Riserva [2011](vini/Italia/Toscana/Biondi-Santi/Tenuta-Greppo/Riserva/2011) -- <span class="star-5"></span>
-- Brunello di Montalcino Tenuta Greppo Riserva [2012](vini/Italia/Toscana/Biondi-Santi/Tenuta-Greppo/Riserva/2012) -- <span class="star-5"></span>
+- Brunello di Montalcino Tenuta Greppo Riserva [2010](vini/Italia/Toscana/Biondi-Santi/Tenuta-Greppo-Riserva/2010) -- <span class="star-5"></span>
+- Brunello di Montalcino Tenuta Greppo Riserva [2011](vini/Italia/Toscana/Biondi-Santi/Tenuta-Greppo-Riserva/2011) -- <span class="star-5"></span>
+- Brunello di Montalcino Tenuta Greppo Riserva [2012](vini/Italia/Toscana/Biondi-Santi/Tenuta-Greppo-Riserva/2012) -- <span class="star-5"></span>

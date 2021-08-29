@@ -3,7 +3,7 @@ title: Caecubum
 description: Vino antico citato da Orazio e Plinio il vecchio
 published: true
 date: 2021-07-30T16:27:17.575Z
-tags: vino, bianco, antico
+tags: vino, bianco, fermo,antico
 editor: markdown
 dateCreated: 2021-07-30T16:27:15.081Z
 ---

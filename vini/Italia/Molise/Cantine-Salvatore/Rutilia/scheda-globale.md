@@ -3,7 +3,7 @@ title: Rutilia – Tintilia del Molise DOC – Cantine Salvatore
 description: 4★ - 5★ | Tintilia del Molise 100% | Molise (IT)
 published: true
 date: 2021-08-24T12:31:23.089Z
-tags: vino, rosso, varietale, tintilia, italia, molise, cotechino al sugo, cotechino in crosta, quaglie guanciale e tartufo, formaggi stagionati
+tags: vino, rosso, fermo, varietale, tintilia, italia, molise, cotechino al sugo, cotechino in crosta, quaglie guanciale e tartufo, formaggi stagionati, 15 - 19€, 5 stelle
 editor: markdown
 dateCreated: 2021-08-24T11:31:20.502Z
 ---

@@ -3,7 +3,7 @@ title: Monte Gorna Vecchie Viti – Etna Rosso Riserva DOC – Cantine Nicosia
 description: 3★ - 5★ | Nerello Mascalese 90% + Nerello Cappuccio 10% | Sicilia (IT)
 published: true
 date: 2021-08-24T11:57:38.152Z
-tags: vino, italia, rosso, blend, sicilia, nerello mascalese, nerello cappuccio, pollo alla zingara, polenta con ragù di lepre, capretto alla sarda, agnello al timo con patate
+tags: vino, italia, rosso, blend, sicilia, nerello mascalese, nerello cappuccio, pollo alla zingara, polenta con ragù di lepre, capretto alla sarda, agnello al timo con patate, 30 - 34€, 5 stelle
 editor: markdown
 dateCreated: 2021-08-24T11:55:59.971Z
 ---

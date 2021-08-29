@@ -3,7 +3,7 @@ title: Venissa Bianco – Veneto IGT – Venissa
 description: 5★ | Dorona 100% | Veneto (IT)
 published: true
 date: 2021-08-24T11:16:44.400Z
-tags: vino, bianco, varietale, dorona, italia, veneto, baccalà mantecato
+tags: vino, bianco, fermo, varietale, dorona, italia, veneto, baccalà mantecato, 150 - 200€, 5 stelle
 editor: markdown
 dateCreated: 2021-08-24T11:16:41.742Z
 ---

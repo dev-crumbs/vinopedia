@@ -3,7 +3,7 @@ title: Monfort Rosé - Trento DOC - Cantine Monfort
 description: 3★ | Pinot Noir + Chardonnay | Trentino (IT)
 published: true
 date: 2021-08-24T10:24:14.107Z
-tags: vino, blend, spumante, rosè, trento doc, trentino, metodo classico, gamberoni all'aceto balsamico, chardonnay, pinot nero, brut, tagliere di formaggi, sans annee
+tags: vino, blend, spumante, rosè, trento doc, trentino, metodo classico, gamberoni all'aceto balsamico, chardonnay, pinot nero, brut, tagliere di formaggi, sans annee, 25 - 29€, 3 stelle
 editor: markdown
 dateCreated: 2021-08-12T08:47:39.689Z
 ---

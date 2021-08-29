@@ -3,7 +3,7 @@ title: Concerto - Reggiano DOC - Medici Ermete
 description: 3★ - 5★ | Lambrusco Salamino 100% | Emilia (IT)
 published: true
 date: 2021-08-24T10:17:57.280Z
-tags: vino, rosso, varietale, frizzante, cotechino, cannelloni, coniglio in pancetta, gallinella all'acqua pazza, piadina con salsiccia, lambrusco salamino
+tags: vino, rosso, varietale, frizzante, cotechino, cannelloni, coniglio in pancetta, gallinella all'acqua pazza, piadina con salsiccia, lambrusco salamino, 5 - 9€, 5 stelle
 editor: markdown
 dateCreated: 2021-08-18T10:27:11.126Z
 ---

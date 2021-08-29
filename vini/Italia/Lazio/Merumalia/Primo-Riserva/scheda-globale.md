@@ -3,7 +3,7 @@ title: Primo Riserva – Frascati Superiore Riserva DOCG – Merumalia
 description: 3★ - 5★ | Malvasia puntinata 70% + Greco 20% + Bombino bianco 10%| Lazio (IT)
 published: true
 date: 2021-08-24T12:31:23.089Z
-tags: vino, italia, bianco, lazio, blend, malvasia puntinata, greco, bombino bianco, cernia in salsa di pistacchi, spaghetti tonno e bottarga, tartare di ricciola con stracciatella di bufala, salmone arrosto con asparagi e salsa olandese, linguine con asparagi e gamberi in salsa di cannellini
+tags: vino, bianco, fermo, blend, malvasia puntinata, greco, bombino bianco, italia, lazio, cernia in salsa di pistacchi, spaghetti tonno e bottarga, tartare di ricciola con stracciatella di bufala, salmone arrosto con asparagi e salsa olandese, linguine con asparagi e gamberi in salsa di cannellini, 15 - 19€, 5 stelle
 editor: markdown
 dateCreated: 2021-08-24T11:31:20.502Z
 ---

@@ -3,7 +3,7 @@ title: Lacrima di Morro d'Alba Superiore – Lacrima di Morro DOC – Stefano Ma
 description: 3★ - 5★ | Lacrima di Morro d'Alba 100% | Marche (IT)
 published: true
 date: 2021-08-24T12:31:23.089Z
-tags: vino, italia, rosso, marche, varietale, lacrima, lombata di manzo in salsa di prugne rosse, pollo alla cacciatora, bocconcini di manzo ai porcini, filetto di manzo in crosta
+tags: vino, italia, rosso, marche, varietale, lacrima, lombata di manzo in salsa di prugne rosse, pollo alla cacciatora, bocconcini di manzo ai porcini, filetto di manzo in crosta, 15 - 19€, 5 stelle
 editor: markdown
 dateCreated: 2021-08-24T11:31:20.502Z
 ---

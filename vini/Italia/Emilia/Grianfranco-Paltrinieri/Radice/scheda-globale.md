@@ -3,7 +3,7 @@ title: Lambrusco di Sorbara Radice – Lambrusco di Sorbara DOC – Gianfranco P
 description: 3★ - 5★ | Lambrusco di Sorbara 100% | Emilia (IT)
 published: true
 date: 2021-08-24T12:31:23.089Z
-tags: vino, italia, rosato, spumante, metodo ancestrale, emilia, varietale, lambrusco di sorbara, maltagliati di farina di castagne, gamberi lardellati, catalana di crostacei
+tags: vino, italia, rosato, spumante, metodo ancestrale, emilia, varietale, lambrusco di sorbara, maltagliati di farina di castagne, gamberi lardellati, catalana di crostacei, 10 - 14€, 5 stelle
 editor: markdown
 dateCreated: 2021-08-24T11:31:20.502Z
 ---
