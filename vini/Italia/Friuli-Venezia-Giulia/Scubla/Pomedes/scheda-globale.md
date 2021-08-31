@@ -3,7 +3,7 @@ title: Pomédes – Friuli Colli Orientali DOC – Scubla
 description: 4★ - 5★ | Pinot bianco 60% + Tocai Friulano 30% + Riesling renano 10%| Friuli Venezia Giulia (IT)
 published: true
 date: 2021-08-24T12:31:23.089Z
-tags: vino, italia, bianco, friuli venezia giulia, blend, pinot bianco, tocai friuliano, riesling renano, carpaccio di gamberi con burrata, agnolotti di ricotta e tartufo, gamberi al sale, astice alla catalana, gnocchi tartufo e noci, 20 - 24€, 5 stelle
+tags: vino, bianco, fermo, blend, pinot bianco, tocai friuliano, riesling renano, italia, friuli venezia giulia, carpaccio di gamberi con burrata, agnolotti di ricotta e tartufo, gamberi al sale, astice alla catalana, gnocchi tartufo e noci, 20 - 24€, 5 stelle
 editor: markdown
 dateCreated: 2021-08-24T11:31:20.502Z
 ---
@@ -16,7 +16,7 @@ dateCreated: 2021-08-24T11:31:20.502Z
 - **Denominazione:** [Friuli Colli Orientali DOC](/denominazioni/Italia/Friuli-Venezia-Giulia/DOC/Friuli-Colli-Orientali) (Riserva)
 - **Produttore:** [Scubla](/produttori/Italia/Friuli-Venezia-Giulia/Scubla) 
 - **Composizione:** 70% [Pinot bianco](/vitigni/bacca-bianca/pinot-bianco) + 20% [Tocai friulano](/vitigni/bacca-bianca/tocai-friulano) + 10% [Riesling renano](/vitigni/bacca-bianca/riesling-renano)
-- **Affinamento:** 8 mesi in rovere france + 10 mesi in acciaio
+- **Affinamento:** 8 mesi in rovere francese + 10 mesi in acciaio
 - **Alcol:** 14%
 - **Fascia di prezzo:** 20 - 24 €
 {.grid-list}
@@ -35,10 +35,14 @@ dateCreated: 2021-08-24T11:31:20.502Z
 - gnocchi tartufo e noci
 
 ## Annate
-- Pomédes [2014](/vini/Italia/Friuli-Venezia-Giulia/Scubla/Pomedes/2014) -- <span class="star-4"></span>
-- Pomédes [2015](/vini/Italia/Friuli-Venezia-Giulia/Scubla/Pomedes/2015) -- <span class="star-5"></span>
-- Pomédes [2016](/vini/Italia/Friuli-Venezia-Giulia/Scubla/Pomedes/2016) -- <span class="star-5"></span>
-- Pomédes [2017](/vini/Italia/Friuli-Venezia-Giulia/Scubla/Pomedes/2017) -- <span class="star-5"></span>
-- Pomédes [2018](/vini/Italia/Friuli-Venezia-Giulia/Scubla/Pomedes/2018) -- <span class="star-5"></span>
+- Pomédes [2014](/vini/Italia/Friuli-Venezia-Giulia/Scubla/Pomedes/2014) -- <span class="star-4"></span> -- 90/100
+- Pomédes [2015](/vini/Italia/Friuli-Venezia-Giulia/Scubla/Pomedes/2015) -- <span class="star-5"></span> -- 93/100
+- Pomédes [2016](/vini/Italia/Friuli-Venezia-Giulia/Scubla/Pomedes/2016) -- <span class="star-5"></span> -- 94/100
+- Pomédes [2017](/vini/Italia/Friuli-Venezia-Giulia/Scubla/Pomedes/2017) -- <span class="star-5"></span> -- 94/100
+- Pomédes [2018](/vini/Italia/Friuli-Venezia-Giulia/Scubla/Pomedes/2018) -- <span class="star-5"></span> -- 95/100
+
+
+## Note
+Nonostante il divieto dell'Unione Europea di utilizzare il nome "Tocai", come sinonimo del [Sauvignonasse](/vitigni/bacca-bianca/sauvignonasse) il produttore indica il secondo dei tre vitigni che compongono il blend come "Tocai friulano" sul proprio sito e sulla scheda tecnica.  
 
 

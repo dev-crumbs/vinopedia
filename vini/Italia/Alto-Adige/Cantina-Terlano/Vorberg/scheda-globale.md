@@ -1,9 +1,9 @@
 ---
-title: Vorgerg - Alto Adige Terlano Riserva DOC - Cantina Terlano
-description: 5★ | Pinot bianco 100% | Alto-Adige (IT)
+title: Vorberg - Alto Adige Terlano Riserva DOC - Cantina Terlano
+description: 3★ - 5★ | Pinot bianco 100% | Alto-Adige (IT)
 published: true
 date: 2021-08-24T09:41:19.364Z
-tags: vino, bianco, fermo, varietale, chardonnay, italia, alto-adige, bocconcini di coda di rospo all'arancia, 25 - 29€, 5 stelle
+tags: vino, bianco, fermo, varietale, pinot bianco, italia, alto-adige, bocconcini di coda di rospo all'arancia, gran fritto misto alla bolognese, ravioli burro e salvia, 25 - 29€, 5 stelle
 editor: markdown
 dateCreated: 2021-08-23T07:36:55.405Z
 ---
@@ -30,6 +30,8 @@ dateCreated: 2021-08-23T07:36:55.405Z
 *Vedere le singole annate per abbinamenti specifici*
 
 - bocconcini di coda di rospo all'arancia
+- gran fritto misto alla bolognese (parte salata)
+- ravioli burro e salvia
 
 ## Annate
 - Vorberg [2013](/vini/Italia/Alto-Adige/Cantina-Terlano/Vorberg/2013) -- <span class="star-4"></span> -- 89/100
@@ -37,5 +39,5 @@ dateCreated: 2021-08-23T07:36:55.405Z
 - Vorberg [2015](/vini/Italia/Alto-Adige/Cantina-Terlano/Vorberg/2015) -- <span class="star-4"></span> -- 89/100
 - Vorberg [2016](/vini/Italia/Alto-Adige/Cantina-Terlano/Vorberg/2016) -- <span class="star-5"></span> -- 94/100  
 - Vorberg [2017](/vini/Italia/Alto-Adige/Cantina-Terlano/Vorberg/2017) -- <span class="star-3"></span> -- 87/100
- 
+- Vorberg [2018](/vini/Italia/Alto-Adige/Cantina-Terlano/Vorberg/2018) -- <span class="star-5"></span> -- 91/100 
  

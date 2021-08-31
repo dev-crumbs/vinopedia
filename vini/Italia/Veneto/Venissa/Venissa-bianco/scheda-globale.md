@@ -32,4 +32,4 @@ dateCreated: 2021-08-24T11:16:41.742Z
 - baccalà mantecato
 
 ## Annate
-- Venissa Bianco [2015](vini/Italia/Veneto/Venissa/Venissa-Bianco/2015) -- <span class="star-5"></span> -- 95
+- Venissa Bianco [2015](vini/Italia/Veneto/Venissa/Venissa-Bianco/2015) -- <span class="star-5"></span> -- 95/100
