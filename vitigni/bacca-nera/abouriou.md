@@ -3,7 +3,7 @@ title: Abouriou
 description: Varietà in declino tipica del sud-est della Francia. Produce vini spiccatamente tannici
 published: true
 date: 2021-08-08T09:47:15.231Z
-tags: vitigno, bacca nera, francia, lot-et-garonne
+tags: vitigno, bacca nera
 editor: markdown
 dateCreated: 2021-08-02T16:43:51.084Z
 ---

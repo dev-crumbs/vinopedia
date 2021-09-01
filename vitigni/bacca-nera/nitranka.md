@@ -3,7 +3,7 @@ title: Nitranka
 description: Incrocio slovacca autorizzata di recente e sempre più popolare.
 published: true
 date: 2021-08-08T09:47:15.231Z
-tags: vitigno, bacca nera, slovacchia
+tags: vitigno, bacca nera
 editor: markdown
 dateCreated: 2021-08-08T06:26:57.251Z
 ---

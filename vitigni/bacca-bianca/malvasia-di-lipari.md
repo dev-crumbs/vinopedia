@@ -3,7 +3,7 @@ title: Malvasia di Lipari
 description: Varietà molto diffusa usata per una vasta gamma di vini generalmente dolci, spesso con la tecnica dell'appassimento.
 published: true
 date: 2021-08-19T12:08:28.940Z
-tags: vitigno, italia, bacca bianca, sicilia
+tags: vitigno, bacca bianca, sicilia
 editor: markdown
 dateCreated: 2021-08-19T05:47:55.918Z
 ---

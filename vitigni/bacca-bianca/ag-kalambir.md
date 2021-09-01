@@ -3,7 +3,7 @@ title: Ag Kalambir
 description: Vitigno dell'Azerbaijan
 published: true
 date: 2021-08-10T16:12:11.635Z
-tags: vitigno, bacca bianca, azerbaijan
+tags: vitigno, bacca bianca
 editor: markdown
 dateCreated: 2021-08-10T16:12:09.151Z
 ---

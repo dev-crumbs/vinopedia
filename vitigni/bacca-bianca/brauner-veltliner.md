@@ -3,7 +3,7 @@ title: Brauner Veltliner
 description: Austriaco quasi estinto, non collegato al Roter Veltliner.
 published: true
 date: 2021-08-22T18:38:50.320Z
-tags: vitigno, bacca nera, austria
+tags: vitigno, bacca nera
 editor: markdown
 dateCreated: 2021-08-22T16:30:09.002Z
 ---

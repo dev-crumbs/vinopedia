@@ -3,7 +3,7 @@ title: Chardonnay
 description: Varietà bianca internazionale molto popolare, versatile e ampiamente piantata, ugualmente capace di mediocrità estrema e di splendore regale.
 published: true
 date: 2021-08-21T14:53:07.569Z
-tags: vitigno, francia, internazionale, bacca bianca
+tags: vitigno, bacca bianca
 editor: markdown
 dateCreated: 2021-08-12T13:03:36.271Z
 ---

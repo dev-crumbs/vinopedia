@@ -3,7 +3,7 @@ title: Enantio
 description: Nome ufficiale abbastanza recente per una varietà trentina un tempo chiamata Lambrusco a Foglia Frastagliata.
 published: true
 date: 2021-08-23T09:22:13.596Z
-tags: vitigno, bacca nera, italia, trentino
+tags: vitigno, bacca nera
 editor: markdown
 dateCreated: 2021-08-18T12:08:28.196Z
 ---

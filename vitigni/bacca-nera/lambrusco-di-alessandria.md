@@ -3,7 +3,7 @@ title: Lambrusca di Alessandria
 description: Varietà adattabile ma minore dalla buccia scura coltivata in alcune parti del Piemonte, Italia nord-occidentale, e generalmente utilizzata in blend.
 published: true
 date: 2021-08-21T09:35:51.449Z
-tags: vitigno, bacca nera, italia, piemonte
+tags: vitigno, bacca nera
 editor: markdown
 dateCreated: 2021-08-18T13:17:10.983Z
 ---

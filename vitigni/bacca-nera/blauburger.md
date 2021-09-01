@@ -3,7 +3,7 @@ title: Blauburger
 description: Incrocio austriaca leggera ma dal colore intenso, utilizzato in blend.
 published: true
 date: 2021-08-22T18:22:01.704Z
-tags: vitigno, bacca nera, austria
+tags: vitigno, bacca nera
 editor: markdown
 dateCreated: 2021-08-22T15:35:40.751Z
 ---

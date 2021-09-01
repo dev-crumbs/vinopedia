@@ -3,7 +3,7 @@ title: Nebbiolo
 description: L'uva da vino più venerata del Piemonte, probabilmente d'Italia; varietà molto antica capace di produrre vini profumati, espressivi e di grande bellezza.
 published: true
 date: 2021-08-21T09:35:51.449Z
-tags: vitigno, bacca nera, italia, piemonte
+tags: vitigno, bacca nera
 editor: markdown
 dateCreated: 2021-08-19T14:34:09.161Z
 ---

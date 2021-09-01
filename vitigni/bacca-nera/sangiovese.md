@@ -3,7 +3,7 @@ title: Sangiovese
 description: La varietà a bacca nera più diffusa in Italia. Grandissima varietà di nomi, storie e stili di vino.
 published: true
 date: 2021-08-21T13:36:40.342Z
-tags: vitigno, bacca nera, italia, toscana, romagna
+tags: vitigno, bacca nera
 editor: markdown
 dateCreated: 2021-08-10T17:51:49.222Z
 ---

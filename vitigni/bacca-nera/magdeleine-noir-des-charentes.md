@@ -3,7 +3,7 @@ title: Magdeleine Noir des Charentes
 description: Varietà di origine Croata che ha trovato grande successo nel sud Italia e in California, capace di produrre vini tra i più robusti al mondo 
 published: true
 date: 2021-08-09T08:38:57.782Z
-tags: vitigno, bacca nera, francia
+tags: vitigno, bacca nera
 editor: markdown
 dateCreated: 2021-08-07T12:35:53.573Z
 ---

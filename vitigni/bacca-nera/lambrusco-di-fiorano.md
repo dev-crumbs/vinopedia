@@ -3,7 +3,7 @@ title: Lambrusco di Fiorano
 description: Oscura varietà emiliano-romagnola molto localizzata e non collegata ad altri Lambruschi.
 published: true
 date: 2021-08-18T12:15:45.230Z
-tags: vitigno, bacca nera, italia, emilia
+tags: vitigno, bacca nera
 editor: markdown
 dateCreated: 2021-08-18T12:15:42.728Z
 ---

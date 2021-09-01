@@ -3,7 +3,7 @@ title: Zweigelt
 description: L'uva da vino rosso più comune in Austria che produce vini sodi e corposi se le rese sono controllate.
 published: true
 date: 2021-08-22T19:38:22.064Z
-tags: vitigno, bacca nera, austria
+tags: vitigno, bacca nera
 editor: markdown
 dateCreated: 2021-08-22T19:38:19.448Z
 ---

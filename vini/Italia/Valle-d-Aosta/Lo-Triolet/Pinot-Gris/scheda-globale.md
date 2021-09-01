@@ -1,6 +1,6 @@
 ---
 title: Pinot Gris – Valle d'Aosta DOC – Lo Triolet
-description: 4★ - 5★ | Pinot grigio 10% | Valle d'Aosta (IT)
+description: 4★ - 5★ | Pinot grigio 100% | Valle d'Aosta (IT)
 published: true
 date: 2021-08-24T11:16:44.400Z
 tags: vino, bianco, fermo, varietale, pinot grigio, italia, valle d'aosta, spaghetti gamberi e zucchine, risotto alla toma e timo, baccalà con purè di sedano, sella di capretto in crosta, risotto ai gamberi, 15 - 19€, 5 stelle

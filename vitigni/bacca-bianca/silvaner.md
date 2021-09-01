@@ -3,7 +3,7 @@ title: Silvaner
 description: Varietà austriaca che produce vini relativamente neutri con una fermezza e una potenza impressionante in Germania e Alsazia.
 published: true
 date: 2021-08-22T19:29:54.648Z
-tags: vitigno, bacca bianca, austria
+tags: vitigno, bacca bianca
 editor: markdown
 dateCreated: 2021-08-22T18:57:39.184Z
 ---

@@ -3,7 +3,7 @@ title: Ciliegiolo
 description: Vitigno a bacca nera italiano dal sapore di ciliegia con un potenziale non sfruttato, specialmente in Toscana. Antenato del Sangiovese.
 published: true
 date: 2021-08-21T13:02:47.579Z
-tags: vitigno, bacca nera, italia, toscana
+tags: vitigno, bacca nera
 editor: markdown
 dateCreated: 2021-08-10T17:17:56.544Z
 ---

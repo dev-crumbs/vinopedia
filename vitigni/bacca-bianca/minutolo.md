@@ -3,7 +3,7 @@ title: Minutolo
 description: Varietà opulenta originaria della puglia, un tempo conosciuta come Fiano Aromatico.
 published: true
 date: 2021-08-18T19:08:59.290Z
-tags: vitigno, italia, puglia, bacca bianca
+tags: vitigno, bacca bianca
 editor: markdown
 dateCreated: 2021-08-09T19:02:27.836Z
 ---

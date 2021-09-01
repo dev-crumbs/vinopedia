@@ -3,7 +3,7 @@ title: Corvina veronese
 description: Rosso brillante, fresco e profumato di ciliegia che si incontra più spesso in Valpolicella e Bardolino
 published: true
 date: 2021-08-20T14:33:39.984Z
-tags: vitigno, bacca nera, italia, veneto
+tags: vitigno, bacca nera
 editor: markdown
 dateCreated: 2021-08-20T12:41:21.721Z
 ---

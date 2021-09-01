@@ -3,7 +3,7 @@ title: Dornfelder
 description: Il più riuscito dei moderni incroci rossi tedeschi, che produce vini scuri e vellutati.
 published: true
 date: 2021-08-22T15:46:21.045Z
-tags: vitigno, bacca nera, germania
+tags: vitigno, bacca nera
 editor: markdown
 dateCreated: 2021-08-10T13:29:35.068Z
 ---

@@ -3,7 +3,7 @@ title: Kalecik Karasi
 description: Varietà turca salvata dall'estinzione che produce rossi molto freschi e fruttati da bere relativamente presto
 published: true
 date: 2021-08-10T15:56:55.956Z
-tags: vitigno, bacca nera, turchia
+tags: vitigno, bacca nera
 editor: markdown
 dateCreated: 2021-08-10T14:19:28.862Z
 ---

@@ -3,7 +3,7 @@ title: Grechetto di Orvieto
 description: Caratteristico e versatile umbro
 published: true
 date: 2021-08-19T09:58:48.738Z
-tags: vitigno, italia, bacca bianca, umbria
+tags: vitigno, bacca bianca, umbria
 editor: markdown
 dateCreated: 2021-08-19T09:58:46.206Z
 ---

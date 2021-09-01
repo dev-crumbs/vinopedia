@@ -3,7 +3,7 @@ title: Lambrusco Grasparossa
 description: Produce un Lambrusco più pieno e tannico della maggior parte dei Lambruschi, sia secco che mediamente dolce.
 published: true
 date: 2021-08-18T12:35:50.480Z
-tags: vitigno, bacca nera, italia, emilia
+tags: vitigno, bacca nera
 editor: markdown
 dateCreated: 2021-08-18T12:35:47.972Z
 ---

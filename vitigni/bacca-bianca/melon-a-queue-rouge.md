@@ -3,7 +3,7 @@ title: Melon a Queue Rouge
 description: Mutazione dello Chardonnay 
 published: true
 date: 2021-08-12T13:30:27.470Z
-tags: vitigno, francia, bacca bianca
+tags: vitigno, bacca bianca
 editor: markdown
 dateCreated: 2021-08-12T13:30:25.029Z
 ---

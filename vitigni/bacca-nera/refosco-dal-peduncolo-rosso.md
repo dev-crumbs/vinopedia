@@ -3,7 +3,7 @@ title: Refosco dal peduncolo rosso
 description: Il Refosco più ampiamente piantato con una storia familiare complessa, produce rossi aspri ma potenzialmente interessanti in Friuli e Slovenia.
 published: true
 date: 2021-08-23T09:22:13.596Z
-tags: vitigno, bacca nera, italia, friuli, slovenia
+tags: vitigno, bacca nera
 editor: markdown
 dateCreated: 2021-08-20T12:57:42.590Z
 ---

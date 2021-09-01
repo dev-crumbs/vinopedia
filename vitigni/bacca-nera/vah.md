@@ -3,7 +3,7 @@ title: Váh
 description: Recente incrocio autorizzato per la coltivazione in Slovacchia, ha bisogno di un buon sito per prosperare.
 published: true
 date: 2021-08-08T09:49:53.075Z
-tags: vitigno, bacca nera, slovacchia
+tags: vitigno, bacca nera
 editor: markdown
 dateCreated: 2021-08-08T09:47:11.689Z
 ---

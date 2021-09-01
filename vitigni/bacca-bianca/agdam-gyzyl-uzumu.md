@@ -3,7 +3,7 @@ title: Agdam Gyzyl Uzumu
 description: Vitigno dell'Azerbaijan
 published: true
 date: 2021-08-10T19:52:45.452Z
-tags: vitigno, bacca bianca, azerbaijan
+tags: vitigno, bacca bianca
 editor: markdown
 dateCreated: 2021-08-10T16:41:45.058Z
 ---

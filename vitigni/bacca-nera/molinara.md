@@ -3,7 +3,7 @@ title: Molinara
 description: Decisamente in terza posizione rispetto alla Corvina Veronese e alla Rondinella nei vini della Valpolicella
 published: true
 date: 2021-08-20T14:33:38.780Z
-tags: vitigno, bacca nera, italia, veneto
+tags: vitigno, bacca nera
 editor: markdown
 dateCreated: 2021-08-20T14:33:36.083Z
 ---

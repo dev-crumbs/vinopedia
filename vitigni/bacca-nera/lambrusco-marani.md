@@ -3,7 +3,7 @@ title: Lambrusco Marani
 description: Secondo vitigno più piantato tra i Lambruschi, produce vini molto colorati
 published: true
 date: 2021-08-18T12:44:59.121Z
-tags: vitigno, bacca nera, italia, emilia
+tags: vitigno, bacca nera
 editor: markdown
 dateCreated: 2021-08-18T12:42:32.217Z
 ---

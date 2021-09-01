@@ -3,7 +3,7 @@ title: Lambrusco Salamino
 description: La più diffusa delle varietà di Lambrusco, produce i vini più ricchi di corpo e sostanza.
 published: true
 date: 2021-08-18T12:00:07.431Z
-tags: vitigno, bacca nera, italia, emilia
+tags: vitigno, bacca nera
 editor: markdown
 dateCreated: 2021-08-18T11:57:01.854Z
 ---

@@ -3,7 +3,7 @@ title: Blauer portugieser
 description: Prolifica varietà austriaca di vino rosso che produce vini piuttosto scialbi e poco acidi.
 published: true
 date: 2021-08-23T05:35:04.801Z
-tags: vitigno, bacca nera, austria
+tags: vitigno, bacca nera
 editor: markdown
 dateCreated: 2021-08-22T15:46:16.954Z
 ---

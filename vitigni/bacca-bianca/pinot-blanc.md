@@ -3,7 +3,7 @@ title: Pinot Blanc
 description: Forse sottovalutato produttore di bianchi di pronta beva, medio corpo e piacevoli. Facile da coltivare.
 published: true
 date: 2021-08-22T20:39:44.561Z
-tags: vitigno, internazionale, bacca bianca
+tags: vitigno, bacca bianca
 editor: markdown
 dateCreated: 2021-08-15T13:46:44.181Z
 ---

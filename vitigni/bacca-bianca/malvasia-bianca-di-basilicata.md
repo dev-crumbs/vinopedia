@@ -3,7 +3,7 @@ title: Malvasia bianca di Basilicata
 description: La malvasia esclusiva della Basilicata
 published: true
 date: 2021-08-21T14:53:07.569Z
-tags: vitigno, italia, bacca bianca, basilicata
+tags: vitigno, bacca bianca, basilicata
 editor: markdown
 dateCreated: 2021-08-18T15:32:34.086Z
 ---

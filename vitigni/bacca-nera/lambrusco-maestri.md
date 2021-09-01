@@ -3,7 +3,7 @@ title: Lambrusco Maestri
 description: Uno dei Lambruschi minori, di Parma, che produce vini piuttosto rustici.
 published: true
 date: 2021-08-18T12:39:15.645Z
-tags: vitigno, bacca nera, italia, emilia
+tags: vitigno, bacca nera
 editor: markdown
 dateCreated: 2021-08-18T12:38:58.847Z
 ---

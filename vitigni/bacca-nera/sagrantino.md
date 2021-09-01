@@ -3,7 +3,7 @@ title: Sagrantino
 description: Specialità umbra di Montefalco particolarmente tannica
 published: true
 date: 2021-08-19T09:49:19.884Z
-tags: vitigno, bacca nera, italia, umbria
+tags: vitigno, bacca nera
 editor: markdown
 dateCreated: 2021-08-19T09:49:17.548Z
 ---

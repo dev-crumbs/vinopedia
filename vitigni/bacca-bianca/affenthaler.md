@@ -3,7 +3,7 @@ title: Affenthaler
 description: Antica varietà molto rara della Germania meridionale.
 published: true
 date: 2021-08-10T15:56:55.956Z
-tags: vitigno, bacca nera, germania
+tags: vitigno, bacca nera
 editor: markdown
 dateCreated: 2021-08-10T15:55:23.400Z
 ---

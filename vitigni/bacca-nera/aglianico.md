@@ -3,7 +3,7 @@ title: Aglianico
 description: Vitigno a bacca nera dell'Italia meridionale di alta qualità, a maturazione tardiva, tannico e degno di invecchiamento.
 published: true
 date: 2021-08-10T18:17:17.601Z
-tags: vitigno, bacca nera, campania, italia, basilicata
+tags: vitigno, bacca nera
 editor: markdown
 dateCreated: 2021-08-10T17:03:36.886Z
 ---

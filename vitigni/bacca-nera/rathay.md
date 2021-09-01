@@ -3,7 +3,7 @@ title: Ráthay
 description: Raro ibrido austriaco resistente alle malattie che produce vini da bere giovani.
 published: true
 date: 2021-08-22T18:27:36.041Z
-tags: vitigno, bacca nera, austria
+tags: vitigno, bacca nera
 editor: markdown
 dateCreated: 2021-08-22T18:21:57.604Z
 ---

@@ -3,7 +3,7 @@ title: Lambrusco Montericco
 description:  Varietà minore di Lambrusco
 published: true
 date: 2021-08-18T12:44:58.027Z
-tags: vitigno, bacca nera, italia, emilia
+tags: vitigno, bacca nera
 editor: markdown
 dateCreated: 2021-08-18T12:44:55.563Z
 ---

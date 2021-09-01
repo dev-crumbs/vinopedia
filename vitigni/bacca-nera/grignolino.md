@@ -3,7 +3,7 @@ title: Grignolino
 description: Vitigno dalla popolarità calante, distintamente pallido, leggero, specialità locale (antica) del Monferrato.
 published: true
 date: 2021-08-21T06:27:12.942Z
-tags: vitigno, bacca nera, italia, piemonte
+tags: vitigno, bacca nera
 editor: markdown
 dateCreated: 2021-08-21T06:27:10.263Z
 ---

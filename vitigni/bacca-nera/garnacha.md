@@ -3,7 +3,7 @@ title: Garnacha
 description: Varietà spagnola antica dalle molteplici mutazioni di colore
 published: true
 date: 2021-08-13T08:31:51.640Z
-tags: vitigno, bacca nera, bacca bianca, spagna
+tags: vitigno, bacca nera, bacca bianca
 editor: markdown
 dateCreated: 2021-08-13T07:02:26.383Z
 ---

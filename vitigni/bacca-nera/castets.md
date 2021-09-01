@@ -3,7 +3,7 @@ title: Castets
 description: Varietà molto minore dei Pirenei occidentali che si aggrappa in Francia; un genitore in Slovacchia.
 published: true
 date: 2021-08-21T07:01:21.442Z
-tags: vitigno, bacca nera, varietà minore
+tags: vitigno, bacca nera
 editor: markdown
 dateCreated: 2021-08-07T18:40:35.353Z
 ---

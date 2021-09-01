@@ -3,7 +3,7 @@ title: Catarratto bianco
 description: Ampiamente piantato e variamente chiamato bianco siciliano con potenziale di qualità nelle mani giuste.
 published: true
 date: 2021-08-23T05:36:32.200Z
-tags: vitigno, italia, bacca bianca, sicilia
+tags: vitigno, bacca bianca
 editor: markdown
 dateCreated: 2021-08-21T13:53:45.581Z
 ---

@@ -3,7 +3,7 @@ title: Hron
 description: Recente ma promettente incrocio slovacco che produce rossi corposi e degni di invecchiamento.
 published: true
 date: 2021-08-08T09:49:53.075Z
-tags: vitigno, bacca nera, slovacchia
+tags: vitigno, bacca nera
 editor: markdown
 dateCreated: 2021-08-07T18:49:24.257Z
 ---

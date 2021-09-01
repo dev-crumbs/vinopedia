@@ -3,7 +3,7 @@ title: Lambrusca Vittona
 description: Varietà piemontese molto minore.
 published: true
 date: 2021-08-18T13:20:08.477Z
-tags: 
+tags: vitigno, bacca nera
 editor: markdown
 dateCreated: 2021-08-18T13:19:51.391Z
 ---

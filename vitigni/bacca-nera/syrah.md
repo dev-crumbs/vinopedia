@@ -3,7 +3,7 @@ title: Syrah
 description: Alternativa generalmente alla moda al Cabernet Sauvignon con un complesso e sorprendente background familiare.
 published: true
 date: 2021-08-16T10:15:15.114Z
-tags: vitigno, bacca nera, francia, internazionale
+tags: vitigno, bacca nera
 editor: markdown
 dateCreated: 2021-08-10T18:40:54.121Z
 ---

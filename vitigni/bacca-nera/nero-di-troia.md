@@ -3,7 +3,7 @@ title: Nero di Troia
 description: Pugliese settentrionale di alta qualità, saporito e fermo, che è diminuito notevolmente negli ultimi 40 anni.
 published: true
 date: 2021-08-20T17:24:15.510Z
-tags: vitigno, bacca nera, italia, puglia
+tags: vitigno, bacca nera
 editor: markdown
 dateCreated: 2021-08-20T17:23:58.530Z
 ---

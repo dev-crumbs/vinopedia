@@ -3,7 +3,7 @@ title: Malvasia Di Casorzo
 description: Rara varietà a bacca rossa usata per fare vini dolci e spumanti in Piemonte.
 published: true
 date: 2021-08-21T06:27:14.115Z
-tags: vitigno, bacca nera, italia, piemonte
+tags: vitigno, bacca nera
 editor: markdown
 dateCreated: 2021-08-18T19:25:58.402Z
 ---

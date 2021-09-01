@@ -3,7 +3,7 @@ title: Muscat Blanc à Petits Grains
 description: Il Moscato più famoso, quello a bacca piccola molto diffuso in tutto il mondo.
 published: true
 date: 2021-08-10T11:27:10.108Z
-tags: vitigno, internazionale, bacca bianca
+tags: vitigno, bacca bianca
 editor: markdown
 dateCreated: 2021-08-10T11:27:07.631Z
 ---

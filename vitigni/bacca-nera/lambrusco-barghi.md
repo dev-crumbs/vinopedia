@@ -3,7 +3,7 @@ title: Lambrusco Barghi
 description: Varietà minore, riconosciuta di recente, utilizzata in blend nel Reggiano.
 published: true
 date: 2021-08-20T14:30:19.194Z
-tags: vitigno, bacca nera, italia, emilia
+tags: vitigno, bacca nera
 editor: markdown
 dateCreated: 2021-08-18T12:13:08.455Z
 ---

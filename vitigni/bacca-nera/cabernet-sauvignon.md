@@ -3,7 +3,7 @@ title: Cabernet Sauvignon
 description: La varietà a bacca nera più diffusa al mondo, produce vini concentrati e tannici ideali per invecchiamenti particolarmente lunghi.
 published: true
 date: 2021-08-22T19:38:23.265Z
-tags: vitigno, bacca nera, francia, internazionale
+tags: vitigno, bacca nera
 editor: markdown
 dateCreated: 2021-08-08T09:49:49.924Z
 ---

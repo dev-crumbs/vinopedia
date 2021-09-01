@@ -3,7 +3,7 @@ title: Ancellotta
 description: Utile ingrediente per blend dal colore intenso, apprezzato più per il colore, i tannini e l'acidità che per il suo sapore.
 published: true
 date: 2021-08-21T13:36:40.342Z
-tags: vitigno, bacca nera, italia
+tags: vitigno, bacca nera
 editor: markdown
 dateCreated: 2021-08-10T18:17:14.108Z
 ---

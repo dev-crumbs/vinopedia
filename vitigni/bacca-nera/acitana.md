@@ -3,7 +3,7 @@ title: Acitana
 description: Rara varietà a buccia scura del nord-est della Sicilia, usata in blend.
 published: true
 date: 2021-08-10T12:50:42.564Z
-tags: vitigno, bacca nera, italia, sicilia
+tags: vitigno, bacca nera
 editor: markdown
 dateCreated: 2021-08-10T12:36:52.451Z
 ---

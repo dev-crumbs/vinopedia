@@ -3,7 +3,7 @@ title: Verdeca
 description: Vitigno utilizzato per la produzione di bianchi "leggeri" in Puglia e, con il nome "Lagorthi", in Grecia.
 published: true
 date: 2021-08-21T16:52:11.801Z
-tags: vitigno, puglia, bacca bianca, grecia
+tags: vitigno, bacca bianca, grecia
 editor: markdown
 dateCreated: 2021-08-10T05:57:12.126Z
 ---

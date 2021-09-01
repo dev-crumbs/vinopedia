@@ -3,7 +3,7 @@ title: Malvazija Istarska
 description: L'uva da vino bianco intenso della penisola d'Istra (Istria) Croata
 published: true
 date: 2021-08-19T09:43:14.554Z
-tags: vitigno, croazia, bacca bianca
+tags: vitigno, bacca bianca
 editor: markdown
 dateCreated: 2021-08-19T09:43:12.014Z
 ---

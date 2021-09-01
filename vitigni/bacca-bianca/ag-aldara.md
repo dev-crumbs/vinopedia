@@ -3,7 +3,7 @@ title: Ag Aldara
 description: Vitigno dell'Azerbaijan
 published: true
 date: 2021-08-10T16:10:34.526Z
-tags: vitigno, bacca bianca, azerbaijan
+tags: vitigno, bacca bianca
 editor: markdown
 dateCreated: 2021-08-10T16:10:32.064Z
 ---

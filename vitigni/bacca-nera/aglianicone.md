@@ -3,7 +3,7 @@ title: Aglianicone
 description: Varietà campana ad alto rendimento e bassa qualità
 published: true
 date: 2021-08-10T17:18:00.276Z
-tags: vitigno, bacca nera, campania, italia
+tags: vitigno, bacca nera
 editor: markdown
 dateCreated: 2021-08-10T17:06:54.727Z
 ---

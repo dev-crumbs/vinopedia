@@ -3,7 +3,7 @@ title: Goldburger
 description: Incrocio austriaco usato principalmente per vini dolci
 published: true
 date: 2021-08-22T20:39:44.561Z
-tags: vitigno, bacca bianca, austria
+tags: vitigno, bacca bianca
 editor: markdown
 dateCreated: 2021-08-22T17:01:45.879Z
 ---

@@ -3,7 +3,7 @@ title: Zierfandler
 description: Specialità della Thermenregion che produce vini potenti, aromatici e molto caratteristici, tipicamente in collaborazione con Rotgipfler.
 published: true
 date: 2021-08-22T19:35:02.183Z
-tags: vitigno, bacca bianca, austria
+tags: vitigno, bacca bianca
 editor: markdown
 dateCreated: 2021-08-22T19:34:59.584Z
 ---

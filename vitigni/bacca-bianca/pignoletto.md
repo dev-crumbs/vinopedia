@@ -3,7 +3,7 @@ title: Pignoletto
 description: Varietà leggera e rinfrescante abbastanza diffusa nelle colline bolognesi e in Umbria.
 published: true
 date: 2021-08-22T20:39:44.561Z
-tags: vitigno, italia, bacca bianca, emilia, umbria
+tags: vitigno, bacca bianca, emilia, umbria
 editor: markdown
 dateCreated: 2021-08-10T11:15:20.081Z
 ---

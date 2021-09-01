@@ -3,7 +3,7 @@ title: Maresco
 description: Antica varietà pugliese molto fresca e profumata, recuperata sull'orlo dell'estinzione.
 published: true
 date: 2021-08-10T06:49:15.304Z
-tags: vitigno, italia, puglia, bacca bianca
+tags: vitigno, bacca bianca
 editor: markdown
 dateCreated: 2021-08-10T06:45:52.806Z
 ---

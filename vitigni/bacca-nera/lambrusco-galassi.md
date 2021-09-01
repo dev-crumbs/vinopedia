@@ -1,6 +1,6 @@
 ---
 title: Lambrusco Galassi
-description: "Lambrusco Galassi è un sinonimo.
+description: "Lambrusco Galassi" è un sinonimo.
 published: true
 date: 2021-08-18T11:58:59.726Z
 tags: vitigno, sinonimo, bacca nera
