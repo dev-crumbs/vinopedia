@@ -3,7 +3,7 @@ title: Grand-Père – Riviera Ligure di Ponente DOC – Bio Vio
 description: 3★ - 5★ | Pigato 100% | Liguria (IT)
 published: true
 date: 2021-08-24T11:16:44.400Z
-tags: vino, bianco, fermo, varietale, pigato, italia, liguria, cappon magro, risotto al nero di seppia, calamari al forno ripieni di patate e olive, tortino di acciughe, 30 - 34€, 5 stelle
+tags: vino, bianco, fermo, varietale, pigato, italia, liguria, cappon magro, risotto al nero di seppia, calamari al forno ripieni di patate e olive, tortino di acciughe, 30 - 34 €, 5 stelle
 editor: markdown
 dateCreated: 2021-08-24T11:16:41.742Z
 ---
@@ -34,7 +34,7 @@ dateCreated: 2021-08-24T11:16:41.742Z
 - tortino di acciughe
 
 ## Annate
-- Grand-Père [2015](vini/Italia/Liguria/Bio-Vio/Grand-Pere/2015) -- <span class="star-3"></span>
-- Grand-Père [2016](vini/Italia/Liguria/Bio-Vio/Grand-Pere/2016) -- <span class="star-3"></span>
-- Grand-Père [2017](vini/Italia/Liguria/Bio-Vio/Grand-Pere/2017) -- <span class="star-3"></span>
-- Grand-Père [2018](vini/Italia/Liguria/Bio-Vio/Grand-Pere/2018) -- <span class="star-5"></span>
+- Grand-Père [2015](vini/Italia/Liguria/Bio-Vio/Grand-Pere/2015) -- <span class="star-3"></span> -- 86/100
+- Grand-Père [2016](vini/Italia/Liguria/Bio-Vio/Grand-Pere/2016) -- <span class="star-3"></span> -- 88/100
+- Grand-Père [2017](vini/Italia/Liguria/Bio-Vio/Grand-Pere/2017) -- <span class="star-3"></span> -- 87/100
+- Grand-Père [2018](vini/Italia/Liguria/Bio-Vio/Grand-Pere/2018) -- <span class="star-5"></span> -- 94/100

@@ -3,7 +3,7 @@ title: Prieuré – Valle d'Aosta Chambave Muscat Flétri DOC – La Crotta di V
 description: 3★ - 5★ | Muscat blanc a petit grains 100% | Valle d'Aosta (IT)
 published: true
 date: 2021-08-24T11:16:44.400Z
-tags: vino, bianco, passito, varietale, Muscat a petit grain, italia, valle d'aosta, crostata di albicocche, torta di mele, formaggio bleu d'Aoste stagionato, 30 - 34€, 5 stelle
+tags: vino, bianco, passito, varietale, Muscat a petit grain, italia, valle d'aosta, crostata di albicocche, torta di mele, formaggio bleu d'Aoste stagionato, 30 - 34 €, 5 stelle
 editor: markdown
 dateCreated: 2021-08-24T11:16:41.742Z
 ---

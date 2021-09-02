@@ -3,7 +3,7 @@ title: Lacrima di Morro d'Alba Superiore – Lacrima di Morro DOC – Stefano Ma
 description: 3★ - 5★ | Lacrima di Morro d'Alba 100% | Marche (IT)
 published: true
 date: 2021-08-24T12:31:23.089Z
-tags: vino, italia, rosso, marche, varietale, lacrima, lombata di manzo in salsa di prugne rosse, pollo alla cacciatora, bocconcini di manzo ai porcini, filetto di manzo in crosta, 15 - 19€, 5 stelle
+tags: vino, italia, rosso, marche, varietale, lacrima, lombata di manzo in salsa di prugne rosse, pollo alla cacciatora, bocconcini di manzo ai porcini, filetto di manzo in crosta, 15 - 19 €, 5 stelle
 editor: markdown
 dateCreated: 2021-08-24T11:31:20.502Z
 ---
@@ -34,9 +34,9 @@ dateCreated: 2021-08-24T11:31:20.502Z
 - filetto di manzo in crosta
 
 ## Annate
-- Lacrima di Morro d'Alba Superiore [2014](/vini/Italia/Marche/Stefano-Mancinelli/Lacrima-di-Morro-d-Alba-Superiore/2014) -- <span class="star-3"></span>
-- Lacrima di Morro d'Alba Superiore [2015](/vini/Italia/Marche/Stefano-Mancinelli/Lacrima-di-Morro-d-Alba-Superiore/2015) -- <span class="star-3"></span>
-- Lacrima di Morro d'Alba Superiore [2017](/vini/Italia/Marche/Stefano-Mancinelli/Lacrima-di-Morro-d-Alba-Superiore/2017) -- <span class="star-3"></span>
-- Lacrima di Morro d'Alba Superiore [2018](/vini/Italia/Marche/Stefano-Mancinelli/Lacrima-di-Morro-d-Alba-Superiore/2018) -- <span class="star-5"></span>
+- Lacrima di Morro d'Alba Superiore [2014](/vini/Italia/Marche/Stefano-Mancinelli/Lacrima-di-Morro-d-Alba-Superiore/2014) -- <span class="star-3"></span> -- 85/100
+- Lacrima di Morro d'Alba Superiore [2015](/vini/Italia/Marche/Stefano-Mancinelli/Lacrima-di-Morro-d-Alba-Superiore/2015) -- <span class="star-3"></span> -- 87/100
+- Lacrima di Morro d'Alba Superiore [2017](/vini/Italia/Marche/Stefano-Mancinelli/Lacrima-di-Morro-d-Alba-Superiore/2017) -- <span class="star-3"></span> -- 88/100
+- Lacrima di Morro d'Alba Superiore [2018](/vini/Italia/Marche/Stefano-Mancinelli/Lacrima-di-Morro-d-Alba-Superiore/2018) -- <span class="star-5"></span> -- 95/100
 
 

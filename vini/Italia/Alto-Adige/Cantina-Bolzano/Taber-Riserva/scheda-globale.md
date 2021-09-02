@@ -3,7 +3,7 @@ title: Taber Riserva – Alto Adige Lagrein DOC – Cantina Bolzano
 description: 2★ - 5★ | Lagrein 100% | Alto Adige (IT)
 published: true
 date: 2021-08-23T18:08:44.486Z
-tags: vino, italia, rosso, varietale, arrosto alla tirolese, gröstl, faraona lardellata, spezzatino di capriolo, lagrein, alto adige, 45 - 49€, 5 stelle
+tags: vino, italia, rosso, varietale, arrosto alla tirolese, gröstl, faraona lardellata, spezzatino di capriolo, lagrein, alto adige, 45 - 49 €, 5 stelle
 editor: markdown
 dateCreated: 2021-08-23T09:13:09.952Z
 ---

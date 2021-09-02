@@ -3,7 +3,7 @@ title: Annver - Alto Adige Santa Maddalena Classico DOC - Pfannenstielhof
 description: 5★ | Schiava 95% + Lagrein 5% | Alto-Adige (IT)
 published: true
 date: 2021-08-24T09:41:19.364Z
-tags: vino, rosso, fermo, blend, schiava, lagrein, italia, alto-adige, tacchino con carciofi e zucca, scaloppine alla pizzaiola, 15 - 19€, 5 stelle
+tags: vino, rosso, fermo, blend, schiava, lagrein, italia, alto-adige, tacchino con carciofi e zucca, scaloppine alla pizzaiola, 15 - 19 €, 5 stelle
 editor: markdown
 dateCreated: 2021-08-23T07:36:55.405Z
 ---

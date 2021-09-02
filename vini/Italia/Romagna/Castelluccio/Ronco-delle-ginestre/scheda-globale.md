@@ -1,0 +1,40 @@
+---
+title: Ronco delle Ginestre – Forlì IGT – Castelluccio
+description: 2★ - 5★ | Sangiovese 100% | Romagna (IT)
+published: true
+date: 2021-08-24T12:31:23.089Z
+tags: vino, rosso, fermo, varietale, sangiovese, italia, romagna, piccione con crema di melanzane, petto di piccione, medaglioni di maiale al miele e zenzero, 20 - 24 €, 5 stelle
+editor: markdown
+dateCreated: 2021-08-24T11:31:20.502Z
+---
+
+# Ronco delle Ginestre
+
+## Caratteristiche
+- **Nome:** Ronco delle Ginestre
+- **Tipologia:** Rosso fermo
+- **Denominazione:** [Forlì IGT](/denominazioni/Italia/Romagna/IGT/Forlì)
+- **Produttore:** [Castelluccio](/produttori/Italia/Romagna/Castelluccio) 
+- **Composizione:** 100% [Sangiovese](/vitigni/bacca-nera/sangiovese)
+- **Affinamento:** 14 mesi in barrique + 12 in bottiglia
+- **Alcol:** 13.5%
+- **Fascia di prezzo:** 20 - 24 € 
+{.grid-list}
+
+## Descrizione del produttore
+
+> n.d.
+
+## Possibili abbinamenti
+*Vedere le singole annate per abbinamenti specifici*
+
+- piccione con crema di melanzane
+- petto di piccione
+- medaglioni di maiale al miele e zenzero
+
+## Annate
+- Ronco delle Ginestre [2009](/vini/Italia/Romagna/Castelluccio/Ronco-delle-Ginestre/2009) -- <span class="star-2"></span> -- 82/100
+- Ronco delle Ginestre [2011](/vini/Italia/Romagna/Castelluccio/Ronco-delle-Ginestre/2011) -- <span class="star-2"></span> -- 83/100
+- Ronco delle Ginestre [2012](/vini/Italia/Romagna/Castelluccio/Ronco-delle-Ginestre/2012) -- <span class="star-5"></span> -- 93/100
+- Ronco delle Ginestre [2013](/vini/Italia/Romagna/Castelluccio/Ronco-delle-Ginestre/2013) -- <span class="star-3"></span> -- 86/100
+- Ronco delle Ginestre [2015](/vini/Italia/Romagna/Castelluccio/Ronco-delle-Ginestre/2015) -- <span class="star-3"></span> -- 87/100

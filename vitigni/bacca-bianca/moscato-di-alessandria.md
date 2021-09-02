@@ -10,4 +10,4 @@ dateCreated: 2021-08-16T18:24:55.500Z
 
 # Moscato di Alessandria
 
-"Moscato di Alessandria" è un sinonimo utilizzato in Italia per il vitigno [Muscat di Alessandria](/vitigni/bacca-bianca/muscat-di-alessandria).
+"Moscato di Alessandria" è un sinonimo utilizzato in Italia per il vitigno [moscato di alessandria](/vitigni/bacca-bianca/moscato-di-alessandria).

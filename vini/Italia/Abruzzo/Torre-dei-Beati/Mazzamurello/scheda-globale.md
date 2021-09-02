@@ -3,7 +3,7 @@ title: Mazzamurello – Montepulciano d'Abruzzo DOC – Torre dei Beati
 description: 4★ - 5★ | Montepulciano 100% | Abruzzo (IT)
 published: true
 date: 2021-08-24T12:31:23.089Z
-tags: vino, rosso, fermo, varietale, montepulciano, italia, abruzzo, filetto di manzo in crosta con erbe aromatiche, polenta con spuntature di maiale, arista con patate, filetto con riduzione al montepulciano, agnello cacio e uova, 25 - 29€, 5 stelle
+tags: vino, rosso, fermo, varietale, montepulciano, italia, abruzzo, filetto di manzo in crosta con erbe aromatiche, polenta con spuntature di maiale, arista con patate, filetto con riduzione al montepulciano, agnello cacio e uova, 25 - 29 €, 5 stelle
 editor: markdown
 dateCreated: 2021-08-24T11:31:20.502Z
 ---
@@ -35,11 +35,11 @@ dateCreated: 2021-08-24T11:31:20.502Z
 - agnello cacio e uova
 
 ## Annate
-- Mazzamurello [2013](/vini/Italia/Abruzzo/Torre-dei-Beati/Mazzamurello/2013) -- <span class="star-5"></span>
-- Mazzamurello [2014](/vini/Italia/Abruzzo/Torre-dei-Beati/Mazzamurello/2014) -- <span class="star-4"></span>
-- Mazzamurello [2015](/vini/Italia/Abruzzo/Torre-dei-Beati/Mazzamurello/2015) -- <span class="star-4"></span>
-- Mazzamurello [2016](/vini/Italia/Abruzzo/Torre-dei-Beati/Mazzamurello/2016) -- <span class="star-4"></span>
-- Mazzamurello [2017](/vini/Italia/Abruzzo/Torre-dei-Beati/Mazzamurello/2017) -- <span class="star-5"></span>
+- Mazzamurello [2013](/vini/Italia/Abruzzo/Torre-dei-Beati/Mazzamurello/2013) -- <span class="star-5"></span> -- 93/100
+- Mazzamurello [2014](/vini/Italia/Abruzzo/Torre-dei-Beati/Mazzamurello/2014) -- <span class="star-4"></span> -- 89/100
+- Mazzamurello [2015](/vini/Italia/Abruzzo/Torre-dei-Beati/Mazzamurello/2015) -- <span class="star-4"></span> -- 90/100
+- Mazzamurello [2016](/vini/Italia/Abruzzo/Torre-dei-Beati/Mazzamurello/2016) -- <span class="star-4"></span> -- 90/100
+- Mazzamurello [2017](/vini/Italia/Abruzzo/Torre-dei-Beati/Mazzamurello/2017) -- <span class="star-5"></span> -- 95/100
 
 
 

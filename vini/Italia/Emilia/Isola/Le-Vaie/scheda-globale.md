@@ -3,7 +3,7 @@ title: Le Vaie – Colli Bolognesi DOC – Isola
 description: 3★ - 4★ | Riesling 100%| Emilia (IT)
 published: true
 date: 2021-08-24T12:31:23.089Z
-tags: vino, bianco, fermo, varietale, riesling, italia, emilia, pollo alle mandorle e zenzero, tortelloni di ricotta, linguine vongole e canocchie, 10 - 14€, 4 stelle
+tags: vino, bianco, fermo, varietale, riesling, italia, emilia, pollo alle mandorle e zenzero, tortelloni di ricotta, linguine vongole e canocchie, 10 - 14 €, 4 stelle
 editor: markdown
 dateCreated: 2021-08-24T11:31:20.502Z
 ---

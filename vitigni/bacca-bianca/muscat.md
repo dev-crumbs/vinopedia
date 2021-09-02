@@ -25,9 +25,9 @@ La prima menzione del nome Muscat risale al 1230-40 nel Liber de proprietatibus 
 
 Recenti ricerche genetiche (Crespan e Milani 2001; Cipriani et al. 2010; vedi diagramma pedigree sul retro) hanno dimostrato che:
 
-- Il Muscat di Alessandria  è probabilmente e inaspettatamente un incrocio naturale tra il [Muscat Blanc À Petits Grains](/vitigni/bacca-bianca/muscat-blanc-a-petit-grains), una varietà bianca coltivata in tutto il Mediterraneo, e l'Axina de Tres Bias, una vecchia uva da tavola a bacca nera coltivata in Sardegna, a Malta e nelle isole greche.
-- Il [Muscat Of Alexandria](/vitigni/bacca-bianca/muscat-di-alessandria) e il [Muscat Blanc À Petits Grains](/vitigni/bacca-bianca/muscat-blanc-a-petit-grains) sono i capostipiti di almeno quattordici vitigni attualmente coltivati per fare vino, di cui nove sono italiani e cinque sudamericani.
-Il [Muscat Of Alexandria](/vitigni/bacca-bianca/muscat-di-alessandria), il [Muscat Blanc À Petits Grains](/vitigni/bacca-bianca/muscat-blanc-a-petit-grains) e i loro quattordici rispettivi progenitori costituiscono chiaramente una stretta famiglia all'interno del gruppo del Moscato nel suo complesso, anche se tale gruppo è altrimenti largamente eterogeneo, rendendo in qualche modo fuorviante parlare di "famiglia del Moscato" per tutte le varietà di sapore di Moscato.
+- Il moscato di alessandria  è probabilmente e inaspettatamente un incrocio naturale tra il [Muscat Blanc À Petits Grains](/vitigni/bacca-bianca/muscat-blanc-a-petit-grains), una varietà bianca coltivata in tutto il Mediterraneo, e l'Axina de Tres Bias, una vecchia uva da tavola a bacca nera coltivata in Sardegna, a Malta e nelle isole greche.
+- Il [Muscat Of Alexandria](/vitigni/bacca-bianca/moscato-di-alessandria) e il [Muscat Blanc À Petits Grains](/vitigni/bacca-bianca/muscat-blanc-a-petit-grains) sono i capostipiti di almeno quattordici vitigni attualmente coltivati per fare vino, di cui nove sono italiani e cinque sudamericani.
+Il [Muscat Of Alexandria](/vitigni/bacca-bianca/moscato-di-alessandria), il [Muscat Blanc À Petits Grains](/vitigni/bacca-bianca/muscat-blanc-a-petit-grains) e i loro quattordici rispettivi progenitori costituiscono chiaramente una stretta famiglia all'interno del gruppo del Moscato nel suo complesso, anche se tale gruppo è altrimenti largamente eterogeneo, rendendo in qualche modo fuorviante parlare di "famiglia del Moscato" per tutte le varietà di sapore di Moscato.
 
 ## Altre Ipotesi
 

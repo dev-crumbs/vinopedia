@@ -3,7 +3,7 @@ title: Gavi dei Gavi Etichetta Nera - Gavi DOCG - La Scolca
 description: 3★ - 5★ | Cortese 100% | Piemonte (IT)
 published: true
 date: 2021-08-24T10:19:50.562Z
-tags: vino, bianco, fermo, varietale, nebbiolo, italia, piemonte, aragosta alla catalana, risotto agli scampi, risotto ai frutti di mare, 25 - 29€, 5 stelle
+tags: vino, bianco, fermo, varietale, nebbiolo, italia, piemonte, aragosta alla catalana, risotto agli scampi, risotto ai frutti di mare, 25 - 29 €, 5 stelle
 editor: markdown
 dateCreated: 2021-08-23T12:22:31.894Z
 ---
@@ -35,7 +35,7 @@ dateCreated: 2021-08-23T12:22:31.894Z
 
 ## Annate
 
-- Gavi dei Gavi Etichetta Nera [2015](vini/Italia/Piemonte/Produttori-del-Barbaresco/Barbaresco-Rabaja/2015) -- <span class="star-3"></span>  -- 88/100
-- Gavi dei Gavi Etichetta Nera [2016](vini/Italia/Piemonte/Produttori-del-Barbaresco/Barbaresco-Rabaja/2016) -- <span class="star-4"></span>  -- 90/100
-- Gavi dei Gavi Etichetta Nera [2018](vini/Italia/Piemonte/Produttori-del-Barbaresco/Barbaresco-Rabaja/2018) -- <span class="star-5"></span>  -- 94/100
-- Gavi dei Gavi Etichetta Nera [2019](vini/Italia/Piemonte/Produttori-del-Barbaresco/Barbaresco-Rabaja/2019) -- <span class="star-4"></span>  -- 90/100
+- Gavi dei Gavi Etichetta Nera [2015](vini/Italia/Piemonte/La-Scolca/Gavi-dei-Gavi-Etichetta-Nera/2015) -- <span class="star-3"></span>  -- 88/100
+- Gavi dei Gavi Etichetta Nera [2016](vini/Italia/Piemonte/La-Scolca/Gavi-dei-Gavi-Etichetta-Nera/2016) -- <span class="star-4"></span>  -- 90/100
+- Gavi dei Gavi Etichetta Nera [2018](vini/Italia/Piemonte/La-Scolca/Gavi-dei-Gavi-Etichetta-Nera/2018) -- <span class="star-5"></span>  -- 94/100
+- Gavi dei Gavi Etichetta Nera [2019](vini/Italia/Piemonte/La-Scolca/Gavi-dei-Gavi-Etichetta-Nera/2019) -- <span class="star-4"></span>  -- 90/100

@@ -19,7 +19,7 @@ dateCreated: 2021-08-24T11:55:59.971Z
 - **Composizione:** 100% [Sangiovese](/vitigni/bacca-nera/sangiovese)
 - **Affinamento:** 30 in barrique e botti da 60 e 90 ettolitri
 - **Alcol:** 14%
-- **Fascia di prezzo:** > 65 - 69 € (annate "storiche" possono avere prezzi molto lontani dal range)
+- **Fascia di prezzo:** 65 - 69 € (annate "storiche" possono avere prezzi molto lontani dal range)
 {.grid-list}
 
 ## Descrizione del produttore

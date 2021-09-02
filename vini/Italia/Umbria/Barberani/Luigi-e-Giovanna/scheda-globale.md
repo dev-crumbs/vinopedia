@@ -3,7 +3,7 @@ title: Luigi e Giovanna – Orvieto Classico Superiore DOC – Barberani
 description: 5★ | Grechetto 90% + Procanico 10% | Umbria (IT)
 published: true
 date: 2021-08-24T11:16:44.400Z
-tags: vino, bianco, fermo,blend, grechetto, procanico, italia, umbria, agnello in fricassea, cannelloni alla griglia con molluschi e besciamella di ostriche, lasagne con ragù di coda alla vaccinara, baccalà alla perugina, pollo alla diavola, 40 - 44€, 5 stelle
+tags: vino, bianco, fermo,blend, grechetto, procanico, italia, umbria, agnello in fricassea, cannelloni alla griglia con molluschi e besciamella di ostriche, lasagne con ragù di coda alla vaccinara, baccalà alla perugina, pollo alla diavola, 40 - 44 €, 5 stelle
 editor: markdown
 dateCreated: 2021-08-24T11:16:41.742Z
 ---
@@ -36,11 +36,11 @@ dateCreated: 2021-08-24T11:16:41.742Z
 - pollo alla diavola
 
 ## Annate
-- Luigi e Giovanna [2013](vini/Italia/Trentino/Poier-e-Sandri/Palai/2013) -- <span class="star-5"></span>
-- Luigi e Giovanna [2014](vini/Italia/Trentino/Poier-e-Sandri/Palai/2014) -- <span class="star-5"></span>
-- Luigi e Giovanna [2015](vini/Italia/Trentino/Poier-e-Sandri/Palai/2015) -- <span class="star-5"></span>
-- Luigi e Giovanna [2016](vini/Italia/Trentino/Poier-e-Sandri/Palai/2016) -- <span class="star-5"></span>
-- Luigi e Giovanna [2017](vini/Italia/Trentino/Poier-e-Sandri/Palai/2017) -- <span class="star-5"></span>
+- Luigi e Giovanna [2013](vini/Italia/Umbria/Barberani/Luigi-e-Giovanna/2013) -- <span class="star-5"></span> -- 94/100
+- Luigi e Giovanna [2014](vini/Italia/Umbria/Barberani/Luigi-e-Giovanna/2014) -- <span class="star-5"></span> -- 93/100
+- Luigi e Giovanna [2015](vini/Italia/Umbria/Barberani/Luigi-e-Giovanna/2015) -- <span class="star-5"></span> -- 94/100
+- Luigi e Giovanna [2016](vini/Italia/Umbria/Barberani/Luigi-e-Giovanna/2016) -- <span class="star-5"></span> -- 95/100
+- Luigi e Giovanna [2017](vini/Italia/Umbria/Barberani/Luigi-e-Giovanna/2017) -- <span class="star-5"></span> -- 93/100
 
 ## Note
 Il produttore dichira due sinonimi come nomi dei vitigni che compongono il blend: "[Grechetto](/vitigni/bacca-bianca/grechetto)" invece di "[Grechetto di Orvieto](/vitigni/bacca-bianca/grechetto-di-orvieto)" e "[Procanico](/vitigni/bacca-bianca/procanico)" invece di "[Trebbiano toscano](/vitigni/bacca-bianca/trebbiano-toscano)"

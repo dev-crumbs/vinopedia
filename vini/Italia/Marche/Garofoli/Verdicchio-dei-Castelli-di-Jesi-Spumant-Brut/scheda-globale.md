@@ -3,7 +3,7 @@ title: Verdicchio dei Castelli di Jesi Spumante Brut – Verdicchio dei Castelli
 description: 3★ - 5★ | Verdicchio 100% | Marche (IT)
 published: true
 date: 2021-08-24T12:31:23.089Z
-tags: vino, bianco, spumante, metodo classico, brut, varietale, verdicchio, italia, marche, carpaccio di sgombro con pesto di pistacchi, spaghetti ai frutti di mare, 15 - 19€, 5 stelle
+tags: vino, bianco, spumante, metodo classico, brut, varietale, verdicchio, italia, marche, carpaccio di sgombro con pesto di pistacchi, spaghetti ai frutti di mare, 15 - 19 €, 5 stelle
 editor: markdown
 dateCreated: 2021-08-24T11:31:20.502Z
 ---

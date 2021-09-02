@@ -1,5 +1,5 @@
 ---
-title: Serpara - Aglianico del Vulture Superiore DOCG - Eleano
+title: Serpara - Aglianico del Vulture Superiore DOCG - Re Manfredi
 description: 5★ | Aglianico 100% | Basilicata (IT)
 published: true
 date: 2021-08-24T09:41:19.364Z
@@ -16,7 +16,7 @@ dateCreated: 2021-08-23T07:36:55.405Z
 - **Denominazione:** [Aglianico del Vulture DOCG](/denominazioni/Italia/Basilicata/DOCG/Aglianico-del-Vulture) (Superiore)
 - **Produttore:** [Re Manfredi](/produttori/Italia/Basilicata/Re-Manfredi) 
 - **Composizione:** 100% [Aglianico del Vulture](/vitigni/bacca-nera/aglianico-del-vulture)
-- **Affinamento:** 24 mesi in barrique + 12 mesi in bottiglia
+- **Affinamento:** 36 mesi in barrique
 - **Alcol:** 14%
 - **Fascia di prezzo:** 25 - 29 €
 {.grid-list}
