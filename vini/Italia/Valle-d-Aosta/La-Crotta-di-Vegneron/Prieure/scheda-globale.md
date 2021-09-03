@@ -3,7 +3,7 @@ title: Prieuré – Valle d'Aosta Chambave Muscat Flétri DOC – La Crotta di V
 description: 3★ - 5★ | Muscat blanc a petit grains 100% | Valle d'Aosta (IT)
 published: true
 date: 2021-08-24T11:16:44.400Z
-tags: vino, bianco, passito, varietale, Muscat a petit grain, italia, valle d'aosta, crostata di albicocche, torta di mele, formaggio bleu d'Aoste stagionato, 30 - 34 €, 5 stelle
+tags: vino, bianco, passito, varietale, Muscat blanc a petit grains, italia, valle d'aosta, crostata di albicocche, torta di mele, formaggio bleu d'Aoste stagionato, 30 - 34 €, 5 stelle
 editor: markdown
 dateCreated: 2021-08-24T11:16:41.742Z
 ---
@@ -34,8 +34,8 @@ dateCreated: 2021-08-24T11:16:41.742Z
 - formaggio bleu d'Aosta stagionato
 
 ## Annate
-- Prieuré [2014](vini/Italia/Valle-d-Aosta/La-Crotta-di-Vegneron/Prieure/2014) -- <span class="star-5"></span> 88
-- Prieuré [2015](vini/Italia/Valle-d-Aosta/La-Crotta-di-Vegneron/Prieure/2015) -- <span class="star-3"></span> 88
-- Prieuré [2016](vini/Italia/Valle-d-Aosta/La-Crotta-di-Vegneron/Prieure/2016) -- <span class="star-5"></span> 93
-- Prieuré [2017](vini/Italia/Valle-d-Aosta/La-Crotta-di-Vegneron/Prieure/2017) -- <span class="star-5"></span> 94
-- Prieuré [2018](vini/Italia/Valle-d-Aosta/La-Crotta-di-Vegneron/Prieure/2018) -- <span class="star-4"></span> 90
+- Prieuré [2014](vini/Italia/Valle-d-Aosta/La-Crotta-di-Vegneron/Prieure/2014) -- <span class="star-5"></span> -- 88/100
+- Prieuré [2015](vini/Italia/Valle-d-Aosta/La-Crotta-di-Vegneron/Prieure/2015) -- <span class="star-3"></span> -- 88/100
+- Prieuré [2016](vini/Italia/Valle-d-Aosta/La-Crotta-di-Vegneron/Prieure/2016) -- <span class="star-5"></span> -- 93/100
+- Prieuré [2017](vini/Italia/Valle-d-Aosta/La-Crotta-di-Vegneron/Prieure/2017) -- <span class="star-5"></span> -- 94/100
+- Prieuré [2018](vini/Italia/Valle-d-Aosta/La-Crotta-di-Vegneron/Prieure/2018) -- <span class="star-4"></span> -- 90/100

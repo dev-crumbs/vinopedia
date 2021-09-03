@@ -36,8 +36,8 @@ dateCreated: 2021-08-24T11:16:41.742Z
 - risotto ai gamberi
 
 ## Annate
-- Pinot Gris [2015](vini/Italia/Trentino/Poier-e-Sandri/Palai/2015) -- <span class="star-4"></span> 89
-- Pinot Gris [2016](vini/Italia/Trentino/Poier-e-Sandri/Palai/2016) -- <span class="star-4"></span> 90
-- Pinot Gris [2017](vini/Italia/Trentino/Poier-e-Sandri/Palai/2017) -- <span class="star-5"></span> 93
-- Pinot Gris [2018](vini/Italia/Trentino/Poier-e-Sandri/Palai/2018) -- <span class="star-4"></span> 90
-- Pinot Gris [2019](vini/Italia/Trentino/Poier-e-Sandri/Palai/2019) -- <span class="star-5"></span> 95
+- Pinot Gris [2015](vini/Italia/Valle-d-Aosta/Lo-Triolet/Pinot-Gris/2015) -- <span class="star-4"></span> -- 89/100
+- Pinot Gris [2016](vini/Italia/Valle-d-Aosta/Lo-Triolet/Pinot-Gris/2016) -- <span class="star-4"></span> -- 90/100
+- Pinot Gris [2017](vini/Italia/Valle-d-Aosta/Lo-Triolet/Pinot-Gris/2017) -- <span class="star-5"></span> -- 93/100
+- Pinot Gris [2018](vini/Italia/Valle-d-Aosta/Lo-Triolet/Pinot-Gris/2018) -- <span class="star-4"></span> -- 90/100
+- Pinot Gris [2019](vini/Italia/Valle-d-Aosta/Lo-Triolet/Pinot-Gris/2019) -- <span class="star-5"></span> -- 95/100

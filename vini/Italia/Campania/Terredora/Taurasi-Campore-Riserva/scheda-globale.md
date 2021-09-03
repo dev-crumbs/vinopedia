@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-08-11T15:27:13.077Z
 ---
 
-# Opera Mia
+# Campore
 
 ## Caratteristiche
 - **Nome:** Taurasi Campore Riserva

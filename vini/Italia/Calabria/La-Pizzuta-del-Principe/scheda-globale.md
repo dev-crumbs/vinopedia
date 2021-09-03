@@ -34,7 +34,7 @@ dateCreated: 2021-08-23T12:22:31.894Z
 -  mezze maniche al ragù
 
 ## Annate
-- Zingamaro [2013](vini/Italia/Calabria/La-Pizzuta-del-Principe/Zingamaro/2013) -- <span class="star-3"></span>
-- Zingamaro [2014](vini/Italia/Calabria/La-Pizzuta-del-Principe/Zingamaro/2014) -- <span class="star-4"></span>
-- Zingamaro [2015](vini/Italia/Calabria/La-Pizzuta-del-Principe/Zingamaro/2015) -- <span class="star-3"></span>
-- Zingamaro [2016](vini/Italia/Calabria/La-Pizzuta-del-Principe/Zingamaro/2016) -- <span class="star-5"></span>
+- Zingamaro [2013](vini/Italia/Calabria/La-Pizzuta-del-Principe/Zingamaro/2013) -- <span class="star-3"></span> -- 86/100
+- Zingamaro [2014](vini/Italia/Calabria/La-Pizzuta-del-Principe/Zingamaro/2014) -- <span class="star-4"></span> -- 90/100
+- Zingamaro [2015](vini/Italia/Calabria/La-Pizzuta-del-Principe/Zingamaro/2015) -- <span class="star-3"></span> -- 88/100
+- Zingamaro [2016](vini/Italia/Calabria/La-Pizzuta-del-Principe/Zingamaro/2016) -- <span class="star-5"></span> -- 95/100

@@ -3,7 +3,7 @@ title: Eleano - Aglianico del Vulture Superiore DOCG - Eleano
 description: 4★ - 5★ | Aglianico 100% | Basilicata (IT)
 published: true
 date: 2021-08-24T09:41:19.364Z
-tags: vino, italia, rosso, basilicata, aglianico, varietale, rolata di manzo farcita, filetto al pepe verde, lombata di maiale al tartufo, brasato, 30 - 34 €, 5 stelle
+tags: vino, italia, rosso, basilicata, aglianico, varietale, rolata di manzo farcita, filetto al pepe verde, lombata di maiale al tartufo, brasato di manzo, 30 - 34 €, 5 stelle
 editor: markdown
 dateCreated: 2021-08-23T07:36:55.405Z
 ---
@@ -13,7 +13,7 @@ dateCreated: 2021-08-23T07:36:55.405Z
 ## Caratteristiche
 - **Nome:** Eleano
 - **Tipologia:** Rosso fermo 
-- **Denominazione:** [Aglianico del Vulture DOCG](/denominazioni/Italia/Basilicata/DOCG/Aglianico-del-Vulture) (Superiore)
+- **Denominazione:** [Aglianico del Vulture Superiore DOCG](/denominazioni/Italia/Basilicata/DOCG/Aglianico-del-Vulture-Superiore)
 - **Produttore:** [Eleano](/produttori/Italia/Basilicata/Eleano) 
 - **Composizione:** 100% [Aglianico del Vulture](/vitigni/bacca-nera/aglianico-del-vulture)
 - **Affinamento:** 24 mesi in barrique + 12 mesi in bottiglia
@@ -29,7 +29,7 @@ dateCreated: 2021-08-23T07:36:55.405Z
 
 - Rolata di manzo farcita
 - Filetto al pepe verde
-- Brasato
+- Brasato di manzo
 - Lombata di maiale al tartufo
 
 ## Annate

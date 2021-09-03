@@ -3,7 +3,7 @@ title: Puer Apuliae – Castel del Monte Rosso Riserva DOCG – Rivera
 description: 4★ - 5★ | Nero di Troia 100% | Puglia (IT)
 published: true
 date: 2021-08-24T11:31:23.089Z
-tags: vino, rosso, varietale, nero di troia, italia, puglia, pecora in pignata, cosciotto di capretto, filetto di manzo al vino e salsa ai mirtilli, capretto al ginepro, carrè di agnello al forno, 25 - 29 €, 5 stelle
+tags: vino, rosso, varietale, nero di troia, italia, puglia, pecora in pignatta, cosciotto di capretto, filetto di manzo al vino e salsa ai mirtilli, capretto al ginepro, carrè di agnello al forno, 25 - 29 €, 5 stelle
 editor: markdown
 dateCreated: 2021-08-24T11:31:20.502Z
 ---
@@ -29,7 +29,7 @@ La vinificazione in chiave moderna e l’invecchiamento per 14 mesi in barriques
 ## Possibili abbinamenti
 *Vedere le singole annate per abbinamenti specifici*
 
-- Pecora in pignata
+- Pecora in pignatta
 - Cosciotto di Capretto
 - Capretto al ginepro
 - Carrè di agnello al forno

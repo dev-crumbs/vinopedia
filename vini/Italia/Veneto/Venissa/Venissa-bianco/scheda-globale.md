@@ -8,13 +8,13 @@ editor: markdown
 dateCreated: 2021-08-24T11:16:41.742Z
 ---
 
-# Pinot Gris
+# Venissa Bianco
 
 ## Caratteristiche
 - **Nome:** Venissa Bianco
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Veneto IGT](/denominazioni/Italia/Veneto/IGT/Veneto) 
-- **Produttore:** [Lo Triolet](/produttori/Italia/Venissa/Venissa) 
+- **Produttore:** [Venissa](/produttori/Italia/Venissa/Venissa) 
 - **Composizione:** 100% [Dorona](/vitigni/bacca-bianca/dorona) 
 - **Affinamento:** 36 mesi in cemento 
 - **Alcol:** 13%

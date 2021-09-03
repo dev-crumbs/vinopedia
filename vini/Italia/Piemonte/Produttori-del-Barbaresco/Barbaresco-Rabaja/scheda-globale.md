@@ -1,5 +1,5 @@
 ---
-title: Barbaresco Riserva Rabajà - Barbaresco DOCG - Produttori del Barbaresco
+title: Barbaresco Riserva Rabajà - Barbaresco Rabajà Riserva DOCG - Produttori del Barbaresco
 description: 3★ - 5★ | Nebbiolo 100% | Piemonte (IT)
 published: true
 date: 2021-08-24T10:19:50.562Z
@@ -13,8 +13,8 @@ dateCreated: 2021-08-23T12:22:31.894Z
 ## Caratteristiche
 - **Nome:** Barbaresco Riserva Rabajà
 - **Tipologia:** Rosso fermo
-- **Denominazione:** Barbaresco DOCG (Rabajà - Riserva)
-- **Produttore:** Produttori del Barbaresco
+- **Denominazione:** [Barbaresco DOCG](/denominazioni/Italia/Piemonte/DOCG/Barbaresco) (Rabajà - Riserva)
+- **Produttore:** [Produttori del Barbaresco](/produttori/Italia/Piemonte/Produttori-del-Barbaresco)
 - **Composizione:** 100% [Nebbiolo](/vitigni/bacca-nera/nebbiolo)
 - **Affinamento:** 10 mesi in barrique 
 - **Alcol:** 14.5%
@@ -33,7 +33,7 @@ dateCreated: 2021-08-23T12:22:31.894Z
 - Spalla di agnello
 
 ## Annate
-- Barbaresco Riserva Rabajà [2011](vini/Italia/Piemonte/Produttori-del-Barbaresco/Barbaresco-Rabaja/2011) -- <span class="star-3"></span>
-- Barbaresco Riserva Rabajà [2013](vini/Italia/Piemonte/Produttori-del-Barbaresco/Barbaresco-Rabaja/2013) -- <span class="star-4"></span>
-- Barbaresco Riserva Rabajà [2014](vini/Italia/Piemonte/Produttori-del-Barbaresco/Barbaresco-Rabaja/2014) -- <span class="star-4"></span>
-- Barbaresco Riserva Rabajà [2015](vini/Italia/Piemonte/Produttori-del-Barbaresco/Barbaresco-Rabaja/2015) -- <span class="star-5"></span>
+- Barbaresco Riserva Rabajà [2011](vini/Italia/Piemonte/Produttori-del-Barbaresco/Barbaresco-Rabaja/2011) -- <span class="star-3"></span> -- 88/100
+- Barbaresco Riserva Rabajà [2013](vini/Italia/Piemonte/Produttori-del-Barbaresco/Barbaresco-Rabaja/2013) -- <span class="star-4"></span> -- 90/100
+- Barbaresco Riserva Rabajà [2014](vini/Italia/Piemonte/Produttori-del-Barbaresco/Barbaresco-Rabaja/2014) -- <span class="star-4"></span> -- 89/100
+- Barbaresco Riserva Rabajà [2015](vini/Italia/Piemonte/Produttori-del-Barbaresco/Barbaresco-Rabaja/2015) -- <span class="star-5"></span> -- 93/100
