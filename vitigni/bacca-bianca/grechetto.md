@@ -1,11 +1,11 @@
 ---
 title: Grechetto
-description: "Grechetto" è un sinonimo.
+description: "Grechetto è un sinonimo di "Grechetto di Orvieto"
 published: true
-date: 2021-08-16T18:24:57.818Z
+date: 2021-09-04T05:32:05.806Z
 tags: vitigno, sinonimo, bacca bianca
 editor: markdown
-dateCreated: 2021-08-16T18:24:55.500Z
+dateCreated: 2021-09-04T05:32:05.806Z
 ---
 
 # Grechetto
