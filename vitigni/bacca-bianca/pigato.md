@@ -1,11 +1,11 @@
 ---
 title: Pigato
-description: "Pigato" è un sinonimo.
+description: "Pigato" è un sinonimo di "Vermentino.
 published: true
-date: 2021-08-16T18:24:57.818Z
+date: 2021-09-04T08:52:04.962Z
 tags: vitigno, sinonimo, bacca bianca
 editor: markdown
-dateCreated: 2021-08-16T18:24:55.500Z
+dateCreated: 2021-09-04T08:52:04.962Z
 ---
 
 # Pigato
