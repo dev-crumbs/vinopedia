@@ -1,11 +1,11 @@
 ---
-title: Abouriou
+title: Lacrima di Morro d'Alba
 description: Specialità marchigiana recuperata e molto locale, usata per rossi a maturazione precoce sia secchi che dolci
 published: true
-date: 2021-08-08T09:47:15.231Z
+date: 2021-09-04T12:53:22.271Z
 tags: vitigno, bacca nera
 editor: markdown
-dateCreated: 2021-08-02T16:43:51.084Z
+dateCreated: 2021-08-27T17:50:08.169Z
 ---
 
 # Lacrima di Morro d'Alba
