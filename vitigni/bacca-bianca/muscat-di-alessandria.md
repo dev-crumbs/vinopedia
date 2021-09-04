@@ -2,13 +2,13 @@
 title: moscato di alessandria
 description: Varietà mediterranea dalla buccia chiara generalmente considerata inferiore al Muscat Blanc à Petits Grains, usata soprattutto per produrre vini molto dolci.
 published: true
-date: 2021-08-21T13:53:49.493Z
+date: 2021-09-04T08:49:51.937Z
 tags: vitigno, bacca bianca
 editor: markdown
 dateCreated: 2021-08-16T18:23:13.586Z
 ---
 
-# moscato di alessandria
+# Moscato di Alessandria
 
 ## Bacca
 Bianca
