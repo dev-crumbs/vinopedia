@@ -1,11 +1,11 @@
 ---
 title: Bovale sardo
-description: "Bovale sardo" è un sinonimo.
+description: "Bovale sardo" è un sinonimo di "Graciano"
 published: true
-date: 2021-08-02T17:00:03.012Z
+date: 2021-09-04T12:46:26.015Z
 tags: vitigno, sinonimo, bacca nera
 editor: markdown
-dateCreated: 2021-08-02T17:00:00.732Z
+dateCreated: 2021-09-04T12:46:26.015Z
 ---
 
 # Bovale sardo
