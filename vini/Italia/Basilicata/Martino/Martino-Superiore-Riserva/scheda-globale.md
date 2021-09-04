@@ -2,10 +2,10 @@
 title: Martino Superiore Riserva - Aglianico del Vulture Superiore Riserva DOCG - Martino
 description: 5★ | Aglianico 100% | Basilicata (IT)
 published: true
-date: 2021-08-24T09:41:19.364Z
-tags: vino, rosso, fermo, varietale, aglianico, italia, basilicata, noce di manzo alle spezie, scamone di podolica con cicorie, stracotto d'asino, 30 - 34 €, 5 stelle
+date: 2021-09-04T16:03:53.242Z
+tags: vino, italia, rosso, basilicata, aglianico, varietale, fermo, 5 stelle, 30 - 34 €, stracotto d'asino, noce di manzo alle spezie, scamone di podolica con cicorie
 editor: markdown
-dateCreated: 2021-08-23T07:36:55.405Z
+dateCreated: 2021-09-04T16:03:53.242Z
 ---
 
 # Martino Superiore Riserva
@@ -36,5 +36,3 @@ dateCreated: 2021-08-23T07:36:55.405Z
 - Martino Superiore Riserva [2011](/vini/Italia/Basilicata/Martino/Martino-Superiore-Riserva/2011) -- <span class="star-5"></span> -- 95/100
 - Martino Superiore Riserva [2012](/vini/Italia/Basilicata/Martino/Martino-Superiore-Riserva/2012) -- <span class="star-5"></span> -- 93/100
 - Martino Superiore Riserva [2013](/vini/Italia/Basilicata/Martino/Martino-Superiore-Riserva/2013) -- <span class="star-5"></span> -- 94/100
-
- 
