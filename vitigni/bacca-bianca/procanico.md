@@ -1,11 +1,11 @@
 ---
 title: Procanico
-description: "Procanico" è un sinonimo.
+description: "Procanico" è un sinonimo
 published: true
-date: 2021-08-16T18:24:57.818Z
+date: 2021-08-15T14:43:53.397Z
 tags: vitigno, sinonimo, bacca bianca
 editor: markdown
-dateCreated: 2021-08-16T18:24:55.500Z
+dateCreated: 2021-08-15T14:43:50.819Z
 ---
 
 # Procanico
