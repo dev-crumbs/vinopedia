@@ -2,7 +2,7 @@
 title: Savagnin Rose
 description: La versione non aromatica del ben più famoso Gewürztraminer.
 published: true
-date: 2021-08-16T10:29:54.372Z
+date: 2021-09-04T08:53:46.774Z
 tags: vitigno, bacca grigia
 editor: markdown
 dateCreated: 2021-08-16T10:28:54.497Z
