@@ -1,11 +1,11 @@
 ---
 title: Carignano
-description: "Carignano" è un sinonimo.
+description: "Carignano è un sinonimo di "Mazuelo
 published: true
-date: 2021-08-02T17:00:03.012Z
+date: 2021-09-04T12:50:48.578Z
 tags: vitigno, sinonimo, bacca nera
 editor: markdown
-dateCreated: 2021-08-02T17:00:00.732Z
+dateCreated: 2021-09-04T12:50:48.578Z
 ---
 
 # Carignano
