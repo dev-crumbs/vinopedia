@@ -2,10 +2,10 @@
 title: Ughetta
 description: "Ughetta" è un sinonimo di "Vespolina".
 published: true
-date: 2021-08-02T16:08:11.751Z
-tags: vitigno, bacca nera, sinonimo
+date: 2021-09-04T13:03:54.545Z
+tags: vitigno, sinonimo, bacca nera
 editor: markdown
-dateCreated: 2021-08-02T16:08:09.298Z
+dateCreated: 2021-09-04T13:03:54.545Z
 ---
 
 # Ughetta
