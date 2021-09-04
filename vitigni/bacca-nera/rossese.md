@@ -1,11 +1,11 @@
 ---
 title: Rossese
-description: "Rossese" è un sinonimo.
+description: "Rossese" è un sinonimo di Tibouren
 published: true
-date: 2021-08-02T16:08:11.751Z
-tags: vitigno, bacca nera, sinonimo
+date: 2021-09-04T13:02:21.839Z
+tags: vitigno, sinonimo, bacca nera
 editor: markdown
-dateCreated: 2021-08-02T16:08:09.298Z
+dateCreated: 2021-09-04T13:02:21.839Z
 ---
 
 # Rossese
