@@ -1,11 +1,11 @@
 ---
 title: Friulano
-description: "Friulano" è un sinonimo di "Sauvignonasse".
+description: "Friulano" è un sinonimo di "Sauvignonasse"
 published: true
-date: 2021-08-18T19:11:15.999Z
+date: 2021-09-04T05:30:00.310Z
 tags: vitigno, sinonimo, bacca bianca
 editor: markdown
-dateCreated: 2021-08-18T15:55:39.117Z
+dateCreated: 2021-09-04T05:30:00.310Z
 ---
 
 # Friulano
