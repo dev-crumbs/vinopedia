@@ -1,8 +1,8 @@
 ---
-title: Untitled Page
+title: Lambrusco di Santa Croce
 description: "Lambrusco di Santa Croce" è un sinonimo.
 published: true
-date: 2021-09-06T15:33:37.384Z
+date: 2021-09-06T16:41:44.430Z
 tags: vitigno, sinonimo, bacca nera
 editor: markdown
 dateCreated: 2021-09-06T15:33:37.384Z
