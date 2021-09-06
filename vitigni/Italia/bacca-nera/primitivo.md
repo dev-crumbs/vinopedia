@@ -1,11 +1,11 @@
 ---
 title: Primitivo
-description: "Primitivo" è un sinonimo.
+description: "Primitivo" è un sinonimo di "Tribidrag"
 published: true
-date: 2021-08-02T16:08:11.751Z
-tags: vitigno, bacca nera, sinonimo
+date: 2021-09-06T16:37:31.525Z
+tags: vitigno, sinonimo, bacca nera
 editor: markdown
-dateCreated: 2021-08-02T16:08:09.298Z
+dateCreated: 2021-09-06T16:37:31.525Z
 ---
 
 # Primitivo
