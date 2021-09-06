@@ -2,10 +2,10 @@
 title: Malvasia nera
 description: "Malvasia Nera" è un sinonimo di "Malvasia nera di Basilicata".
 published: true
-date: 2021-09-04T12:58:09.963Z
+date: 2021-09-06T16:17:25.735Z
 tags: vitigno, sinonimo, bacca nera
 editor: markdown
-dateCreated: 2021-09-04T12:58:09.963Z
+dateCreated: 2021-09-06T16:17:25.735Z
 ---
 
 # Malvasia Nera
