@@ -1,11 +1,11 @@
 ---
-title: Malvasia Nera Di Lecce
+title: Malvasia nera di Lecce
 description: "Malvasia Nera Di Lecce" è un sinonimo di "Malvasia Nera Di Brindisi"
 published: true
-date: 2021-08-19T09:35:49.750Z
+date: 2021-09-06T16:16:43.456Z
 tags: vitigno, sinonimo, bacca nera
 editor: markdown
-dateCreated: 2021-08-19T06:30:55.721Z
+dateCreated: 2021-09-06T16:16:43.456Z
 ---
 
 # Malvasia Nera Di Lecce
