@@ -1,6 +1,6 @@
 ---
 title: Cesanese d'Affile
-description: "Cesanese d'Affile" è un sinonimo.
+description: Cesanese d'Affile è un sinonimo.
 published: true
 date: 2021-07-30T16:35:50.589Z
 tags: vitigno, sinonimo, bacca nera
