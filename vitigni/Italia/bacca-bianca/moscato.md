@@ -1,11 +1,11 @@
 ---
 title: Moscato
-description: "Moscato" è un sinonimo.
+description: "Moscato" è un sinonimo di "Muscat"
 published: true
-date: 2021-08-16T11:09:03.463Z
+date: 2021-09-06T17:12:50.588Z
 tags: vitigno, sinonimo, bacca bianca
 editor: markdown
-dateCreated: 2021-08-16T11:09:01.240Z
+dateCreated: 2021-09-06T17:12:50.588Z
 ---
 
 # Moscato
