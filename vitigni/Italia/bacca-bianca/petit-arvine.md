@@ -1,13 +1,13 @@
 ---
-title: Petit Arvine
-description: "Petit Arvine" è un sinonimo.
+title: Petit arvine
+description: "Petit arvine è un sinonimo di "Arvine"
 published: true
-date: 2021-08-16T18:24:57.818Z
+date: 2021-09-06T17:07:47.859Z
 tags: vitigno, sinonimo, bacca bianca
 editor: markdown
-dateCreated: 2021-08-16T18:24:55.500Z
+dateCreated: 2021-09-06T17:07:47.859Z
 ---
 
 # Petit Arvine
 
-"Petit Arvine" è un sinonimo utilizzato per il vitigno [Arvine](/vitigni/bacca-bianca/arvine).
+"Petit Arvine" è un sinonimo utilizzato per il vitigno [Arvine](/vitigni/Svizzera/bacca-bianca/arvine).
