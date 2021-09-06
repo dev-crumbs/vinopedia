@@ -1,13 +1,13 @@
 ---
 title: Moscatello
-description: "Moscatello" è un sinonimo.
+description: "Moscatello" è un sinonimo di "Muscat"
 published: true
-date: 2021-08-16T11:10:00.303Z
+date: 2021-09-06T17:14:53.394Z
 tags: vitigno, sinonimo, bacca bianca
 editor: markdown
-dateCreated: 2021-08-16T11:09:57.898Z
+dateCreated: 2021-09-06T17:14:53.394Z
 ---
 
 # Moscatello
 
-"Moscatello" è un sinonimo utilizzato in Italia per il vitigno [Muscat](/vitigni/bacca-bianca/muscat).
+"Moscatello" è un sinonimo utilizzato in Italia per il vitigno [Muscat](/vitigni/Francia/bacca-bianca/muscat).
