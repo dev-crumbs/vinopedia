@@ -1,11 +1,11 @@
 ---
 title: Zibibbo
-description: "Zibibbo" è un sinonimo.
+description: "Zibibbo" è un sinonimo di "Moscato di Alessandria"
 published: true
-date: 2021-08-16T18:26:12.463Z
+date: 2021-09-06T16:48:20.461Z
 tags: vitigno, sinonimo, bacca bianca
 editor: markdown
-dateCreated: 2021-08-16T18:26:10.125Z
+dateCreated: 2021-09-06T16:48:20.461Z
 ---
 
 # Zibibbo
