@@ -20,11 +20,11 @@ Trebbiano della Fiamma (Lugo in provincia di Ravenna), Trebbiano di Romagna
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Trebbiano Modenese](/vitigni/bacca-bianca/trebbiano-modenese), [Verdicchio Bianco](/vitigni/bacca-bianca/verdicchio-bianco)
+[Trebbiano Modenese](/vitigni/Italia/bacca-bianca/trebbiano-modenese), [Verdicchio Bianco](/vitigni/Italia/bacca-bianca/verdicchio-bianco)
 
 
 ## Origini e parentele
-Il Trebbiano Romagnolo è probabilmente originario della provincia di Ravenna in Emilia-Romagna nell'Italia centro-settentrionale, dove la prima menzione di un qualsiasi (anche se non necessariamente questo) [Trebbiano](/vitigni/bacca-bianca/trebbiano) appare nel 1303 nel trattato di agricoltura di Pietro de Crescenzi.
+Il Trebbiano Romagnolo è probabilmente originario della provincia di Ravenna in Emilia-Romagna nell'Italia centro-settentrionale, dove la prima menzione di un qualsiasi (anche se non necessariamente questo) [Trebbiano](/vitigni/Italia/bacca-bianca/trebbiano) appare nel 1303 nel trattato di agricoltura di Pietro de Crescenzi.
 
 ## Caratteristiche viticole
 
@@ -41,7 +41,7 @@ Il Trebbiano Romagnolo è usato nell'assemblaggio di molti e vari vini bianchi s
 
 ## Caratteristiche enologiche
 
-I vini varietali sono relativamente modesti, spesso piuttosto blandi ma con fresca acidità - il che è probabilmente il motivo per cui vengono usati nei vini base per alcuni spumanti/frizzanti - e sono autorizzati nei Colli Romagna Centrale e nell'onnipresente Trebbiano di Romagna DOC. In Sardegna è un'alternativa al [Trebbiano Toscano](/vitigni/bacca-bianca/trebbiano-toscano) nella DOC Arborea. Viene anche usato nella produzione di brandy.
+I vini varietali sono relativamente modesti, spesso piuttosto blandi ma con fresca acidità - il che è probabilmente il motivo per cui vengono usati nei vini base per alcuni spumanti/frizzanti - e sono autorizzati nei Colli Romagna Centrale e nell'onnipresente Trebbiano di Romagna DOC. In Sardegna è un'alternativa al [Trebbiano Toscano](/vitigni/Italia/bacca-bianca/trebbiano-toscano) nella DOC Arborea. Viene anche usato nella produzione di brandy.
 
 Gli esempi di Battistini, La Berta, Celli, Dalfiume, Cantina di Faenza e Zerbina sono probabilmente migliori di molti altri.
 

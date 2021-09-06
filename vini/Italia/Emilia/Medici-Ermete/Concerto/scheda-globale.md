@@ -15,7 +15,7 @@ dateCreated: 2021-08-18T10:27:11.126Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** Reggiano DOC 
 - **Produttore:** Medici Ermete 
-- **Composizione:** 100% [Lambrusco Salamino](/vitigni/bacca-nera/lambrusco-salamino)
+- **Composizione:** 100% [Lambrusco Salamino](/vitigni/Italia/bacca-nera/lambrusco-salamino)
 - **Affinamento:** 6 mesi in acciaio
 - **Alcol:** 11.5%
 - **Fascia di prezzo:** 5 - 9 €

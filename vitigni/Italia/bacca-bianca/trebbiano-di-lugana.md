@@ -10,4 +10,4 @@ dateCreated: 2021-08-18T15:55:39.117Z
 
 # Malvasia Castellana
 
-"Trebbiano di Lugana" è un sinonimo utilizzato per il vitigno [Verdicchio bianco](/vitigni/bacca-bianca/verdicchio-bianco).
+"Trebbiano di Lugana" è un sinonimo utilizzato per il vitigno [Verdicchio bianco](/vitigni/Italia/bacca-bianca/verdicchio-bianco).

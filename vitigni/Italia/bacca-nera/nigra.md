@@ -22,7 +22,7 @@ Incrocio Cosmo 96
 [Cot](/vitigni/bacca-nera/cot), [Gamay noir](/vitigni/bacca-nera/gamay-noir)
 
 ## Origini e parentele
-Nigra è un incrocio di [Merlot](/vitigni/bacca-nera/merlot) e [Barbera](/vitigni/bacca-nera/barbera) ottenuto negli anni '60 da Italo Cosmo presso il centro di ricerca di Conegliano in Veneto, Italia settentrionale, con lo scopo di aumentare l'acidità del Merlot. È un fratello di [Prodest](/vitigni/bacca-nera/prodest).
+Nigra è un incrocio di [Merlot](/vitigni/Francia/bacca-nera/merlot) e [Barbera](/vitigni/bacca-nera/barbera) ottenuto negli anni '60 da Italo Cosmo presso il centro di ricerca di Conegliano in Veneto, Italia settentrionale, con lo scopo di aumentare l'acidità del Merlot. È un fratello di [Prodest](/vitigni/bacca-nera/prodest).
 
 ## Diffusione geografica
 Ci sono solo pochi ettari piantati nella provincia di Treviso e meno di 10 ha (25 acri) sono stati registrati in Italia nel 2000.

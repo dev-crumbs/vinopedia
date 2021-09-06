@@ -20,14 +20,14 @@ Fior d'Arancio (Padova), Goldenmuskateller o Goldmuskateller (Bolzano), Moscatel
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Muscat Blanc À Petits Grains](/vitigni/bacca-bianca/muscat-blanc-a-petit-grains) (Moscato Bianco in Sicilia), [Muscat Fleur D'Oranger](/vitigni/bacca-bianca/muscat-fleur-d-oranger) (Colli Euganei)
+[Muscat Blanc À Petits Grains](/vitigni/Francia/bacca-bianca/muscat-blanc-a-petit-grains) (Moscato Bianco in Sicilia), [Muscat Fleur D'Oranger](/vitigni/bacca-bianca/muscat-fleur-d-oranger) (Colli Euganei)
 
 ## Origini e parentele
-L'analisi di parentela del DNA ha rivelato che il Moscato Giallo ha una relazione di parentela con [Muscat Blanc À Petits Grains](/vitigni/bacca-bianca/muscat-blanc-a-petit-grains) (Moscato Bianco; Crespan e Milani 2001) ed è quindi un fratellastro o un nipote di almeno altre cinque varietà che hanno relazioni di parentela con Muscat Blanc à Petits Grains: [Aleatico](/vitigni/bacca-nera/aleatico) (Moscatello Nero), [Moscato Di Scanzo](/vitigni/bacca-bianca/moscato-di-scanzo), [Moscato Rosa](/vitigni/bacca-bianca/moscato-rosa) Del Trentino, [Moscato Di Alexandria](/vitigni/bacca-bianca/moscato-di-alessandria) e il non più coltivato [Muscat Rouge de Madère](/vitigni/bacca-nera/muscat-rouge-de-madere). È più probabile che le origini del Moscato Giallo siano nell'Italia settentrionale che nel Medio Oriente.
+L'analisi di parentela del DNA ha rivelato che il Moscato Giallo ha una relazione di parentela con [Muscat Blanc À Petits Grains](/vitigni/Francia/bacca-bianca/muscat-blanc-a-petit-grains) (Moscato Bianco; Crespan e Milani 2001) ed è quindi un fratellastro o un nipote di almeno altre cinque varietà che hanno relazioni di parentela con Muscat Blanc à Petits Grains: [Aleatico](/vitigni/bacca-nera/aleatico) (Moscatello Nero), [Moscato Di Scanzo](/vitigni/Italia/bacca-bianca/moscato-di-scanzo), [Moscato Rosa](/vitigni/Italia/bacca-bianca/moscato-rosa) Del Trentino, [Moscato Di Alexandria](/vitigni/Italia/bacca-bianca/moscato-di-alessandria) e il non più coltivato [Muscat Rouge de Madère](/vitigni/bacca-nera/muscat-rouge-de-madere). È più probabile che le origini del Moscato Giallo siano nell'Italia settentrionale che nel Medio Oriente.
 
 ### Altre Ipotesi
 
-Presumibilmente introdotto dalla Siria, ma questo suggerimento è stato smentito dalla relazione genitore-figlio scoperta di recente con il [Muscat Blanc À Petits Grains](/vitigni/bacca-bianca/muscat-blanc-a-petit-grains).
+Presumibilmente introdotto dalla Siria, ma questo suggerimento è stato smentito dalla relazione genitore-figlio scoperta di recente con il [Muscat Blanc À Petits Grains](/vitigni/Francia/bacca-bianca/muscat-blanc-a-petit-grains).
 
 ## Caratteristiche viticole
 
@@ -48,4 +48,4 @@ I vini varietali sono di solito di colore dorato, dolcemente aromatici e vinosi 
 
 In Italia, il Moscato Giallo viene coltivato principalmente in Vallagarina (Lagertal in tedesco) nella provincia di Trento e a Bolzano (con il nome Goldmuskateller) nell'Italia settentrionale, dove sono ammessi vini varietali nelle DOC Trentino e Alto Adige. Si usa anche nei vini frizzanti e passiti Fior d'Arancio all'interno della DOC Colli Euganei, nei vini Moscato dolci e frizzanti della DOC Corti Benedettine del Padovano, entrambi in Veneto, e più a est nella DOC Friuli-Isonzo. C'erano 360 ha (890 acri) in Italia nel 2000.
 
-In Svizzera, i vigneti di Moscato nel Vallese hanno recentemente dimostrato di essere un mix di campo di [Muscat Blanc À Petits Grains](/vitigni/bacca-bianca/muscat-blanc-a-petit-grains) e Moscato Giallo, chiamato localmente Muscat du Pays (Spring et al. 2008).
+In Svizzera, i vigneti di Moscato nel Vallese hanno recentemente dimostrato di essere un mix di campo di [Muscat Blanc À Petits Grains](/vitigni/Francia/bacca-bianca/muscat-blanc-a-petit-grains) e Moscato Giallo, chiamato localmente Muscat du Pays (Spring et al. 2008).

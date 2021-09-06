@@ -9,4 +9,4 @@ dateCreated: 2021-07-30T15:47:43.024Z
 ---
 
 # Aboto
-"Aboto" è un sinonimo utilizzato per il vitigno [Abbuoto](/vitigni/bacca-nera/abbuoto)
+"Aboto" è un sinonimo utilizzato per il vitigno [Abbuoto](/vitigni/Italia/bacca-nera/abbuoto)

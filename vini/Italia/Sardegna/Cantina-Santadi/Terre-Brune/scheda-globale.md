@@ -15,7 +15,7 @@ dateCreated: 2021-08-24T11:16:41.742Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Carignano del Sulcis DOC](/denominazioni/Italia/Sardegna/DOC/Carignano-del-Sulcis) (Superiore)
 - **Produttore:** [Cantina Santadi](/produttori/Italia/Sardegna/Cantina-Santadi) 
-- **Composizione:** 95% [Carignano](/vitigni/bacca-bianca/carignano) + 5% [Bovale](/vitigni/bacca-bianca/bovale)
+- **Composizione:** 95% [Carignano](/vitigni/Italia/bacca-nera/carignano) + 5% [Bovale](/vitigni/Italia/bacca-nera/bovale)
 - **Affinamento:** 18 mesi in barrique di rovere
 - **Alcol:** 15%
 - **Fascia di prezzo:** 55 - 59 €

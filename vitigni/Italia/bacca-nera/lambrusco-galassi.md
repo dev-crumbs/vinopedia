@@ -9,4 +9,4 @@ dateCreated: 2021-08-18T11:58:32.606Z
 ---
 
 # Lambrusco Galassi
-"Primitivo" è un sinonimo utilizzato in Italia per il vitigno [Lambrusco Salamino](/vitigni/bacca-nera/lambrusco-salamino)
+"Primitivo" è un sinonimo utilizzato in Italia per il vitigno [Lambrusco Salamino](/vitigni/Italia/bacca-nera/lambrusco-salamino)

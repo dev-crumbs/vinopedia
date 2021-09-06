@@ -10,4 +10,4 @@ dateCreated: 2021-08-19T05:49:45.173Z
 
 # Malvasia Di Sardegna
 
-"Malvasia Di Sardegna" è un sinonimo utilizzato in Italia per il vitigno [Malvasia Di Lipari](/vitigni/bacca-bianca/malvasia-di-lipari)
+"Malvasia Di Sardegna" è un sinonimo utilizzato in Italia per il vitigno [Malvasia Di Lipari](/vitigni/Italia/bacca-bianca/malvasia-di-lipari)

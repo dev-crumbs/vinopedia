@@ -20,10 +20,10 @@ Malvasia a Grappolo Corto, Malvasia di Castelnuovo Don Bosco
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Malvasia Di Casorzo](/vitigni/bacca-bianca/malvasia-di-casorzo), [Malvasia Nera Lunga](/vitigni/bacca-nera/malvasia-nera-lunga), Malvasia Rosa (mutazione di colore di [Malvasia Di Candia Aromatica](/vitigni/bacca-bianca/malvasia-di-candia-aromatica), Piacenza)
+[Malvasia Di Casorzo](/vitigni/Italia/bacca-bianca/malvasia-di-casorzo), [Malvasia Nera Lunga](/vitigni/Italia/bacca-nera/malvasia-nera-lunga), Malvasia Rosa (mutazione di colore di [Malvasia Di Candia Aromatica](/vitigni/Italia/bacca-bianca/malvasia-di-candia-aromatica), Piacenza)
 
 ## Origini e parentele
-La prima menzione di una Malvasia di colore rosso in Piemonte si trova in De Maria e Leardi (1875), ma non si sa se fosse un riferimento a [Malvasia Nera Lunga](/vitigni/bacca-nera/malvasia-nera-lunga), Malvasia di Schierano o [Malvasia Di Casorzo](/vitigni/bacca-bianca/malvasia-di-casorzo). Recenti profilazioni del DNA hanno dimostrato che la Malvasia di Schierano è geneticamente vicina alla [Malvasia Del Lazio](/vitigni/bacca-bianca/malvasia-del-lazio) e al [moscato di alessandria](/vitigni/bacca-bianca/moscato-di-alessandria) (Lacombe et al. 2007).
+La prima menzione di una Malvasia di colore rosso in Piemonte si trova in De Maria e Leardi (1875), ma non si sa se fosse un riferimento a [Malvasia Nera Lunga](/vitigni/Italia/bacca-nera/malvasia-nera-lunga), Malvasia di Schierano o [Malvasia Di Casorzo](/vitigni/Italia/bacca-bianca/malvasia-di-casorzo). Recenti profilazioni del DNA hanno dimostrato che la Malvasia di Schierano è geneticamente vicina alla [Malvasia Del Lazio](/vitigni/Italia/bacca-bianca/malvasia-del-lazio) e al [moscato di alessandria](/vitigni/Italia/bacca-bianca/moscato-di-alessandria) (Lacombe et al. 2007).
 
 ## Caratteristiche viticole
 

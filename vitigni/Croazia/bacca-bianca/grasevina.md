@@ -20,14 +20,14 @@ Borba (Ribera del Guadiana in Spagna), Graševina Bijela (Croazia), Riesling ita
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Aligoté](/vitigni/bacca-bianca/aligote), [Greco](/vitigni/bacca-bianca/greco), [Petit Meslier](/vitigni/bacca-bianca/petit-meslier), [Pignoletto](/vitigni/bacca-bianca/pignoletto), [Riesling](/vitigni/bacca-bianca/riesling)
+[Aligoté](/vitigni/bacca-bianca/aligote), [Greco](/vitigni/Italia/bacca-bianca/greco), [Petit Meslier](/vitigni/bacca-bianca/petit-meslier), [Pignoletto](/vitigni/bacca-bianca/pignoletto), [Riesling](/vitigni/Germania/bacca-bianca/riesling)
 
 
 ## Origini e parentele
 L'origine di questa varietà antica e ampiamente diffusa è stata a lungo oggetto di speculazioni (vedi Altre ipotesi sotto) e va sotto molti sinonimi diversi, principalmente ma non esclusivamente nell'Europa centrale e orientale. Il nome Graševina (usato in Croazia) è stato scelto come nome principale perché:
 
 - È la varietà di uva bianca più diffusa in Croazia.
-- I nomi Laški Rizling, Olasz Rizling, Riesling Italico, Ryzling Vlašský e Welschriesling suggeriscono confusamente un legame con il [Riesling](/vitigni/bacca-bianca/riesling) bianco della Germania anche se sono geneticamente e organoletticamente ben distinti.
+- I nomi Laški Rizling, Olasz Rizling, Riesling Italico, Ryzling Vlašský e Welschriesling suggeriscono confusamente un legame con il [Riesling](/vitigni/Germania/bacca-bianca/riesling) bianco della Germania anche se sono geneticamente e organoletticamente ben distinti.
 - Il nome Welschriesling (welsch significa 'straniero') suggerisce che la varietà fu introdotta dall'estero in paesi di lingua tedesca come l'Austria, dove è ampiamente coltivata.
 - La Graševina non fu introdotta nell'Italia settentrionale fino al XIX secolo, dove divenne nota come Riesling Italico (Calò et al. 2006).
 
@@ -39,7 +39,7 @@ Graševina è stata usata (sotto diversi sinonimi) per allevare diverse varietà
 
 ### Altre Ipotesi
 
-L'ampelografo Ludwig von Babo (1843-4) suggerì che la Graševina (sotto il nome di Wälschriesling) fu introdotta a Heidelberg in Germania dalla regione dello Champagne, dove la identificò provvisoriamente con [Aligoté](/vitigni/bacca-bianca/aligote) o [Petit Meslier](/vitigni/bacca-bianca/petit-meslier). Tuttavia, la Graševina non è imparentata con quelle varietà e non è mai stata coltivata in Francia. I nomi Welsch, Laški e Vlašsk´y preceduti o seguiti da Riesling in diverse lingue significano tutti presumibilmente 'dalla Valacchia' (una regione storica della Romania), suggerendo un'origine rumena. Tuttavia, questo è dubbio perché i romeni stessi lo chiamano Riesling italiano e i loro vicini ungheresi lo hanno semplicemente tradotto (olasz significa 'italiano'). Per alcuni autori, il nome Riesling Italico suggerisce un'origine italiana per questa varietà, ed è stata proposta una somiglianza con [Greco](/vitigni/bacca-bianca/greco) (aka Greco di Tufo) perché entrambi presumibilmente assomigliano alla Vitis aminea gemella romana (Giavedoni e Gily 2005). Il profilo del DNA, tuttavia, respinge chiaramente qualsiasi legame genetico tra Graševina e Greco.
+L'ampelografo Ludwig von Babo (1843-4) suggerì che la Graševina (sotto il nome di Wälschriesling) fu introdotta a Heidelberg in Germania dalla regione dello Champagne, dove la identificò provvisoriamente con [Aligoté](/vitigni/bacca-bianca/aligote) o [Petit Meslier](/vitigni/bacca-bianca/petit-meslier). Tuttavia, la Graševina non è imparentata con quelle varietà e non è mai stata coltivata in Francia. I nomi Welsch, Laški e Vlašsk´y preceduti o seguiti da Riesling in diverse lingue significano tutti presumibilmente 'dalla Valacchia' (una regione storica della Romania), suggerendo un'origine rumena. Tuttavia, questo è dubbio perché i romeni stessi lo chiamano Riesling italiano e i loro vicini ungheresi lo hanno semplicemente tradotto (olasz significa 'italiano'). Per alcuni autori, il nome Riesling Italico suggerisce un'origine italiana per questa varietà, ed è stata proposta una somiglianza con [Greco](/vitigni/Italia/bacca-bianca/greco) (aka Greco di Tufo) perché entrambi presumibilmente assomigliano alla Vitis aminea gemella romana (Giavedoni e Gily 2005). Il profilo del DNA, tuttavia, respinge chiaramente qualsiasi legame genetico tra Graševina e Greco.
 
 ## Caratteristiche viticole
 
@@ -59,7 +59,7 @@ La Spagna aveva solo 8 ha (20 acri) di Borba nel 2008, per lo più nella provinc
 
 ### In Austria
 
-L'Austria ha registrato 3.597 ha (8.888 acri) di Welschriesling nel 2009, che rappresentano il 7,8% della superficie totale dei vigneti e quasi il doppio della superficie dedicata al [Riesling](/vitigni/bacca-bianca/riesling). I vini migliori, a volte mescolati con [Chardonnay](/vitigni/bacca-bianca/chardonnay) o altre varietà coltivate localmente, provengono da uve raccolte in ritardo o botritizzate sulle rive del Neusiedlersee nel Burgenland, dove è piantata quasi la metà del Welschriesling austriaco - anche se mancano della longevità dei migliori Riesling TBA. Il Greiner Welschriesling di Schröck & Kracher è un ottimo esempio di vendemmia tardiva. L'altra espressione principale di questa varietà è meno drammatica: vini leggeri, secchi o off-dry per un consumo facile e precoce. Si usa anche per il Sekt austriaco. Tra i produttori raccomandati vi sono Feiler-Artinger, Kracher e Velich.
+L'Austria ha registrato 3.597 ha (8.888 acri) di Welschriesling nel 2009, che rappresentano il 7,8% della superficie totale dei vigneti e quasi il doppio della superficie dedicata al [Riesling](/vitigni/Germania/bacca-bianca/riesling). I vini migliori, a volte mescolati con [Chardonnay](/vitigni/Francia/bacca-bianca/chardonnay) o altre varietà coltivate localmente, provengono da uve raccolte in ritardo o botritizzate sulle rive del Neusiedlersee nel Burgenland, dove è piantata quasi la metà del Welschriesling austriaco - anche se mancano della longevità dei migliori Riesling TBA. Il Greiner Welschriesling di Schröck & Kracher è un ottimo esempio di vendemmia tardiva. L'altra espressione principale di questa varietà è meno drammatica: vini leggeri, secchi o off-dry per un consumo facile e precoce. Si usa anche per il Sekt austriaco. Tra i produttori raccomandati vi sono Feiler-Artinger, Kracher e Velich.
 
 ### In Slovenia
 
@@ -71,7 +71,7 @@ Raccomandata in tutte le regioni vinicole della Kontinentalna Hrvatska (Croazia 
 
 ### In Slovacchia
 
-Ryzling Vlašský comprendeva più del 16% (3.132 ha/7.739 acri) dell'area di vigneti della Slovacchia nel 2009, secondo solo a [Grüner Veltliner](/vitigni/bacca-bianca/gruner-veltliner) tra le varietà di vino bianco. La Repubblica Ceca ha riportato 1.247 ha (3.081 acri) di Ryzlink Vlašský nel 2009 - quasi esattamente la stessa area di quella dedicata a Ryzlink Rýnský ([Riesling](/vitigni/bacca-bianca/riesling)). I produttori consigliati per gli stili secchi includono Michlovsk´y (Rakvice), Mikrosvín (Mikulov) e Zámecké Vinarske Bzenec (Bzenec), oltre a Galant, Silinek e Volarik (tutti a Mikulov), Reisten (Pavlov) e Sebesta (Brezi). Per i vini dolci, Marcincak (Mikulov), Oldrich Drapal Sr e Perina (Klentice).
+Ryzling Vlašský comprendeva più del 16% (3.132 ha/7.739 acri) dell'area di vigneti della Slovacchia nel 2009, secondo solo a [Grüner Veltliner](/vitigni/bacca-bianca/gruner-veltliner) tra le varietà di vino bianco. La Repubblica Ceca ha riportato 1.247 ha (3.081 acri) di Ryzlink Vlašský nel 2009 - quasi esattamente la stessa area di quella dedicata a Ryzlink Rýnský ([Riesling](/vitigni/Germania/bacca-bianca/riesling)). I produttori consigliati per gli stili secchi includono Michlovsk´y (Rakvice), Mikrosvín (Mikulov) e Zámecké Vinarske Bzenec (Bzenec), oltre a Galant, Silinek e Volarik (tutti a Mikulov), Reisten (Pavlov) e Sebesta (Brezi). Per i vini dolci, Marcincak (Mikulov), Oldrich Drapal Sr e Perina (Klentice).
 
 ### In Ungheria
 

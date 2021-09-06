@@ -21,7 +21,7 @@ Nera
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Abouriou](/vitigni/bacca-nera/abouriou), [Bouchales](/vitigni/bacca-nera/bouchales), [Canari Noir](/vitigni/bacca-nera/canari-noir), [Menoir](/vitigni/bacca-nera/menoir), [Négrette](/vitigni/bacca-nera/negrette), [Prunelard](/vitigni/bacca-nera/prunelard)
+[Abouriou](/vitigni/Francia/bacca-nera/abouriou), [Bouchales](/vitigni/bacca-nera/bouchales), [Canari Noir](/vitigni/bacca-nera/canari-noir), [Menoir](/vitigni/bacca-nera/menoir), [Négrette](/vitigni/bacca-nera/negrette), [Prunelard](/vitigni/bacca-nera/prunelard)
 
 ## Origini e parentele
 Il Cot è un vitigno originaria della zona di Cahors, nella provincia di Quercy (Francia), corrispondente agli attuali dipartimenti di Lot e Tarn-et-Garonne. 

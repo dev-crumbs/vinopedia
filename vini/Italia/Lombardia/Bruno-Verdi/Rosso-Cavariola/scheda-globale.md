@@ -46,4 +46,4 @@ capace di evolvere a lungo nel tempo.
 
 ## Note
 
-Il produttore utilizza il sinonimo ["Ughetta"](/vitigni/bacca-nera/ughetta) per indicare il vitigno [Vespolina](/vitigni/bacca-nera/vespolina) 
+Il produttore utilizza il sinonimo ["Ughetta"](/vitigni/Italia/bacca-nera/ughetta) per indicare il vitigno [Vespolina](/vitigni/Italia/bacca-nera/vespolina) 

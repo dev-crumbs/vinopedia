@@ -9,4 +9,4 @@ dateCreated: 2021-08-02T17:13:10.340Z
 ---
 
 # Plant Abouriou
-"Plant Abouriou" è un sinonimo utilizzato in Lot-et-Garonne per il vitigno [Abouriou](/vitigni/bacca-nera/abouriou).
+"Plant Abouriou" è un sinonimo utilizzato in Lot-et-Garonne per il vitigno [Abouriou](/vitigni/Francia/bacca-nera/abouriou).

@@ -37,6 +37,6 @@ Il censimento del 2008 ha trovato 2.100 ha (5.189 acri) di Garnacha Blanca in Sp
 
 In Priorat, Viñedos de Ithaca produce una versione varietale dolce di Garnacha Blanca, mentre Vinya Llisarda di Gran Clos è un blend basato su Garnacha Blanca.
 
-Si trova in Croazia e, con il nome di Belan, nella Repubblica di Macedonia, dove tende ad essere piantato solo nei vigneti più caldi a causa della sua sensibilità alle basse temperature invernali. È anche coltivato in misura limitata in California (266 acri/108 ha nel 2010) con la Santa Ynez Valley che è un hotspot. C'è anche un po' nella Sierra Foothills. Il numero di Grenache Blancs californiani esuberanti dal punto di vista varietale è aumentato in linea con la fatica del [Chardonnay](/vitigni/bacca-bianca/chardonnay).
+Si trova in Croazia e, con il nome di Belan, nella Repubblica di Macedonia, dove tende ad essere piantato solo nei vigneti più caldi a causa della sua sensibilità alle basse temperature invernali. È anche coltivato in misura limitata in California (266 acri/108 ha nel 2010) con la Santa Ynez Valley che è un hotspot. C'è anche un po' nella Sierra Foothills. Il numero di Grenache Blancs californiani esuberanti dal punto di vista varietale è aumentato in linea con la fatica del [Chardonnay](/vitigni/Francia/bacca-bianca/chardonnay).
 
 Il Sudafrica aveva 46 ha (114 acri) di questa varietà nel 2008. The Foundry e Signal Hill lo prendono sul serio.

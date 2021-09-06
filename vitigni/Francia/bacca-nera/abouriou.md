@@ -24,7 +24,7 @@ Nera
 ## Origini e parentele
 L'Abouriou era molto diffuso in Lot-et-Garonne fino alla metà del XIX secolo. Quasi estinto, è stato salvaguardato da Numa Naugé (da cui il sinonimo "Précoce Naugé"), un produttore della zona di Casseneuil che raccontava di aver ricevuto alcuni esemplari da un coltivatore locale, che a sua volta aveva trovato alcune piante selvatiche tra le rovine di un castello nell'area di Villeréal.
 
-Uno studio [^1] del 2009 ha descritto una possibile parentela tra l'Abouriou e il [Magdeleine Noir des Charentes](/vitigni/bacca-nera/magdeleine-noir-des-charentes), il progenitore del [Merlot](/vitigni/bacca-nera/merlot) e del Cot.
+Uno studio [^1] del 2009 ha descritto una possibile parentela tra l'Abouriou e il [Magdeleine Noir des Charentes](/vitigni/bacca-nera/magdeleine-noir-des-charentes), il progenitore del [Merlot](/vitigni/Francia/bacca-nera/merlot) e del Cot.
 
 L'Abouriou è stato utilizzato per creare i vitigni [Ederena](/vitigni/bacca-nera/ederena) e [Egiodola](/vitigni/bacca-nera/egiodola). In Slovacchia è stato incrociato con il [Castets](/vitigni/bacca-nera/castets) per creare i vitigni [Hron](/vitigni/bacca-nera/hron), [Nitranka](/vitigni/bacca-nera/nitranka), [Rimava](/vitigni/bacca-nera/rimava) e [Váh](/vitigni/bacca-nera/vah).
  

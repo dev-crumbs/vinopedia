@@ -17,12 +17,12 @@ Nera
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Malvasia Di Schierano](/vitigni/bacca-nera/malvasia-di-schierano) (Piemonte), [Malvasia Nera Lunga](/vitigni/bacca-nera/malvasia-nera-lunga) (Piemonte)
+[Malvasia Di Schierano](/vitigni/Italia/bacca-nera/malvasia-di-schierano) (Piemonte), [Malvasia Nera Lunga](/vitigni/Italia/bacca-nera/malvasia-nera-lunga) (Piemonte)
 
 ## Origini e parentele
-La prima menzione di una Malvasia a bacca rossa in Piemonte si trova in De Maria e Leardi (1875) ma non si sa se si riferisse a [Malvasia Nera Lunga](/vitigni/bacca-bianca/malvasia-nera-lunga), [Malvasia Di Schierano](/vitigni/bacca-nera/malvasia-di-schierano) o [Malvasia di Casorzo](/vitigni/bacca-nera/malvasia-di-casorzo).
+La prima menzione di una Malvasia a bacca rossa in Piemonte si trova in De Maria e Leardi (1875) ma non si sa se si riferisse a [Malvasia Nera Lunga](/vitigni/Italia/bacca-nera/malvasia-nera-lunga), [Malvasia Di Schierano](/vitigni/Italia/bacca-nera/malvasia-di-schierano) o [Malvasia di Casorzo](/vitigni/Italia/bacca-nera/malvasia-di-casorzo).
 
-Un recente profilo del DNA ha rivelato una probabile relazione genitore-figlio tra Malvasia di Casorzo e [Lambrusco Di Alessandria](/vitigni/bacca-nera/lambrusco-di-alessandria) (Torello Marinoni et al. 2006) e ha suggerito che Malvasia di Casorzo potrebbe essere geneticamente vicina a [Malvasia Di Candia Aromatica](/vitigni/bacca-bianca/malvasia-di-candia-aromatica) (Lacombe et al. 2007).
+Un recente profilo del DNA ha rivelato una probabile relazione genitore-figlio tra Malvasia di Casorzo e [Lambrusco Di Alessandria](/vitigni/Italia/bacca-nera/lambrusco-di-alessandria) (Torello Marinoni et al. 2006) e ha suggerito che Malvasia di Casorzo potrebbe essere geneticamente vicina a [Malvasia Di Candia Aromatica](/vitigni/Italia/bacca-bianca/malvasia-di-candia-aromatica) (Lacombe et al. 2007).
  
 [^1]: Boursiquot [2009]
 

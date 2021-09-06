@@ -15,7 +15,7 @@ dateCreated: 2021-08-24T11:31:20.502Z
 - **Tipologia:** Bianco passito
 - **Denominazione:** [Albana DOCG](/denominazioni/Italia/Romagna/DOCG/Albana)
 - **Produttore:** [Ferrucci](/produttori/Italia/Romagna/Ferrucci) 
-- **Composizione:** 100% [Albana](/vitigni/bacca-bianca/albana)
+- **Composizione:** 100% [Albana](/vitigni/Italia/bacca-bianca/albana)
 - **Affinamento:** 2 mesi appassimento su telai, 10 mesi in cemento vetrificato
 - **Alcol:** 13%
 - **Fascia di prezzo:** 20 - 24 €

@@ -9,4 +9,4 @@ dateCreated: 2021-08-02T17:16:34.969Z
 ---
 
 # Précoce Noir
-"Précoce Noir" è un sinonimo utilizzato in Dordogne per il vitigno [Abouriou](/vitigni/bacca-nera/abouriou).
+"Précoce Noir" è un sinonimo utilizzato in Dordogne per il vitigno [Abouriou](/vitigni/Francia/bacca-nera/abouriou).

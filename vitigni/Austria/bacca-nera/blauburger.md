@@ -17,10 +17,10 @@ Nera
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-Blauburgunder (nome tedesco per [Pinot Noir](/vitigni/bacca-nera/pinot-noir))
+Blauburgunder (nome tedesco per [Pinot Noir](/vitigni/Francia/bacca-nera/pinot-noir))
 
 ## Origini e parentele
-Un incrocio di [Blauer Portugieser](/vitigni/bacca-nera/blauer-portugieser) e [Blaufränkisch](/vitigni/bacca-nera/blaufrankisch) allevato nel 1923 da Fritz Zweigelt nel centro di ricerca Klosterneuburg a ovest di Vienna, rendendo Blauburger un nipote di [Gouais Blanc](/vitigni/bacca-bianca/gouais-blanc). Fu usato per allevare [Ráthay](/vitigni/bacca-nera/rathay).
+Un incrocio di [Blauer Portugieser](/vitigni/Austria/bacca-nera/blauer-portugieser) e [Blaufränkisch](/vitigni/Austria/bacca-nera/blaufrankisch) allevato nel 1923 da Fritz Zweigelt nel centro di ricerca Klosterneuburg a ovest di Vienna, rendendo Blauburger un nipote di [Gouais Blanc](/vitigni/bacca-bianca/gouais-blanc). Fu usato per allevare [Ráthay](/vitigni/Austria/bacca-nera/rathay).
 
 ## Caratteristiche viticole
 - Maturazione da precoce a media

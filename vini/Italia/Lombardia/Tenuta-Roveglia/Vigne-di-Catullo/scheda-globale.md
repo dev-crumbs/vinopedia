@@ -15,7 +15,7 @@ dateCreated: 2021-08-24T11:31:20.502Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Lugana DOC](/denominazioni/Italia/Lombardia/DOC/Lugana) (Riserva)
 - **Produttore:** [Tenuta Roveglia](/produttori/Italia/Lombardia/Tenuta-Roveglia) 
-- **Composizione:** 100% [Trebbiano di Lugana](/vitigni/bacca-bianca/trebbiano-di-lugana)
+- **Composizione:** 100% [Trebbiano di Lugana](/vitigni/Italia/bacca-bianca/trebbiano-di-lugana)
 - **Affinamento:** 24 mesi in acciaio
 - **Alcol:** 13%
 - **Fascia di prezzo:** 15 - 19 €
@@ -42,7 +42,7 @@ dateCreated: 2021-08-24T11:31:20.502Z
 
 ## Note
 
-Il vitigno indicato dal produttore, [Trebbiano di Lugana](/vitigni/bacca-bianca/trebbiano-di-lugana), è in realtà un sinonimo del [Verdicchio bianco](/vitigni/bacca-bianca/verdicchio-bianco)
+Il vitigno indicato dal produttore, [Trebbiano di Lugana](/vitigni/Italia/bacca-bianca/trebbiano-di-lugana), è in realtà un sinonimo del [Verdicchio bianco](/vitigni/Italia/bacca-bianca/verdicchio-bianco)
 
 
 

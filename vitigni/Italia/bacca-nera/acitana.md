@@ -21,6 +21,6 @@ La varietà e il nome provengono probabilmente da un gruppo di comuni a nord-est
 
 ## Diffusione geografica e come viene utilizzato
 
-Varietà molto rara anticamente coltivata nelle province di Messina e Catania nel nord-est della Sicilia, Italia. Oggi viene coltivata intorno a Messina, dove trova posto nel blend "Faro di Palari" (anche se il regolamento della denominazione Faro non la autorizza specificamente). Viene generalmente utilizzato in blend con [Nerello Mascalese](/vitigni/bacca-nera/nerello-mascalese), [Nerello Cappuccio](/vitigni/bacca-nera/nerello-cappuccio) e altre varietà locali.
+Varietà molto rara anticamente coltivata nelle province di Messina e Catania nel nord-est della Sicilia, Italia. Oggi viene coltivata intorno a Messina, dove trova posto nel blend "Faro di Palari" (anche se il regolamento della denominazione Faro non la autorizza specificamente). Viene generalmente utilizzato in blend con [Nerello Mascalese](/vitigni/Italia/bacca-nera/nerello-mascalese), [Nerello Cappuccio](/vitigni/Italia/bacca-nera/nerello-cappuccio) e altre varietà locali.
 
 

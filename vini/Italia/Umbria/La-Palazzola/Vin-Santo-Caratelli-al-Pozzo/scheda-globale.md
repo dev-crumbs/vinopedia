@@ -15,7 +15,7 @@ dateCreated: 2021-08-24T11:16:41.742Z
 - **Tipologia:** Bianco passito
 - **Denominazione:** [Amelia DOC](/denominazioni/Italia/Umbria/DOC/Amelia) 
 - **Produttore:** [La Palazzola](/produttori/Italia/Umbria/La-Palazzola) 
-- **Composizione:** 65% [Trebbiano](/vitigni/bacca-bianca/trebbiano) + 35% [Malvasia bianca](/vitigni/bacca-bianca/malvasia-bianca)
+- **Composizione:** 65% [Trebbiano](/vitigni/Italia/bacca-bianca/trebbiano) + 35% [Malvasia bianca](/vitigni/Italia/bacca-bianca/malvasia-bianca)
 - **Affinamento:** 4 mesi con grappoli appesi + 5 anni in caratelli da 50 e 100 litri 
 - **Alcol:** 11%
 - **Fascia di prezzo:** 35 - 39 €
@@ -38,4 +38,4 @@ dateCreated: 2021-08-24T11:16:41.742Z
 - Luigi e Giovanna [2013](vini/Italia/Trentino/Poier-e-Sandri/Palai/2013) -- <span class="star-5"></span> -- 95/100
 
 ## Note
-Il produttore dichira il vitigno [Trebbiano](/vitigni/bacca-bianca/trebbiano), che come spiegato nella pagina dedicata non identifica nessun vitigno specifico ma è un nome generico di vitigni simili, non sempre imparentati tra loro. Poiché il disciplinare della DOC Amelia, di cui il vino fa parte, ammette esclusivamente il [Trebbiano toscano](/vitigni/bacca-bianca/trebbiano-toscano), è verosimile che sia questo il vitigno realmente utilizzato nel vino.
+Il produttore dichira il vitigno [Trebbiano](/vitigni/Italia/bacca-bianca/trebbiano), che come spiegato nella pagina dedicata non identifica nessun vitigno specifico ma è un nome generico di vitigni simili, non sempre imparentati tra loro. Poiché il disciplinare della DOC Amelia, di cui il vino fa parte, ammette esclusivamente il [Trebbiano toscano](/vitigni/Italia/bacca-bianca/trebbiano-toscano), è verosimile che sia questo il vitigno realmente utilizzato nel vino.

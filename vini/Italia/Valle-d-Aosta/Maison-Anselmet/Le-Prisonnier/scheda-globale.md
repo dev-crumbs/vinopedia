@@ -15,7 +15,7 @@ dateCreated: 2021-08-24T11:16:41.742Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Vino generico](/denominazioni/Italia/Vino-Generico)
 - **Produttore:** [Maison Anselmet](/produttori/Italia/Valle-d-Aosta/Maison-Anselmet) 
-- **Composizione:** 40% [Petit rouge](/vitigni/bacca-nera/petit-rouge) + 35% [Cornalin](/vitigni/bacca-nera/cornalin) + 20% [Fumin](/vitigni/bacca-nera/fumin) + 5% [Mayolet](/vitigni/bacca-nera/mayolet) 
+- **Composizione:** 40% [Petit rouge](/vitigni/Italia/bacca-nera/petit-rouge) + 35% [Cornalin](/vitigni/Italia/bacca-nera/cornalin) + 20% [Fumin](/vitigni/Italia/bacca-nera/fumin) + 5% [Mayolet](/vitigni/Italia/bacca-nera/mayolet) 
 - **Affinamento:** 20 mesi in barrique
 - **Alcol:** 14.5%
 - **Fascia di prezzo:** 60 - 64 €

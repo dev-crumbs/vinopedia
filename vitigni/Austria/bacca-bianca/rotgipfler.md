@@ -18,7 +18,7 @@ Reifler (Austria), Slatzki Zelenac (Slovacchia), Zelenac Slatki (Croazia)
 
 
 ## Origini e parentele
-I test di parentela del DNA hanno rivelato che Rotgipfler, molto probabilmente dalla regione Thermen dell'Austria, è un incrocio naturale tra [Savagnin](/vitigni/bacca-bianca/savagnin) e [Roter Veltliner](/vitigni/bacca-bianca/roter-veltliner) (Sefc, Steinkellner et al. 1998), ed è quindi un fratellastro di [Frühroter Veltliner](/vitigni/bacca-bianca/fruhroter-veltliner), [Neuburger](/vitigni/bacca-bianca/neuburger) e [Zierfandler](/vitigni/bacca-bianca/zierfandler) via Roter Veltliner, e un fratellastro di [Grüner Veltliner](/vitigni/bacca-bianca/gruner-veltliner) e [Silvaner](/vitigni/bacca-bianca/silvaner) via Savagnin. Portando il pedigree oltre, Rotgipfler è un nipote o un fratellastro di [Pinot](/vitigni/bacca-nera/pinot), perché Savagnin e Pinot hanno una relazione genitore-figlio.
+I test di parentela del DNA hanno rivelato che Rotgipfler, molto probabilmente dalla regione Thermen dell'Austria, è un incrocio naturale tra [Savagnin](/vitigni/bacca-bianca/savagnin) e [Roter Veltliner](/vitigni/bacca-bianca/roter-veltliner) (Sefc, Steinkellner et al. 1998), ed è quindi un fratellastro di [Frühroter Veltliner](/vitigni/bacca-bianca/fruhroter-veltliner), [Neuburger](/vitigni/bacca-bianca/neuburger) e [Zierfandler](/vitigni/bacca-bianca/zierfandler) via Roter Veltliner, e un fratellastro di [Grüner Veltliner](/vitigni/bacca-bianca/gruner-veltliner) e [Silvaner](/vitigni/bacca-bianca/silvaner) via Savagnin. Portando il pedigree oltre, Rotgipfler è un nipote o un fratellastro di [Pinot](/vitigni/Francia/bacca-nera/pinot), perché Savagnin e Pinot hanno una relazione genitore-figlio.
 
 ## Caratteristiche viticole
 

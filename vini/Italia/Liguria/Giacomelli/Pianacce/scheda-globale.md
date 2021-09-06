@@ -15,7 +15,7 @@ dateCreated: 2021-08-24T11:16:41.742Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Colli di Luni DOC](/denominazioni/Italia/Liguria/DOC/Colli-di-Luni) 
 - **Produttore:** [Giacomelli](/produttori/Italia/Liguria/Giacomelli) 
-- **Composizione:** 100% [Vermentino](/vitigni/bacca-bianca/vermentino)
+- **Composizione:** 100% [Vermentino](/vitigni/Italia/bacca-bianca/vermentino)
 - **Affinamento:** 5 mesi in acciaio sui lieviti
 - **Alcol:** 13%
 - **Fascia di prezzo:** 15 - 19 €

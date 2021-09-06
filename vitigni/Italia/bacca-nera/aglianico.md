@@ -20,7 +20,7 @@ Aglianco di Puglia, Aglianica, Aglianichella, Aglianichello (Napoli in Campania)
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Aglianico di Galluccio](/vitigni/bacca-nera/aglianico-di-galluccio), [Aglianicone](/vitigni/bacca-nera/aglianicone), [Aleatico](/vitigni/bacca-nera/aleatico), [Ciliegiolo](/vitigni/bacca-nera/ciliegiolo), [Pignolo](/vitigni/bacca-nera/pignolo), [Tronto](/vitigni/bacca-nera/tronto)
+[Aglianico di Galluccio](/vitigni/Italia/bacca-nera/aglianico-di-galluccio), [Aglianicone](/vitigni/Italia/bacca-nera/aglianicone), [Aleatico](/vitigni/bacca-nera/aleatico), [Ciliegiolo](/vitigni/bacca-nera/ciliegiolo), [Pignolo](/vitigni/Italia/bacca-nera/pignolo), [Tronto](/vitigni/bacca-nera/tronto)
 
 ## Origini e parentele
 Sulla base di una discutibile etimologia greca, molti autori hanno suggerito che l'Aglianico fu introdotto dai Greci quando colonizzarono la costa tirrenica (settimo e sesto secolo a.C.).
@@ -36,7 +36,7 @@ Il nome Aglianico deriva molto probabilmente dallo spagnolo llano, che significa
 
 Un'altra ipotesi meno probabile suggerisce che il nome Aglianico potrebbe derivare dal greco aglaos, che significa 'bello' o 'luminoso', presumibilmente in contrasto con altri vini scuri. Un'altra ipotesi ancora meno probabile sostiene che il nome Aglianico potrebbe derivare dal mese di luglio (Luglio in italiano), quando l'uva matura. Tuttavia, questo non ha senso dato che l'Aglianico è una varietà a maturazione molto tardiva. Infine, si dà poca credibilità ad alcuni tentativi di derivare l'Aglianico dal Gauranum o Gauranicum, un tipo di vino Falerno descritto da Plinio il Vecchio e altri scrittori romani.
 
-Il profilo del DNA ha dimostrato che l'Aglianico non è strettamente legato a nessun vitigno greco moderno (Scienza e Boselli 2003). Ha anche dimostrato che l'Aglianico è strettamente imparentato con molte varietà coltivate in Campania o Basilicata (Costantini et al. 2005), in particolare con [Aglianicone](/vitigni/bacca-nera/aglianicone), di cui l'Aglianico potrebbe essere un genitore (Vouillamoz).
+Il profilo del DNA ha dimostrato che l'Aglianico non è strettamente legato a nessun vitigno greco moderno (Scienza e Boselli 2003). Ha anche dimostrato che l'Aglianico è strettamente imparentato con molte varietà coltivate in Campania o Basilicata (Costantini et al. 2005), in particolare con [Aglianicone](/vitigni/Italia/bacca-nera/aglianicone), di cui l'Aglianico potrebbe essere un genitore (Vouillamoz).
 
 Né le prove linguistiche né quelle genetiche sostengono un'etimologia e un'origine greca per Aglianico. Pertanto, sembra più probabile che Aglianico sia un'uva antica dell'Italia meridionale.
 

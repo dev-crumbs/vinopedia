@@ -15,7 +15,7 @@ dateCreated: 2021-08-24T11:31:20.502Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Cesanese del piglio DOCG](/denominazioni/Italia/Lazio/DOCG/Cesanese-del-piglio) (Superiore, Riserva)
 - **Produttore:** [Casale della Ioria](/produttori/Italia/Lazio/Casale-della-Ioria) 
-- **Composizione:** 100% [Cesanese d'Affile](/vitigni/bacca-nera/cesanese-d-affile)
+- **Composizione:** 100% [Cesanese d'Affile](/vitigni/Italia/bacca-nera/cesanese-d-affile)
 - **Affinamento:** 6 mesi in botti di rovere da 20 ettolitri + 14 mesi in bottiglia
 - **Alcol:** 14%
 - **Fascia di prezzo:** 20 - 24 €

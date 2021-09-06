@@ -14,7 +14,7 @@ dateCreated: 2021-08-07T16:54:48.104Z
 Nera
 
 ## Origini e parentele
-Egiodola è stata presentata come un incrocio di [Fer](/vitigni/baccaa-nera/fer) e [Abouriou](/vitigni/bacca-nera/abouriou) ottenuto nel 1954 da Pierre Marcel Durquéty all'INRA (Institut National de la Recherche Agronomique) di Bordeaux, nel sud-ovest della Francia. In realtà una recente analisi della parentela del DNA all'INRA di Montpellier l'ha corretta in un incrocio Abouriou × [Negramoll](/vitigni/bacca-nera/negramoll) (con il nome Tinta da Madeira). Il nome Egiodola è una contrazione di due parole basche, egiazko odola, che significa 'sangue vero' (Rézeau 1997).
+Egiodola è stata presentata come un incrocio di [Fer](/vitigni/baccaa-nera/fer) e [Abouriou](/vitigni/Francia/bacca-nera/abouriou) ottenuto nel 1954 da Pierre Marcel Durquéty all'INRA (Institut National de la Recherche Agronomique) di Bordeaux, nel sud-ovest della Francia. In realtà una recente analisi della parentela del DNA all'INRA di Montpellier l'ha corretta in un incrocio Abouriou × [Negramoll](/vitigni/bacca-nera/negramoll) (con il nome Tinta da Madeira). Il nome Egiodola è una contrazione di due parole basche, egiazko odola, che significa 'sangue vero' (Rézeau 1997).
 
 ## Caratteristiche viticole
 
@@ -26,7 +26,7 @@ Egiodola è stata presentata come un incrocio di [Fer](/vitigni/baccaa-nera/fer)
 
 ## Diffusione geografica
 
-L'Egiodola è stata raccomandata in quasi tutti i dipartimenti viticoli della Francia dal 1983. Le piantagioni totali nel 2009 sono state di 271 ha (670 acri), in calo rispetto ai 342 ha (845 acri) del 2006. Alcuni produttori fanno vini varietali, ad esempio Domaine Millet in Gascogne, che produce una versione rosé. Nel sud-ovest è più spesso mescolato con Fer e/o [Cabernet Franc](/vitigni/bacca-nera/cabernet-franc), ad esempio in Coteaux de Chalosse o Côtes de Gascogne. A Châteauneuf-du-Pape, il Domaine Roger Perrin lo miscela con [Merlot](/vitigni/bacca-nera/merlot), Grenache ([Garnacha](/vitigni/bacca-nera/garnacha)), Cinsault ([Cinaut](/vitigni/bacca-nera/cinsaut)), [Cabernet Sauvignon](/vitigni/bacca-nera/cabertnet-sauvignon), ecc.
+L'Egiodola è stata raccomandata in quasi tutti i dipartimenti viticoli della Francia dal 1983. Le piantagioni totali nel 2009 sono state di 271 ha (670 acri), in calo rispetto ai 342 ha (845 acri) del 2006. Alcuni produttori fanno vini varietali, ad esempio Domaine Millet in Gascogne, che produce una versione rosé. Nel sud-ovest è più spesso mescolato con Fer e/o [Cabernet Franc](/vitigni/Francia/bacca-nera/cabernet-franc), ad esempio in Coteaux de Chalosse o Côtes de Gascogne. A Châteauneuf-du-Pape, il Domaine Roger Perrin lo miscela con [Merlot](/vitigni/Francia/bacca-nera/merlot), Grenache ([Garnacha](/vitigni/bacca-nera/garnacha)), Cinsault ([Cinaut](/vitigni/bacca-nera/cinsaut)), [Cabernet Sauvignon](/vitigni/bacca-nera/cabertnet-sauvignon), ecc.
 
 A Jumilla, nel sud-est della Spagna, Casa de la Ermita ha piantato alcune viti di Egiodola nel suo vigneto sperimentale.
 

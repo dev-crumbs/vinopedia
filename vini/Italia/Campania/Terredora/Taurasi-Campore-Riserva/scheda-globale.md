@@ -15,7 +15,7 @@ dateCreated: 2021-08-11T15:27:13.077Z
 - **Tipologia:** Rosso fermo 
 - **Denominazione:** [Taurasi DOCG](/denominazioni/Italia/Campania/DOCG/Taurasi) (Riserva) 
 - **Produttore:** [Terredora](/produttori/Italia/Campania/Terredora) 
-- **Composizione:** 100% [Aglianico](/vitigni/bacca-nera/aglianico)
+- **Composizione:** 100% [Aglianico](/vitigni/Italia/bacca-nera/aglianico)
 - **Affinamento:** 30 mesi in barrique + 6 anni in bottiglia
 - **Alcol:** 14%
 - **Fascia di prezzo:** 35 - 39 €

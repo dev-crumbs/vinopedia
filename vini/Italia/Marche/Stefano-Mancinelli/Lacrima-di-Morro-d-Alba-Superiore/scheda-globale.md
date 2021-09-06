@@ -15,7 +15,7 @@ dateCreated: 2021-08-24T11:31:20.502Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Lacrima di morro DOC](/denominazioni/Italia/Marche/DOC/Lacrima-di-morro) (Superiore)
 - **Produttore:** [Stefano Mancinelli](/produttori/Italia/Marche/Stefano-Mancinelli) 
-- **Composizione:** 100% [Lacrima di Morro d'Alba](/vitigni/bacca-nera/lacrima-di-morro-d-alba)
+- **Composizione:** 100% [Lacrima di Morro d'Alba](/vitigni/Italia/bacca-nera/lacrima-di-morro-d-alba)
 - **Affinamento:** 6 mesi in acciaio
 - **Alcol:** 13.5%
 - **Fascia di prezzo:** 15 - 19 €

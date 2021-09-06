@@ -10,4 +10,4 @@ dateCreated: 2021-09-04T08:52:04.962Z
 
 # Pigato
 
-"Pigato" è un sinonimo utilizzato per il vitigno [Vermentino](/vitigni/bacca-bianca/vermentino).
+"Pigato" è un sinonimo utilizzato per il vitigno [Vermentino](/vitigni/Italia/bacca-bianca/vermentino).

@@ -10,4 +10,4 @@ dateCreated: 2021-09-04T05:38:26.955Z
 
 # Malvasia puntinata
 
-"Malvasia Puntinata" è un sinonimo utilizzato per il vitigno [Malvasia del Lazio](/vitigni/bacca-bianca/malvasia-del-lazio)
+"Malvasia Puntinata" è un sinonimo utilizzato per il vitigno [Malvasia del Lazio](/vitigni/Italia/bacca-bianca/malvasia-del-lazio)

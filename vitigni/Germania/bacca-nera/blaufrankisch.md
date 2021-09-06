@@ -20,7 +20,7 @@ Blauer Limberger (Germania), Borgonja (Croazia), Burgund Mare (Romania), Francon
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Gamay Noir](/vitigni/bacca-nera/gamay-noir), [Pinot Noir](/vitigni/bacca-nera/pinot-noir)
+[Gamay Noir](/vitigni/bacca-nera/gamay-noir), [Pinot Noir](/vitigni/Francia/bacca-nera/pinot-noir)
 
 ## Origini e parentele
 Dal Medioevo in poi, il nome Fränkisch fu dato a diverse varietà di alta qualità, indicando la loro superiorità rispetto alle varietà inferiori Heunisch. La parola Fränkisch deriva da Franconia, una regione storica della Germania che oggi si trova a cavallo di parti della Baviera settentrionale, Thüringen meridionale e Heilbronn-Franken nel Baden-Württemberg. Una di queste varietà di alta qualità potrebbe essere stata il Blaufränkisch, il cui nome non apparve fino al 1862 in una mostra di varietà di uva a Wien (Vienna; Aeberhard 2005) e fu adottato ufficialmente dalla commissione ampelografica internazionale a Colmar, Francia, nel 1875. In seguito fu menzionata in Germania con i sinonimi Lemberger (1877) e Limberger (fine del XIX secolo), entrambi derivanti dalle località austriache da cui la varietà veniva esportata in Germania: Lemberg nello Steiermark (Stiria) e Limburg a Maissau (Niederösterreich/Lower Austria). In Ungheria la varietà fu menzionata per la prima volta nel 1890 con il nome Kékfrankos, la traduzione letterale di Blaufränkisch.
@@ -29,7 +29,7 @@ Il profilo del DNA ha recentemente confermato che il Kékfrankos ungherese è id
 
 L'uso del sinonimo Gamé in Bulgaria ha spesso portato - e potrebbe essere dovuto - alla convinzione errata che Blaufränkisch fosse un clone di [Gamay Noir](/vitigni/bacca-nera/gamay-noir).
 
-Due incroci tra Blaufränkisch e [Sankt Laurent](/vitigni/bacca-nera/sankt-laurent) hanno prodotto [André](/vitigni/bacca-nera/andre) e [Zweigelt](/vitigni/bacca-nera/zweigelt), mentre un altro con [Blauer Portugieser](/vitigni/bacca-nera/blauer-portugieser) Ha Prodotto [Blauburger](vitigni/bacca-nera/blauburger). Blaufränkisch è genitore negli incroci che hanno creato [Acolon](/vitigni/bacca-nera/acolon), [Cabernet Cubin](/vitigni/bacca-nera/cabernet-cubin), [Cabernet Mitos](/vitigni/bacca-nera/cabernet-mitos), [Heroldrebe](/vitigni/bacca-nera/heroldrebe), [Magyarfrankos](/vitigni/bacca-nera/magyafrankos), [Rubintos](/vitigni/bacca-nera/rubintos) e [Reberger](/vitigni/bacca-nera/reberger).
+Due incroci tra Blaufränkisch e [Sankt Laurent](/vitigni/bacca-nera/sankt-laurent) hanno prodotto [André](/vitigni/bacca-nera/andre) e [Zweigelt](/vitigni/bacca-nera/zweigelt), mentre un altro con [Blauer Portugieser](/vitigni/Austria/bacca-nera/blauer-portugieser) Ha Prodotto [Blauburger](vitigni/bacca-nera/blauburger). Blaufränkisch è genitore negli incroci che hanno creato [Acolon](/vitigni/bacca-nera/acolon), [Cabernet Cubin](/vitigni/Francia/bacca-nera/cabernet-cubin), [Cabernet Mitos](/vitigni/Francia/bacca-nera/cabernet-mitos), [Heroldrebe](/vitigni/bacca-nera/heroldrebe), [Magyarfrankos](/vitigni/bacca-nera/magyafrankos), [Rubintos](/vitigni/bacca-nera/rubintos) e [Reberger](/vitigni/bacca-nera/reberger).
 
 ## Caratteristiche viticole
 

@@ -15,7 +15,7 @@ dateCreated: 2021-08-24T11:31:20.502Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Tintilia del Molise DOC](/denominazioni/Italia/Molise/DOC/Tintilia-del-Molise) 
 - **Produttore:** [L'Arco Antico](/produttori/Italia/Molise/L-Arco-Antico) 
-- **Composizione:** 100% [Tintilia del Molise](/vitigni/bacca-nera/tintilia-del-molise)
+- **Composizione:** 100% [Tintilia del Molise](/vitigni/Italia/bacca-nera/tintilia-del-molise)
 - **Affinamento:** 12 mesi in botte
 - **Alcol:** 14%
 - **Fascia di prezzo:** 15 - 19 €

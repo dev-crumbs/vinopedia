@@ -15,7 +15,7 @@ dateCreated: 2021-08-23T12:22:31.894Z
 - **Tipologia:** Bianco frizzante dolce
 - **Denominazione:** [Piemonte DOC](/denominazioni/Italia/Piemonte/DOCG/Piemonte)
 - **Produttore:** [Saracco](/produttori/Italia/Piemonte/Saracco)
-- **Composizione:** 100% [Moscato bianco](/vitigni/bacca-bianca/moscato-bianco)
+- **Composizione:** 100% [Moscato bianco](/vitigni/Italia/bacca-bianca/moscato-bianco)
 - **Affinamento:** --
 - **Alcol:** 5.5%
 - **Fascia di prezzo:** 10 - 14 €

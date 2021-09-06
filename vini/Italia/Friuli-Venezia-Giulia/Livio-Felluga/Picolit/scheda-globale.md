@@ -15,7 +15,7 @@ dateCreated: 2021-08-24T11:31:20.502Z
 - **Tipologia:** Bianco passito
 - **Denominazione:** [Colli Orientali del Friuli DOCG](/denominazioni/Italia/Friuli-Venezia-Giulia/DOCG/Colli-Orientali-del-Friuli)
 - **Produttore:** [Livio Felluga](/produttori/Italia/Friuli-Venezia-Giulia/Livio-Felluga) 
-- **Composizione:** 100% [Picolit](/vitigni/bacca-bianca/picolit)
+- **Composizione:** 100% [Picolit](/vitigni/Italia/bacca-bianca/picolit)
 - **Affinamento:** 18 mesi in rovere francese
 - **Alcol:** 14.5%
 - **Fascia di prezzo:** 50 - 54 €

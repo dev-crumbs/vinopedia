@@ -9,4 +9,4 @@ dateCreated: 2021-08-02T16:08:09.298Z
 ---
 
 # Pinot nero
-"Pinot nero" è un sinonimo utilizzato in Italia per il vitigno [Pinot noir](/vitigni/bacca-nera/pinot-noir)
+"Pinot nero" è un sinonimo utilizzato in Italia per il vitigno [Pinot noir](/vitigni/Francia/bacca-nera/pinot-noir)

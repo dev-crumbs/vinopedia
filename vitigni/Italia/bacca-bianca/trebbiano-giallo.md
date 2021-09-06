@@ -20,7 +20,7 @@ Greco di Velletri, Trebbiano dei Castelli (Castelli Romani), Trebbiano di Spagna
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Greco](/vitigni/bacca-bianca/greco) (Campania), [Rossetto](/vitigni/bacca-bianca/rossetto) (Lazio), [Trebbiano Modenese](/vitigni/bacca-bianca/trebbiano-modenese)
+[Greco](/vitigni/Italia/bacca-bianca/greco) (Campania), [Rossetto](/vitigni/bacca-bianca/rossetto) (Lazio), [Trebbiano Modenese](/vitigni/Italia/bacca-bianca/trebbiano-modenese)
 
 
 ## Origini e parentele

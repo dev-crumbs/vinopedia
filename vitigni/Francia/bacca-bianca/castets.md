@@ -28,7 +28,7 @@ Secondo Cazeaux-Cazalet (1901), questa varietà fu trovata in un bosco nella reg
 
 Dal 1882, Castets fu riconosciuta per la sua resistenza alla peronospora e fu ampiamente diffusa dal dottor Guilbert in tutta l'Aquitania e nel centro e nel sud della Francia. Secondo Lavignac (2001), Castets appartiene al gruppo ampelografico Carmenet (vedi p XXVII), che comprende anche FER, e spiega perché sono stati spesso confusi, e localizza il suo luogo di nascita nei Pyrénées-Atlantiques piuttosto che nella Gironda, dove è praticamente scomparsa.
 
-Castets è stata incrociata con [Abouriou](/vitigni/bacca-nera/abouriou) e altre varietà negli anni '70 per generare diverse nuove varietà in Slovacchia, di cui, [Hron](/vitigni/bacca-nera/hron), [Nitranka](/vitigni/bacca-nera/nitranka], [Rimava](/vitigni/bacca-nera/rimava), [Rudava](/vitigni/bacca-nera/rudava), [Torysa](/vitigni/bacca-nera/torysa) e [Váh](/vitigni/bacca-nera/vah) sono attualmente coltivate commercialmente.
+Castets è stata incrociata con [Abouriou](/vitigni/Francia/bacca-nera/abouriou) e altre varietà negli anni '70 per generare diverse nuove varietà in Slovacchia, di cui, [Hron](/vitigni/bacca-nera/hron), [Nitranka](/vitigni/bacca-nera/nitranka], [Rimava](/vitigni/bacca-nera/rimava), [Rudava](/vitigni/bacca-nera/rudava), [Torysa](/vitigni/bacca-nera/torysa) e [Váh](/vitigni/bacca-nera/vah) sono attualmente coltivate commercialmente.
 
 ### Altre ipotesi
 È stato suggerito che Nicouleau non ha trovato questa varietà a Saint-Macaire ma l'ha introdotta dai Pirenei.

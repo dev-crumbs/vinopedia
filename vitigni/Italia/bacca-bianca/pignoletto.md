@@ -20,12 +20,12 @@ Grechetto di Todi (Umbria), Grechetto Gentile, Occhietto (Marche), Pallagrello d
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Graševina](/vitigni/bacca-bianca/grasevina), [Grechetto di Orvieto](/vitigni/bacca-bianca/grechetto-di-orvieto), [Pallagrello Bianco](/vitigni/bacca-bianca/pallagrello-bianco), [Pinot Blanc](/vitigni/bacca-bianca/pinot-blanc), [Ribolla gialla](/vitigni/bacca-bianca/ribolla-gialla), 
+[Graševina](/vitigni/bacca-bianca/grasevina), [Grechetto di Orvieto](/vitigni/Italia/bacca-bianca/grechetto-di-orvieto), [Pallagrello Bianco](/vitigni/bacca-bianca/pallagrello-bianco), [Pinot Blanc](/vitigni/bacca-bianca/pinot-blanc), [Ribolla gialla](/vitigni/bacca-bianca/ribolla-gialla), 
 
 ## Origini e parentele
 Il Pignoletto è un'antica varietà proveniente dalle colline della provincia di Bologna in Emilia-Romagna, dove si suppone sia stato menzionato per la prima volta nel 1654 con il nome di "uve pignole". Come [Pignola Valtellinese](/vitigni/bacca-bianca/pignola-valtellinese), il nome Pignoletto deriva molto probabilmente dalla forma del grappolo, che ricorda una pigna.
 
-Studi ampelografici e sul DNA hanno stabilito che Pignoletto è identico a Grechetto di Todi in Umbria e Ribolla Riminese o Rébola in Emilia-Romagna ma distinto da [Grechetto di Orvieto](/vitigni/bacca-bianca/grechetto-di-orvieto) in Umbria (Filippetti et al. 1999). Gli studi di parentela hanno suggerito una relazione genitore-figlio tra Pignoletto (sotto il nome di Grechetto di Todi) e Grechetto di Orvieto (Costacurta et al. 2004), il che potrebbe spiegare perché in precedenza erano considerati variazioni clonali della stessa varietà, e l'analisi del DNA ha suggerito una stretta relazione genetica tra [Spergola](/vitigni/bacca-bianca/spergola) e Pignoletto (Filippetti, Silvestroni, Thomas e Intrieri 2001). Più sorprendentemente, un confronto dei profili DNA di Pignoletto (Filippetti e Intrieri 1999) e Pallagrello di Caserta (Costantini et al. 2005) ha rivelato che sono identici. Inoltre, il Pignoletto è stato spesso confuso con il Pinot Bianco ([Pinot Blanc](/vitigni/bacca-bianca/pinot-blanc)) e il Riesling Italico ([Graševina](/vitigni/bacca-bianca/grasevina)) dai coltivatori locali.
+Studi ampelografici e sul DNA hanno stabilito che Pignoletto è identico a Grechetto di Todi in Umbria e Ribolla Riminese o Rébola in Emilia-Romagna ma distinto da [Grechetto di Orvieto](/vitigni/Italia/bacca-bianca/grechetto-di-orvieto) in Umbria (Filippetti et al. 1999). Gli studi di parentela hanno suggerito una relazione genitore-figlio tra Pignoletto (sotto il nome di Grechetto di Todi) e Grechetto di Orvieto (Costacurta et al. 2004), il che potrebbe spiegare perché in precedenza erano considerati variazioni clonali della stessa varietà, e l'analisi del DNA ha suggerito una stretta relazione genetica tra [Spergola](/vitigni/bacca-bianca/spergola) e Pignoletto (Filippetti, Silvestroni, Thomas e Intrieri 2001). Più sorprendentemente, un confronto dei profili DNA di Pignoletto (Filippetti e Intrieri 1999) e Pallagrello di Caserta (Costantini et al. 2005) ha rivelato che sono identici. Inoltre, il Pignoletto è stato spesso confuso con il Pinot Bianco ([Pinot Blanc](/vitigni/bacca-bianca/pinot-blanc)) e il Riesling Italico ([Graševina](/vitigni/bacca-bianca/grasevina)) dai coltivatori locali.
 
 ### Altre ipotesi
 
@@ -38,7 +38,7 @@ Alcuni hanno suggerito un legame tra Pignoletto e Pino Lieto (che significa 'pin
 
 ## Caratteristiche enologiche
 
-Il Grechetto è autorizzato in diversi vini DOC varietali nella provincia di Perugia in Umbria, nell'Italia centrale (Assisi, Colli Martani, Colli Perugini e Colli del Trasimeno), nonché nelle Marche e nel Lazio (Colli Etruschi Viterbesi). Tuttavia, poiché alcuni regolamenti DOC dicono semplicemente Grechetto, spesso è impossibile essere sicuri se si riferiscono a [Grechetto di Orvieto](/vitigni/bacca-bianca/grechetto-di-orvieto) o Grechetto di Todi anche se, logicamente, il Grechetto trovato nella zona di Orvieto è probabile che sia Grechetto di Orvieto.
+Il Grechetto è autorizzato in diversi vini DOC varietali nella provincia di Perugia in Umbria, nell'Italia centrale (Assisi, Colli Martani, Colli Perugini e Colli del Trasimeno), nonché nelle Marche e nel Lazio (Colli Etruschi Viterbesi). Tuttavia, poiché alcuni regolamenti DOC dicono semplicemente Grechetto, spesso è impossibile essere sicuri se si riferiscono a [Grechetto di Orvieto](/vitigni/Italia/bacca-bianca/grechetto-di-orvieto) o Grechetto di Todi anche se, logicamente, il Grechetto trovato nella zona di Orvieto è probabile che sia Grechetto di Orvieto.
 
 ## Diffusione geografica
 

@@ -15,13 +15,13 @@ Nera
 
 ## Sinonimi
 [Kaštelanski](/vitigni/bacca-nera/kastelanski), [Kratošija](/vitigni/bacca-nera/kratošija), [Morellone](/vitigni/bacca-nera/morellone), [Pribidrag](/vitigni/bacca-nera/pribidrag), [Primaticcio](/vitigni/bacca-nera/primaticcio),
-[Primitivo](/vitigni/bacca-nera/primitivo), [Uva di Corato](/vitigni/bacca-nera/uva-di-corato), [Zagarese](/vitigni/bacca-nera/zagarese), [Zinfandel](/vitigni/bacca-nera/zinfandel)
+[Primitivo](/vitigni/Italia/bacca-nera/primitivo), [Uva di Corato](/vitigni/bacca-nera/uva-di-corato), [Zagarese](/vitigni/bacca-nera/zagarese), [Zinfandel](/vitigni/Croazia/bacca-nera/tribidrag)
 
 ## Omonimi
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Blatina](/vitigni/bacca-nera/zinfandel), [Crljenak Crni](/vitigni/bacca-nera/crljeank-crni), [Plavac Mali](/vitigni/bacca-nera/plavac-mali), [Vranac](/vitigni/bacca-nera/vranac)
+[Blatina](/vitigni/Croazia/bacca-nera/tribidrag), [Crljenak Crni](/vitigni/bacca-nera/crljeank-crni), [Plavac Mali](/vitigni/bacca-nera/plavac-mali), [Vranac](/vitigni/bacca-nera/vranac)
 
 ## Origini e parentele
 Il vitigno conosciuto in Italia come "Primitivo" e negli Stati Uniti con "Zinfandel" è originario della Dalmazia (Croazia), dove è conosciuto con il nome "Tribidrag".

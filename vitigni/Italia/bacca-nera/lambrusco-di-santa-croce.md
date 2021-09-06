@@ -9,4 +9,4 @@ dateCreated: 2021-08-18T12:00:03.906Z
 ---
 
 # Lambrusco di Santa Croce
-"Lambrusco di Santa Croce" è un sinonimo utilizzato in Italia per il vitigno [Lambrusco Salamino](/vitigni/bacca-nera/lambrusco-salamino)
+"Lambrusco di Santa Croce" è un sinonimo utilizzato in Italia per il vitigno [Lambrusco Salamino](/vitigni/Italia/bacca-nera/lambrusco-salamino)

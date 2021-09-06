@@ -10,4 +10,4 @@ dateCreated: 2021-09-04T13:00:00.024Z
 
 # Nerello
 
-"Nerello" è un sinonimo utilizzato per il vitigno [Nerello Mascalese](/vitigni/bacca-nera/nerello-mascalese).
+"Nerello" è un sinonimo utilizzato per il vitigno [Nerello Mascalese](/vitigni/Italia/bacca-nera/nerello-mascalese).

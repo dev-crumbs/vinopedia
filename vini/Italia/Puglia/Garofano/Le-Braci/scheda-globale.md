@@ -15,7 +15,7 @@ dateCreated: 2021-08-24T11:31:20.502Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Salento IGT](/denominazioni/Italia/Puglia/IGT/Salento)
 - **Produttore:** [Garofano](/produttori/Italia/Puglia/Garofano) 
-- **Composizione:** 100% [Negroamaro](/vitigni/bacca-nera/negramaro)
+- **Composizione:** 100% [Negroamaro](/vitigni/Italia/bacca-nera/negroamaro)
 - **Affinamento:** 12 mesi in barrique di rovere francese + 18 mesi in bottiglia
 - **Alcol:** 15%
 - **Fascia di prezzo:** 40 - 44 €

@@ -10,4 +10,4 @@ dateCreated: 2021-08-19T12:11:52.150Z
 
 # Asprinio
 
-"Asprinio" è un sinonimo per il vitigno [Greco](/vitigni/bacca-bianca/greco).
+"Asprinio" è un sinonimo per il vitigno [Greco](/vitigni/Italia/bacca-bianca/greco).

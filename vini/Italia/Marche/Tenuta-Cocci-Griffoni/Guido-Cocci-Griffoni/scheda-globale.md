@@ -15,7 +15,7 @@ dateCreated: 2021-08-24T11:31:20.502Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Offida DOCG](/denominazioni/Italia/Marche/DOCG/Offida)
 - **Produttore:** [Tenuta Cocci Griffoni](/produttori/Italia/Marche/Tenuta-Cocci-Griffoni) 
-- **Composizione:** 100% [Pecorino](/vitigni/bacca-bianca/pecorino)
+- **Composizione:** 100% [Pecorino](/vitigni/Italia/bacca-bianca/pecorino)
 - **Affinamento:** 24 mesi in acciaio sulle feccie + 12 in bottiglia
 - **Alcol:** 13.5%
 - **Fascia di prezzo:** 30 - 34 €

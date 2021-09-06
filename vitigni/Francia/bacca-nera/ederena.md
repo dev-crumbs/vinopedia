@@ -14,7 +14,7 @@ dateCreated: 2021-08-07T14:11:14.761Z
 Nera
 
 ## Origini e parentele
-Un incrocio tra [Merlot](/vitigni/bacca-nera/merlot) e [Abouriou](/vitigni/bacca-nera/abouriou) ottenuto nel 1952 da Pierre Marcel Durquéty all'INRA (Institut National de la Recherche Agronomique) di Bordeaux, Francia sud-occidentale. "Ederena" significa 'il più bello', dalla parola basca ederrena (eder significa 'bello').
+Un incrocio tra [Merlot](/vitigni/Francia/bacca-nera/merlot) e [Abouriou](/vitigni/Francia/bacca-nera/abouriou) ottenuto nel 1952 da Pierre Marcel Durquéty all'INRA (Institut National de la Recherche Agronomique) di Bordeaux, Francia sud-occidentale. "Ederena" significa 'il più bello', dalla parola basca ederrena (eder significa 'bello').
 
 ## Caratteristiche Viticole
 

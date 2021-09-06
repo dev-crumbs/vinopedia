@@ -15,7 +15,7 @@ dateCreated: 2021-08-24T11:16:41.742Z
 - **Tipologia:** Bianco passito
 - **Denominazione:** [Valle d'Aosta DOC](/denominazioni/Italia/Valle-d-Aosta/DOC/Valle-d-Aosta) (Chambave, Muscat Flétri)
 - **Produttore:** [La Crotta di Vegneron](/produttori/Italia/Valle-d-Aosta/La-Crotta-di-Vegneron) 
-- **Composizione:** 100% [Muscat blanc a petit grains](/vitigni/bacca-bianca/muscat-blanc-a-petit-grains) 
+- **Composizione:** 100% [Muscat blanc a petit grains](/vitigni/Francia/bacca-bianca/muscat-blanc-a-petit-grains) 
 - **Affinamento:** 2 mesi appassimento + 12 mesi in acciaio
 - **Alcol:** 14.5%
 - **Fascia di prezzo:** 30 - 34 €

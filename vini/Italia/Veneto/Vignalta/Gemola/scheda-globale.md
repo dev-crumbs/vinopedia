@@ -15,7 +15,7 @@ dateCreated: 2021-08-24T11:16:41.742Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Colli Euganei DOC](/denominazioni/Italia/Veneto/DOC/Colli-Euganei)
 - **Produttore:** [Vignalta](/produttori/Italia/Veneto/Vignalta) 
-- **Composizione:** 70% [Merlot](/vitigni/bacca-bianca/garganega) + 30% [Cabernet Franc](/vitigni/bacca-nera/cabernet-franc)
+- **Composizione:** 70% [Merlot](/vitigni/Italia/bacca-bianca/garganega) + 30% [Cabernet Franc](/vitigni/Francia/bacca-nera/cabernet-franc)
 - **Affinamento:** 36 mesi in tonneau 
 - **Alcol:** 14.5%
 - **Fascia di prezzo:** 35 - 39 €

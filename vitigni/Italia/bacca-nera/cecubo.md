@@ -11,7 +11,7 @@ dateCreated: 2021-07-30T15:53:11.815Z
 # Cecubo
 
 ## Sinonimo
-"Cecubo" è un sinonimo utilizzato per indicare il vitigno [Abbuoto](/vitigni/bacca-nera/abbuoto).
+"Cecubo" è un sinonimo utilizzato per indicare il vitigno [Abbuoto](/vitigni/Italia/bacca-nera/abbuoto).
 
 ## Vitigno estinto
 Con "cecubo" ci si riferisce anche all'ipotetico vitigno utilizzato nell'antichità per produrre il [Caecubum](/vini/antichi/bianchi), vino bianco di cui si trova traccia fino al II sec. d.C.

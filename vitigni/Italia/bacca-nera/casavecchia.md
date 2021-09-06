@@ -20,7 +20,7 @@ Secondo una tradizione orale, alcuni ceppi di Casavecchia sarebbero stati recupe
 
 Le analisi genetiche hanno confermato che l'uva Casavecchia ha un profilo genetico differente rispetto a quello di tutti gli altri vitigni conosciuti.
 
-Alcuni autori [^2] hanno suggerito che la Casavecchia possa essere un incrocio naturale di [Malvasia](/vitigni/bacca-bianca/malvasia-bianca-di-candia) e [Abbuoto](/vitigni/bacca-nera/abbuoto). L'ipotesi non ha ricevuto una conferma definitiva.
+Alcuni autori [^2] hanno suggerito che la Casavecchia possa essere un incrocio naturale di [Malvasia](/vitigni/Italia/bacca-bianca/malvasia-bianca-di-candia) e [Abbuoto](/vitigni/Italia/bacca-nera/abbuoto). L'ipotesi non ha ricevuto una conferma definitiva.
 
 [^2]: (Cipriani [2010])
 

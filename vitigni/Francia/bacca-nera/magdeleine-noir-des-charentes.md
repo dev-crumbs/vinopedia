@@ -12,4 +12,4 @@ dateCreated: 2021-08-07T12:35:53.573Z
 
 Il Magdeleine Noir des Charentes è un vitigno a bacca nera di origine francese onon più coltivato per scopi commerciali e per lungo tempo ritenuto estinto. 
 
-L'analisi genetica ha dimostrato che il [Merlot](/vitigni/bacca-nera/merlot) è nato da un incrocio naturale tra questo vitigno e il [Cabernet Franc](/vitigni/bacca-nera/cabernet-franc).
+L'analisi genetica ha dimostrato che il [Merlot](/vitigni/Francia/bacca-nera/merlot) è nato da un incrocio naturale tra questo vitigno e il [Cabernet Franc](/vitigni/Francia/bacca-nera/cabernet-franc).

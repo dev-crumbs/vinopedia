@@ -19,7 +19,7 @@ Corteis, Courteis, Courtesia
 
 ## Origini e Parentele
 
-Il Cortese fu menzionato per la prima volta in un inventario delle cantine del castello di Casale Monferrato in provincia di Alessandria, nel Piemonte sud-orientale, nel 1614 (Nada Patrone 1991). Fu menzionato di nuovo nel 1658 a Montaldeo (sempre ad Alessandria), dove i vigneti erano piantati con 'cortese', un po' di 'fermentino' (cioè [Vermentino](/vitigni/bacca-bianca/vermentino)) e 'nebioli dolci' ('[Nebbiolo](/vitigni/bacca-nera/nebbiolo) dolce'; Nada Patrone 1991). Nel XVIII secolo, il Cortese si trovava principalmente nella provincia di Alessandria e in quella di Novara (Demaria e Leardi 1875). Nessuna parentela è stata trovata per il Cortese nell'Italia settentrionale (Schneider et al. 2003).
+Il Cortese fu menzionato per la prima volta in un inventario delle cantine del castello di Casale Monferrato in provincia di Alessandria, nel Piemonte sud-orientale, nel 1614 (Nada Patrone 1991). Fu menzionato di nuovo nel 1658 a Montaldeo (sempre ad Alessandria), dove i vigneti erano piantati con 'cortese', un po' di 'fermentino' (cioè [Vermentino](/vitigni/Italia/bacca-bianca/vermentino)) e 'nebioli dolci' ('[Nebbiolo](/vitigni/Italia/bacca-nera/nebbiolo) dolce'; Nada Patrone 1991). Nel XVIII secolo, il Cortese si trovava principalmente nella provincia di Alessandria e in quella di Novara (Demaria e Leardi 1875). Nessuna parentela è stata trovata per il Cortese nell'Italia settentrionale (Schneider et al. 2003).
 
 ## Diffusione geografica
 

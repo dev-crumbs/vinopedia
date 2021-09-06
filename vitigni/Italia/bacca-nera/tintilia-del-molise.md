@@ -39,7 +39,7 @@ Tintilia è stata a lungo confusa con Bovale Grande (aka [Mazuelo](/vitigni/bacc
 
 ## Diffusione geografica
 
-La Tintilia del Molise è coltivata principalmente in Molise nell'Italia centro-meridionale e in misura minore nella provincia di Chieti in Abruzzo a nord. Viene spesso miscelata con altre varietà locali come il [Montepulciano](/vitigni/bacca-nera/montepulciano), ma alcuni interessanti vini varietali sono stati fatti recentemente da, per esempio, Di Majo Norante, che è stata tra le prime aziende a riscoprire la Tintilia del Molise e a fare un vino varietale (oltre a miscelarla con il Montepulciano per la loro cuvée di punta, Don Luigi), Angelo d'Uva, Catabbo e Cipressi. 
+La Tintilia del Molise è coltivata principalmente in Molise nell'Italia centro-meridionale e in misura minore nella provincia di Chieti in Abruzzo a nord. Viene spesso miscelata con altre varietà locali come il [Montepulciano](/vitigni/Italia/bacca-nera/montepulciano), ma alcuni interessanti vini varietali sono stati fatti recentemente da, per esempio, Di Majo Norante, che è stata tra le prime aziende a riscoprire la Tintilia del Molise e a fare un vino varietale (oltre a miscelarla con il Montepulciano per la loro cuvée di punta, Don Luigi), Angelo d'Uva, Catabbo e Cipressi. 
 
 ## Caratteristiche enologiche
 I vini varietali, ammessi all'interno della DOC Molise, tendono ad essere densi e corposi con aromi di frutta scura matura - more, ciliegie o prugne - e tannini fini.

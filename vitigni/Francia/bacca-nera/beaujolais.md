@@ -9,4 +9,4 @@ dateCreated: 2021-08-02T16:58:42.009Z
 ---
 
 # Beaujolais
-"Beaujolais" è un sinonimo utilizzato in Lot-et-Garonne per il vitigno [Abouriou](/vitigni/bacca-nera/abouriou).
+"Beaujolais" è un sinonimo utilizzato in Lot-et-Garonne per il vitigno [Abouriou](/vitigni/Francia/bacca-nera/abouriou).

@@ -15,7 +15,7 @@ dateCreated: 2021-08-24T11:31:20.502Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Forlì IGT](/denominazioni/Italia/Romagna/IGT/Forlì)
 - **Produttore:** [Castelluccio](/produttori/Italia/Romagna/Castelluccio) 
-- **Composizione:** 100% [Sangiovese](/vitigni/bacca-nera/sangiovese)
+- **Composizione:** 100% [Sangiovese](/vitigni/Italia/bacca-nera/sangiovese)
 - **Affinamento:** 14 mesi in barrique + 12 in bottiglia
 - **Alcol:** 13.5%
 - **Fascia di prezzo:** 20 - 24 € 

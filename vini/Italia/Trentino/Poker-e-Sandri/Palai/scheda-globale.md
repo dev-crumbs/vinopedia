@@ -15,7 +15,7 @@ dateCreated: 2021-08-24T11:16:41.742Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Vigneti delle Dolomiti IGT](/denominazioni/Italia/Trentino/IGT/Vigneti-delle-Dolomiti)
 - **Produttore:** [Poier e Sandri](/produttori/Italia/Trentino/Poier-e-Sandri) 
-- **Composizione:** 100% [Müller Thurgau](/vitigni/bacca-bianca/muller-thurgau)
+- **Composizione:** 100% [Müller Thurgau](/vitigni/Italia/bacca-bianca/muller-thurgau)
 - **Affinamento:** 7 mesi in acciaio 
 - **Alcol:** 12%
 - **Fascia di prezzo:** 10 - 14 €

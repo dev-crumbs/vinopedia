@@ -15,7 +15,7 @@ dateCreated: 2021-08-24T11:16:41.742Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Soave Classico DOC](/denominazioni/Italia/Veneto/DOC/Soave) (Classico)
 - **Produttore:** [Pieropan](/produttori/Italia/Veneto/Pieropan) 
-- **Composizione:** 100% [Garganega](/vitigni/bacca-bianca/garganega) 
+- **Composizione:** 100% [Garganega](/vitigni/Italia/bacca-bianca/garganega) 
 - **Affinamento:** 14 mesi in botti di rovere 
 - **Alcol:** 13%
 - **Fascia di prezzo:** 25 - 29 €

@@ -20,11 +20,11 @@ Caccarella, Greco (Roero in Piemonte), Malvasia Bianca (California), Malvasia Gr
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Malvasia Bianca Di Candia](/vitigni/bacca-bianca/malvasia-bianca-di-candia), [Malvasia Bianca Lunga](/vitigni/bacca-bianca/malvasia-bianca-lunga), [Malvasia Del Lazio](/vitigni/bacca-bianca/malvasia-del-lazio), [Malvasia Di Lipari](/vitigni/bacca-bianca/malvasia-di-lipari)
+[Malvasia Bianca Di Candia](/vitigni/Italia/bacca-bianca/malvasia-bianca-di-candia), [Malvasia Bianca Lunga](/vitigni/Italia/bacca-bianca/malvasia-bianca-lunga), [Malvasia Del Lazio](/vitigni/Italia/bacca-bianca/malvasia-del-lazio), [Malvasia Di Lipari](/vitigni/Italia/bacca-bianca/malvasia-di-lipari)
 
 
 ## Origini e parentele
-Questo membro dell'eterogeneo gruppo di varietà noto come Malvasia Qualcosa potrebbe essere stato menzionato vicino a Torino nel 1606 dall'agronomo e polimaco Croce, con il nome di Malvasia. Era ampiamente coltivata in Piemonte, Italia nord-occidentale, fino a quando non fu sostituita da [Muscat Blanc À Petits Grains](/vitigni/bacca-bianca/muscat-blanc-a-petit-grains) (conosciuto lì come Moscato Bianco) dopo che l'oidio devastò i vigneti alla fine del XIX secolo (Schneider, Mannizi e Cravero 2004).
+Questo membro dell'eterogeneo gruppo di varietà noto come Malvasia Qualcosa potrebbe essere stato menzionato vicino a Torino nel 1606 dall'agronomo e polimaco Croce, con il nome di Malvasia. Era ampiamente coltivata in Piemonte, Italia nord-occidentale, fino a quando non fu sostituita da [Muscat Blanc À Petits Grains](/vitigni/Francia/bacca-bianca/muscat-blanc-a-petit-grains) (conosciuto lì come Moscato Bianco) dopo che l'oidio devastò i vigneti alla fine del XIX secolo (Schneider, Mannizi e Cravero 2004).
 
 ## Caratteristiche viticole
 

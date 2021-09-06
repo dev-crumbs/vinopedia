@@ -20,7 +20,7 @@ Bálint, Gros Rhin (Svizzera), Grüner Silvaner (Germania), Grüner Zierfandler 
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Elbling](/vitigni/bacca-bianca/elbling) (a volte chiamato Weisser Silvaner), [Österreichisch Weiss](/vitigni/bacca-bianca/osterreichisch-weiss), [Sauvignon Blanc](/vitigni/bacca-bianca/sauvignon-blanc) (precedentemente chiamato Würzel Silvaner)
+[Elbling](/vitigni/bacca-bianca/elbling) (a volte chiamato Weisser Silvaner), [Österreichisch Weiss](/vitigni/bacca-bianca/osterreichisch-weiss), [Sauvignon Blanc](/vitigni/Francia/bacca-bianca/sauvignon-blanc) (precedentemente chiamato Würzel Silvaner)
 
 ## Origini e parentele
 Il profilo del DNA ha dimostrato inaspettatamente che Silvaner è un incrocio naturale di [Savagnin](/vitigni/bacca-bianca/savagnin) e [Österreichisch Weiss](/vitigni/bacca-bianca/osterreichisch-weiss) (Sefc, Steinkellner et al. 1998). Silvaner è menzionato per la prima volta nel 1665 con il nome Östareiche Rebe (Sylvaner), quando fu introdotto dall'abate Alberich Degen nell'abbazia cistercense di Ebrach nella Germania meridionale. Ciò significa che l'incrocio avvenne spontaneamente più di 500 anni fa e il nome suggerisce che ciò avvenne in Austria. Infatti, Savagnin fu menzionato in Austria nel 1349 con il suo noto sinonimo Traminer, e Österreichisch Weiss è un'antica varietà coltivata principalmente in Austria nella regione intorno a Wien (Vienna). Dato che Österreichisch Weiss era limitato principalmente alla parte orientale dell'Austria, è molto probabile che Silvaner sia nato in questa zona. Questo è coerente con il sinonimo storico Österreichisch ancora in uso a Franken oggi, e questo spiega anche perché il profilo del DNA di Bálint (Galbács et al. 2009), considerato indigeno della vicina regione di Syrmia (oggi a cavallo tra Serbia e Croazia), risulta essere identico a Silvaner (Vouillamoz).
@@ -53,7 +53,7 @@ L'Italia ha solo 113 ha (279 acri) di quello che chiama Sylvaner Verde ed è una
 
 ### In Germania
 
-La Germania ha di gran lunga la maggiore area totale piantata, con 5.236 (12.938 acri), inclusi 1.276 ha (3.153 acri) in Franken, 2.467 ha (6.096 acri) in Rheinhessen e 844 ha (2.086 acri) nel Pfalz, ma l'area piantata a Silvaner è diminuita considerevolmente negli ultimi 100 anni: all'inizio del ventesimo secolo era la varietà di vino bianco più importante della Germania; ora è solo la terza più piantata dopo [Riesling](/vitigni/bacca-bianca/riesling) e [Müller-Thurgau](/vitigni/bacca-nera/muller-thurgau).
+La Germania ha di gran lunga la maggiore area totale piantata, con 5.236 (12.938 acri), inclusi 1.276 ha (3.153 acri) in Franken, 2.467 ha (6.096 acri) in Rheinhessen e 844 ha (2.086 acri) nel Pfalz, ma l'area piantata a Silvaner è diminuita considerevolmente negli ultimi 100 anni: all'inizio del ventesimo secolo era la varietà di vino bianco più importante della Germania; ora è solo la terza più piantata dopo [Riesling](/vitigni/Germania/bacca-bianca/riesling) e [Müller-Thurgau](/vitigni/bacca-nera/muller-thurgau).
 
 ### In Svizzera
 

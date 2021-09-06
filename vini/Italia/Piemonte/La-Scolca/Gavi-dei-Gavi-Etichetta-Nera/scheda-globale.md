@@ -15,7 +15,7 @@ dateCreated: 2021-08-23T12:22:31.894Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Gavi DOCG](/denominazioni/Italia/Piemonte/DOCG/Gavi)
 - **Produttore:** [La Scolca](/produttori/Italia/Piemonte/La-Scolca)
-- **Composizione:** 100% [Cortese](/vitigni/bacca-bianca/cortese)
+- **Composizione:** 100% [Cortese](/vitigni/Italia/bacca-bianca/cortese)
 - **Affinamento:** 7 mesi in acciaio sui lieviti 
 - **Alcol:** 12%
 - **Fascia di prezzo:** 25 - 29 €

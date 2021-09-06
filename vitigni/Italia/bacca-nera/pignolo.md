@@ -17,7 +17,7 @@ Nera
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Aglianico](/vitigni/bacca-nera/aglianico), [Pignola Valtellinese](/vitigni/bacca-nera/pignola-valtellinese)
+[Aglianico](/vitigni/Italia/bacca-nera/aglianico), [Pignola Valtellinese](/vitigni/bacca-nera/pignola-valtellinese)
 
 Origini e Parentele
 

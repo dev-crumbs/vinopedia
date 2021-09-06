@@ -15,7 +15,7 @@ dateCreated: 2021-08-24T11:31:20.502Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Venezia Giulia IGT](/denominazioni/Italia/Friuli-Venezia-Giulia/IGT/Venezia-Giulia)
 - **Produttore:** [Podversic](/produttori/Italia/Friuli-Venezia-Giulia/Podversic) 
-- **Composizione:** 100% [Malvasia istriana](/vitigni/bacca-bianca/malvasia-istriana)
+- **Composizione:** 100% [Malvasia istriana](/vitigni/Italia/bacca-bianca/malvasia-istriana)
 - **Affinamento:** 90 giorni di macerazione sulle bucce in tino, non fitrato, 36 mesi in botte grande di rovere
 - **Alcol:** 14.5%
 - **Fascia di prezzo:** 35 - 39 €

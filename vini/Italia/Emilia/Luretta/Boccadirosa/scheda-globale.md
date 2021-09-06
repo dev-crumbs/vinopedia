@@ -15,7 +15,7 @@ dateCreated: 2021-08-24T11:31:20.502Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Colli Piacentini DOC](/denominazioni/Italia/Emilia/DOC/Colli-Piacentini)
 - **Produttore:** [Luretta](/produttori/Italia/Emilia/Luretta) 
-- **Composizione:** 100% [Malvasia aromatica di Candia](/vitigni/bacca-bianca/malvasia-di-candia-aromatica)
+- **Composizione:** 100% [Malvasia aromatica di Candia](/vitigni/Italia/bacca-bianca/malvasia-di-candia-aromatica)
 - **Affinamento:** 9 mesi in acciaio
 - **Alcol:** 14%
 - **Fascia di prezzo:** 15 - 19 €

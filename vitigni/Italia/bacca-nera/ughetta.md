@@ -9,4 +9,4 @@ dateCreated: 2021-09-04T13:03:54.545Z
 ---
 
 # Ughetta
-"Ughetta" è un sinonimo utilizzato in Italia per il vitigno [Vespolina](/vitigni/bacca-nera/vespolina)
+"Ughetta" è un sinonimo utilizzato in Italia per il vitigno [Vespolina](/vitigni/Italia/bacca-nera/vespolina)

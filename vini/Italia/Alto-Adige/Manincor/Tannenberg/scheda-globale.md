@@ -15,7 +15,7 @@ dateCreated: 2021-08-23T07:36:55.405Z
 - **Tipologia:** Bianco fermo 
 - **Denominazione:** [Alto Adige DOC](/denominazioni/Italia/Alto-Adige/DOC/Alto-Adige) (Terlano)
 - **Produttore:** [Manincor](/produttori/Italia/Alto-Adige/Manincor) 
-- **Composizione:** 100% [Sauvignon Blanc](/vitigni/bacca-bianca/sauvignon-blanc)
+- **Composizione:** 100% [Sauvignon Blanc](/vitigni/Francia/bacca-bianca/sauvignon-blanc)
 - **Affinamento:** 9 mesi in botte di rovere
 - **Alcol:** 14%
 - **Fascia di prezzo:** 25 - 29 €

@@ -10,4 +10,4 @@ dateCreated: 2021-08-19T06:30:55.721Z
 
 # Malvasia Nera Di Lecce
 
-"Malvasia nera di Lecce" è un sinonimo utilizzato in Italia per il vitigno [Malvasia Nera Di Brindisi](/vitigni/bacca-nera/malvasia-nera-di-brindisi)
+"Malvasia nera di Lecce" è un sinonimo utilizzato in Italia per il vitigno [Malvasia Nera Di Brindisi](/vitigni/Italia/bacca-nera/malvasia-nera-di-brindisi)

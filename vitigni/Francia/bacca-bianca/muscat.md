@@ -14,7 +14,7 @@ dateCreated: 2021-08-16T11:06:53.283Z
 Bianca
 
 ## Sinonimi
-Questi sono fondamentalmente traduzioni di Muscat, piuttosto che sinonimi, poiché il nome Muscat è usato per molteplici varietà diverse, come spiegato di seguito: Meski (Tunisia), Misket (Bulgaria), Moscatel (Spagna e Portogallo), [Moscato](/vitigni/bacca-bianca/moscato) o [Moscatello](/vitigni/bacca-bianca/moscatello) (Italia), Moschato o Moschoudia (Grecia), Muskat (Germania), Muskateller (Germania), Muskatoly o Muskotály (Ungheria)
+Questi sono fondamentalmente traduzioni di Muscat, piuttosto che sinonimi, poiché il nome Muscat è usato per molteplici varietà diverse, come spiegato di seguito: Meski (Tunisia), Misket (Bulgaria), Moscatel (Spagna e Portogallo), [Moscato](/vitigni/Italia/bacca-bianca/moscato) o [Moscatello](/vitigni/bacca-bianca/moscatello) (Italia), Moschato o Moschoudia (Grecia), Muskat (Germania), Muskateller (Germania), Muskatoly o Muskotály (Ungheria)
 
 ## Origini e parentele
 Il nome Muscat, o Muscat Something, in varie lingue, è dato a più di 200 varietà distinte e spesso non correlate, a bacca bianca, rosata o nera, coltivate in molte regioni vinicole diverse. Queste varietà sono usate come uva da tavola e/o da vino e tutte hanno in comune un sapore di moscato più o meno caratteristico. Tuttavia, questo sapore può apparire per mutazione anche in altre varietà (per esempio Chasselas Musqué (vedi [Chasselas](/vitigni/bacca-bianca/chasselas)), [Gewürztraminer](/vitigni/bacca-bianca/gewurtztraminer), ecc.) quindi non è necessariamente una caratteristica distintiva per le varietà con Muscat nel loro nome.
@@ -25,9 +25,9 @@ La prima menzione del nome Muscat risale al 1230-40 nel Liber de proprietatibus 
 
 Recenti ricerche genetiche (Crespan e Milani 2001; Cipriani et al. 2010; vedi diagramma pedigree sul retro) hanno dimostrato che:
 
-- Il moscato di alessandria  è probabilmente e inaspettatamente un incrocio naturale tra il [Muscat Blanc À Petits Grains](/vitigni/bacca-bianca/muscat-blanc-a-petit-grains), una varietà bianca coltivata in tutto il Mediterraneo, e l'Axina de Tres Bias, una vecchia uva da tavola a bacca nera coltivata in Sardegna, a Malta e nelle isole greche.
-- Il [Muscat Of Alexandria](/vitigni/bacca-bianca/moscato-di-alessandria) e il [Muscat Blanc À Petits Grains](/vitigni/bacca-bianca/muscat-blanc-a-petit-grains) sono i capostipiti di almeno quattordici vitigni attualmente coltivati per fare vino, di cui nove sono italiani e cinque sudamericani.
-Il [Muscat Of Alexandria](/vitigni/bacca-bianca/moscato-di-alessandria), il [Muscat Blanc À Petits Grains](/vitigni/bacca-bianca/muscat-blanc-a-petit-grains) e i loro quattordici rispettivi progenitori costituiscono chiaramente una stretta famiglia all'interno del gruppo del Moscato nel suo complesso, anche se tale gruppo è altrimenti largamente eterogeneo, rendendo in qualche modo fuorviante parlare di "famiglia del Moscato" per tutte le varietà di sapore di Moscato.
+- Il moscato di alessandria  è probabilmente e inaspettatamente un incrocio naturale tra il [Muscat Blanc À Petits Grains](/vitigni/Francia/bacca-bianca/muscat-blanc-a-petit-grains), una varietà bianca coltivata in tutto il Mediterraneo, e l'Axina de Tres Bias, una vecchia uva da tavola a bacca nera coltivata in Sardegna, a Malta e nelle isole greche.
+- Il [Muscat Of Alexandria](/vitigni/Italia/bacca-bianca/moscato-di-alessandria) e il [Muscat Blanc À Petits Grains](/vitigni/Francia/bacca-bianca/muscat-blanc-a-petit-grains) sono i capostipiti di almeno quattordici vitigni attualmente coltivati per fare vino, di cui nove sono italiani e cinque sudamericani.
+Il [Muscat Of Alexandria](/vitigni/Italia/bacca-bianca/moscato-di-alessandria), il [Muscat Blanc À Petits Grains](/vitigni/Francia/bacca-bianca/muscat-blanc-a-petit-grains) e i loro quattordici rispettivi progenitori costituiscono chiaramente una stretta famiglia all'interno del gruppo del Moscato nel suo complesso, anche se tale gruppo è altrimenti largamente eterogeneo, rendendo in qualche modo fuorviante parlare di "famiglia del Moscato" per tutte le varietà di sapore di Moscato.
 
 ## Altre Ipotesi
 

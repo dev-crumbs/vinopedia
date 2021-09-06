@@ -9,4 +9,4 @@ dateCreated: 2021-08-02T17:12:03.247Z
 ---
 
 # Malbec Argenté
-"Malbec Argenté" è un sinonimo utilizzato in Médoc per il vitigno [Abouriou](/vitigni/bacca-nera/abouriou).
+"Malbec Argenté" è un sinonimo utilizzato in Médoc per il vitigno [Abouriou](/vitigni/Francia/bacca-nera/abouriou).

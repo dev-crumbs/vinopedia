@@ -21,6 +21,6 @@ Odoacra
 Addoraca proviene dalla provincia di Cosenza in Calabria, Italia meridionale. Il suo nome significa 'profumato' in dialetto calabrese.
 
 ## Caratteristiche enologiche e diffusione geografica
-Varietà estremamente rara coltivata esclusivamente nel comune di Saracena in provincia di Cosenza in Calabria, Italia. Viene usata in blend con [Coda di volpe bianca](/vitigni/bacca-bianca/coda-di-volpe-bianca) (sotto il suo sinonimo calabrese Guarnaccia Bianca), [Malvasia Bianca di Candia](/vitigni/bacca-bianca/malvasia-bianca-di-candia) e [Muscat Blanc À Petits Grains](/vitigni/bacca-bianca/muscat-blanc-a-petit-grains) (conosciuto localmente come Moscatello di Saracena) nello storico vino da dessert in stile passito Moscato di Saracena fatto da un piccolo numero di produttori come Cantine Viola (sostenuto da Slow Food) e Feudo dei Sanseverino.
+Varietà estremamente rara coltivata esclusivamente nel comune di Saracena in provincia di Cosenza in Calabria, Italia. Viene usata in blend con [Coda di volpe bianca](/vitigni/bacca-bianca/coda-di-volpe-bianca) (sotto il suo sinonimo calabrese Guarnaccia Bianca), [Malvasia Bianca di Candia](/vitigni/Italia/bacca-bianca/malvasia-bianca-di-candia) e [Muscat Blanc À Petits Grains](/vitigni/Francia/bacca-bianca/muscat-blanc-a-petit-grains) (conosciuto localmente come Moscatello di Saracena) nello storico vino da dessert in stile passito Moscato di Saracena fatto da un piccolo numero di produttori come Cantine Viola (sostenuto da Slow Food) e Feudo dei Sanseverino.
 
 

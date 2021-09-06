@@ -9,4 +9,4 @@ dateCreated: 2021-08-02T17:00:00.732Z
 ---
 
 # Early Burgundy
-"Early Burgundy" è un sinonimo utilizzato in California e Australia per il vitigno [Abouriou](/vitigni/bacca-nera/abouriou).
+"Early Burgundy" è un sinonimo utilizzato in California e Australia per il vitigno [Abouriou](/vitigni/Francia/bacca-nera/abouriou).

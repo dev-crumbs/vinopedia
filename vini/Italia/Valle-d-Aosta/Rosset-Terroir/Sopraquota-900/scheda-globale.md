@@ -15,7 +15,7 @@ dateCreated: 2021-08-24T11:16:41.742Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Vino generico](/denominazioni/Italia/Vino-Generico) 
 - **Produttore:** [Rosset Terroir](/produttori/Italia/Valle-d-Aosta/Rosset-Terroir) 
-- **Composizione:** 100% [Petite Arvine](/vitigni/bacca-bianca/petite-arvine) 
+- **Composizione:** 100% [Petite Arvine](/vitigni/Italia/bacca-bianca/petite-arvine) 
 - **Affinamento:** 8 mesi parte in anfora e parte in acciaio
 - **Alcol:** 14%
 - **Fascia di prezzo:** 35 - 39 €

@@ -15,7 +15,7 @@ dateCreated: 2021-08-24T11:16:41.742Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Isola dei Nuraghi IGT](/denominazioni/Italia/Sardegna/IGT/Isola-dei-Nuraghi)
 - **Produttore:** [Capichera](/produttori/Italia/Sardegna/Capichera) 
-- **Composizione:** 100% [Vermentino](/vitigni/bacca-bianca/Vermentino)
+- **Composizione:** 100% [Vermentino](/vitigni/Italia/bacca-bianca/vermentino)
 - **Affinamento:** 8 mesi in acciaio + 8 mesi in barrique 
 - **Alcol:** 14.5%
 - **Fascia di prezzo:** 125 - 150 €

@@ -34,4 +34,4 @@ Neretto Duro, letteralmente 'piccolo nero duro', è una varietà rossa autoctona
 Si coltiva principalmente nella regione del Canavese in provincia di Torino, e in misura minore in tutta la regione alpina del Piemonte, Italia, intorno ad Asti, Cuneo, Chieri, Pinerolo e Alessandria. 
 
 ## Caratteristiche enologiche
-I vini sono sia fruttati che speziati, con bassa gradazione alcolica e bassa acidità, e vengono solitamente miscelati con altre varietà locali. Confusamente, Ettore Germano produce un vino chiamato Balau, un sinonimo molto usato per Neretto Duro, sebbene sia una miscela di [Dolcetto](/vitigni/bacca-nera/dolcetto), [Barbera](/vitigni/bacca-nera/barbera) E [Merlot](/vitigni/bacca-nera/merlot).
+I vini sono sia fruttati che speziati, con bassa gradazione alcolica e bassa acidità, e vengono solitamente miscelati con altre varietà locali. Confusamente, Ettore Germano produce un vino chiamato Balau, un sinonimo molto usato per Neretto Duro, sebbene sia una miscela di [Dolcetto](/vitigni/bacca-nera/dolcetto), [Barbera](/vitigni/bacca-nera/barbera) E [Merlot](/vitigni/Francia/bacca-nera/merlot).

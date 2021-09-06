@@ -15,7 +15,7 @@ dateCreated: 2021-08-24T11:31:20.502Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Molise DOC](/denominazioni/Italia/Molise/DOC/Molise) 
 - **Produttore:** [Di Majo Norante](/produttori/Italia/Molise/Di-Majo-Norante) 
-- **Composizione:** 100% [Montepulciano](/vitigni/bacca-bianca/montepulciano)
+- **Composizione:** 100% [Montepulciano](/vitigni/Italia/bacca-nera/montepulciano)
 - **Affinamento:** 18 mesi in barrique nuove + 6 mesi in acciaio
 - **Alcol:** 15%
 - **Fascia di prezzo:** 25 - 29 € -- L'annata 2016 è stata proposta con un prezzo in fascia  35 - 39 €

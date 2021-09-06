@@ -15,7 +15,7 @@ dateCreated: 2021-08-24T11:16:41.742Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Umbria IGT](/denominazioni/Italia/Umbria/IGT/Umbria)
 - **Produttore:** [Famiglia Cotarella](/produttori/Italia/Umbria/Famiglia-Cotarella) 
-- **Composizione:** 70% [Cabernet Sauvignon](/vitigni/bacca-nera/cabernet-sauvignon) + 30% [Cabernet Franc](/vitigni/bacca-nera/cabernet-franc)
+- **Composizione:** 70% [Cabernet Sauvignon](/vitigni/Francia/bacca-nera/cabernet-sauvignon) + 30% [Cabernet Franc](/vitigni/Francia/bacca-nera/cabernet-franc)
 - **Affinamento:** 18 mesi in barrique + 12 mesi in bottiglia 
 - **Alcol:** 14.5%
 - **Fascia di prezzo:** 40 - 44 €
@@ -43,4 +43,4 @@ dateCreated: 2021-08-24T11:16:41.742Z
 - Marciliano [2017](vini/Italia/Umbria/Famiglia-Cotarella/Marciliano/2017) -- <span class="star-5"></span> -- 93/100
 
 ## Note
-Nel 2014 il blend era composto da [Cabernet Sauvignon](/vitigni/bacca-nera/cabernet-sauvignon) + [Merlot](/vitigni/bacca-nera/merlot)
+Nel 2014 il blend era composto da [Cabernet Sauvignon](/vitigni/Francia/bacca-nera/cabernet-sauvignon) + [Merlot](/vitigni/Francia/bacca-nera/merlot)

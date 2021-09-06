@@ -20,7 +20,7 @@ Dolcetto Nero, Nibièu o Nibiò (Oltrepò Pavese in Lombardia e intorno a Torton
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-Charbono (Piemonte), [Douce Noire](/vitigni/bacca-nera/douce-noire) (Savoia in Francia), [Nebbiolo](/vitigni/bacca-nera/nebbiolo) (provincia di Alessandria in Piemonte)
+Charbono (Piemonte), [Douce Noire](/vitigni/bacca-nera/douce-noire) (Savoia in Francia), [Nebbiolo](/vitigni/Italia/bacca-nera/nebbiolo) (provincia di Alessandria in Piemonte)
 
 ## Origini e parentele
 La prima menzione di Dolcetto appare nel 1593 a Dogliani vicino a Cuneo (Comba e Dal Verme 1990). Il nome Dolcetto, che significa 'poco dolce', deriva dalla bassa acidità naturale delle bacche ma i vini Dolcetto sono quasi sempre secchi.
@@ -32,7 +32,7 @@ Il Dolcetto è stato incrociato con [Chatus](/vitigni/bacca-nera/chatus) per pro
 Esiste un Dolcetto Bianco, ma paradossalmente non ha niente a che vedere con il Dolcetto Nero (Schneider e Mannini 2006).
 
 ## Caratteristiche viticole
-- Maturazione precoce (fino a quattro settimane prima del [Nebbiolo](/vitigni/bacca-nera/nebbiolo)), il che lo rende adatto ai siti più freschi e alti del Piemonte dove [Barbera](/vitigni/bacca-nera/barbera) e Nebbiolo non riescono a maturare completamente. 
+- Maturazione precoce (fino a quattro settimane prima del [Nebbiolo](/vitigni/Italia/bacca-nera/nebbiolo)), il che lo rende adatto ai siti più freschi e alti del Piemonte dove [Barbera](/vitigni/bacca-nera/barbera) e Nebbiolo non riescono a maturare completamente. 
 - Ad Alba, si pensa che preferisca i terreni più leggeri di marna bianca sulla riva destra del fiume Tanaro. 
 - È suscettibile alle malattie fungine e in alcune località tende a far cadere i grappoli prima del raccolto (Botta, Vallania et al. 1995).
 

@@ -16,7 +16,7 @@ Nera
 Klosterneuburg 1355-3-33, Ráthay Noir
 
 ## Origini e parentele
-Un ibrido di Klosterneuburg 1189-9-77 e [Blauburger](/vitigni/bacca-nera/blauburger) ottenuto nel 1970 da Gertrude Mayer al centro di ricerca Klosterneuburg in Austria (per il pedigree di Klosterneuburg 1189-9-77 vedere [Roesler](/vitigni/bacca-nera-roesler)), il che lo rende un fratellastro di Roesler. Ráthay prende il nome da Emerich Ráthay (1845-1900), secondo direttore di Klosterneuburg.
+Un ibrido di Klosterneuburg 1189-9-77 e [Blauburger](/vitigni/Austria/bacca-nera/blauburger) ottenuto nel 1970 da Gertrude Mayer al centro di ricerca Klosterneuburg in Austria (per il pedigree di Klosterneuburg 1189-9-77 vedere [Roesler](/vitigni/bacca-nera-roesler)), il che lo rende un fratellastro di Roesler. Ráthay prende il nome da Emerich Ráthay (1845-1900), secondo direttore di Klosterneuburg.
 
 ## Caratteristiche viticole
 - Buona resistenza alla peronospora.

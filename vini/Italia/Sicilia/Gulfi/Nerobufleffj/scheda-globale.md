@@ -15,7 +15,7 @@ dateCreated: 2021-08-24T11:55:59.971Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Terre Siciliane IGT](/denominazioni/Italia/Sicilia/IGT/Terre-Siciliane)
 - **Produttore:** [Gulfi](/produttori/Italia/Sicilia/Gulfi) 
-- **Composizione:** 100% [Nero d'Avola](/vitigni/bacca-nera/nero-d-avola)
+- **Composizione:** 100% [Nero d'Avola](/vitigni/Italia/bacca-nera/nero-d-avola)
 - **Affinamento:** 24 mesi in tonneau + 12 in bottiglia
 - **Alcol:** 14%
 - **Fascia di prezzo:** 30 - 34 €

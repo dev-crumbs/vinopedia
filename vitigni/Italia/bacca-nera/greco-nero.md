@@ -24,7 +24,7 @@ Il nome Greco Nero è stato usato in Calabria, Italia meridionale, per diverse v
 
 - Greco Nero trovato a Verbicaro e Scalea
 - Greco Nero trovato a Sibari nella Calabria nord-orientale.
-Le ultime due varietà hanno morfologie e profili DNA distinti e devono essere considerate come due varietà distinte: [Greco Nero Di Verbicaro](/vitigni/bacca-nera/greco-nero-di-verbicaro) e [Greco Nero Di Sibari](/vitigni/bacca-nera/greco-nero-di-sibari).
+Le ultime due varietà hanno morfologie e profili DNA distinti e devono essere considerate come due varietà distinte: [Greco Nero Di Verbicaro](/vitigni/Italia/bacca-nera/greco-nero-di-verbicaro) e [Greco Nero Di Sibari](/vitigni/Italia/bacca-nera/greco-nero-di-sibari).
 
 ### Altre Ipotesi
 

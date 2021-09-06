@@ -20,14 +20,14 @@ La prima menzione del Trebbiano è apparsa nel 1303 nel trattato di agricoltura 
 
 In questo libro abbiamo incluso sei varietà distinte con Trebbiano nel loro nome:
 
-- [Trebbiano D'Abruzzo](/vitigni/bacca-bianca/trebbiano-d-abruzzo), misterioso abruzzese
-- [Trebbiano Giallo](/vitigni/bacca-bianca/trebbiano-giallo), varietà laziale
-- [Trebbiano Modenese](/vitigni/bacca-bianca/trebbiano-modenese), usato soprattutto per l'aceto
-- [Trebbiano Romagnolo](/vitigni/bacca-bianca/trebbiano-romagnolo) ampiamente piantato in Emilia-Romagna
-- [Trebbiano Spoletino](/vitigni/bacca-bianca/trebbiano-spoletino), recentemente rinato umbro
-- [Trebbiano Toscano](/vitigni/bacca-bianca/trebbiano-toscano), il più diffuso di tutti.
+- [Trebbiano D'Abruzzo](/vitigni/Italia/bacca-bianca/trebbiano-d-abruzzo), misterioso abruzzese
+- [Trebbiano Giallo](/vitigni/Italia/bacca-bianca/trebbiano-giallo), varietà laziale
+- [Trebbiano Modenese](/vitigni/Italia/bacca-bianca/trebbiano-modenese), usato soprattutto per l'aceto
+- [Trebbiano Romagnolo](/vitigni/Italia/bacca-bianca/trebbiano-romagnolo) ampiamente piantato in Emilia-Romagna
+- [Trebbiano Spoletino](/vitigni/Italia/bacca-bianca/trebbiano-spoletino), recentemente rinato umbro
+- [Trebbiano Toscano](/vitigni/Italia/bacca-bianca/trebbiano-toscano), il più diffuso di tutti.
 
-Sono state identificate altre varietà dell'eterogeneo gruppo Trebbiano, anche se Trebbiano di Soave, Trebbiano Valtenesi e Trebbiano di Lugana sono tutti identici al [Verdicchio bianco](/vitigni/bacca-bianca/verdicchio-bianco) (Calò, Costacurta et al. 1991; Labra et al. 2001; Ghidoni et al. 2008)
+Sono state identificate altre varietà dell'eterogeneo gruppo Trebbiano, anche se Trebbiano di Soave, Trebbiano Valtenesi e Trebbiano di Lugana sono tutti identici al [Verdicchio bianco](/vitigni/Italia/bacca-bianca/verdicchio-bianco) (Calò, Costacurta et al. 1991; Labra et al. 2001; Ghidoni et al. 2008)
 
 ### Altre ipotesi
 

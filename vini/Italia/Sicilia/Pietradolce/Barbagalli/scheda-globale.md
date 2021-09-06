@@ -15,7 +15,7 @@ dateCreated: 2021-08-24T11:55:59.971Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Etna Rosso DOC](/denominazioni/Italia/Sicilia/DOC/Etna-Rosso)
 - **Produttore:** [Pietradolce](/produttori/Italia/Sicilia/Pietradolce) 
-- **Composizione:** 100% [Nerello Mascalese](/vitigni/bacca-nera/nerello-mascalese)
+- **Composizione:** 100% [Nerello Mascalese](/vitigni/Italia/bacca-nera/nerello-mascalese)
 - **Affinamento:** 21 mesi in tonneau + 6 mesi in bottiglia
 - **Alcol:** 14.5%
 - **Fascia di prezzo:** 100 - 125 €

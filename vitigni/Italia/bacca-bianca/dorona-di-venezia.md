@@ -21,16 +21,16 @@ Dorona, Dorona Veneziana, Uva d'Oro
 {.is-info}
 
 
-[Garganega](/vitigni/bacca-bianca/garganega)
+[Garganega](/vitigni/Italia/bacca-bianca/garganega)
 
 
 ## Origini e Parentele
 
-Dorona di Venezia è locale della laguna di Venezia, dove è stata coltivata quasi esclusivamente, principalmente come uva da tavola. Si pensava che fosse identica alla [Garganega](/vitigni/bacca-bianca/garganega) ma l'analisi del DNA ha sia smentito questo che spiegato la confusione (Di Vecchi Staraz, This et al. 2007): Dorona di Venezia ha dimostrato di essere un incrocio naturale Garganega × Bermestia Bianca, dove Bermestia Bianca è un'uva da tavola dell'Emilia-Romagna (vedere Garganega per il pedigree completo). Il nome Dorona deriva dall'italiano d'oro, che significa 'oro', riferendosi al colore dorato delle bacche alla raccolta. Sebbene ci siano prove documentarie di viti piantate nella Repubblica di Venezia al tempo del suo insediamento e un riferimento a una vinea, o vigna, sull'isola veneziana di Mazzorbo a metà del XV secolo, il primo riferimento a Dorona fu in Eden (1903).
+Dorona di Venezia è locale della laguna di Venezia, dove è stata coltivata quasi esclusivamente, principalmente come uva da tavola. Si pensava che fosse identica alla [Garganega](/vitigni/Italia/bacca-bianca/garganega) ma l'analisi del DNA ha sia smentito questo che spiegato la confusione (Di Vecchi Staraz, This et al. 2007): Dorona di Venezia ha dimostrato di essere un incrocio naturale Garganega × Bermestia Bianca, dove Bermestia Bianca è un'uva da tavola dell'Emilia-Romagna (vedere Garganega per il pedigree completo). Il nome Dorona deriva dall'italiano d'oro, che significa 'oro', riferendosi al colore dorato delle bacche alla raccolta. Sebbene ci siano prove documentarie di viti piantate nella Repubblica di Venezia al tempo del suo insediamento e un riferimento a una vinea, o vigna, sull'isola veneziana di Mazzorbo a metà del XV secolo, il primo riferimento a Dorona fu in Eden (1903).
 
 ### Altre Ipotesi
 
-Si dice che Dorona di Venezia fosse conosciuta fin dal XV secolo ma questo è probabilmente il risultato della frequente confusione con l'antichissimo [Garganega](/vitigni/bacca-bianca/garganega).
+Si dice che Dorona di Venezia fosse conosciuta fin dal XV secolo ma questo è probabilmente il risultato della frequente confusione con l'antichissimo [Garganega](/vitigni/Italia/bacca-bianca/garganega).
 
 ## Caratteristiche Viticole
 

@@ -9,4 +9,4 @@ dateCreated: 2021-08-02T17:04:13.493Z
 ---
 
 # Gamay-Saint-Laurent
-"Gamay-Saint-Laurent" è un sinonimo utilizzato in Aveyron per il vitigno [Abouriou](/vitigni/bacca-nera/abouriou).
+"Gamay-Saint-Laurent" è un sinonimo utilizzato in Aveyron per il vitigno [Abouriou](/vitigni/Francia/bacca-nera/abouriou).

@@ -18,7 +18,7 @@ Cirfandli (Ungheria), Gumpoldskirchner (Austria), Roter Zierfandler, Rubiner, Sp
 
 
 ## Origini e parentele
-L'analisi della parentela del DNA ha suggerito che Zierfandler potrebbe essere un incrocio naturale tra [Roter Veltliner](/vitigni/bacca-bianca/roter-veltliner) e un parente di [Savagnin](/vitigni/bacca-bianca/savagnin) che ebbe luogo vicino a Gumpoldskirchen in Niederösterreich (Bassa Austria; Regner 2000a; vedi [Pinot](/vitigni/bacca-nera/pinot)). La sua presunta parentela con [Silvaner](/vitigni/bacca-bianca/silvaner), che a volte veniva chiamato Grüner Zierfandler o Zierfandl, non è confermata dall'analisi del DNA (Vouillamoz).
+L'analisi della parentela del DNA ha suggerito che Zierfandler potrebbe essere un incrocio naturale tra [Roter Veltliner](/vitigni/bacca-bianca/roter-veltliner) e un parente di [Savagnin](/vitigni/bacca-bianca/savagnin) che ebbe luogo vicino a Gumpoldskirchen in Niederösterreich (Bassa Austria; Regner 2000a; vedi [Pinot](/vitigni/Francia/bacca-nera/pinot)). La sua presunta parentela con [Silvaner](/vitigni/bacca-bianca/silvaner), che a volte veniva chiamato Grüner Zierfandler o Zierfandl, non è confermata dall'analisi del DNA (Vouillamoz).
 ## Caratteristiche viticole
 
 - Grappoli grandi e compatti di piccoli acini con un colore rosa-verdastro

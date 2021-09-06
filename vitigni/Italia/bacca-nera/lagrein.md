@@ -21,15 +21,15 @@ Anche se la denominazione 'weiss Lagrein' presume l'esistenza di una versione da
 Recenti analisi di parentela del DNA e la ricostruzione di un pedigree complesso (Vouillamoz e Grando 2006) hanno stabilito che il Lagrein è:
 
 - un incrocio naturale tra [Teroldego](/vitigni/bacca-nera/teroldego) e una varietà sconosciuta (anche se vedi sotto in Altre ipotesi)
-- un fratello di [Marzemino](/vitigni/bacca-nera/marzemino) (vedere anche [Refosco Dal Peduncolo Rosso](/vitigni/bacca-nera/refosco-dal-peduncolo-rosso))
+- un fratello di [Marzemino](/vitigni/Italia/bacca-nera/marzemino) (vedere anche [Refosco Dal Peduncolo Rosso](/vitigni/bacca-nera/refosco-dal-peduncolo-rosso))
 - un nipote/nipote di [Dureza](/vitigni/bacca-nera/dureza), il genitore di [Syrah]
-- un nipote di [Pinot](/vitigni/bacca-nera/pinot)
-- un cugino di [Syrah](/vitigni/bacca-nera/syrah).
+- un nipote di [Pinot](/vitigni/Francia/bacca-nera/pinot)
+- un cugino di [Syrah](/vitigni/Italia/bacca-nera/syrah).
 Questo smentisce la supposta origine greca o albanese del Lagrein, che può essere considerato una varietà antica e autoctona dell'Alto Adige.
 
 ### Altre Ipotesi
 
-Si è ipotizzato che il Lagrein sia stato addomesticato da uve selvatiche locali, ma la parentela scoperta di recente smentisce con forza questa ipotesi. Altri hanno suggerito un'origine greca, basata sulla somiglianza tra il nome Lagrein e la parola greca lagaros, che significa 'chiaro' o 'luminoso', o sull'esistenza del Lagarinos, un vino prodotto nell'antica città di Lagaria sulla costa ionica nel distretto allora noto come Lucania (ora Basilicata) nell'Italia meridionale. Da lì si dice che l'uva si sia spostata a nord verso l'Alto Adige. Anche questo è respinto dalle scoperte del DNA. Più recentemente, Cipriani et al. (2010) hanno proposto che il Lagrein sia un incrocio naturale tra [Teroldego](/vitigni/bacca-nera/teroldego) e [Schiava Gentile](/vitigni/bacca-nera/schiava-gentile) dell'Alto Adige. Tuttavia, questa parentela non è verificata in due dei trentanove marcatori del DNA analizzati, un livello di discrepanza che è stato osservato anche in coppie non genitore-figlio da Vouillamoz et al. (2006), e la parentela proposta non è coerente con il pedigree di Vouillamoz et al. (2006) basato su sessanta marcatori del DNA, perché [Marzemino](/vitigni/bacca-nera/marzemino), un fratello di Lagrein, non potrebbe essere una progenie di Schiava Gentile (vedere [Pinot](/vitigni/bacca-nera/pinot)).
+Si è ipotizzato che il Lagrein sia stato addomesticato da uve selvatiche locali, ma la parentela scoperta di recente smentisce con forza questa ipotesi. Altri hanno suggerito un'origine greca, basata sulla somiglianza tra il nome Lagrein e la parola greca lagaros, che significa 'chiaro' o 'luminoso', o sull'esistenza del Lagarinos, un vino prodotto nell'antica città di Lagaria sulla costa ionica nel distretto allora noto come Lucania (ora Basilicata) nell'Italia meridionale. Da lì si dice che l'uva si sia spostata a nord verso l'Alto Adige. Anche questo è respinto dalle scoperte del DNA. Più recentemente, Cipriani et al. (2010) hanno proposto che il Lagrein sia un incrocio naturale tra [Teroldego](/vitigni/bacca-nera/teroldego) e [Schiava Gentile](/vitigni/Italia/bacca-nera/schiava-gentile) dell'Alto Adige. Tuttavia, questa parentela non è verificata in due dei trentanove marcatori del DNA analizzati, un livello di discrepanza che è stato osservato anche in coppie non genitore-figlio da Vouillamoz et al. (2006), e la parentela proposta non è coerente con il pedigree di Vouillamoz et al. (2006) basato su sessanta marcatori del DNA, perché [Marzemino](/vitigni/Italia/bacca-nera/marzemino), un fratello di Lagrein, non potrebbe essere una progenie di Schiava Gentile (vedere [Pinot](/vitigni/Francia/bacca-nera/pinot)).
 
 ## Caratteristiche viticole
 - Abbastanza vigoroso e può essere soggetto a scarsa allegagione in alcune stagioni
@@ -38,9 +38,9 @@ Si è ipotizzato che il Lagrein sia stato addomesticato da uve selvatiche locali
 ## Diffusione geografica
 
 ### In Alto Adige (Italia)
-Il Lagrein viene coltivato principalmente in Alto Adige e in Trentino nell'estremo nord dell'Italia. Viene spesso miscelato con lo [Schiava Grossa](/vitigni/bacca-nera/schiava-grossa) ma i vini varietali sono ammessi nelle DOC dell'Alto Adige e del Trentino. I vini rosati sono etichettati come Rosato o Kretzer, i vini rossi Lagrein o Lagrein Dunkel o Lagrein Scuro.
+Il Lagrein viene coltivato principalmente in Alto Adige e in Trentino nell'estremo nord dell'Italia. Viene spesso miscelato con lo [Schiava Grossa](/vitigni/Italia/bacca-nera/schiava-grossa) ma i vini varietali sono ammessi nelle DOC dell'Alto Adige e del Trentino. I vini rosati sono etichettati come Rosato o Kretzer, i vini rossi Lagrein o Lagrein Dunkel o Lagrein Scuro.
 
-Le piantagioni totali di Lagrein nel censimento agricolo italiano del 2000 erano 477 ha (1.179 acri). L'Alto Adige ha registrato 412 ha (1.018 acri) nel 2008, rendendolo il secondo vitigno scuro più piantato della regione, un po' dietro a [Schiava Grossa](/vitigni/bacca-nera/schiava-grossa).
+Le piantagioni totali di Lagrein nel censimento agricolo italiano del 2000 erano 477 ha (1.179 acri). L'Alto Adige ha registrato 412 ha (1.018 acri) nel 2008, rendendolo il secondo vitigno scuro più piantato della regione, un po' dietro a [Schiava Grossa](/vitigni/Italia/bacca-nera/schiava-grossa).
 
 ### In California
 

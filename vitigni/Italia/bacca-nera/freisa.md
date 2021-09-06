@@ -19,12 +19,12 @@ Freisa di Chieri, Freisa Piccola, Freisetta, Fresia, Monferrina, Mounfrina, Span
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Fumin](/vitigni/bacca-nera/fumin)  (Valle D'Aosta), [Neretta Cuneese](/vitigni/bacca-nera/neretta-cuneese) (Sotto Il Nome Di Freisa Grossa O Freisa Di Nizza), [Neretto Nostrano](/vitigni/bacca-nera/neretto-nostrano) (Canavese)
+[Fumin](/vitigni/Italia/bacca-nera/fumin)  (Valle D'Aosta), [Neretta Cuneese](/vitigni/bacca-nera/neretta-cuneese) (Sotto Il Nome Di Freisa Grossa O Freisa Di Nizza), [Neretto Nostrano](/vitigni/bacca-nera/neretto-nostrano) (Canavese)
 
 ## Origini e parentele
 La Freisa è una delle varietà più antiche e importanti del Piemonte. Anche se c'è qualche dubbio, si pensa che la prima menzione della Freisa sia in un documento del 1517 che parla di un pedaggio a Pancalieri, circa 30 km a sud ovest di Torino; si pagava il doppio per il vino fresearum rispetto ad altri vini (Nada Patrone 1988). La prima descrizione ampelografica affidabile del Freisa fu fatta da Giuseppe Nuvolone Pergamo (1787-98), conte di Scandaluzza.
 
-Il profilo del DNA ha dimostrato che Freisa e [Nebbiolo](/vitigni/bacca-nera/nebbiolo) hanno una relazione genitore-figlio e che Freisa potrebbe avere una stretta relazione genetica con [Viognier](/vitigni/bacca-nera/viognier) del Rodano settentrionale (Schneider, Boccacci et al. 2004). Inoltre, Freisa potrebbe essere strettamente imparentata con [Rèze](/vitigni/bacca-nera/reze), un'antica varietà del Vallese in Svizzera (Vouillamoz, Schneider et al. 2007).
+Il profilo del DNA ha dimostrato che Freisa e [Nebbiolo](/vitigni/Italia/bacca-nera/nebbiolo) hanno una relazione genitore-figlio e che Freisa potrebbe avere una stretta relazione genetica con [Viognier](/vitigni/bacca-nera/viognier) del Rodano settentrionale (Schneider, Boccacci et al. 2004). Inoltre, Freisa potrebbe essere strettamente imparentata con [Rèze](/vitigni/bacca-nera/reze), un'antica varietà del Vallese in Svizzera (Vouillamoz, Schneider et al. 2007).
 
 ## Caratteristiche viticole
 - Un vitigno robusto con alti livelli di antociani nelle bacche
@@ -35,7 +35,7 @@ Il profilo del DNA ha dimostrato che Freisa e [Nebbiolo](/vitigni/bacca-nera/neb
 ## Diffusione geografica
 La Freisa viene coltivata in varie regioni del Piemonte nell'Italia nord-occidentale, in particolare nelle province di Asti, Torino e Cuneo e nelle regioni alpine, comprese le zone subalpine. Ad est del Piemonte, ci sono piantagioni sparse di Freisa nella provincia di Vicenza in Veneto. Il censimento agricolo italiano del 2000 registra piantagioni totali di 1.453 ha (3.590 acri).
 
-È ammesso come componente minore in varie DOC a dominanza [Nebbiolo](/vitigni/bacca-nera/nebbiolo), [Barbera](/vitigni/bacca-nera/barbera) O [Grignolino](/vitigni/bacca-nera/grignolino) e come parte dell'assemblaggio in un'ampia gamma di DOC del Piemonte. Ha anche diverse DOC che portano il suo nome, ad esempio Freisa d'Asti e Freisa di Chieri.
+È ammesso come componente minore in varie DOC a dominanza [Nebbiolo](/vitigni/Italia/bacca-nera/nebbiolo), [Barbera](/vitigni/bacca-nera/barbera) O [Grignolino](/vitigni/bacca-nera/grignolino) e come parte dell'assemblaggio in un'ampia gamma di DOC del Piemonte. Ha anche diverse DOC che portano il suo nome, ad esempio Freisa d'Asti e Freisa di Chieri.
 
 Freisa è stato imbottigliato da aziende come Bonny Doon e Viansa in California.
 

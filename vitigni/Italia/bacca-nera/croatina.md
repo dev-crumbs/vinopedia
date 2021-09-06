@@ -19,7 +19,7 @@ Bonarda (Oltrepò Pavese, Roero), Bonarda di Rovescala, Crovattina, Nebbiolo di 
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Bonarda Piemontese](/vitigni/bacca-nera/bonarda-piemontese), [Hrvatica](/vitigni/bacca-nera/hrvatica), [Nebbiolo](/vitigni/bacca-nera/nebbiolo). 
+[Bonarda Piemontese](/vitigni/bacca-nera/bonarda-piemontese), [Hrvatica](/vitigni/bacca-nera/hrvatica), [Nebbiolo](/vitigni/Italia/bacca-nera/nebbiolo). 
 
 ## Origini e parentele
 Si ritiene che la Croatina sia originaria di Rovescala nella Valle del Versa nell'Oltrepò Pavese, a sud del fiume Po nel nord Italia, dove fu menzionata per la prima volta alla fine del XIX secolo. Nell'Oltrepò Pavese viene chiamato Bonarda, ma questo nome può essere fuorviante perché viene usato per almeno sei varietà distinte (vedi [Bonarda Piemontese](/vitigni/bacca-nera/bonarda-pienotese)). Sebbene Croatina e la vecchia varietà croata [Hrvatica](/vitigni/bacca-nera/hrvatica) significhino entrambe 'ragazza croata', il profilo del DNA ha respinto qualsiasi possibile collegamento tra loro (Maletić et al. 1999). Croatina è stata usata per allevare [Ervi](/vitigni/bacca-nera/ervi).

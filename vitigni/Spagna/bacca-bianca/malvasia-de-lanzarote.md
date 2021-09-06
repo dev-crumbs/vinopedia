@@ -20,7 +20,7 @@ Málaga (Tacoronte-Acentejo su Tenerife), Malvasía (Lanzarote, Gran Canaria e V
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Malvasia Bianca Lunga](/vitigni/bacca-bianca/malvasia-bianca-lunga) (Italia), [Malvasia Di Lipari](/vitigni/bacca-bianca/malvasia-di-lipari) (o Malvasía de Sitges sulle Isole Canarie)
+[Malvasia Bianca Lunga](/vitigni/Italia/bacca-bianca/malvasia-bianca-lunga) (Italia), [Malvasia Di Lipari](/vitigni/Italia/bacca-bianca/malvasia-di-lipari) (o Malvasía de Sitges sulle Isole Canarie)
 
 
 ## Origini e parentele
