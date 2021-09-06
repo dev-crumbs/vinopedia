@@ -1,11 +1,11 @@
 ---
 title: Tocai friulano
-description: "Tocai friulano" è un sinonimo di "Sauvignonasse"
+description: "Tocai friulano" è un sinonimo per "Sauvignonasse"
 published: true
-date: 2021-09-04T05:03:01.184Z
+date: 2021-09-06T16:46:14.161Z
 tags: vitigno, sinonimo, bacca bianca
 editor: markdown
-dateCreated: 2021-09-04T05:03:01.184Z
+dateCreated: 2021-09-06T16:46:14.161Z
 ---
 
 # Tocai friulano
