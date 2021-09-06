@@ -2,10 +2,10 @@
 title: Tocai
 description: "Tocai" è un sinonimo di "Sauvignonasse"
 published: true
-date: 2021-09-04T05:25:56.776Z
+date: 2021-09-06T16:47:05.461Z
 tags: vitigno, sinonimo, bacca bianca
 editor: markdown
-dateCreated: 2021-09-04T05:25:56.776Z
+dateCreated: 2021-09-06T16:47:05.461Z
 ---
 
 # Tocai friulano
