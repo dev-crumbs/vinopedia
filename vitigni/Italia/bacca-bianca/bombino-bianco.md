@@ -14,7 +14,7 @@ dateCreated: 2021-08-19T05:49:45.173Z
 Bianca
 
 ## Sinonimi
-Bambino, Buonvino, Ottonese * (Lazio in Italia centrale), Pagadebit, Straccia Cambiale
+Bambino, Buonvino, Ottonese (Lazio in Italia centrale), Pagadebit, Straccia Cambiale
 
 ## Omonimi
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica

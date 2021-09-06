@@ -10,4 +10,4 @@ dateCreated: 2021-08-18T15:55:39.117Z
 
 # Malvasia Castellana
 
-"Malvasia Castellana" è un sinonimo utilizzato in Italia per il vitigno [Síria](/vitigni/bacca-bianca/siria).
+"Malvasia Castellana" è un sinonimo utilizzato per il vitigno [Síria](/vitigni/bacca-bianca/siria).

@@ -26,7 +26,7 @@ Weinsberg 71-816-102
 - Maturazione precoce 
 - Acini di colore intenso con buoni livelli di zucchero.
 
-## Diffusione geografica e come viene utilizzato
+## Diffusione geografica
 
 Nonostante la sua breve vita nell'elenco ufficiale, ci sono già 478 ha (1.181 acri) in Germania, poco meno della metà nel Württemberg e circa un quarto nel Pfalz. I vini sono abbastanza simili a quelli del suo genitore [Blaufränkisch](/vitigni/bacca-nera/blaufrankisch) (o Limberger): abbastanza corposi con buona frutta e tannini moderati. Le versioni più concentrate possono beneficiare di un uso moderato della quercia. I vini varietali sono prodotti da Medinger e Sturmfeder nel Württemberg, Anselmann e Karl Dennhardt nel Pfalz e Kochertalkellerei nel Baden.
 
