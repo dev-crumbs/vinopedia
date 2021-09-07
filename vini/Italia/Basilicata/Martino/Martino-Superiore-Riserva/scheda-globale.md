@@ -13,7 +13,7 @@ dateCreated: 2021-09-04T16:03:53.242Z
 ## Caratteristiche
 - **Nome:** Martino Superiore Riserva
 - **Tipologia:** Rosso fermo 
-- **Denominazione:** [Aglianico del Vulture DOCG](/denominazioni/Italia/Basilicata/DOCG/Aglianico-del-Vulture-Superiore) (Riserva)
+- **Denominazione:** [Aglianico del Vulture Superiore DOCG](/denominazioni/Italia/Basilicata/DOCG/Aglianico-del-Vulture-Superiore) (Riserva)
 - **Produttore:** [Martino](/produttori/Italia/Basilicata/Martino) 
 - **Composizione:** 100% [Aglianico del Vulture](/vitigni/Italia/bacca-nera/aglianico-del-vulture)
 - **Affinamento:** 24 mesi in barrique di rovere + 24 mesi in bottiglia
