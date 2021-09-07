@@ -1,8 +1,8 @@
 ---
-title: Canaiolo
+title: Canaiolo nero
 description: Rosso morbidoe  corposo dell'Italia centrale, usato principalmente per completare il Sangiovese.
 published: true
-date: 2021-09-07T16:23:43.234Z
+date: 2021-09-07T16:26:58.219Z
 tags: vitigno, bacca nera
 editor: markdown
 dateCreated: 2021-09-07T16:23:43.234Z
