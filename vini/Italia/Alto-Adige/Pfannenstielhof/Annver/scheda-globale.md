@@ -11,7 +11,7 @@ dateCreated: 2021-08-23T07:36:55.405Z
 # Annver
 
 ## Caratteristiche
-- **Nome:** Serpara
+- **Nome:** Annver
 - **Tipologia:** Rosso fermo 
 - **Denominazione:** [Alto Adige DOC](/denominazioni/Italia/Alto-Adige/DOC/Alto-Adige) (Santa Maddalena, Classico)
 - **Produttore:** [Pfannenstielhof](/produttori/Italia/Alto-Adige/Pfannenstielhof) 
