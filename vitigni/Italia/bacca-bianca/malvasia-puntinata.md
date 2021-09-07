@@ -2,10 +2,10 @@
 title: Malvasia puntinata
 description: "Malvasia puntinata" è un sinonimo di "Malvasia del Lazio"
 published: true
-date: 2021-09-04T05:38:26.955Z
+date: 2021-09-07T05:11:59.540Z
 tags: vitigno, sinonimo, bacca bianca
 editor: markdown
-dateCreated: 2021-09-04T05:38:26.955Z
+dateCreated: 2021-09-07T05:11:59.540Z
 ---
 
 # Malvasia puntinata
