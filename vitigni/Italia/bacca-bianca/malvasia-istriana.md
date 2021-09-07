@@ -1,13 +1,13 @@
 ---
 title: Malvasia istriana
-description: "Malvasia istriana" è un sinonimo di "Malvazija Istarska".
+description: "Malvasia istriana è un sinonimo di "Malvazija Istarska
 published: true
-date: 2021-09-04T05:36:10.528Z
+date: 2021-09-07T05:13:24.787Z
 tags: vitigno, sinonimo, bacca bianca
 editor: markdown
-dateCreated: 2021-09-04T05:36:10.528Z
+dateCreated: 2021-09-07T05:13:24.787Z
 ---
 
 # Malvasia istriana
 
-"Malvasia istriana" è un sinonimo utilizzato in Italia per il vitigno [Malvazija Istarska](/vitigni/bacca-bianca/malvazija-istarska).
+"Malvasia istriana" è un sinonimo utilizzato in Italia per il vitigno [Malvazija Istarska](/vitigni/Croazia/bacca-bianca/malvazija-istarska).
