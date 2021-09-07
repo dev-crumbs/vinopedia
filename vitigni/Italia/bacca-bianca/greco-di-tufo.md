@@ -1,11 +1,11 @@
 ---
 title: Greco di Tufo
-description: "Greco di Tufo" è un sinonimo di "Greco".
+description: "Greco di Tufo" è un sinonimo di "Greco
 published: true
-date: 2021-08-19T12:14:29.498Z
+date: 2021-09-07T05:16:57.366Z
 tags: vitigno, sinonimo, bacca bianca
 editor: markdown
-dateCreated: 2021-08-19T12:10:40.000Z
+dateCreated: 2021-09-07T05:16:57.366Z
 ---
 
 # Greco di Tufo
