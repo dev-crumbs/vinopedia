@@ -29,6 +29,7 @@ dateCreated: 2021-08-24T11:16:41.742Z
 *Vedere le singole annate per abbinamenti specifici*
 
 - papassini di saba
+- erborinato di pecora
 
 ## Annate
 - Anghelu Ruju [2005](vini/Italia/Sardegna/Sella-e-Mosca/Anghelu-Ruju/2005) -- <span class="star-5"></span> -- 95/100
