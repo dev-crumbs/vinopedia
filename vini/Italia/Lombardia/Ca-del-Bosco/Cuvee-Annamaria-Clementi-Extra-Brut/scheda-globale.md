@@ -3,7 +3,7 @@ title: Cuvée Annamaria Clementi Extra-Brut - Franciacorta Riserva DOCG - Cà de
 description: 3★ | Chardonnay 55% + Pinot bianco 25% + Pinot nero 25% | Lombardia (IT)
 published: true
 date: 2021-08-24T10:24:14.107Z
-tags: vino, bianco, spumante, metodo classico, extra-brut, blend, chardonnay, pinot bianco, pinot nero, italia, lombardia, filetto di sarago croccante in salsa di arance, 75 - 99 €, 5 stelle
+tags: vino, bianco, spumante, metodo classico, extra-brut, millesimato, blend, chardonnay, pinot bianco, pinot nero, italia, lombardia, filetto di sarago croccante in salsa di arance, 75 - 99 €, 5 stelle
 editor: markdown
 dateCreated: 2021-08-12T08:47:39.689Z
 ---
@@ -22,7 +22,7 @@ dateCreated: 2021-08-12T08:47:39.689Z
 {.grid-list}
 
 ### Spumantizzazione
-- **Millesimo:** 2007
+- **Millesimo:** millesimato
 - **Tecnica:** Metodo Classico
 - **Contenuto zuccherino:** Extra-Brut
 - **Affinamento:** 6 mesi in botte di rovere + 101 mesi sui lieviti
