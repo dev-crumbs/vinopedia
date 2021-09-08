@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-08-23T12:22:31.894Z
 ---
 
- # Zingamaro
+ # Armacìa
 
 ## Caratteristiche
 - **Nome:** Armacìa

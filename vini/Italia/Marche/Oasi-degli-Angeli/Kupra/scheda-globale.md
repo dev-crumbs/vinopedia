@@ -35,11 +35,11 @@ dateCreated: 2021-08-24T11:31:20.502Z
 - pappardelle alla lepre
 
 ## Annate
-- Bordò Superiore [2013](/vini/Italia/Marche/Stefano-Mancinelli/Kupra/2013) -- <span class="star-4"></span> -- 90/100
-- Bordò Superiore [2014](/vini/Italia/Marche/Stefano-Mancinelli/Kupra/2014) -- <span class="star-5"></span> -- 95/100
-- Bordò Superiore [2015](/vini/Italia/Marche/Stefano-Mancinelli/Kupra/2015) -- <span class="star-5"></span> -- 94/100
-- Bordò Superiore [2016](/vini/Italia/Marche/Stefano-Mancinelli/Kupra/2016) -- <span class="star-4"></span> -- 90/100
-- Bordò Superiore [2017](/vini/Italia/Marche/Stefano-Mancinelli/Kupra/2017) -- <span class="star-5"></span> -- 94/100
+- Kupra [2013](/vini/Italia/Marche/Oasi-degli-Angeli/Kupra/2013) -- <span class="star-4"></span> -- 90/100
+- Kupra [2014](/vini/Italia/Marche/Oasi-degli-Angeli/Kupra/2014) -- <span class="star-5"></span> -- 95/100
+- Kupra [2015](/vini/Italia/Marche/Oasi-degli-Angeli/Kupra/2015) -- <span class="star-5"></span> -- 94/100
+- Kupra [2016](/vini/Italia/Marche/Oasi-degli-Angeli/Kupra/2016) -- <span class="star-4"></span> -- 90/100
+- Kupra [2017](/vini/Italia/Marche/Oasi-degli-Angeli/Kupra/2017) -- <span class="star-5"></span> -- 94/100
 
 
 

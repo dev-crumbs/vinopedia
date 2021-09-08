@@ -1,0 +1,43 @@
+---
+title: Pelago – Marche IGT – Umani Ronchi
+description: 3★ - 5★ | Cabernet Sauvignon 50% + Montepulciano 40% + Merlot 10% | Marche (IT)
+published: true
+date: 2021-08-24T12:31:23.089Z
+tags: vino, italia, rosso, marche, blend, cabernet sauvignon, montepulciano, merlot, brasato di beccaccia, peposo di manzo, 25 - 29 €, 5 stelle
+editor: markdown
+dateCreated: 2021-08-24T11:31:20.502Z
+---
+
+# Pelago
+
+## Caratteristiche
+- **Nome:** Pelago
+- **Tipologia:** Rosso fermo
+- **Denominazione:** [Marche IGT](/denominazioni/Italia/Marche/IGT/Marche)
+- **Produttore:** [Umani Ronchi](/produttori/Italia/Marche/Umani-Ronchi) 
+- **Composizione:** 50% [Cabernet Sauvignon](/vitigni/Francia/bacca-nera/cabernet-sauvignon) + 40% [Montepulciano](/vitigni/Italia/bacca-nera/montepulciano) + 10% [Merlot](/vitigni/Francia/bacca-nera/merlot)
+- **Affinamento:** 14 mesi in barrique di primo e secondo passaggio + 12 mesi in bottiglia
+- **Alcol:** 14%
+- **Fascia di prezzo:** 25 - 29 €
+{.grid-list}
+
+## Descrizione del produttore
+
+> n.d
+
+## Possibili abbinamenti
+*Vedere le singole annate per abbinamenti specifici*
+
+- brasato di beccaccia
+- peposo di manzo
+
+## Annate
+- Pelago [2012](/vini/Italia/Marche/Umani-Ronchi/Pelago/2012) -- <span class="star-5"></span> -- 92/100
+- Pelago [2013](/vini/Italia/Marche/Umani-Ronchi/Pelago/2013) -- <span class="star-3"></span> -- 88/100
+- Pelago [2014](/vini/Italia/Marche/Umani-Ronchi/Pelago/2014) -- <span class="star-5"></span> -- 91/100
+- Pelago [2015](/vini/Italia/Marche/Umani-Ronchi/Pelago/2015) -- <span class="star-3"></span> -- 87/100
+- Pelago [2016](/vini/Italia/Marche/Umani-Ronchi/Pelago/2016) -- <span class="star-4"></span> -- 86/100
+
+
+
+
