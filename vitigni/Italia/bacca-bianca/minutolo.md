@@ -2,10 +2,10 @@
 title: Minutolo
 description: Varietà opulenta originaria della puglia, un tempo conosciuta come Fiano Aromatico.
 published: true
-date: 2021-08-18T19:08:59.290Z
+date: 2021-09-08T09:41:24.438Z
 tags: vitigno, bacca bianca
 editor: markdown
-dateCreated: 2021-08-09T19:02:27.836Z
+dateCreated: 2021-09-06T09:40:02.538Z
 ---
 
 # Minutolo
@@ -20,7 +20,7 @@ Fiano Aromatico, Fiano della Valle d’Itria, Fiano di Puglia, Fiano di Salento,
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Fiano](/vitigni/bacca-bianca/fiano)
+[Fiano](/vitigni/Italia/bacca-bianca/fiano)
 
 
 ## Origini e parentele
