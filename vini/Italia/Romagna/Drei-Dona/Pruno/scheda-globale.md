@@ -13,7 +13,7 @@ dateCreated: 2021-08-24T11:31:20.502Z
 ## Caratteristiche
 - **Nome:** Pruno
 - **Tipologia:** Rosso fermo
-- **Denominazione:** [Romagna Sangiovese DOC](/denominazioni/Italia/Romagna/DOC/Romagna-Sangiovese) (Superiore - Riversa)
+- **Denominazione:** [Romagna Sangiovese DOC](/denominazioni/Italia/Romagna/DOC/Romagna-Sangiovese) (Superiore - Riserva)
 - **Produttore:** [Drei-Donà](/produttori/Italia/Romagna/Drei-Dona) 
 - **Composizione:** 100% [Sangiovese](/vitigni/Italia/bacca-nera/sangiovese)
 - **Affinamento:** 18 mesi in barrique + 10 in bottiglia

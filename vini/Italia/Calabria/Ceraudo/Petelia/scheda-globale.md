@@ -3,7 +3,7 @@ title: Petelia - Val di Neto IGT - Ceraudo
 description: 2★ - 5★ | Greco bianco 50% + Mantonico bianco 50% | Calabria (IT)
 published: true
 date: 2021-08-24T10:19:50.562Z
-tags: vino, rosso, fermo, blend, greco bianco, mantonico bianco, italia, calabria, coda di rospo al forno, involtini di cernia in pasta fillo, 10 - 14 €, 5 stelle 
+tags: vino, bianco, fermo, blend, greco bianco, mantonico bianco, italia, calabria, coda di rospo al forno, involtini di cernia in pasta fillo, 10 - 14 €, 5 stelle 
 editor: markdown
 dateCreated: 2021-08-23T12:22:31.894Z
 ---
@@ -12,7 +12,7 @@ dateCreated: 2021-08-23T12:22:31.894Z
 
 ## Caratteristiche
 - **Nome:** Petelia
-- **Tipologia:** Rosso fermo
+- **Tipologia:** Bianco fermo
 - **Denominazione:** [Val di Neto IGT](/denominazioni/Italia/Calabria/IGT/Val-di-Neto)
 - **Produttore:** [Ceraudo](/produttori/Italia/Calabria/Ceraudo)
 - **Composizione:** 50% [Greco bianco](/vitigni/Italia/bacca-bianca/greco-bianco) + 50% [Mantonico bianco](/vitigni/Italia/bacca-bianca/mantonico-bianco) 
