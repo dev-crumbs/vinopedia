@@ -1,6 +1,6 @@
 ---
-title: Neromoro – Montepulciano d'Abruzzo Colline Teramane Riserva DOCG – Nicodemi
-description: 5★ | Montepulciano 100% | Abruzzo (IT)
+title: Neromoro – Montepulciano d'Abruzzo Colline Teramane Riserva DOCG – Nicodemi – Abruzzo (IT)
+description: 5★ | Montepulciano 100% | Capretto alla brace – Piccione in casseruola – Spezzatino di cinghiale in umido – Pernici con polenta – Quaglie al prosciutto
 published: true
 date: 2021-08-24T12:31:23.089Z
 tags: vino, rosso, fermo, varietale, montepulciano, italia, abruzzo, capretto alla brace, piccione in casseruola, spezzatino di cinghiale in umido, pernici con polenta, quaglie al prosciutto, 30 - 34 €, 5 stelle
