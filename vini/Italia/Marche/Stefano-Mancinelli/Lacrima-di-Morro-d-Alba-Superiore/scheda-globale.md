@@ -1,6 +1,6 @@
 ---
 title: Lacrima di Morro d'Alba Superiore – Lacrima di Morro DOC – Stefano Mancinelli
-description: 3★ - 5★ | Lacrima di Morro d'Alba 100% | Marche (IT)
+description: 3★ - 5★ | Lacrima di Morro d'Alba 100% | Marche (IT) | Lombata di manzo in salsa di prugne rosse – Pollo alla cacciatora – Bocconcini di manzo ai porcini – Filetto di manzo in crosta
 published: true
 date: 2021-08-24T12:31:23.089Z
 tags: vino, italia, rosso, marche, varietale, lacrima, lombata di manzo in salsa di prugne rosse, pollo alla cacciatora, bocconcini di manzo ai porcini, filetto di manzo in crosta, 15 - 19 €, 5 stelle

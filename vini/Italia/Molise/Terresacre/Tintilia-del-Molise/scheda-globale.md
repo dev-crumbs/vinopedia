@@ -1,6 +1,6 @@
 ---
 title: Tintilia del Molise – Tintilia del Molise DOC – Terresacre
-description: 2★ - 5★ | Tintilia del Molise 100% | Molise (IT)
+description: 2★ - 5★ | Tintilia del Molise 100% | Molise (IT) | Carrè di maiale al forno – Hamburger di chianina con cipolle caramellate
 published: true
 date: 2021-08-24T12:31:23.089Z
 tags: vino, rosso, fermo, varietale, tintilia, italia, molise, carrè di maiale al forno, hamburger di chianina con cipolle caramellate, 20 - 24 €, 5 stelle

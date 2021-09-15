@@ -1,6 +1,6 @@
 ---
 title: Picolit – Colli Orientali del Friuli DOCG – Livio Felluga
-description: 5★ | Picolit 100% | Friuli Venezia Giulia (IT)
+description: 5★ | Picolit 100% | Friuli Venezia Giulia (IT) | Ganache di Foie Gras – Bavarese di ricotta e arance
 published: true
 date: 2021-08-24T12:31:23.089Z
 tags: vino,  bianco, passito, varietale, picolit, italia, friuli venezia giulia, Ganache di Foie Gras, bavarese di ricotta e arance, 50 - 54 €, 5 stelle

@@ -1,6 +1,6 @@
 ---
 title: Pelago – Marche IGT – Umani Ronchi
-description: 3★ - 5★ | Cabernet Sauvignon 50% + Montepulciano 40% + Merlot 10% | Marche (IT)
+description: 3★ - 5★ | Cabernet Sauvignon 50% + Montepulciano 40% + Merlot 10% | Marche (IT) | Brasato di beccaccia – Peposo di manzo
 published: true
 date: 2021-08-24T12:31:23.089Z
 tags: vino, italia, rosso, marche, blend, cabernet sauvignon, montepulciano, merlot, brasato di beccaccia, peposo di manzo, 25 - 29 €, 5 stelle

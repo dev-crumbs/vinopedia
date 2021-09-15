@@ -1,6 +1,6 @@
 ---
 title: Guido Cocci Griffoni – Offida DOCG – Tenuta Cocci Griffoni
-description: 5★ | Pecorino 100% | Marche (IT)
+description: 5★ | Pecorino 100% | Marche (IT) | Lasagne al ragù bianco di vitello – Dentice in crosta di sale
 published: true
 date: 2021-08-24T12:31:23.089Z
 tags: vino, italia, bianco, marche, varietale, pecorino, lasagne al ragù bianco di vitello, dentice in crosta di sale, 30 - 34 €, 5 stelle

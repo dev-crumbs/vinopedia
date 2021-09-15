@@ -1,6 +1,6 @@
 ---
 title: Verdicchio dei Castelli di Jesi Spumante Brut – Verdicchio dei Castelli di Jesi DOC – Garofoli
-description: 3★ - 5★ | Verdicchio 100% | Marche (IT)
+description: 3★ - 5★ | Verdicchio 100% | Marche (IT) | Carpaccio di sgombro con pesto di pistacchi – Spaghetti ai frutti di mare
 published: true
 date: 2021-08-24T12:31:23.089Z
 tags: vino, bianco, spumante, metodo classico, brut, varietale, verdicchio, italia, marche, carpaccio di sgombro con pesto di pistacchi, spaghetti ai frutti di mare, 15 - 19 €, 5 stelle

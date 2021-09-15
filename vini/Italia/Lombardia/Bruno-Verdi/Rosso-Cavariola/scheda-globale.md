@@ -1,6 +1,6 @@
 ---
 title: Rosso Cavariola – Oltrepò Pavese Riserva DOC – Bruno Verdi
-description: 5★ | Croatina 55% + Barbera 25% + Ughetta 10% + Uva rara 10% | Lombardia (IT)
+description: 5★ | Croatina 55% + Barbera 25% + Ughetta 10% + Uva rara 10% | Lombardia (IT) | Spezzatino di manzo ai porcini – Piccione arrosto con salsa ai mirtilli – Spalla d'agnello stufata con taccole – Stinco di manzo stracotto allo scalogno e rosmarino
 published: true
 date: 2021-09-04T16:07:47.756Z
 tags: vino, italia, rosso, blend, lombardia, fermo, 5 stelle, 25 - 29 €, barbera, croatina, ughetta, uva rara, spezzatino di manzo ai porcini, piccione arrosto con salsa ai mirtilli, spalla d'agnello stufata con taccole, stinco di manzo stracotto allo scalogno e rosmarino
