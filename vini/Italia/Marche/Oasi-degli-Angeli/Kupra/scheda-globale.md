@@ -1,9 +1,9 @@
 ---
 title: Kupra – Marche IGT – Oasi degli Angeli
-description: 3★ - 5★ | Bordò 100% | Marche (IT) | Boeuf bourguignon – Capretto al forno con erbette – Pernice alla cacciatora – Tournedos alla rossini – Pappardelle alla lepre
+description: 3★ - 5★ | Bordò 100% | Marche (IT) | Boeuf bourguignon – Capretto al forno con erbette – Pernice alla cacciatora – Filetto alla rossini – Pappardelle alla lepre
 published: true
 date: 2021-08-24T12:31:23.089Z
-tags: vino, italia, rosso, marche, varietale, bordò, boeuf bourguignon, capretto al forno con erbette, pernice alla cacciatora, tournedos alla rossini, pappardelle alla lepre, 200 - 250 €, 5 stelle
+tags: vino, italia, rosso, marche, varietale, bordò, boeuf bourguignon, capretto al forno con erbette, pernice alla cacciatora, filetto alla rossini, pappardelle alla lepre, 200 - 250 €, 5 stelle
 editor: markdown
 dateCreated: 2021-08-24T11:31:20.502Z
 ---
