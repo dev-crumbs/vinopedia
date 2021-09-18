@@ -1,6 +1,6 @@
 ---
 title: Antonio Argiolas 100 – Isola dei Nuraghi IGT – Argiolas
-description: 4★ - 5★ | Cannonau 100% | Sardegna (IT)
+description: 4★ - 5★ | Cannonau 100% | Sardegna (IT) | Charlotte al cioccolato – Bavarese al cioccolato – Crostata di lamponi
 published: true
 date: 2021-08-24T11:16:44.400Z
 tags: vino, rosso, passito, varietale, cannonau, malvasia nera, italia, sardegna, charlotte al cioccolato, bavarese al cioccolato, crostata di lamponi, 25 - 29 €, 5 stelle

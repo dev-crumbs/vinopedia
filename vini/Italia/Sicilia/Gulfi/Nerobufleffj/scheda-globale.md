@@ -1,6 +1,6 @@
 ---
 title: Nerobufaleffj – Terre Siciliane IGT – Gulfi 
-description: 3★ - 5★ | Nero d'Avola 100% | Sicilia (IT)
+description: 3★ - 5★ | Nero d'Avola 100% | Sicilia (IT) | Turnedos alla rossini | Carrè di agnello al forno | Ravioli ricotta e maggiorana con sugo di maiale
 published: true
 date: 2021-08-24T11:57:38.152Z
 tags: vino, rosso, fermo, varietale, nero d'avola, italia, sicilia, turnedos alla rossini, carrè di agnello al forno, ravioli ricotta e maggiorana con sugo di maiale, 30 - 34 €, 5 stelle

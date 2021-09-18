@@ -1,6 +1,6 @@
 ---
 title: Domus Aurea – Albana DOCG – Ferrucci
-description: 3★ - 5★ | Albana 100% | Romagna (IT)
+description: 3★ - 5★ | Albana 100% | Romagna (IT) | Millefoglie crema e nocciole – Cheesecake alle pesche – Cassata siciliana – Crumble di mele e miele
 published: true
 date: 2021-08-24T12:31:23.089Z
 tags: vino, bianco, passito, varietale, albana, italia, romagna, millefoglie crema e nocciole, cheesecake alle pesche, cassata siciliana, crumble di mele e miele, 30 - 34 €, 5 stelle

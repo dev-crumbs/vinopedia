@@ -1,6 +1,6 @@
 ---
 title: Lu Patri – Sicilia DOC – Baglio del Cristo 
-description: 4★ - 5★ | Nero d'Avola 100% | Sicilia (IT)
+description: 4★ - 5★ | Nero d'Avola 100% | Sicilia (IT) | Falsomagro al sugo – Petto d'anatra flambè – Lepre con castagne e mirtilli – Stracotto di manzo al ginepro – Polpettone alla siciliana
 published: true
 date: 2021-08-24T11:57:38.152Z
 tags: vino, rosso, fermo, varietale, nero d'avola, italia, sicilia, falsomagro al sugo, petto d'anatra flambè, lepre con castagne e mirtilli, stracotto di manzo al ginepro, polpettone alla siciliana, 20 - 24 €, 5 stelle

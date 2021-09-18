@@ -1,6 +1,6 @@
 ---
 title: Terre Brune – Carignano del Sulcis Superiore DOC – Cantina Santadi
-description: 4★ - 5★ | Carignano 95% - Bovale 5% | Sardegna (IT)
+description: 4★ - 5★ | Carignano 95% - Bovale 5% | Sardegna (IT) | Cinghiale in dolceforte  agnello allo zafferano – Confit di anatra – Manzo alla borgognona – Filetto di cervo ai frutti di bosco
 published: true
 date: 2021-08-24T11:16:44.400Z
 tags: vino, rosso, fermo, blend, carignano, bovale, italia, sardegna, cinghiale in dolceforte, agnello allo zafferano, confit di anatra, manzo alla borgognona, filetto di cervo ai frutti di bosco, 55 - 59 €, 5 stelle
