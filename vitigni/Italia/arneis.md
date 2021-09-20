@@ -2,7 +2,7 @@
 title: Arneis
 description: Il profumato e corposo bianco secco d'autore del Piemonte
 published: true
-date: 2021-09-20T01:36:09.409Z
+date: 2021-09-20T01:36:40.779Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-20T01:36:09.409Z
@@ -53,4 +53,3 @@ Arneis è praticamente scomparso nei primi anni '70, quando solo Vietti e Bruno 
 
 
 
-Tradotto con www.DeepL.com/Translator (versione gratuita)
