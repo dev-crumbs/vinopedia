@@ -2,19 +2,19 @@
 title: Vermentino
 description: Varietà aromatica, fresca e di alta qualità che prospera sulle coste liguri, nella Francia meridionale e nelle isole di Corsica e Sardegna.
 published: true
-date: 2021-08-18T19:08:59.290Z
+date: 2021-09-24T12:41:49.997Z
 tags: vitigno, bacca bianca
 editor: markdown
-dateCreated: 2021-08-09T19:02:27.836Z
+dateCreated: 2021-09-06T09:41:04.565Z
 ---
 
-# Minutolo
+# Vermentino
 
 ## Bacca
 Bianca
 
 ## Sinonimi
-Favorita (Roero in Piemonte), Furmentin (Valle del Belbo in Piemonte), Garbesso (Francia), Malvasia o Malvoisie de Corse (Corsica settentrionale), Malvoisie à Gros Grains (Corsica), Malvoisie du Douro (Pyrénées-Orientales in Francia), Pigato (Liguria), Rolle o Rollé (Alpi Marittime e Var nella Francia meridionale), Sapaiola (Italia), Verlantin o Varlantin (Corsica e Francia meridionale), Verlentin o Varlentin (Var), Vermentino di Gallura (Sardegna), Vermentinu (Corsica meridionale)
+[Favorita](/vitigni/Italia/bacca-bianca/favorita) (Roero in Piemonte), Furmentin (Valle del Belbo in Piemonte), Garbesso (Francia), Malvasia o Malvoisie de Corse (Corsica settentrionale), Malvoisie à Gros Grains (Corsica), Malvoisie du Douro (Pyrénées-Orientales in Francia), Pigato (Liguria), Rolle o Rollé (Alpi Marittime e Var nella Francia meridionale), Sapaiola (Italia), Verlantin o Varlantin (Corsica e Francia meridionale), Verlentin o Varlentin (Var), Vermentino di Gallura (Sardegna), Vermentinu (Corsica meridionale)
 
 ## Omonimi
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
