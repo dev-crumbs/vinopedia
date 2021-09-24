@@ -13,7 +13,7 @@ dateCreated: 2021-08-24T11:31:20.502Z
 ## Caratteristiche
 - **Nome:** Ronco delle Ginestre
 - **Tipologia:** Rosso fermo
-- **Denominazione:** [Forlì IGT](/denominazioni/Italia/Romagna/IGT/Forlì)
+- **Denominazione:** [Forlì IGT](/denominazioni/Italia/Romagna/IGT/Forli)
 - **Produttore:** [Castelluccio](/produttori/Italia/Romagna/Castelluccio) 
 - **Composizione:** 100% [Sangiovese](/vitigni/Italia/bacca-nera/sangiovese)
 - **Affinamento:** 14 mesi in barrique + 12 in bottiglia
