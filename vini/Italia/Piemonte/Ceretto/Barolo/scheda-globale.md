@@ -1,9 +1,9 @@
 ---
 title: Barolo – Barolo DOCG – Ceretto
-description: 3★ - 4★ | Nebbiolo 100% | Piemonte (IT) | Agnolotti del plin al sugo d'arrosto
+description: 3★ - 4★ | Nebbiolo 100% | Piemonte (IT) | Agnolotti del plin al sugo d'arrosto – Agnello alla bordolese
 published: true
 date: 2021-08-24T10:19:50.562Z
-tags: vino, italia, rosso, varietale, nebbiolo, piemonte, agnolotti del plin al sugo d'arrosto, 50 - 54 €, 4 stelle
+tags: vino, italia, rosso, varietale, nebbiolo, piemonte, agnolotti del plin al sugo d'arrosto, agnello alla bordolese, 50 - 54 €, 4 stelle
 editor: markdown
 dateCreated: 2021-08-23T12:22:31.894Z
 ---
@@ -29,6 +29,7 @@ dateCreated: 2021-08-23T12:22:31.894Z
 *Vedere le singole annate per abbinamenti specifici*
 
 - Agnolotti del plin al sugo d'arrosto
+- Agnello alla bordolese
 
 ## Annate
 - Barolo [2012](vini/Italia/Piemonte/Ceretto/Barolo/2012) -- <span class="star-4"></span> -- 90/100

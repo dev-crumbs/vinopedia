@@ -3,7 +3,7 @@ title: Spergola
 description: Aspra varietà emiliana che fino a poco tempo fa si pensava fosse Sauvignon Blanc.
 published: true
 date: 2021-08-10T11:36:07.518Z
-tags: vitigno, bacca bianca, emilia
+tags: vitigno, bacca bianca
 editor: markdown
 dateCreated: 2021-08-10T09:29:32.725Z
 ---
