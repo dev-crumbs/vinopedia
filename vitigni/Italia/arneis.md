@@ -2,7 +2,7 @@
 title: Arneis
 description: Il profumato e corposo bianco secco d'autore del Piemonte
 published: true
-date: 2021-09-20T01:36:40.779Z
+date: 2021-09-24T12:40:17.644Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-20T01:36:09.409Z
