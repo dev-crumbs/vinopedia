@@ -17,7 +17,7 @@ Nera
 Garnatxa Pelud, Garnatxa Peluda, Grenache d'Afrique, Grenache Noir Tomenteux, Grenache Poilu, Grenache Velu, Lladoner Pelud, Lledoner Pelut
 
 ## Origini e parentele
-Vedi [Garnacha](/vitigni/bacca-nera/garnacha)
+Vedi [Garnacha](/vitigni/Spagna/bacca-nera/garnacha)
 
 ## Caratteristiche viticole
 - Simile al Grenache Noir ma con una peluria sul lato inferiore delle foglie 
@@ -26,7 +26,7 @@ Vedi [Garnacha](/vitigni/bacca-nera/garnacha)
 - Meno incline all'acinellatura rispetto alla Garnacha Tinta.
 
 ## Caratteristiche enologiche
-Le uve raggiungono la maturità fenolica ad un livello di zuccheri più basso rispetto alla [Garnacha Tinta](/vitigni/bacca-nera/garnacha-tinta), quindi i vini sono generalmente meno alcolici (non più di 13,5%), e questa versione a foglia pelosa non è stata ampiamente ripiantata dopo la fillossera quando i vins doux naturels erano di gran moda. Il "pelo" (pelut, che gli dà il nome francese) si è evoluto per proteggere la vite dalla traspirazione nel calore, conservare l'umidità e ridurre lo stress, proprio come la corrispondente lanugine sul rosmarino o altre piante mediterranee. Un altro adattamento è che non si rompe mai con i venti forti, quindi sopravvive anche nei siti più esposti. Il suo vino tende ad avere un livello di acidità più elevato e, invecchiando, i caratteri speziati e saporiti si sviluppano più rapidamente che nel Grenache Noir.
+Le uve raggiungono la maturità fenolica ad un livello di zuccheri più basso rispetto alla [Garnacha Tinta](/vitigni/Spagna/bacca-nera/garnacha-tinta), quindi i vini sono generalmente meno alcolici (non più di 13,5%), e questa versione a foglia pelosa non è stata ampiamente ripiantata dopo la fillossera quando i vins doux naturels erano di gran moda. Il "pelo" (pelut, che gli dà il nome francese) si è evoluto per proteggere la vite dalla traspirazione nel calore, conservare l'umidità e ridurre lo stress, proprio come la corrispondente lanugine sul rosmarino o altre piante mediterranee. Un altro adattamento è che non si rompe mai con i venti forti, quindi sopravvive anche nei siti più esposti. Il suo vino tende ad avere un livello di acidità più elevato e, invecchiando, i caratteri speziati e saporiti si sviluppano più rapidamente che nel Grenache Noir.
 
 ## Diffusione geografica
 

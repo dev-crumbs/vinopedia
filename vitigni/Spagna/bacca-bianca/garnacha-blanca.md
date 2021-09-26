@@ -17,11 +17,11 @@ Bianca
 Alicant Belyi, Alicante Blanca, Belan (Croazia e Repubblica di Macedonia), Belon, Bernacha Blanca, Fehér Grenache (Ungheria), Garnacha, Garnacho Blanco, Garnatxa, Garnatxa Blanca, Gkrenas Mplan, Grenache Blanc, Grenash Beli, Grenash Belyi, Grenash Bjal, Lladanor Blanca, Rool Grenache, Silla Blanc, Sillina Lanc
 
 ## Origini e parentele
-Vedi [Garnacha](/vitigni/bacca-nera/garnacha)
+Vedi [Garnacha](/vitigni/Spagna/bacca-nera/garnacha)
 
 ## Caratteristiche viticole
 
-- Simile alla [Garnacha Tinta](/vitigni/bacca-nera/garnacha-tinta) ma con germogliamento e maturazione medi e meno sensibile alla coltura.
+- Simile alla [Garnacha Tinta](/vitigni/Spagna/bacca-nera/garnacha-tinta) ma con germogliamento e maturazione medi e meno sensibile alla coltura.
 
 ## Caratteristiche enologiche
 

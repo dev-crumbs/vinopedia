@@ -18,11 +18,11 @@ Garnacha Gris, Garnacha Rioja, Garnacho Rojo, Garnatxa Gris (Catalunya), Grenach
 
 
 ## Origini e parentele
-Vedi [Garnacha](/vitigni/bacca-nera/garnacha)
+Vedi [Garnacha](/vitigni/Spagna/bacca-nera/garnacha)
 
 ## Caratteristiche viticole
 
-- Simile alla [Garnacha Tinta](/vitigni/bacca-nera/garnacha-tinta) e un po' più produttiva della [Garnacha Blanca](/vitigni/bacca-blanca/garnacha-blanca).
+- Simile alla [Garnacha Tinta](/vitigni/Spagna/bacca-nera/garnacha-tinta) e un po' più produttiva della [Garnacha Blanca](/vitigni/bacca-blanca/garnacha-blanca).
 
 ## Caratteristiche enologiche e diffusione geografica
 

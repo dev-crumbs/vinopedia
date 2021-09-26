@@ -13,7 +13,7 @@ dateCreated: 2021-08-24T11:31:20.502Z
 ## Caratteristiche
 - **Nome:** Casadonna
 - **Tipologia:** Bianco fermo
-- **Denominazione:** [Terre aquilane IGT](/denominazioni/Italia/Abruzzo/DOC/Terre-aquilane) 
+- **Denominazione:** [Terre aquilane IGT](/denominazioni/Italia/Abruzzo/IGT/Terre-aquilane) 
 - **Produttore:** [Feudo Antico](/produttori/Italia/Abruzzo/Feudo-Antico) 
 - **Composizione:** 100% [Pecorino](/vitigni/Italia/bacca-nera/Pecorino)
 - **Affinamento:** 6 mesi in acciaio + 4 in bottiglia

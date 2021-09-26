@@ -9,4 +9,4 @@ dateCreated: 2021-09-04T12:27:33.230Z
 ---
 
 # Bordò
-"Bordò" è un sinonimo utilizzato nelle Marche (Italia) per il vitigno [Garnacha](/vitigni/bacca-nera/garnacha).
+"Bordò" è un sinonimo utilizzato nelle Marche (Italia) per il vitigno [Garnacha](/vitigni/Spagna/bacca-nera/garnacha).

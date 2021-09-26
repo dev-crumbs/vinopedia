@@ -24,7 +24,7 @@ Abundante (Portogallo), Alicante o Licante (Spagna), Aragones (regione di Madrid
 
 ## Origini e parentele
 
-Vedi [Garnacha](/vitigni/bacca-nera/garnacha)
+Vedi [Garnacha](/vitigni/Spagna/bacca-nera/garnacha)
 
 ## Caratteristiche Viticole
 
@@ -45,7 +45,7 @@ La Garnacha Tinta è uno dei vitigni più piantati al mondo, anche perché può 
 
 Come Grenache Noir, questa è la seconda varietà più piantata in Francia dopo il [Merlot](/vitigni/Francia/bacca-nera/merlot), con un totale di 94.240 ha (232.872 acri) nel 2009, limitata dal suo temperamento amante del caldo e del sole al sud del paese, specialmente il dipartimento di Vaucluse (27.466 ha/67.870 acri), dove si coltiva la maggior parte dei vini del Rodano meridionale. C'erano anche 3.675 ha nelle Bouches-du-Rhône al suo immediato sud, 8.928 ha nella Drôme, 2.325 ha nell'Ardèche e 8.359 ha nel Var, centro dei vini della Provenza.
 
-In Languedoc-Roussillon propriamente detto, le piantagioni totali di Grenache sono ora superiori a quelle di Carignan ([Mazuelo](/vitigni/bacca-nera/mazuelo)) ma piuttosto inferiori a quelle di Syrah alla moda. Nel 2009 c'erano 10.372 ha (25.639 acri) nell'Hérault, 8.494 ha (20.989 acri) nell'Aude e 6.769 ha (16.727 acri) nei Pyrénées-Orientales, dove la Grenache di tutti e tre i colori è stata a lungo coltivata per produrre forti vini dolci naturali da denominazioni come Maury, Banyuls e Rivesaltes, spesso fatti in uno stile rancio (cioè ossidativo) invecchiando in demi-john di vetro o in vecchie botti al sole. In tutta la parte più calda e mediterranea del Languedoc-Roussillon, la Grenache Noir è anche sempre più usata per i vini da tavola come ingrediente con Syrah, Carignan, Cinsault ([Cinsaut](/vitigni/bacca-nera/cinsaut)) e Mourvèdre ([Monastrell](/vitigni/bacca-nera/monastrell)) in zone come Faugères, Saint-Chinian, Minervois, Corbières, Fitou e Côtes Catalanes. Il Grenache Noir varietale è una relativa rarità qui, ma se le rese sono troppo alte e il terreno non è promettente, il Grenache può avere un sapore un po' troppo confettoso.
+In Languedoc-Roussillon propriamente detto, le piantagioni totali di Grenache sono ora superiori a quelle di Carignan ([Mazuelo](/vitigni/Spagna/bacca-nera/mazuelo)) ma piuttosto inferiori a quelle di Syrah alla moda. Nel 2009 c'erano 10.372 ha (25.639 acri) nell'Hérault, 8.494 ha (20.989 acri) nell'Aude e 6.769 ha (16.727 acri) nei Pyrénées-Orientales, dove la Grenache di tutti e tre i colori è stata a lungo coltivata per produrre forti vini dolci naturali da denominazioni come Maury, Banyuls e Rivesaltes, spesso fatti in uno stile rancio (cioè ossidativo) invecchiando in demi-john di vetro o in vecchie botti al sole. In tutta la parte più calda e mediterranea del Languedoc-Roussillon, la Grenache Noir è anche sempre più usata per i vini da tavola come ingrediente con Syrah, Carignan, Cinsault ([Cinsaut](/vitigni/bacca-nera/cinsaut)) e Mourvèdre ([Monastrell](/vitigni/bacca-nera/monastrell)) in zone come Faugères, Saint-Chinian, Minervois, Corbières, Fitou e Côtes Catalanes. Il Grenache Noir varietale è una relativa rarità qui, ma se le rese sono troppo alte e il terreno non è promettente, il Grenache può avere un sapore un po' troppo confettoso.
 
 #### Caratteristiche enologiche (Francia)
 

@@ -21,7 +21,7 @@ Nera
 {.is-info}
 Varietà minore molisana fino a poco tempo fa confusa con Bovale Grande (cioè Mazuelo/Carignan).
 
-[Mazuelo](/vitigni/bacca-nera/mazuelo) (sotto il nome di Bovale Grande in Sardegna), Tintilia de Rota (Spagna)
+[Mazuelo](/vitigni/Spagna/bacca-nera/mazuelo) (sotto il nome di Bovale Grande in Sardegna), Tintilia de Rota (Spagna)
 
 Colore delle bacche: nero
 
@@ -29,7 +29,7 @@ Colore delle bacche: nero
 
 Tintilia è una varietà particolare della regione Molise nell'Italia centro-meridionale, dove si dice sia stata introdotta dalla Spagna durante il dominio borbonico a metà del XVIII secolo. La varietà ha presumibilmente preso il nome dalla parola spagnola tinto, che significa 'nero', sebbene sia plausibile anche un'etimologia basata sull'italiano tintore, che significa 'tintore', a causa della sua capacità di macchiare i vestiti.
 
-Tintilia è stata a lungo confusa con Bovale Grande (aka [Mazuelo](/vitigni/bacca-nera/mazuelo) o Carignan) in Sardegna e non è elencata separatamente nel censimento agricolo italiano del 2000. Tuttavia, recenti indagini sul DNA hanno confermato che non sono la stessa cosa e che la Tintilia del Molise è anche distinta dalle oscure varietà conosciute come Tintilia in Campania e Sardegna e anche Tintilia de Rota dalla Spagna (Reale et al. 2006). Per evitare ulteriore confusione, qui viene usato il nome completo Tintilia del Molise, riferito al suo probabile luogo di origine. Tuttavia, non si può escludere una possibile origine iberica, perché Reale et al. (2006) hanno trovato Tintilia del Molise relativamente vicina alla spagnola [Parraleta](/vitigni/bacca-nera/parraleta).
+Tintilia è stata a lungo confusa con Bovale Grande (aka [Mazuelo](/vitigni/Spagna/bacca-nera/mazuelo) o Carignan) in Sardegna e non è elencata separatamente nel censimento agricolo italiano del 2000. Tuttavia, recenti indagini sul DNA hanno confermato che non sono la stessa cosa e che la Tintilia del Molise è anche distinta dalle oscure varietà conosciute come Tintilia in Campania e Sardegna e anche Tintilia de Rota dalla Spagna (Reale et al. 2006). Per evitare ulteriore confusione, qui viene usato il nome completo Tintilia del Molise, riferito al suo probabile luogo di origine. Tuttavia, non si può escludere una possibile origine iberica, perché Reale et al. (2006) hanno trovato Tintilia del Molise relativamente vicina alla spagnola [Parraleta](/vitigni/bacca-nera/parraleta).
 
 ## Caratteristiche viticole
 

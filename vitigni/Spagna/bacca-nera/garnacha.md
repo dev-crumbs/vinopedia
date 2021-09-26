@@ -54,7 +54,7 @@ Il nome Cannonau è talvolta pensato per derivare da una varietà chiamata Canon
 
 ## Mutazioni principali
 
-- [Garnacha Tinta](/vitigni/bacca-nera/garnacha-tinta)
+- [Garnacha Tinta](/vitigni/Spagna/bacca-nera/garnacha-tinta)
 - [Garnacha Blanca](/vitigni/bacca-blanca/garnacha-blanca)
 - [Garnacha Roja](/vitigni/bacca-bianca/garnacha-roja)
-- [Garnacha Peluda](/vitigni/bacca-nera/garnacha-peluda)
+- [Garnacha Peluda](/vitigni/Spagna/bacca-nera/garnacha-peluda)

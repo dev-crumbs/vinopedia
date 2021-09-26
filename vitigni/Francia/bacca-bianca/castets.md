@@ -41,7 +41,7 @@ Castets è stata incrociata con [Abouriou](/vitigni/Francia/bacca-nera/abouriou)
 - Bacche piccole
 
 ## Diffusione geografica
-La varietà è autorizzata nei dipartimenti Aude e Cantal della Francia, specificatamente per l'inclusione come ingrediente opzionale minore nei vini rossi e rosati di Vins d'Estaing a nord di Rodez, mescolati con varietà come [Fer](/vitigni/bacca-nera/fer), [Gamay Noir](/vitigni/bacca-nera/gamay-noir), ecc. È autorizzata inoltre nella denominazione "Palette" intorno ad Aix-en-Provence (con [Cinsaut](/vitigni/bacca-nera/cinsaut), [Grenache/Garnacha](/vitigni/bacca-nera/garnacha), [Mourvèdre/MONASTRELL](/vitigni/bacca-nera/monastrell), ecc.) ma nel 2008 in Francia era rimasto meno di un ettaro. Sembra che non esistano vini varietali ma Château Simone include Castets nella sua Palette rossa.
+La varietà è autorizzata nei dipartimenti Aude e Cantal della Francia, specificatamente per l'inclusione come ingrediente opzionale minore nei vini rossi e rosati di Vins d'Estaing a nord di Rodez, mescolati con varietà come [Fer](/vitigni/bacca-nera/fer), [Gamay Noir](/vitigni/bacca-nera/gamay-noir), ecc. È autorizzata inoltre nella denominazione "Palette" intorno ad Aix-en-Provence (con [Cinsaut](/vitigni/bacca-nera/cinsaut), [Grenache/Garnacha](/vitigni/Spagna/bacca-nera/garnacha), [Mourvèdre/MONASTRELL](/vitigni/bacca-nera/monastrell), ecc.) ma nel 2008 in Francia era rimasto meno di un ettaro. Sembra che non esistano vini varietali ma Château Simone include Castets nella sua Palette rossa.
 
 Castets è stato recentemente identificato in un vecchio vigneto nella Russian River Valley, California.
 
