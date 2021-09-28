@@ -1,11 +1,11 @@
 ---
-title: Durella
+title: Erbaluce
 description: Varietà bianca minore piemontese, produce vini dolci caratteristici.
 published: true
-date: 2021-08-21T14:53:07.569Z
+date: 2021-09-28T14:25:14.033Z
 tags: vitigno, bacca bianca
 editor: markdown
-dateCreated:
+dateCreated: 2021-09-28T12:49:34.570Z
 ---
 
 # Erbaluce
