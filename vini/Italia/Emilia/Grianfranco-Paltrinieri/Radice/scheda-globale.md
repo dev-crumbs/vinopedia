@@ -1,9 +1,9 @@
 ---
-title: Lambrusco di Sorbara Radice – Lambrusco di Sorbara DOC – Gianfranco Paltrinieri – Emilia (IT) – 10◆14€
+title: Lambrusco di Sorbara Radice – Lambrusco di Sorbara DOC – Gianfranco Paltrinieri – Emilia (IT) – 10 🠒 14€
 description: 3★ - 5★ | Lambrusco di Sorbara 100% | Lambrusco di sorbara – Maltagliati di farina di castagne – Gamberi lardellati – Catalana di crostacei
 published: true
 date: 2021-08-24T12:31:23.089Z
-tags: vino, rosato, spumante, metodo ancestrale, varietale, lambrusco di sorbara, italia, emilia, maltagliati di farina di castagne, gamberi lardellati, catalana di crostacei, 10◆14€, 5 stelle
+tags: vino, rosato, spumante, metodo ancestrale, varietale, lambrusco di sorbara, italia, emilia, maltagliati di farina di castagne, gamberi lardellati, catalana di crostacei, 10 🠒 14€, 5 stelle
 editor: markdown
 dateCreated: 2021-08-24T11:31:20.502Z
 ---
@@ -17,7 +17,7 @@ dateCreated: 2021-08-24T11:31:20.502Z
 - **Produttore:** [Gianfranco Paltrinieri](/produttori/Italia/Emilia/Gianfranco-Paltrinieri) 
 - **Composizione:** 100% [Lambrusco di Sorbara](/vitigni/Italia/bacca-nera/lambrusco-di-sorbara)
 - **Alcol:** 11%
-- **Fascia di prezzo:** 10◆14€
+- **Fascia di prezzo:** 10 🠒 14€
 
 ### Spumantizzazione
 - **Millesimo:** Sans Année

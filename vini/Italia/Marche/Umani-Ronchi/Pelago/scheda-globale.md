@@ -1,9 +1,9 @@
 ---
-title: Pelago – Marche IGT – Umani Ronchi – Marche (IT) – 25◆29€
+title: Pelago – Marche IGT – Umani Ronchi – Marche (IT) – 25 🠒 29€
 description: 3★ - 5★ | Cabernet Sauvignon 50% + Montepulciano 40% + Merlot 10% | Brasato di beccaccia – Peposo di manzo
 published: true
 date: 2021-08-24T12:31:23.089Z
-tags: vino, italia, rosso, marche, blend, cabernet sauvignon, montepulciano, merlot, brasato di beccaccia, peposo di manzo, 25◆29€, 5 stelle
+tags: vino, italia, rosso, marche, blend, cabernet sauvignon, montepulciano, merlot, brasato di beccaccia, peposo di manzo, 25 🠒 29€, 5 stelle
 editor: markdown
 dateCreated: 2021-08-24T11:31:20.502Z
 ---
@@ -18,7 +18,7 @@ dateCreated: 2021-08-24T11:31:20.502Z
 - **Composizione:** 50% [Cabernet Sauvignon](/vitigni/Francia/bacca-nera/cabernet-sauvignon) + 40% [Montepulciano](/vitigni/Italia/bacca-nera/montepulciano) + 10% [Merlot](/vitigni/Francia/bacca-nera/merlot)
 - **Affinamento:** 14 mesi in barrique di primo e secondo passaggio + 12 mesi in bottiglia
 - **Alcol:** 14%
-- **Fascia di prezzo:** 25◆29€
+- **Fascia di prezzo:** 25 🠒 29€
 {.grid-list}
 
 ## Descrizione del produttore

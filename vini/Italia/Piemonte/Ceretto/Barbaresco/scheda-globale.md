@@ -1,9 +1,9 @@
 ---
-title: Barbaresco  – Barbaresco DOCG – Ceretto – Piemonte (IT) – 40◆44€
+title: Barbaresco  – Barbaresco DOCG – Ceretto – Piemonte (IT) – 40 🠒 44€
 description: 3★ | Nebbiolo 100% | Cosciotto di agnello in casseruola – Anatra alle nocciole – Scaloppine di vitello ai carciofi
 published: true
 date: 2021-08-24T10:19:50.562Z
-tags: vino, italia, rosso, varietale, nebbiolo, piemonte, cosciotto di agnello in casseruola, anatra alle nocciole, scaloppine di vitello ai carciofi, 40◆44€, 3 stelle
+tags: vino, italia, rosso, varietale, nebbiolo, piemonte, cosciotto di agnello in casseruola, anatra alle nocciole, scaloppine di vitello ai carciofi, 40 🠒 44€, 3 stelle
 editor: markdown
 dateCreated: 2021-08-23T12:22:31.894Z
 ---
@@ -18,7 +18,7 @@ dateCreated: 2021-08-23T12:22:31.894Z
 - **Composizione:** 100% [Nebbiolo](/vitigni/Italia/bacca-nera/nebbiolo)
 - **Affinamento:** 24 mesi in botte grande
 - **Alcol:** 14%
-- **Fascia di prezzo:** 40◆44€
+- **Fascia di prezzo:** 40 🠒 44€
 {.grid-list}
 
 ## Descrizione del produttore

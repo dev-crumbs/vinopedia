@@ -1,9 +1,9 @@
 ---
-title: Armacìa – Costa Viola IGT – Criserà – Calabria (IT) – 10◆14€
+title: Armacìa – Costa Viola IGT – Criserà – Calabria (IT) – 10 🠒 14€
 description: 5★ | Gaglioppo 25% + Malvasia nera 25% + Nerello 25% + Prunesta 25% | Bigoli al sugo d'anatra – Arrosto di manzo ripieno – Morzello catanzarese – stinco di maiale al forno – Cosciotto di agnello al pecorino
 published: true
 date: 2021-08-24T10:19:50.562Z
-tags: vino, rosso, fermo, blend, gaglioppo, malvasia nera, nerello, prunesta, italia, calabria, bigoli al sugo d'anatra, arrosto di manzo ripieno, morzello catanzarese, stinco di maiale al forno, cosciotto di agnello al pecorino, 10◆14€, 5 stelle 
+tags: vino, rosso, fermo, blend, gaglioppo, malvasia nera, nerello, prunesta, italia, calabria, bigoli al sugo d'anatra, arrosto di manzo ripieno, morzello catanzarese, stinco di maiale al forno, cosciotto di agnello al pecorino, 10 🠒 14€, 5 stelle 
 editor: markdown
 dateCreated: 2021-08-23T12:22:31.894Z
 ---
@@ -18,7 +18,7 @@ dateCreated: 2021-08-23T12:22:31.894Z
 - **Composizione:** 25% [Gaglioppo](/vitigni/Italia/bacca-nera/gaglioppo) + 25% [Malvasia nera](/vitigni/Italia/bacca-nera/malvasia-nera) + 25% [Nerello](/vitigni/Italia/bacca-nera/nerello) + 25% [Prunesta](/vitigni/Italia/bacca-nera/prunesta)
 - **Affinamento:** 6 mesi in acciaio
 - **Alcol:** 13%
-- **Fascia di prezzo:** 10◆14€
+- **Fascia di prezzo:** 10 🠒 14€
 {.grid-list}
 
 ## Descrizione del produttore

@@ -1,9 +1,9 @@
 ---
-title: Granato – Vigneti delle Dolomiti IGT – Foradori – Trentino (IT) – 45◆49€
+title: Granato – Vigneti delle Dolomiti IGT – Foradori – Trentino (IT) – 45 🠒 49€
 description: 5★ | Teroldego 100% | Bocconcini di camoscio con canederli al burro – Costatine di capriolo alle prugne – Bocconcini di manzo alle spezie – Cappello del prete con bacche di ginepro e alloro
 published: true
 date: 2021-08-24T11:16:44.400Z
-tags: vino, rosso, fermo, varietale, Teroldego, italia, trentino, bocconcini di camoscio con canederli al burro, costatine di capriolo alle prugne, bocconcini di manzo alle spezie, cappello del prete con bacche di ginepro e alloro, 45◆49€, 5 stelle
+tags: vino, rosso, fermo, varietale, Teroldego, italia, trentino, bocconcini di camoscio con canederli al burro, costatine di capriolo alle prugne, bocconcini di manzo alle spezie, cappello del prete con bacche di ginepro e alloro, 45 🠒 49€, 5 stelle
 editor: markdown
 dateCreated: 2021-08-24T11:16:41.742Z
 ---
@@ -18,7 +18,7 @@ dateCreated: 2021-08-24T11:16:41.742Z
 - **Composizione:** 100% [Teroldego](/vitigni/Italia/bacca-nera/teroldego)
 - **Affinamento:** 15 mesi in botte di rovere da 30 ettolitri + 20 mesi in bottiglia 
 - **Alcol:** 12.5%
-- **Fascia di prezzo:** 45◆49€
+- **Fascia di prezzo:** 45 🠒 49€
 {.grid-list}
 
 ## Descrizione del produttore

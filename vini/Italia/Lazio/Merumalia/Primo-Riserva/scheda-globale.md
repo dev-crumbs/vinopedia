@@ -1,9 +1,9 @@
 ---
-title: Primo Riserva – Frascati Superiore Riserva DOCG – Merumalia – Lazio (IT) – 15◆19€
+title: Primo Riserva – Frascati Superiore Riserva DOCG – Merumalia – Lazio (IT) – 15 🠒 19€
 description: 3★ - 5★ | Malvasia puntinata 70% + Greco 20% + Bombino bianco 10% | Cernia in salsa di pistacchi – Spaghetti tonno e bottarga – Tartare di ricciola con stracciatella di bufala – Salmone arrosto con asparagi e salsa olandese – Linguine con asparagi e gamberi in salsa di cannellini
 published: true
 date: 2021-08-24T12:31:23.089Z
-tags: vino, bianco, fermo, blend, malvasia puntinata, greco, bombino bianco, italia, lazio, cernia in salsa di pistacchi, spaghetti tonno e bottarga, tartare di ricciola con stracciatella di bufala, salmone arrosto con asparagi e salsa olandese, linguine con asparagi e gamberi in salsa di cannellini, 15◆19€, 5 stelle
+tags: vino, bianco, fermo, blend, malvasia puntinata, greco, bombino bianco, italia, lazio, cernia in salsa di pistacchi, spaghetti tonno e bottarga, tartare di ricciola con stracciatella di bufala, salmone arrosto con asparagi e salsa olandese, linguine con asparagi e gamberi in salsa di cannellini, 15 🠒 19€, 5 stelle
 editor: markdown
 dateCreated: 2021-08-24T11:31:20.502Z
 ---
@@ -18,7 +18,7 @@ dateCreated: 2021-08-24T11:31:20.502Z
 - **Composizione:** 70% [Malvasia puntinata](/vitigni/Italia/bacca-bianca/malvasia-puntinata) + 20% [Greco](/vitigni/Italia/bacca-bianca/greco) + 10% [Bombino bianco](/vitigni/Italia/bacca-bianca/bombino-bianco)
 - **Affinamento:** 6 mesi sui lieviti in acciaio
 - **Alcol:** 14%
-- **Fascia di prezzo:** 15◆19€
+- **Fascia di prezzo:** 15 🠒 19€
 {.grid-list}
 
 ## Descrizione del produttore

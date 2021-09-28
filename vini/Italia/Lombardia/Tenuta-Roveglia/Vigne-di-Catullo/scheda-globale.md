@@ -1,9 +1,9 @@
 ---
-title: Vigne di Catullo – Lugana Riserva DOC – Tenuta Roveglia – Lombardia (IT) – 15◆19€
+title: Vigne di Catullo – Lugana Riserva DOC – Tenuta Roveglia – Lombardia (IT) – 15 🠒 19€
 description: 3★ - 5★ | Trebbiano di Lugana 100% | Tagliatelle con lucioperca e gallinacci – Spaghetti con ragu di coniglio – Bigoli con le sarde – Tagliolini all'uovo con ragu di coniglio
 published: true
 date: 2021-08-24T12:31:23.089Z
-tags: vino, bianco, fermo, varietale, trebbiano di lugana, italia, lombardia, tagliatelle con lucioperca e gallinacci, spaghetti con ragu di coniglio, bigoli con le sarde, tagliolini all'uovo con ragu di coniglio, 15◆19€, 5 stelle
+tags: vino, bianco, fermo, varietale, trebbiano di lugana, italia, lombardia, tagliatelle con lucioperca e gallinacci, spaghetti con ragu di coniglio, bigoli con le sarde, tagliolini all'uovo con ragu di coniglio, 15 🠒 19€, 5 stelle
 editor: markdown
 dateCreated: 2021-08-24T11:31:20.502Z
 ---
@@ -18,7 +18,7 @@ dateCreated: 2021-08-24T11:31:20.502Z
 - **Composizione:** 100% [Trebbiano di Lugana](/vitigni/Italia/bacca-bianca/trebbiano-di-lugana)
 - **Affinamento:** 24 mesi in acciaio
 - **Alcol:** 13%
-- **Fascia di prezzo:** 15◆19€
+- **Fascia di prezzo:** 15 🠒 19€
 {.grid-list}
 
 ## Descrizione del produttore
