@@ -14,7 +14,7 @@ dateCreated: 2021-08-24T11:31:20.502Z
 - **Nome:** Vigna del generale
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Romagna Sangiovese DOC](/denominazioni/Italia/Romagna/DOC/Romagna-Sangiovese) (Riserva)
-- **Produttore:** [Fattoria-Nicolucci](/produttori/Italia/Romagna/Fattoria-Nicolucci) 
+- **Produttore:** [Fattoria Nicolucci](/produttori/Italia/Romagna/Fattoria-Nicolucci) 
 - **Composizione:** 100% [Sangiovese](/vitigni/Italia/bacca-nera/sangiovese)
 - **Affinamento:** 24 mesi in botte grande + 3 mesi in bottiglia
 - **Alcol:** 14%

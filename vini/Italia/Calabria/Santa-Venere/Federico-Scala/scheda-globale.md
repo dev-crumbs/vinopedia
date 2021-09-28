@@ -34,7 +34,7 @@ dateCreated: 2021-08-23T12:22:31.894Z
 
 ## Annate
 
-- Federico Scala [2014](vini/Italia/Calabria/Santa-Venere/Federico Scala/2014) -- <span class="star-5"></span> -- 92/100
-- Federico Scala [2016](vini/Italia/Calabria/Santa-Venere/Federico Scala/2016) -- <span class="star-3"></span> -- 87/100
-- Federico Scala [2017](vini/Italia/Calabria/Santa-Venere/Federico Scala/2017) -- <span class="star-2"></span> -- 83/100
-- Federico Scala [2018](vini/Italia/Calabria/Santa-Venere/Federico Scala/2018) -- <span class="star-4"></span> -- 89/100
+- Federico Scala [2014](vini/Italia/Calabria/Santa-Venere/Federico-Scala/2014) -- <span class="star-5"></span> -- 92/100
+- Federico Scala [2016](vini/Italia/Calabria/Santa-Venere/Federico-Scala/2016) -- <span class="star-3"></span> -- 87/100
+- Federico Scala [2017](vini/Italia/Calabria/Santa-Venere/Federico-Scala/2017) -- <span class="star-2"></span> -- 83/100
+- Federico Scala [2018](vini/Italia/Calabria/Santa-Venere/Federico-Scala/2018) -- <span class="star-4"></span> -- 89/100
