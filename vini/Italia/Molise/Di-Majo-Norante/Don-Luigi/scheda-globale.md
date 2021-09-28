@@ -1,9 +1,9 @@
 ---
-title: Don Luigi – Molise Riserva DOC – Di Majo Norante – Molise (IT) – 25-29€
+title: Don Luigi – Molise Riserva DOC – Di Majo Norante – Molise (IT) – 25◆29€
 description: 3★ - 5★ | Montepulciano 100% | Filetto alla wellington – Braciola di maiale alle prugne – Lasagne al forno – Guancia di manzo con zucca liquirizia e caffè
 published: true
 date: 2021-08-24T12:31:23.089Z
-tags: vino, rosso, fermo, varietale, montepulciano, italia, molise, filetto alla wellington, braciola di maiale alle prugne, lasagne al forno, guancia di manzo con zucca liquirizia e caffè, 25-29€, 5 stelle
+tags: vino, rosso, fermo, varietale, montepulciano, italia, molise, filetto alla wellington, braciola di maiale alle prugne, lasagne al forno, guancia di manzo con zucca liquirizia e caffè, 25◆29€, 5 stelle
 editor: markdown
 dateCreated: 2021-08-24T11:31:20.502Z
 ---
@@ -18,7 +18,7 @@ dateCreated: 2021-08-24T11:31:20.502Z
 - **Composizione:** 100% [Montepulciano](/vitigni/Italia/bacca-nera/montepulciano)
 - **Affinamento:** 18 mesi in barrique nuove + 6 mesi in acciaio
 - **Alcol:** 15%
-- **Fascia di prezzo:** 25-29€ -- L'annata 2016 è stata proposta con un prezzo in fascia  35-39€
+- **Fascia di prezzo:** 25◆29€ -- L'annata 2016 è stata proposta con un prezzo in fascia  35◆39€
 {.grid-list}
 
 ## Descrizione del produttore

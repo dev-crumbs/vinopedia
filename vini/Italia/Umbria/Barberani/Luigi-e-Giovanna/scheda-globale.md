@@ -1,9 +1,9 @@
 ---
-title: Luigi e Giovanna – Orvieto Classico Superiore DOC – Barberani – Umbria (IT) – 40-44€
+title: Luigi e Giovanna – Orvieto Classico Superiore DOC – Barberani – Umbria (IT) – 40◆44€
 description: 5★ | Grechetto 90% + Procanico 10% | Agnello in fricassea – Cannelloni alla griglia con molluschi e besciamella di ostriche – Lasagne con ragù di coda alla vaccinara – Baccalà alla perugina – Pollo alla diavola
 published: true
 date: 2021-08-24T11:16:44.400Z
-tags: vino, bianco, fermo,blend, grechetto, procanico, italia, umbria, agnello in fricassea, cannelloni alla griglia con molluschi e besciamella di ostriche, lasagne con ragù di coda alla vaccinara, baccalà alla perugina, pollo alla diavola, 40-44€, 5 stelle
+tags: vino, bianco, fermo,blend, grechetto, procanico, italia, umbria, agnello in fricassea, cannelloni alla griglia con molluschi e besciamella di ostriche, lasagne con ragù di coda alla vaccinara, baccalà alla perugina, pollo alla diavola, 40◆44€, 5 stelle
 editor: markdown
 dateCreated: 2021-08-24T11:16:41.742Z
 ---
@@ -18,7 +18,7 @@ dateCreated: 2021-08-24T11:16:41.742Z
 - **Composizione:** 90% [Grechetto](/vitigni/Italia/bacca-bianca/grechetto) + 90% [Procanico](/vitigni/Italia/bacca-bianca/trebbiano-toscano)
 - **Affinamento:** 12 mesi in botte grande 
 - **Alcol:** 12.5%
-- **Fascia di prezzo:** 40-44€
+- **Fascia di prezzo:** 40◆44€
 {.grid-list}
 
 ## Descrizione del produttore

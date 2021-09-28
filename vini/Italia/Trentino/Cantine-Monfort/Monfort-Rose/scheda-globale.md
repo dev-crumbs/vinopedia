@@ -1,9 +1,9 @@
 ---
-title: Monfort Rosé – Trento DOC – Cantine Monfort – Trentino (IT) – 25-29€
+title: Monfort Rosé – Trento DOC – Cantine Monfort – Trentino (IT) – 25◆29€
 description: 3★ | Pinot Noir 50% + Chardonnay 50% | Gamberoni all'aceto balsamico – Tagliere di formaggi
 published: true
 date: 2021-08-24T10:24:14.107Z
-tags: vino, rosè, spumante, metodo classico, brut, blend, pinot noir, chardonnay, italia, trentino, gamberoni all'aceto balsamico, chardonnay, pinot nero, brut, tagliere di formaggi, sans annee, 25-29€, 3 stelle
+tags: vino, rosè, spumante, metodo classico, brut, blend, pinot noir, chardonnay, italia, trentino, gamberoni all'aceto balsamico, chardonnay, pinot nero, brut, tagliere di formaggi, sans annee, 25◆29€, 3 stelle
 editor: markdown
 dateCreated: 2021-08-12T08:47:39.689Z
 ---
@@ -16,7 +16,7 @@ dateCreated: 2021-08-12T08:47:39.689Z
 - **Denominazione:** [Trento DOC](/denominazioni/Trentino/DOC/Trento)
 - **Produttore:** Cantine Monfort 
 - **Composizione:** 50% [Pinot Noir](/vitigni/Francia/bacca-nera/pinot-noir) - 50% [Chardonnay](/vitigni/Francia/bacca-bianca/chardonnay)
-- **Fascia di prezzo:** 25-29€
+- **Fascia di prezzo:** 25◆29€
 
 {.grid-list}
 

@@ -1,9 +1,9 @@
 ---
-title: Neromoro – Montepulciano d'Abruzzo Colline Teramane Riserva DOCG – Nicodemi – Abruzzo (IT) – 30-34€
+title: Neromoro – Montepulciano d'Abruzzo Colline Teramane Riserva DOCG – Nicodemi – Abruzzo (IT) – 30◆34€
 description: 5★ | Montepulciano 100% | Capretto alla brace – Piccione in casseruola – Spezzatino di cinghiale in umido – Pernici con polenta – Quaglie al prosciutto
 published: true
 date: 2021-08-24T12:31:23.089Z
-tags: vino, rosso, fermo, varietale, montepulciano, italia, abruzzo, capretto alla brace, piccione in casseruola, spezzatino di cinghiale in umido, pernici con polenta, quaglie al prosciutto, 30-34€, 5 stelle
+tags: vino, rosso, fermo, varietale, montepulciano, italia, abruzzo, capretto alla brace, piccione in casseruola, spezzatino di cinghiale in umido, pernici con polenta, quaglie al prosciutto, 30◆34€, 5 stelle
 editor: markdown
 dateCreated: 2021-08-24T11:31:20.502Z
 ---
@@ -18,7 +18,7 @@ dateCreated: 2021-08-24T11:31:20.502Z
 - **Composizione:** 100% [Montepulciano](/vitigni/Italia/bacca-nera/montepulciano)
 - **Affinamento:** 16 mesi in barrique + 6 in bottiglia
 - **Alcol:** 13.5%
-- **Fascia di prezzo:** 30-34€
+- **Fascia di prezzo:** 30◆34€
 {.grid-list}
 
 ## Descrizione del produttore

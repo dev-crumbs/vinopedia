@@ -1,9 +1,9 @@
 ---
-title: Bianco della Castellada – Collio DOC – La Castellada – Friuli Venezia Giulia (IT) – 25-29€
+title: Bianco della Castellada – Collio DOC – La Castellada – Friuli Venezia Giulia (IT) – 25◆29€
 description: 4★ - 5★ | Pinot grigio 50% + Chardonnay 30% + Sauvignon blanc 20% | Ravioli con zucca – San Pietro al forno – Tortelli al burro fuso e parmigiano – Ravioli di magro, burro e ricotta – Galletto con salsa di scalogno e anice
 published: true
 date: 2021-09-09T05:23:05.324Z
-tags: vino, bianco, italia, blend, chardonnay, friuli venezia giulia, pinot grigio, fermo, 5 stelle, 25-29€, sauvignon blanc, ravioli con zucca, san pietro al forno, tortelli al burro fuso e parmigiano, ravioli di magro burro e ricotta, galletto con salsa di scalogno e anice
+tags: vino, bianco, italia, blend, chardonnay, friuli venezia giulia, pinot grigio, fermo, 5 stelle, 25◆29€, sauvignon blanc, ravioli con zucca, san pietro al forno, tortelli al burro fuso e parmigiano, ravioli di magro burro e ricotta, galletto con salsa di scalogno e anice
 editor: markdown
 dateCreated: 2021-08-29T16:15:14.887Z
 ---
@@ -18,7 +18,7 @@ dateCreated: 2021-08-29T16:15:14.887Z
 - **Composizione:** 50% [Pinot grigio](/vitigni/Italia/bacca-bianca/pinot-grigio) + 30% [Chardonnay](/vitigni/Francia/bacca-bianca/chardonnay) + 20% [Sauvignon Blanc](/vitigni/Francia/bacca-bianca/sauvignon-blanc)
 - **Affinamento:** 12 mesi in barrique di rovere + 24 mesi in acciaio + 12 mesi in bottiglia
 - **Alcol:** 14%
-- **Fascia di prezzo:** 25-29€
+- **Fascia di prezzo:** 25◆29€
 {.grid-list}
 
 ## Descrizione del produttore

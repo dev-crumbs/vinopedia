@@ -1,9 +1,9 @@
 ---
-title: Graticciaia – Salento IGT – Vallone – Puglia (IT) – 50-54€
+title: Graticciaia – Salento IGT – Vallone – Puglia (IT) – 50◆54€
 description: 5★ | Negroamaro 100% | Filetto di manzo su fonduta tartufata – Stracotto di vitello con pere prugne e pecorino – Risotto con ragù d'anatra
 published: true
 date: 2021-08-24T11:31:23.089Z
-tags: vino, rosso, varietale, negroamaro, italia, puglia, filetto di manzo su fonduta tartufata, stracotto di vitello con pere prugne e pecorino, risotto con ragù d'anatra, 50-54€, 5 stelle
+tags: vino, rosso, varietale, negroamaro, italia, puglia, filetto di manzo su fonduta tartufata, stracotto di vitello con pere prugne e pecorino, risotto con ragù d'anatra, 50◆54€, 5 stelle
 editor: markdown
 dateCreated: 2021-08-24T11:31:20.502Z
 ---
@@ -18,7 +18,7 @@ dateCreated: 2021-08-24T11:31:20.502Z
 - **Composizione:** 100% [Negroamaro](/vitigni/Italia/bacca-nera/negroamaro)
 - **Affinamento:** 26 mesi in acciaio + 12 mesi in barrique + 12 mesi in bottiglia
 - **Alcol:** 14.5%
-- **Fascia di prezzo:** 50-54€
+- **Fascia di prezzo:** 50◆54€
 {.grid-list}
 
 ## Descrizione del produttore

@@ -1,9 +1,9 @@
 ---
-title: Barolo Serralunga – Barolo DOCG – Paolo Manzone – Piemonte (IT) – 35-39€
+title: Barolo Serralunga – Barolo DOCG – Paolo Manzone – Piemonte (IT) – 35◆39€
 description: 3★ - 4★ | Nebbiolo 100% | Quaglia farcita di foie gras – Bocconcini di manzo al timo – Stracotto d'asino – Battuta di fassona – Tagliata in crosta di nocciole 
 published: true
 date: 2021-08-24T10:19:50.562Z
-tags: vino, italia, rosso, varietale, nebbiolo, piemonte, quaglia farcita di foie gras, bocconcini di manzo al timo, stracotto d'asino, battuta di fassona, tagliata in crosta di nocciole, 35-39€, 4 stelle
+tags: vino, italia, rosso, varietale, nebbiolo, piemonte, quaglia farcita di foie gras, bocconcini di manzo al timo, stracotto d'asino, battuta di fassona, tagliata in crosta di nocciole, 35◆39€, 4 stelle
 editor: markdown
 dateCreated: 2021-08-23T12:22:31.894Z
 ---
@@ -18,7 +18,7 @@ dateCreated: 2021-08-23T12:22:31.894Z
 - **Composizione:** 100% [Nebbiolo](/vitigni/Italia/bacca-nera/nebbiolo)
 - **Affinamento:** 24 mesi in botte grande
 - **Alcol:** 14.5%
-- **Fascia di prezzo:** 35-39€
+- **Fascia di prezzo:** 35◆39€
 {.grid-list}
 
 ## Descrizione del produttore

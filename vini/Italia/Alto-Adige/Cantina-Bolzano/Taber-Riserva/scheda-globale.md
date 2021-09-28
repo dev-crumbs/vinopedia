@@ -1,9 +1,9 @@
 ---
-title: Taber Riserva – Alto Adige Lagrein DOC – Cantina Bolzano – Alto Adige (IT) – 45-49€
+title: Taber Riserva – Alto Adige Lagrein DOC – Cantina Bolzano – Alto Adige (IT) – 45◆49€
 description: 2★ - 5★ | Lagrein 100% | Arrosto alla tirolese – Gröstl – Faraona lardellata – Spezzatino di capriolo
 published: true
 date: 2021-08-23T18:08:44.486Z
-tags: vino, italia, rosso, varietale, arrosto alla tirolese, gröstl, faraona lardellata, spezzatino di capriolo, lagrein, alto adige, 45-49€, 5 stelle
+tags: vino, italia, rosso, varietale, arrosto alla tirolese, gröstl, faraona lardellata, spezzatino di capriolo, lagrein, alto adige, 45◆49€, 5 stelle
 editor: markdown
 dateCreated: 2021-08-23T09:13:09.952Z
 ---
@@ -18,7 +18,7 @@ dateCreated: 2021-08-23T09:13:09.952Z
 - **Composizione:** 100% [Lagrein](/vitigni/Italia/bacca-nera/lagrein)
 - **Affinamento:** 10 mesi in barrique 
 - **Alcol:** 13.5%
-- **Fascia di prezzo:** 45-49€
+- **Fascia di prezzo:** 45◆49€
 {.grid-list}
 
 ## Descrizione del produttore

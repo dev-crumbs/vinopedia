@@ -1,9 +1,9 @@
 ---
-title: Santigaìni – Isola dei Nuraghi IGT – Capichera – Sardegna (IT) – 125-150€
+title: Santigaìni – Isola dei Nuraghi IGT – Capichera – Sardegna (IT) – 125◆150€
 description: 5★ | Vermentino 100% | Risotto al nero di seppia
 published: true
 date: 2021-08-24T11:16:44.400Z
-tags: vino, bianco, fermo, varietale, Vermentino, italia, sardegna, risotto al nero di seppia, 125-150€, 5 stelle
+tags: vino, bianco, fermo, varietale, Vermentino, italia, sardegna, risotto al nero di seppia, 125◆150€, 5 stelle
 editor: markdown
 dateCreated: 2021-08-24T11:16:41.742Z
 ---
@@ -18,7 +18,7 @@ dateCreated: 2021-08-24T11:16:41.742Z
 - **Composizione:** 100% [Vermentino](/vitigni/Italia/bacca-bianca/vermentino)
 - **Affinamento:** 8 mesi in acciaio + 8 mesi in barrique 
 - **Alcol:** 14.5%
-- **Fascia di prezzo:** 125-150€
+- **Fascia di prezzo:** 125◆150€
 {.grid-list}
 
 ## Descrizione del produttore

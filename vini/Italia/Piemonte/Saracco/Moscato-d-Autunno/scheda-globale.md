@@ -1,9 +1,9 @@
 ---
-title: Moscato d'Autunno – Piemonte DOC – Saracco – Piemonte (IT) – 10-14€
+title: Moscato d'Autunno – Piemonte DOC – Saracco – Piemonte (IT) – 10◆14€
 description: 5★ | Moscato bianco 100% | Fugascina di mergozzo – Tarte tatin pere e cannella – Paste di meliga – Torta nuziale alla crema chantilly – Zabaione e torta di nocciole
 published: true
 date: 2021-08-24T10:19:50.562Z
-tags: vino, bianco, frizzante, dolce, varietale, moscato bianco, italia, piemonte, fugascina di mergozzo, tarte tatin pere e cannella, paste di meliga, torta nuziale alla crema chantilly, zabaione e torta di nocciole, 10-14€, 5 stelle
+tags: vino, bianco, frizzante, dolce, varietale, moscato bianco, italia, piemonte, fugascina di mergozzo, tarte tatin pere e cannella, paste di meliga, torta nuziale alla crema chantilly, zabaione e torta di nocciole, 10◆14€, 5 stelle
 editor: markdown
 dateCreated: 2021-08-23T12:22:31.894Z
 ---
@@ -18,7 +18,7 @@ dateCreated: 2021-08-23T12:22:31.894Z
 - **Composizione:** 100% [Moscato bianco](/vitigni/Italia/bacca-bianca/moscato-bianco)
 - **Affinamento:** --
 - **Alcol:** 5.5%
-- **Fascia di prezzo:** 10-14€
+- **Fascia di prezzo:** 10◆14€
 {.grid-list}
 
 ## Descrizione del produttore
