@@ -1,9 +1,9 @@
 ---
-title: Vino Santo – Trentino DOC – Gino Pedrotti
-description: 4★ - 5★ | Nosiola 100% | Trentino (IT) | Torta di fregoloti con mandorle – Tagliere di formaggi erborinati – Crostata di fichi neri
+title: Vino Santo – Trentino DOC – Gino Pedrotti – Trentino (IT) – 35-39€
+description: 4★ - 5★ | Nosiola 100% | Torta di fregoloti con mandorle – Tagliere di formaggi erborinati – Crostata di fichi neri
 published: true
 date: 2021-08-24T11:16:44.400Z
-tags: vino, bianco, passito, varietale, nosiola, italia, trentino, torta di fregoloti con mandorle, tagliere di formaggi erborinati, crostata di fichi neri, 35 - 39 €, 5 stelle
+tags: vino, bianco, passito, varietale, nosiola, italia, trentino, torta di fregoloti con mandorle, tagliere di formaggi erborinati, crostata di fichi neri, 35-39€, 5 stelle
 editor: markdown
 dateCreated: 2021-08-24T11:16:41.742Z
 ---
@@ -18,7 +18,7 @@ dateCreated: 2021-08-24T11:16:41.742Z
 - **Composizione:** 100% [Nosiola](/vitigni/Italia/bacca-bianca/nosiola)
 - **Affinamento:** 6 mesi di appassimento su graticci + 5 anni in acciaio sui lieviti + 5 anni in barrique sui lieviti
 - **Alcol:** 12%
-- **Fascia di prezzo:** 35 - 39 €
+- **Fascia di prezzo:** 35-39€
 {.grid-list}
 
 ## Descrizione del produttore

@@ -1,9 +1,9 @@
 ---
-title: Barbagalli – Etna Rosso DOC – Pietradolce 
-description: 3★ - 5★ | Nerello Mascalese 100% | Sicilia (IT) | Falsomagro siciliano – Filetto di fassona in crosta – Salsiccia condita e cavolicelli – Stinco al forno – Tuma persa
+title: Barbagalli – Etna Rosso DOC – Pietradolce – Sicilia (IT) – 100-124€ 
+description: 3★ - 5★ | Nerello Mascalese 100% | Falsomagro siciliano – Filetto di fassona in crosta – Salsiccia condita e cavolicelli – Stinco al forno – Tuma persa
 published: true
 date: 2021-08-24T11:57:38.152Z
-tags: vino, rosso, fermo, varietale, Nerello Mascalese, italia, sicilia, falsomagro siciliano, filetto di fassona in crosta, salsiccia condita e cavolicelli, stinco al forno, tuma persa, 100 - 125 €, 5 stelle
+tags: vino, rosso, fermo, varietale, Nerello Mascalese, italia, sicilia, falsomagro siciliano, filetto di fassona in crosta, salsiccia condita e cavolicelli, stinco al forno, tuma persa, 100-124€, 5 stelle
 editor: markdown
 dateCreated: 2021-08-24T11:55:59.971Z
 ---
@@ -18,7 +18,7 @@ dateCreated: 2021-08-24T11:55:59.971Z
 - **Composizione:** 100% [Nerello Mascalese](/vitigni/Italia/bacca-nera/nerello-mascalese)
 - **Affinamento:** 21 mesi in tonneau + 6 mesi in bottiglia
 - **Alcol:** 14.5%
-- **Fascia di prezzo:** 100 - 125 €
+- **Fascia di prezzo:** 100-124€
 {.grid-list}
 
 ## Descrizione del produttore

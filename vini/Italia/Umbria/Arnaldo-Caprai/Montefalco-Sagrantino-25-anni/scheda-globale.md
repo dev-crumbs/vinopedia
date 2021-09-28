@@ -1,9 +1,9 @@
 ---
-title: Montefalco Sagrantino 25 anni – Montefalco Sagrantino DOCG – Arnaldo Caprai
-description: 5★ | Sagrantino 100% | Umbria (IT) | Filetto di cervo all'aceto balsamico – Bracioline di agnello al tartufo – Sella di cervo con castagne – Filetto alla rossini
+title: Montefalco Sagrantino 25 anni – Montefalco Sagrantino DOCG – Arnaldo Caprai – Umbria (IT) – 50-54€
+description: 5★ | Sagrantino 100% | Filetto di cervo all'aceto balsamico – Bracioline di agnello al tartufo – Sella di cervo con castagne – Filetto alla rossini
 published: true
 date: 2021-08-24T11:16:44.400Z
-tags: vino, rosso, fermo, varietale, sagrantino, italia, umbria, filetto di cervo all'aceto balsamico, bracioline di agnello al tartufo, sella di cervo con castagne, filetto alla rossini, 50 - 54 €, 5 stelle
+tags: vino, rosso, fermo, varietale, sagrantino, italia, umbria, filetto di cervo all'aceto balsamico, bracioline di agnello al tartufo, sella di cervo con castagne, filetto alla rossini, 50-54€, 5 stelle
 editor: markdown
 dateCreated: 2021-08-24T11:16:41.742Z
 ---
@@ -18,7 +18,7 @@ dateCreated: 2021-08-24T11:16:41.742Z
 - **Composizione:** 100% [Sagrantino](/vitigni/Italia/bacca-nera/sagrantino) 
 - **Affinamento:** 24 mesi in barrique nuove 
 - **Alcol:** 14.5%
-- **Fascia di prezzo:** 50 - 54 €
+- **Fascia di prezzo:** 50-54€
 {.grid-list}
 
 ## Descrizione del produttore
