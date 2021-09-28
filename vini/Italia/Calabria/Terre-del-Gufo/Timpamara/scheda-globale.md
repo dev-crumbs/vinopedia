@@ -1,9 +1,9 @@
 ---
-title: Timpamara – Calabria IGT – Terre del Gufo – Calabria (IT) – 25 🠒 29€
+title: Timpamara – Calabria IGT – Terre del Gufo – Calabria (IT) – 25🠒29€
 description: 3★ - 5★ | Syrah 100% | Noce di cervo arrosto – Gallina ripiena alla sarda – Cappone ripieno al forno – Arista di maiale all'arancia – Filetto di podolica al pepe verde
 published: true
 date: 2021-08-24T10:19:50.562Z
-tags: vino, rosso, fermo, varietale, Syrah, italia, calabria, noce di cervo arrosto, gallina ripiena alla sarda, cappone ripieno al forno, arista di maiale all'arancia, filetto di podolica al pepe verde, 25 🠒 29€, 5 stelle
+tags: vino, rosso, fermo, varietale, Syrah, italia, calabria, noce di cervo arrosto, gallina ripiena alla sarda, cappone ripieno al forno, arista di maiale all'arancia, filetto di podolica al pepe verde, 25🠒29€, 5 stelle
 editor: markdown
 dateCreated: 2021-08-23T12:22:31.894Z
 ---
@@ -18,7 +18,7 @@ dateCreated: 2021-08-23T12:22:31.894Z
 - **Composizione:** 100% [Syrah](/vitigni/Italia/bacca-nera/syrah)
 - **Affinamento:** 12 mesi tra barrique e tonneau di rovere + 12 mesi in bottiglia
 - **Alcol:** 14%
-- **Fascia di prezzo:** 25 🠒 29€
+- **Fascia di prezzo:** 25🠒29€
 {.grid-list}
 
 ## Descrizione del produttore

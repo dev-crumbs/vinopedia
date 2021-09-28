@@ -1,9 +1,9 @@
 ---
-title: Arneis – Roero DOCG – Vietti – Piemonte (IT) – 10 🠒 14€
+title: Arneis – Roero DOCG – Vietti – Piemonte (IT) – 10🠒14€
 description: 3★ | Arneis 100% | 
 published: true
 date: 2021-08-24T10:19:50.562Z
-tags: vino, bianco, fermo, varietale, arneis, italia, piemonte, 10 🠒 14€, 3 stelle
+tags: vino, bianco, fermo, varietale, arneis, italia, piemonte, 10🠒14€, 3 stelle
 editor: markdown
 dateCreated: 2021-08-23T12:22:31.894Z
 ---
@@ -18,7 +18,7 @@ dateCreated: 2021-08-23T12:22:31.894Z
 - **Composizione:** 100% [Arneis](/vitigni/Italia/bacca-bianca/arneis)
 - **Affinamento:** - 
 - **Alcol:** 12%
-- **Fascia di prezzo:** 10 🠒 14€
+- **Fascia di prezzo:** 10🠒14€
 {.grid-list}
 
 ## Descrizione del produttore

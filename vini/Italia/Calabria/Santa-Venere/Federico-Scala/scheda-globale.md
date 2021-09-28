@@ -1,9 +1,9 @@
 ---
-title: Federico Scala – Cirò Classico Superiore Riserva DOC – Santa Venere – Calabria (IT) – 20 🠒 24€
+title: Federico Scala – Cirò Classico Superiore Riserva DOC – Santa Venere – Calabria (IT) – 20🠒24€
 description: 2★ - 5★ | Gaglioppo 100% | Cosciotto di agnello al forno – Involtini di maiale al sugo – Cosciotto di agnello con salsa all'aglio
 published: true
 date: 2021-08-24T10:19:50.562Z
-tags: vino, rosso, fermo, varietale, gaglioppo, italia, calabria, cosciotto di agnello al forno, involtini di maiale al sugo, cosciotto di agnello con salsa all'aglio, 20 🠒 24€, 5 stelle
+tags: vino, rosso, fermo, varietale, gaglioppo, italia, calabria, cosciotto di agnello al forno, involtini di maiale al sugo, cosciotto di agnello con salsa all'aglio, 20🠒24€, 5 stelle
 editor: markdown
 dateCreated: 2021-08-23T12:22:31.894Z
 ---
@@ -18,7 +18,7 @@ dateCreated: 2021-08-23T12:22:31.894Z
 - **Composizione:** 100% [Gaglioppo](/vitigni/Italia/bacca-nera/gaglioppo)
 - **Affinamento:** 12 mesi in botte di rovere + 6 mesi in bottiglia
 - **Alcol:** 14%
-- **Fascia di prezzo:** 20 🠒 24€
+- **Fascia di prezzo:** 20🠒24€
 {.grid-list}
 
 ## Descrizione del produttore

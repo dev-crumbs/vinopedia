@@ -1,9 +1,9 @@
 ---
-title: Malvasia – Venezia Giulia IGT – Podversic – Friuli Venezia Giulia (IT) – 35 🠒 39€
+title: Malvasia – Venezia Giulia IGT – Podversic – Friuli Venezia Giulia (IT) – 35🠒39€
 description: 3★ - 5★ | Malvasia istriana 100% | Coniglio al forno con albicocche – Suprema di faraona con salsa agli agrumi – Tortelli di zucca con salsa di noci – Gamberi in pasta kataifi al basilico
 published: true
 date: 2021-08-24T12:31:23.089Z
-tags: vino,  bianco, fermo, varietale, Malvasia istriana, italia, friuli venezia giulia, coniglio al forno con albicocche, suprema di faraona con salsa agli agrumi, tortelli di zucca con salsa di noci, gamberi in pasta kataifi al basilico, 35 🠒 39€, 5 stelle
+tags: vino,  bianco, fermo, varietale, Malvasia istriana, italia, friuli venezia giulia, coniglio al forno con albicocche, suprema di faraona con salsa agli agrumi, tortelli di zucca con salsa di noci, gamberi in pasta kataifi al basilico, 35🠒39€, 5 stelle
 editor: markdown
 dateCreated: 2021-08-24T11:31:20.502Z
 ---
@@ -18,7 +18,7 @@ dateCreated: 2021-08-24T11:31:20.502Z
 - **Composizione:** 100% [Malvasia istriana](/vitigni/Italia/bacca-bianca/malvasia-istriana)
 - **Affinamento:** 90 giorni di macerazione sulle bucce in tino, non fitrato, 36 mesi in botte grande di rovere
 - **Alcol:** 14.5%
-- **Fascia di prezzo:** 35 🠒 39€
+- **Fascia di prezzo:** 35🠒39€
 {.grid-list}
 
 ## Descrizione del produttore

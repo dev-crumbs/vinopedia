@@ -1,9 +1,9 @@
 ---
-title: Pignolo Riserva – Friuli Colli Orientali Riserva DOC – Moschioni – Friuli Venezia Giulia (IT) – 45 🠒 49€
+title: Pignolo Riserva – Friuli Colli Orientali Riserva DOC – Moschioni – Friuli Venezia Giulia (IT) – 45🠒49€
 description: 5★ | Pignolo 100% | Filetto di cervo senape e miele
 published: true
 date: 2021-08-24T12:31:23.089Z
-tags: vino, rosso, fermo, varietale, pignolo, italia, friuli venezia giulia, filetto di cervo senape e miele, 45 🠒 49€, 5 stelle
+tags: vino, rosso, fermo, varietale, pignolo, italia, friuli venezia giulia, filetto di cervo senape e miele, 45🠒49€, 5 stelle
 editor: markdown
 dateCreated: 2021-08-24T11:31:20.502Z
 ---
@@ -18,7 +18,7 @@ dateCreated: 2021-08-24T11:31:20.502Z
 - **Composizione:** 100% [Pignolo](/vitigni/Italia/bacca-nera/pignolo)
 - **Affinamento:** 12 mesi barrique + 48 mesi botte grande
 - **Alcol:** 14%
-- **Fascia di prezzo:** 45 🠒 49€
+- **Fascia di prezzo:** 45🠒49€
 {.grid-list}
 
 ## Descrizione del produttore

@@ -1,9 +1,9 @@
 ---
-title: Terre Lontane – Calabria IGT – Librandi – Calabria (IT) – 10 🠒 14€
+title: Terre Lontane – Calabria IGT – Librandi – Calabria (IT) – 10🠒14€
 description: 2★ - 5★ | Gaglioppo 70% + Cabernet franc 30% | Spaghetti al ragù di polpo – Pesce spada alla palermitana – Pasta zucca e ragusano
 published: true
 date: 2021-08-24T10:19:50.562Z
-tags: vino, rosato, fermo, blend, gaglioppo, cabernet franc, italia, calabria, spaghetti al ragù di polpo, pesce spada alla palermitana, pasta zucca e ragusano, 10 🠒 14€, 5 stelle
+tags: vino, rosato, fermo, blend, gaglioppo, cabernet franc, italia, calabria, spaghetti al ragù di polpo, pesce spada alla palermitana, pasta zucca e ragusano, 10🠒14€, 5 stelle
 editor: markdown
 dateCreated: 2021-08-23T12:22:31.894Z
 ---
@@ -18,7 +18,7 @@ dateCreated: 2021-08-23T12:22:31.894Z
 - **Composizione:** 100% [Gaglioppo](/vitigni/Italia/bacca-nera/gaglioppo) + 30% [Cabernet franc](/vitigni/Francia/bacca-nera/cabernet-franc)
 - **Affinamento:** 2 mesi in acciaio sui lieviti
 - **Alcol:** 13%
-- **Fascia di prezzo:** 10 🠒 14€
+- **Fascia di prezzo:** 10🠒14€
 {.grid-list}
 
 ## Descrizione del produttore
