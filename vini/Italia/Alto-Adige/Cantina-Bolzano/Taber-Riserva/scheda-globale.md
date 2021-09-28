@@ -1,5 +1,5 @@
 ---
-title: Taber Riserva – Alto Adige Lagrein DOC – Cantina Bolzano – Alto Adige (IT) – 45🠒49€
+title: Taber Riserva – Alto Adige DOC – Cantina Bolzano – Alto Adige (IT) – 45🠒49€
 description: 2★ - 5★ | Lagrein 100% | Arrosto alla tirolese – Gröstl – Faraona lardellata – Spezzatino di capriolo
 published: true
 date: 2021-08-23T18:08:44.486Z
@@ -13,7 +13,7 @@ dateCreated: 2021-08-23T09:13:09.952Z
 ## Caratteristiche
 - **Nome:** Taber Riserva
 - **Tipologia:** Rosso fermo 
-- **Denominazione:** [Alto Adige Lagrein DOC](/denominazioni/Italia/Alto-Adige/DOC/Alto-Adige-Lagrein)
+- **Denominazione:** [Alto Adige DOC](/denominazioni/Italia/Alto-Adige/DOC/Alto-Adige)
 - **Produttore:** [Cantina Bolzano](/produttori/Italia/Alto-Adite/Cantina-Bolzano) 
 - **Composizione:** 100% [Lagrein](/vitigni/Italia/bacca-nera/lagrein)
 - **Affinamento:** 10 mesi in barrique 
@@ -34,8 +34,8 @@ dateCreated: 2021-08-23T09:13:09.952Z
 - Faraona lardellata
 
 ## Annate
-- Taber [2014](vini/italia/alto-adige/rossi/Taber-Riserva-Alto-Adige--Lagrein-DOC/Taber-Riserva-Alto-Adige--Lagrein-DOC-2014) -- <span class="star-5"></span>
-- Taber [2015](vini/italia/alto-adige/rossi/Taber-Riserva-Alto-Adige--Lagrein-DOC/Taber-Riserva-Alto-Adige--Lagrein-DOC-2015) -- <span class="star-4"></span>
-- Taber [2016](vini/italia/alto-adige/rossi/Taber-Riserva-Alto-Adige--Lagrein-DOC/Taber-Riserva-Alto-Adige--Lagrein-DOC-2016) -- <span class="star-2"></span>
-- Taber [2017](vini/italia/alto-adige/rossi/Taber-Riserva-Alto-Adige--Lagrein-DOC/Taber-Riserva-Alto-Adige--Lagrein-DOC-2016) -- <span class="star-4"></span>
-- Taber [2018](vini/italia/alto-adige/rossi/Taber-Riserva-Alto-Adige--Lagrein-DOC/Taber-Riserva-Alto-Adige--Lagrein-DOC-2014) -- <span class="star-4"></span>
+- Taber [2014](vini/italia/Alto-Adige/Cantina-Bolzano/Taber-Riserva/2014) -- <span class="star-5"></span>
+- Taber [2015](vini/italia/Alto-Adige/Cantina-Bolzano/Taber-Riserva/2015) -- <span class="star-4"></span>
+- Taber [2016](vini/italia/Alto-Adige/Cantina-Bolzano/Taber-Riserva/2016) -- <span class="star-2"></span>
+- Taber [2017](vini/italia/Alto-Adige/Cantina-Bolzano/Taber-Riserva/2017) -- <span class="star-4"></span>
+- Taber [2018](vini/italia/Alto-Adige/Cantina-Bolzano/Taber-Riserva/2018) -- <span class="star-4"></span>
