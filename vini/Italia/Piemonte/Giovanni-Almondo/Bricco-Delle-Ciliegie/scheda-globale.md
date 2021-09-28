@@ -3,7 +3,7 @@ title: Bricco delle Ciliegie – Roero DOCG – Giovanni Almondo
 description: 3★ - 5★ | Arneis 100% | Piemonte (IT) | Agghiotta di pesce spada – Risotto agli scampi – Coda di rospo brasata – Risotto con le tinche – Peperoni e bagna cauda – Vitello tonnato
 published: true
 date: 2021-08-24T10:19:50.562Z
-tags: vino, bianco, fermo, varietale, nebbiolo, italia, piemonte, agghiotta di pesce spada, risotto agli scampi, coda di rospo brasata, risotto con le tinche, peperoni e bagna cauda, vitello tonnato, 20 - 24 €, 5 stelle
+tags: vino, bianco, fermo, varietale, arneis, italia, piemonte, agghiotta di pesce spada, risotto agli scampi, coda di rospo brasata, risotto con le tinche, peperoni e bagna cauda, vitello tonnato, 20 - 24 €, 5 stelle
 editor: markdown
 dateCreated: 2021-08-23T12:22:31.894Z
 ---
