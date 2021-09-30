@@ -2,7 +2,7 @@
 title: Falanghina beneventana
 description: La recuperata e versatile "altra" Falanghina di Benevento nell'entroterra campano.
 published: true
-date: 2021-09-30T16:11:33.046Z
+date: 2021-09-30T16:12:04.099Z
 tags: vitigno, bacca bianca
 editor: markdown
 dateCreated: 2021-09-30T16:11:33.046Z
