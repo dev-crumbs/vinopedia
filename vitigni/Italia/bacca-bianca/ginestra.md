@@ -2,7 +2,7 @@
 title: Ginestra
 description: Vitigno campano minore ma interessante e dalla spiccata acidità
 published: true
-date: 2021-09-07T17:55:51.446Z
+date: 2021-09-30T15:47:57.070Z
 tags: vitigno, bacca bianca
 editor: markdown
 dateCreated: 2021-09-07T17:55:14.778Z
@@ -26,4 +26,4 @@ Matura a metà settembre. La sua suscettibilità al marciume botritico del grapp
 
 ## Diffusione geografica
 
-Il Ginestra è coltivato esclusivamente nella provincia di Salerno, lungo la Costiera Amalfitana, nel sud Italia, in particolare nei comuni di Scala, Ravello, Amalfi, Minori, Maiori, Furore, Tramonti, Corbara e Positano. I vini Ginestra hanno un'acidità croccante e possono avere un gusto simile alla [Falanghina flegrea](/v(/vitigni/Italia/bacca-bianca/falanghina-flegrea). Con un certo invecchiamento tendono a sviluppare gli aromi simili al cherosene che a volte si trovano nei vecchi [Riesling](/vitigni/Germania/bacca-bianca/riesling). Il Costa d'Amalfi DOC [Furore Bianco Fiorduva](/vini/Italia/Campania/Marisa-Cuomo/Furore-Bianco-Fiorduva/scheda-globale) di Marisa Cuomo è un blend di [Fenile](/vitigni/Italia/bacca-bianca/fenile), Ginestra e [Ripolo](/vitigni/Italia/bacca-bianca/ripolo).
+Il Ginestra è coltivato esclusivamente nella provincia di Salerno, lungo la Costiera Amalfitana, nel sud Italia, in particolare nei comuni di Scala, Ravello, Amalfi, Minori, Maiori, Furore, Tramonti, Corbara e Positano. I vini Ginestra hanno un'acidità croccante e possono avere un gusto simile alla [Falanghina flegrea](/vitigni/Italia/bacca-bianca/falanghina-flegrea). Con un certo invecchiamento tendono a sviluppare gli aromi simili al cherosene che a volte si trovano nei vecchi [Riesling](/vitigni/Germania/bacca-bianca/riesling). Il Costa d'Amalfi DOC [Furore Bianco Fiorduva](/vini/Italia/Campania/Marisa-Cuomo/Furore-Bianco-Fiorduva/scheda-globale) di Marisa Cuomo è un blend di [Fenile](/vitigni/Italia/bacca-bianca/fenile), Ginestra e [Ripolo](/vitigni/Italia/bacca-bianca/ripolo).
