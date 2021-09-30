@@ -18,7 +18,7 @@ dateCreated: 2021-08-23T07:36:55.405Z
 - **Composizione:** 100% [Sauvignon Blanc](/vitigni/Francia/bacca-bianca/sauvignon-blanc)
 - **Affinamento:** 9 mesi in botte di rovere
 - **Alcol:** 14%
-- **Fascia di prezzo:** 25🠒29€
+- **Fascia di prezzo:** 20🠒24€
 {.grid-list}
 
 ## Descrizione del produttore

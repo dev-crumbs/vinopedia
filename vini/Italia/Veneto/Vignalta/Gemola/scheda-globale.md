@@ -15,7 +15,7 @@ dateCreated: 2021-08-24T11:16:41.742Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Colli Euganei DOC](/denominazioni/Italia/Veneto/DOC/Colli-Euganei)
 - **Produttore:** [Vignalta](/produttori/Italia/Veneto/Vignalta) 
-- **Composizione:** 70% [Merlot](/vitigni/Italia/bacca-bianca/garganega) + 30% [Cabernet Franc](/vitigni/Francia/bacca-nera/cabernet-franc)
+- **Composizione:** 70% [Merlot](/vitigni/Francia/bacca-nera/merlot) + 30% [Cabernet Franc](/vitigni/Francia/bacca-nera/cabernet-franc)
 - **Affinamento:** 36 mesi in tonneau 
 - **Alcol:** 14.5%
 - **Fascia di prezzo:** 35🠒39€
@@ -35,7 +35,7 @@ dateCreated: 2021-08-24T11:16:41.742Z
 - filetto di bue al roquefort
 
 ## Annate
-- Gemola [2011](vini/Italia/Veneto/Vignalta/La-Rocca/2011) -- <span class="star-3"></span> -- 88/100
-- Gemola [2012](vini/Italia/Veneto/Vignalta/La-Rocca/2012) -- <span class="star-5"></span> -- 94/100 
-- Gemola [2013](vini/Italia/Veneto/Vignalta/La-Rocca/2013) -- <span class="star-5"></span> -- 95/100
-- Gemola [2015](vini/Italia/Veneto/Vignalta/La-Rocca/2015) -- <span class="star-4"></span> -- 90/100
+- Gemola [2011](vini/Italia/Veneto/Vignalta/Vignalta/2011) -- <span class="star-3"></span> -- 88/100
+- Gemola [2012](vini/Italia/Veneto/Vignalta/Vignalta/2012) -- <span class="star-5"></span> -- 94/100 
+- Gemola [2013](vini/Italia/Veneto/Vignalta/Vignalta/2013) -- <span class="star-5"></span> -- 95/100
+- Gemola [2015](vini/Italia/Veneto/Vignalta/Vignalta/2015) -- <span class="star-4"></span> -- 90/100

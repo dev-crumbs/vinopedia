@@ -1,5 +1,5 @@
 ---
-title: Verdicchio dei Castelli di Jesi Spumante Brut – Verdicchio dei Castelli di Jesi DOC – Garofoli –Marche (IT) – 15🠒19€
+title: Verdicchio dei Castelli di Jesi Spumante Brut – Verdicchio dei Castelli di Jesi DOC – Garofoli – Marche (IT) – 15🠒19€
 description: 3★ - 5★ | Verdicchio 100% | Carpaccio di sgombro con pesto di pistacchi – Spaghetti ai frutti di mare
 published: true
 date: 2021-08-24T12:31:23.089Z
