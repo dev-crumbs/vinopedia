@@ -2,10 +2,10 @@
 title: Riesling
 description: Una delle più grandi uve da vino bianco del mondo, capace di produrre vini particolarmente espressivi e longevi in tutte le gradazioni di dolcezza
 published: true
-date: 2021-08-22T20:39:44.561Z
+date: 2021-09-30T15:48:32.595Z
 tags: vitigno, bacca bianca
 editor: markdown
-dateCreated: 2021-08-16T11:26:11.296Z
+dateCreated: 2021-09-06T09:38:06.041Z
 ---
 
 # Riesling
@@ -20,7 +20,7 @@ Beyaz Riesling (Turchia), Johannisberg (Vallese in Svizzera fino agli anni '20 p
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Crouchen](/vitigni/bacca-bianca/crouchen)  (Sud Africa), [Graševina](/vitigni/bacca-bianca/grasevina)  (Italia, Sotto Il Nome Di Riesling Italico), [Menu Pineau](/vitigni/bacca-bianca/menu-pineau)  (Loira), [Pedro Ximénez](/vitigni/bacca-bianca/pedro-ximenez), [Räuschling](/vitigni/bacca-bianca/raushling) (Germania), [Sauvignonasse](/vitigni/Francia/bacca-bianca/sauvignonasse (Cile e Argentina)
+[Crouchen](/vitigni/bacca-bianca/crouchen)  (Sud Africa), [Graševina](/vitigni/bacca-bianca/grasevina)  (Italia, Sotto Il Nome Di Riesling Italico), [Menu Pineau](/vitigni/bacca-bianca/menu-pineau)  (Loira), [Pedro Ximénez](/vitigni/bacca-bianca/pedro-ximenez), [Räuschling](/vitigni/bacca-bianca/raushling) (Germania), [Sauvignonasse](/vitigni/Francia/bacca-bianca/sauvignonasse) (Cile e Argentina)
 
 ## Origini e Parentele
 
