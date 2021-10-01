@@ -1,5 +1,5 @@
 ---
-title: Barbagalli – Etna Rosso DOC – Pietradolce – Sicilia (IT) – 100🠒124€ – 3★ - 5★
+title: Barbagalli – Etna Rosso DOC – Pietradolce – Sicilia (IT) – 100🠒124€ – 3★-5★
 description: Nerello Mascalese 100% | Falsomagro siciliano – Filetto di fassona in crosta – Salsiccia condita e cavolicelli – Stinco al forno – Tuma persa
 published: true
 date: 2021-08-24T11:57:38.152Z

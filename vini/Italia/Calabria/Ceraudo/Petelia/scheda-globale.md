@@ -1,5 +1,5 @@
 ---
-title: Petelia – Val di Neto IGT – Ceraudo – Calabria (IT) – 10🠒14€ – 2★ - 5★
+title: Petelia – Val di Neto IGT – Ceraudo – Calabria (IT) – 10🠒14€ – 2★-5★
 description: Greco bianco 50% + Mantonico bianco 50% | Coda di rospo al forno – Involtini di cernia in pasta fillo
 published: true
 date: 2021-08-24T10:19:50.562Z

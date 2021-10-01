@@ -1,5 +1,5 @@
 ---
-title: Gemola – Colli Euganei DOC – Vignalta – Veneto (IT) – 35🠒39€ –  3★ - 5★
+title: Gemola – Colli Euganei DOC – Vignalta – Veneto (IT) – 35🠒39€ –  3★-5★
 description: Merlot 70% + Cabernet Franc 30% | Filetto di cinghiale in crosta con funghi – Faraona in salsa di mirtilli – Stufato di manzo – Filetto di bue al roquefort
 published: true
 date: 2021-08-24T11:16:44.400Z

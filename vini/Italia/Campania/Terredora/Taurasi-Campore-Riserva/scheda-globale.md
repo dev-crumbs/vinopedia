@@ -1,5 +1,5 @@
 ---
-title: Campore – Taurasi Riserva DOCG – Terredora – Campania (IT) – 35🠒39€ – 4★ - 5★
+title: Campore – Taurasi Riserva DOCG – Terredora – Campania (IT) – 35🠒39€ – 4★-5★
 description: Aglianico 100% | Brasato di manzo al cioccolato – Risotto gorgonzola noci e cacao
 published: true
 date: 2021-08-24T09:48:42.685Z

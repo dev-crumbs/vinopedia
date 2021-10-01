@@ -1,5 +1,5 @@
 ---
-title: Primo Riserva – Frascati Superiore Riserva DOCG – Merumalia – Lazio (IT) – 15🠒19€ – 3★ - 5★
+title: Primo Riserva – Frascati Superiore Riserva DOCG – Merumalia – Lazio (IT) – 15🠒19€ – 3★-5★
 description: Malvasia puntinata 70% + Greco 20% + Bombino bianco 10% | Cernia in salsa di pistacchi – Spaghetti tonno e bottarga – Tartare di ricciola con stracciatella di bufala – Salmone arrosto con asparagi e salsa olandese – Linguine asparagi e gamberi
 published: true
 date: 2021-10-01T17:57:36.596Z

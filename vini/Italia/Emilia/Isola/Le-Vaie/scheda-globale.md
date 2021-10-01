@@ -1,5 +1,5 @@
 ---
-title: Le Vaie – Colli Bolognesi DOC – Isola – Emilia (IT) – 10🠒14€ – 3★ - 4★
+title: Le Vaie – Colli Bolognesi DOC – Isola – Emilia (IT) – 10🠒14€ – 3★-4★
 description: Riesling 100% | Pollo alle mandorle e zenzero – Tortelloni di ricotta – Linguine vongole e canocchie
 published: true
 date: 2021-08-24T12:31:23.089Z

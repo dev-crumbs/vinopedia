@@ -1,5 +1,5 @@
 ---
-title: Habemus Etichetta Rossa – Lazio IGT – San Giovenale – Lazio (IT) – 80🠒89€ – 4★ - 5★
+title: Habemus Etichetta Rossa – Lazio IGT – San Giovenale – Lazio (IT) – 80🠒89€ – 4★-5★
 description: Cabernet Franc 100% | Cinghiale al ginepro – Costolette di agnello a scottadito – Goulash – Guancia di manzo brasata – Capretto alla brace
 published: true
 date: 2021-08-24T12:31:23.089Z

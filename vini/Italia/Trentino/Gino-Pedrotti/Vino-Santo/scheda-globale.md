@@ -1,5 +1,5 @@
 ---
-title: Vino Santo – Trentino DOC – Gino Pedrotti – Trentino (IT) – 35🠒39€ – 4★ - 5★
+title: Vino Santo – Trentino DOC – Gino Pedrotti – Trentino (IT) – 35🠒39€ – 4★-5★
 description: Nosiola 100% | Torta di fregoloti con mandorle – Tagliere di formaggi erborinati – Crostata di fichi neri
 published: true
 date: 2021-08-24T11:16:44.400Z

@@ -1,5 +1,5 @@
 ---
-title: Lu Patri – Sicilia DOC – Baglio del Cristo – Sicilia (IT) – 20🠒24€ – 4★ - 5★
+title: Lu Patri – Sicilia DOC – Baglio del Cristo – Sicilia (IT) – 20🠒24€ – 4★-5★
 description: Nero d'Avola 100% | Falsomagro al sugo – Petto d'anatra flambè – Lepre con castagne e mirtilli – Stracotto di manzo al ginepro – Polpettone alla siciliana
 published: true
 date: 2021-08-24T11:57:38.152Z

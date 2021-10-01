@@ -1,5 +1,5 @@
 ---
-title: Colle Forma – Cesanese del Piglio Superiore DOCG – Giovanni Terenzi – Lazio (IT) – 10🠒14€ – 2★ - 5★
+title: Colle Forma – Cesanese del Piglio Superiore DOCG – Giovanni Terenzi – Lazio (IT) – 10🠒14€ – 2★-5★
 description: Cesanese d'Affile 100% | Scamone al pepe nero – Spezzatino in umido
 published: true
 date: 2021-08-24T12:31:23.089Z

@@ -1,5 +1,5 @@
 ---
-title: Tannenberg – Alto Adige Terlano DOC – Manincor – Alto-Adige (IT) – 20🠒24€ – 2★ - 5★
+title: Tannenberg – Alto Adige Terlano DOC – Manincor – Alto-Adige (IT) – 20🠒24€ – 2★-5★
 description: Sauvignon Blanc 100% | Carpaccio di ricciola agli agrumi – Testina di vitello all'agro
 published: true
 date: 2021-08-24T09:41:19.364Z

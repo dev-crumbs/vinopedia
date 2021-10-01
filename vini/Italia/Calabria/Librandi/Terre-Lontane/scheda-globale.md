@@ -1,5 +1,5 @@
 ---
-title: Terre Lontane – Calabria IGT – Librandi – Calabria (IT) – 10🠒14€ – 2★ - 5★
+title: Terre Lontane – Calabria IGT – Librandi – Calabria (IT) – 10🠒14€ – 2★-5★
 description: Gaglioppo 70% + Cabernet franc 30% | Spaghetti al ragù di polpo – Pesce spada alla palermitana – Pasta zucca e ragusano
 published: true
 date: 2021-08-24T10:19:50.562Z

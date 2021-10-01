@@ -1,5 +1,5 @@
 ---
-title: Moscato d'Autunno – Piemonte DOC – Saracco – Piemonte (IT) – 10🠒14€ – 3★ - 5★
+title: Moscato d'Autunno – Piemonte DOC – Saracco – Piemonte (IT) – 10🠒14€ – 3★-5★
 description: Moscato bianco 100% | Fugascina di mergozzo – Tarte tatin pere e cannella – Paste di meliga – Torta nuziale alla crema chantilly – Zabaione e torta di nocciole
 published: true
 date: 2021-08-24T10:19:50.562Z

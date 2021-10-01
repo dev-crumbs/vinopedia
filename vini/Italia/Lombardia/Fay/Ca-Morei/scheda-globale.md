@@ -1,5 +1,5 @@
 ---
-title: Cà Moréi – Valtellina Superiore Valgella DOCG – Fay – Lombardia (IT) – 25🠒29€ – 3★ - 5★
+title: Cà Moréi – Valtellina Superiore Valgella DOCG – Fay – Lombardia (IT) – 25🠒29€ – 3★-5★
 description: Nebbiolo 100% | Brasato di manzo – Petto d'anatra con salsa all'aceto balsamico e mostarda – Risotto funghi e nocciole mantecato al casera – Fonduta di fontina – Crespelle funghi porcini e casera
 published: true
 date: 2021-08-24T12:31:23.089Z

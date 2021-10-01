@@ -1,5 +1,5 @@
 ---
-title: Pomédes – Friuli Colli Orientali DOC – Scubla – Friuli Venezia Giulia (IT) – 20🠒24€ – 4★ - 5★
+title: Pomédes – Friuli Colli Orientali DOC – Scubla – Friuli Venezia Giulia (IT) – 20🠒24€ – 4★-5★
 description: Pinot bianco 60% + Tocai Friulano 30% + Riesling renano 10% | Carpaccio di gamberi con burrata – Agnolotti di ricotta e tartufo – Gamberi al sale – Astice alla catalana – Gnocchi tartufo e noci
 published: true
 date: 2021-08-24T12:31:23.089Z

@@ -1,5 +1,5 @@
 ---
-title: Vajoscuro – Cesanese del Piglio Superiore DOCG – Giovanni Terenzi – Lazio (IT) – 10🠒14€ – 4★ - 5★
+title: Vajoscuro – Cesanese del Piglio Superiore DOCG – Giovanni Terenzi – Lazio (IT) – 10🠒14€ – 4★-5★
 description: Cesanese d'Affile 100% | Tagliata di cervo al ginepro – Quaglie con guanciale e tartufo – Sella di agnello in crosta – Fagiano tartufato – Pecorino di fossa
 published: true
 date: 2021-08-24T12:31:23.089Z

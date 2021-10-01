@@ -1,5 +1,5 @@
 ---
-title: Orfeo – Salento IGT – Paolo Leo – Puglia (IT) – 10🠒14€ – 4★ - 5★
+title: Orfeo – Salento IGT – Paolo Leo – Puglia (IT) – 10🠒14€ – 4★-5★
 description: Negroamaro 100% | Medaglioni di vitello su fonduta di pecorino – Tagliata con rosti di patate – Brasato di cervo ai mirtilli – Caserecce salsiccia funghi e caciocavallo – Filetto con castagne e salsa di prugne
 published: true
 date: 2021-08-24T11:31:23.089Z

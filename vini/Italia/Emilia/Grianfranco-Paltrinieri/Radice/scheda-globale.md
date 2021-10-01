@@ -1,5 +1,5 @@
 ---
-title: Lambrusco di Sorbara Radice – Lambrusco di Sorbara DOC – Gianfranco Paltrinieri – Emilia (IT) – 10🠒14€ – 3★ - 5★
+title: Lambrusco di Sorbara Radice – Lambrusco di Sorbara DOC – Gianfranco Paltrinieri – Emilia (IT) – 10🠒14€ – 3★-5★
 description: Lambrusco di Sorbara 100% | Lambrusco di sorbara – Maltagliati di farina di castagne – Gamberi lardellati – Catalana di crostacei
 published: true
 date: 2021-08-24T12:31:23.089Z

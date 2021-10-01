@@ -1,5 +1,5 @@
 ---
-title: Bardolino Chiaretto – Bardolino Chiaretto DOC – Giovanna Tantini – Veneto (IT) – 10🠒14€ – 2★ - 5★
+title: Bardolino Chiaretto – Bardolino Chiaretto DOC – Giovanna Tantini – Veneto (IT) – 10🠒14€ – 2★-5★
 description: Corvina 80% + Rondinella 15% + Molinara 5% | Tagliata di tonno grigliata – Tortelli di luccio al limone – Sformato di zucca con fonduta 
 published: true
 date: 2021-08-24T11:16:44.400Z

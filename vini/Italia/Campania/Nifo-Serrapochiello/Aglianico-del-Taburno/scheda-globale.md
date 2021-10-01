@@ -1,5 +1,5 @@
 ---
-title: Aglianico del Taburno – Aglianico del Taburno DOCG – Nifo Serrapochiello – Campania (IT) – 10🠒14€ – 2★ - 5★
+title: Aglianico del Taburno – Aglianico del Taburno DOCG – Nifo Serrapochiello – Campania (IT) – 10🠒14€ – 2★-5★
 description: Aglianico 100% | Carrè di agnello alle erbe aromatiche
 published: true
 date: 2021-08-24T09:48:42.685Z

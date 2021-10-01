@@ -1,5 +1,5 @@
 ---
-title: L'Apparita – Toscana IGT – Castello di Ama – Toscana (IT) – 150🠒199€ – 4★ - 5★
+title: L'Apparita – Toscana IGT – Castello di Ama – Toscana (IT) – 150🠒199€ – 4★-5★
 description: Merlot 100% | Pernice in salmì – Sella di cervo ai mirtilli – Petto d'anatra al tartufo nero – Anatra laccata alla pechinese
 published: true
 date: 2021-08-24T11:57:38.152Z

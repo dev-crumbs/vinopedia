@@ -1,5 +1,5 @@
 ---
-title: Monte Gorna Vecchie Viti – Etna Rosso Riserva DOC – Cantine Nicosia – Sicilia (IT) – 30🠒34€ – 3★ - 5★
+title: Monte Gorna Vecchie Viti – Etna Rosso Riserva DOC – Cantine Nicosia – Sicilia (IT) – 30🠒34€ – 3★-5★
 description: Nerello Mascalese 90% + Nerello Cappuccio 10% | Pollo alla zingara, Polenta con ragù di lepre – Capretto alla sarda – Agnello al timo con patate
 published: true
 date: 2021-08-24T11:57:38.152Z

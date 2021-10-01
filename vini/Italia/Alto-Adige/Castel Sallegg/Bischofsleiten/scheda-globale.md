@@ -1,5 +1,5 @@
 ---
-title: Bischofsleiten – Alto Adige DOC – Castel Sallegg – Alto Adige (IT) – 10🠒14€ – 3★ - 5★
+title: Bischofsleiten – Alto Adige DOC – Castel Sallegg – Alto Adige (IT) – 10🠒14€ – 3★-5★
 description: Schiava 100% | Filetto di vitello allo speck – Tartare con mela – Petto di pollo farcito – Costoletta alla milanese – Bucatini all'amatriciana
 published: true
 date: 2021-08-23T18:08:44.486Z

@@ -1,5 +1,5 @@
 ---
-title: Bonzarone – Colli Bolognesi DOC – Tenuta Bonzara – Emilia (IT) – 25🠒29€ – 4★ - 5★
+title: Bonzarone – Colli Bolognesi DOC – Tenuta Bonzara – Emilia (IT) – 25🠒29€ – 4★-5★
 description: Cabernet Sauvignon 100% | Brasato al vino – Pecorino sardo stagionato – Fiorentina alla brace – Black angus al tartufo – Petto d'anatra al forno
 published: true
 date: 2021-08-24T10:17:57.280Z

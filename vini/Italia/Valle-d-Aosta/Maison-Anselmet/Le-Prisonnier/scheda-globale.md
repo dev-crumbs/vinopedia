@@ -1,5 +1,5 @@
 ---
-title: Le Prisonnier – Vino generico – Maison Anselmet – Valle d'Aosta (IT) – 60🠒64€ – 3★ - 5★
+title: Le Prisonnier – Vino generico – Maison Anselmet – Valle d'Aosta (IT) – 60🠒64€ – 3★-5★
 description: Petit rouge 40% + Cornalin 35% + Fumin 20% + Mayolet 5% | Costolette di cervo – Stracotto di cervo – Coda alla vaccinara – Stinco di vitello al pepe – Costolette di cervo al ribes
 published: true
 date: 2021-08-24T11:16:44.400Z

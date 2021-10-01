@@ -1,5 +1,5 @@
 ---
-title: Eleano – Aglianico del Vulture Superiore DOCG – Eleano – Basilicata (IT) – 30🠒34€ – 4★ - 5★
+title: Eleano – Aglianico del Vulture Superiore DOCG – Eleano – Basilicata (IT) – 30🠒34€ – 4★-5★
 description: Aglianico 100% | Rolata di manzo farcita – Filetto al pepe verde – Lombata di maiale al tartufo – Brasato di manzo
 published: true
 date: 2021-08-24T09:41:19.364Z

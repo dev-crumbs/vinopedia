@@ -1,5 +1,5 @@
 ---
-title: Ronco delle Ginestre – Forlì IGT – Castelluccio – Romagna (IT) – 20🠒24€ – 2★ - 5★
+title: Ronco delle Ginestre – Forlì IGT – Castelluccio – Romagna (IT) – 20🠒24€ – 2★-5★
 description: Sangiovese 100% | Piccione con crema di melanzane – Petto di piccione – Medaglioni di maiale al miele e zenzero
 published: true
 date: 2021-08-24T12:31:23.089Z

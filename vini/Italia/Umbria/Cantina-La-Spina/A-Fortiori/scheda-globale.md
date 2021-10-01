@@ -1,5 +1,5 @@
 ---
-title: A Fortiori – Umbria IGT – Cantina La Spina – Umbria (IT) – 20🠒24€ – 4★ - 5★
+title: A Fortiori – Umbria IGT – Cantina La Spina – Umbria (IT) – 20🠒24€ – 4★-5★
 description: Nebbiolo 100% | Parmigiano reggiano 40 mesi – Spezzatino di cinghiale alla cacciatora – Guancia di vitello brasata
 published: true
 date: 2021-08-24T10:19:50.562Z

@@ -1,5 +1,5 @@
 ---
-title: Pinot Gris – Valle d'Aosta DOC – Lo Triolet – Valle d'Aosta (IT) – 15🠒19€ – 4★ - 5★
+title: Pinot Gris – Valle d'Aosta DOC – Lo Triolet – Valle d'Aosta (IT) – 15🠒19€ – 4★-5★
 description: Pinot grigio 100% | Spaghetti gamberi e zucchine – Risotto alla toma e timo – Baccalà con purè di sedano – Sella di capretto in crosta – Risotto ai gamberi
 published: true
 date: 2021-08-24T11:16:44.400Z

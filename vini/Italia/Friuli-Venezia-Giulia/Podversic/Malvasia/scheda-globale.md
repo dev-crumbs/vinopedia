@@ -1,5 +1,5 @@
 ---
-title: Malvasia – Venezia Giulia IGT – Podversic – Friuli Venezia Giulia (IT) – 35🠒39€ – 3★ - 5★
+title: Malvasia – Venezia Giulia IGT – Podversic – Friuli Venezia Giulia (IT) – 35🠒39€ – 3★-5★
 description: Malvasia istriana 100% | Coniglio al forno con albicocche – Suprema di faraona con salsa agli agrumi – Tortelli di zucca con salsa di noci – Gamberi in pasta kataifi al basilico
 published: true
 date: 2021-08-24T12:31:23.089Z

@@ -1,5 +1,5 @@
 ---
-title: Concerto – Reggiano DOC – Medici Ermete – Emilia (IT) – 5🠒9€ – 3★ - 5★
+title: Concerto – Reggiano DOC – Medici Ermete – Emilia (IT) – 5🠒9€ – 3★-5★
 description: Lambrusco Salamino 100% | Cotechino – Cannelloni – Coniglio in pancetta – Gallinella all'acqua pazza – Piadina con salsiccia
 published: true
 date: 2021-08-24T10:17:57.280Z

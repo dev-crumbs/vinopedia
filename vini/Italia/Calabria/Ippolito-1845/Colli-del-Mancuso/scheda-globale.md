@@ -1,5 +1,5 @@
 ---
-title: Colli del Mancuso – Cirò Classico Superiore Riserva DOC – Ippolito 1845 – Calabria (IT) – 10🠒14€ – 3★ - 5★
+title: Colli del Mancuso – Cirò Classico Superiore Riserva DOC – Ippolito 1845 – Calabria (IT) – 10🠒14€ – 3★-5★
 description: Gaglioppo 100% | Capretto in umido – Involtini di pecora al ragù 
 published: true
 date: 2021-08-24T10:19:50.562Z

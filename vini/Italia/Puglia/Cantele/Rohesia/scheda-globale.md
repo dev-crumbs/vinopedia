@@ -1,5 +1,5 @@
 ---
-title: Rohesia – Salento IGT – Cantele – Puglia (IT) – 10🠒14€ – 4★ - 5★
+title: Rohesia – Salento IGT – Cantele – Puglia (IT) – 10🠒14€ – 4★-5★
 description: Negroamaro 100% | Carpaccio di pesce spada marinato agli agrumi – Spaghetti con ragù di cicala e pomodorino giallo – Anelli di cipolla rossa fritti – Calamarata con pesto di fagiolini e ricotta – Spaghetti alla granseola
 published: true
 date: 2021-08-24T11:31:23.089Z

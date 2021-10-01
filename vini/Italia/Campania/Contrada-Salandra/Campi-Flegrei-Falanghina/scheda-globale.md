@@ -1,5 +1,5 @@
 ---
-title: Campi Flegrei Falanghina – Campi Flegrei DOC – Contrada Salandra – Campania (IT) – 10🠒14€ – 3★ - 5★
+title: Campi Flegrei Falanghina – Campi Flegrei DOC – Contrada Salandra – Campania (IT) – 10🠒14€ – 3★-5★
 description: Falanghina 100% | Orata con crema di cipollotti – Millefoglie di pesce bandiera – Pizza fiori di zucca ricotta e provola – Filetti di rombo e purè – Lampugna alla brace
 published: true
 date: 2021-08-24T09:48:42.685Z

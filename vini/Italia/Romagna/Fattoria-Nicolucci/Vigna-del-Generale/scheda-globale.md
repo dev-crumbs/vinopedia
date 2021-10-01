@@ -1,5 +1,5 @@
 ---
-title: Vigna del generale – Romagna Sangiovese Riserva DOC – Fattoria Nicolucci – Romagna (IT) – 30🠒34€ – 3★ - 5★
+title: Vigna del generale – Romagna Sangiovese Riserva DOC – Fattoria Nicolucci – Romagna (IT) – 30🠒34€ – 3★-5★
 description: Sangiovese 100% | Filetto di mora romagnola al pepe – bistecca alla fiorentina – Fricassea d'agnello con carciofi – Costine d'agnello alle erbe aromatiche – Entrecote al pepe
 published: true
 date: 2021-08-24T12:31:23.089Z

@@ -1,5 +1,5 @@
 ---
-title: Divina Villa Riserva – Colli del Trasimeno DOC – Duca della Corgna – Umbria (IT) – 10🠒14€ – 3★ - 5★
+title: Divina Villa Riserva – Colli del Trasimeno DOC – Duca della Corgna – Umbria (IT) – 10🠒14€ – 3★-5★
 description: Gamay 100% | Tagliata al rosmarino – Tordi allo spiedo – Filetto al tartufo – Costata di manzo – Spiedo di cacciagione
 published: true
 date: 2021-08-24T10:19:50.562Z

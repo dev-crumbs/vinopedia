@@ -1,5 +1,5 @@
 ---
-title: Abelos – Frascati Superiore DOCG – De Sanctis – Lazio (IT) – 10🠒14€ – 3★ - 5★
+title: Abelos – Frascati Superiore DOCG – De Sanctis – Lazio (IT) – 10🠒14€ – 3★-5★
 description: Malvasia puntinata 80% + Bombino bianco 20% | Spaghetti cozze vongole e pomodorini – Tonno con pesto di pistacchi e capperi – Zuppa di pesce alla marsigliese – Polpo patate e capperi – Timballo ai carciofi
 published: true
 date: 2021-08-24T12:31:23.089Z

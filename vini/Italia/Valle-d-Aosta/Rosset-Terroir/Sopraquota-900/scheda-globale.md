@@ -1,5 +1,5 @@
 ---
-title: Sopraquota 900 – Vino generico – Rosset Terroir – Valle d'Aosta (IT) – 35🠒39€ – 4★ - 5★
+title: Sopraquota 900 – Vino generico – Rosset Terroir – Valle d'Aosta (IT) – 35🠒39€ – 4★-5★
 description: Petite Arvine 100% | Crespelle alla valdostana – Lasagne bianche con verze patate e fonduta – Risotto asparagi e mazzancolle
 published: true
 date: 2021-08-24T11:16:44.400Z

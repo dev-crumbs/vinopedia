@@ -1,5 +1,5 @@
 ---
-title: Riecine di Riecine – Toscana IGT – Riecine – Toscana (IT) – 60🠒64€ – 3★ - 5★
+title: Riecine di Riecine – Toscana IGT – Riecine – Toscana (IT) – 60🠒64€ – 3★-5★
 description: Sangiovese 100% | Ravioli di lampredotto su vellutata di cipolla – Coniglio al melograno – Ravioli di anatra su fondo di scalogno e crema di pecorino – Coniglio alla cacciatora – Filetto di manzo ai porcini
 published: true
 date: 2021-08-24T11:57:38.152Z

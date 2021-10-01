@@ -1,5 +1,5 @@
 ---
-title: Antonio Argiolas 100 – Isola dei Nuraghi IGT – Argiolas – Sardegna (IT) – 25🠒29€ – 4★ - 5★
+title: Antonio Argiolas 100 – Isola dei Nuraghi IGT – Argiolas – Sardegna (IT) – 25🠒29€ – 4★-5★
 description: Cannonau 100% | Charlotte al cioccolato – Bavarese al cioccolato – Crostata di lamponi
 published: true
 date: 2021-08-24T11:16:44.400Z

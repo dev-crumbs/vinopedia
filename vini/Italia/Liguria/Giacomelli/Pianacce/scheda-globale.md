@@ -1,5 +1,5 @@
 ---
-title: Pianacce – Colli di Luni DOC – Giacomelli – Liguria (IT) – 15🠒19€ – 3★ - 5★
+title: Pianacce – Colli di Luni DOC – Giacomelli – Liguria (IT) – 15🠒19€ – 3★-5★
 description: Vermentino 100% | Sogliola alla mugnaia – Tagliolini al sugo di bianchetti – Tortino di acciughe e patate – Involtini di pesce spada con uvetta e pinoli
 published: true
 date: 2021-08-24T11:16:44.400Z

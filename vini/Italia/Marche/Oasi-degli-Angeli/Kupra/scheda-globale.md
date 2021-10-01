@@ -1,5 +1,5 @@
 ---
-title: Kupra – Marche IGT – Oasi degli Angeli – Marche (IT) – 200🠒249€ – 3★ - 5★
+title: Kupra – Marche IGT – Oasi degli Angeli – Marche (IT) – 200🠒249€ – 3★-5★
 description: Bordò 100% | Boeuf bourguignon – Capretto al forno con erbette – Pernice alla cacciatora – Filetto alla rossini – Pappardelle alla lepre
 published: true
 date: 2021-08-24T12:31:23.089Z

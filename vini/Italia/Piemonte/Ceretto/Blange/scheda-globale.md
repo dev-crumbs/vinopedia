@@ -1,5 +1,5 @@
 ---
-title: Blangé – Langhe DOC – Ceretto Piemonte (IT) – 15🠒19€ – 2★ - 3★
+title: Blangé – Langhe DOC – Ceretto Piemonte (IT) – 15🠒19€ – 2★-3★
 description: Arneis 100% 
 published: true
 date: 2021-08-24T10:19:50.562Z

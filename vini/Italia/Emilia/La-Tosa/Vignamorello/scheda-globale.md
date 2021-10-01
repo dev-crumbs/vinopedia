@@ -1,5 +1,5 @@
 ---
-title: Vignamorello – Gutturnio Superiore DOC – La Tosa – Emilia (IT) – 15🠒19€ – 3★ - 5★
+title: Vignamorello – Gutturnio Superiore DOC – La Tosa – Emilia (IT) – 15🠒19€ – 3★-5★
 description: Barbera 60% + Croatina 40% | Filetto di manzo al pepe nero – Arrosto di vitello ripieno – Bocconcini di cavallo al vino
 published: true
 date: 2021-08-24T12:31:23.089Z

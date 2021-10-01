@@ -1,5 +1,5 @@
 ---
-title: Frascati superiore – Frascati Superiore DOCG – Castel de Paolis – Lazio (IT) – 15🠒19€ – 3★ - 5★
+title: Frascati superiore – Frascati Superiore DOCG – Castel de Paolis – Lazio (IT) – 15🠒19€ – 3★-5★
 description: Malvasia puntinata 70% + Altre varietà 30% | Linguine all'astice – Tonnarelli cacio e pepe
 published: true
 date: 2021-08-24T12:31:23.089Z

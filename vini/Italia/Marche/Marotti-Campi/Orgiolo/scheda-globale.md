@@ -1,5 +1,5 @@
 ---
-title: Orgiolo – Lacrima di Morro DOC – Marotti Campi – Marche (IT) – 10🠒14€ – 3★ - 5★
+title: Orgiolo – Lacrima di Morro DOC – Marotti Campi – Marche (IT) – 10🠒14€ – 3★-5★
 description: Lacrima di Morro d'Alba 100% | Maltagliati al ragù di coniglio – Faraona ai frutti di bosco – Risotto con fragoline di bosco – Lumache al pomodoro e erbe aromatiche
 published: true
 date: 2021-08-24T12:31:23.089Z

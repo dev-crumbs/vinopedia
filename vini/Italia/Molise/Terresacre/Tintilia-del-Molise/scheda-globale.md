@@ -1,5 +1,5 @@
 ---
-title: Tintilia del Molise – Tintilia del Molise DOC – Terresacre – Molise (IT) – 20🠒24€ – 2★ - 5★
+title: Tintilia del Molise – Tintilia del Molise DOC – Terresacre – Molise (IT) – 20🠒24€ – 2★-5★
 description: Tintilia del Molise 100% | Carrè di maiale al forno – Hamburger di chianina con cipolle caramellate
 published: true
 date: 2021-08-24T12:31:23.089Z

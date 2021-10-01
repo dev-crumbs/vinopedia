@@ -1,5 +1,5 @@
 ---
-title: Nerobufaleffj – Terre Siciliane IGT – Gulfi – Sicilia (IT) – 30🠒34€ – 3★ - 5★
+title: Nerobufaleffj – Terre Siciliane IGT – Gulfi – Sicilia (IT) – 30🠒34€ – 3★-5★
 description: Nero d'Avola 100% | Filetto alla rossini – Carrè di agnello al forno – Ravioli ricotta e maggiorana con sugo di maiale
 published: true
 date: 2021-08-24T11:57:38.152Z

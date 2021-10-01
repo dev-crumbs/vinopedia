@@ -1,5 +1,5 @@
 ---
-title: Bricco delle Ciliegie – Roero DOCG – Giovanni Almondo – Piemonte (IT) – 20🠒24€ – 3★ - 5★
+title: Bricco delle Ciliegie – Roero DOCG – Giovanni Almondo – Piemonte (IT) – 20🠒24€ – 3★-5★
 description: Arneis 100% | Agghiotta di pesce spada – Risotto agli scampi – Coda di rospo brasata – Risotto con le tinche – Peperoni e bagna cauda – Vitello tonnato
 published: true
 date: 2021-08-24T10:19:50.562Z

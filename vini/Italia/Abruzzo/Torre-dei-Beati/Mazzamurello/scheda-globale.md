@@ -1,5 +1,5 @@
 ---
-title: Mazzamurello – Montepulciano d'Abruzzo DOC – Torre dei Beati – Abruzzo (IT) – 25🠒29€ – 4★ - 5★
+title: Mazzamurello – Montepulciano d'Abruzzo DOC – Torre dei Beati – Abruzzo (IT) – 25🠒29€ – 4★-5★
 description: Montepulciano 100% | Filetto di manzo in crosta con erbe aromatiche – Polenta con spuntature di maiale – Arista con patate – Filetto con riduzione al montepulciano – Agnello cacio e uova
 published: true
 date: 2021-08-24T12:31:23.089Z

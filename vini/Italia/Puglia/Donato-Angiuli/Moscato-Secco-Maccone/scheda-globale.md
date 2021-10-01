@@ -1,5 +1,5 @@
 ---
-title: Moscato secco Maccone – Puglia IGT – Donato Angiuli – Puglia (IT) – 15🠒19€ – 4★ - 5★
+title: Moscato secco Maccone – Puglia IGT – Donato Angiuli – Puglia (IT) – 15🠒19€ – 4★-5★
 description: Moscato bianco 100% | Filetto di ombrina – Tortelli di branzino – Aragosta alla catalana – Tortelli di ricotta con burro e salvia – Risotto ostriche ed erbe aromatiche
 published: true
 date: 2021-08-24T11:31:23.089Z
