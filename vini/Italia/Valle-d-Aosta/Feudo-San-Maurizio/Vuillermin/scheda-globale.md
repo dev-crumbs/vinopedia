@@ -1,6 +1,6 @@
 ---
-title: Vuillermin – Valle d'Aosta DOC – Feudo San Maurizio – Valle d'Aosta (IT) – 20🠒24€
-description: 3★ - 5★ | Vuillermin 100% | Rolata di camoscio in umido alle erbe – Lepre in salmì – Capriolo brasato – Spiedo di cervo
+title: Vuillermin – Valle d'Aosta DOC – Feudo San Maurizio – Valle d'Aosta (IT) – 20🠒24€ –  3★ - 5★
+description: Vuillermin 100% | Rolata di camoscio in umido alle erbe – Lepre in salmì – Capriolo brasato – Spiedo di cervo
 published: true
 date: 2021-08-24T11:16:44.400Z
 tags: vino, rosso, fermo, varietale, vuillermin, italia, valle d'aosta, rolata di camoscio in umido alle erbe, lepre in salmì, capriolo brasato, spiedo di cervo, 20🠒24€, 5 stelle

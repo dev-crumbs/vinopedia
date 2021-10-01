@@ -1,6 +1,6 @@
 ---
-title: Autoctono – Erbaluce di Caluso DOCG – Bruno Giacometti – Piemonte (IT) – 10🠒14€
-description: 3★ - 5★ | Erbaluce 100% | Maltagliati al ragù di gallinella – Gnocchi ricotta e ortica – Vitello tonnato – Trota alla mugnaia
+title: Autoctono – Erbaluce di Caluso DOCG – Bruno Giacometti – Piemonte (IT) – 10🠒14€ – 3★ - 5★
+description: Erbaluce 100% | Maltagliati al ragù di gallinella – Gnocchi ricotta e ortica – Vitello tonnato – Trota alla mugnaia
 published: true
 date: 2021-08-24T10:19:50.562Z
 tags: vino, bianco, fermo, varietale, erbaluce, italia, Piemonte, maltagliati al ragù di gallinella, gnocchi ricotta e ortica, vitello tonnato, trota alla mugnaia, 10🠒14€, 5 stelle

@@ -1,6 +1,6 @@
 ---
-title: Venissa Bianco – Veneto IGT – Venissa – Veneto (IT) – 175🠒199€
-description: 5★ | Dorona 100% | Baccalà mantecato
+title: Venissa Bianco – Veneto IGT – Venissa – Veneto (IT) – 175🠒199€ – 5★
+description: Dorona 100% | Baccalà mantecato
 published: true
 date: 2021-08-24T11:16:44.400Z
 tags: vino, bianco, fermo, varietale, dorona, italia, veneto, baccalà mantecato, 175🠒199€, 5 stelle

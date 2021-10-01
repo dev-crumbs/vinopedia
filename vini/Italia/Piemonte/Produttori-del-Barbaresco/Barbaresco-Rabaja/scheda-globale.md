@@ -1,6 +1,6 @@
 ---
-title: Barbaresco Riserva Rabajà – Barbaresco Rabajà Riserva DOCG – Produttori del Barbaresco – Piemonte (IT) – 45🠒49€
-description: 3★ - 5★ | Nebbiolo 100% | Fagiano in umido – Testun stagionato – spalla d'agnello
+title: Barbaresco Riserva Rabajà – Barbaresco Rabajà Riserva DOCG – Produttori del Barbaresco – Piemonte (IT) – 45🠒49€ – 3★ - 5★
+description: Nebbiolo 100% | Fagiano in umido – Testun stagionato – spalla d'agnello
 published: true
 date: 2021-08-24T10:19:50.562Z
 tags: vino, italia, rosso, varietale, nebbiolo, piemonte, fagiano in umido, testun stagionato, spalla d'agnello, 45🠒49€, 5 stelle

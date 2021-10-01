@@ -1,6 +1,6 @@
 ---
-title: Trebium – Spoleto DOC – Antonelli San Marco – Umbria (IT) – 10🠒14€
-description: 3★ - 5★ | Trebbiano Spoletino 90% + Procanico 10% | Paccheri guanciale e cipolla – Lasagne ai porcini – Tegamaccio al persico – Pappardelle gamberi e porcini – Rombo al forno con porcini
+title: Trebium – Spoleto DOC – Antonelli San Marco – Umbria (IT) – 10🠒14€ – 3★ - 5★
+description: Trebbiano Spoletino 90% + Procanico 10% | Paccheri guanciale e cipolla – Lasagne ai porcini – Tegamaccio al persico – Pappardelle gamberi e porcini – Rombo al forno con porcini
 published: true
 date: 2021-08-24T11:16:44.400Z
 tags: vino, bianco, fermo, varietale, Trebbiano Spoletino, italia, umbria, paccheri guanciale e cipolla, lasagne ai porcini, tegamaccio al persico, Pappardelle gamberi e porcini, Rombo al forno con porcini, 10🠒14€, 5 stelle

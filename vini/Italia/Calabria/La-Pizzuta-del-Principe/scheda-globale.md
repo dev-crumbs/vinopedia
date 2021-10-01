@@ -1,6 +1,6 @@
 ---
-title: Zingamaro – Val di Neto Rosso IGT – La Pizzuta del Principe – Calabria (IT) – 15🠒19€
-description: 3★ - 5★ | Greco nero 100% | filetto di maiale al miele – Filetto di manzo in crosta – Pasticcio di carne – Mezze maniche al ragù
+title: Zingamaro – Val di Neto Rosso IGT – La Pizzuta del Principe – Calabria (IT) – 15🠒19€ – 3★ - 5★
+description: Greco nero 100% | filetto di maiale al miele – Filetto di manzo in crosta – Pasticcio di carne – Mezze maniche al ragù
 published: true
 date: 2021-08-24T10:19:50.562Z
 tags: vino, rosso, fermo, varietale, greco nero, italia, calabria, filetto di maiale al miele, filetto di manzo in crosta, pasticcio di carne, mezze maniche al ragù, 15🠒19€, 5 stelle

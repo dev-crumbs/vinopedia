@@ -1,6 +1,6 @@
 ---
-title: Barolo – Barolo DOCG – Massimo Rivetti – Piemonte (IT) – 30🠒34€
-description: 3★ | Nebbiolo 100% | Carrè di vitello in crosta di senape
+title: Barolo – Barolo DOCG – Massimo Rivetti – Piemonte (IT) – 30🠒34€ – 3★
+description: Nebbiolo 100% | Carrè di vitello in crosta di senape
 published: true
 date: 2021-08-24T10:19:50.562Z
 tags: vino, italia, rosso, varietale, nebbiolo, piemonte, carre di vitello in crosta di senape, 30🠒34€, 3 stelle

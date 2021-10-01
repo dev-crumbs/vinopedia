@@ -1,6 +1,6 @@
 ---
-title: Vigna Le Cervare – Teroldego Rotaliano DOC – Luigi Zanini – Trentino (IT) – 10🠒14€
-description: 5★ | Teroldego 100% | Lepre alla cacciatora
+title: Vigna Le Cervare – Teroldego Rotaliano DOC – Luigi Zanini – Trentino (IT) – 10🠒14€ – 5★
+description: Teroldego 100% | Lepre alla cacciatora
 published: true
 date: 2021-08-24T11:16:44.400Z
 tags: vino, rosso, fermo, varietale, Teroldego, italia, trentino, lepre alla cacciatora, 10🠒14€, 5 stelle

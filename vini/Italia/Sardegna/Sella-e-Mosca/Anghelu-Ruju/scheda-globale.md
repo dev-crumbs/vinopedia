@@ -1,6 +1,6 @@
 ---
-title: Anghelu Ruju – Alghero Liquoroso Riserva DOC – Sella e Mosca – Sardegna (IT) – 25🠒29€
-description: 5★ | Cannonau 100% | Papassini di saba – Erborinato di pecora
+title: Anghelu Ruju – Alghero Liquoroso Riserva DOC – Sella e Mosca – Sardegna (IT) – 25🠒29€ – 5★
+description: Cannonau 100% | Papassini di saba – Erborinato di pecora
 published: true
 date: 2021-08-24T11:16:44.400Z
 tags: vino, rosso, liquoroso, varietale, cannonau, italia, sardegna, papassini di saba, erborinato di pecora, 25🠒29€, 5 stelle

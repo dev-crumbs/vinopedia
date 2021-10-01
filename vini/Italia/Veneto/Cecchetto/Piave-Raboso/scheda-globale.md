@@ -1,6 +1,6 @@
 ---
-title: Piave Raboso – Piave Raboso DOC – Cecchetto – Veneto (IT) – 10🠒14€
-description: 5★ | Raboso Piave 100% | Arista di maiale ai pistacchi – Asiago stravecchio – Castelmagno con mostarda
+title: Piave Raboso – Piave Raboso DOC – Cecchetto – Veneto (IT) – 10🠒14€ – 5★
+description: Raboso Piave 100% | Arista di maiale ai pistacchi – Asiago stravecchio – Castelmagno con mostarda
 published: true
 date: 2021-08-24T11:16:44.400Z
 tags: vino, rosso, fermo, varietale, Raboso Piave, italia, veneto, Arista di maiale ai pistacchi, Asiago stravecchio, 10🠒14€, Castelmagno con mostarda, 5 stelle

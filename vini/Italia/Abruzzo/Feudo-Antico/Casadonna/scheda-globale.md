@@ -1,6 +1,6 @@
 ---
-title: Casadonna – Terre aquilane IGT – Feudo Antico – Abruzzo (IT) – 40🠒44€
-description: 2★ - 5★ | Pecorino 100% | Linguine patate e ostriche – Farfalle zucchine e gamberetti – Crudité di mare – Filetto di sgombro alla brace
+title: Casadonna – Terre aquilane IGT – Feudo Antico – Abruzzo (IT) – 40🠒44€ – 2★ - 5★
+description: Pecorino 100% | Linguine patate e ostriche – Farfalle zucchine e gamberetti – Crudité di mare – Filetto di sgombro alla brace
 published: true
 date: 2021-08-24T12:31:23.089Z
 tags: vino, bianco, fermo, varietale, pecorino, italia, abruzzo, linguine patate e ostriche, farfalle zucchine e gamberetti, crudité di mare, filetto di sgombro alla brace, 40🠒44€, 5 stelle

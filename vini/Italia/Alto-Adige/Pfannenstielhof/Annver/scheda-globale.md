@@ -1,6 +1,6 @@
 ---
-title: Annver – Alto Adige Santa Maddalena Classico DOC – Pfannenstielhof – Alto-Adige (IT) – 15🠒19€
-description: 5★ | Schiava 95% + Lagrein 5% | Tacchino con carciofi e zucca – Scaloppine alla pizzaiola
+title: Annver – Alto Adige Santa Maddalena Classico DOC – Pfannenstielhof – Alto-Adige (IT) – 15🠒19€ – 5★
+description: Schiava 95% + Lagrein 5% | Tacchino con carciofi e zucca – Scaloppine alla pizzaiola
 published: true
 date: 2021-08-24T09:41:19.364Z
 tags: vino, rosso, fermo, blend, schiava, lagrein, italia, alto-adige, tacchino con carciofi e zucca, scaloppine alla pizzaiola, 15🠒19€, 5 stelle

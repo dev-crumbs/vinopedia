@@ -1,6 +1,6 @@
 ---
-title: Ormeasco di Pornassio Superiore – Pornassio DOC – Cascina Nirasca – Liguria (IT) – 15🠒19€
-description: 3★ - 5★ | Ormeasco 100% | Sella di agnello al forno – Piccione alla ghiotta – Colombacci bardati in casseruola – Camoscio in civet – Capriolo al forno
+title: Ormeasco di Pornassio Superiore – Pornassio DOC – Cascina Nirasca – Liguria (IT) – 15🠒19€ – 3★ - 5★
+description: Ormeasco 100% | Sella di agnello al forno – Piccione alla ghiotta – Colombacci bardati in casseruola – Camoscio in civet – Capriolo al forno
 published: true
 date: 2021-08-24T11:16:44.400Z
 tags: vino, rosso, fermo, varietale, Ormeasco, italia, liguria, Sella di agnello al forno, Piccione alla ghiotta, Colombacci bardati in casseruola, Camoscio in civet, Capriolo al forno, 15🠒19€, 5 stelle

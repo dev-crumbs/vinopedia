@@ -1,6 +1,6 @@
 ---
-title: A – Rubicone IGT – Villa Venti – Romagna (IT) – 20🠒24€
-description: 2★ - 5★ | Centesimino 100% | Petto d'anatra al forno con riduzione di visciole – Maccheroni cacio e pepe – Risotto ai funghi porcini
+title: A – Rubicone IGT – Villa Venti – Romagna (IT) – 20🠒24€ – 2★ - 5★
+description: Centesimino 100% | Petto d'anatra al forno con riduzione di visciole – Maccheroni cacio e pepe – Risotto ai funghi porcini
 published: true
 date: 2021-08-24T12:31:23.089Z
 tags: vino, rosso, orange wine, anfora, varietale, centesimino, italia, romagna, petto d'anatra al forno, maccheroni cacio e pepe, risotto ai funghi porcini, 20🠒24€, 5 stelle

@@ -1,6 +1,6 @@
 ---
-title: 50&50 – Toscana IGT – Capannelle – Toscana (IT) – 100🠒124€
-description: 5★ | 50% Merlot + 50% Sangiovese | Sella di coniglio con patate e carciofi – Filetto alla rossini
+title: 50&50 – Toscana IGT – Capannelle – Toscana (IT) – 100🠒124€ – 5★
+description: 50% Merlot + 50% Sangiovese | Sella di coniglio con patate e carciofi – Filetto alla rossini
 published: true
 date: 2021-08-24T11:57:38.152Z
 tags: vino, rosso, fermo, blend, merlot, sangiovese, italia, toscana, sella di coniglio con patate e carciofi, filetto alla rossini, 100🠒124€, 5 stelle

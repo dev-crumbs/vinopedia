@@ -1,6 +1,6 @@
 ---
-title: Martino Superiore Riserva – Aglianico del Vulture Superiore Riserva DOCG – Martino – Basilicata (IT) – 30🠒34€
-description: 5★ | Aglianico 100% | Stracotto d'asino – Noce di manzo alle spezie – Scamone di podolica con cicorie
+title: Martino Superiore Riserva – Aglianico del Vulture Superiore Riserva DOCG – Martino – Basilicata (IT) – 30🠒34€ – 5★
+description: Aglianico 100% | Stracotto d'asino – Noce di manzo alle spezie – Scamone di podolica con cicorie
 published: true
 date: 2021-09-04T16:03:53.242Z
 tags: vino, italia, rosso, basilicata, aglianico, varietale, fermo, 5 stelle, 30🠒34€, stracotto d'asino, noce di manzo alle spezie, scamone di podolica con cicorie

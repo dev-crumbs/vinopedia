@@ -1,6 +1,6 @@
 ---
-title: Etichetta Nera – Carema DOC – Ferrando – Piemonte (IT) – 45🠒49€
-description: 5★ | Nebbiolo 100% | Cappone ripieno – Costine di agnello alla brace – Filetto al pepe verde
+title: Etichetta Nera – Carema DOC – Ferrando – Piemonte (IT) – 45🠒49€ – 5★
+description: Nebbiolo 100% | Cappone ripieno – Costine di agnello alla brace – Filetto al pepe verde
 published: true
 date: 2021-08-24T10:19:50.562Z
 tags: vino, italia, rosso, varietale, didattico, nebbiolo, piemonte, cappone ripieno, costine di agnello alla brace, filetto al pepe verde, 45🠒49€, 5 stelle

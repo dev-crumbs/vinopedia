@@ -1,6 +1,6 @@
 ---
-title: A Fortiori – Umbria IGT – Cantina La Spina – Umbria (IT) – 20🠒24€
-description: 4★ - 5★ | Nebbiolo 100% | Parmigiano reggiano 40 mesi – Spezzatino di cinghiale alla cacciatora – Guancia di vitello brasata
+title: A Fortiori – Umbria IGT – Cantina La Spina – Umbria (IT) – 20🠒24€ – 4★ - 5★
+description: Nebbiolo 100% | Parmigiano reggiano 40 mesi – Spezzatino di cinghiale alla cacciatora – Guancia di vitello brasata
 published: true
 date: 2021-08-24T10:19:50.562Z
 tags: vino, italia, rosso, varietale, nebbiolo, umbria, parmigiano reggiano 40 mesi, spezzatino di cinghiale alla cacciatora, guancia di vitello brasata, 20🠒24€, 5 stelle

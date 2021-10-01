@@ -1,6 +1,6 @@
 ---
-title: Rutilia – Tintilia del Molise DOC – Cantine Salvatore – Molise (IT) – 15🠒19€
-description: 4★ - 5★ | Tintilia del Molise 100% | Cotechino al sugo – Cotechino in crosta – Quaglie guanciale e tartufo – Formaggi stagionati
+title: Rutilia – Tintilia del Molise DOC – Cantine Salvatore – Molise (IT) – 15🠒19€ – 4★ - 5★
+description: Tintilia del Molise 100% | Cotechino al sugo – Cotechino in crosta – Quaglie guanciale e tartufo – Formaggi stagionati
 published: true
 date: 2021-08-24T12:31:23.089Z
 tags: vino, rosso, fermo, varietale, tintilia, italia, molise, cotechino al sugo, cotechino in crosta, quaglie guanciale e tartufo, formaggi stagionati, 15🠒19€, 5 stelle

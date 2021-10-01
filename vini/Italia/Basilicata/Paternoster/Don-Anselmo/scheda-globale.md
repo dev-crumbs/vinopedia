@@ -1,6 +1,6 @@
 ---
-title: Don Anselmo – Aglianico del Vulture DOC – Paternoster – Basilicata (IT) – 35🠒39€
-description: 4★ - 5★ | Aglianico del vulture 100% | Pappardelle al ragù di cinchiale – Filetto di podolica al tartufo – Spalla d'agnello al forno – Sella di cervo
+title: Don Anselmo – Aglianico del Vulture DOC – Paternoster – Basilicata (IT) – 35🠒39€ – 4★ - 5★
+description: Aglianico del vulture 100% | Pappardelle al ragù di cinchiale – Filetto di podolica al tartufo – Spalla d'agnello al forno – Sella di cervo
 published: true
 date: 2021-09-04T16:03:53.242Z
 tags: vino, italia, rosso, fermo, varietale, basilicata, aglianico del vulture, pappardelle al ragù di cinchiale, filetto di podolica al tartufo, spalla d'agnello al forno, sella di cervo, 5 stelle, 35🠒39€

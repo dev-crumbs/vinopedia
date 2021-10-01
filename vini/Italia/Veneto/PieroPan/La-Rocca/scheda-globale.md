@@ -1,6 +1,6 @@
 ---
-title: La Rocca – Soave Classico DOC – Pieropan – Veneto (IT) – 25🠒29€
-description: 5★ | Garganega 100% | Ricciola con crema di fave – Pappardelle ai funghi porcini – Risotto al tartufo nero – Carpaccio di gamberi – Fantasia di crostacei crudi
+title: La Rocca – Soave Classico DOC – Pieropan – Veneto (IT) – 25🠒29€ – 5★
+description: Garganega 100% | Ricciola con crema di fave – Pappardelle ai funghi porcini – Risotto al tartufo nero – Carpaccio di gamberi – Fantasia di crostacei crudi
 published: true
 date: 2021-08-24T11:16:44.400Z
 tags: vino, bianco, fermo, varietale, garganega, italia, veneto, ricciola con crema di fave, pappardelle ai funghi porcini, risotto al tartufo nero, carpaccio di gamberi, fantasia di crostacei crudi, 25🠒29€, 5 stelle

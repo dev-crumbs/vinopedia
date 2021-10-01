@@ -1,6 +1,6 @@
 ---
-title: Poggio alle Mura Riserva – Brunello di Montalcino DOCG – Banfi – Toscana (IT) – 65🠒69€ 
-description: 5★ | Sangiovese 100% | Filetti di fagianella
+title: Poggio alle Mura Riserva – Brunello di Montalcino DOCG – Banfi – Toscana (IT) – 65🠒69€ – 5★
+description: Sangiovese 100% | Filetti di fagianella
 published: true
 date: 2021-08-24T11:57:38.152Z
 tags: vino, rosso, fermo, varietale, sangiovese, italia, toscana, filetti di fagianella, 65🠒69€, 5 stelle

@@ -1,6 +1,6 @@
 ---
-title: Five Roses Anniversario – Salento IGT – Leone De Castris – Puglia (IT) – 10🠒14€
-description: 5★ | Negroamaro 80% + Malvasia nera di Lecce 20% | Gnocchi di patate al dentice – Filetti di triglia – Troccoli zucchine e gamberi – Cannolo con spuma di mortadella e pistacchio – Carpaccio di ricciola
+title: Five Roses Anniversario – Salento IGT – Leone De Castris – Puglia (IT) – 10🠒14€ – 5★
+description: Negroamaro 80% + Malvasia nera di Lecce 20% | Gnocchi di patate al dentice – Filetti di triglia – Troccoli zucchine e gamberi – Cannolo con spuma di mortadella e pistacchio – Carpaccio di ricciola
 published: true
 date: 2021-08-24T11:31:23.089Z
 tags: vino, rosato, fermo, blend, Negroamaro, malvasia nera di lecce, italia, puglia, gnocchi di patate al dentice, Filetti di triglia, Troccoli zucchine e gamberi, Cannolo con spuma di mortadella e pistacchio, Carpaccio di ricciola, 10🠒14€, 5 stelle

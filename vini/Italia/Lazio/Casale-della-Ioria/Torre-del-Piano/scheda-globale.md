@@ -1,6 +1,6 @@
 ---
-title: Torre del Piano – Cesanese del Piglio Superiore Riserva DOCG – Casale della Ioria – Lazio (IT) – 20🠒24€
-description: 4★ - 5★ | Cesanese d'Affile 100% | Entrocote ai funghi porcini – Fiorentina alla brace – Spalla arrosto con coratella – Garofolato di veroli
+title: Torre del Piano – Cesanese del Piglio Superiore Riserva DOCG – Casale della Ioria – Lazio (IT) – 20🠒24€ – 4★ - 5★
+description: Cesanese d'Affile 100% | Entrocote ai funghi porcini – Fiorentina alla brace – Spalla arrosto con coratella – Garofolato di veroli
 published: true
 date: 2021-08-24T12:31:23.089Z
 tags: vino, rosso, fermo, varietale, cesanese d'affile, italia, lazio, entrocote ai funghi porcini, abbuoto, fiorentina alla brace, spalla arrosto con coratella, garofolato di veroli, 20🠒24€, 5 stelle

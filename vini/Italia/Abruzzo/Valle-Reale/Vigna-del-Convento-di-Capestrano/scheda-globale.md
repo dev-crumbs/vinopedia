@@ -1,6 +1,6 @@
 ---
-title: Vigna del Convento di Capestrano – Trebbiano d'Abruzzo DOC – Valle Reale – Abruzzo (IT) – 35🠒39€
-description: 5★ | Trebbiano d'Abruzzo 100% | Rombo ai ferri – San pietro al forno con olive taggiasche
+title: Vigna del Convento di Capestrano – Trebbiano d'Abruzzo DOC – Valle Reale – Abruzzo (IT) – 35🠒39€ – 5★
+description: Trebbiano d'Abruzzo 100% | Rombo ai ferri – San pietro al forno con olive taggiasche
 published: true
 date: 2021-09-04T13:09:32.172Z
 tags: vino, bianco, italia, varietale, abruzzo, fermo, 5 stelle, 35🠒39€, trebbiano d'abruzzo, rombo ai ferri, san pietro al forno con olive taggiasche

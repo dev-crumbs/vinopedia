@@ -1,6 +1,6 @@
 ---
-title: Bolgheri Rosso – Bolgheri DOC – Le Macchiole – Toscana (IT) – 20🠒24€
-description: 2★ - 3★ | Merlot + Cabernet franc + Cabernet Sauvignon + Syrah | Tagliatelle al ragù – Guancia di cinghiale in umido
+title: Bolgheri Rosso – Bolgheri DOC – Le Macchiole – Toscana (IT) – 20🠒24€ – 2★ - 3★
+description: Merlot + Cabernet franc + Cabernet Sauvignon + Syrah | Tagliatelle al ragù – Guancia di cinghiale in umido
 published: true
 date: 2021-08-24T11:57:38.152Z
 tags: vino, rosso, fermo, blend, merlot, cabernet franc, cabernet franc, syrah, italia, toscana, tagliatelle al ragù, guancia di cinghiale in umido, 20🠒24€, 3 stelle
