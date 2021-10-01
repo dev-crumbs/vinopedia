@@ -1,9 +1,9 @@
 ---
-title: Dante Marramiero – Montepulciano d'Abruzzo DOC – Marramiero – Abruzzo (IT) – 125 - 250 €
+title: Dante Marramiero – Montepulciano d'Abruzzo DOC – Marramiero – Abruzzo (IT) – 125🠒250€
 description: 5★ | Montepulciano 100% | Cinghiale in umido – Polenta con salsicce – Stracotto di manzo
 published: true
 date: 2021-08-24T12:31:23.089Z
-tags: vino, rosso, fermo, varietale, montepulciano, italia, abruzzo, cinghiale in umido, polenta con salsicce, stracotto di manzo, 125 - 250 €, 5 stelle
+tags: vino, rosso, fermo, varietale, montepulciano, italia, abruzzo, cinghiale in umido, polenta con salsicce, stracotto di manzo, 125🠒250€, 5 stelle
 editor: markdown
 dateCreated: 2021-08-24T11:31:20.502Z
 ---
@@ -18,7 +18,7 @@ dateCreated: 2021-08-24T11:31:20.502Z
 - **Composizione:** 100% [Montepulciano](/vitigni/Italia/bacca-nera/montepulciano)
 - **Affinamento:** 24 mesi in barrique + 6 anni in bottiglia
 - **Alcol:** 14.5%
-- **Fascia di prezzo:** 125 - 150 €
+- **Fascia di prezzo:** 125🠒150€
 {.grid-list}
 
 ## Descrizione del produttore
