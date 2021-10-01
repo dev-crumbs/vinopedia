@@ -1,6 +1,6 @@
 ---
 title: Moscato d'Autunno – Piemonte DOC – Saracco – Piemonte (IT) – 10🠒14€
-description: 5★ | Moscato bianco 100% | Fugascina di mergozzo – Tarte tatin pere e cannella – Paste di meliga – Torta nuziale alla crema chantilly – Zabaione e torta di nocciole
+description: 3★ - 5★ | Moscato bianco 100% | Fugascina di mergozzo – Tarte tatin pere e cannella – Paste di meliga – Torta nuziale alla crema chantilly – Zabaione e torta di nocciole
 published: true
 date: 2021-08-24T10:19:50.562Z
 tags: vino, bianco, frizzante, dolce, varietale, moscato bianco, italia, piemonte, fugascina di mergozzo, tarte tatin pere e cannella, paste di meliga, torta nuziale alla crema chantilly, zabaione e torta di nocciole, 10🠒14€, 5 stelle
@@ -37,8 +37,8 @@ dateCreated: 2021-08-23T12:22:31.894Z
 
 ## Annate
 
-- Moscato d'Autunno [2015](vini/Italia/Piemonte/Saracco/Moscato-d-Autunno/2015) -- <span class="star-3"></span>  -- 94/100
-- Moscato d'Autunno [2016](vini/Italia/Piemonte/Saracco/Moscato-d-Autunno/2016) -- <span class="star-4"></span>  -- 93/100  
+- Moscato d'Autunno [2015](vini/Italia/Piemonte/Saracco/Moscato-d-Autunno/2015) -- <span class="star-3"></span>  -- 88/100
+- Moscato d'Autunno [2016](vini/Italia/Piemonte/Saracco/Moscato-d-Autunno/2016) -- <span class="star-4"></span>  -- 90/100  
 - Moscato d'Autunno [2017](vini/Italia/Piemonte/Saracco/Moscato-d-Autunno/2017) -- <span class="star-5"></span>  -- 95/100
 - Moscato d'Autunno [2018](vini/Italia/Piemonte/Saracco/Moscato-d-Autunno/2018) -- <span class="star-5"></span>  -- 94/100
-- Moscato d'Autunno [2019](vini/Italia/Piemonte/Saracco/Moscato-d-Autunno/2019) -- <span class="star-4"></span>  -- 94/100
+- Moscato d'Autunno [2019](vini/Italia/Piemonte/Saracco/Moscato-d-Autunno/2019) -- <span class="star-4"></span>  -- 90/100
