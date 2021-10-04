@@ -1,6 +1,6 @@
 ---
 title: Il Poggio – Chianti Classico Gran Selezione Riserva DOCG – Castello Monsanto – Toscana (IT) – 55🠒59€ – 4★-5★
-description: Sangiovese 90% + Canaiolo 5% + Colorino 5% | bistecchine di cinghiale alla griglia – Matuffi al ragù di cinghiale – Fiorentina alla brace, arista con prugne – Tagliata al tartufo
+description: Sangiovese 90% + Canaiolo 5% + Colorino 5% | bistecchine di cinghiale alla griglia – Matuffi al ragù di cinghiale – Fiorentina alla brace – arista con prugne – Tagliata al tartufo
 published: true
 date: 2021-08-24T11:57:38.152Z
 tags: vino, rosso, fermo, blend, sangiovese, canaiolo, colorino, italia, toscana, bistecchine di cinghiale alla griglia, matuffi al ragù di cinghiale, fiorentina alla brace, arista con prugne, tagliata al tartufo, 55🠒59€, 5 stelle
@@ -15,7 +15,7 @@ dateCreated: 2021-08-24T11:55:59.971Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Chianti Classico DOCG](/denominazioni/Italia/Toscana/DOCG/Chianti-Classico) (Gran selezione, Riserva)
 - **Produttore:** [Castello Monsanto](/produttori/Italia/Toscana/Castello-Monsanto) 
-- **Composizione:** 100% [Sangiovese](/vitigni/Italia/bacca-nera/sangiovese) + 3% [Canaiolo](/vitigni/Italia/bacca-nera/canaiolo) + 2% [Colorino](/vitigni/Italia/bacca-nera/colorino)[^1] 
+- **Composizione:** 90% [Sangiovese](/vitigni/Italia/bacca-nera/sangiovese) + 5% [Canaiolo](/vitigni/Italia/bacca-nera/canaiolo) + 5% [Colorino](/vitigni/Italia/bacca-nera/colorino)[^1] 
 - **Affinamento:** 18 mesi in botti di rovere + 24 mesi in bottiglia
 - **Alcol:** 14%
 - **Fascia di prezzo:** 55🠒59€

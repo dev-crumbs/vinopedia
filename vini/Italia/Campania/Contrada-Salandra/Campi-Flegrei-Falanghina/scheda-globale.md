@@ -13,9 +13,9 @@ dateCreated: 2021-08-11T15:27:13.077Z
 ## Caratteristiche
 - **Nome:** Campi Flegrei Falanghina
 - **Tipologia:** Bianco fermo 
-- **Denominazione:** [Campi Flegrei DOC](/denominazioni/Italia/Campania/DOC/Campi Flegrei) (Riserva) 
+- **Denominazione:** [Campi Flegrei DOC](/denominazioni/Italia/Campania/DOC/Campi-Flegrei) (Riserva) 
 - **Produttore:** [Contrada Salandra](/produttori/Italia/Campania/Contrada Salandra) 
-- **Composizione:** 100% [Falanghina](/vitigni/Italia/bacca-nera/Falanghina)
+- **Composizione:** 100% [Falanghina](/vitigni/Italia/bacca-bianca/Falanghina)
 - **Affinamento:** 9 mesi in acciaio + 12 mesi in bottiglia
 - **Alcol:** 13%
 - **Fascia di prezzo:** 10🠒14€
