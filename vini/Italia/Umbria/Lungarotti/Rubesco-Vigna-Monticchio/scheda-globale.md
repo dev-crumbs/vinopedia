@@ -1,11 +1,11 @@
 ---
 title: Rubesco Vigna Monticchio – Torgiano Rosso Riserva DOCG – Lungarotti – Umbria (IT) – 30🠒34€ – 5★
-description: Sangiovese 100% | Cinghiale di dolceforte – Scamorza al coccio con guanciale croccante affumicato – Filetto alla rossini – Piccione ripieno su polenta – Carrè di maialino con cipolla 
+description: Sangiovese 100% | Cinghiale di dolceforte – Scamorza al coccio con guanciale croccante affumicato – Filetto alla rossini – Piccione ripieno su polenta – Carrè di maialino con cipolla
 published: true
-date: 2021-08-24T11:16:44.400Z
-tags: vino, rosso, fermo, varietale, Sangiovese, italia, umbria, cinghiale di dolceforte, scamorza al coccio con guanciale croccante affumicato, filetto alla rossini, piccione ripieno su polenta, carrè di maialino con cipolla, 30🠒34€, 5 stelle
+date: 2021-10-01T20:01:45.921Z
+tags: vino, italia, rosso, umbria, varietale, sangiovese, fermo, 5 stelle, filetto alla rossini, cinghiale di dolceforte, scamorza al coccio con guanciale croccante affumicato, piccione ripieno su polenta, carrè di maialino con cipolla, 30🠒34€
 editor: markdown
-dateCreated: 2021-08-24T11:16:41.742Z
+dateCreated: 2021-09-18T16:29:59.606Z
 ---
 
 # Rubesco Vigna Monticchio

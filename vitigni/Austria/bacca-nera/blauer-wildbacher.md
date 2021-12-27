@@ -2,10 +2,10 @@
 title: Blauer Wildbacher
 description: Varietà in declino tipica del sud-est della Francia. Produce vini spiccatamente tannici
 published: true
-date: 2021-08-22T16:26:47.996Z
+date: 2021-09-06T15:07:09.995Z
 tags: vitigno, bacca nera
 editor: markdown
-dateCreated: 2021-08-22T16:26:45.303Z
+dateCreated: 2021-09-06T09:34:43.962Z
 ---
 
 # Blauer Wildbacher

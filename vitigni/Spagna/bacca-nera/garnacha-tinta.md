@@ -2,10 +2,10 @@
 title: Garnacha Tinta
 description: Vitigno molto diffuso e longevo che produce rossi robusti e dolci e alcuni rosati di successo.
 published: true
-date: 2021-08-21T07:01:21.442Z
+date: 2021-09-26T14:54:31.487Z
 tags: vitigno, bacca nera, italia, francia, spagna, sardegna
 editor: markdown
-dateCreated: 2021-08-13T07:29:00.336Z
+dateCreated: 2021-09-06T09:47:08.578Z
 ---
 
 # Garnacha Tinta

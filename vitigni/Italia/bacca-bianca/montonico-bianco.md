@@ -2,7 +2,7 @@
 title: Montonico bianco
 description: Bianco minore dell'Italia meridionale usato principalmente in blend
 published: true
-date: 2021-09-08T09:40:37.600Z
+date: 2021-09-08T09:46:35.837Z
 tags: vitigno, bacca bianca
 editor: markdown
 dateCreated: 2021-09-08T09:40:37.600Z

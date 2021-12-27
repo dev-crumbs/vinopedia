@@ -2,10 +2,10 @@
 title: Timorasso
 description: Raro Piemontese di alta qualità recentemente oggetto di rinnovata popolarità.
 published: true
-date: 2021-08-10T11:36:07.518Z
+date: 2021-09-24T12:43:15.783Z
 tags: vitigno, bacca bianca
 editor: markdown
-dateCreated: 2021-08-10T09:29:32.725Z
+dateCreated: 2021-09-24T12:43:13.029Z
 ---
 
 # Timorasso

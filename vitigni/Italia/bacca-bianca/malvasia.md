@@ -2,10 +2,10 @@
 title: Malvasia
 description: Nome generico di un'ampia classe di vitigni non necessariamente imparentati
 published: true
-date: 2021-08-19T09:43:15.556Z
+date: 2021-09-06T16:16:47.482Z
 tags: vitigno, bacca nera, bacca bianca
 editor: markdown
-dateCreated: 2021-08-10T11:36:03.726Z
+dateCreated: 2021-09-06T09:39:50.500Z
 ---
 
 # Malvasia

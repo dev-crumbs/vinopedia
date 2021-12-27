@@ -2,7 +2,7 @@
 title: Cesanese d'Affile
 description: "Cesanese" d'Affile è un sinonimo.
 published: true
-date: 2021-09-06T15:21:58.663Z
+date: 2021-09-06T15:22:01.288Z
 tags: vitigno, sinonimo, bacca nera
 editor: markdown
 dateCreated: 2021-09-06T15:21:58.663Z

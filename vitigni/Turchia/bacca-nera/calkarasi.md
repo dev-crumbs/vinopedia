@@ -2,10 +2,10 @@
 title: Çalkarasi
 description: Produce vini rossi e rosati leggeri e freschi nel sud-ovest della Turchia.
 published: true
-date: 2021-08-10T14:22:39.270Z
+date: 2021-09-06T09:47:36.691Z
 tags: vitigno, bacca nera
 editor: markdown
-dateCreated: 2021-08-10T14:05:42.379Z
+dateCreated: 2021-09-06T09:47:33.836Z
 ---
 
 # Çalkarasi

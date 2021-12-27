@@ -2,10 +2,10 @@
 title: Garnacha Blanca
 description: Mutazione bianca della Garnacha, produce bianchi corposi.
 published: true
-date: 2021-08-15T13:13:39.893Z
+date: 2021-09-26T14:54:23.089Z
 tags: vitigno, bacca bianca
 editor: markdown
-dateCreated: 2021-08-13T07:50:49.341Z
+dateCreated: 2021-09-06T09:46:41.998Z
 ---
 
 # Garnacha Blanca

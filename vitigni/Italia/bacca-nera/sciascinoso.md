@@ -1,11 +1,11 @@
 ---
-title:  Sciascinoso
+title: Sciascinoso
 description: Raro vitigno campano che produce rossi chiari
 published: true
-date: 2021-08-22T19:38:23.265Z
+date: 2021-09-06T14:53:29.022Z
 tags: vitigno, bacca nera
 editor: markdown
-dateCreated: 2021-08-22T18:45:28.040Z
+dateCreated: 2021-09-06T09:46:14.678Z
 ---
 
 # Sciascinoso
@@ -37,7 +37,7 @@ Livella d'Ischia, Livella di Mirabella
 
 ## Diffusione geografica
 
-Lo Sciascinoso è coltivato in tutta la Campania, Italia, principalmente nelle province di Avellino, Benevento e Salerno, ma si trova anche nella provincia di Caserta e più a nord nella provincia di Frosinone nel Lazio. I vini varietali sono autorizzati nelle DOC Irpinia e Sannio e può far parte della miscela, spesso con [Piedirosso](/vitigni/bacca-nera/piedirosso) o [Aglianico](/vitigni/Italia/bacca-nera/aglianico), in diverse altre come Costa d'Amalfi, Penisola Sorrentina e Vesuvio. Le piantagioni italiane totali nel 2000 erano 169 ha (418 acri).
+Lo Sciascinoso è coltivato in tutta la Campania, Italia, principalmente nelle province di Avellino, Benevento e Salerno, ma si trova anche nella provincia di Caserta e più a nord nella provincia di Frosinone nel Lazio. I vini varietali sono autorizzati nelle DOC Irpinia e Sannio e può far parte della miscela, spesso con [Piedirosso](/vitigni/bacca-nera/piedirosso) o [Aglianico](/vitigni/bacca-nera/aglianico), in diverse altre come Costa d'Amalfi, Penisola Sorrentina e Vesuvio. Le piantagioni italiane totali nel 2000 erano 169 ha (418 acri).
 
 ## Caratteristiche enologiche
 

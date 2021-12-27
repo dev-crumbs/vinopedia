@@ -2,10 +2,10 @@
 title: Addoraca
 description: Bianco calabrese estremamente raro che contribuisce ad un altrettanto raro vino da dessert.
 published: true
-date: 2021-08-18T15:38:58.465Z
+date: 2021-09-06T14:48:35.985Z
 tags: vitigno, bacca bianca
 editor: markdown
-dateCreated: 2021-08-10T15:48:59.107Z
+dateCreated: 2021-09-06T09:38:31.385Z
 ---
 
 # Addoraca

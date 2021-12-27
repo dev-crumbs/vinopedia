@@ -2,10 +2,10 @@
 title: Greco Nero Di Verbicaro
 description: Un altro distinto Greco Nero calabrese
 published: true
-date: 2021-08-19T12:44:45.729Z
+date: 2021-09-06T14:51:31.361Z
 tags: vitigno, bacca nera
 editor: markdown
-dateCreated: 2021-08-19T12:43:12.842Z
+dateCreated: 2021-09-06T09:43:15.108Z
 ---
 
 # Greco nero di Verbicaro

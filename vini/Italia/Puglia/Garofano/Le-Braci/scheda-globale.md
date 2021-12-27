@@ -2,10 +2,10 @@
 title: Le Braci – Salento IGT – Garofano – Puglia (IT) – 40🠒44€ – 5★
 description: Negroamaro 100% | Formaggio di fossa – Lepre in salmì – Pecorino di fossa
 published: true
-date: 2021-08-24T11:31:23.089Z
-tags: vino, rosso, fermo, varietale, Negroamaro, italia, puglia, formaggio di fossa, lepre in salmì, pecorino di fossa, 40🠒44€, 5 stelle
+date: 2021-10-01T19:59:44.055Z
+tags: vino, italia, rosso, puglia, varietale, lepre in salmì, fermo, 5 stelle, negroamaro, formaggio di fossa, pecorino di fossa, 40🠒44€
 editor: markdown
-dateCreated: 2021-08-24T11:31:20.502Z
+dateCreated: 2021-08-31T15:46:29.258Z
 ---
 
 # Le Braci

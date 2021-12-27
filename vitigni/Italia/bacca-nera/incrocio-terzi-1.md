@@ -2,10 +2,10 @@
 title: Incrocio Terzi 1
 description: Incrocio lombardo minore che scompare nei blend
 published: true
-date: 2021-08-21T06:00:26.430Z
+date: 2021-09-06T09:43:30.773Z
 tags: vitigno, bacca nera
 editor: markdown
-dateCreated: 2021-08-21T06:00:23.846Z
+dateCreated: 2021-09-06T09:43:27.033Z
 ---
 
 # Incrocio Terzi 1

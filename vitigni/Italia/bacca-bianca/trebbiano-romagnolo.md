@@ -2,10 +2,10 @@
 title: Trebbiano romagnolo
 description: Il Trebbiano emiliano-romagnolo ampiamente coltivato ma non particolarmente distinto.
 published: true
-date: 2021-08-21T16:52:11.801Z
+date: 2021-09-06T14:49:56.171Z
 tags: vitigno, bacca bianca
 editor: markdown
-dateCreated: 2021-08-21T14:36:02.779Z
+dateCreated: 2021-09-06T09:40:41.301Z
 ---
 
 # Trebbiano romagnolo

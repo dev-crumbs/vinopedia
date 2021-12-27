@@ -2,10 +2,10 @@
 title: Maria Grazia – Langhe DOC – Carlo Giacosa – Piemonte (IT) – 15🠒19€ – 2★-3★
 description: Nebbiolo 100% | Tajarin al ragù d'anatra
 published: true
-date: 2021-08-24T10:19:50.562Z
-tags: vino, italia, rosso, varietale, nebbiolo, piemonte, tajarin al ragù d'anatra, 15🠒19€, 3 stelle
+date: 2021-10-01T20:13:24.845Z
+tags: vino, italia, rosso, varietale, piemonte, nebbiolo, 3 stelle, tajarin al ragù d'anatra, 15🠒19€
 editor: markdown
-dateCreated: 2021-08-23T12:22:31.894Z
+dateCreated: 2021-09-24T12:30:51.383Z
 ---
 
  # Maria Grazia

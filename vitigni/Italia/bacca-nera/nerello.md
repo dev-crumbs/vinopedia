@@ -2,7 +2,7 @@
 title: Nerello
 description: "Nerello" è un sinonimo di "Nerello Mascalese".
 published: true
-date: 2021-09-06T16:31:08.848Z
+date: 2021-09-06T16:31:11.584Z
 tags: vitigno, sinonimo, bacca nera
 editor: markdown
 dateCreated: 2021-09-06T16:31:08.848Z

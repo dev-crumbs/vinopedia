@@ -2,10 +2,10 @@
 title: Dolcetto
 description: Rosso piemontese dal colore profondo, con bassa acidità e notevole fragranza.
 published: true
-date: 2021-08-21T09:35:50.253Z
+date: 2021-09-06T14:51:11.487Z
 tags: vitigno, bacca nera
 editor: markdown
-dateCreated: 2021-08-21T09:35:47.591Z
+dateCreated: 2021-09-06T09:42:40.937Z
 ---
 
 # Dolcetto

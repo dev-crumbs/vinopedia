@@ -2,10 +2,10 @@
 title: Lambrusco Barghi
 description: Varietà minore, riconosciuta di recente, utilizzata in blend nel Reggiano.
 published: true
-date: 2021-08-20T14:30:19.194Z
+date: 2021-09-06T14:51:45.868Z
 tags: vitigno, bacca nera
 editor: markdown
-dateCreated: 2021-08-18T12:13:08.455Z
+dateCreated: 2021-09-06T09:43:41.585Z
 ---
 
 # Lambrusco Barghi
@@ -19,14 +19,14 @@ Lambrusco Bardi, Lambrusco Corbelli, Lambrusco di Rivalta
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Marzemino](/vitigni/Italia/bacca-nera/marzemino)
+[Marzemino](/vitigni/bacca-nera/marzemino)
 
 ## Origini e parentele
 Il Lambrusco Barghi proviene probabilmente dalla provincia di Reggio Emilia, dove è chiamato anche Lambrusco Corbelli o Lambrusco di Rivalta perché fino agli anni '60 era ampiamente coltivato nelle proprietà Castelnuovo di Sotto e Rivalta del Conte Corbelli.
 
 ### Altre ipotesi
 
-È stata suggerita un'origine toscana. Alcuni hanno considerato il Lambrusco Barghi identico, o strettamente imparentato, con il [Marzemino](/vitigni/Italia/bacca-nera/marzemino) ma il profilo del DNA ha smentito questa teoria (Boccacci et al. 2005).
+È stata suggerita un'origine toscana. Alcuni hanno considerato il Lambrusco Barghi identico, o strettamente imparentato, con il [Marzemino](/vitigni/bacca-nera/marzemino) ma il profilo del DNA ha smentito questa teoria (Boccacci et al. 2005).
 
 ## Caratteristiche viticole
 - Alto rendimento 

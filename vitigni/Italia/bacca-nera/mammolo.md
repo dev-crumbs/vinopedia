@@ -2,10 +2,10 @@
 title: Mammolo
 description: Minore ma storicamente significativo profumato partner di assemblaggio del Sangiovese dell'Italia centrale, più importante sull'isola francese di Corsica, come Sciaccarello
 published: true
-date: 2021-08-20T17:28:55.913Z
+date: 2021-09-26T14:54:17.290Z
 tags: vitigno, bacca nera
 editor: markdown
-dateCreated: 2021-08-20T17:12:42.395Z
+dateCreated: 2021-09-06T09:44:38.295Z
 ---
 
 # Mammolo

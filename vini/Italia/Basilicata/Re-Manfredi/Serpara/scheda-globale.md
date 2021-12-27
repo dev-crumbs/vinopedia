@@ -2,10 +2,10 @@
 title: Serpara – Aglianico del Vulture Superiore DOCG – Re Manfredi – Basilicata (IT) – 25🠒29€ – 5★
 description: Aglianico 100% | Stinco di maiale al forno – Strascinati al ragù di carne con cacioricotta – Brasato di manzo – Pappardelle al ragù di cinghiale – Cinghiale alla cacciatora con erbe aromatiche
 published: true
-date: 2021-08-24T09:41:19.364Z
-tags: vino, rosso, fermo, varietale, aglianico, italia, basilicata, stinco di maiale al forno, strascinati al ragù di carne con cacioricotta, brasato di manzo, pappardelle al ragù di cinghiale, cinghiale alla cacciatora con erbe aromatiche, 25🠒29€, 5 stelle
+date: 2021-10-01T19:55:55.717Z
+tags: vino, italia, rosso, basilicata, aglianico, varietale, fermo, 5 stelle, stinco di maiale al forno, strascinati al ragù di carne con cacioricotta, pappardelle al ragù di cinghiale, cinghiale alla cacciatora con erbe aromatiche, brasato di manzo, 25🠒29€
 editor: markdown
-dateCreated: 2021-08-23T07:36:55.405Z
+dateCreated: 2021-08-29T16:14:52.625Z
 ---
 
 # Serpara

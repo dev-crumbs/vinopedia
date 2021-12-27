@@ -2,10 +2,10 @@
 title: Aboto
 description: "Aboto" è un sinonimo.
 published: true
-date: 2021-07-30T15:53:51.909Z
-tags: vitigno, sinonimo, bacca nera
+date: 2021-09-06T14:54:07.994Z
+tags: vitigno, bacca nera
 editor: markdown
-dateCreated: 2021-07-30T15:47:43.024Z
+dateCreated: 2021-09-06T14:54:05.406Z
 ---
 
 # Aboto

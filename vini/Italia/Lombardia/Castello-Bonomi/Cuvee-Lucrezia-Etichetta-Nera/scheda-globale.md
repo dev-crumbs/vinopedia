@@ -2,10 +2,10 @@
 title: Cuvée Lucrezia Etichetta Nera – Franciacorta Riserva DOCG – Castello Bonomi – Lombardia (IT) – 75🠒99€ – 3★
 description: Pinot nero 100% | Aragosta in bellavista – Coniglio alla senape di digione
 published: true
-date: 2021-08-24T10:24:14.107Z
-tags: vino, bianco, spumante, metodo classico, extra-brut, millesimato, varietale, pinot nero, italia, lombardia, aragosta in bellavista, coniglio alla senape di digione, 75🠒99€, 5 stelle
+date: 2021-10-01T19:57:59.640Z
+tags: vino, bianco, italia, varietale, spumante, metodo classico, pinot nero, lombardia, 5 stelle, extra-brut, millesimato, aragosta in bellavista, coniglio alla senape di digione, 75🠒99€
 editor: markdown
-dateCreated: 2021-08-12T08:47:39.689Z
+dateCreated: 2021-09-07T19:33:33.339Z
 ---
 
 # Cuvée Lucrezia Etichetta Nera

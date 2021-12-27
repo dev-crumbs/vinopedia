@@ -2,10 +2,10 @@
 title: Piedirosso
 description: Vitigno semi-aromatico utilizzato da solo o in blend con l'Aglianico per conferire maggiore freschezza al vino.
 published: true
-date: 2021-08-10T17:03:39.657Z
+date: 2021-09-06T14:53:00.930Z
 tags: vitigno, bacca nera
 editor: markdown
-dateCreated: 2021-07-30T16:40:16.470Z
+dateCreated: 2021-09-06T09:45:39.349Z
 ---
 
 # Piedirosso
@@ -38,7 +38,7 @@ Il nome "Piedirosso" deriva dal tipico colore rosso dei gambi durante il periodo
 Dal censimento del 2000 risultano 2500 acri totali in Italia.
 
 ## Caratteristiche enologiche
-Spesso utilizzato in blend con l'[Aglianico](/vitigni/Italia/bacca-nera/aglianico), a cui aggiunge sentori aromatici e freschezza, oppure con il [Sciascinoso](/vitigni/bacca-nera/sciascinoso)
+Spesso utilizzato in blend con l'[Aglianico](/vitigni/bacca-nera/aglianico), a cui aggiunge sentori aromatici e freschezza, oppure con il [Sciascinoso](/vitigni/bacca-nera/sciascinoso)
 
 
 ## Denominazioni

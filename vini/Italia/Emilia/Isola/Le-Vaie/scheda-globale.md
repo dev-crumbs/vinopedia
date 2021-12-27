@@ -2,10 +2,10 @@
 title: Le Vaie – Colli Bolognesi DOC – Isola – Emilia (IT) – 10🠒14€ – 3★-4★
 description: Riesling 100% | Pollo alle mandorle e zenzero – Tortelloni di ricotta – Linguine vongole e canocchie
 published: true
-date: 2021-08-24T12:31:23.089Z
-tags: vino, bianco, fermo, varietale, riesling, italia, emilia, pollo alle mandorle e zenzero, tortelloni di ricotta, linguine vongole e canocchie, 10🠒14€, 4 stelle
+date: 2021-10-01T20:11:45.882Z
+tags: vino, bianco, italia, emilia, varietale, fermo, riesling, pollo alle mandorle e zenzero, tortelloni di ricotta, linguine vongole e canocchie, 4 stelle, 10🠒14€
 editor: markdown
-dateCreated: 2021-08-24T11:31:20.502Z
+dateCreated: 2021-08-31T15:46:06.033Z
 ---
 
 # Le Vaie

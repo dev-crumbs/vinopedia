@@ -2,7 +2,7 @@
 title: Vernaccia di San Gimignano
 description: Varietà rinfrescante e generalmente leggera della città toscana con le torri. Potenziale per un vino di alta qualità.
 published: true
-date: 2021-10-03T13:33:11.694Z
+date: 2021-10-03T13:33:14.286Z
 tags: vitigno, bacca bianca
 editor: markdown
 dateCreated: 2021-10-03T13:33:11.694Z

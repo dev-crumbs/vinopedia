@@ -2,10 +2,10 @@
 title: Arvine
 description: Bianco italiano produttivo che si trova principalmente nel sud e si distingue solo raramente.
 published: true
-date: 2021-08-19T05:49:47.512Z
+date: 2021-09-06T09:47:26.369Z
 tags: vitigno, bacca bianca
 editor: markdown
-dateCreated: 2021-08-19T05:49:45.173Z
+dateCreated: 2021-09-06T09:47:22.663Z
 ---
 
 # Arvine

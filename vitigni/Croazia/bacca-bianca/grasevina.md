@@ -2,10 +2,10 @@
 title: Graševina
 description: Varietà ingiustamente bistrattata ampiamente piantata nell'Europa centrale che ha sofferto a suo tempo in confronto al Riesling.
 published: true
-date: 2021-08-22T20:39:43.285Z
+date: 2021-09-06T15:07:32.602Z
 tags: vitigno, bacca bianca
 editor: markdown
-dateCreated: 2021-08-22T20:39:40.280Z
+dateCreated: 2021-09-06T09:35:16.215Z
 ---
 
 # Graševina

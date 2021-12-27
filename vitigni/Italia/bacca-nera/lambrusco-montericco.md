@@ -1,11 +1,11 @@
 ---
 title: Lambrusco Montericco
-description:  Varietà minore di Lambrusco
+description: Varietà minore di Lambrusco
 published: true
-date: 2021-08-18T12:44:58.027Z
+date: 2021-09-06T09:44:08.197Z
 tags: vitigno, bacca nera
 editor: markdown
-dateCreated: 2021-08-18T12:44:55.563Z
+dateCreated: 2021-09-06T09:44:03.988Z
 ---
 
 # Lambrusco Montericco

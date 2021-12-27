@@ -2,10 +2,10 @@
 title: Picolit
 description: Antico friulano che produce piccole quantità di vini dolci molto apprezzati
 published: true
-date: 2021-08-22T20:39:44.561Z
+date: 2021-09-06T09:41:21.775Z
 tags: vitigno, bacca bianca
 editor: markdown
-dateCreated: 2021-08-10T11:15:20.081Z
+dateCreated: 2021-09-06T09:40:17.528Z
 ---
 
 # Picolit

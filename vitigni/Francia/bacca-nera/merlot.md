@@ -1,11 +1,11 @@
 ---
 title: Merlot
-description: Varietà "internazionale" diffusa in tutto il mondo. Famosa per i grappoli carnosi e per appartenere alla famiglia del Bordeaux. 
+description: Varietà "internazionale" diffusa in tutto il mondo. Famosa per i grappoli carnosi e per appartenere alla famiglia del Bordeaux.
 published: true
-date: 2021-08-10T17:51:53.111Z
+date: 2021-09-06T14:48:01.676Z
 tags: vitigno, bacca nera
 editor: markdown
-dateCreated: 2021-08-07T13:51:59.325Z
+dateCreated: 2021-09-06T09:37:26.450Z
 ---
 
 # Merlot

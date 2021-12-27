@@ -2,10 +2,10 @@
 title: Prieuré – Valle d'Aosta Chambave Muscat Flétri DOC – La Crotta di Vegneron – Valle d'Aosta (IT) – 30🠒34€ – 3★-5★
 description: Muscat blanc a petit grains 100% | Crostata di albicocche – Torta di mele – Formaggio bleu d'Aoste stagionato
 published: true
-date: 2021-08-24T11:16:44.400Z
-tags: vino, bianco, passito, varietale, Muscat blanc a petit grains, italia, valle d'aosta, crostata di albicocche, torta di mele, formaggio bleu d'Aoste stagionato, 30🠒34€, 5 stelle
+date: 2021-10-01T20:15:15.962Z
+tags: vino, bianco, italia, varietale, valle d'aosta, 5 stelle, passito, crostata di albicocche, torta di mele, formaggio bleu d'aoste stagionato, muscat blanc a petit grains, 30🠒34€
 editor: markdown
-dateCreated: 2021-08-24T11:16:41.742Z
+dateCreated: 2021-09-01T10:17:11.077Z
 ---
 
 # Prieuré

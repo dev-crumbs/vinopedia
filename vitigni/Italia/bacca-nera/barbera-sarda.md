@@ -2,10 +2,10 @@
 title: Barbera Sarda
 description: Rinascente rosso sardo apprezzato per la sua fresca acidità
 published: true
-date: 2021-08-21T09:39:02.608Z
+date: 2021-09-26T14:54:14.424Z
 tags: vitigno, bacca nera
 editor: markdown
-dateCreated: 2021-08-20T16:59:15.158Z
+dateCreated: 2021-09-06T09:41:44.184Z
 ---
 
 # Barbera Sarda

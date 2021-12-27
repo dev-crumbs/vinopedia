@@ -2,7 +2,7 @@
 title: Fenile
 description:  Vitigno bianco minore della costiera almafitana nell'Italia meridionale.
 published: true
-date: 2021-09-07T16:47:04.159Z
+date: 2021-09-07T17:55:19.221Z
 tags: vitigno, bacca bianca
 editor: markdown
 dateCreated: 2021-09-07T16:47:04.159Z

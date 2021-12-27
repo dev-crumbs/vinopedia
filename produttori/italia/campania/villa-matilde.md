@@ -2,7 +2,7 @@
 title: Villa Matilde
 description: Cantina Villa Matilde di Salvatore e Maria Ida Avallone
 published: true
-date: 2021-07-31T15:14:56.973Z
+date: 2021-09-06T15:06:31.818Z
 tags: campania, produttori, italia
 editor: markdown
 dateCreated: 2021-07-31T15:14:54.454Z

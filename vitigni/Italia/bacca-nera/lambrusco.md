@@ -2,10 +2,10 @@
 title: Lambrusco
 description: Nome generico attribuito a molte varietà italiane dell'Emilia e dintorni
 published: true
-date: 2021-08-18T13:22:24.520Z
+date: 2021-09-06T14:52:08.800Z
 tags: vitigno, bacca nera
 editor: markdown
-dateCreated: 2021-08-18T13:05:39.589Z
+dateCreated: 2021-09-06T09:44:21.693Z
 ---
 
 # Lambrusco
@@ -18,16 +18,16 @@ Molte varietà italiane distinte sono chiamate  Lambrusco, soprattutto in Piemon
 
 
 ## Vitigni Lambrusco
-- [Lambrusco di Alessandria](/vitigni/Italia/bacca-nera/lambrusco-di-alessandria)
+- [Lambrusco di Alessandria](/vitigni/bacca-nera/lambrusco-di-alessandria)
 - [Lambrusco Vittona](vitigni/bacca-nera/lambrusco-vittona)
 - [Lambruschetto](/vitigni/bacca-nera/lambruschetto)
-- [Lambrusco Barghi](/vitigni/Italia/bacca-nera/lambrusco-barghi)
-- [Lambrusco di Fiorano](/vitigni/Italia/bacca-nera/lambrusco-di-fiorano)
-- [Lambrusco di Sorbara](/vitigni/Italia/bacca-nera/lambrusco-di-sorbara)
-- [Lambrusco Grasparossa](/vitigni/Italia/bacca-nera/lambrusco-grasparossa)
-- [Lambrusco Maestri](/vitigni/Italia/bacca-nera/lambrusco-maestri)
-- [Lambrusco Marani](/vitigni/Italia/bacca-nera/lambrusco-marani)
-- [Lambrusco Montericco](/vitigni/Italia/bacca-nera/lambrusco-montericco)
-- [Lambrusco Oliva](/vitigni/Italia/bacca-nera/lambrusco-oliva)
-- [Lambrusco Salamino](/vitigni/Italia/bacca-nera/lambrusco-salamino)
-- [LAmbrusco Viadanese](/vitigni/Italia/bacca-nera/lambrusco-viadanese)
+- [Lambrusco Barghi](/vitigni/bacca-nera/lambrusco-barghi)
+- [Lambrusco di Fiorano](/vitigni/bacca-nera/lambrusco-di-fiorano)
+- [Lambrusco di Sorbara](/vitigni/bacca-nera/lambrusco-di-sorbara)
+- [Lambrusco Grasparossa](/vitigni/bacca-nera/lambrusco-grasparossa)
+- [Lambrusco Maestri](/vitigni/bacca-nera/lambrusco-maestri)
+- [Lambrusco Marani](/vitigni/bacca-nera/lambrusco-marani)
+- [Lambrusco Montericco](/vitigni/bacca-nera/lambrusco-montericco)
+- [Lambrusco Oliva](/vitigni/bacca-nera/lambrusco-oliva)
+- [Lambrusco Salamino](/vitigni/bacca-nera/lambrusco-salamino)
+- [LAmbrusco Viadanese](/vitigni/bacca-nera/lambrusco-viadanese)

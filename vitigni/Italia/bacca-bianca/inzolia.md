@@ -2,10 +2,10 @@
 title: Inzolia
 description: Vitigno siciliano rigoglioso
 published: true
-date: 2021-08-21T13:46:35.768Z
+date: 2021-09-06T14:49:04.776Z
 tags: vitigno, bacca bianca
 editor: markdown
-dateCreated: 2021-08-21T13:46:33.137Z
+dateCreated: 2021-09-06T09:39:14.644Z
 ---
 
 #Inzolia

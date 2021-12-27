@@ -2,10 +2,10 @@
 title: Morellino di Scansano – Morellino di Scansano DOCG – Podere 414 – Toscana (IT) – 15🠒19€ – 2★-5★
 description: Sangiovese 85% + Altri 15% | Fiorentina alla brace – Cinghiale alla maremmana – Agnello a scottadito – Cinghiale alle erbe – Pecorino stagionato
 published: true
-date: 2021-08-24T11:57:38.152Z
-tags: vino, rosso, fermo, blend, sangiovese, ciliegiolo, colorino, alicante, syrah, italia, toscana, Fiorentina alla brace, cinghiale alla maremmana, Agnello a scottadito, Cinghiale alle erbe, Pecorino stagionato, 15🠒19€, 5 stelle
+date: 2021-10-04T06:51:28.811Z
+tags: vino, italia, rosso, blend, toscana, sangiovese, fermo, 5 stelle, syrah, fiorentina alla brace, colorino, 15🠒19€, ciliegiolo, alicante, cinghiale alla maremmana, agnello a scottadito, cinghiale alle erbe, pecorino stagionato
 editor: markdown
-dateCreated: 2021-08-24T11:55:59.971Z
+dateCreated: 2021-10-04T06:51:26.317Z
 ---
 
 # Morellino di Scansano

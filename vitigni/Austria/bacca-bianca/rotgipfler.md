@@ -2,10 +2,10 @@
 title: Rotgipfler
 description: La specialità della Thermenregion produce bianchi potenti di solitoin blend con Zierfandler.
 published: true
-date: 2021-08-22T19:35:03.416Z
+date: 2021-09-06T15:06:57.139Z
 tags: vitigno, bacca bianca
 editor: markdown
-dateCreated: 2021-08-22T18:37:20.835Z
+dateCreated: 2021-09-06T09:34:23.580Z
 ---
 
 # Rotgipfler

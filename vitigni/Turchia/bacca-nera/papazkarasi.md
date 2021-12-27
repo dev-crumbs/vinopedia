@@ -2,10 +2,10 @@
 title: Papazkarasi
 description: Varietà turca che si trova principalmente a Trakya (Tracia), utilizzata per produrre vini a consumo locale
 published: true
-date: 2021-08-10T14:24:56.181Z
+date: 2021-09-06T14:54:17.180Z
 tags: vitigno, bacca nera
 editor: markdown
-dateCreated: 2021-08-10T14:21:37.980Z
+dateCreated: 2021-09-06T14:54:14.459Z
 ---
 
 # Papazkarasi

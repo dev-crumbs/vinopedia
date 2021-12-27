@@ -2,10 +2,10 @@
 title: Malvasia Preta
 description: Varietà del Douro usata per il porto e i vini da tavola
 published: true
-date: 2021-08-19T09:32:20.937Z
+date: 2021-09-06T14:53:57.258Z
 tags: vitigno, bacca nera
 editor: markdown
-dateCreated: 2021-08-19T09:32:18.433Z
+dateCreated: 2021-09-06T09:47:01.671Z
 ---
 
 # Malvasia Preta
@@ -19,7 +19,7 @@ Moreto, Mureto, Pinheira Roxa
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Moreto Do Alentejo](/vitigni/Spagna/bacca-nera/moreto-do-alentejo), Moreto do Dão 
+[Moreto Do Alentejo](/vitigni/bacca-nera/moreto-do-alentejo), Moreto do Dão 
 
 ## Origini e parentele
 Recenti analisi di parentela del DNA hanno dimostrato che la Malvasia Preta, letteralmente 'Malvasia nera', è un incrocio naturale tra la varietà iberica CAYETANA BLANCA e la portoghese [Alfrocheiro](/vitigni/bacca-nera/alfrocheiro) (Zinelabidine et al. 2012), che probabilmente si è verificato nel Douro nel nord del Portogallo, la sua principale area di coltivazione. Malvasia Preta è quindi un fratello di [Cornifesto](/vitigni/bacca-nera/cornifesto), [Camarate](/vitigni/bacca-nera/camarate), [Juan García](/vitigni/bacca-nera/juan-garcia) e [Castelão](/vitigni/bacca-nera/castelao). Il legame tra la Malvasia Preta e le altre varietà di Malvasia Preta è sconosciuto. È stata osservata una mutazione di grande ampiezza nota come Pinheira Roxa, ma qualsiasi legame con [Jampal](/vitigni/bacca-nera/jampal), a volte chiamata Pinheira Branca (Lopes et al. 2006), è incerto.

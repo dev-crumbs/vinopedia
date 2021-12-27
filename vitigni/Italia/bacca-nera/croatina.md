@@ -2,10 +2,10 @@
 title: Croatina
 description: Una varietà fruttata a buccia scura coltivata in diverse aree dell'Italia settentrionale e usata sia da sola che in blend.
 published: true
-date: 2021-08-21T05:57:18.898Z
+date: 2021-09-06T14:51:08.646Z
 tags: vitigno, bacca nera
 editor: markdown
-dateCreated: 2021-08-19T14:38:20.985Z
+dateCreated: 2021-09-06T09:42:33.739Z
 ---
 
 # Croatina

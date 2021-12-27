@@ -2,10 +2,10 @@
 title: Adakarasi
 description: Vitigno coltivato principalmente sull'isola turca di Avşa, che produce rossi morbidi e scuri.
 published: true
-date: 2021-08-10T14:25:49.843Z
+date: 2021-09-06T09:47:33.786Z
 tags: vitigno, bacca nera
 editor: markdown
-dateCreated: 2021-08-10T13:55:12.140Z
+dateCreated: 2021-09-06T09:47:29.869Z
 ---
 
 # Adakarasi

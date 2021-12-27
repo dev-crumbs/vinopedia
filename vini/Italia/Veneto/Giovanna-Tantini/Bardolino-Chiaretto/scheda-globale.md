@@ -1,11 +1,11 @@
 ---
 title: Bardolino Chiaretto – Bardolino Chiaretto DOC – Giovanna Tantini – Veneto (IT) – 10🠒14€ – 2★-5★
-description: Corvina 80% + Rondinella 15% + Molinara 5% | Tagliata di tonno grigliata – Tortelli di luccio al limone – Sformato di zucca con fonduta 
+description: Corvina 80% + Rondinella 15% + Molinara 5% | Tagliata di tonno grigliata – Tortelli di luccio al limone – Sformato di zucca con fonduta
 published: true
-date: 2021-08-24T11:16:44.400Z
-tags: vino, rosato, fermo, blend, Corvina, Rondinella, italia, veneto, Tagliata di tonno grigliata, Tortelli di luccio al limone, Sformato di zucca con fonduta, 10🠒14€, 5 stelle
+date: 2021-10-01T20:15:29.075Z
+tags: vino, italia, blend, veneto, rosato, fermo, 5 stelle, 10🠒14€, corvina, rondinella, tagliata di tonno grigliata, tortelli di luccio al limone, sformato di zucca con fonduta
 editor: markdown
-dateCreated: 2021-08-24T11:16:41.742Z
+dateCreated: 2021-09-30T08:13:57.364Z
 ---
 
 # Bardolino Chiaretto

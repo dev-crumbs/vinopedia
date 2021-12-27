@@ -2,7 +2,7 @@
 title: Colorino
 description: "Colorino" è un sinonimo di "Colorino del Valdarno
 published: true
-date: 2021-09-07T16:26:34.093Z
+date: 2021-09-07T16:26:36.674Z
 tags: vitigno, sinonimo, bacca nera
 editor: markdown
 dateCreated: 2021-09-07T16:26:34.093Z

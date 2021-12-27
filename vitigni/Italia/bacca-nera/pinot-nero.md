@@ -2,7 +2,7 @@
 title: Pinot nero
 description: "Pinot nero" è un sinonimo di "Pinot Noir".
 published: true
-date: 2021-09-06T16:36:35.069Z
+date: 2021-09-06T16:36:37.580Z
 tags: vitigno, sinonimo, bacca nera
 editor: markdown
 dateCreated: 2021-09-06T16:36:35.069Z

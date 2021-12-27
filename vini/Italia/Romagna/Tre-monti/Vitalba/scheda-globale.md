@@ -2,10 +2,10 @@
 title: Vitalba – Albana DOCG – Tre monti – Romagna (IT) – 15🠒19€ – 5★
 description: Albana 100% | Tagliata di tonno con indivia caramellata – Baccalà alla vicentina – Pasta alla gricia – Spaghetti alla carbonara – Carpaccio di vitello con formaggio di fossa
 published: true
-date: 2021-08-24T12:31:23.089Z
-tags: vino, bianco, orange wine, anfora, varietale, albana, italia, romagna, tagliata di tonno con indivia caramellata, baccalà alla vicentina, pasta alla gricia, spaghetti alla carbonara, carpaccio di vitello con formaggio di fossa, 15🠒19€, 5 stelle
+date: 2021-10-01T20:00:15.973Z
+tags: vino, bianco, italia, romagna, varietale, 5 stelle, albana, orange wine, tagliata di tonno con indivia caramellata, baccalà alla vicentina, pasta alla gricia, spaghetti alla carbonara, carpaccio di vitello con formaggio di fossa, anfora, 15🠒19€
 editor: markdown
-dateCreated: 2021-08-24T11:31:20.502Z
+dateCreated: 2021-09-07T06:15:26.688Z
 ---
 
 # Vitalba

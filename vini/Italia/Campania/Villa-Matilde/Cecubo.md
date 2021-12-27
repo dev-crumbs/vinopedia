@@ -2,7 +2,7 @@
 title: Cecubo
 description: 
 published: false
-date: 2021-08-24T10:11:34.117Z
+date: 2021-09-06T09:47:52.416Z
 tags: vino, campania, rosso, villa matilde, blend
 editor: markdown
 dateCreated: 2021-07-31T15:55:06.867Z

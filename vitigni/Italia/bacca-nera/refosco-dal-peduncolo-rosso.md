@@ -2,10 +2,10 @@
 title: Refosco dal peduncolo rosso
 description: Il Refosco più ampiamente piantato con una storia familiare complessa, produce rossi aspri ma potenzialmente interessanti in Friuli e Slovenia.
 published: true
-date: 2021-08-23T09:22:13.596Z
+date: 2021-09-06T14:53:11.792Z
 tags: vitigno, bacca nera
 editor: markdown
-dateCreated: 2021-08-20T12:57:42.590Z
+dateCreated: 2021-09-06T09:45:51.733Z
 ---
 
 # Refosco dal peduncolo rosso
@@ -28,7 +28,7 @@ La confusione diffusa tra Refosco dal Peduncolo Rosso e [Mondeuse noire](/vitign
 
 Refosco dal Peduncolo Rosso viene anche spesso confuso con TERRANO o Teran da Istra (Istria) ma un confronto dei loro profili DNA smentisce questa ipotesi (Vouillamoz).
 
-Gli studi di parentela del DNA hanno fornito prove che Refosco dal Peduncolo Rosso è una progenie di [Marzemino](/vitigni/Italia/bacca-nera/marzemino) (Grando et al. 2006). Poiché Marzemino e [Lagrein](/vitigni/Italia/bacca-nera/lagrein) sono entrambi progenie di [Teroldego](/vitigni/bacca-nera/teroldego), Refosco dal Peduncolo Rosso risulta essere un nipote di Teroldego e un nipote/nipote di Lagrein, come mostrato nel diagramma. Inoltre, Refosco dal Peduncolo Rosso è un genitore di [Corvina Veronese](/vitigni/bacca-nera/corvina-veronese) e un nonno di [Rondinella](/vitigni/bacca-nera/rondinella). La distribuzione geografica storica delle varietà coinvolte nel pedigree del Refosco dal Peduncolo Rosso ancorano fortemente le sue radici nell'Italia nord-orientale.
+Gli studi di parentela del DNA hanno fornito prove che Refosco dal Peduncolo Rosso è una progenie di [Marzemino](/vitigni/bacca-nera/marzemino) (Grando et al. 2006). Poiché Marzemino e [Lagrein](/vitigni/bacca-nera/lagrein) sono entrambi progenie di [Teroldego](/vitigni/bacca-nera/teroldego), Refosco dal Peduncolo Rosso risulta essere un nipote di Teroldego e un nipote/nipote di Lagrein, come mostrato nel diagramma. Inoltre, Refosco dal Peduncolo Rosso è un genitore di [Corvina Veronese](/vitigni/bacca-nera/corvina-veronese) e un nonno di [Rondinella](/vitigni/bacca-nera/rondinella). La distribuzione geografica storica delle varietà coinvolte nel pedigree del Refosco dal Peduncolo Rosso ancorano fortemente le sue radici nell'Italia nord-orientale.
 
 ## Caratteristiche viticole
 - Maturazione tardiva. Suscettibile alla peronospora e alla phomopsis, meno all'oidio; resistente alle piogge autunnali, al marciume del grappolo della botrite e all'esca

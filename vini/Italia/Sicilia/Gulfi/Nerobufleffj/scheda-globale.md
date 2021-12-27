@@ -2,10 +2,10 @@
 title: Nerobufaleffj – Terre Siciliane IGT – Gulfi – Sicilia (IT) – 30🠒34€ – 3★-5★
 description: Nero d'Avola 100% | Filetto alla rossini – Carrè di agnello al forno – Ravioli ricotta e maggiorana con sugo di maiale
 published: true
-date: 2021-08-24T11:57:38.152Z
-tags: vino, rosso, fermo, varietale, nero d'avola, italia, sicilia, filetto alla rossini, carrè di agnello al forno, ravioli ricotta e maggiorana con sugo di maiale, 30🠒34€, 5 stelle
+date: 2021-10-01T20:14:38.561Z
+tags: 30🠒34€, filetto alla rossini, vino, italia, rosso, sicilia, varietale, carrè di agnello al forno, fermo, 5 stelle, nero d'avola, ravioli ricotta e maggiorana con sugo di maiale
 editor: markdown
-dateCreated: 2021-08-24T11:55:59.971Z
+dateCreated: 2021-08-31T15:46:49.712Z
 ---
 
 # Nerobufaleffj

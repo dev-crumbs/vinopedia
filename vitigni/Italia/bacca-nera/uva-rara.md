@@ -2,10 +2,10 @@
 title: Uva rara
 description: Spesso usato per ammorbidire il Nebbiolo nell'estremo nord dell'Italia.
 published: true
-date: 2021-08-22T19:38:22.064Z
+date: 2021-09-06T14:53:37.859Z
 tags: vitigno, bacca nera
 editor: markdown
-dateCreated: 2021-08-22T19:38:19.448Z
+dateCreated: 2021-09-06T09:46:25.082Z
 ---
 
 ## Uva Rara
@@ -30,7 +30,7 @@ Uva Rara è un'antica varietà del Piemonte e della Lombardia, Italia settentrio
 
 ## Diffusione geografica
 
-Contrariamente a qualsiasi aspettativa creata dal suo nome, l'Uva Rara è diffusa in Lombardia (soprattutto nella provincia di Pavia) e in Piemonte (nelle province di Alessandria, Asti, Biella, Novara, Torino e Vercelli) in Italia. C'erano 608 ha (1.502 acri) nel 2000 ma le piantagioni sono in calo. Può essere usato per ammorbidire gli assemblaggi a dominanza [Nebbiolo](/vitigni/Italia/bacca-nera/nebbiolo.md) nelle DOC del nord come Boca, Colline Novaresi, Fara e Sizzano, Ghemme DOCG e, leggermente più a sud, in assemblaggio con soprattutto [Barbera](/vitigni/bacca-nera/barbera.md) e [Croatina](/vitigni/bacca-nera/croatina) nelle DOC Oltrepò Pavese e San Colombano al Lambro. Un vino varietale è autorizzato all'interno della denominazione Colline Novaresi.
+Contrariamente a qualsiasi aspettativa creata dal suo nome, l'Uva Rara è diffusa in Lombardia (soprattutto nella provincia di Pavia) e in Piemonte (nelle province di Alessandria, Asti, Biella, Novara, Torino e Vercelli) in Italia. C'erano 608 ha (1.502 acri) nel 2000 ma le piantagioni sono in calo. Può essere usato per ammorbidire gli assemblaggi a dominanza [Nebbiolo](/vitigni/bacca-nera/nebbiolo.md) nelle DOC del nord come Boca, Colline Novaresi, Fara e Sizzano, Ghemme DOCG e, leggermente più a sud, in assemblaggio con soprattutto [Barbera](/vitigni/bacca-nera/barbera.md) e [Croatina](/vitigni/bacca-nera/croatina) nelle DOC Oltrepò Pavese e San Colombano al Lambro. Un vino varietale è autorizzato all'interno della denominazione Colline Novaresi.
 
 ## caratteristiche enologiche
 

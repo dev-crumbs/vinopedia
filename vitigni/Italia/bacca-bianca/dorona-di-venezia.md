@@ -2,10 +2,10 @@
 title: Dorona di Venezia
 description: Bianco veneziano salvato di recente ma non particolarmente antico.
 published: true
-date: 2021-08-21T14:53:07.569Z
+date: 2021-09-06T14:48:50.326Z
 tags: vitigno, bacca bianca
 editor: markdown
-dateCreated: 2021-08-12T13:03:36.271Z
+dateCreated: 2021-09-06T09:38:54.027Z
 ---
 
 # Dorona di Venezia

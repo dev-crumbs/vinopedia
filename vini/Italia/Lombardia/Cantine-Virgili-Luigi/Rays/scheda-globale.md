@@ -2,10 +2,10 @@
 title: Rays – Lambrusco mantovano DOC – Cantina Virgili Luigi – Lombardia (IT) – 10🠒14€ – 3★-5★
 description: Grappello Ruberti 100% | Cotechino – Strudel di verdure con salsiccia – Bollito misto – Tagliere di salumi – Strolghino di culatello
 published: true
-date: 2021-08-24T10:17:57.280Z
-tags: vino, rosso, varietale, frizzante, grappello ruberti, cotechino, strudel di verdure con salsiccia, bollito misto, tagliere di salumi, strolghino di culatello, 10🠒14€, 5 stelle
+date: 2021-10-01T20:12:46.480Z
+tags: vino, rosso, varietale, frizzante, cotechino, 5 stelle, grappello ruberti, strudel di verdure con salsiccia, bollito misto, tagliere di salumi, strolghino di culatello, 10🠒14€
 editor: markdown
-dateCreated: 2021-08-18T10:27:11.126Z
+dateCreated: 2021-09-28T15:49:42.391Z
 ---
 
 # Rays

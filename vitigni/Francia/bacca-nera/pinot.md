@@ -2,10 +2,10 @@
 title: Pinot
 description: Una delle varietà più antiche al mondo, con più di 1000 cloni riconosciuti
 published: true
-date: 2021-08-23T09:22:13.596Z
+date: 2021-09-06T14:48:08.474Z
 tags: vitigno, bacca nera, bacca bianca
 editor: markdown
-dateCreated: 2021-08-16T10:15:11.398Z
+dateCreated: 2021-09-06T09:37:44.213Z
 ---
 
 # Pinot

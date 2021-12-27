@@ -2,10 +2,10 @@
 title: Ervi
 description: Incrocio minore e relativamente recente di pelle scura dell'Emilia-Romagna
 published: true
-date: 2021-08-21T05:57:17.638Z
+date: 2021-09-06T09:43:05.193Z
 tags: vitigno, bacca nera
 editor: markdown
-dateCreated: 2021-08-21T05:57:15.000Z
+dateCreated: 2021-09-06T09:42:49.175Z
 ---
 
 # Ervi

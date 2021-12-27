@@ -2,10 +2,10 @@
 title: Jubiläumsrebe
 description: Incrocio austriaco più adatto ai bianchi molto dolci.
 published: true
-date: 2021-08-22T20:07:03.564Z
+date: 2021-09-06T15:06:46.071Z
 tags: vitigno, bacca bianca
 editor: markdown
-dateCreated: 2021-08-22T17:17:46.205Z
+dateCreated: 2021-09-06T09:34:07.262Z
 ---
 
 # Jubiläumsrebe

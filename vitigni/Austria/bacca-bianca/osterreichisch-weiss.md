@@ -2,10 +2,10 @@
 title: Österreichisch Weiss
 description: Rara varietà viennese dalla pelle chiara con una progenie molto conosciuta.
 published: true
-date: 2021-08-22T18:57:43.232Z
+date: 2021-09-06T15:06:51.467Z
 tags: vitigno, bacca bianca
 editor: markdown
-dateCreated: 2021-08-22T18:19:00.074Z
+dateCreated: 2021-09-06T09:34:15.258Z
 ---
 
 # Österreichisch Weiss

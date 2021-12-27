@@ -2,7 +2,7 @@
 title: Kerner
 description: Qualitativamente il più riuscito incrocio tedesco moderno, versatile, che produce vini simili al Riesling.
 published: true
-date: 2021-09-30T08:18:27.289Z
+date: 2021-09-30T08:18:29.776Z
 tags: vitigno, bacca bianca
 editor: markdown
 dateCreated: 2021-09-30T08:18:02.856Z

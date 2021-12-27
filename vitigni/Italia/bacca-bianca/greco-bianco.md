@@ -2,7 +2,7 @@
 title: Greco bianco
 description: Raro calabrese usato per fare vini da dessert
 published: true
-date: 2021-09-08T09:51:38.330Z
+date: 2021-09-08T09:51:40.675Z
 tags: vitigno, bacca bianca
 editor: markdown
 dateCreated: 2021-09-08T09:51:38.330Z

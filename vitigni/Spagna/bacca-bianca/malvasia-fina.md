@@ -2,10 +2,10 @@
 title: Malvasia Fina
 description: Varietà portoghese di alta qualità che va sotto molti nomi, in particolare Boal su Madeira, e produce molti stili di vino.
 published: true
-date: 2021-08-19T06:15:29.698Z
+date: 2021-09-06T09:47:01.619Z
 tags: vitigno, bacca bianca
 editor: markdown
-dateCreated: 2021-08-19T06:15:27.097Z
+dateCreated: 2021-09-06T09:46:58.034Z
 ---
 
 # Malvasia Fina

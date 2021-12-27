@@ -2,10 +2,10 @@
 title: Crepe – Romagna Sangiovese Superiore DOC – Cà di Sopra – Romagna (IT) – 10🠒14€ – 2★-5★
 description: Sangiovese 100% | Pernice arrosto con salsa alle castagne – Tagliolini al tartufo nero – Faraona arrosto
 published: true
-date: 2021-08-24T12:31:23.089Z
-tags: vino, rosso, fermo, varietale, sangiovese, italia, romagna, pernice arrosto con salsa alle castagne, tagliolini al tartufo nero, Faraona arrosto, 10🠒14€, 5 stelle
+date: 2021-10-01T20:14:06.615Z
+tags: vino, italia, rosso, romagna, varietale, sangiovese, fermo, 5 stelle, pernice arrosto con salsa alle castagne, tagliolini al tartufo nero, faraona arrosto, 10🠒14€
 editor: markdown
-dateCreated: 2021-08-24T11:31:20.502Z
+dateCreated: 2021-09-28T15:49:51.490Z
 ---
 
 # Crepe

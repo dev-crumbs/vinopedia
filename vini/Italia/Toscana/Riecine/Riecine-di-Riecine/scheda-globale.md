@@ -2,11 +2,10 @@
 title: Riecine di Riecine – Toscana IGT – Riecine – Toscana (IT) – 60🠒64€ – 3★-5★
 description: Sangiovese 100% | Ravioli di lampredotto su vellutata di cipolla – Coniglio al melograno – Ravioli di anatra su fondo di scalogno e crema di pecorino – Coniglio alla cacciatora – Filetto di manzo ai porcini
 published: true
-date: 2021-08-24T11:57:38.152Z
-tags: vino, rosso, fermo, varietale, sangiovese, italia, toscana, ravioli di lampredotto su vellutata di cipolla, coniglio al melograno, ravioli di anatra su fondo di scalogno e crema di pecorino, coniglio alla cacciatora, filetto di manzo ai porcini, 60🠒64€, 5 stelle
-
+date: 2021-10-01T20:14:52.078Z
+tags: vino, italia, rosso, toscana, varietale, sangiovese, fermo, 5 stelle, ravioli di lampredotto su vellutata di cipolla, coniglio al melograno, ravioli di anatra su fondo di scalogno e crema di pecorino, coniglio alla cacciatora, filetto di manzo ai porcini, 60🠒64€
 editor: markdown
-dateCreated: 2021-08-24T11:55:59.971Z
+dateCreated: 2021-09-02T14:34:55.182Z
 ---
 
 # Riecine di Riecine

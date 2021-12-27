@@ -2,7 +2,7 @@
 title: Petit rouge
 description: Antico aostano dalla pelle scura che produce vini speziati e dal sapore di ribes rosso.
 published: true
-date: 2021-09-06T16:35:40.485Z
+date: 2021-09-06T16:35:43.264Z
 tags: vitigno, bacca nera
 editor: markdown
 dateCreated: 2021-09-06T16:35:40.485Z

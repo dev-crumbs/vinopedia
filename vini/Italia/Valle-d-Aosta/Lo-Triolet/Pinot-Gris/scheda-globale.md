@@ -2,10 +2,10 @@
 title: Pinot Gris – Valle d'Aosta DOC – Lo Triolet – Valle d'Aosta (IT) – 15🠒19€ – 4★-5★
 description: Pinot grigio 100% | Spaghetti gamberi e zucchine – Risotto alla toma e timo – Baccalà con purè di sedano – Sella di capretto in crosta – Risotto ai gamberi
 published: true
-date: 2021-08-24T11:16:44.400Z
-tags: vino, bianco, fermo, varietale, pinot grigio, italia, valle d'aosta, spaghetti gamberi e zucchine, risotto alla toma e timo, baccalà con purè di sedano, sella di capretto in crosta, risotto ai gamberi, 15🠒19€, 5 stelle
+date: 2021-10-01T20:15:18.582Z
+tags: vino, bianco, italia, varietale, pinot grigio, valle d'aosta, spaghetti gamberi e zucchine, risotto alla toma e timo, baccalà con purè di sedano, sella di capretto in crosta, risotto ai gamberi, fermo, 5 stelle, 15🠒19€
 editor: markdown
-dateCreated: 2021-08-24T11:16:41.742Z
+dateCreated: 2021-08-26T20:27:17.200Z
 ---
 
 # Pinot Gris

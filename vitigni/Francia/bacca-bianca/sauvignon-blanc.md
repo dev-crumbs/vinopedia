@@ -2,10 +2,10 @@
 title: Sauvignon Blanc
 description: Genitore del Cabernet Sauvignon che produce bianchi aromatici, saporiti e croccanti sempre più apprezzati in tutto il mondo
 published: true
-date: 2021-08-22T18:57:43.232Z
+date: 2021-09-06T15:08:08.274Z
 tags: vitigno, bacca bianca
 editor: markdown
-dateCreated: 2021-08-10T10:49:33.037Z
+dateCreated: 2021-09-06T09:36:08.590Z
 ---
 
 # Sauvignon Blanc

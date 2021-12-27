@@ -2,10 +2,10 @@
 title: Sauvignon Gris / Rosé
 description: Mutazione di colore del Sauvignon Blanc
 published: true
-date: 2021-08-10T10:53:28.567Z
+date: 2021-09-06T15:08:23.230Z
 tags: vitigno, mutazione di colore
 editor: markdown
-dateCreated: 2021-08-10T10:53:25.910Z
+dateCreated: 2021-09-06T09:36:30.759Z
 ---
 
 # Sauvignon Gris / Rosé

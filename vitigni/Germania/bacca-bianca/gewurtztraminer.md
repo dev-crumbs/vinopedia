@@ -2,10 +2,10 @@
 title: Gewürztraminer
 description: Uno dei vitigni più inebrianti e distintamente aromatici, con forti sapori di litchi e alti livelli di alcol.
 published: true
-date: 2021-08-16T11:26:15.215Z
+date: 2021-09-06T09:39:51.780Z
 tags: vitigno, bacca bianca, bacca grigia
 editor: markdown
-dateCreated: 2021-08-16T10:47:01.475Z
+dateCreated: 2021-09-06T09:38:01.438Z
 ---
 
 # Gewürztraminer

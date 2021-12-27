@@ -2,10 +2,10 @@
 title: Graciano
 description: Varietà a bassa resa, dal colore ricco e profumato, che mantiene l'acidità e sta riguadagnando il favore a Rioja
 published: true
-date: 2021-08-19T12:44:44.584Z
+date: 2021-09-26T14:54:37.333Z
 tags: vitigno, bacca nera
 editor: markdown
-dateCreated: 2021-08-19T12:44:41.812Z
+dateCreated: 2021-09-06T09:47:12.180Z
 ---
 
 # Graciano

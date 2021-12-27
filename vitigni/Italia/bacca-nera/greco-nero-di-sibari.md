@@ -2,10 +2,10 @@
 title: Greco Nero Di Sibari
 description: Uno dei tanti Greco Nero calabresi
 published: true
-date: 2021-08-19T12:44:44.584Z
+date: 2021-09-06T14:51:28.520Z
 tags: vitigno, bacca nera
 editor: markdown
-dateCreated: 2021-08-19T12:44:41.812Z
+dateCreated: 2021-09-06T09:43:11.485Z
 ---
 
 # Greco nero di Sibari

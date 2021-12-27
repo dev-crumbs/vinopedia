@@ -2,10 +2,10 @@
 title: Appius – Alto Adige DOC – San Michele Appiano – Alto-Adige (IT) – 100🠒124€ – 5★
 description: Sauvignon blanc + Chardonnay + Pinot grigio + Pinot bianco | Risotto allo zafferano – Storione affumicato con caviale e porri – Capesante gratinate – Blinis con trota affumicata ed erba cipollina – Astice all'armoricana
 published: true
-date: 2021-08-24T09:41:19.364Z
-tags: vino, bianco, fermo, blend, sauvignon blanc, chardonnay, pinot grigio, italia, alto-adige, risotto allo zafferano, storione affumicato con caviale e porri, capesante gratinate, blinis con trota affumicata ed erba cipollina, astice all'armoricana, 100🠒124€, 5 stelle
+date: 2021-10-01T19:55:36.958Z
+tags: vino, bianco, italia, blend, chardonnay, pinot grigio, fermo, 5 stelle, alto-adige, sauvignon blanc, risotto allo zafferano, storione affumicato con caviale e porri, capesante gratinate, blinis con trota affumicata ed erba cipollina, astice all'armoricana, 100🠒124€
 editor: markdown
-dateCreated: 2021-08-23T07:36:55.405Z
+dateCreated: 2021-09-07T13:39:45.058Z
 ---
 
 # Appius

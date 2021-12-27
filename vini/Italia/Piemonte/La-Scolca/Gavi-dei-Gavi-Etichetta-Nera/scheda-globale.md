@@ -2,10 +2,10 @@
 title: Gavi dei Gavi Etichetta Nera – Gavi DOCG – La Scolca – Piemonte (IT) – 25🠒29€ – 3★-5★
 description: Cortese 100% | Aragosta alla catalana – Risotto agli scampi – Risotto ai frutti di mare
 published: true
-date: 2021-08-24T10:19:50.562Z
-tags: vino, bianco, fermo, varietale, cortese, italia, piemonte, aragosta alla catalana, risotto agli scampi, risotto ai frutti di mare, 25🠒29€, 5 stelle
+date: 2021-10-01T20:13:38.160Z
+tags: vino, bianco, italia, varietale, piemonte, fermo, 5 stelle, aragosta alla catalana, risotto agli scampi, risotto ai frutti di mare, cortese, 25🠒29€
 editor: markdown
-dateCreated: 2021-08-23T12:22:31.894Z
+dateCreated: 2021-08-31T15:46:25.145Z
 ---
 
  # Gavi dei Gavi Etichetta Nera

@@ -2,10 +2,10 @@
 title: Cortese
 description: Bianco generalmente piuttosto blando dell'Italia settentrionale che mostra il suo miglior volto varietale a Gavi.
 published: true
-date: 2021-08-21T14:53:07.569Z
+date: 2021-09-06T14:48:47.357Z
 tags: vitigno, bacca bianca
 editor: markdown
-dateCreated: 2021-08-12T13:03:36.271Z
+dateCreated: 2021-09-06T09:38:49.901Z
 ---
 
 # Cortese

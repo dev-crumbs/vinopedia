@@ -2,10 +2,10 @@
 title: Oseleta
 description: Ravvivato e piuttosto di moda nel paese della Valpolicella.
 published: true
-date: 2021-08-20T13:23:03.818Z
+date: 2021-09-06T09:45:35.617Z
 tags: vitigno, bacca nera
 editor: markdown
-dateCreated: 2021-08-20T13:23:01.131Z
+dateCreated: 2021-09-06T09:45:32.616Z
 ---
 
 # Oseleta

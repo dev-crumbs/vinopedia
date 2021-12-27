@@ -2,10 +2,10 @@
 title: Savagnin Blanc
 description: Vini corposi, fermi, degni di invecchiamento, a volte chiamati Traminer
 published: true
-date: 2021-09-04T08:53:18.405Z
+date: 2021-09-06T15:08:14.631Z
 tags: vitigno, bacca bianca
 editor: markdown
-dateCreated: 2021-08-16T10:09:16.021Z
+dateCreated: 2021-09-06T09:36:17.360Z
 ---
 
 # Savagnin Blanc

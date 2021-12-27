@@ -2,10 +2,10 @@
 title: Cabernet Franc
 description: Genitore fragrante e ben strutturato di Cabernet Sauvignon che brilla nella Loira e nelle miscele di Bordeaux.
 published: true
-date: 2021-08-21T06:00:27.612Z
+date: 2021-09-26T14:54:04.351Z
 tags: vitigno, bacca nera
 editor: markdown
-dateCreated: 2021-08-09T08:38:53.975Z
+dateCreated: 2021-09-06T09:36:47.429Z
 ---
 
 # Cabernet Franc

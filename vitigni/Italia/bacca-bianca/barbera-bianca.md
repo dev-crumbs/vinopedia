@@ -2,10 +2,10 @@
 title: Barbera bianca
 description: Rara varietà piemontese estranea alla Barbera dalla pelle scura
 published: true
-date: 2021-08-20T17:02:54.876Z
+date: 2021-09-06T14:48:38.794Z
 tags: vitigno, bacca bianca
 editor: markdown
-dateCreated: 2021-08-20T17:02:52.257Z
+dateCreated: 2021-09-06T09:38:35.767Z
 ---
 
 # Barbera bianca

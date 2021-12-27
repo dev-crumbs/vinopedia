@@ -2,8 +2,8 @@
 title: Opera Mia – Taurasi DOCG – Tenuta Cavalier Pepe – Campania (IT) – 30🠒34€ – 3★-5★
 description: Aglianico 100% | Spezzatino di cinghiale al vino – Anatra all'arancia – Pancetta di agnello farcita
 published: true
-date: 2021-08-24T09:48:42.685Z
-tags: vino, rosso, fermo, aglianico, varietale, italia, campania, spezzatino di cinghiale al vino, anatra all'arancia, pancetta di agnello farcita, 30🠒34€, 5 stelle
+date: 2021-10-01T20:11:27.381Z
+tags: vino, rosso, aglianico, varietale, spezzatino di cinghiale al vino, anatra all'arancia, pancetta di agnello farcita, fermo, 5 stelle, campania, italia, 30🠒34€
 editor: markdown
 dateCreated: 2021-08-11T15:27:13.077Z
 ---

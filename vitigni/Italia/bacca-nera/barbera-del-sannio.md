@@ -2,10 +2,10 @@
 title: Barbera del Sannio
 description: Varietà dell'Italia centrale sempre più ben fatta e non collegata alle Barbera più settentrionali.
 published: true
-date: 2021-08-20T16:55:36.768Z
+date: 2021-09-06T09:42:17.400Z
 tags: vitigno, bacca nera
 editor: markdown
-dateCreated: 2021-08-20T16:55:33.893Z
+dateCreated: 2021-09-06T09:41:40.289Z
 ---
 
 # Barbera del Sannio

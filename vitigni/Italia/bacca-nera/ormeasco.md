@@ -2,7 +2,7 @@
 title: Ormeasco
 description: "Ormeasco è un sinonimo di "Dolcetto"
 published: true
-date: 2021-10-01T09:55:39.304Z
+date: 2021-10-01T09:55:41.862Z
 tags: vitigno, sinonimo, bacca nera
 editor: markdown
 dateCreated: 2021-10-01T09:55:39.304Z

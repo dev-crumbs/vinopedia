@@ -2,10 +2,10 @@
 title: La Galeisa – Moscato d'Asti DOCG – Caudrina – Piemonte (IT) – 10🠒14€ – 4★-5★
 description: Moscato bianco 100% | Bavarese alle pesche – Pesche ripiene con amaretti – Paste di mandorla – Torta sbrisolona
 published: true
-date: 2021-08-24T10:19:50.562Z
-tags: vino, bianco, frizzante, dolce, varietale, moscato bianco, italia, Piemonte, Bavarese alle pesche, Pesche ripiene con amaretti, Paste di mandorla, Torta sbrisolona, 10🠒14€, 5 stelle
+date: 2021-10-01T20:13:27.457Z
+tags: vino, bianco, italia, varietale, frizzante, piemonte, 5 stelle, dolce, moscato bianco, 10🠒14€, bavarese alle pesche, pesche ripiene con amaretti, paste di mandorla, torta sbrisolona
 editor: markdown
-dateCreated: 2021-08-23T12:22:31.894Z
+dateCreated: 2021-10-01T09:53:10.670Z
 ---
 
  # La Galeisa

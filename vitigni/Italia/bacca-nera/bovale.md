@@ -2,10 +2,10 @@
 title: Bovale
 description: "Bovale" è un sinonimo di "Graciano"
 published: true
-date: 2021-09-04T12:47:42.222Z
+date: 2021-09-06T14:56:17.349Z
 tags: vitigno, sinonimo, bacca nera
 editor: markdown
-dateCreated: 2021-09-04T12:47:42.222Z
+dateCreated: 2021-09-06T14:56:14.722Z
 ---
 
 # Bovale

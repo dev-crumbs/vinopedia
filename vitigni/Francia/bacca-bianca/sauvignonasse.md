@@ -2,10 +2,10 @@
 title: Sauvignonasse
 description: Varietà leggermente aromatica ora chiamata Friulano in Italia e per molto tempo confusa con il Sauvignon Blanc in Cile.
 published: true
-date: 2021-08-22T18:57:43.232Z
+date: 2021-09-06T15:08:11.496Z
 tags: vitigno, bacca bianca
 editor: markdown
-dateCreated: 2021-08-10T10:49:33.037Z
+dateCreated: 2021-09-06T09:36:12.959Z
 ---
 
 # Sauvignonasse

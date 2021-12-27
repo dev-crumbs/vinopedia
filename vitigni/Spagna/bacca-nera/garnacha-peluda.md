@@ -2,10 +2,10 @@
 title: Garnacha Peluda
 description: Downy-leaved variant of Garnacha Tinta.
 published: true
-date: 2021-08-13T08:31:50.606Z
+date: 2021-09-26T14:54:28.559Z
 tags: vitigno, bacca nera
 editor: markdown
-dateCreated: 2021-08-13T08:31:48.532Z
+dateCreated: 2021-09-06T09:47:04.765Z
 ---
 
 # Garnacha Peluda

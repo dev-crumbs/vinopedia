@@ -2,10 +2,10 @@
 title: Bonzarone – Colli Bolognesi DOC – Tenuta Bonzara – Emilia (IT) – 25🠒29€ – 4★-5★
 description: Cabernet Sauvignon 100% | Brasato al vino – Pecorino sardo stagionato – Fiorentina alla brace – Black angus al tartufo – Petto d'anatra al forno
 published: true
-date: 2021-08-24T10:17:57.280Z
-tags: vino, rosso, fermo, varietale, cabernet sauvignon, brasato al vino, pecorino sardo stagionato, fiorentina alla brace, black angus al tartufo, petto d'anatra al forno, 25🠒29€, 5 stelle
+date: 2021-10-01T20:11:56.684Z
+tags: vino, rosso, varietale, fermo, 5 stelle, cabernet sauvignon, fiorentina alla brace, brasato al vino, pecorino sardo stagionato, black angus al tartufo, petto d'anatra al forno, 25🠒29€
 editor: markdown
-dateCreated: 2021-08-18T10:27:11.126Z
+dateCreated: 2021-09-07T16:16:38.527Z
 ---
 
 # Bonzarone

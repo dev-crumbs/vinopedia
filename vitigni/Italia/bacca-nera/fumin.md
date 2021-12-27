@@ -2,10 +2,10 @@
 title: Fumin
 description: Varietà a buccia scura dal colore intenso, antica e rustica, esclusiva della Valle d'Aosta.
 published: true
-date: 2021-08-21T06:27:14.115Z
+date: 2021-09-06T16:35:44.596Z
 tags: vitigno, bacca nera
 editor: markdown
-dateCreated: 2021-08-20T17:33:58.445Z
+dateCreated: 2021-09-06T09:43:01.176Z
 ---
 
 # Fumin

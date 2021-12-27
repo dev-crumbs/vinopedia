@@ -2,10 +2,10 @@
 title: Blaufränkisch
 description: Varietà austro-ungarica dalla pelle scura e dal frutto scuro, sempre più coltivata e vinificata, che sta guadagnando terreno.
 published: true
-date: 2021-08-22T19:38:23.265Z
+date: 2021-09-06T14:48:27.377Z
 tags: vitigno, bacca nera
 editor: markdown
-dateCreated: 2021-08-10T13:48:42.601Z
+dateCreated: 2021-09-06T09:38:14.776Z
 ---
 
 # Blaufränkisch

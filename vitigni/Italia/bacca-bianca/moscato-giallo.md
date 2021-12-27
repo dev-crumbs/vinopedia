@@ -2,10 +2,10 @@
 title: Moscato giallo
 description: Varietà di moscato dorato dell'Italia settentrionale che produce principalmente vini in stile passito.
 published: true
-date: 2021-08-16T18:24:58.910Z
+date: 2021-09-06T14:49:36.235Z
 tags: vitigno, bacca bianca
 editor: markdown
-dateCreated: 2021-08-10T11:25:18.064Z
+dateCreated: 2021-09-06T09:40:06.259Z
 ---
 
 # Moscato Giallo

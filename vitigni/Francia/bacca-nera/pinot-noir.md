@@ -2,10 +2,10 @@
 title: Pinot Noir
 description: Il clone più famoso del vitigno borgognone, produce vini per lo più delicati ma infinitamente variabili.
 published: true
-date: 2021-08-22T18:45:32.231Z
+date: 2021-09-06T14:48:05.108Z
 tags: vitigno, bacca nera
 editor: markdown
-dateCreated: 2021-08-10T15:56:52.294Z
+dateCreated: 2021-09-06T09:37:35.190Z
 ---
 
 # Pinot Noir

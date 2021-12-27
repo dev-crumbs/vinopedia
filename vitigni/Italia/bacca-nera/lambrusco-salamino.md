@@ -2,10 +2,10 @@
 title: Lambrusco Salamino
 description: La più diffusa delle varietà di Lambrusco, produce i vini più ricchi di corpo e sostanza.
 published: true
-date: 2021-08-18T12:00:07.431Z
+date: 2021-09-06T14:52:00.424Z
 tags: vitigno, bacca nera
 editor: markdown
-dateCreated: 2021-08-18T11:57:01.854Z
+dateCreated: 2021-09-06T09:44:11.064Z
 ---
 
 # Lambrusco salamino
@@ -13,7 +13,7 @@ dateCreated: 2021-08-18T11:57:01.854Z
 ## Bacca
 Nera
 ## Sinonimi
-[Lambrusco Galassi](/vitigni/Italia/bacca-nera/lambrusco-galassi) (tipo a foglia rossa, vedi sotto), [Lambrusco di Santa Croce](/vitigni/Italia/bacca-nera/lambrusco-di-santa-croce)
+[Lambrusco Galassi](/vitigni/bacca-nera/lambrusco-galassi) (tipo a foglia rossa, vedi sotto), [Lambrusco di Santa Croce](/vitigni/bacca-nera/lambrusco-di-santa-croce)
 
 ## Origini e parentele
 Il Lambrusco Salamino prende il nome dalla forma cilindrica dei suoi grappoli, che ricorda un piccolo salame. Molto probabilmente è originario del comune di Santa Croce di Carpi nella provincia di Modena in Emilia-Romagna.

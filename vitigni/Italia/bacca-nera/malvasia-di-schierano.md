@@ -2,10 +2,10 @@
 title: Malvasia Di Schierano
 description: Malvasia minore e dalla buccia scura del Piemonte che produce rossi dolci leggermente aromatici.
 published: true
-date: 2021-08-20T17:34:02.724Z
+date: 2021-09-06T14:52:11.815Z
 tags: vitigno, bacca nera
 editor: markdown
-dateCreated: 2021-08-19T05:56:55.916Z
+dateCreated: 2021-09-06T09:44:24.710Z
 ---
 
 # Malvasia di Schierano
@@ -20,10 +20,10 @@ Malvasia a Grappolo Corto, Malvasia di Castelnuovo Don Bosco
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Malvasia Di Casorzo](/vitigni/Italia/bacca-bianca/malvasia-di-casorzo), [Malvasia Nera Lunga](/vitigni/Italia/bacca-nera/malvasia-nera-lunga), Malvasia Rosa (mutazione di colore di [Malvasia Di Candia Aromatica](/vitigni/Italia/bacca-bianca/malvasia-di-candia-aromatica), Piacenza)
+[Malvasia Di Casorzo](/vitigni/bacca-bianca/malvasia-di-casorzo), [Malvasia Nera Lunga](/vitigni/bacca-nera/malvasia-nera-lunga), Malvasia Rosa (mutazione di colore di [Malvasia Di Candia Aromatica](/vitigni/bacca-bianca/malvasia-di-candia-aromatica), Piacenza)
 
 ## Origini e parentele
-La prima menzione di una Malvasia di colore rosso in Piemonte si trova in De Maria e Leardi (1875), ma non si sa se fosse un riferimento a [Malvasia Nera Lunga](/vitigni/Italia/bacca-nera/malvasia-nera-lunga), Malvasia di Schierano o [Malvasia Di Casorzo](/vitigni/Italia/bacca-bianca/malvasia-di-casorzo). Recenti profilazioni del DNA hanno dimostrato che la Malvasia di Schierano è geneticamente vicina alla [Malvasia Del Lazio](/vitigni/Italia/bacca-bianca/malvasia-del-lazio) e al [moscato di alessandria](/vitigni/Italia/bacca-bianca/moscato-di-alessandria) (Lacombe et al. 2007).
+La prima menzione di una Malvasia di colore rosso in Piemonte si trova in De Maria e Leardi (1875), ma non si sa se fosse un riferimento a [Malvasia Nera Lunga](/vitigni/bacca-nera/malvasia-nera-lunga), Malvasia di Schierano o [Malvasia Di Casorzo](/vitigni/bacca-bianca/malvasia-di-casorzo). Recenti profilazioni del DNA hanno dimostrato che la Malvasia di Schierano è geneticamente vicina alla [Malvasia Del Lazio](/vitigni/bacca-bianca/malvasia-del-lazio) e al [moscato di alessandria](/vitigni/bacca-bianca/moscato-di-alessandria) (Lacombe et al. 2007).
 
 ## Caratteristiche viticole
 

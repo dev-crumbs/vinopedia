@@ -2,7 +2,7 @@
 title: Alicante Henri Bouschet
 description: Produttivo, ampiamente diffuso, incrocio della Francia del sud in declino in Francia ma in crescita nel sud del Portogallo.
 published: true
-date: 2021-10-03T14:23:22.142Z
+date: 2021-10-03T14:23:24.633Z
 tags: vitigno, bacca nera
 editor: markdown
 dateCreated: 2021-10-03T14:23:22.142Z

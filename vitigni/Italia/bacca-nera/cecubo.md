@@ -2,10 +2,10 @@
 title: Cecubo
 description: "Cecubo" è un sinonimo.
 published: true
-date: 2021-07-30T16:35:50.589Z
+date: 2021-09-06T14:59:16.614Z
 tags: vitigno, sinonimo, bacca nera
 editor: markdown
-dateCreated: 2021-07-30T15:53:11.815Z
+dateCreated: 2021-09-06T14:59:13.883Z
 ---
 
 # Cecubo

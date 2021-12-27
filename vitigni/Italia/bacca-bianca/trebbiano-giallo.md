@@ -2,10 +2,10 @@
 title: Trebbiano giallo
 description: Un altro Trebbiano, coltivato e utilizzato in blend principalmente intorno a Roma.
 published: true
-date: 2021-08-21T14:31:52.925Z
+date: 2021-09-06T14:49:50.535Z
 tags: vitigno, bacca bianca
 editor: markdown
-dateCreated: 2021-08-21T14:25:07.691Z
+dateCreated: 2021-09-06T09:40:33.580Z
 ---
 
 # Trebbiano giallo

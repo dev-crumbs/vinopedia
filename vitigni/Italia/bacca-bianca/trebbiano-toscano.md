@@ -2,10 +2,10 @@
 title: Trebbiano toscano
 description: Varietà toscana conosciuta anche come Ugni Blanc che probabilmente produce più vino (tipicamente aspro e neutro) di qualsiasi altro vitigno al mondo.
 published: true
-date: 2021-08-21T14:55:11.758Z
+date: 2021-09-06T14:50:02.186Z
 tags: vitigno, bacca bianca
 editor: markdown
-dateCreated: 2021-08-21T14:53:03.358Z
+dateCreated: 2021-09-06T09:40:48.251Z
 ---
 
 # Trebbiano toscano

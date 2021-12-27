@@ -2,10 +2,10 @@
 title: Cornalin
 description: Antico vitigno a bacca nera della Valle d'Aosta nel nord Italia, diffuso nel Valaeis in Svizzera come Humagne Rouge.
 published: true
-date: 2021-08-10T17:51:53.111Z
+date: 2021-09-06T16:35:44.596Z
 tags: vitigno
 editor: markdown
-dateCreated: 2021-08-09T18:29:05.353Z
+dateCreated: 2021-09-06T09:42:13.604Z
 ---
 
 # Cornalin

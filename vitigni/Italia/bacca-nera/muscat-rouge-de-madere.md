@@ -2,10 +2,10 @@
 title: Muscat Rouge de Madère
 description: Vitigno italiano non coltivato per fini commerciali
 published: true
-date: 2021-08-10T17:18:00.276Z
+date: 2021-09-06T09:44:56.582Z
 tags: vitigno, non commerciale
 editor: markdown
-dateCreated: 2021-08-09T18:44:13.410Z
+dateCreated: 2021-09-06T09:44:52.271Z
 ---
 
 # Muscat Rouge de Madère

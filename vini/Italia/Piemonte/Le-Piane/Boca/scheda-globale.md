@@ -2,10 +2,10 @@
 title: Boca – Boca Doc – Le Piane – Piemonte (IT) – 55🠒59€ – 5★
 description: Nebbiolo 85% + Vespolina 15% | Fagiano tartufato – Petto di faraona con uvetta e agrumi – Finanziera alla torinese – Faraona in casseruola
 published: true
-date: 2021-08-24T10:19:50.562Z
-tags: vino, italia, rosso, blend, nebbiolo, vespolina, piemonte, fagiano tartufato, petto di faraona con uvetta e agrumi, finanziera alla torinese, faraona in casseruola, 55🠒59€, 5 stelle
+date: 2021-10-01T19:59:09.934Z
+tags: vino, italia, rosso, blend, piemonte, nebbiolo, 5 stelle, fagiano tartufato, vespolina, petto di faraona con uvetta e agrumi, finanziera alla torinese, faraona in casseruola, 55🠒59€
 editor: markdown
-dateCreated: 2021-08-23T12:22:31.894Z
+dateCreated: 2021-09-07T14:45:31.356Z
 ---
 
  # Boca

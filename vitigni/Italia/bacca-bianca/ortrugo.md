@@ -2,10 +2,10 @@
 title: Ortrugo
 description: Vitigno emiliano spesso in blend con la Malvasia più aromatica.
 published: true
-date: 2021-08-21T14:36:06.818Z
+date: 2021-09-06T14:49:38.714Z
 tags: vitigno, bacca bianca
 editor: markdown
-dateCreated: 2021-08-21T06:32:58.510Z
+dateCreated: 2021-09-06T09:40:14.066Z
 ---
 
 # Ortrugo

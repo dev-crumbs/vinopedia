@@ -2,10 +2,10 @@
 title: Garganega
 description: Un bianco delicato strettamente associato al Soave il cui vigore e le cui rese necessitano di uno stretto controllo.
 published: true
-date: 2021-08-21T16:52:11.801Z
+date: 2021-09-06T14:48:56.281Z
 tags: vitigno, bacca bianca
 editor: markdown
-dateCreated: 2021-08-20T13:18:43.818Z
+dateCreated: 2021-09-06T09:39:02.166Z
 ---
 
 # Garganega

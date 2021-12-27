@@ -2,10 +2,10 @@
 title: Landal
 description: Ibrido francese in calo di popolarità e resistente alle malattie.
 published: true
-date: 2021-08-18T12:58:26.846Z
+date: 2021-09-06T09:39:20.975Z
 tags: vitigno, bacca nera
 editor: markdown
-dateCreated: 2021-08-18T12:58:24.386Z
+dateCreated: 2021-09-06T09:37:13.708Z
 ---
 
 # Landal

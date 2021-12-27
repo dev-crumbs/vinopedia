@@ -2,10 +2,10 @@
 title: San Leonardo – Vigneti delle Dolomiti IGT – Tenuta San Leonardo – Trentino (IT) – 50🠒54€ – 2★-5★
 description: Cabernet Sauvignon 60% + Carmenère 30% + Merlot 10% | Filetto alle erbe aromatiche – Guancia di vitello a bassa temperatura – Guancia di vitello brasata – Bitto d'alpeggio
 published: true
-date: 2021-08-24T11:16:44.400Z
-tags: vino, rosso, fermo, blend, Cabernet Sauvignon, Carmenère, Merlot, italia, trentino, filetto alle erbe aromatiche, guancia di vitello a bassa temperatura, guancia di vitello brasata, bitto d'alpeggio, 50🠒54€, 5 stelle
+date: 2021-10-01T20:15:02.935Z
+tags: vino, italia, rosso, blend, trentino, fermo, 5 stelle, cabernet sauvignon, merlot, carmenère, filetto alle erbe aromatiche, guancia di vitello a bassa temperatura, guancia di vitello brasata, bitto d'alpeggio, 50🠒54€
 editor: markdown
-dateCreated: 2021-08-24T11:16:41.742Z
+dateCreated: 2021-09-07T09:47:22.370Z
 ---
 
 # San Leonardo

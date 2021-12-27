@@ -2,10 +2,10 @@
 title: Malvasia bianca di Piemonte
 description: La Malvasia più coltivata in California. Aromatica, dalla buccia dura, originariamente italiana.
 published: true
-date: 2021-08-18T15:43:55.228Z
+date: 2021-09-06T14:49:13.559Z
 tags: vitigno, bacca bianca
 editor: markdown
-dateCreated: 2021-08-18T15:43:55.228Z
+dateCreated: 2021-09-06T09:39:26.396Z
 ---
 
 # Malvasia bianca di Piemonte

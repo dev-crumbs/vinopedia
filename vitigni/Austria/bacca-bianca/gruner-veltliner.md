@@ -2,10 +2,10 @@
 title: Grüner Veltliner
 description: Varietà di vino bianco austriaco alla moda, versatile e di alta qualità
 published: true
-date: 2021-08-22T18:37:24.638Z
+date: 2021-09-06T15:06:43.238Z
 tags: vitigno, bacca bianca
 editor: markdown
-dateCreated: 2021-08-22T17:10:48.508Z
+dateCreated: 2021-09-06T09:34:03.029Z
 ---
 
 # Grüner Veltliner

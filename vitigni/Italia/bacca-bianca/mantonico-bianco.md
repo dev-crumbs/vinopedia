@@ -2,7 +2,7 @@
 title: Mantonico bianco
 description: Vitigno minore calabrese
 published: true
-date: 2021-09-08T09:46:31.914Z
+date: 2021-09-08T09:46:34.678Z
 tags: vitigno, bacca bianca
 editor: markdown
 dateCreated: 2021-09-08T09:46:31.914Z

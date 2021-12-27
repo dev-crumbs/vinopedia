@@ -2,10 +2,10 @@
 title: Muscat Blanc à Petits Grains
 description: Il classico Moscato a bacche piccole molto diffuso in tutto il mondo.
 published: true
-date: 2021-08-10T11:27:10.108Z
+date: 2021-09-06T15:07:49.780Z
 tags: vitigno, bacca bianca
 editor: markdown
-dateCreated: 2021-08-10T11:27:07.631Z
+dateCreated: 2021-09-06T09:35:42.706Z
 ---
 
 # Muscat Blanc à Petits Grains

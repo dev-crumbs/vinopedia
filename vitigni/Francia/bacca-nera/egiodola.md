@@ -2,10 +2,10 @@
 title: Egiodiola
 description: Recente incrocio produttivo di Bordeaux che inizia a mostrare un certo potenziale in patria e all'estero. Abbastanza tannico.
 published: true
-date: 2021-08-13T07:02:30.126Z
+date: 2021-09-26T14:54:09.700Z
 tags: vitigno, bacca nera
 editor: markdown
-dateCreated: 2021-08-07T16:54:48.104Z
+dateCreated: 2021-09-06T09:37:05.370Z
 ---
 
 # Egiodiola

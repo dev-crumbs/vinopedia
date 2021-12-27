@@ -2,10 +2,10 @@
 title: Nitranka
 description: Incrocio slovacca autorizzata di recente e sempre più popolare.
 published: true
-date: 2021-08-08T09:47:15.231Z
+date: 2021-09-06T14:53:46.622Z
 tags: vitigno, bacca nera
 editor: markdown
-dateCreated: 2021-08-08T06:26:57.251Z
+dateCreated: 2021-09-06T09:46:35.002Z
 ---
 
 # Nitranka
@@ -14,7 +14,7 @@ dateCreated: 2021-08-08T06:26:57.251Z
 Nera
 
 ## Origini e parentele
-Nitranka, precedentemente conosciuta come Nitra, è un incrocio tra [Castets](/vitigni/bacca-nera/castets) e [Abouriou](/vitigni/Francia/bacca-nera/abouriou) ottenuto nel 1976 da Dorota Pospíšilová presso il centro di ricerca di enologia e viticoltura VSSVVM a Modra, Slovacchia. È un vitigno fratello di [Hron](/vitigni/bacca-nera/hron), [Rimava](/vitigni/bacca-nera/rimava), [Váh](/vitigni/bacca-nera/vah) e probabilmente sarà registrato nel 2012. Il nome è stato cambiato per evitare confusione sulle etichette del vino tra la varietà e la sua denominazione d'origine, dato che Nitra è una città e una regione vinicola nella Slovacchia occidentale.
+Nitranka, precedentemente conosciuta come Nitra, è un incrocio tra [Castets](/vitigni/bacca-nera/castets) e [Abouriou](/vitigni/bacca-nera/abouriou) ottenuto nel 1976 da Dorota Pospíšilová presso il centro di ricerca di enologia e viticoltura VSSVVM a Modra, Slovacchia. È un vitigno fratello di [Hron](/vitigni/bacca-nera/hron), [Rimava](/vitigni/bacca-nera/rimava), [Váh](/vitigni/bacca-nera/vah) e probabilmente sarà registrato nel 2012. Il nome è stato cambiato per evitare confusione sulle etichette del vino tra la varietà e la sua denominazione d'origine, dato che Nitra è una città e una regione vinicola nella Slovacchia occidentale.
 
 ## Caratteristiche Viticole
 

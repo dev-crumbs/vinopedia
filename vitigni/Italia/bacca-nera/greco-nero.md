@@ -2,10 +2,10 @@
 title: Greco nero
 description: Un gruppo di vitigni calabresi diversi che condividono confusamente un nome
 published: true
-date: 2021-08-19T12:44:45.729Z
+date: 2021-09-06T14:51:34.206Z
 tags: vitigno, bacca nera
 editor: markdown
-dateCreated: 2021-08-19T12:40:05.717Z
+dateCreated: 2021-09-06T09:43:19.047Z
 ---
 
 # Greco nero

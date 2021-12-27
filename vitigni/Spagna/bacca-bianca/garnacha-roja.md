@@ -2,10 +2,10 @@
 title: Garnacha Roja
 description: Mutazione grigia della Garnacha, profumato e corposo.
 published: true
-date: 2021-08-15T13:33:08.639Z
+date: 2021-09-26T14:54:25.882Z
 tags: vitigno, bacca grigia
 editor: markdown
-dateCreated: 2021-08-13T08:26:11.480Z
+dateCreated: 2021-09-06T09:46:44.180Z
 ---
 
 # Garnacha Roja

@@ -2,7 +2,7 @@
 title: Falanghina flegrea
 description: L'uva bianca simbolo della Campania.
 published: true
-date: 2021-09-30T15:52:51.791Z
+date: 2021-09-30T16:11:37.478Z
 tags: vitigno, bacca bianca
 editor: markdown
 dateCreated: 2021-09-30T15:52:51.791Z

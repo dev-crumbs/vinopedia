@@ -2,10 +2,10 @@
 title: Barolo – Barolo DOCG – Ceretto – Piemonte (IT) – 50🠒54€ – 3★-4★
 description: Nebbiolo 100% | Agnolotti del plin al sugo d'arrosto – Agnello alla bordolese
 published: true
-date: 2021-08-24T10:19:50.562Z
-tags: vino, italia, rosso, varietale, nebbiolo, piemonte, agnolotti del plin al sugo d'arrosto, agnello alla bordolese, 50🠒54€, 4 stelle
+date: 2021-10-01T20:13:30.025Z
+tags: vino, italia, rosso, varietale, piemonte, nebbiolo, 4 stelle, agnolotti del plin al sugo d'arrosto, agnello alla bordolese, 50🠒54€
 editor: markdown
-dateCreated: 2021-08-23T12:22:31.894Z
+dateCreated: 2021-09-24T12:30:59.843Z
 ---
 
  # Barolo

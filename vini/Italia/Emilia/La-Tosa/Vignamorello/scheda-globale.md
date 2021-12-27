@@ -2,10 +2,10 @@
 title: Vignamorello – Gutturnio Superiore DOC – La Tosa – Emilia (IT) – 15🠒19€ – 3★-5★
 description: Barbera 60% + Croatina 40% | Filetto di manzo al pepe nero – Arrosto di vitello ripieno – Bocconcini di cavallo al vino
 published: true
-date: 2021-08-24T12:31:23.089Z
-tags: vino, rosso, fermo, blend, barbera, croatina, italia, emilia, filetto di manzo al pepe nero, arrosto di vitello ripieno, bocconcini di cavallo al vino, 15🠒19€, 5 stelle
+date: 2021-10-01T20:11:48.495Z
+tags: vino, italia, rosso, blend, emilia, fermo, 5 stelle, barbera, croatina, filetto di manzo al pepe nero, arrosto di vitello ripieno, bocconcini di cavallo al vino, 15🠒19€
 editor: markdown
-dateCreated: 2021-08-24T11:31:20.502Z
+dateCreated: 2021-09-03T21:02:59.390Z
 ---
 
 # Vignamorello

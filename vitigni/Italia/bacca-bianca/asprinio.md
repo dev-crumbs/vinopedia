@@ -2,7 +2,7 @@
 title: Asprinio
 description: "Asprinio" è un sinonimo di "Greco"
 published: true
-date: 2021-09-06T16:44:18.777Z
+date: 2021-09-06T16:44:21.761Z
 tags: vitigno, sinonimo, bacca bianca
 editor: markdown
 dateCreated: 2021-09-06T16:44:18.777Z

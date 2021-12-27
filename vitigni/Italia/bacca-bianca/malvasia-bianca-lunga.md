@@ -1,11 +1,11 @@
 ---
-title: Malvasia bianca lunga 
-description:  Varietà toscana neutra ampiamente distribuita, usata in miscele sia per vini secchi che per Vin Santo.
+title: Malvasia bianca lunga
+description: Varietà toscana neutra ampiamente distribuita, usata in miscele sia per vini secchi che per Vin Santo.
 published: true
-date: 2021-08-19T06:29:12.428Z
+date: 2021-09-06T14:49:16.337Z
 tags: vitigno, bacca bianca
 editor: markdown
-dateCreated: 2021-08-18T15:51:18.243Z
+dateCreated: 2021-09-06T09:39:30.555Z
 ---
 
 # Malvasia bianca lunga

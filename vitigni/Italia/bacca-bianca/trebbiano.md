@@ -2,10 +2,10 @@
 title: Trebbiano
 description: Nome generico attribuito a diversi vitigni italiani non imparentati tra loro
 published: true
-date: 2021-08-23T05:37:30.043Z
+date: 2021-09-06T14:50:05.137Z
 tags: vitigno, bacca bianca
 editor: markdown
-dateCreated: 2021-08-21T14:00:15.167Z
+dateCreated: 2021-09-06T09:40:52.094Z
 ---
 
 # Trebbiano

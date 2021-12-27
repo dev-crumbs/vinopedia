@@ -2,10 +2,10 @@
 title: Roter Veltliner
 description: Antica varietà austriaca che produce un potente vino bianco.
 published: true
-date: 2021-08-22T19:35:03.416Z
+date: 2021-09-06T15:06:54.178Z
 tags: vitigno, bacca bianca
 editor: markdown
-dateCreated: 2021-08-22T18:32:29.163Z
+dateCreated: 2021-09-06T09:34:19.420Z
 ---
 
 # Roter Veltliner

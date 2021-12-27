@@ -2,7 +2,7 @@
 title: Lambrusco a foglia frastagliata
 description: "Lambrusco a foglia frastagliata" è un sinonimo.
 published: true
-date: 2021-09-06T15:35:08.357Z
+date: 2021-09-06T15:35:11.065Z
 tags: vitigno, sinonimo, bacca nera
 editor: markdown
 dateCreated: 2021-09-06T15:35:08.357Z

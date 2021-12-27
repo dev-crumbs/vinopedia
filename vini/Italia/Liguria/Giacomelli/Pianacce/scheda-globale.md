@@ -2,10 +2,10 @@
 title: Pianacce – Colli di Luni DOC – Giacomelli – Liguria (IT) – 15🠒19€ – 3★-5★
 description: Vermentino 100% | Sogliola alla mugnaia – Tagliolini al sugo di bianchetti – Tortino di acciughe e patate – Involtini di pesce spada con uvetta e pinoli
 published: true
-date: 2021-08-24T11:16:44.400Z
-tags: vino, bianco, fermo, varietale, vermentino, italia, liguria, sogliola alla mugnaia, tagliolini al sugo di bianchetti, tortino di acciughe e patate, involtini di pesce spada con uvetta e pinoli, 15🠒19€, 5 stelle
+date: 2021-10-01T20:12:38.725Z
+tags: vino, bianco, italia, varietale, liguria, fermo, 5 stelle, vermentino, sogliola alla mugnaia, tagliolini al sugo di bianchetti, involtini di pesce spada con uvetta e pinoli, tortino di acciughe e patate, 15🠒19€
 editor: markdown
-dateCreated: 2021-08-24T11:16:41.742Z
+dateCreated: 2021-09-03T21:03:14.410Z
 ---
 
 # Grand-Père

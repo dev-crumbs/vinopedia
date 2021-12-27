@@ -2,10 +2,10 @@
 title: Pignolo
 description: Vitigno raro e salvato di recente che mostra un ottimo potenziale in Friuli.
 published: true
-date: 2021-08-10T17:03:39.657Z
+date: 2021-09-06T14:53:03.772Z
 tags: vitigno, bacca nera
 editor: markdown
-dateCreated: 2021-07-30T16:40:16.470Z
+dateCreated: 2021-09-06T09:45:42.325Z
 ---
 
 # Pignolo
@@ -17,7 +17,7 @@ Nera
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Aglianico](/vitigni/Italia/bacca-nera/aglianico), [Pignola Valtellinese](/vitigni/bacca-nera/pignola-valtellinese)
+[Aglianico](/vitigni/bacca-nera/aglianico), [Pignola Valtellinese](/vitigni/bacca-nera/pignola-valtellinese)
 
 Origini e Parentele
 

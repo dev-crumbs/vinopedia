@@ -2,10 +2,10 @@
 title: Malvasia Di Lanzarote
 description: Varietà identificata di recente che si trova sulle Islas Canarie, facilmente confondibile con altre Malvasie
 published: true
-date: 2021-08-19T05:47:59.405Z
+date: 2021-09-06T14:53:54.739Z
 tags: vitigno, bacca bianca
 editor: markdown
-dateCreated: 2021-08-18T16:09:03.188Z
+dateCreated: 2021-09-06T09:46:55.116Z
 ---
 
 # Malvasia Di Lanzarote
@@ -20,7 +20,7 @@ Málaga (Tacoronte-Acentejo su Tenerife), Malvasía (Lanzarote, Gran Canaria e V
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Malvasia Bianca Lunga](/vitigni/Italia/bacca-bianca/malvasia-bianca-lunga) (Italia), [Malvasia Di Lipari](/vitigni/Italia/bacca-bianca/malvasia-di-lipari) (o Malvasía de Sitges sulle Isole Canarie)
+[Malvasia Bianca Lunga](/vitigni/bacca-bianca/malvasia-bianca-lunga) (Italia), [Malvasia Di Lipari](/vitigni/bacca-bianca/malvasia-di-lipari) (o Malvasía de Sitges sulle Isole Canarie)
 
 
 ## Origini e parentele

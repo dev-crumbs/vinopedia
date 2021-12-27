@@ -2,10 +2,10 @@
 title: Horozkarasi
 description: Varietà turca utilizzata più come uva da tavola che per il vino
 published: true
-date: 2021-08-10T14:22:12.659Z
+date: 2021-09-06T14:54:08.872Z
 tags: vitigno, bacca nera
 editor: markdown
-dateCreated: 2021-08-10T14:11:51.571Z
+dateCreated: 2021-09-06T14:54:05.941Z
 ---
 
 # Horozkarasi
