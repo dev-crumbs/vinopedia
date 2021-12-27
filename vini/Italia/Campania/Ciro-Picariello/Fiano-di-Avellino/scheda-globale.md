@@ -1,9 +1,9 @@
 ---
-title: Fiano di Avellino – Fiano di Avellino DOCG – Ciro Picariello – Campania (IT) – 15🠒19€ – 4★-5★
+title: Fiano di Avellino – Fiano di Avellino DOCG – Ciro Picariello – Campania (IT) – 15-19€ – 4★-5★
 description: Fiano 100% | Risotto con zucca provola e gamberi crudi – Chele di astice con asparagi – Ricciola scottata con ricci di mare
 published: true
 date: 2021-10-04T06:50:59.882Z
-tags: vino, bianco, campania, italia, varietale, fermo, 5 stelle, 15🠒19€, fiano, risotto con zucca provola e gamberi crudi, chele di astice, ricciola scottata
+tags: vino, bianco, campania, italia, varietale, fermo, 5 stelle, 15-19€, fiano, risotto con zucca provola e gamberi crudi, chele di astice, ricciola scottata
 editor: markdown
 dateCreated: 2021-10-04T06:50:57.503Z
 ---
@@ -18,7 +18,7 @@ dateCreated: 2021-10-04T06:50:57.503Z
 - **Composizione:** 100% [Fiano](/vitigni/Italia/bacca-bianca/fiano)
 - **Affinamento:** 8 mesi in acciaio + 4 in bottiglia
 - **Alcol:** 12.5%
-- **Fascia di prezzo:** 15🠒19€
+- **Fascia di prezzo:** 15-19€
 
 {.grid-list}
 

@@ -1,9 +1,9 @@
 ---
-title: Pomédes – Friuli Colli Orientali DOC – Scubla – Friuli Venezia Giulia (IT) – 20🠒24€ – 4★-5★
+title: Pomédes – Friuli Colli Orientali DOC – Scubla – Friuli Venezia Giulia (IT) – 20-24€ – 4★-5★
 description: Pinot bianco 60% + Tocai Friulano 30% + Riesling renano 10% | Carpaccio di gamberi con burrata – Agnolotti di ricotta e tartufo – Gamberi al sale – Astice alla catalana – Gnocchi tartufo e noci
 published: true
 date: 2021-10-01T20:12:07.151Z
-tags: vino, bianco, italia, blend, friuli venezia giulia, pinot bianco, tocai friuliano, riesling renano, carpaccio di gamberi con burrata, agnolotti di ricotta e tartufo, gamberi al sale, astice alla catalana, gnocchi tartufo e noci, 5 stelle, fermo, 20🠒24€
+tags: vino, bianco, italia, blend, friuli venezia giulia, pinot bianco, tocai friuliano, riesling renano, carpaccio di gamberi con burrata, agnolotti di ricotta e tartufo, gamberi al sale, astice alla catalana, gnocchi tartufo e noci, 5 stelle, fermo, 20-24€
 editor: markdown
 dateCreated: 2021-08-25T13:28:13.571Z
 ---
@@ -18,7 +18,7 @@ dateCreated: 2021-08-25T13:28:13.571Z
 - **Composizione:** 70% [Pinot bianco](/vitigni/Italia/bacca-bianca/pinot-bianco) + 20% [Tocai friulano](/vitigni/Italia/bacca-bianca/tocai-friulano) + 10% [Riesling renano](/vitigni/Germania/bacca-bianca/riesling-renano)
 - **Affinamento:** 8 mesi in rovere francese + 10 mesi in acciaio
 - **Alcol:** 14%
-- **Fascia di prezzo:** 20🠒24€
+- **Fascia di prezzo:** 20-24€
 {.grid-list}
 
 ## Descrizione del produttore

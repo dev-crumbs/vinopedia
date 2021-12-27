@@ -1,9 +1,9 @@
 ---
-title: Morellino di Scansano – Morellino di Scansano DOCG – Podere 414 – Toscana (IT) – 15🠒19€ – 2★-5★
+title: Morellino di Scansano – Morellino di Scansano DOCG – Podere 414 – Toscana (IT) – 15-19€ – 2★-5★
 description: Sangiovese 85% + Altri 15% | Fiorentina alla brace – Cinghiale alla maremmana – Agnello a scottadito – Cinghiale alle erbe – Pecorino stagionato
 published: true
 date: 2021-10-04T06:51:28.811Z
-tags: vino, italia, rosso, blend, toscana, sangiovese, fermo, 5 stelle, syrah, fiorentina alla brace, colorino, 15🠒19€, ciliegiolo, alicante, cinghiale alla maremmana, agnello a scottadito, cinghiale alle erbe, pecorino stagionato
+tags: vino, italia, rosso, blend, toscana, sangiovese, fermo, 5 stelle, syrah, fiorentina alla brace, colorino, 15-19€, ciliegiolo, alicante, cinghiale alla maremmana, agnello a scottadito, cinghiale alle erbe, pecorino stagionato
 editor: markdown
 dateCreated: 2021-10-04T06:51:26.317Z
 ---
@@ -18,7 +18,7 @@ dateCreated: 2021-10-04T06:51:26.317Z
 - **Composizione:** 85% [Sangiovese](/vitigni/Italia/bacca-nera/sangiovese) + 5% [Ciliegiolo](/vitigni/Italia/bacca-nera/ciliegiolo) + 5% [Alicante](/vitigni/Francia/bacca-nera/alicante) + 3% [Colorino](/vitigni/Italia/bacca-nera/colorino) + 2% [Syrah](/vitigni/Francia/bacca-nera/syrah) 
 - **Affinamento:** 10 mesi in tonneau
 - **Alcol:** 14.5%
-- **Fascia di prezzo:** 15🠒19€
+- **Fascia di prezzo:** 15-19€
 {.grid-list}
 
 ## Descrizione del produttore

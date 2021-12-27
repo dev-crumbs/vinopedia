@@ -1,9 +1,9 @@
 ---
-title: Barbaresco Masseria  – Barbaresco DOCG – Vietti – Piemonte (IT) – 40🠒44€ – 3★
+title: Barbaresco Masseria  – Barbaresco DOCG – Vietti – Piemonte (IT) – 40-44€ – 3★
 description: Nebbiolo 100%
 published: true
 date: 2021-10-01T19:59:30.550Z
-tags: vino, italia, rosso, varietale, piemonte, nebbiolo, 3 stelle, 40🠒44€
+tags: vino, italia, rosso, varietale, piemonte, nebbiolo, 3 stelle, 40-44€
 editor: markdown
 dateCreated: 2021-09-24T14:29:23.890Z
 ---
@@ -18,7 +18,7 @@ dateCreated: 2021-09-24T14:29:23.890Z
 - **Composizione:** 100% [Nebbiolo](/vitigni/Italia/bacca-nera/nebbiolo)
 - **Affinamento:** 24 mesi in botte grande
 - **Alcol:** 14%
-- **Fascia di prezzo:** 40🠒44€
+- **Fascia di prezzo:** 40-44€
 {.grid-list}
 
 ## Descrizione del produttore

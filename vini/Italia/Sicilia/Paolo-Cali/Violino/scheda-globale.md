@@ -1,9 +1,9 @@
 ---
-title: Violino – Vittoria DOC – Paolo Calì – Sicilia (IT) – 15🠒19€ – 2★-5★
+title: Violino – Vittoria DOC – Paolo Calì – Sicilia (IT) – 15-19€ – 2★-5★
 description: Nero d'Avola 100% | Agnello al forno – Costata di maiale – Falsomagro bianco – Scaloppine alla pizzaiola
 published: true
 date: 2021-10-04T06:51:22.379Z
-tags: vino, italia, rosso, sicilia, varietale, fermo, 5 stelle, scaloppine alla pizzaiola, nero d'avola, agnello al forno, costata di maiale, falsomagro bianco 15🠒19€
+tags: vino, italia, rosso, sicilia, varietale, fermo, 5 stelle, scaloppine alla pizzaiola, nero d'avola, agnello al forno, costata di maiale, falsomagro bianco 15-19€
 editor: markdown
 dateCreated: 2021-10-04T06:51:19.833Z
 ---
@@ -18,7 +18,7 @@ dateCreated: 2021-10-04T06:51:19.833Z
 - **Composizione:** 100% [Nero d'Avola](/vitigni/Italia/bacca-nera/nero-d-avola)
 - **Affinamento:** 12 mesi in acciaio + 4 in legno
 - **Alcol:** 13%
-- **Fascia di prezzo:** 15🠒19€
+- **Fascia di prezzo:** 15-19€
 {.grid-list}
 
 ## Descrizione del produttore

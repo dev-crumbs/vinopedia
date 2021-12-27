@@ -1,9 +1,9 @@
 ---
-title: Vigna Cataratte Riserva – Aglianico del Taburno DOCG – Fontanavecchia – Campania (IT) – 15🠒19€ – 5★
+title: Vigna Cataratte Riserva – Aglianico del Taburno DOCG – Fontanavecchia – Campania (IT) – 15-19€ – 5★
 description: Aglianico 100% | Stracotto di cinghiale – Coda alla vaccinara – Caciocavallo stagionato
 published: true
 date: 2021-10-01T19:56:25.138Z
-tags: vino, rosso, aglianico, varietale, stracotto di cinghiale, coda alla vaccinara, caciocavallo stagionato, fermo, 5 stelle, 15🠒19€
+tags: vino, rosso, aglianico, varietale, stracotto di cinghiale, coda alla vaccinara, caciocavallo stagionato, fermo, 5 stelle, 15-19€
 editor: markdown
 dateCreated: 2021-08-22T21:27:45.497Z
 ---
@@ -18,7 +18,7 @@ dateCreated: 2021-08-22T21:27:45.497Z
 - **Composizione:** 100% [Aglianico](/vitigni/Italia/bacca-nera/aglianico)
 - **Affinamento:** 36 mesi in acciaio + 12 mesi in barrique
 - **Alcol:** 14.5%
-- **Fascia di prezzo:** 15🠒19€
+- **Fascia di prezzo:** 15-19€
 
 {.grid-list}
 

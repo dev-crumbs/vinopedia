@@ -1,9 +1,9 @@
 ---
-title: Santa Patena – Aversa Asprinio DOC – I Borboni – Campania (IT) – 10🠒14€ – 4★-5★
+title: Santa Patena – Aversa Asprinio DOC – I Borboni – Campania (IT) – 10-14€ – 4★-5★
 description: Asprinio 100% | zuppa di anguilla – Tempura di calamari su nero di seppia – Carbonara di mare – Anguilla fritta
 published: true
 date: 2021-10-01T20:11:32.706Z
-tags: vino, campania, italia, rosso, varietale, fermo, 5 stelle, asprinio, zuppa di anguilla, tempura di calamari su nero di seppia, carbonara di mare, anguilla fritta, 10🠒14€
+tags: vino, campania, italia, rosso, varietale, fermo, 5 stelle, asprinio, zuppa di anguilla, tempura di calamari su nero di seppia, carbonara di mare, anguilla fritta, 10-14€
 editor: markdown
 dateCreated: 2021-09-03T21:02:48.129Z
 ---
@@ -18,7 +18,7 @@ dateCreated: 2021-09-03T21:02:48.129Z
 - **Composizione:** 100% [Asprinio](/vitigni/Italia/bacca-bianca/asprinio)
 - **Affinamento:** 12 mesi sui lieviti in acciaio + 6 mesi in bottiglia
 - **Alcol:** 12.5%
-- **Fascia di prezzo:** 10🠒14€
+- **Fascia di prezzo:** 10-14€
 
 {.grid-list}
 

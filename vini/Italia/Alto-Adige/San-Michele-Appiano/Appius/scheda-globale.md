@@ -1,9 +1,9 @@
 ---
-title: Appius – Alto Adige DOC – San Michele Appiano – Alto-Adige (IT) – 100🠒124€ – 5★
+title: Appius – Alto Adige DOC – San Michele Appiano – Alto-Adige (IT) – 100-124€ – 5★
 description: Sauvignon blanc + Chardonnay + Pinot grigio + Pinot bianco | Risotto allo zafferano – Storione affumicato con caviale e porri – Capesante gratinate – Blinis con trota affumicata ed erba cipollina – Astice all'armoricana
 published: true
 date: 2021-10-01T19:55:36.958Z
-tags: vino, bianco, italia, blend, chardonnay, pinot grigio, fermo, 5 stelle, alto-adige, sauvignon blanc, risotto allo zafferano, storione affumicato con caviale e porri, capesante gratinate, blinis con trota affumicata ed erba cipollina, astice all'armoricana, 100🠒124€
+tags: vino, bianco, italia, blend, chardonnay, pinot grigio, fermo, 5 stelle, alto-adige, sauvignon blanc, risotto allo zafferano, storione affumicato con caviale e porri, capesante gratinate, blinis con trota affumicata ed erba cipollina, astice all'armoricana, 100-124€
 editor: markdown
 dateCreated: 2021-09-07T13:39:45.058Z
 ---
@@ -18,7 +18,7 @@ dateCreated: 2021-09-07T13:39:45.058Z
 - **Composizione:** [Sauvignon blanc](/vitigni/Francia/bacca-bianca/sauvignon-blanc) + [Chardonnay](/vitigni/Francia/bacca-bianca/chardonnay) +  [Pinot grigio](/vitigni/Italia/bacca-bianca/pinot-grigio) + [Pinot bianco](/vitigni/Italia/bacca-bianca/pinot-bianco) -- composizione variabile secondo annata
 - **Affinamento:** 36 mesi in barrique e tonneau + 4 anni in bottiglia
 - **Alcol:** 14%
-- **Fascia di prezzo:** 100🠒124€
+- **Fascia di prezzo:** 100-124€
 {.grid-list}
 
 ## Descrizione del produttore

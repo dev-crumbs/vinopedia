@@ -1,9 +1,9 @@
 ---
-title: Rive di Solighetto – Conegliano Valdobbiadene Prosecco Superiore DOCG – Spagnol Col del Sol – Veneto (IT) – 10🠒14€ – 3★-5★
+title: Rive di Solighetto – Conegliano Valdobbiadene Prosecco Superiore DOCG – Spagnol Col del Sol – Veneto (IT) – 10-14€ – 3★-5★
 description: Glera 100% | Gallina ubriaca alla padovana
 published: true
 date: 2021-10-01T20:15:31.633Z
-tags: vino, bianco, italia, varietale, spumante, brut, veneto, 5 stelle, millesimato, 10🠒14€, metodo martinotti, glera, gallina ubriaca
+tags: vino, bianco, italia, varietale, spumante, brut, veneto, 5 stelle, millesimato, 10-14€, metodo martinotti, glera, gallina ubriaca
 editor: markdown
 dateCreated: 2021-09-30T08:14:01.373Z
 ---
@@ -16,7 +16,7 @@ dateCreated: 2021-09-30T08:14:01.373Z
 - **Denominazione:** [Conegliano Valdobbiadene Prosecco DOCG](/denominazioni/Veneto/DOCG/Conegliano-Valdobbiadene-Prosecco) (Superiore)
 - **Produttore:** Spagnol Col del Sol 
 - **Composizione:** 100% [Glera](/vitigni/Italia/bacca-bianca/glera) 
-- **Fascia di prezzo:** 10🠒14€
+- **Fascia di prezzo:** 10-14€
 
 {.grid-list}
 

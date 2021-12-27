@@ -1,9 +1,9 @@
 ---
-title: Orgiolo – Lacrima di Morro DOC – Marotti Campi – Marche (IT) – 10🠒14€ – 3★-5★
+title: Orgiolo – Lacrima di Morro DOC – Marotti Campi – Marche (IT) – 10-14€ – 3★-5★
 description: Lacrima di Morro d'Alba 100% | Maltagliati al ragù di coniglio – Faraona ai frutti di bosco – Risotto con fragoline di bosco – Lumache al pomodoro e erbe aromatiche
 published: true
 date: 2021-10-01T20:12:59.431Z
-tags: vino, italia, rosso, varietale, marche, lacrima, 5 stelle, 10🠒14€, maltagliati al ragù di coniglio, faraona ai frutti di bosco, risotto con fragoline di bosco, lumache al pomodoro e erbe aromatiche
+tags: vino, italia, rosso, varietale, marche, lacrima, 5 stelle, 10-14€, maltagliati al ragù di coniglio, faraona ai frutti di bosco, risotto con fragoline di bosco, lumache al pomodoro e erbe aromatiche
 editor: markdown
 dateCreated: 2021-10-01T09:53:06.758Z
 ---
@@ -18,7 +18,7 @@ dateCreated: 2021-10-01T09:53:06.758Z
 - **Composizione:** 100% [Lacrima di Morro d'Alba](/vitigni/Italia/bacca-nera/lacrima-di-morro-d-alba)
 - **Affinamento:** 12 mesi in barrique
 - **Alcol:** 13.5%
-- **Fascia di prezzo:** 10🠒14€
+- **Fascia di prezzo:** 10-14€
 {.grid-list}
 
 ## Descrizione del produttore

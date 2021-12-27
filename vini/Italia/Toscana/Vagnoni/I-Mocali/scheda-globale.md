@@ -1,9 +1,9 @@
 ---
-title: I Mocali – Vernaccia di San Gimignano Riserva DOCG – Vagnoni – Toscana (IT) – 15🠒19€ – 3★-5★
+title: I Mocali – Vernaccia di San Gimignano Riserva DOCG – Vagnoni – Toscana (IT) – 15-19€ – 3★-5★
 description: Vernaccia di San Gimignano 100% | Spaghetti ventresca e capperi – Risotto ai fiori di zucca – Pici al ragù di lepre bianco – Risotto ai porcini
 published: true
 date: 2021-10-04T06:51:32.693Z
-tags: vino, bianco, varietale, fermo, 5 stelle, risotto ai porcini, 15🠒19€, spaghetti ventresca e capperi, risotto ai fiori di zucca, pici al ragù di lepre bianco
+tags: vino, bianco, varietale, fermo, 5 stelle, risotto ai porcini, 15-19€, spaghetti ventresca e capperi, risotto ai fiori di zucca, pici al ragù di lepre bianco
 editor: markdown
 dateCreated: 2021-10-04T06:51:30.103Z
 ---
@@ -18,7 +18,7 @@ dateCreated: 2021-10-04T06:51:30.103Z
 - **Composizione:** 100% [Vernaccia di San Gimignano](/vitigni/Italia/bacca-bianca/vernaccia-di-san-gimignano)
 - **Affinamento:** 12 mesi barrique 
 - **Alcol:** 13.5%
-- **Fascia di prezzo:** 15🠒19€
+- **Fascia di prezzo:** 15-19€
 {.grid-list}
 
 ## Descrizione del produttore

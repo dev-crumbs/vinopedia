@@ -1,9 +1,9 @@
 ---
-title: Bischofsleiten – Alto Adige DOC – Castel Sallegg – Alto Adige (IT) – 10🠒14€ – 3★-5★
+title: Bischofsleiten – Alto Adige DOC – Castel Sallegg – Alto Adige (IT) – 10-14€ – 3★-5★
 description: Schiava 100% | Filetto di vitello allo speck – Tartare con mela – Petto di pollo farcito – Costoletta alla milanese – Bucatini all'amatriciana
 published: true
 date: 2021-08-23T18:08:44.486Z
-tags: vino, italia, rosso, varietale, schiava, filetto di vitello allo speck, tartare con mela, alto adige, petto di pollo farcito, costoletta alla milanese, bucatini all'amatriciana, 10🠒14€, 5 stelle
+tags: vino, italia, rosso, varietale, schiava, filetto di vitello allo speck, tartare con mela, alto adige, petto di pollo farcito, costoletta alla milanese, bucatini all'amatriciana, 10-14€, 5 stelle
 editor: markdown
 dateCreated: 2021-08-23T09:13:09.952Z
 ---
@@ -18,7 +18,7 @@ dateCreated: 2021-08-23T09:13:09.952Z
 - **Composizione:** 100% [Schiava](/vitigni/Italia/bacca-nera/schiava)
 - **Affinamento:** 4 mesi in acciaio
 - **Alcol:** 13%
-- **Fascia di prezzo:** 10🠒14€
+- **Fascia di prezzo:** 10-14€
 {.grid-list}
 
 ## Descrizione del produttore

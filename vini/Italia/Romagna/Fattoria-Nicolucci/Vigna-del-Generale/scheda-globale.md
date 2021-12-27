@@ -1,9 +1,9 @@
 ---
-title: Vigna del generale – Romagna Sangiovese Riserva DOC – Fattoria Nicolucci – Romagna (IT) – 30🠒34€ – 3★-5★
+title: Vigna del generale – Romagna Sangiovese Riserva DOC – Fattoria Nicolucci – Romagna (IT) – 30-34€ – 3★-5★
 description: Sangiovese 100% | Filetto di mora romagnola al pepe – bistecca alla fiorentina – Fricassea d'agnello con carciofi – Costine d'agnello alle erbe aromatiche – Entrecote al pepe
 published: true
 date: 2021-10-01T20:14:14.614Z
-tags: vino, italia, rosso, romagna, varietale, sangiovese, fermo, 5 stelle, filetto di mora romagnola al pepe, bistecca alla fiorentina, fricassea d'agnello con carciofi, costine d'agnello alle erbe aromatiche, entrecote al pepe, 30🠒34€
+tags: vino, italia, rosso, romagna, varietale, sangiovese, fermo, 5 stelle, filetto di mora romagnola al pepe, bistecca alla fiorentina, fricassea d'agnello con carciofi, costine d'agnello alle erbe aromatiche, entrecote al pepe, 30-34€
 editor: markdown
 dateCreated: 2021-09-08T10:52:13.791Z
 ---
@@ -18,7 +18,7 @@ dateCreated: 2021-09-08T10:52:13.791Z
 - **Composizione:** 100% [Sangiovese](/vitigni/Italia/bacca-nera/sangiovese)
 - **Affinamento:** 24 mesi in botte grande + 3 mesi in bottiglia
 - **Alcol:** 14%
-- **Fascia di prezzo:** 30🠒34€
+- **Fascia di prezzo:** 30-34€
 {.grid-list}
 
 ## Descrizione del produttore

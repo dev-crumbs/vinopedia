@@ -1,9 +1,9 @@
 ---
-title: Bricco Arcagna – Rossese di Dolceacqua DOC – Terre Bianche – Liguria (IT) – 25🠒29€ – 3★-5★
+title: Bricco Arcagna – Rossese di Dolceacqua DOC – Terre Bianche – Liguria (IT) – 25-29€ – 3★-5★
 description: Rossese 100% | Stracotto d'asino – Piccione arrosto – Filetto alla rossini – Pappardelle al sugo di lepre
 published: true
 date: 2021-10-01T20:12:43.826Z
-tags: filetto alla rossini, vino, italia, rosso, varietale, liguria, fermo, 5 stelle, rossese, stracotto d'asino, piccione arrosto, pappardelle al sugo di lepre, 25🠒29€
+tags: filetto alla rossini, vino, italia, rosso, varietale, liguria, fermo, 5 stelle, rossese, stracotto d'asino, piccione arrosto, pappardelle al sugo di lepre, 25-29€
 editor: markdown
 dateCreated: 2021-09-02T14:33:44.868Z
 ---
@@ -18,7 +18,7 @@ dateCreated: 2021-09-02T14:33:44.868Z
 - **Composizione:** 100% [Rossese](/vitigni/Italia/bacca-nera/rossese)
 - **Affinamento:** 10 mesi in tonneau
 - **Alcol:** 14.5%
-- **Fascia di prezzo:** 25🠒29€
+- **Fascia di prezzo:** 25-29€
 {.grid-list}
 
 ## Descrizione del produttore

@@ -1,9 +1,9 @@
 ---
-title: Boccadirosa – Colli Piacentini DOC – Luretta – Emilia (IT) – 15🠒19€ – 2★-5★
+title: Boccadirosa – Colli Piacentini DOC – Luretta – Emilia (IT) – 15-19€ – 2★-5★
 description: Malvasia aromatica di Candia 100% | Tagliatelle ai funghi porcini – Risotto zucca e gorgonzola – Coniglio alle erbe aromatiche
 published: true
 date: 2021-10-01T20:11:51.188Z
-tags: vino, bianco, italia, emilia, varietale, fermo, 5 stelle, malvasia aromatica di candia, tagliatelle ai funghi porcini, risotto zucca e gorgonzola, coniglio alle erbe aromatiche, 15🠒19€
+tags: vino, bianco, italia, emilia, varietale, fermo, 5 stelle, malvasia aromatica di candia, tagliatelle ai funghi porcini, risotto zucca e gorgonzola, coniglio alle erbe aromatiche, 15-19€
 editor: markdown
 dateCreated: 2021-09-02T14:33:13.149Z
 ---
@@ -18,7 +18,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 - **Composizione:** 100% [Malvasia aromatica di Candia](/vitigni/Italia/bacca-bianca/malvasia-di-candia-aromatica)
 - **Affinamento:** 9 mesi in acciaio
 - **Alcol:** 14%
-- **Fascia di prezzo:** 15🠒19€
+- **Fascia di prezzo:** 15-19€
 {.grid-list}
 
 ## Descrizione del produttore

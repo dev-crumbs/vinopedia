@@ -1,9 +1,9 @@
 ---
-title: Palai – Vigneti delle Dolomiti IGT – Poier e Sandri – Trentino (IT) – 10🠒14€ – 2★-5★
+title: Palai – Vigneti delle Dolomiti IGT – Poier e Sandri – Trentino (IT) – 10-14€ – 2★-5★
 description: Müller Thurgau 100% | Spigola al cartoccio con patate
 published: true
 date: 2021-10-01T20:15:00.254Z
-tags: vino, bianco, varietale, trentino, müller thurgau, spigola al cartoccio con patate, 5 stelle, italia, fermo, 10🠒14€
+tags: vino, bianco, varietale, trentino, müller thurgau, spigola al cartoccio con patate, 5 stelle, italia, fermo, 10-14€
 editor: markdown
 dateCreated: 2021-08-26T10:19:52.284Z
 ---
@@ -18,7 +18,7 @@ dateCreated: 2021-08-26T10:19:52.284Z
 - **Composizione:** 100% [Müller Thurgau](/vitigni/Italia/bacca-bianca/muller-thurgau)
 - **Affinamento:** 7 mesi in acciaio 
 - **Alcol:** 12%
-- **Fascia di prezzo:** 10🠒14€
+- **Fascia di prezzo:** 10-14€
 {.grid-list}
 
 ## Descrizione del produttore

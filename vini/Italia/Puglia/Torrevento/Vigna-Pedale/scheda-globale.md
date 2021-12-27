@@ -1,9 +1,9 @@
 ---
-title: Vigna Pedale – Castel del Monte Nero di Troia Riserva DOCG – Torrevento – Puglia (IT) – 10🠒14€ – 4★-5★
+title: Vigna Pedale – Castel del Monte Nero di Troia Riserva DOCG – Torrevento – Puglia (IT) – 10-14€ – 4★-5★
 description: Nero di Troia 100% | Filetto di black angus in crosta – Spezzatino di capretto – Pecora in pignatta
 published: true
 date: 2021-10-01T20:14:04.056Z
-tags: vino, italia, rosso, puglia, varietale, nero di troia, 5 stelle, pecora in pignatta, filetto di black angus in crosta, spezzatino di capretto, 10🠒14€
+tags: vino, italia, rosso, puglia, varietale, nero di troia, 5 stelle, pecora in pignatta, filetto di black angus in crosta, spezzatino di capretto, 10-14€
 editor: markdown
 dateCreated: 2021-09-03T21:03:49.690Z
 ---
@@ -18,7 +18,7 @@ dateCreated: 2021-09-03T21:03:49.690Z
 - **Composizione:** 100% [Nero di Troia](/vitigni/Italia/bacca-nera/nero-di-troia)
 - **Affinamento:** 8 mesi in acciaio + 12 mesi in botte di rovere francese da 50 ettolitri
 - **Alcol:** 13%
-- **Fascia di prezzo:** 10🠒14€
+- **Fascia di prezzo:** 10-14€
 {.grid-list}
 
 ## Descrizione del produttore

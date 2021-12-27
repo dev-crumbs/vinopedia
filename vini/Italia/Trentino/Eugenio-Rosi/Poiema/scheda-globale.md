@@ -1,9 +1,9 @@
 ---
-title: Poiema – Vallagarina IGT – Eugenio Rosi – Trentino (IT) – 20🠒24€ – 4★-5★
+title: Poiema – Vallagarina IGT – Eugenio Rosi – Trentino (IT) – 20-24€ – 4★-5★
 description: Marzemino 100% | Carbonade alla fiamminga – Manzo affumicato su crema di topinambur – Capretto in umido – Spatzle panna noci e pancetta
 published: true
 date: 2021-10-01T20:14:54.595Z
-tags: vino, italia, rosso, varietale, trentino, fermo, 5 stelle, marzemino, carbonade alla fiamminga, manzo affumicato su crema di topinambur, capretto in umido, spatzle panna noci e pancetta, 20🠒24€
+tags: vino, italia, rosso, varietale, trentino, fermo, 5 stelle, marzemino, carbonade alla fiamminga, manzo affumicato su crema di topinambur, capretto in umido, spatzle panna noci e pancetta, 20-24€
 editor: markdown
 dateCreated: 2021-09-02T14:35:02.344Z
 ---
@@ -18,7 +18,7 @@ dateCreated: 2021-09-02T14:35:02.344Z
 - **Composizione:** 100% [Marzemino](/vitigni/Italia/bacca-nera/marzemino)
 - **Affinamento:** appassimento 30% delle uve + 12 mesi in botte grande + 12 mesi in bottiglia 
 - **Alcol:** 13%
-- **Fascia di prezzo:** 20🠒24€
+- **Fascia di prezzo:** 20-24€
 {.grid-list}
 
 ## Descrizione del produttore

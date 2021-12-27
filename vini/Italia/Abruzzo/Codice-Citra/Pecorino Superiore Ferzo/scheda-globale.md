@@ -1,9 +1,9 @@
 ---
-title:  Pecorino Superiore Ferzo – Abruzzo Pecorino Superiore DOC – Codice Citra – Abruzzo (IT) – 15🠒19€ – 2★-5★
+title:  Pecorino Superiore Ferzo – Abruzzo Pecorino Superiore DOC – Codice Citra – Abruzzo (IT) – 15-19€ – 2★-5★
 description: Pecorino 100% | Scamorza ai ferri – Astice alla catalana – Torta rustica al formaggio – Cartoccio di trota salmonata
 published: true
 date: 2021-08-24T12:31:23.089Z
-tags: vino, bianco, fermo, varietale, pecorino, italia, abruzzo, scamorza ai ferri, astice alla catalana, torta rustica al formaggio, cartoccio di trota salmonata, 15🠒19€, 5 stelle
+tags: vino, bianco, fermo, varietale, pecorino, italia, abruzzo, scamorza ai ferri, astice alla catalana, torta rustica al formaggio, cartoccio di trota salmonata, 15-19€, 5 stelle
 editor: markdown
 dateCreated: 2021-08-24T11:31:20.502Z
 ---
@@ -18,7 +18,7 @@ dateCreated: 2021-08-24T11:31:20.502Z
 - **Composizione:** 100% [Pecorino](/vitigni/Italia/bacca-nera/Pecorino)
 - **Affinamento:** 4 mesi in acciaio
 - **Alcol:** 13%
-- **Fascia di prezzo:** 15🠒19€
+- **Fascia di prezzo:** 15-19€
 {.grid-list}
 
 ## Descrizione del produttore

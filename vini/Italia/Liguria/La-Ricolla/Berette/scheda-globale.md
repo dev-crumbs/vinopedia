@@ -1,9 +1,9 @@
 ---
-title: Berette – Colline del Genovesato IGT – La Ricolla – Liguria (IT) – 15🠒19€ – 3★-5★
+title: Berette – Colline del Genovesato IGT – La Ricolla – Liguria (IT) – 15-19€ – 3★-5★
 description: Vermentino 100% | Stoccafisso accomodato – Polpettone di patate e fagiolini – Grigliata di pesce
 published: true
 date: 2021-10-01T20:12:41.317Z
-tags: vino, bianco, italia, varietale, liguria, fermo, 5 stelle, vermentino, stoccafisso accomodato, polpettone di patate e fagiolini, grigliata di pesce, 15🠒19€
+tags: vino, bianco, italia, varietale, liguria, fermo, 5 stelle, vermentino, stoccafisso accomodato, polpettone di patate e fagiolini, grigliata di pesce, 15-19€
 editor: markdown
 dateCreated: 2021-08-29T16:15:27.525Z
 ---
@@ -18,7 +18,7 @@ dateCreated: 2021-08-29T16:15:27.525Z
 - **Composizione:** 100% [Vermentino](/vitigni/Italia/bacca-bianca/vermentino)
 - **Affinamento:** 12 mesi in acciaio sui lieviti
 - **Alcol:** 14%
-- **Fascia di prezzo:** 15🠒19€
+- **Fascia di prezzo:** 15-19€
 {.grid-list}
 
 ## Descrizione del produttore

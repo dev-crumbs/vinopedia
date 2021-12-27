@@ -1,9 +1,9 @@
 ---
-title: Vin Santo Caratelli al Pozzo – Amelia DOC – La Palazzola – Umbria (IT) – 35🠒39€ – 5★
+title: Vin Santo Caratelli al Pozzo – Amelia DOC – La Palazzola – Umbria (IT) – 35-39€ – 5★
 description: Trebbiano 65% + Malvasia bianca 35% | Crostata con fichi e ricotta – Meditazione
 published: true
 date: 2021-10-01T20:01:43.358Z
-tags: vino, bianco, italia, blend, umbria, 5 stelle, passito, trebbiano, malvasia bianca, crostata con fichi e ricotta, meditazione, 35🠒39€
+tags: vino, bianco, italia, blend, umbria, 5 stelle, passito, trebbiano, malvasia bianca, crostata con fichi e ricotta, meditazione, 35-39€
 editor: markdown
 dateCreated: 2021-08-29T16:16:10.505Z
 ---
@@ -18,7 +18,7 @@ dateCreated: 2021-08-29T16:16:10.505Z
 - **Composizione:** 65% [Trebbiano](/vitigni/Italia/bacca-bianca/trebbiano) + 35% [Malvasia bianca](/vitigni/Italia/bacca-bianca/malvasia-bianca)
 - **Affinamento:** 4 mesi con grappoli appesi + 5 anni in caratelli da 50 e 100 litri 
 - **Alcol:** 11%
-- **Fascia di prezzo:** 35🠒39€
+- **Fascia di prezzo:** 35-39€
 {.grid-list}
 
 ## Descrizione del produttore

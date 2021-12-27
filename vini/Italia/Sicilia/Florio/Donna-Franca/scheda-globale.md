@@ -1,9 +1,9 @@
 ---
-title: Donna Franca – Marsala Superiore Riserva Semisecco Ambra DOC – Florio – Sicilia (IT) – 35🠒39€ – 4★-5★
+title: Donna Franca – Marsala Superiore Riserva Semisecco Ambra DOC – Florio – Sicilia (IT) – 35-39€ – 4★-5★
 description: Grillo 100% | Quiche con pere e roquefort – Sigaro toscano – Sigaro partagas – Mandorle atterrate al cioccolato fondente
 published: true
 date: 2021-10-01T20:14:35.925Z
-tags: 35🠒39€, vino, bianco, italia, sicilia, varietale, 5 stelle, liquoroso, grillo, quiche con pere e roquefort, sigaro toscano, sigaro partagas, mandorle atterrate al cioccolato fondente
+tags: 35-39€, vino, bianco, italia, sicilia, varietale, 5 stelle, liquoroso, grillo, quiche con pere e roquefort, sigaro toscano, sigaro partagas, mandorle atterrate al cioccolato fondente
 editor: markdown
 dateCreated: 2021-09-08T07:39:57.694Z
 ---
@@ -18,7 +18,7 @@ dateCreated: 2021-09-08T07:39:57.694Z
 - **Composizione:** 100% [Grillo](/vitigni/Italia/bacca-nera/grillo)
 - **Affinamento:** 15 anni in carati di rovere + 12 mesi in bottiglia
 - **Alcol:** 19%
-- **Fascia di prezzo:** 35🠒39€
+- **Fascia di prezzo:** 35-39€
 {.grid-list}
 
 ## Descrizione del produttore

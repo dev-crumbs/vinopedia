@@ -1,9 +1,9 @@
 ---
-title: Syraco – Terre Siciliane IGT – Baglio di Pianetto – Sicilia (IT) – 10🠒14€ – 3★-5★
+title: Syraco – Terre Siciliane IGT – Baglio di Pianetto – Sicilia (IT) – 10-14€ – 3★-5★
 description: Syrah 100% | Carrè di cinghiale al forno – Agnello in casseruola
 published: true
 date: 2021-10-01T20:14:28.005Z
-tags: vino, italia, rosso, sicilia, varietale, fermo, 5 stelle, syrah, 10🠒14€, carrè di cinghiale al forno, agnello in casseruola
+tags: vino, italia, rosso, sicilia, varietale, fermo, 5 stelle, syrah, 10-14€, carrè di cinghiale al forno, agnello in casseruola
 editor: markdown
 dateCreated: 2021-10-01T09:53:17.140Z
 ---
@@ -18,7 +18,7 @@ dateCreated: 2021-10-01T09:53:17.140Z
 - **Composizione:** 100% [Syrah](/vitigni/Francia/bacca-nera/syrah)
 - **Affinamento:** 6 mesi in acciaio + 12 in barrique è 24 in bottiglia
 - **Alcol:** 14.5%
-- **Fascia di prezzo:** 10🠒14€
+- **Fascia di prezzo:** 10-14€
 {.grid-list}
 
 ## Descrizione del produttore

@@ -1,9 +1,9 @@
 ---
-title: Il Poggio – Chianti Classico Gran Selezione Riserva DOCG – Castello Monsanto – Toscana (IT) – 55🠒59€ – 4★-5★
+title: Il Poggio – Chianti Classico Gran Selezione Riserva DOCG – Castello Monsanto – Toscana (IT) – 55-59€ – 4★-5★
 description: Sangiovese 90% + Canaiolo 5% + Colorino 5% | bistecchine di cinghiale alla griglia – Matuffi al ragù di cinghiale – Fiorentina alla brace – arista con prugne – Tagliata al tartufo
 published: true
 date: 2021-10-04T06:51:26.278Z
-tags: vino, italia, rosso, blend, toscana, sangiovese, fermo, 5 stelle, fiorentina alla brace, canaiolo, colorino, bistecchine di cinghiale alla griglia, matuffi al ragù di cinghiale, arista con prugne, tagliata al tartufo, 55🠒59€
+tags: vino, italia, rosso, blend, toscana, sangiovese, fermo, 5 stelle, fiorentina alla brace, canaiolo, colorino, bistecchine di cinghiale alla griglia, matuffi al ragù di cinghiale, arista con prugne, tagliata al tartufo, 55-59€
 editor: markdown
 dateCreated: 2021-09-07T15:36:11.646Z
 ---
@@ -18,7 +18,7 @@ dateCreated: 2021-09-07T15:36:11.646Z
 - **Composizione:** 90% [Sangiovese](/vitigni/Italia/bacca-nera/sangiovese) + 5% [Canaiolo](/vitigni/Italia/bacca-nera/canaiolo) + 5% [Colorino](/vitigni/Italia/bacca-nera/colorino)[^1] 
 - **Affinamento:** 18 mesi in botti di rovere + 24 mesi in bottiglia
 - **Alcol:** 14%
-- **Fascia di prezzo:** 55🠒59€
+- **Fascia di prezzo:** 55-59€
 {.grid-list}
 
 ## Descrizione del produttore

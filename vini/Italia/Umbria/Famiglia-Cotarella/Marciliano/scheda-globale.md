@@ -1,9 +1,9 @@
 ---
-title: Marciliano – Umbria IGT – Famiglia Cotarella – Umbria (IT) – 40🠒44€ – 5★
+title: Marciliano – Umbria IGT – Famiglia Cotarella – Umbria (IT) – 40-44€ – 5★
 description: Cabernet Sauvignon 70% + Cabernet Franc 30% | Pernice in casseruola – Sella di lepre in granella di cacao – Peposo – Filetto alla rossini – Filetto di cervo ai frutti di bosco
 published: true
 date: 2021-10-01T20:01:40.504Z
-tags: vino, italia, rosso, blend, umbria, fermo, 5 stelle, cabernet franc, filetto di cervo ai frutti di bosco, cabernet sauvignon, pernice in casseruola, sella di lepre in granella di cacao, peposo, filetto alla rossini, 40🠒44€
+tags: vino, italia, rosso, blend, umbria, fermo, 5 stelle, cabernet franc, filetto di cervo ai frutti di bosco, cabernet sauvignon, pernice in casseruola, sella di lepre in granella di cacao, peposo, filetto alla rossini, 40-44€
 editor: markdown
 dateCreated: 2021-09-02T14:35:15.146Z
 ---
@@ -18,7 +18,7 @@ dateCreated: 2021-09-02T14:35:15.146Z
 - **Composizione:** 70% [Cabernet Sauvignon](/vitigni/Francia/bacca-nera/cabernet-sauvignon) + 30% [Cabernet Franc](/vitigni/Francia/bacca-nera/cabernet-franc)
 - **Affinamento:** 18 mesi in barrique + 12 mesi in bottiglia 
 - **Alcol:** 14.5%
-- **Fascia di prezzo:** 40🠒44€
+- **Fascia di prezzo:** 40-44€
 {.grid-list}
 
 ## Descrizione del produttore

@@ -1,9 +1,9 @@
 ---
-title: Pruno – Romagna Sangiovese Superiore Riserva DOC – Drei Donà – Romagna (IT) – 30🠒34€ – 3★-5★
+title: Pruno – Romagna Sangiovese Superiore Riserva DOC – Drei Donà – Romagna (IT) – 30-34€ – 3★-5★
 description: Sangiovese 100% | Carrè di agnello al timo – Cosciotto di agnello al forno – Lepre alla ghiotta – Lepre in salmì
 published: true
 date: 2021-10-01T20:14:12.018Z
-tags: vino, italia, rosso, romagna, varietale, sangiovese, carrè di agnello al timo, cosciotto di agnello al forno, lepre alla ghiotta, lepre in salmì, fermo, 5 stelle, 30🠒34€
+tags: vino, italia, rosso, romagna, varietale, sangiovese, carrè di agnello al timo, cosciotto di agnello al forno, lepre alla ghiotta, lepre in salmì, fermo, 5 stelle, 30-34€
 editor: markdown
 dateCreated: 2021-08-26T10:19:45.262Z
 ---
@@ -18,7 +18,7 @@ dateCreated: 2021-08-26T10:19:45.262Z
 - **Composizione:** 100% [Sangiovese](/vitigni/Italia/bacca-nera/sangiovese)
 - **Affinamento:** 18 mesi in barrique + 10 in bottiglia
 - **Alcol:** 13.5%
-- **Fascia di prezzo:** 30🠒34€ (annate "storiche" possono avere prezzi molto lontani dal range)
+- **Fascia di prezzo:** 30-34€ (annate "storiche" possono avere prezzi molto lontani dal range)
 {.grid-list}
 
 ## Descrizione del produttore

@@ -1,9 +1,9 @@
 ---
-title: Godenzia – Verdicchio di Matelica DOC – Cantine Mecella – Marche (IT) – 10🠒14€ – 3★-5★
+title: Godenzia – Verdicchio di Matelica DOC – Cantine Mecella – Marche (IT) – 10-14€ – 3★-5★
 description: Verdicchio 100% | Rombo al forno con patate – Bistecchine di Castrato alla griglia
 published: true
 date: 2021-10-01T20:12:54.273Z
-tags: vino, bianco, italia, varietale, marche, 5 stelle, verdicchio, 10🠒14€, rombo al forno con patate, bistecchine di castrato alla griglia
+tags: vino, bianco, italia, varietale, marche, 5 stelle, verdicchio, 10-14€, rombo al forno con patate, bistecchine di castrato alla griglia
 editor: markdown
 dateCreated: 2021-09-30T08:13:33.751Z
 ---
@@ -18,7 +18,7 @@ dateCreated: 2021-09-30T08:13:33.751Z
 - **Composizione:** 100% [Verdicchio](/vitigni/Italia/bacca-bianca/verdicchio)
 - **Affinamento:** 8 mesi in acciaio + 4 in legno
 - **Alcol:** 13.5%
-- **Fascia di prezzo:** 10🠒14€
+- **Fascia di prezzo:** 10-14€
 {.grid-list}
 
 ## Descrizione del produttore

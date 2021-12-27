@@ -1,9 +1,9 @@
 ---
-title: Santa Lusa – Albana DOCG – Ancarani – Romagna (IT) – 15🠒19€ – 3★-5★
+title: Santa Lusa – Albana DOCG – Ancarani – Romagna (IT) – 15-19€ – 3★-5★
 description: Albana 100% | Coniglio porchettato – Fagiano alla mazzolara – Supreme di pollo – Galletto arrosto – Fegatini di coniglio
 published: true
 date: 2021-10-04T06:51:18.377Z
-tags: vino, bianco, italia, romagna, varietale, fermo, 5 stelle, albana, 15🠒19€, coniglio porchettato, fagiano alla mazzolara, fegatini di coniglio, supreme di pollo
+tags: vino, bianco, italia, romagna, varietale, fermo, 5 stelle, albana, 15-19€, coniglio porchettato, fagiano alla mazzolara, fegatini di coniglio, supreme di pollo
 editor: markdown
 dateCreated: 2021-10-04T06:51:15.940Z
 ---
@@ -18,7 +18,7 @@ dateCreated: 2021-10-04T06:51:15.940Z
 - **Composizione:** 100% [Albana](/vitigni/Italia/bacca-bianca/albana)
 - **Affinamento:** 18 mesi in cemento
 - **Alcol:** 13.5%
-- **Fascia di prezzo:** 20🠒24€
+- **Fascia di prezzo:** 20-24€
 {.grid-list}
 
 ## Descrizione del produttore

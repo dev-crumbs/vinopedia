@@ -1,9 +1,9 @@
 ---
-title: Campi Flegrei Falanghina – Campi Flegrei DOC – Contrada Salandra – Campania (IT) – 10🠒14€ – 3★-5★
+title: Campi Flegrei Falanghina – Campi Flegrei DOC – Contrada Salandra – Campania (IT) – 10-14€ – 3★-5★
 description: Falanghina 100% | Orata con crema di cipollotti – Millefoglie di pesce bandiera – Pizza fiori di zucca ricotta e provola – Filetti di rombo e purè – Lampugna alla brace
 published: true
 date: 2021-10-04T06:51:03.745Z
-tags: vino, bianco, campania, italia, varietale, fermo, 5 stelle, 10🠒14€, falanghina, orata con crema di cipollotti, millefoglie di pesce bandiera, pizza fiori di zucca ricotta e provola, filetti di rombo e purè, lampugna alla brace
+tags: vino, bianco, campania, italia, varietale, fermo, 5 stelle, 10-14€, falanghina, orata con crema di cipollotti, millefoglie di pesce bandiera, pizza fiori di zucca ricotta e provola, filetti di rombo e purè, lampugna alla brace
 editor: markdown
 dateCreated: 2021-09-30T12:52:51.032Z
 ---
@@ -18,7 +18,7 @@ dateCreated: 2021-09-30T12:52:51.032Z
 - **Composizione:** 100% [Falanghina](/vitigni/Italia/bacca-bianca/Falanghina)
 - **Affinamento:** 9 mesi in acciaio + 12 mesi in bottiglia
 - **Alcol:** 13%
-- **Fascia di prezzo:** 10🠒14€
+- **Fascia di prezzo:** 10-14€
 
 {.grid-list}
 

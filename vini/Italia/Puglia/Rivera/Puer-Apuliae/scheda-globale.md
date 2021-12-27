@@ -1,9 +1,9 @@
 ---
-title: Puer Apuliae – Castel del Monte Rosso Riserva DOCG – Rivera – Puglia (IT) – 25🠒29€ – 4★-5★
+title: Puer Apuliae – Castel del Monte Rosso Riserva DOCG – Rivera – Puglia (IT) – 25-29€ – 4★-5★
 description: Nero di Troia 100% | Pecora in pignatta – Cosciotto di capretto – Filetto di manzo al vino e salsa ai mirtilli – Capretto al ginepro – Carrè di agnello al forno
 published: true
 date: 2021-10-01T20:14:01.298Z
-tags: vino, italia, rosso, puglia, varietale, nero di troia, cosciotto di capretto, filetto di manzo al vino e salsa ai mirtilli, capretto al ginepro, carrè di agnello al forno, 5 stelle, pecora in pignatta, 25🠒29€
+tags: vino, italia, rosso, puglia, varietale, nero di troia, cosciotto di capretto, filetto di manzo al vino e salsa ai mirtilli, capretto al ginepro, carrè di agnello al forno, 5 stelle, pecora in pignatta, 25-29€
 editor: markdown
 dateCreated: 2021-08-24T11:31:20.502Z
 ---
@@ -18,7 +18,7 @@ dateCreated: 2021-08-24T11:31:20.502Z
 - **Composizione:** 100% [Nero di Troia](/vitigni/Italia/bacca-nera/nero-di-troia)
 - **Affinamento:** 14 mesi in barrique di rovere francese
 - **Alcol:** 14%
-- **Fascia di prezzo:** 25🠒29€
+- **Fascia di prezzo:** 25-29€
 {.grid-list}
 
 ## Descrizione del produttore

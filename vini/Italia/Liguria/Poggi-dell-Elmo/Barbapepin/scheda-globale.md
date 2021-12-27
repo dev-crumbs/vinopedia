@@ -1,9 +1,9 @@
 ---
-title: Barbapepin – Rossese di Dolceacqua DOC – Poggi dell'Elmo – Liguria (IT) – 15🠒19€ – 5★
+title: Barbapepin – Rossese di Dolceacqua DOC – Poggi dell'Elmo – Liguria (IT) – 15-19€ – 5★
 description: Rossese 100% | Cinghiale in umido
 published: true
 date: 2021-10-01T19:57:46.319Z
-tags: vino, italia, rosso, varietale, liguria, fermo, 5 stelle, cinghiale in umido, rossese, 15🠒19€
+tags: vino, italia, rosso, varietale, liguria, fermo, 5 stelle, cinghiale in umido, rossese, 15-19€
 editor: markdown
 dateCreated: 2021-10-01T17:43:16.064Z
 ---
@@ -18,7 +18,7 @@ dateCreated: 2021-10-01T17:43:16.064Z
 - **Composizione:** 100% [Rossese](/vitigni/Italia/bacca-nera/rossese)
 - **Affinamento:** 7 mesi in acciaio
 - **Alcol:** 13.5%
-- **Fascia di prezzo:** 15🠒19€
+- **Fascia di prezzo:** 15-19€
 {.grid-list}
 
 ## Descrizione del produttore

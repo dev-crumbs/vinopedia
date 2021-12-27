@@ -1,9 +1,9 @@
 ---
-title: Cuvée Annamaria Clementi Extra-Brut – Franciacorta Riserva DOCG – Cà del Bosco – Lombardia (IT) – 75🠒99€ – 5★
+title: Cuvée Annamaria Clementi Extra-Brut – Franciacorta Riserva DOCG – Cà del Bosco – Lombardia (IT) – 75-99€ – 5★
 description: Chardonnay 55% + Pinot bianco 25% + Pinot nero 25% | Filetto di sarago croccante in salsa di arance
 published: true
 date: 2021-10-01T19:57:54.181Z
-tags: millesimato, vino, bianco, italia, blend, spumante, metodo classico, chardonnay, pinot nero, pinot bianco, lombardia, 5 stelle, extra-brut, filetto di sarago croccante in salsa di arance, 75🠒99€
+tags: millesimato, vino, bianco, italia, blend, spumante, metodo classico, chardonnay, pinot nero, pinot bianco, lombardia, 5 stelle, extra-brut, filetto di sarago croccante in salsa di arance, 75-99€
 editor: markdown
 dateCreated: 2021-09-03T21:03:21.131Z
 ---
@@ -17,7 +17,7 @@ dateCreated: 2021-09-03T21:03:21.131Z
 - **Produttore:** [Cà del Bosco](/produttori/Italia/Lombardia/Ca-del-Bosco) 
 - **Composizione:** 50% [Chardonnay](/vitigni/Francia/bacca-bianca/chardonnay) + 25% [Pinot bianco](/vitigni/Italia/bacca-bianca/pinot-bianco) + 25% [Pinot nero](/vitigni/Italia/bacca-nera/pinot-nero)
 - **Alcol:** 12.5%
-- **Fascia di prezzo:** 75🠒99€
+- **Fascia di prezzo:** 75-99€
 
 {.grid-list}
 
