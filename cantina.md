@@ -2,7 +2,7 @@
 title: Cantina
 description: Cosa c'è in cantina
 published: true
-date: 2022-01-10T00:49:29.839Z
+date: 2022-01-10T00:50:07.139Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-09T19:45:31.014Z
