@@ -2,7 +2,7 @@
 title: Cantina
 description: Cosa c'è in cantina
 published: true
-date: 2022-01-09T23:57:30.836Z
+date: 2022-01-10T00:22:15.283Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-09T19:45:31.014Z
@@ -46,10 +46,10 @@ dateCreated: 2022-01-09T19:45:31.014Z
         <p class="cantina">Rivetti</p>
         <p class="anno">2015</p>
       </div>
-      <div> <img class="img" src="fff.jpg">
-        <p class="nome"></p>
-        <p class="cantina"></p>
-        <p class="anno"></p>
+      <div> <img src="/le-clocher-cornalin.jpg" alt="le-clocher-cornalin![cesari-amarone-il-bosco.jpg](/cesari-amarone-il-bosco.jpg).jpg" />
+        <p class="nome">Cornalin</p>
+        <p class="cantina">Le Clocher</p>
+        <p class="anno">2020</p>
       </div>
       <div> <img src="/ceretto-barolo.jpg" alt="ceretto-barolo.jpg" />
         <p class="nome">Barolo</p>
@@ -89,8 +89,8 @@ dateCreated: 2022-01-09T19:45:31.014Z
         <p class="anno">2017</p>
       </div>
       <!-- - row 6-->
-      <div> <img class="img" src="fff.jpg">
-        <p class="nome">Amarone Classico</p>
+      <div> <img src="/cesari-amarone-il-bosco.jpg" alt="cesari-amarone-il-bosco.jpg" />
+        <p class="nome">Amarone Il Bosco</p>
         <p class="cantina">Cesari</p>
         <p class="anno">2015</p>
       </div>
