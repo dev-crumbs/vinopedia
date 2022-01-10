@@ -2,7 +2,7 @@
 title: Cantina
 description: Cosa c'è in cantina
 published: true
-date: 2022-01-10T00:50:07.139Z
+date: 2022-01-10T00:51:02.579Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-09T19:45:31.014Z
@@ -20,7 +20,7 @@ dateCreated: 2022-01-09T19:45:31.014Z
         <p class="anno">2013</p>
       </div>
       <div> <img src="/chiaromonte-riserva.jpg" alt="chiaromonte-riserva.jpg" />
-        <p class="nome">Chiaromonte Riserva</p>
+        <p class="nome" name="Chiaromonte Riserva">Chiaromonte Riserva</p>
         <p class="cantina">Tenute Chiaromonte</p>
         <p class="anno">2013</p>
       </div>
