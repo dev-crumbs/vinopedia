@@ -2,7 +2,7 @@
 title: Cantina
 description: Cosa c'è in cantina
 published: true
-date: 2022-01-10T10:12:53.915Z
+date: 2022-01-10T11:30:44.784Z
 tags: 
 editor: code
 dateCreated: 2022-01-10T01:14:16.018Z
@@ -116,64 +116,168 @@ dateCreated: 2022-01-10T01:14:16.018Z
   onkeyup="myFunction()" 
   placeholder="Search for names or countries.." 
   title="Type in a name or a country">
-<table id="sortMe" class="table">
+<table class="table" id="sortMe">
   <thead>
-    <tr class="header">
-      <th data-type="number"><button class="table__header">No.</button></th>
-      <th><button class="table__header">First name</button></th>
-      <th><button class="table__header">Last name</button></th>
+    <tr>
+      <!--th(data-type="number")button.table__header No.
+          -->
+      <th>
+        <button class="table__header">Nome</button>
+      </th>
+      <th>
+        <button class="table__header">Cantina</button>
+      </th>
+      <th>
+        <button class="table__header">Vitigni</button>
+      </th>
+      <th data-type="number">
+        <button class="table__header">Anno</button>
+      </th>
+      <th>
+        <button class="table__header">Pos.</button>
+      </th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>1</td>
-      <td>Andrea</td>
-      <td>Ross</td>
+      <td>Nerimatti</td>
+      <td>Paolo Leo</td>
+      <td>Negroamaro 85%</td>
+      <td>2012</td>
+      <td>C1a</td>
     </tr>
     <tr>
-      <td>2</td>
-      <td>Penelope</td>
-      <td>Mills</td>
+      <td>Amarone Ca' Biancad</td>
+      <td>Begali</td>
+      <td>Corvina 40%, Corvinone 35%, Rondinella 20%, Oseleta 5%</td>
+      <td>2013</td>
+      <td>C1b</td>
     </tr>
     <tr>
-      <td>3</td>
-      <td>Sarah</td>
-      <td>Grant</td>
+      <td>Chiaromonte Riserva</td>
+      <td>Tenute Chiaromonte</td>
+      <td>Primitivo 100%</td>
+      <td>2013</td>
+      <td>C1c</td>
     </tr>
     <tr>
-      <td>4</td>
-      <td>Vanessa</td>
-      <td>Roberts</td>
+      <td>Barbera Tre Vigne</td>
+      <td>Vietti</td>
+      <td>Barbera 100%</td>
+      <td>2018</td>
+      <td>C2a</td>
     </tr>
     <tr>
-      <td>5</td>
-      <td>Oliver</td>
-      <td>Alsop</td>
+      <td>Muro Sant'Angelo Contrada Barbatto</td>
+      <td>Tenute Chiaromonte</td>
+      <td>Primitivo 100%</td>
+      <td>2010</td>
+      <td>C2b</td>
     </tr>
     <tr>
-      <td>6</td>
-      <td>Jennifer</td>
-      <td>Forsyth</td>
+      <td>Nebbiolo Perbacco</td>
+      <td>Vietti</td>
+      <td>Nebbiolo 100%</td>
+      <td>2019</td>
+      <td>C2c</td>
     </tr>
     <tr>
-      <td>7</td>
-      <td>Michelle</td>
-      <td>King</td>
+      <td>Barbaresco</td>
+      <td>Rivetti</td>
+      <td>Nebbiolo 100%</td>
+      <td>2015</td>
+      <td>C3a</td>
     </tr>
     <tr>
-      <td>8</td>
-      <td>Steven</td>
-      <td>Kelly</td>
+      <td>Cornalin</td>
+      <td>Le Clocher</td>
+      <td>Cornalin 100%</td>
+      <td>2020</td>
+      <td>C3b</td>
     </tr>
     <tr>
-      <td>9</td>
-      <td>Julian</td>
-      <td>Ferguson</td>
+      <td>Barolo</td>
+      <td>Ceretto</td>
+      <td>Nebbiolo 100%</td>
+      <td>2016</td>
+      <td>C3c</td>
     </tr>
     <tr>
-      <td>10</td>
-      <td>Chloe</td>
-      <td>Ince</td>
+      <td>Chiaromonte Riserva</td>
+      <td>Tenute Chiaromonte</td>
+      <td>Primitivo 100%</td>
+      <td>2014</td>
+      <td>C4a</td>
+    </tr>
+    <tr>
+      <td>Chiaromonte Rosè</td>
+      <td>Tenute Chiaromonte</td>
+      <td>Pinot Noir 90% - Primitivo 10%</td>
+      <td>2017</td>
+      <td>C4b</td>
+    </tr>
+    <tr>
+      <td>Refosco</td>
+      <td>La Roncaia</td>
+      <td>Refosco 100%</td>
+      <td>2014</td>
+      <td>C4c </td>
+    </tr>
+    <tr>
+      <td>Barolo Castiglione</td>
+      <td>Vietti</td>
+      <td>Nebbiolo 100%</td>
+      <td>2017</td>
+      <td>C5a </td>
+    </tr>
+    <tr>
+      <td>Millesimè 2013</td>
+      <td>Mumm</td>
+      <td>Pinot Noir 72% - Chardonnay 28%</td>
+      <td>2013</td>
+      <td>C5b</td>
+    </tr>
+    <tr>
+      <td>Barbaresco</td>
+      <td>Ceretto</td>
+      <td>Nebbiolo 100%</td>
+      <td>2017</td>
+      <td>C5c </td>
+    </tr>
+    <tr>
+      <td>Amarone Il Bosco</td>
+      <td>Cesare</td>
+      <td>Corvina 80% - Rondinella 20%</td>
+      <td>2015</td>
+      <td>C6a</td>
+    </tr>
+    <tr>
+      <td>Roggio del Filore</td>
+      <td>Velenosi</td>
+      <td>Montepulciano 70% - Sangiovese 30%</td>
+      <td>2016</td>
+      <td>C6b</td>
+    </tr>
+    <tr>
+      <td>Cupa</td>
+      <td>Pàstini</td>
+      <td>Bianco d'Alessano 100%</td>
+      <td>2015</td>
+      <td>C6c</td>
+    </tr>
+    <tr>
+      <td>Muro Sant'Angelo Contrada Barbatto</td>
+      <td>Tenute Chiaromonte</td>
+      <td>Primitivo 100%</td>
+      <td>2017</td>
+      <td>Sxx</td>
+    </tr>
+    <tr>
+      <td>Muro Sant'Angelo Contrada Barbatto x2</td>
+      <td>Tenute Chiaromonte</td>
+      <td>Primitivo 100%</td>
+      <td>2014</td>
+      <td>Sxx</td>
     </tr>
   </tbody>
 </table>
