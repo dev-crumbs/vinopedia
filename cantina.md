@@ -2,7 +2,7 @@
 title: Cantina
 description: Cosa c'è in cantina
 published: true
-date: 2022-01-10T00:22:15.283Z
+date: 2022-01-10T00:25:34.251Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-09T19:45:31.014Z
@@ -78,10 +78,10 @@ dateCreated: 2022-01-09T19:45:31.014Z
         <p class="cantina">Vietti</p>
         <p class="anno">2017</p>
       </div>
-      <div> <img class="img" src="fff.jpg">
-        <p class="nome"></p>
-        <p class="cantina"></p>
-        <p class="anno"></p>
+      <div> <img src="/mumm-millesime.jpg" alt="mumm-millesime.jpg" />
+        <p class="nome">Millesimè</p>
+        <p class="cantina">Mumm</p>
+        <p class="anno">2013</p>
       </div>
       <div> <img src="/ceretto-barbaresco.jpg" alt="ceretto-barbaresco.jpg" />
         <p class="nome">Barbaresco</p>
