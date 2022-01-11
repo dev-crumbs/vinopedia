@@ -2,7 +2,7 @@
 title: Teroldego
 description: Specialità trentina ben collegata e ravvivata, la cui acidità necessita di una gestione attenta.
 published: true
-date: 2022-01-11T14:16:28.482Z
+date: 2022-01-11T14:16:51.742Z
 tags: vitigno
 editor: markdown
 dateCreated: 2022-01-11T14:16:28.482Z
@@ -25,7 +25,7 @@ Merlina (Valtellina), Teroldega, Teroldeghe, Teroldico, Teroldigo, Tiraldega, Ti
 ## Origini e parentele
 Il Teroldego è una varietà molto antica del Trentino, dove il suo vino fu menzionato per la prima volta il 18 gennaio 1480 a Cognola, appena ad est della città di Trento, in un contratto di vendita scritto in latino: "duarum brentarum vini teroldigi buliti, boni et sufficientis", che significa "due brente [una misura antica] di vini teroldigo fermentati, buoni e abbondanti" (Prato 1989). Ci sono stati anche diversi altri riferimenti più tardi in documenti storici della stessa regione. La culla del Teroldego è quindi molto probabilmente la piana del Rotaliano tra Trento e Mezzolombardo, dove è stato coltivato per secoli. Infatti, il Teroldego ha quasi certamente preso il suo nome da una località vicino a Mezzolombardo chiamata Alle Teroldege, dove i vigneti erano menzionati già nel XV secolo (Roncador 2006).
 
-La ricostruzione del pedigree basata sul profilo del DNA ha rivelato che il Teroldego si è incrociato spontaneamente almeno due volte con la stessa varietà sconosciuta e molto probabilmente estinta per dare vita a MARZEMINO in Trentino o in Lombardia e a [Lagrein](/vitigni/Italia/bacca-nera/lagrein) in Trentino o in Alto Adige (Vouillamoz e Grando 2006). Più sorprendentemente, la ricostruzione dell'albero genealogico del DNA ha rivelato che [Dureza](/vitigni/Francia/bacca-nera/dureza) dell'Ardèche, che è un genitore di [Syrah](/vitigni/Francia/bacca-nera/syrah), è un fratello maggiore di Teroldego, e che entrambi sono nipoti di [Pinot](/vitigni/Francia/bacca-nera/pinot). Teroldego è quindi uno zio/zio del Syrah, così come un nonno del [Refosco](/vitigni/Italia/bacca-nera/refosco-dal-peduncolo-rosso) (Vouillamoz e Grando 2006; vedi i diagrammi dei pedigree nelle voci Syrah e Refosco dal Peduncolo Rosso).
+La ricostruzione del pedigree basata sul profilo del DNA ha rivelato che il Teroldego si è incrociato spontaneamente almeno due volte con la stessa varietà sconosciuta e molto probabilmente estinta per dare vita a [Marzemino](/vitigni/Italia/bacca-nera/marzemino) in Trentino o in Lombardia e a [Lagrein](/vitigni/Italia/bacca-nera/lagrein) in Trentino o in Alto Adige (Vouillamoz e Grando 2006). Più sorprendentemente, la ricostruzione dell'albero genealogico del DNA ha rivelato che [Dureza](/vitigni/Francia/bacca-nera/dureza) dell'Ardèche, che è un genitore di [Syrah](/vitigni/Francia/bacca-nera/syrah), è un fratello maggiore di Teroldego, e che entrambi sono nipoti di [Pinot](/vitigni/Francia/bacca-nera/pinot). Teroldego è quindi uno zio/zio del Syrah, così come un nonno del [Refosco](/vitigni/Italia/bacca-nera/refosco-dal-peduncolo-rosso) (Vouillamoz e Grando 2006; vedi i diagrammi dei pedigree nelle voci Syrah e Refosco dal Peduncolo Rosso).
 
 Il Teroldego è stato utilizzato per allevare il [Rebo](/vitigni/Italia/bacca-nera/rebo).
 
