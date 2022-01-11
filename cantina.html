@@ -2,7 +2,7 @@
 title: Cantina
 description: Cosa c'è in cantina
 published: true
-date: 2022-01-11T10:23:34.321Z
+date: 2022-01-11T10:24:01.294Z
 tags: 
 editor: code
 dateCreated: 2022-01-10T01:14:16.018Z
@@ -478,3 +478,8 @@ dateCreated: 2022-01-10T01:14:16.018Z
   </tbody>
 </table>
 
+<script>
+var documentHtml = document.documentElement.outerHTML;   
+var occ = (documentHtml.match(/Pos./g) || []).length;
+var myOcc = document.getElementById('totalevini');
+</script>
