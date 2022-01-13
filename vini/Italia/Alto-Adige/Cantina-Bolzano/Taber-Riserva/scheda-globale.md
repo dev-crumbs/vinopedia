@@ -34,8 +34,8 @@ dateCreated: 2021-08-27T17:49:36.458Z
 - Faraona lardellata
 
 ## Annate
-- Taber [2014](vini/italia/Alto-Adige/Cantina-Bolzano/Taber-Riserva/2014) -- <span class="star-5"></span>
-- Taber [2015](vini/italia/Alto-Adige/Cantina-Bolzano/Taber-Riserva/2015) -- <span class="star-4"></span>
-- Taber [2016](vini/italia/Alto-Adige/Cantina-Bolzano/Taber-Riserva/2016) -- <span class="star-2"></span>
-- Taber [2017](vini/italia/Alto-Adige/Cantina-Bolzano/Taber-Riserva/2017) -- <span class="star-4"></span>
-- Taber [2018](vini/italia/Alto-Adige/Cantina-Bolzano/Taber-Riserva/2018) -- <span class="star-4"></span>
+- Taber [2014](vini/italia/Alto-Adige/Cantina-Bolzano/Taber-Riserva/2014) -- <span class="star-5"></span> -- 92/100
+- Taber [2015](vini/italia/Alto-Adige/Cantina-Bolzano/Taber-Riserva/2015) -- <span class="star-4"></span> -- 90/100
+- Taber [2016](vini/italia/Alto-Adige/Cantina-Bolzano/Taber-Riserva/2016) -- <span class="star-2"></span> -- 82/100
+- Taber [2017](vini/italia/Alto-Adige/Cantina-Bolzano/Taber-Riserva/2017) -- <span class="star-4"></span> -- 90/100
+- Taber [2018](vini/italia/Alto-Adige/Cantina-Bolzano/Taber-Riserva/2018) -- <span class="star-4"></span> -- 90/100
