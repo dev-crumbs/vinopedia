@@ -21,10 +21,6 @@ dateCreated: 2021-08-31T15:46:21.100Z
 - **Fascia di prezzo:** 25-29€ -- L'annata 2016 è stata proposta con un prezzo in fascia  35-39€
 {.grid-list}
 
-## Descrizione del produttore
-
-> È ottenuto dalla selezione in purezza delle migliori uve di Montepulciano. È vinificato tradizionalmente con lungo contatto del mosto con le vinacce e maturato in piccole botti di rovere.
-
 ## Possibili abbinamenti
 *Vedere le singole annate per abbinamenti specifici*
 

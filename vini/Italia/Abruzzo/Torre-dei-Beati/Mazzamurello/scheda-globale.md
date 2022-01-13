@@ -21,9 +21,6 @@ dateCreated: 2021-08-26T10:14:28.661Z
 - **Fascia di prezzo:** 25-29€
 {.grid-list}
 
-## Descrizione del produttore
-
-> Ottenuto con la particolare tecnica di affinamento sui lieviti alla quale vengono sottoposte le partite migliori dell’annata. Le peculiarità aromatiche legate a tale tecnica, che a volte, durante la maturazione in legno, si manifestano in modo abbastanza inusuale per un Montepulciano, ci hanno ricordato il nome di questo scherzoso folletto della tradizione abruzzese, che immaginiamo nascosto tra le nostre barrique a giocare con il vino in esse contenuto.
 
 ## Possibili abbinamenti
 *Vedere le singole annate per abbinamenti specifici*

@@ -28,9 +28,7 @@ dateCreated: 2021-09-07T19:33:33.339Z
 - **Affinamento:** 70-100 mesi sui lieviti + 1-2 anni in bottiglia[^1]
 {.grid-list}
 
-## Descrizione del produttore
 
-> n.d.
 
 ## Possibili abbinamenti
 *Vedere le singole annate per abbinamenti specifici*

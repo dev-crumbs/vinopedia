@@ -21,10 +21,6 @@ dateCreated: 2021-08-27T17:49:36.458Z
 - **Fascia di prezzo:** 45-49€
 {.grid-list}
 
-## Descrizione del produttore
-
-> Coltivato nei vigneti che circondano Bolzano, il Lagrein è uno dei vitigni rossi di punta dell’Alto Adige. È una varietà autoctona dalla quale si ricava un vino di grande carattere. Le notevoli escursioni termiche tra il giorno e la notte assieme ai i terreni alluvionali sabbiosi e sciolti, danno vita a un vino complesso dai colori intensi e caratterizzato dalla tipica freschezza. Per il Lagrein Riserva Taber vengono utilizzate soltanto uve accuratamente selezionate, le quali ci regalano un vino che negli anni si è guadagnato notevole fama e molti estimatori: un’indiscussa icona di qualità.
-
 ## Possibili abbinamenti
 *Vedere le singole annate per abbinamenti specifici*
 

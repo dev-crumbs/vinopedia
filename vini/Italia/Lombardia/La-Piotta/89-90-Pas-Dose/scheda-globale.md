@@ -28,9 +28,7 @@ dateCreated: 2021-09-24T12:30:47.391Z
 - **Affinamento:** 6 mesi in botte di rovere + 101 mesi sui lieviti
 {.grid-list}
 
-## Descrizione del produttore
 
-> n.d.
 
 ## Possibili abbinamenti
 *Vedere le singole annate per abbinamenti specifici*

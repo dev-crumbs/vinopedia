@@ -21,10 +21,6 @@ dateCreated: 2021-08-26T20:27:17.200Z
 - **Fascia di prezzo:** 15-19€
 {.grid-list}
 
-## Descrizione del produttore
-
-> Nel 2011 si celebra il cinquantesimo anniversario dell’Azienda Agricola Barberani. La vita della nostra azienda è da sempre incentrata su due figure cardine della famiglia, Luigi e Giovanna, così come la storia dei nostri vini si concentra da sempre sulle loro rispettive passioni: i vitigni autoctoni del nostro territorio e la "Muffa Nobile". Le varietà tradizionali rispecchiano la più antica tradizione delle nostre terre e sanno donare vini di grande struttura e complessità. La "Muffa Nobile" invece sa esaltare l'eleganza e l'aromaticità delle uve, in un voluttuoso gioco di poesia e sensazioni. Dall'unione di queste due appassionate visioni nasce "Luigi e Giovanna", il vino più rappresentativo di quest'amore reciproco per il vino e la vita.
-
 
 ## Possibili abbinamenti
 *Vedere le singole annate per abbinamenti specifici*

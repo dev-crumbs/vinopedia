@@ -21,11 +21,6 @@ dateCreated: 2021-08-29T16:15:50.982Z
 - **Fascia di prezzo:** 30-34€
 {.grid-list}
 
-## Descrizione del produttore
-
-> Dai terrazzamenti lavici dell’antico vigneto di Monte Gorna provengono le uve di questo Etna Rosso Riserva di grande complessità. Prevalente è la varietà Nerello Mascalese, principale vitigno etneo che solo tra le terre nere del vulcano riesce ad esprimere in pieno le sue particolari qualità organolettiche, insieme ad una spiccata mineralità. Le basse rese, la raccolta manuale in cassette e l’accurata selezione delle uve danno vita ad un vino complesso ed elegante. Almeno quattro anni di maturazione in cantina, che prevedono anche un passaggio di 2 anni in barrique di rovere francese
-di secondo e terzo passaggio, ne completano il profilo gusto-olfattivo.
-
 ## Possibili abbinamenti
 *Vedere le singole annate per abbinamenti specifici*
 

@@ -21,9 +21,7 @@ dateCreated: 2021-09-07T05:50:04.082Z
 - **Fascia di prezzo:** 50-54€
 {.grid-list}
 
-## Descrizione del produttore
 
-> n.d.
 
 
 ## Possibili abbinamenti

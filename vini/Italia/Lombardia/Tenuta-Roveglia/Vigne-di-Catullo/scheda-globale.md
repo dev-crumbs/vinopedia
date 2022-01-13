@@ -21,10 +21,6 @@ dateCreated: 2021-08-25T13:28:21.587Z
 - **Fascia di prezzo:** 15-19€
 {.grid-list}
 
-## Descrizione del produttore
-
-> È un Lugana di grande carattere, di colore giallo  intenso con riflessi dorati, robusto e al tempo stesso vellutato. Le  uve vengono scelte con cura dai vigneti con più di 55 anni di età. Presenta un bouquet particolarmente ricco dove le note più fredde e minerali si armonizzano con quelle della frutta matura. Il suo ricco  aroma, con sentori di nocciola ed un elegante retrogusto di mandorla, ne suggerisce l’abbinamento oltre che con il pesce, con i piatti di pasta, la carne alla griglia, i risotti ed i formaggi. 
-
 ## Possibili abbinamenti
 *Vedere le singole annate per abbinamenti specifici*
 

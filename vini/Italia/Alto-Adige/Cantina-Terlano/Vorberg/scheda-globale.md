@@ -21,10 +21,6 @@ dateCreated: 2021-08-29T16:14:41.774Z
 - **Fascia di prezzo:** 25-29€
 {.grid-list}
 
-## Descrizione del produttore
-
-> Sul versante meridionale del Monzoccolo, nel territorio DOC di Terlano, sono situati dei vigneti soleggiati e ripidi dove, ad un altitudine tra i 450 e 650 metri s.l.m., viene coltivato un pinot bianco emozionante.  Questo vino sostanzioso e oltremodo complesso colpisce in modo particolare con la sua mineralità, la sua notevole capacità di sviluppo e sottolinea così la potenzialità di questa varietà.
-
 
 ## Possibili abbinamenti
 *Vedere le singole annate per abbinamenti specifici*

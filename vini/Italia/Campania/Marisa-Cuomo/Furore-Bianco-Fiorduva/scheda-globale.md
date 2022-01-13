@@ -22,9 +22,7 @@ dateCreated: 2021-09-07T16:41:56.457Z
 
 {.grid-list}
 
-## Descrizione del produttore
 
-> n.d.
 
 ## Possibili abbinamenti
 *Vedere le singole annate per abbinamenti specifici*

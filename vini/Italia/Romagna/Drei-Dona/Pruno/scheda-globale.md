@@ -21,10 +21,6 @@ dateCreated: 2021-08-26T10:19:45.262Z
 - **Fascia di prezzo:** 30-34€ (annate "storiche" possono avere prezzi molto lontani dal range)
 {.grid-list}
 
-## Descrizione del produttore
-
-> Pruno è il nostro Cru storico di Sangiovese. Nasce dalle selezioni delle migliori uve del singolo vigneto da cui prende il nome: la Vigna del Pruno. E’un vino iconico e lussuoso che lascia il segno nel tempo, capace di conservare – e valorizzare – eleganza e freschezza anche dopo tanti anni d’invecchiamento grazie alla sua compiuta personalità.
-
 ## Possibili abbinamenti
 *Vedere le singole annate per abbinamenti specifici*
 

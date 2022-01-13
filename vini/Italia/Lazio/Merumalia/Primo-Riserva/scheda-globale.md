@@ -21,10 +21,6 @@ dateCreated: 2021-08-25T13:28:17.509Z
 - **Fascia di prezzo:** 15-19€
 {.grid-list}
 
-## Descrizione del produttore
-
-> Primo, il Frascati Superiore Riserva di Merumalia, ha al naso intriganti ed ampi profumi fruttati e all’assaggio decisa presenza minerale di lunga persistenza. Nasce da uve di Malvasia del Lazio, Greco e Bombino coltivate nel rispetto dell’ambiente e del paesaggio. Matura in cantina per oltre 12 mesi.
-
 ## Possibili abbinamenti
 *Vedere le singole annate per abbinamenti specifici*
 

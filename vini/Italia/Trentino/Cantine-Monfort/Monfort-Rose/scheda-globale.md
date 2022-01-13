@@ -27,10 +27,6 @@ dateCreated: 2021-08-12T08:47:39.689Z
 - **Affinamento:** 30 mesi sui lieviti
 {.grid-list}
 
-## Descrizione del produttore
-
-> Questo spumante classico, prodotto nel rispetto del disciplinare “Trento Doc Metodo Classico”, è ottenuto con la rifermentazione in bottiglia. È prodotto con uve Pinot Nero e Chardonnay provenienti dalle zone collinari di Trento e Pergine Valsugana, situate ad altitudini comprese tra i 400 e i 600 metri.
-
 ## Possibili abbinamenti
 *Vedere le singole annate per abbinamenti specifici*
 

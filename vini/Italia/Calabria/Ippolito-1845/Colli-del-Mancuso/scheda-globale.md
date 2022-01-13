@@ -21,9 +21,7 @@ dateCreated: 2021-10-01T09:52:58.839Z
 - **Fascia di prezzo:** 10-14€
 {.grid-list}
 
-## Descrizione del produttore
 
-> n.d.
 
 ## Possibili abbinamenti
 *Vedere le singole annate per abbinamenti specifici*

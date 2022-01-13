@@ -21,9 +21,7 @@ dateCreated: 2021-08-29T16:15:54.980Z
 - **Fascia di prezzo:** 25-29€ (annate "storiche" possono avere prezzi molto lontani dal range)
 {.grid-list}
 
-## Descrizione del produttore
 
-> n.d.
 
 
 ## Possibili abbinamenti

@@ -27,9 +27,7 @@ dateCreated: 2021-09-30T08:14:01.373Z
 - **Affinamento:** 3 mesi di presa di spuma
 {.grid-list}
 
-## Descrizione del produttore
 
-> n.d.
 
 ## Possibili abbinamenti
 *Vedere le singole annate per abbinamenti specifici*

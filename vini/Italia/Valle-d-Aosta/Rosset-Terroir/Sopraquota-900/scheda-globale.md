@@ -21,9 +21,7 @@ dateCreated: 2021-09-03T21:04:11.465Z
 - **Fascia di prezzo:** 35-39€
 {.grid-list}
 
-## Descrizione del produttore
 
-> n.d.
 
 
 ## Possibili abbinamenti
@@ -39,4 +37,4 @@ dateCreated: 2021-09-03T21:04:11.465Z
 - Sopraquota 900 [2019](vini/Italia/Valle-d-Aosta/Rosset-Terroir/Sopraquota-900/2019) -- <span class="star-5"></span> -- 93/100
 
 ## Note
-Il prezzo del vino è raddoppiato a partire dall'annata 2018 (era nel range 15-19 € precedentemente).
+Il prezzo del vino è raddoppiato a partire dall'annata 2018 (era nel range 15-19€ precedentemente).

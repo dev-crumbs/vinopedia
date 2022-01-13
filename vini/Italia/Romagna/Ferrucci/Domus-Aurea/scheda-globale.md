@@ -21,10 +21,6 @@ dateCreated: 2021-08-31T15:46:36.071Z
 - **Fascia di prezzo:** 20-24€
 {.grid-list}
 
-## Descrizione del produttore
-
-> Domus Aurea è il nostro Cru storico di Sangiovese. Nasce dalle selezioni delle migliori uve del singolo vigneto da cui prende il nome: la Vigna del Domus Aurea. E’un vino iconico e lussuoso che lascia il segno nel tempo, capace di conservare – e valorizzare – eleganza e freschezza anche dopo tanti anni d’invecchiamento grazie alla sua compiuta personalità.
-
 ## Possibili abbinamenti
 *Vedere le singole annate per abbinamenti specifici*
 

@@ -21,11 +21,6 @@ dateCreated: 2021-08-24T11:31:20.502Z
 - **Fascia di prezzo:** 25-29€
 {.grid-list}
 
-## Descrizione del produttore
-
-> Puer Apuliae o “Figlio di Puglia”: così veniva chiamato Federico II di Svevia, imperatore del XIII secolo che, con il Castel del Monte, ha lasciato un indelebile ricordo di sé all’umanità. Questo vino di grande carattere ed eleganza è un “Puer Apuliae” perché ottenuto da un clone quasi dimenticato di Nero di Troia selezionato dalla Rivera nel suo vigneto Tafuri.
-La vinificazione in chiave moderna e l’invecchiamento per 14 mesi in barriques nuove hanno permesso di ottenere un vino i cui i profumi caratteristici di questa varietà, la viola e l’anice stellato, risultano in maniera prepotente sostenuti da un palato di grande fittezza.
-
 ## Possibili abbinamenti
 *Vedere le singole annate per abbinamenti specifici*
 

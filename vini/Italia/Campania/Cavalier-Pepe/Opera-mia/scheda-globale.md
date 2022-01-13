@@ -22,10 +22,6 @@ dateCreated: 2021-08-11T15:27:13.077Z
 
 {.grid-list}
 
-## Descrizione del produttore
-
-> Riconosciuto D.O.C.G. dal 1993, il Taurasi è sicuramente il vino rosso più pregiato dell’Irpinia. L’Aglianico, vitigno di alta qualità, ha trovato nelle verdi colline irpine il miglior territorio per potersi esprimere. “Opera Mia” è il risultato della vinificazione in purezza delle uve Aglianico provenienti dai vigneti delle migliore località della denominazione del Taurasi D.O.C.G: “Carazita” e “Pesano”.
-
 ## Possibili abbinamenti
 *Vedere le singole annate per abbinamenti specifici*
 

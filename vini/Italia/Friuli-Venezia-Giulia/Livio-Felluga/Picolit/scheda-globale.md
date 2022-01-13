@@ -21,12 +21,6 @@ dateCreated: 2021-09-02T14:33:22.841Z
 - **Fascia di prezzo:** 50-54€
 {.grid-list}
 
-## Descrizione del produttore
-
-> È il vino più nobile del Friuli.Le sue origini sono ancora avvolte nel mistero, ed è solo dal 1750, che grazie agli scritti del conte Fabio Asquini, possiamo avere una documentazione precisa del "nettare prodotto dagli sparuti acini del grappolo".
-La particolarità di questo curioso e delicato vitigno è infatti la parziale fecondazione del fiore, il che determina la crescita di pochissimi e concentratissimi acini per ogni grappolo.
-Vino complesso, dal colore oro antico, armonizza sensazioni dolci e acidule, sprigionando un avvolgente profumo di frutta candita, vaniglia e fiori di campo. Storicamente vino della grande nobiltà europea, è considerato "vino da meditazione" di gran prestigio. 
-
 ## Possibili abbinamenti
 *Vedere le singole annate per abbinamenti specifici*
 

@@ -25,9 +25,7 @@ dateCreated: 2021-09-01T10:16:55.566Z
 - **Affinamento:** 60 mesi sui lieviti
 {.grid-list}
 
-## Descrizione del produttore
 
-> n.d
 
 ## Possibili abbinamenti
 *Vedere le singole annate per abbinamenti specifici*
