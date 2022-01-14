@@ -2,7 +2,7 @@
 title: Cornalin
 description: Antico vitigno a bacca nera della Valle d'Aosta nel nord Italia, diffuso nel Valaeis in Svizzera come Humagne Rouge.
 published: true
-date: 2021-09-06T16:35:44.596Z
+date: 2022-01-14T19:33:06.481Z
 tags: vitigno
 editor: markdown
 dateCreated: 2021-09-06T09:42:13.604Z
@@ -27,7 +27,7 @@ Broblanc (Valle d'Aosta), Cargnola (Valle d'Aosta), Cornalin d'Aoste, Cornalino,
 
 Il Cornalin è una vecchia varietà della Valle d'Aosta, Italia nord-orientale, al confine con la Svizzera, dove era ampiamente coltivato nel XIX secolo. Il suo nome potrebbe derivare da corniolo, il nome italiano del ciliegio corniolo (Cornus mas). Due tipi sono stati descritti da Gatta (1838), con morfologia e distribuzione leggermente distinte: Cornalin e Corniola. Non è chiaro se rappresentassero variazioni clonali o varietà distinte, ma si può escludere un legame con la Corniola bianca di Milazzo dell'Italia meridionale.
 
-Nel Valais, nella Svizzera meridionale, la varietà è chiamata Humagne Rouge, anche se non è imparentata con l'HUMAGNE a bacca bianca. La Humagne Rouge è stata a lungo ritenuta identica al [Petit Rouge](/vitigni/Italia/bacca-nera/petit-rouge) della Valle d'Aosta, ma prove morfologiche e del DNA hanno dimostrato che la Humagne Rouge è in realtà identica al Cornalin (Moriondo 1999; Vouillamoz et al. 2003). Inoltre, il test di paternità del DNA ha dimostrato che Cornalin è una progenie naturale di ROUGE DU PAYS, che si chiama anche Cornalin nel Vallese. Poiché Rouge du Pays è una progenie naturale di Petit Rouge e MAYOLET, Cornalin è loro nipote (Vouillamoz et al. 2003; vedi PRIÉ per il diagramma del pedigree).
+Nel Valais, nella Svizzera meridionale, la varietà è chiamata Humagne Rouge, anche se non è imparentata con l'HUMAGNE a bacca bianca. La Humagne Rouge è stata a lungo ritenuta identica al [Petit Rouge](/vitigni/Italia/bacca-nera/petit-rouge) della Valle d'Aosta, ma prove morfologiche e del DNA hanno dimostrato che la Humagne Rouge è in realtà identica al Cornalin (Moriondo 1999; Vouillamoz et al. 2003). Inoltre, il test di paternità del DNA ha dimostrato che Cornalin è una progenie naturale di ROUGE DU PAYS, che si chiama anche Cornalin nel Vallese. Poiché Rouge du Pays è una progenie naturale di Petit Rouge e MAYOLET, Cornalin è loro nipote (Vouillamoz et al. 2003; vedi [Prié](/vitigni/Italia/bacca-bianca/prie) per il diagramma del pedigree).
 
 ## Altre Ipotesi
 
