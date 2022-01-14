@@ -2,7 +2,7 @@
 title: Prié
 description: Varietà aostana molto importante con legami con la Spagna e la Svizzera.
 published: true
-date: 2022-01-14T19:41:57.214Z
+date: 2022-01-14T19:42:44.956Z
 tags: vitigno
 editor: markdown
 dateCreated: 2022-01-14T19:41:57.214Z
@@ -14,7 +14,7 @@ dateCreated: 2022-01-14T19:41:57.214Z
 Bianca
 
 ## Sinonimi
-Bernarde (Vallese in Svizzera), Blanc de Morgex, Blanc du Valdigne, Legiruela (provincia di Ávila in Castilla y León, Spagna), Plant de la Salle, Prié Blanc
+Bernarde (Vallese in Svizzera), Blanc de Morgex, Blanc du Valdigne, Legiruela (provincia di Ávila in Castilla y León, Spagna), Plant de la Salle, [Prié Blanc](/vitigni/Italia/bacca-bianca/prie-blanc)
 
 ## Omonimi
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
