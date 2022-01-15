@@ -2,8 +2,8 @@
 title: Sangue del Diavolo – Piave Raboso DOC – Ca' di Rajo – Veneto (IT) – 15-19€ – 3★-4★
 description: Raboso Piave 100% | Ravioli al germano – Costata di cavallo alla griglia 
 published: true
-date: 2022-01-15T21:26:38.517Z
-tags: vino, italia, rosso, varietale, veneto, fermo, 4 stelle, raboso piave, ravioli al germano, costata di cavallo alla griglia
+date: 2022-01-15T21:27:14.635Z
+tags: vino, italia, rosso, varietale, veneto, fermo, 4 stelle, 15-19€, raboso piave, ravioli al germano, costata di cavallo alla griglia
 editor: markdown
 dateCreated: 2022-01-15T21:12:01.561Z
 ---
