@@ -2,7 +2,7 @@
 title: Gemola – Colli Euganei DOC – Vignalta – Veneto (IT) – 35-39€ – 3★-5★
 description: Merlot 70% + Cabernet Franc 30% | Filetto di cinghiale in crosta con funghi – Faraona in salsa di mirtilli – Stufato di manzo – Filetto di bue al roquefort
 published: true
-date: 2021-10-04T06:51:36.576Z
+date: 2022-01-15T21:40:44.960Z
 tags: vino, italia, rosso, blend, veneto, fermo, 5 stelle, cabernet franc, merlot, filetto di cinghiale in crosta con funghi, faraona in salsa di mirtilli, stufato di manzo, filetto di bue al roquefort, 35-39€
 editor: markdown
 dateCreated: 2021-09-03T21:04:22.446Z
@@ -33,7 +33,7 @@ dateCreated: 2021-09-03T21:04:22.446Z
 - filetto di bue al roquefort
 
 ## Annate
-- Gemola [2011](vini/Italia/Veneto/Vignalta/Vignalta/2011) -- <span class="star-3"></span> -- 88/100
-- Gemola [2012](vini/Italia/Veneto/Vignalta/Vignalta/2012) -- <span class="star-5"></span> -- 94/100 
-- Gemola [2013](vini/Italia/Veneto/Vignalta/Vignalta/2013) -- <span class="star-5"></span> -- 95/100
-- Gemola [2015](vini/Italia/Veneto/Vignalta/Vignalta/2015) -- <span class="star-4"></span> -- 90/100
+- Gemola [2011](vini/Italia/Veneto/Vignalta/Gemola/2011) -- <span class="star-3"></span> -- 88/100
+- Gemola [2012](vini/Italia/Veneto/Vignalta/Gemola/2012) -- <span class="star-5"></span> -- 94/100 
+- Gemola [2013](vini/Italia/Veneto/Vignalta/Gemola/2013) -- <span class="star-5"></span> -- 95/100
+- Gemola [2015](vini/Italia/Veneto/Vignalta/Gemola/2015) -- <span class="star-4"></span> -- 90/100
