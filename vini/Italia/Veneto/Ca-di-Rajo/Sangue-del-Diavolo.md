@@ -2,7 +2,7 @@
 title: Sangue del Diavolo – Piave Raboso DOC – Ca' di Rajo – Veneto (IT) – 15-19€ – 3★-4★
 description: Raboso Piave 100% | Ravioli al germano – Costata di cavallo alla griglia 
 published: true
-date: 2022-01-15T21:12:01.561Z
+date: 2022-01-15T21:26:38.517Z
 tags: vino, italia, rosso, varietale, veneto, fermo, 4 stelle, raboso piave, ravioli al germano, costata di cavallo alla griglia
 editor: markdown
 dateCreated: 2022-01-15T21:12:01.561Z
@@ -29,7 +29,7 @@ dateCreated: 2022-01-15T21:12:01.561Z
 - Costata di cavallo alla griglia
 
 ## Annate
-- Piave Raboso [2013](vini/Italia/Veneto/Ca-di-Rajo/Sangue-del-Diavolo/2013) -- <span class="star-3"></span> -- 87/100
-- Piave Raboso [2014](vini/Italia/Veneto/Ca-di-Rajo/Sangue-del-Diavolo/2014) -- <span class="star-3"></span> -- 86/100
-- Piave Raboso [2016](vini/Italia/Veneto/Ca-di-Rajo/Sangue-del-Diavolo/2016) -- <span class="star-3"></span> -- 88/100
-- Piave Raboso [2017](vini/Italia/Veneto/Ca-di-Rajo/Sangue-del-Diavolo/2017) -- <span class="star-4"></span> -- 89/100
+- Sangue del Diavolo [2013](vini/Italia/Veneto/Ca-di-Rajo/Sangue-del-Diavolo/2013) -- <span class="star-3"></span> -- 87/100
+- Sangue del Diavolo [2014](vini/Italia/Veneto/Ca-di-Rajo/Sangue-del-Diavolo/2014) -- <span class="star-3"></span> -- 86/100
+- Sangue del Diavolo [2016](vini/Italia/Veneto/Ca-di-Rajo/Sangue-del-Diavolo/2016) -- <span class="star-3"></span> -- 88/100
+- Sangue del Diavolo [2017](vini/Italia/Veneto/Ca-di-Rajo/Sangue-del-Diavolo/2017) -- <span class="star-4"></span> -- 89/100
