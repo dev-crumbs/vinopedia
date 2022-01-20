@@ -2,13 +2,7 @@
     d3.csv("../../../../lambrusco.csv").then( function(data) {
 
     //svg tag creation
-    const vpSvg = d3.selectAll(".vini")
-    .append("svg")
-    .attr("width", "100%")
-    .attr("viewBox","10 10 930 930")
-    .attr("preserveAspectRatio", "xMidYMid meet")
-    .append("g")
-    .attr("transform", `translate(${vpWidth/2+vpMargin.left}, ${vpHeight/2+vpMargin.top})`); 
+    createSVG();
     
     // Scales
     const x = d3.scaleBand()

@@ -82,5 +82,5 @@ function wineData(){
 
 window.addEventListener("load", function(){
 mainSvg()
-setTimeout(wineData, 2000)  
+setTimeout(wineData, 1500)  
 });

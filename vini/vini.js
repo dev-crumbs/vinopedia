@@ -23,6 +23,7 @@ const colorScale =  function(d){
    }
  };
 
+// color scales for labels
 const colorScaleText =  function(d){
  if (d.Valore == 0){
    return('lightgray')
@@ -30,19 +31,6 @@ const colorScaleText =  function(d){
      return(myColor(d.Famiglia))
    }
  };   
-
-/*
-// append the svg objects
-window.addEventListener("load", function(){
-var vpSvg = d3.selectAll(".vini")
-  .append("svg")
-  .attr("width", "100%")
-  .attr("viewBox","10 10 930 930")
-  .attr("preserveAspectRatio", "xMidYMid meet")
-  .append("g")
-    .attr("transform", `translate(${vpWidth/2+vpMargin.left}, ${vpHeight/2+vpMargin.top})`);   
-});
-*/
 
 //label styles
 labelDistance = 186
@@ -59,6 +47,18 @@ const labelStyle =  function(){
 const vpCorona =  function(id){
   return d3.select(`${id} svg g`).append("g");
 };
+
+
+//functions
+const createSVG = function(){
+  const vpSvg = d3.selectAll(".vini")
+    .append("svg")
+    .attr("width", "100%")
+    .attr("viewBox","10 10 930 930")
+    .attr("preserveAspectRatio", "xMidYMid meet")
+    .append("g")
+    .attr("transform", `translate(${vpWidth/2+vpMargin.left}, ${vpHeight/2+vpMargin.top})`); 
+}
 
 const vpCoronaFunction = function(id, nome, testo, colore, size){
   vpCorona(id).append("path")
