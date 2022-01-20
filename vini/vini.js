@@ -58,6 +58,7 @@ const createSVG = function(){
     .attr("preserveAspectRatio", "xMidYMid meet")
     .append("g")
     .attr("transform", `translate(${vpWidth/2+vpMargin.left}, ${vpHeight/2+vpMargin.top})`); 
+    return vpSvg;
 }
 
 const vpCoronaFunction = function(id, nome, testo, colore, size){
