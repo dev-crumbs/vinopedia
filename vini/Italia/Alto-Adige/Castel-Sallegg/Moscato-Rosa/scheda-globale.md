@@ -1,11 +1,11 @@
 ---
-title: Moscato Rosa – Alto Adige DOC – Castel Sallegg – Alto Adige (IT) – 35-39€ – 2★-5★
+title: Moscato Rosa – Alto Adige DOC – Castel Sallegg – Alto Adige (IT) – 35-39€ – 2★-5★Untitled Page
 description: Moscato Rosa 100% | Torta ai semi di papavero – Canederli ricotta e papavero – Datteri ripieni
 published: true
-date: 2021-08-23T18:08:44.486Z
-tags: vino, italia, rosso, varietale, Moscato Rosa, Torta ai semi di papavero, Canederli ricotta e papavero, alto adige, Datteri ripieni, 35-39€, 5 stelle
+date: 2022-01-20T14:06:41.997Z
+tags: vino, italia, rosso, varietale, 5 stelle, alto-adige, 35-39€, moscato rosa, torta ai semi di papavero, canederli ricotta e papavero, datteri ripieni
 editor: markdown
-dateCreated: 2021-08-23T09:13:09.952Z
+dateCreated: 2022-01-20T14:06:41.997Z
 ---
 
 # Moscato Rosa
