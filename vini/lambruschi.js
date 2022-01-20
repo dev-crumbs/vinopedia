@@ -11,6 +11,7 @@
         .domain([0, 300]); // Domain of Y is from 0 to the max seen in the data
 
     // Add the bars
+    window.addEventListener("load", function(){
     d3.selectAll(".vini").append("g")
       .selectAll("path")
       .data(data)
@@ -23,6 +24,7 @@
             .endAngle(d => x(d.Sentore) + x.bandwidth())
             .padAngle(1)
             .padRadius(vpInnerRadius))
+    });
   });  
 
     // outer corona
