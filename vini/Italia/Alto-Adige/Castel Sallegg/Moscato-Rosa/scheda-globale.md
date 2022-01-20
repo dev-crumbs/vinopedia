@@ -26,7 +26,7 @@ dateCreated: 2021-08-23T09:13:09.952Z
 ## Possibili abbinamenti
 *Vedere le singole annate per abbinamenti specifici*
 
-- Torta ai semi di papavero
+- Torta ai semi di papavero   
 - Canederli ricotta e papavero
 - Datteri ripieni
 
