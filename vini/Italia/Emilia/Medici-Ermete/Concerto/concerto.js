@@ -1,6 +1,6 @@
-const annoCorrente = document.querySelector("#annata").textContent;
-const wineId = "#concerto";
-function wineData(){
+function wineData(callback){
+  const annoCorrente = document.querySelector("#annata").textContent;
+  const wineId = "#concerto";
   const thisWine = d3.select(`${wineId} svg g`) 
   d3.csv(`${annoCorrente}.csv`).then( function(data) {
   
@@ -45,4 +45,5 @@ function wineData(){
         .attr("x", function(d) { return (x(d.Sentore) + x.bandwidth() / 2 + Math.PI) % (2 * Math.PI) < Math.PI ? "-"+labelDistance : labelDistance; })
         labelStyle();
   });
+  callback;
 }

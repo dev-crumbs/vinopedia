@@ -13,11 +13,14 @@ vpText.append("text")
   .text("Medici Ermete")
   .attr("dy", 0)
 vpText.append("text")
-  .text(annoCorrente)
+  .text(2020)
   .attr("dy", 25)
 vpText.append("text")
   .text("100% Lambrusco Salamino")
   .attr("dy", 50)
+  vpText.append("text")
+  .text("86")
+  .attr("dy", 75)
 }
 // outer corona
 vpCoronaFunction(wineId, floreale, "floreale",0);
@@ -31,6 +34,5 @@ vpCoronaFunction(wineId, altri, "altri",0);
 
 window.addEventListener("load", function(){
   mainSvg()
-  wineNameAndCorona()
-  setTimeout(wineData, 1500)  
+  setTimeout(wineData(wineNameAndCorona), 1500)  
 });
