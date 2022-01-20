@@ -11,7 +11,7 @@ dateCreated: 2021-08-25T13:27:56.103Z
 # Puer Apuliae
 
 ## Caratteristiche
-- **Nome:** Lacrima di Morro d'Alba Superiore
+- **Nome:** Lambrusco di Sorbara Radice
 - **Tipologia:** Rosato spumante metodo ancestrale
 - **Denominazione:** [Lambrusco di Sorbara DOC](/denominazioni/Italia/Emilia/DOC/Lambrusco-di-Sorbara)
 - **Produttore:** [Gianfranco Paltrinieri](/produttori/Italia/Emilia/Gianfranco-Paltrinieri) 
