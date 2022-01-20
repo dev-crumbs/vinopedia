@@ -1,4 +1,3 @@
-window.addEventListener("load", function(){
   d3.csv("../../../../lambrusco.csv").then( function(data) {
 
     // Scales
@@ -24,7 +23,6 @@ window.addEventListener("load", function(){
             .padAngle(1)
             .padRadius(vpInnerRadius))
   });  
-});
     // outer corona
 const floreale = d3.arc()
   .innerRadius(familiesInnerRadius)
