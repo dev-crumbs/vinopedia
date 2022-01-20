@@ -1,5 +1,3 @@
-window.addEventListener("load", function(){
-
 async function wineData(){
   await mainSvg();
   const annoCorrente = document.querySelector("#annata").textContent;
@@ -82,7 +80,7 @@ async function wineData(){
     vpCoronaFunction(wineId, altri, "altri",0);
   });
 }
-});
+
 window.addEventListener("load", function(){
 mainSvg();
 wineData();
