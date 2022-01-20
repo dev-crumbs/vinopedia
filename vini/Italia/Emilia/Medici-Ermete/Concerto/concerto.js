@@ -61,7 +61,7 @@ d3.csv(`concerto-${annoCorrente}.csv`).then( function(data) {
       .text("Medici Ermete")
       .attr("dy", 0)
     vpText.append("text")
-      .text("2019")
+      .text(annoCorrente)
       .attr("dy", 25)
     vpText.append("text")
       .text("100% Lambrusco Salamino")
