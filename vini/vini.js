@@ -34,7 +34,6 @@ const colorScaleText =  function(d){
 
 
 //outer corona
-
 const vpCorona =  function(id){
   return d3.select(`${id} svg g`).append("g");
 };
@@ -52,9 +51,11 @@ function createSVG(){
     return vpSvg;
 }
 
+
 //label styles
 labelDistance = 186
 const labelStyle =  function(){
+  const vpSvg = d3.selectAll(".vini")
   return vpSvg.selectAll(".labels")
     .style("font-size", "20px")
     .style("font-weight", "900")
