@@ -1,4 +1,4 @@
-async function wineData(){
+function wineData(){
   const annoCorrente = document.querySelector("#annata").textContent;
   const wineId = "#concerto"
   const thisWine = d3.select(`${wineId} svg g`) 
