@@ -1,4 +1,3 @@
-window.addEventListener("load", function(){
   d3.csv("../../../../lambrusco.csv").then( function(data) {
 
     // Scales
@@ -11,7 +10,7 @@ window.addEventListener("load", function(){
         .domain([0, 300]); // Domain of Y is from 0 to the max seen in the data
 
     // Add the bars
-    d3.selectAll(".vini").append("g")
+    d3.selectAll(".vini svg").append("g")
       .selectAll("path")
       .data(data)
       .join("path")
@@ -24,7 +23,6 @@ window.addEventListener("load", function(){
             .padAngle(1)
             .padRadius(vpInnerRadius))
   });  
-});
     // outer corona
 const floreale = d3.arc()
   .innerRadius(familiesInnerRadius)
