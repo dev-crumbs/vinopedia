@@ -1,5 +1,7 @@
 function wineNameAndCorona(){
-const vptext = d3.select(`#concerto svg g`).append("g")
+const annoCorrente = document.querySelector("#annata").textContent;
+const wineId = "#concerto";
+const vptext = d3.select(`#${wineId} svg g`).append("g")
 .style("text-anchor","middle")
 .style("font-size", "20px")
 vpText.append("text")
@@ -13,7 +15,7 @@ vpText.append("text")
   .text("Medici Ermete")
   .attr("dy", 0)
 vpText.append("text")
-  .text(2020)
+  .text(annoCorrente)
   .attr("dy", 25)
 vpText.append("text")
   .text("100% Lambrusco Salamino")

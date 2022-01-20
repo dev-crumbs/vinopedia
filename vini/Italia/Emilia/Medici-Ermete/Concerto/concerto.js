@@ -45,5 +45,4 @@ function wineData(){
         .attr("x", function(d) { return (x(d.Sentore) + x.bandwidth() / 2 + Math.PI) % (2 * Math.PI) < Math.PI ? "-"+labelDistance : labelDistance; })
         labelStyle();
   });
-  return wineId;
 }
