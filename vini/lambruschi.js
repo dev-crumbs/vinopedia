@@ -1,5 +1,5 @@
 
-  d3.csv("lambrusco.csv").then( function(data) {
+  d3.csv("../../../../lambrusco.csv").then( function(data) {
 
     // Scales
     const x = d3.scaleBand()
