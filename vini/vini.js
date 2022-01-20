@@ -1,3 +1,4 @@
+window.addEventListener("load", function(){
 // general dimensions
 const vpMargin = {top: 20, right: 10, bottom: 30, left: 10},
 vpWidth = 930 - vpMargin.left - vpMargin.right,
@@ -72,3 +73,4 @@ const vpCoronaFunction = function(id, nome, testo, colore, size){
       .attr("class", "famiglia")
       .text(testo);
 };
+});
