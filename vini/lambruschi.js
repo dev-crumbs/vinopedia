@@ -1,4 +1,4 @@
-  async function mainSvg(){
+  function mainSvg(){
     d3.csv("../../../../lambrusco.csv").then( function(data) {
 
     //svg tag creation
@@ -33,7 +33,6 @@
             .padAngle(1)
             .padRadius(vpInnerRadius))
   });
-  return 1
 }
 
 // outer corona
