@@ -32,7 +32,8 @@
             .endAngle(d => x(d.Sentore) + x.bandwidth())
             .padAngle(1)
             .padRadius(vpInnerRadius))
-  });  
+  });
+  callback  
 }
 
 // outer corona
