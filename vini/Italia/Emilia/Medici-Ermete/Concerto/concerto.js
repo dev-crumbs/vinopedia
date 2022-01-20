@@ -1,5 +1,5 @@
 window.addEventListener("load", function(){
-annata = document.querySelector("#annata").innerHTML;
+annata = document.querySelector("#annata").innerText;
 d3.csv(`concerto-${annata}.csv`).then( function(data) {
   //const
   const wineId = "#concerto"
