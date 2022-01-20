@@ -1,4 +1,4 @@
-function wineData(callback){
+function wineData(){
   const annoCorrente = document.querySelector("#annata").textContent;
   const wineId = "#concerto";
   const thisWine = d3.select(`${wineId} svg g`) 
@@ -45,5 +45,5 @@ function wineData(callback){
         .attr("x", function(d) { return (x(d.Sentore) + x.bandwidth() / 2 + Math.PI) % (2 * Math.PI) < Math.PI ? "-"+labelDistance : labelDistance; })
         labelStyle();
   });
-  callback;
+  return wineId;
 }
