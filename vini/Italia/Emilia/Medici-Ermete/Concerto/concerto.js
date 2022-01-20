@@ -72,8 +72,8 @@ d3.csv("concerto.csv").then( function(data) {
   vpCoronaFunction(wineId, vegetale, "vegetale",3);
   vpCoronaFunction(wineId, minerale, "minerale",0);
   vpCoronaFunction(wineId, tostato, "tostato",0);
-  vpCoronaFunction(wineId, vinoso, "",7);
-  vpCoronaFunction(wineId, fragrante, "",11);
+  vpCoronaFunction(wineId, vinoso, "",0);
+  vpCoronaFunction(wineId, fragrante, "",0);
   vpCoronaFunction(wineId, altri, "altri",0);
 });
 });
