@@ -30,12 +30,11 @@ vpCoronaFunction(wineId, fruttato, "fruttato",2);
 vpCoronaFunction(wineId, vegetale, "vegetale",3);
 vpCoronaFunction(wineId, minerale, "minerale",0);
 vpCoronaFunction(wineId, tostato, "tostato",0);
-vpCoronaFunction(wineId, vinoso, "",1);
+vpCoronaFunction(wineId, vinoso, "",7);
 vpCoronaFunction(wineId, fragrante, "",0);
 vpCoronaFunction(wineId, altri, "altri",0);
 }
 window.addEventListener("load", function(){
   mainSvg()
   setTimeout(wineData(), 1500)
-  setTimeout(wineNameAndCorona(), 1600)  
 });
