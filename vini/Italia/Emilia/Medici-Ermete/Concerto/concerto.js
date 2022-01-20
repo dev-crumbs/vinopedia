@@ -1,10 +1,10 @@
 const wineData = function(){
   const annoCorrente = document.querySelector("#annata").textContent;
+  const wineId = "#concerto"
+  const thisWine = d3.select(`${wineId} svg g`) 
   d3.csv(`concerto-${annoCorrente}.csv`).then( function(data) {
   
     //const
-    const wineId = "#concerto"
-    const thisWine = d3.select(`${wineId} svg g`) 
     const x = d3.scaleBand()
       .range(xAxisRange) 
       .align(0)
