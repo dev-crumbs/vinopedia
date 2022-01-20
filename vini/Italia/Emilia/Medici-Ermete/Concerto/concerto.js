@@ -83,3 +83,7 @@ async function wineData(){
   });
 }
 });
+window.addEventListener("load", function(){
+mainSvg();
+wineData();
+});
