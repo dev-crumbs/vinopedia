@@ -1,4 +1,4 @@
-  const mainSvg = function(callback){
+  const mainSvg = function(){
     d3.csv("../../../../lambrusco.csv").then( function(data) {
 
     //svg tag creation
@@ -33,7 +33,6 @@
             .padAngle(1)
             .padRadius(vpInnerRadius))
   });
-  callback  
 }
 
 // outer corona
