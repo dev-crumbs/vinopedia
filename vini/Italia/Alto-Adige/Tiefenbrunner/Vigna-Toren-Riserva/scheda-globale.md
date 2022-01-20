@@ -30,5 +30,5 @@ dateCreated: 2021-08-27T17:49:36.458Z
 - Piccione glassato
 
 ## Annate
-- Vigna Toren Riserva [2015](vini/italia/Alto-Adige/Cantina-Bolzano/Vigna-Toren-Riserva/2015) -- <span class="star-5"></span> -- 93/100
-- Vigna Toren Riserva [2016](vini/italia/Alto-Adige/Cantina-Bolzano/Vigna-Toren-Riserva/2016) -- <span class="star-5"></span> -- 94/100
+- Vigna Toren Riserva [2015](vini/italia/Alto-Adige/Tiefenbrunner/Vigna-Toren-Riserva/2015) -- <span class="star-5"></span> -- 93/100
+- Vigna Toren Riserva [2016](vini/italia/Alto-Adige/Tiefenbrunner/Vigna-Toren-Riserva/2016) -- <span class="star-5"></span> -- 94/100
