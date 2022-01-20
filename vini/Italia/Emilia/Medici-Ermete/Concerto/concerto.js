@@ -1,4 +1,4 @@
-annata = document.querySelector("#annata").innerText;
+annata = document.querySelector("#annata").textContent;
 window.addEventListener("load", function(){
 d3.csv(`concerto-${annata}.csv`).then( function(data) {
   //const
