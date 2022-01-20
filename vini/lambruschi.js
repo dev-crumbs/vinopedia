@@ -1,4 +1,3 @@
-window.addEventListener("load", function(){
   d3.csv("../../../../lambrusco.csv").then( function(data) {
 
     // Scales
@@ -66,4 +65,3 @@ const altri = d3.arc()
   .outerRadius(familiesOuterRadius)
   .startAngle(1.71 * Math.PI)
   .endAngle(2 * Math.PI);
-});
