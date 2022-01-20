@@ -1,5 +1,6 @@
 window.addEventListener("load", function(){
-d3.csv("concerto.csv").then( function(data) {
+annata = document.querySelector("#annata").innerHTML;
+d3.csv(`concerto-${annata}.csv`).then( function(data) {
   //const
   const wineId = "#concerto"
   const thisWine = d3.select(`${wineId} svg g`) 
