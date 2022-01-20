@@ -1,6 +1,15 @@
 window.addEventListener("load", function(){
   d3.csv("../../../../lambrusco.csv").then( function(data) {
 
+    //svg tag creation
+    const vpSvg = d3.selectAll(".vini")
+    .append("svg")
+    .attr("width", "100%")
+    .attr("viewBox","10 10 930 930")
+    .attr("preserveAspectRatio", "xMidYMid meet")
+    .append("g")
+    .attr("transform", `translate(${vpWidth/2+vpMargin.left}, ${vpHeight/2+vpMargin.top})`); 
+    
     // Scales
     const x = d3.scaleBand()
         .range([0, 2 * Math.PI])    // X axis goes from 0 to 2pi = all around the circle. If I stop at 1Pi, it will be around a half circle
@@ -11,7 +20,7 @@ window.addEventListener("load", function(){
         .domain([0, 300]); // Domain of Y is from 0 to the max seen in the data
 
     // Add the bars
-    d3.selectAll(".vini svg g").append("g")
+    vpSvg.append("g")
       .selectAll("path")
       .data(data)
       .join("path")

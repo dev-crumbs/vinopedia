@@ -31,6 +31,7 @@ const colorScaleText =  function(d){
    }
  };   
 
+/*
 // append the svg objects
 window.addEventListener("load", function(){
 var vpSvg = d3.selectAll(".vini")
@@ -41,6 +42,7 @@ var vpSvg = d3.selectAll(".vini")
   .append("g")
     .attr("transform", `translate(${vpWidth/2+vpMargin.left}, ${vpHeight/2+vpMargin.top})`);   
 });
+*/
 
 //label styles
 labelDistance = 186
