@@ -1,5 +1,5 @@
-window.addEventListener("load", function(){
-  d3.csv("../../../../lambrusco.csv").then( function(data) {
+  const mainSvg = function(){
+    d3.csv("../../../../lambrusco.csv").then( function(data) {
 
     //svg tag creation
     const vpSvg = d3.selectAll(".vini")
@@ -33,8 +33,9 @@ window.addEventListener("load", function(){
             .padAngle(1)
             .padRadius(vpInnerRadius))
   });  
-});
-    // outer corona
+}
+
+// outer corona
 const floreale = d3.arc()
   .innerRadius(familiesInnerRadius)
   .outerRadius(familiesOuterRadius)
