@@ -14,7 +14,7 @@ const wineData = function(){
       .domain(yAxisDomain);
   
     //Add the bars
-    vpSvg.append("g")
+    thisWine.append("g")
       .selectAll("path")
       .data(data)
       .join("path")
@@ -29,7 +29,7 @@ const wineData = function(){
         .padRadius(vpInnerRadius))
   
       // Add the labels
-      vpSvg.append("g")
+      thisWine.append("g")
       .selectAll("g")
       .data(data)
       .join("g")
@@ -48,7 +48,7 @@ const wineData = function(){
         .attr("fill", colorScaleText)
         .attr("alignment-baseline", "middle")
   
-      const vpText = vpSvg.append("g")
+      const vpText = thisWine.append("g")
       .style("text-anchor","middle")
       .style("font-size", "20px")
       vpText.append("text")
