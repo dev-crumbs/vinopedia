@@ -1,4 +1,7 @@
-const wineData = function(callback){
+window.addEventListener("load", function(){
+
+async function wineData(){
+  await mainSvg();
   const annoCorrente = document.querySelector("#annata").textContent;
   const wineId = "#concerto"
   const thisWine = d3.select(`${wineId} svg g`) 
@@ -78,11 +81,5 @@ const wineData = function(callback){
     vpCoronaFunction(wineId, fragrante, "",0);
     vpCoronaFunction(wineId, altri, "altri",0);
   });
-  callback
 }
-
-window.addEventListener("load", function(){
-  wineData(
-    mainSvg()
-  )
 });
