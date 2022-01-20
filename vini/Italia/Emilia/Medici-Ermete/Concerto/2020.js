@@ -35,5 +35,5 @@ vpCoronaFunction(wineId, altri, "altri",0);
 window.addEventListener("load", function(){
   mainSvg()
   setTimeout(wineData(), 1500)
-  wineNameAndCorona()  
+  setTimeout(wineNameAndCorona(), 1600)  
 });
