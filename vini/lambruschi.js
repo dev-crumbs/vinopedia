@@ -11,7 +11,7 @@
         .domain([0, 300]); // Domain of Y is from 0 to the max seen in the data
 
     // Add the bars
-    vpSvg.append("g")
+    d3.selectAll(".vini").append("g")
       .selectAll("path")
       .data(data)
       .join("path")
