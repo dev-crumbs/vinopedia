@@ -50,7 +50,7 @@ const vpCorona =  function(id){
 
 
 //functions
-const createSVG = function(){
+function createSVG(){
   const vpSvg = d3.selectAll(".vini")
     .append("svg")
     .attr("width", "100%")

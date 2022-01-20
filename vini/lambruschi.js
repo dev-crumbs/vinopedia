@@ -2,7 +2,7 @@
     d3.csv("../../../../lambrusco.csv").then( function(data) {
 
     //svg tag creation
-    createSVG();
+    const vpSvg = createSVG();
     
     // Scales
     const x = d3.scaleBand()
