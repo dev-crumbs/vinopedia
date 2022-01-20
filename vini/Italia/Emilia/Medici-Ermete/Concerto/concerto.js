@@ -1,3 +1,4 @@
+window.addEventListener("load", function(){
 d3.csv("concerto.csv").then( function(data) {
   //const
   const wineId = "#concerto"
@@ -74,4 +75,5 @@ d3.csv("concerto.csv").then( function(data) {
   vpCoronaFunction(wineId, vinoso, "",7);
   vpCoronaFunction(wineId, fragrante, "",11);
   vpCoronaFunction(wineId, altri, "altri",0);
+});
 });
