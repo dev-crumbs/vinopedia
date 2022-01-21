@@ -4,7 +4,7 @@ function wineData(){
   const thisWine = d3.selectAll(`.vini svg g`)
   //Funzione Dati vino
   function wineText(doc, name, cantina, vitigno, punteggio){
-    const vpText = d3.selectAll(`.vini svg g`).append("g")
+    const vpText = d3.selectAll(`.vini > svg > g`).append("g")
       .style("text-anchor","middle")
       .style("font-size", "20px")
     vpText.append("text")
