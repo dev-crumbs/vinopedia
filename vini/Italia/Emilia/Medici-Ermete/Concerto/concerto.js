@@ -9,7 +9,7 @@ function wineData(){
       const x = d3.scaleBand().range(xAxisRange).align(0).domain(data.map(d => d.Sentore));
       const y = d3.scaleRadial().range([vpInnerRadius, vpOuterRadius]).domain(yAxisDomain);
       //Add the bars
-      d3.selectAll(`.vini > svg > g`).append("g")
+      d3.select(`.vini > svg > g`).append("g")
         .selectAll("path")
         .data(data)
         .join("path")
@@ -23,7 +23,7 @@ function wineData(){
           .padAngle(0.01)
           .padRadius(vpInnerRadius))
       // Add labels
-      d3.selectAll(`.vini > svg > g`).append("g")
+      d3.select(`.vini > svg > g`).append("g")
         .selectAll("g")
         .data(data)
         .join("g")
