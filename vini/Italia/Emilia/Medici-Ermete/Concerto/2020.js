@@ -67,7 +67,7 @@ function wineData(){
     const cantinaVino = document.querySelector("#cantina").innerText;
     const vitignoVino = document.querySelector("#vitigno").innerText;
     const punteggioVino = document.querySelector("#punteggio").innerText;     
-    if (document.querySelector("#floreale")){const florealeVino = 1} else {const florealeVino = 0}
+    if (document.querySelector("#floreale")){var florealeVino = 1} else {var florealeVino = 0}
     
     // input corona
     wineText(docVino, nomeVino, cantinaVino, vitignoVino, punteggioVino)
