@@ -1,4 +1,3 @@
-
 // general dimensions
 const vpMargin = {top: 20, right: 10, bottom: 30, left: 10},
 vpWidth = 930 - vpMargin.left - vpMargin.right,
@@ -14,7 +13,7 @@ familiesInnerRadius = vpOuterRadius - 40
 // Color scales
 const myColor = d3.scaleLinear().domain([0,1,2,3,4,5,6,7,8,9,10,11])
 .range(["#d3d3d3", "#80b1d3", "#e66e6d", "#c5d551", "#3f5c6f", "#f9c91d", "#a27859", "#4a032a", "#e94235", "#cf9fd6", "#2a2e32","#e7ba77"]);
-
+//Color scale for bars
 const colorScale =  function(d){
   if (d.Valore == 0){
     return('white')
@@ -22,7 +21,6 @@ const colorScale =  function(d){
      return(myColor(d.Famiglia))
    }
  };
-
 // color scales for labels
 const colorScaleText =  function(d){
  if (d.Valore == 0){
@@ -31,7 +29,6 @@ const colorScaleText =  function(d){
      return(myColor(d.Famiglia))
    }
  };   
-
 //label styles
 labelDistance = 186
 const labelStyle =  function(){
@@ -43,13 +40,11 @@ const labelStyle =  function(){
 }
 
 //outer corona
+// const vpCorona =  function(id){
+//   return d3.select(`${id} svg g`).append("g");
+// };
 
-const vpCorona =  function(id){
-  return d3.select(`${id} svg g`).append("g");
-};
-
-
-//functions
+//create SVG
 function createSVG(){
   const vpSvg = d3.selectAll(".vini")
     .append("svg")
@@ -62,11 +57,11 @@ function createSVG(){
 }
 
 const vpCoronaFunction = function(id, nome, testo, colore, size){
-  vpCorona(id).append("path")
+  d3.select(`${id} svg g`).append("g").append("path")
     .attr("d", nome)
     .attr("fill", myColor(colore))
     .attr("id", testo);
-  vpCorona(id).append("text")
+  d3.select(`${id} svg g`).append("g").append("text")
     .attr("dy", 17)
     .append("textPath") 
       .attr("fill", "white")
