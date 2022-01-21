@@ -14,7 +14,7 @@ window.addEventListener("load", function(){
 const wineId = "#" + document.querySelector("#analisi-olfattiva").nextElementSibling.id;
 const thisWine = d3.select(`${wineId} svg g`) 
 
-const vpText = function(doc, name, cantina, vitigno, punteggio){
+function vpText(doc, name, cantina, vitigno, punteggio){
   thisWine.append("g")
     .style("text-anchor","middle")
     .style("font-size", "20px")
