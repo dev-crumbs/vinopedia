@@ -1,5 +1,5 @@
 ---
-title: Schiava lombarda
+title: Aleatico
 description: La Schiava della Lombardia produce un rosso morbido e fruttato.
 published: true
 date: 2022-01-11T14:08:55.634Z

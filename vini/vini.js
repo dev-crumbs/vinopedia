@@ -32,8 +32,18 @@ const colorScaleText =  function(d){
    }
  };   
 
+//label styles
+labelDistance = 186
+const labelStyle =  function(){
+  return vpSvg.selectAll(".labels")
+    .style("font-size", "20px")
+    .style("font-weight", "900")
+    .attr("fill", colorScaleText)
+    .attr("alignment-baseline", "middle")
+}
 
 //outer corona
+
 const vpCorona =  function(id){
   return d3.select(`${id} svg g`).append("g");
 };
@@ -49,18 +59,6 @@ function createSVG(){
     .append("g")
     .attr("transform", `translate(${vpWidth/2+vpMargin.left}, ${vpHeight/2+vpMargin.top})`); 
     return vpSvg;
-}
-
-
-//label styles
-labelDistance = 186
-const labelStyle =  function(){
-  const vpSvg = d3.selectAll(".vini")
-  return vpSvg.selectAll(".labels")
-    .style("font-size", "20px")
-    .style("font-weight", "900")
-    .attr("fill", colorScaleText)
-    .attr("alignment-baseline", "middle")
 }
 
 const vpCoronaFunction = function(id, nome, testo, colore, size){

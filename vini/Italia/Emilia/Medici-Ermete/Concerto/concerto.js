@@ -1,8 +1,8 @@
 function wineData(){
   const annoCorrente = document.querySelector("#annata").textContent;
-  const wineId = "#concerto";
+  const wineId = "#concerto"
   const thisWine = d3.select(`${wineId} svg g`) 
-  d3.csv(`${annoCorrente}.csv`).then( function(data) {
+  d3.csv(`concerto-${annoCorrente}.csv`).then( function(data) {
   
     //const
     const x = d3.scaleBand()
@@ -43,6 +43,44 @@ function wineData(){
         .text(function(d){return(d.Sentore)})
         .attr("transform", function(d) { return (x(d.Sentore) + x.bandwidth() / 2 + Math.PI) % (2 * Math.PI) < Math.PI ? "rotate(180)" : "rotate(0)"; })
         .attr("x", function(d) { return (x(d.Sentore) + x.bandwidth() / 2 + Math.PI) % (2 * Math.PI) < Math.PI ? "-"+labelDistance : labelDistance; })
-        labelStyle();
+        .style("font-size", "20px")
+        .style("font-weight", "900")
+        .attr("fill", colorScaleText)
+        .attr("alignment-baseline", "middle")
+  
+      const vpText = thisWine.append("g")
+      .style("text-anchor","middle")
+      .style("font-size", "20px")
+      vpText.append("text")
+        .text("Lambrusco Reggiano")
+        .attr("dy", -50)  
+      vpText.append("text")
+        .text("Concerto")
+        .attr("dy", -25)  
+        .style("font-style","italic")
+      vpText.append("text")
+        .text("Medici Ermete")
+        .attr("dy", 0)
+      vpText.append("text")
+        .text(annoCorrente)
+        .attr("dy", 25)
+      vpText.append("text")
+        .text("100% Lambrusco Salamino")
+        .attr("dy", 50)
+  
+    // outer corona
+    vpCoronaFunction(wineId, floreale, "floreale",0);
+    vpCoronaFunction(wineId, fruttato, "fruttato",2);
+    vpCoronaFunction(wineId, vegetale, "vegetale",3);
+    vpCoronaFunction(wineId, minerale, "minerale",0);
+    vpCoronaFunction(wineId, tostato, "tostato",0);
+    vpCoronaFunction(wineId, vinoso, "",0);
+    vpCoronaFunction(wineId, fragrante, "",0);
+    vpCoronaFunction(wineId, altri, "altri",0);
   });
 }
+
+window.addEventListener("load", function(){
+mainSvg()
+setTimeout(wineData, 1500)  
+});
