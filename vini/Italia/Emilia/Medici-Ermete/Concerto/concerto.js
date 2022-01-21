@@ -1,5 +1,3 @@
-var annoCorrente = el.querySelector(".annocorrente").innerText;
-
 function wineData(){
   const annata = document.querySelectorAll(".annata");
   const thisWine = d3.selectAll(`.vini > svg > g`)
@@ -30,6 +28,7 @@ function wineData(){
   }
 
   annata.forEach(el => {
+    var annoCorrente = el.querySelector(".annocorrente").innerText;
     d3.csv(`${annoCorrente}.csv`).then( function(data) {  
       //const
       const x = d3.scaleBand().range(xAxisRange).align(0).domain(data.map(d => d.Sentore));
