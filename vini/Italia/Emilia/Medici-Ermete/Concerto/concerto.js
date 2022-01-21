@@ -28,7 +28,8 @@ function wineData(){
   }
 
   annata.forEach(el => {
-    d3.csv(`${el.querySelector(".annocorrente").innerText}.csv`).then( function(data) {  
+    const annoCorrente = el.querySelector(".annocorrente").innerText;
+    d3.csv(`${annoCorrente}.csv`).then( function(data) {  
       //const
       const x = d3.scaleBand().range(xAxisRange).align(0).domain(data.map(d => d.Sentore));
       const y = d3.scaleRadial().range([vpInnerRadius, vpOuterRadius]).domain(yAxisDomain);
@@ -87,6 +88,8 @@ function wineData(){
       vpCoronaFunction(vinoso, "",vinosoVino);
       vpCoronaFunction(fragrante, "",fragranteVino);
       vpCoronaFunction(altri, "altri",altriVino);
+      console.log(nomeVino);
+      console.log(annoCorrente);
     });  
   });
   
