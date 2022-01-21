@@ -1,5 +1,5 @@
 function wineData(){
-  const annata = document.querySelectorAll(".contents");
+  const annata = document.querySelectorAll(".annata");
   const thisWine = d3.selectAll(`.vini > svg > g`)
   //Funzione Dati vino
   function wineText(doc, name, cantina, vitigno, punteggio, annoCorrente){
