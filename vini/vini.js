@@ -11,8 +11,8 @@ familiesOuterRadius = vpOuterRadius - 60
 familiesInnerRadius = vpOuterRadius - 40
 
 window.addEventListener("load", function(){
-var wineId = "#" + document.querySelector("#analisi-olfattiva").nextElementSibling.id;
-var thisWine = d3.select(`${wineId} svg g`) 
+const wineId = "#" + document.querySelector("#analisi-olfattiva").nextElementSibling.id;
+const thisWine = d3.select(`${wineId} svg g`) 
 
 const vpText = function(doc, name, cantina, vitigno, punteggio){
   thisWine.append("g")
@@ -38,6 +38,7 @@ const vpText = function(doc, name, cantina, vitigno, punteggio){
     .text(punteggio)
     .attr("dy", 75)
 }
+return thisWine;
 });
 
 // Color scales
