@@ -79,7 +79,6 @@ function wineData(){
       if (el.querySelector(".altriInput")){var altriVino = 10} else {var altriVino = 0}
   
       // input dati vino e corona
-      wineText(docVino, nomeVino, cantinaVino, vitignoVino, punteggioVino, annoCorrente)
       vpCoronaFunction(floreale, "floreale",florealeVino);
       vpCoronaFunction(fruttato, "fruttato",fruttatoVino);
       vpCoronaFunction(vegetale, "vegetale",vegetaleVino);
@@ -90,6 +89,7 @@ function wineData(){
       vpCoronaFunction(altri, "altri",altriVino);
       console.log(nomeVino);
       console.log(annoCorrente);
+      console.log(wineText(docVino, nomeVino, cantinaVino, vitignoVino, punteggioVino, annoCorrente))
     });  
   });
   
