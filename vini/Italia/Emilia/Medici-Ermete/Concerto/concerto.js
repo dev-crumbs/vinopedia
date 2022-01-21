@@ -1,7 +1,7 @@
 function wineData(){
   const wineId = "#" + document.querySelector("#analisi-olfattiva").nextElementSibling.id; 
   const annoCorrente = document.querySelector("#annata").textContent;
-  const thisWine = d3.selectAll(`.vini svg g`)
+  const thisWine = d3.selectAll(`.vini > svg > g`)
   //Funzione Dati vino
   function wineText(doc, name, cantina, vitigno, punteggio){
     const vpText = d3.selectAll(`.vini > svg > g`).append("g")
@@ -32,7 +32,7 @@ function wineData(){
     const x = d3.scaleBand().range(xAxisRange).align(0).domain(data.map(d => d.Sentore));
     const y = d3.scaleRadial().range([vpInnerRadius, vpOuterRadius]).domain(yAxisDomain);
     //Add the bars
-    d3.selectAll(`.vini svg g`).append("g")
+    d3.selectAll(`.vini > svg > g`).append("g")
       .selectAll("path")
       .data(data)
       .join("path")
@@ -46,7 +46,7 @@ function wineData(){
         .padAngle(0.01)
         .padRadius(vpInnerRadius))
     // Add labels
-    d3.selectAll(`.vini svg g`).append("g")
+    d3.selectAll(`.vini > svg > g`).append("g")
       .selectAll("g")
       .data(data)
       .join("g")
