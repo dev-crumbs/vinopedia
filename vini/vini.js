@@ -11,8 +11,8 @@ familiesOuterRadius = vpOuterRadius - 60
 familiesInnerRadius = vpOuterRadius - 40
 
 window.addEventListener("load", function(){
-const wineId = "#" + document.querySelector("#analisi-olfattiva").nextElementSibling.id;
-const thisWine = d3.select(`${wineId} svg g`) 
+var wineId = "#" + document.querySelector("#analisi-olfattiva").nextElementSibling.id;
+var thisWine = d3.select(`${wineId} svg g`) 
 
 const vpText = function(doc, name, cantina, vitigno, punteggio){
   thisWine.append("g")
