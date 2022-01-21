@@ -24,11 +24,11 @@ function wineData(){
       .attr("dy", 50)
     vpText.append("text")
       .text(punteggio)
-      .attr("dy", 75)
+      .attr("dy", 75) 
   }
 
   annata.forEach(el => {
-    annoCorrente = el.querySelector(".annocorrente").innerText;
+    const annoCorrente = el.querySelector(".annocorrente").innerText;
     d3.csv(`${annoCorrente}.csv`).then( function(data) {  
       //const
       const x = d3.scaleBand().range(xAxisRange).align(0).domain(data.map(d => d.Sentore));
@@ -69,7 +69,6 @@ function wineData(){
       const cantinaVino = el.querySelector(".cantina").innerText;
       const vitignoVino = el.querySelector(".vitigno").innerText;
       const punteggioVino = el.querySelector(".punteggio").innerText;     
-      const annoCorrente = el.querySelector(".annocorrente").innerText;
       if (el.querySelector(".florealeInput")){var florealeVino = 1} else {var florealeVino = 0}
       if (el.querySelector(".fruttatoInput")){var fruttatoVino = 2} else {var fruttatoVino = 0}
       if (el.querySelector(".vegetaleInput")){var vegetaleVino = 3} else {var vegetaleVino = 0}
