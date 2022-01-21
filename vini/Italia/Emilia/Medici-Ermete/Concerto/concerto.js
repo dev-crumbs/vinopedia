@@ -1,5 +1,4 @@
 function wineData(){
-  const wineId = "#" + document.querySelector("#analisi-olfattiva").nextElementSibling.id; 
   const annoCorrente = document.querySelector("#annata").textContent;
   const thisWine = d3.selectAll(`.vini > svg > g`)
   //Funzione Dati vino
