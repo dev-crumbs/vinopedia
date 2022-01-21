@@ -38,7 +38,6 @@ const vpText = function(doc, name, cantina, vitigno, punteggio){
     .text(punteggio)
     .attr("dy", 75)
 }
-return thisWine;
 });
 
 // Color scales

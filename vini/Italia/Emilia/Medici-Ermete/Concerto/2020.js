@@ -1,11 +1,12 @@
 function wineData(){
+  const wineId = "#" + document.querySelector("#analisi-olfattiva").nextElementSibling.id; 
   const annoCorrente = document.querySelector("#annata").textContent;
   d3.csv(`${annoCorrente}.csv`).then( function(data) {  
     //const
     const x = d3.scaleBand().range(xAxisRange).align(0).domain(data.map(d => d.Sentore));
     const y = d3.scaleRadial().range([vpInnerRadius, vpOuterRadius]).domain(yAxisDomain);
     //Add the bars
-    thisWine.append("g")
+    d3.select(`${wineId} svg g`).append("g")
       .selectAll("path")
       .data(data)
       .join("path")
@@ -19,7 +20,7 @@ function wineData(){
         .padAngle(0.01)
         .padRadius(vpInnerRadius))
     // Add labels
-    thisWine.append("g")
+    d3.select(`${wineId} svg g`).append("g")
       .selectAll("g")
       .data(data)
       .join("g")
