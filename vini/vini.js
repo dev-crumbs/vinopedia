@@ -52,11 +52,11 @@ function createSVG(){
 }
 
 const vpCoronaFunction = function(id, nome, testo, colore, size){
-  vpSvg.append("g").append("path")
+  d3.selectAll(".vini").append("g").append("path")
     .attr("d", nome)
     .attr("fill", myColor(colore))
     .attr("id", testo);
-  vpSvg.append("g").append("text")
+    d3.selectAll(".vini").append("g").append("text")
     .attr("dy", 17)
     .append("textPath") 
       .attr("fill", "white")
