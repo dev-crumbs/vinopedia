@@ -10,36 +10,6 @@ yAxisDomain = [0, 300];
 familiesOuterRadius = vpOuterRadius - 60
 familiesInnerRadius = vpOuterRadius - 40
 
-window.addEventListener("load", function(){
-const wineId = "#" + document.querySelector("#analisi-olfattiva").nextElementSibling.id;
-const thisWine = d3.select(`${wineId} svg g`) 
-});
-
-function vpText(doc, name, cantina, vitigno, punteggio){
-  thisWine.append("g")
-    .style("text-anchor","middle")
-    .style("font-size", "20px")
-  vpText.append("text")
-    .text(doc)
-    .attr("dy", -50)  
-  vpText.append("text")
-    .text(name)
-    .attr("dy", -25)  
-    .style("font-style","italic")
-  vpText.append("text")
-    .text(cantina)
-    .attr("dy", 0)
-  vpText.append("text")
-    .text(annoCorrente)
-    .attr("dy", 25)
-  vpText.append("text")
-    .text(vitigno)
-    .attr("dy", 50)
-  vpText.append("text")
-    .text(punteggio)
-    .attr("dy", 75)
-}
-
 // Color scales
 const myColor = d3.scaleLinear().domain([0,1,2,3,4,5,6,7,8,9,10,11])
 .range(["#d3d3d3", "#80b1d3", "#e66e6d", "#c5d551", "#3f5c6f", "#f9c91d", "#a27859", "#4a032a", "#e94235", "#cf9fd6", "#2a2e32","#e7ba77"]);

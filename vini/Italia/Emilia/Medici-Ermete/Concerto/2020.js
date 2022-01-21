@@ -1,6 +1,31 @@
 function wineData(){
   const wineId = "#" + document.querySelector("#analisi-olfattiva").nextElementSibling.id; 
   const annoCorrente = document.querySelector("#annata").textContent;
+  //Funzione Dati vino
+  function vpText(doc, name, cantina, vitigno, punteggio){
+    thisWine.append("g")
+      .style("text-anchor","middle")
+      .style("font-size", "20px")
+    vpText.append("text")
+      .text(doc)
+      .attr("dy", -50)  
+    vpText.append("text")
+      .text(name)
+      .attr("dy", -25)  
+      .style("font-style","italic")
+    vpText.append("text")
+      .text(cantina)
+      .attr("dy", 0)
+    vpText.append("text")
+      .text(annoCorrente)
+      .attr("dy", 25)
+    vpText.append("text")
+      .text(vitigno)
+      .attr("dy", 50)
+    vpText.append("text")
+      .text(punteggio)
+      .attr("dy", 75)
+  }
   d3.csv(`${annoCorrente}.csv`).then( function(data) {  
     //const
     const x = d3.scaleBand().range(xAxisRange).align(0).domain(data.map(d => d.Sentore));
@@ -34,11 +59,11 @@ function wineData(){
         .attr("x", function(d) { return (x(d.Sentore) + x.bandwidth() / 2 + Math.PI) % (2 * Math.PI) < Math.PI ? "-"+labelDistance : labelDistance; })
         .attr("class","labels")
         labelStyle();
-    //append wine Name and info
     
+    //Input dati vino
     vpText("Lambrusco Reggiano", "Concerto", "Medici Ermete", "100% Lambrusco Salamino", "86")
   
-    // append outer corona
+    // input corona
     vpCoronaFunction(wineId, floreale, "floreale",0);
     vpCoronaFunction(wineId, fruttato, "fruttato",2);
     vpCoronaFunction(wineId, vegetale, "vegetale",3);
