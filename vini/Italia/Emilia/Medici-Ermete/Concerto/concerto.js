@@ -1,6 +1,5 @@
 function wineData(){
-  const annata = document.querySelectorAll(".annata");
-  const annataText = annata.textContent;
+  const annata = document.querySelectorAll(".contents");
   const thisWine = d3.selectAll(`.vini > svg > g`)
   //Funzione Dati vino
   function wineText(doc, name, cantina, vitigno, punteggio, annoCorrente){
@@ -29,7 +28,8 @@ function wineData(){
   }
 
   annata.forEach(el => {
-    d3.csv(`${el.textContent}.csv`).then( function(data) {  
+    annoCorrente = el.querySelector(".annocorrente").innerText;
+    d3.csv(`${annoCorrente}.csv`).then( function(data) {  
       //const
       const x = d3.scaleBand().range(xAxisRange).align(0).domain(data.map(d => d.Sentore));
       const y = d3.scaleRadial().range([vpInnerRadius, vpOuterRadius]).domain(yAxisDomain);
