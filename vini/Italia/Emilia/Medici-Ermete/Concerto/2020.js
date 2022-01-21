@@ -67,14 +67,14 @@ function wineData(){
     const cantinaVino = document.querySelector("#cantina").innerText;
     const vitignoVino = document.querySelector("#vitigno").innerText;
     const punteggioVino = document.querySelector("#punteggio").innerText;     
-    if (document.querySelector("#floreale")){var florealeVino = 1} else {var florealeVino = 0}
-    if (document.querySelector("#fruttato")){var fruttatoVino = 2} else {var fruttatoVino = 0}
-    if (document.querySelector("#vegetale")){var vegetaleVino = 3} else {var vegetaleVino = 0}
-    if (document.querySelector("#minerale")){var mineraleVino = 4} else {var mineraleVino = 0}
-    if (document.querySelector("#tostato")){var tostatoVino = 5} else {var tostatoVino = 0}
-    if (document.querySelector("#vinoso")){var vinosoVino = 7} else {var vinosoVino = 0}
-    if (document.querySelector("#fragrante")){var fragranteVino = 11} else {var fragranteVino = 0}
-    if (document.querySelector("#altri")){var altriVino = 10} else {var altriVino = 0}
+    if (document.querySelector("#florealeInput")){var florealeVino = 1} else {var florealeVino = 0}
+    if (document.querySelector("#fruttatoInput")){var fruttatoVino = 2} else {var fruttatoVino = 0}
+    if (document.querySelector("#vegetaleInput")){var vegetaleVino = 3} else {var vegetaleVino = 0}
+    if (document.querySelector("#mineraleInput")){var mineraleVino = 4} else {var mineraleVino = 0}
+    if (document.querySelector("#tostatoInput")){var tostatoVino = 5} else {var tostatoVino = 0}
+    if (document.querySelector("#vinosoInput")){var vinosoVino = 7} else {var vinosoVino = 0}
+    if (document.querySelector("#fragranteInput")){var fragranteVino = 11} else {var fragranteVino = 0}
+    if (document.querySelector("#altriInput")){var altriVino = 10} else {var altriVino = 0}
 
     // input dati vino e corona
     wineText(docVino, nomeVino, cantinaVino, vitignoVino, punteggioVino)
