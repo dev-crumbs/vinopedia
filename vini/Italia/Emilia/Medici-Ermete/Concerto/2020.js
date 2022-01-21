@@ -3,8 +3,8 @@ function wineData(){
   const annoCorrente = document.querySelector("#annata").textContent;
   const thisWine = d3.select(`${wineId} svg g`)
   //Funzione Dati vino
-  function vpText(doc, name, cantina, vitigno, punteggio){
-    thisWine.append("g")
+  function wineText(doc, name, cantina, vitigno, punteggio){
+    const vpText = thisWine.append("g")
       .style("text-anchor","middle")
       .style("font-size", "20px")
     vpText.append("text")
@@ -62,7 +62,7 @@ function wineData(){
         labelStyle();
     
     //Input dati vino
-    vpText("Lambrusco Reggiano", "Concerto", "Medici Ermete", "100% Lambrusco Salamino", "86")
+    wineText("Lambrusco Reggiano", "Concerto", "Medici Ermete", "100% Lambrusco Salamino", "86")
   
     // input corona
     vpCoronaFunction(wineId, floreale, "floreale",0);
