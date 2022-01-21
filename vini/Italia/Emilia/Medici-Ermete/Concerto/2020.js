@@ -63,7 +63,11 @@ function wineData(){
     
     //Input dati vino
     const nomeVino = document.querySelector("#nome").innerText;
-    wineText("Lambrusco Reggiano", nomeVino, "Medici Ermete", "100% Lambrusco Salamino", "86")
+    const docVino = document.querySelector("#denominazione").innerText;
+    const cantinaVino = document.querySelector("#cantina").innerText;
+    const vitignoVino = document.querySelector("#vitigno").innerText;
+    const punteggioVino = document.querySelector("#punteggio").innerText;
+    wineText(docVino, nomeVino, cantinaVino, vitignoVino, punteggioVino)
   
     // input corona
     vpCoronaFunction(wineId, floreale, "floreale",0);
