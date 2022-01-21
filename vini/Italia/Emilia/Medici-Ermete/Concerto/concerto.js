@@ -39,30 +39,7 @@ function wineData(){
           labelStyle();
       
       //Funzione Dati vino
-      function wineText(doc, name, cantina, vitigno, punteggio, annoCorrente){
-        const vpText = d3.select(`.vini > svg > g`).append("g")
-          .style("text-anchor","middle")
-          .style("font-size", "20px")
-        vpText.append("text")
-          .text(doc)
-          .attr("dy", -50)  
-        vpText.append("text")
-          .text(name)
-          .attr("dy", -25)  
-          .style("font-style","italic")
-        vpText.append("text")
-          .text(cantina)
-          .attr("dy", 0)
-        vpText.append("text")
-          .text(annoCorrente)
-          .attr("dy", 25)
-        vpText.append("text")
-          .text(vitigno)
-          .attr("dy", 50)
-        vpText.append("text")
-          .text(punteggio)
-          .attr("dy", 75) 
-      }
+      
       //Input dati vino
       const nomeVino = el.querySelector(".nome").innerText;
       const docVino = el.querySelector(".denominazione").innerText;
@@ -89,7 +66,7 @@ function wineData(){
       vpCoronaFunction(altri, "altri",altriVino);
       console.log(nomeVino);
       console.log(annoCorrente);
-      console.log(wineText(docVino, nomeVino, cantinaVino, vitignoVino, punteggioVino, annoCorrente))
+      //console.log(wineText(docVino, nomeVino, cantinaVino, vitignoVino, punteggioVino, annoCorrente))
     });  
   });
   
