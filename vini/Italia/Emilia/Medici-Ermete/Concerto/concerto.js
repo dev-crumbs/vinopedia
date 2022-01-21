@@ -3,7 +3,7 @@ function wineData(){
   const thisWine = d3.selectAll(`.vini > svg > g`)
   //Funzione Dati vino
   function wineText(doc, name, cantina, vitigno, punteggio, annoCorrente){
-    const vpText = d3.selectAll(`.vini > svg > g`).append("g")
+    const vpText = d3.select(`.vini > svg > g`).append("g")
       .style("text-anchor","middle")
       .style("font-size", "20px")
     vpText.append("text")
@@ -48,7 +48,7 @@ function wineData(){
           .padAngle(0.01)
           .padRadius(vpInnerRadius))
       // Add labels
-      d3.select(`.vini > svg > g`).append("g")
+      d3.selectAll(`.vini > svg > g`).append("g")
         .selectAll("g")
         .data(data)
         .join("g")
