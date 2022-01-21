@@ -43,11 +43,9 @@ function wineData(){
         .text(function(d){return(d.Sentore)})
         .attr("transform", function(d) { return (x(d.Sentore) + x.bandwidth() / 2 + Math.PI) % (2 * Math.PI) < Math.PI ? "rotate(180)" : "rotate(0)"; })
         .attr("x", function(d) { return (x(d.Sentore) + x.bandwidth() / 2 + Math.PI) % (2 * Math.PI) < Math.PI ? "-"+labelDistance : labelDistance; })
-        .style("font-size", "20px")
-        .style("font-weight", "900")
-        .attr("fill", colorScaleText)
-        .attr("alignment-baseline", "middle")
   
+      labelStyle();
+            
       const vpText = thisWine.append("g")
       .style("text-anchor","middle")
       .style("font-size", "20px")
