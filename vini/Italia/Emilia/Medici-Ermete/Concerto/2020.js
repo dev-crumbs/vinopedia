@@ -66,11 +66,12 @@ function wineData(){
     const docVino = document.querySelector("#denominazione").innerText;
     const cantinaVino = document.querySelector("#cantina").innerText;
     const vitignoVino = document.querySelector("#vitigno").innerText;
-    const punteggioVino = document.querySelector("#punteggio").innerText;
-    wineText(docVino, nomeVino, cantinaVino, vitignoVino, punteggioVino)
-  
+    const punteggioVino = document.querySelector("#punteggio").innerText;     
+    if (document.querySelector("#floreale")){const florealeVino = 1} else {const florealeVino = 0}
+    
     // input corona
-    vpCoronaFunction(wineId, floreale, "floreale",0);
+    wineText(docVino, nomeVino, cantinaVino, vitignoVino, punteggioVino)
+    vpCoronaFunction(wineId, floreale, "floreale",florealeVino);
     vpCoronaFunction(wineId, fruttato, "fruttato",2);
     vpCoronaFunction(wineId, vegetale, "vegetale",3);
     vpCoronaFunction(wineId, minerale, "minerale",0);
