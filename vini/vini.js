@@ -56,7 +56,7 @@ const vpCoronaFunction = function(id, nome, testo, colore, size){
     .attr("d", nome)
     .attr("fill", myColor(colore))
     .attr("id", testo);
-    d3.selectAll(".vini").append("g").append("text")
+    d3.selectAll(".vini > svg > g").append("g").append("text")
     .attr("dy", 17)
     .append("textPath") 
       .attr("fill", "white")
