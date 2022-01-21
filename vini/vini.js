@@ -51,7 +51,7 @@ function createSVG(){
     return vpSvg;
 }
 
-const vpCoronaFunction = function(id, nome, testo, colore, size){
+const vpCoronaFunction = function(nome, testo, colore, size){
   d3.selectAll(".vini > svg > g").append("g").append("path")
     .attr("d", nome)
     .attr("fill", myColor(colore))

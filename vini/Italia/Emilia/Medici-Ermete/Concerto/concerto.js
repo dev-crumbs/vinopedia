@@ -1,10 +1,10 @@
 function wineData(){
   const wineId = "#" + document.querySelector("#analisi-olfattiva").nextElementSibling.id; 
   const annoCorrente = document.querySelector("#annata").textContent;
-  const thisWine = d3.select(`${wineId} svg g`)
+  const thisWine = d3.selectAll(`.vini svg g`)
   //Funzione Dati vino
   function wineText(doc, name, cantina, vitigno, punteggio){
-    const vpText = thisWine.append("g")
+    const vpText = d3.selectAll(`.vini svg g`).append("g")
       .style("text-anchor","middle")
       .style("font-size", "20px")
     vpText.append("text")
@@ -32,7 +32,7 @@ function wineData(){
     const x = d3.scaleBand().range(xAxisRange).align(0).domain(data.map(d => d.Sentore));
     const y = d3.scaleRadial().range([vpInnerRadius, vpOuterRadius]).domain(yAxisDomain);
     //Add the bars
-    d3.select(`${wineId} svg g`).append("g")
+    d3.selectAll(`.vini svg g`).append("g")
       .selectAll("path")
       .data(data)
       .join("path")
@@ -46,7 +46,7 @@ function wineData(){
         .padAngle(0.01)
         .padRadius(vpInnerRadius))
     // Add labels
-    d3.select(`${wineId} svg g`).append("g")
+    d3.selectAll(`.vini svg g`).append("g")
       .selectAll("g")
       .data(data)
       .join("g")
@@ -78,14 +78,14 @@ function wineData(){
 
     // input dati vino e corona
     wineText(docVino, nomeVino, cantinaVino, vitignoVino, punteggioVino)
-    vpCoronaFunction(wineId, floreale, "floreale",florealeVino);
-    vpCoronaFunction(wineId, fruttato, "fruttato",fruttatoVino);
-    vpCoronaFunction(wineId, vegetale, "vegetale",vegetaleVino);
-    vpCoronaFunction(wineId, minerale, "minerale",mineraleVino);
-    vpCoronaFunction(wineId, tostato, "tostato",tostatoVino);
-    vpCoronaFunction(wineId, vinoso, "",vinosoVino);
-    vpCoronaFunction(wineId, fragrante, "",fragranteVino);
-    vpCoronaFunction(wineId, altri, "altri",altriVino);
+    vpCoronaFunction(floreale, "floreale",florealeVino);
+    vpCoronaFunction(fruttato, "fruttato",fruttatoVino);
+    vpCoronaFunction(vegetale, "vegetale",vegetaleVino);
+    vpCoronaFunction(minerale, "minerale",mineraleVino);
+    vpCoronaFunction(tostato, "tostato",tostatoVino);
+    vpCoronaFunction(vinoso, "",vinosoVino);
+    vpCoronaFunction(fragrante, "",fragranteVino);
+    vpCoronaFunction(altri, "altri",altriVino);
   });
 }
 
