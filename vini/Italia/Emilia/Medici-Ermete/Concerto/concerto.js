@@ -3,8 +3,9 @@ function wineData(){
 
   annata.forEach(el => {
     const annoCorrente = el.querySelector(".annocorrente").innerText;
-    console.log(annoCorrente);
+    console.log(annoCorrente+"before");
     d3.csv(`${annoCorrente}.csv`).then( function(data) {  
+      console.log(annoCorrente+"inside");
       //const
       const x = d3.scaleBand().range(xAxisRange).align(0).domain(data.map(d => d.Sentore));
       const y = d3.scaleRadial().range([vpInnerRadius, vpOuterRadius]).domain(yAxisDomain);
