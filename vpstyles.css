@@ -108,11 +108,14 @@ a.v-list-item > div.v-list-item__title {
 .contents .annata h1 {
   margin-top: 0
 }
-.confronto ul {
+.confronto-grid ul {
 padding: 0!important
 }
 .confronto-grid li:before{
-  content: ""
+  content: ""!important
+}
+.confronto-grid li {
+  margin-top:0px!important
 }
 .vini {
   resize: both;
