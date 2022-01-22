@@ -5,12 +5,11 @@ function wineData(){
     const annoCorrente = el.querySelector(".annocorrente").innerText;
     console.log(annoCorrente+"before");
     d3.csv(`${annoCorrente}.csv`).then( function(data) {  
-      console.log(annoCorrente+"inside");
       //const
       const x = d3.scaleBand().range(xAxisRange).align(0).domain(data.map(d => d.Sentore));
       const y = d3.scaleRadial().range([vpInnerRadius, vpOuterRadius]).domain(yAxisDomain);
       //Add the bars
-      d3.selectAll(`.vini svg`).select("g").append("g")
+      d3.select(this).select(".vini svg g").append("g")
         .selectAll("path")
         .data(data)
         .join("path")
