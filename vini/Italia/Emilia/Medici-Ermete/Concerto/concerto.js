@@ -37,37 +37,33 @@ function wineData(){
           .attr("x", function(d) { return (x(d.Sentore) + x.bandwidth() / 2 + Math.PI) % (2 * Math.PI) < Math.PI ? "-"+labelDistance : labelDistance; })
           .attr("class","labels")
           labelStyle();
-      
-      //Funzione Dati vino
-      
-      //Input dati vino
-      const nomeVino = el.querySelector(".nome").innerText;
-      const docVino = el.querySelector(".denominazione").innerText;
-      const cantinaVino = el.querySelector(".cantina").innerText;
-      const vitignoVino = el.querySelector(".vitigno").innerText;
-      const punteggioVino = el.querySelector(".punteggio").innerText;     
-      if (el.querySelector(".florealeInput")){var florealeVino = 1} else {var florealeVino = 0}
-      if (el.querySelector(".fruttatoInput")){var fruttatoVino = 2} else {var fruttatoVino = 0}
-      if (el.querySelector(".vegetaleInput")){var vegetaleVino = 3} else {var vegetaleVino = 0}
-      if (el.querySelector(".mineraleInput")){var mineraleVino = 4} else {var mineraleVino = 0}
-      if (el.querySelector(".tostatoInput")){var tostatoVino = 5} else {var tostatoVino = 0}
-      if (el.querySelector(".vinosoInput")){var vinosoVino = 7} else {var vinosoVino = 0}
-      if (el.querySelector(".fragranteInput")){var fragranteVino = 11} else {var fragranteVino = 0}
-      if (el.querySelector(".altriInput")){var altriVino = 10} else {var altriVino = 0}
-  
-      // input dati vino e corona
-      vpCoronaFunction(floreale, "floreale",florealeVino);
-      vpCoronaFunction(fruttato, "fruttato",fruttatoVino);
-      vpCoronaFunction(vegetale, "vegetale",vegetaleVino);
-      vpCoronaFunction(minerale, "minerale",mineraleVino);
-      vpCoronaFunction(tostato, "tostato",tostatoVino);
-      vpCoronaFunction(vinoso, "",vinosoVino);
-      vpCoronaFunction(fragrante, "",fragranteVino);
-      vpCoronaFunction(altri, "altri",altriVino);
-      console.log(annoCorrente);
-      console.log(el.className)
-      //console.log(wineText(docVino, nomeVino, cantinaVino, vitignoVino, punteggioVino, annoCorrente))
     });  
+    //Input dati vino
+    const nomeVino = el.querySelector(".nome").innerText;
+    const docVino = el.querySelector(".denominazione").innerText;
+    const cantinaVino = el.querySelector(".cantina").innerText;
+    const vitignoVino = el.querySelector(".vitigno").innerText;
+    const punteggioVino = el.querySelector(".punteggio").innerText;     
+    if (el.querySelector(".florealeInput")){var florealeVino = 1} else {var florealeVino = 0}
+    if (el.querySelector(".fruttatoInput")){var fruttatoVino = 2} else {var fruttatoVino = 0}
+    if (el.querySelector(".vegetaleInput")){var vegetaleVino = 3} else {var vegetaleVino = 0}
+    if (el.querySelector(".mineraleInput")){var mineraleVino = 4} else {var mineraleVino = 0}
+    if (el.querySelector(".tostatoInput")){var tostatoVino = 5} else {var tostatoVino = 0}
+    if (el.querySelector(".vinosoInput")){var vinosoVino = 7} else {var vinosoVino = 0}
+    if (el.querySelector(".fragranteInput")){var fragranteVino = 11} else {var fragranteVino = 0}
+    if (el.querySelector(".altriInput")){var altriVino = 10} else {var altriVino = 0}
+
+    // input dati vino e corona
+    vpCoronaFunction(floreale, "floreale",florealeVino);
+    vpCoronaFunction(fruttato, "fruttato",fruttatoVino);
+    vpCoronaFunction(vegetale, "vegetale",vegetaleVino);
+    vpCoronaFunction(minerale, "minerale",mineraleVino);
+    vpCoronaFunction(tostato, "tostato",tostatoVino);
+    vpCoronaFunction(vinoso, "",vinosoVino);
+    vpCoronaFunction(fragrante, "",fragranteVino);
+    vpCoronaFunction(altri, "altri",altriVino);
+    console.log(annoCorrente);
+    console.log(el.className)
   });
   
 }
