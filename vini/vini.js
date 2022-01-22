@@ -16,7 +16,7 @@ const myColor = d3.scaleLinear().domain([0,1,2,3,4,5,6,7,8,9,10,11])
 //Color scale for bars
 const colorScale =  function(d){
   if (d.Valore == 0){
-    return('white')
+    return('transparent')
    } else {
      return(myColor(d.Famiglia))
    }

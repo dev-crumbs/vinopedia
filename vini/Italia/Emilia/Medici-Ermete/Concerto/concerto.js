@@ -1,15 +1,15 @@
 function wineData(){
   const annata = document.querySelectorAll(".annata");
 
-  annata.forEach(el => {
-    const annoCorrente = el.querySelector(".annocorrente").innerText;
-    console.log(annoCorrente+"before");
+for(var i=0; i < annata.length; i++){
+    const annoCorrente = annata[i].querySelector(".annocorrente").innerText;
+      console.log(i)
     d3.csv(`${annoCorrente}.csv`).then( function(data) {  
       //const
       const x = d3.scaleBand().range(xAxisRange).align(0).domain(data.map(d => d.Sentore));
       const y = d3.scaleRadial().range([vpInnerRadius, vpOuterRadius]).domain(yAxisDomain);
       //Add the bars
-      d3.select(".vini svg g").append("g")
+      d3.select(`.vini-${annoCorrente} svg g`).append("g")
         .selectAll("path")
         .data(data)
         .join("path")
@@ -23,7 +23,7 @@ function wineData(){
           .padAngle(0.01)
           .padRadius(vpInnerRadius))
       // Add labels
-      d3.select(`.vini > svg > g`).append("g")
+      d3.select(`.vini-${annoCorrente} svg g`).append("g")
         .selectAll("g")
         .data(data)
         .join("g")
@@ -39,19 +39,19 @@ function wineData(){
           labelStyle();
     });  
     //Input dati vino
-    const nomeVino = el.querySelector(".nome").innerText;
-    const docVino = el.querySelector(".denominazione").innerText;
-    const cantinaVino = el.querySelector(".cantina").innerText;
-    const vitignoVino = el.querySelector(".vitigno").innerText;
-    const punteggioVino = el.querySelector(".punteggio").innerText;     
-    if (el.querySelector(".florealeInput")){var florealeVino = 1} else {var florealeVino = 0}
-    if (el.querySelector(".fruttatoInput")){var fruttatoVino = 2} else {var fruttatoVino = 0}
-    if (el.querySelector(".vegetaleInput")){var vegetaleVino = 3} else {var vegetaleVino = 0}
-    if (el.querySelector(".mineraleInput")){var mineraleVino = 4} else {var mineraleVino = 0}
-    if (el.querySelector(".tostatoInput")){var tostatoVino = 5} else {var tostatoVino = 0}
-    if (el.querySelector(".vinosoInput")){var vinosoVino = 7} else {var vinosoVino = 0}
-    if (el.querySelector(".fragranteInput")){var fragranteVino = 11} else {var fragranteVino = 0}
-    if (el.querySelector(".altriInput")){var altriVino = 10} else {var altriVino = 0}
+    const nomeVino = annata[i].querySelector(".nome").innerText;
+    const docVino = annata[i].querySelector(".denominazione").innerText;
+    const cantinaVino = annata[i].querySelector(".cantina").innerText;
+    const vitignoVino = annata[i].querySelector(".vitigno").innerText;
+    const punteggioVino = annata[i].querySelector(".punteggio").innerText;     
+    if (annata[i].querySelector(".florealeInput")){var florealeVino = 1} else {var florealeVino = 0}
+    if (annata[i].querySelector(".fruttatoInput")){var fruttatoVino = 2} else {var fruttatoVino = 0}
+    if (annata[i].querySelector(".vegetaleInput")){var vegetaleVino = 3} else {var vegetaleVino = 0}
+    if (annata[i].querySelector(".mineraleInput")){var mineraleVino = 4} else {var mineraleVino = 0}
+    if (annata[i].querySelector(".tostatoInput")){var tostatoVino = 5} else {var tostatoVino = 0}
+    if (annata[i].querySelector(".vinosoInput")){var vinosoVino = 7} else {var vinosoVino = 0}
+    if (annata[i].querySelector(".fragranteInput")){var fragranteVino = 11} else {var fragranteVino = 0}
+    if (annata[i].querySelector(".altriInput")){var altriVino = 10} else {var altriVino = 0}
 
     // input dati vino e corona
     vpCoronaFunction(floreale, "floreale",florealeVino);
@@ -63,23 +63,13 @@ function wineData(){
     vpCoronaFunction(fragrante, "",fragranteVino);
     vpCoronaFunction(altri, "altri",altriVino);
     console.log(annoCorrente);
-    console.log(el.className)
-  });
-  
-}
+    console.log(annata[i].className)
 
-window.addEventListener("load", function(){
-mainSvg()
-setTimeout(wineData, 1500)  
-});
-
-
-
-
-function wineText(doc, name, cantina, vitigno, punteggio, annoCorrente){
-  const vpText = d3.select(`.vini > svg > g`).append("g")
+  function wineText(doc, name, cantina, vitigno, punteggio, annoCorrente){
+  const vpText = d3.select(`.vini-${annoCorrente} svg g`).append("g")
     .style("text-anchor","middle")
     .style("font-size", "20px")
+    .style("backgroundColor","white")
   vpText.append("text")
     .text(doc)
     .attr("dy", -50)  
@@ -100,3 +90,15 @@ function wineText(doc, name, cantina, vitigno, punteggio, annoCorrente){
     .text(punteggio)
     .attr("dy", 75) 
 }
+wineText(docVino, nomeVino, cantinaVino, vitignoVino, punteggioVino, annoCorrente)
+}
+}
+
+window.addEventListener("load", function(){
+mainSvg()
+setTimeout(wineData, 1500)  
+});
+
+
+
+
