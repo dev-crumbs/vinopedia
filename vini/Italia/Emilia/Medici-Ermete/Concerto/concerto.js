@@ -63,7 +63,6 @@ function wineData(){
       vpCoronaFunction(vinoso, "",vinosoVino);
       vpCoronaFunction(fragrante, "",fragranteVino);
       vpCoronaFunction(altri, "altri",altriVino);
-      console.log(nomeVino);
       console.log(annoCorrente);
       //console.log(wineText(docVino, nomeVino, cantinaVino, vitignoVino, punteggioVino, annoCorrente))
     });  
