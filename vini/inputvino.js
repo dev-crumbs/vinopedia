@@ -2,8 +2,8 @@ function wineData(){
   const annata = document.querySelectorAll(".annata");
 
 for(var i=0; i < annata.length; i++){
+    const nomeVino = annata[i].querySelector(".nome").innerText;
     const annoCorrente = annata[i].querySelector(".annocorrente").innerText;
-      console.log(i)
     d3.csv(`${annoCorrente}.csv`).then( function(data) {  
       //const
       const x = d3.scaleBand().range(xAxisRange).align(0).domain(data.map(d => d.Sentore));
@@ -39,7 +39,6 @@ for(var i=0; i < annata.length; i++){
           labelStyle();
     });  
     //Input dati vino
-    const nomeVino = annata[i].querySelector(".nome").innerText;
     const docVino = annata[i].querySelector(".denominazione").innerText;
     const cantinaVino = annata[i].querySelector(".cantina").innerText;
     const vitignoVino = annata[i].querySelector(".vitigno").innerText;
