@@ -2,9 +2,9 @@ function wineData(){
   const annata = document.querySelectorAll(".annata");
 
 for(var i=0; i < annata.length; i++){
-    const nomeVino = annata[i].querySelector(".nome").innerText;
+    const nomeVino = annata[i].querySelector(".nome").innerText.replaceAll(' ', '-');
     const annoCorrente = annata[i].querySelector(".annocorrente").innerText;
-    d3.csv(`${annoCorrente}.csv`).then( function(data) {  
+    d3.csv(`${nomeVino}-${annoCorrente}.csv`).then( function(data) {  
       //const
       const x = d3.scaleBand().range(xAxisRange).align(0).domain(data.map(d => d.Sentore));
       const y = d3.scaleRadial().range([vpInnerRadius, vpOuterRadius]).domain(yAxisDomain);
