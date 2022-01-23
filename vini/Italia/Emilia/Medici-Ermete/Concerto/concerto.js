@@ -54,16 +54,7 @@ for(var i=0; i < annata.length; i++){
     if (annata[i].querySelector(".altriInput")){var altriVino = 10} else {var altriVino = 0}
 
     // input dati vino e corona
-    vpCoronaFunction(floreale, "floreale",florealeVino);
-    vpCoronaFunction(fruttato, "fruttato",fruttatoVino);
-    vpCoronaFunction(vegetale, "vegetale",vegetaleVino);
-    vpCoronaFunction(minerale, "minerale",mineraleVino);
-    vpCoronaFunction(tostato, "tostato",tostatoVino);
-    vpCoronaFunction(vinoso, "",vinosoVino);
-    vpCoronaFunction(fragrante, "",fragranteVino);
-    vpCoronaFunction(altri, "altri",altriVino);
-    console.log(annoCorrente);
-    console.log(annata[i].className)
+    
 
   function wineText(doc, name, cantina, vitigno, punteggio, annoCorrente){
   const vpText = d3.select(`.vini-${annoCorrente} svg g`).append("g")
@@ -90,7 +81,32 @@ for(var i=0; i < annata.length; i++){
     .text(punteggio)
     .attr("dy", 75) 
 }
+  function vpCoronaFunction(nome, testo, colore, size){
+  d3.selectAll(`.vini-${annoCorrente} > svg > g`).append("g").append("path")
+    .attr("d", nome)
+    .attr("fill", myColor(colore))
+    .attr("id", testo);
+    d3.selectAll(".vini > svg > g").append("g").append("text")
+    .attr("dy", 17)
+    .append("textPath") 
+      .attr("fill", "white")
+      .style("font-weight", "bold") 
+      .style("text-anchor","start")
+      .style("font-size", size+"px") 
+      .attr("startOffset", "5px")
+      .attr("xlink:href", "#"+testo)
+      .attr("class", "famiglia")
+      .text(testo);
+};
 wineText(docVino, nomeVino, cantinaVino, vitignoVino, punteggioVino, annoCorrente)
+  vpCoronaFunction(floreale, "floreale",florealeVino);
+    vpCoronaFunction(fruttato, "fruttato",fruttatoVino);
+    vpCoronaFunction(vegetale, "vegetale",vegetaleVino);
+    vpCoronaFunction(minerale, "minerale",mineraleVino);
+    vpCoronaFunction(tostato, "tostato",tostatoVino);
+    vpCoronaFunction(vinoso, "",vinosoVino);
+    vpCoronaFunction(fragrante, "",fragranteVino);
+    vpCoronaFunction(altri, "altri",altriVino);
 }
 }
 
