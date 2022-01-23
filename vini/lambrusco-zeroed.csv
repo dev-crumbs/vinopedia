@@ -31,10 +31,10 @@ mandorla,0,2
 marasca,0,2
 melagrana,0,2
 mirtillo,0,2
-mora,100,2
+mora,0,2
 pompelmo rosa,0,2
-prugna,33,2
-ribes,66,2
+prugna,0,2
+ribes,0,2
 susina,0,2
 visciola,0,2
 acero,0,3
@@ -43,7 +43,7 @@ elicriso,0,3
 erba medica,0,3
 erba sfalciata,0,3
 erbe agresti,0,3
-graspo,100,3
+graspo,0,3
 felce,0,3
 fieno,0,3
 maggiorana,0,3
@@ -55,9 +55,9 @@ rosmarino,0,3
 sottobosco,0,3
 gesso,0,4
 ruggine,0,4
-caffè,0,6
-tabacco,0,6
-vinoso,100,7
+caffè,0,0
+tabacco,0,0
+vinoso,0,7
 fragrante,0,11
 china,0,10
 cipria,0,10
