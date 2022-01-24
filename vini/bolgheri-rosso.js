@@ -34,44 +34,54 @@ const floreale = d3.arc()
 .innerRadius(familiesInnerRadius)
 .outerRadius(familiesOuterRadius)
 .startAngle(0.001 * Math.PI)
-.endAngle(0.43 * Math.PI);
+.endAngle(0.18 * Math.PI);
 const fruttato = d3.arc()   
 .innerRadius(familiesInnerRadius)
 .outerRadius(familiesOuterRadius)
-.startAngle(0.43 * Math.PI)
-.endAngle(1.085 * Math.PI);
+.startAngle(0.18 * Math.PI)
+.endAngle(0.65 * Math.PI);
 const vegetale = d3.arc()   
 .innerRadius(familiesInnerRadius)
 .outerRadius(familiesOuterRadius)
-.startAngle(1.085 * Math.PI)
-.endAngle(1.54 * Math.PI);
+.startAngle(0.65 * Math.PI)
+.endAngle(1.23 * Math.PI);
 const minerale = d3.arc()   
 .innerRadius(familiesInnerRadius)
 .outerRadius(familiesOuterRadius)
-.startAngle(1.54 * Math.PI)
-.endAngle(1.595 * Math.PI);
+.startAngle(1.23 * Math.PI)
+.endAngle(1.355 * Math.PI);
 const speziato = d3.arc()   
 .innerRadius(familiesInnerRadius)
 .outerRadius(familiesOuterRadius)
-.startAngle(1.595 * Math.PI)
-.endAngle(1.65 * Math.PI);  
+.startAngle(1.355 * Math.PI)
+.endAngle(1.61 * Math.PI);  
 const tostato = d3.arc()   
 .innerRadius(familiesInnerRadius)
 .outerRadius(familiesOuterRadius)
-.startAngle(1.65 * Math.PI)
-.endAngle(1.68 * Math.PI);
+.startAngle(1.61 * Math.PI)
+.endAngle(1.76 * Math.PI);
 const vinoso = d3.arc()   
 .innerRadius(familiesInnerRadius)
 .outerRadius(familiesOuterRadius)
-.startAngle(1.68 * Math.PI)
-.endAngle(1.71 * Math.PI);
+.startAngle(2 * Math.PI)
+.endAngle(2 * Math.PI);
 const fragrante = d3.arc()   
 .innerRadius(familiesInnerRadius)
 .outerRadius(familiesOuterRadius)
-.startAngle(1.71 * Math.PI)
-.endAngle(1.71 * Math.PI);
+.startAngle(2 * Math.PI)
+.endAngle(2 * Math.PI);
+const animale = d3.arc()   
+.innerRadius(familiesInnerRadius)
+.outerRadius(familiesOuterRadius)
+.startAngle(2 * Math.PI)
+.endAngle(2 * Math.PI);
+const etereo = d3.arc()   
+.innerRadius(familiesInnerRadius)
+.outerRadius(familiesOuterRadius)
+.startAngle(2 * Math.PI)
+.endAngle(2 * Math.PI);
 const altri = d3.arc()   
 .innerRadius(familiesInnerRadius)
 .outerRadius(familiesOuterRadius)
-.startAngle(1.71 * Math.PI)
+.startAngle(1.83 * Math.PI)
 .endAngle(2 * Math.PI);

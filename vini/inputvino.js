@@ -107,6 +107,8 @@ wineText(docVino, nomeVino, cantinaVino, vitignoVino, punteggioVino, annoCorrent
     vpCoronaFunction(tostato, "tostato",tostatoVino);
     vpCoronaFunction(vinoso, "",vinosoVino);
     vpCoronaFunction(fragrante, "",fragranteVino);
+    vpCoronaFunction(animale, "",animaleVino);
+    vpCoronaFunction(etereo, "",etereoVino);
     vpCoronaFunction(altri, "altri",altriVino);
 }
 }

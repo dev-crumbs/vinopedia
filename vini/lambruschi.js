@@ -53,8 +53,8 @@ const minerale = d3.arc()
   const speziato = d3.arc()   
   .innerRadius(familiesInnerRadius)
   .outerRadius(familiesOuterRadius)
-  .startAngle(1.595 * Math.PI)
-  .endAngle(1.595 * Math.PI);
+  .startAngle(2 * Math.PI)
+  .endAngle(2 * Math.PI);
 const tostato = d3.arc()   
   .innerRadius(familiesInnerRadius)
   .outerRadius(familiesOuterRadius)
@@ -69,7 +69,17 @@ const fragrante = d3.arc()
   .innerRadius(familiesInnerRadius)
   .outerRadius(familiesOuterRadius)
   .startAngle(1.68 * Math.PI)
-  .endAngle(1.71 * Math.PI);  
+  .endAngle(1.71 * Math.PI);
+const animale = d3.arc()   
+  .innerRadius(familiesInnerRadius)
+  .outerRadius(familiesOuterRadius)
+  .startAngle(2 * Math.PI)
+  .endAngle(2 * Math.PI);
+const etereo = d3.arc()   
+  .innerRadius(familiesInnerRadius)
+  .outerRadius(familiesOuterRadius)
+  .startAngle(2 * Math.PI)
+  .endAngle(2 * Math.PI);  
 const altri = d3.arc()   
   .innerRadius(familiesInnerRadius)
   .outerRadius(familiesOuterRadius)
