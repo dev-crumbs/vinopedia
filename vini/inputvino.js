@@ -85,7 +85,7 @@ for(var i=0; i < annata.length; i++){
     .text(punteggio)
     .attr("dy", 75) 
 }
-  function vpCoronaFunction(nome, testo, colore, size){
+  function vpCoronaFunction(nome, testo, colore){
   d3.selectAll(`.vini-${annoCorrente} > svg > g`).append("g").append("path")
     .attr("d", nome)
     .attr("fill", myColor(colore))
@@ -96,7 +96,6 @@ for(var i=0; i < annata.length; i++){
       .attr("fill", "white")
       .style("font-weight", "bold") 
       .style("text-anchor","start")
-      .style("font-size", size+"px") 
       .attr("startOffset", "5px")
       .attr("xlink:href", "#"+testo)
       .attr("class", "famiglia")
