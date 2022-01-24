@@ -10,7 +10,7 @@ Famiglia,Sentore,Valore
 1,rosa damascena,0
 1,rosa,0
 1,viola/etta,0
-2,amarena,0
+2,amarena,66
 2,arancia,0
 2,carruba,0
 2,cassis,0
@@ -19,9 +19,9 @@ Famiglia,Sentore,Valore
 2,fico,0
 2,fiore di veccia,0
 2,fragola,0
-2,fragolina,0
+2,fragolina,66
 2,frutta candita,0
-2,frutta in confettura,0
+2,frutta in confettura,100
 2,frutta in gelatina,0
 2,frutta sotto spirito,0
 2,frutti di bosco,0
@@ -47,7 +47,7 @@ Famiglia,Sentore,Valore
 3,dragoncello,0
 3,erba medica,0
 3,erba sfalciata,0
-3,erbe aromatiche,0
+3,erbe aromatiche,33
 3,erbe officinali,0
 3,eucalipto,0
 3,felce,0
@@ -85,13 +85,13 @@ Famiglia,Sentore,Valore
 5,anice,0
 5,cannella,0
 5,cardamomo,0
-5,chiodi di garofano,0
+5,chiodi di garofano,66
 5,ciclamino,0
 5,cumino,0
 5,ginepro,0
 5,noce moscata,0
 5,pepe bianco,0
-5,pepe nero,0
+5,pepe nero,33
 5,pepe rosa,0
 5,pepe verde,0
 5,sandalo,0
@@ -119,5 +119,5 @@ Famiglia,Sentore,Valore
 10,liquirizia,0
 10,oliva,0
 10,pino,0
-10,resina,0
+10,resina,33
 10,tamarindo,0
