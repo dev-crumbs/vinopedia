@@ -7,8 +7,8 @@ Famiglia,Sentore,Valore
 1,peonia,0
 1,pot-pourri,0
 1,ranuncolo,0
-1,rosa damascena,0
 1,rosa,0
+1,r. damascena,0
 1,viola/etta,0
 2,amarena,66
 2,arancia,0
@@ -21,9 +21,9 @@ Famiglia,Sentore,Valore
 2,fragola,0
 2,fragolina,66
 2,frutta candita,0
-2,frutta in confettura,100
-2,frutta in gelatina,0
-2,frutta sotto spirito,0
+2,f. in confettura,100
+2,f. in gelatina,0
+2,f. sotto spirito,0
 2,frutti di bosco,0
 2,gelso,0
 2,lampone,0
@@ -47,19 +47,19 @@ Famiglia,Sentore,Valore
 3,dragoncello,0
 3,erba medica,0
 3,erba sfalciata,0
-3,erbe aromatiche,33
+3,e. aromatiche,33
 3,erbe officinali,33
 3,eucalipto,33
 3,felce,0
 3,finocchio,0
 3,foglia di cappero,0
-3,foglia di pomodoro,0
+3,f. di pomodoro,0
 3,foglia di tè,0
 3,friggitello,0
 3,fungo,0
 3,humus,0
 3,lentisco,0
-3,macchia mediterranea,0
+3,m. mediterranea,0
 3,mallo di noce,0
 3,malva,0
 3,melissa,0
@@ -85,7 +85,7 @@ Famiglia,Sentore,Valore
 5,anice,0
 5,cannella,0
 5,cardamomo,0
-5,chiodi di garofano,66
+5,c. di garofano,66
 5,ciclamino,0
 5,cumino,0
 5,ginepro,0
@@ -100,7 +100,7 @@ Famiglia,Sentore,Valore
 5,zenzero,0
 6,cacao,0
 6,caffè,0
-6,catrame (goudron),0
+6,catrame,0
 6,cioccolato,0
 6,fumo,0
 6,mandorla tostata,0

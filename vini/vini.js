@@ -34,7 +34,6 @@ labelDistance = 186
 const labelStyle =  function(){
   return d3.selectAll(".labels")
     .style("font-size", "20px")
-    .style("font-weight", "900")
     .attr("fill", colorScaleText)
     .attr("alignment-baseline", "middle")
 }
