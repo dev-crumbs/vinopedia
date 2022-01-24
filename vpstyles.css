@@ -158,7 +158,7 @@ max-width: 350px
 .cantina-grid th {
   text-align: left; }
 
-.cantina-grid table {
+.cantina-table {
   border: 1px solid #ccc;
   border-collapse: collapse;
   margin: 0;
@@ -166,31 +166,31 @@ max-width: 350px
   width: 100%;
   table-layout: fixed; }
 
-.cantina-grid table caption {
+.cantina-table caption {
   font-size: 1.5em;
   margin: .5em 0 .75em; }
 
-.cantina-grid table tr {
+.cantina-table tr {
   background-color: #f8f8f8;
   border: 1px solid #ddd;
   padding: .35em; }
 
-.cantina-grid table th,
-.cantina-grid table td {
+.cantina-table th,
+.cantina-table td {
   padding: .625em;
   text-align: center; }
 
-.cantina-grid table th {
+.cantina-table th {
   font-size: .85em;
   letter-spacing: .1em;
   text-transform: uppercase; }
 
 @media screen and (max-width: 600px) {
-  .cantina-grid table {
+  .cantina-table {
     border: 0; }
-  .cantina-grid table caption {
+  .cantina-table caption {
     font-size: 1.3em; }
-  .cantina-grid table thead {
+  .cantina-table thead {
     border: none;
     clip: rect(0 0 0 0);
     height: 1px;
@@ -199,20 +199,20 @@ max-width: 350px
     padding: 0;
     position: absolute;
     width: 1px; }
-  .cantina-grid table tr {
+  .cantina-table tr {
     border-bottom: 3px solid #ddd;
     display: block;
     margin-bottom: .625em; }
-  .cantina-grid table td {
+  .cantina-table td {
     border-bottom: 1px solid #ddd;
     display: block;
     font-size: .8em;
     text-align: right; }
-  .cantina-grid table td::before {
+  .cantina-table td::before {
     content: attr(data-label);
     float: left;
     font-weight: bold;
     text-transform: uppercase; }
-  .cantina-grid table td:last-child {
+  .cantina-table td:last-child {
     border-bottom: 0; } 
   }
