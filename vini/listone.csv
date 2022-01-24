@@ -20,7 +20,6 @@ iris,100,1
 lavanda,100,1
 lillà,100,1
 magnolia,100,1
-malva,100,1
 mimosa,100,1
 mugheso,100,1
 narciso,100,1
@@ -28,6 +27,8 @@ passiflora,100,1
 peonia,100,1
 pot-pourri,100,1
 rosa,100,1
+rosa tea,100,1
+rosa damascena,100,1
 ranuncolo,100,1
 sambuco,100,1
 viola,100,1
@@ -41,6 +42,7 @@ anguria,100,2
 banana,100,2
 bergamotto,100,2
 carruba,100,2
+cassis,100,2
 cedro,100,2
 chinotto,100,2
 ciliegia,100,2
@@ -56,6 +58,7 @@ frutta disidratata,100,2
 frutta in gelatina,100,2
 frutta in confettura,100,2
 frutta sciroppata,100,2
+frutta sotto spirito,100,2
 frutti di bosco,100,2
 gelso,100,2
 giuggiola,100,2
@@ -64,6 +67,7 @@ lampone,100,2
 lime,100,2
 limone,100,2
 litchi,100,2
+macis,100,2
 mandarino,100,2
 mandorla,100,2
 mango,100,2
@@ -90,13 +94,20 @@ acero,100,3
 alga marina,100,3
 asparagi,100,3
 bosso,100,3
+cipresso,100,3
+corteccia,100,3
+dragoncello,100,3
 erba medica,100,3
 erba sfalciata,100,3
+erbe agresti,100,3
 erbe aromatiche,100,3
+erbe officinali,100,3
 elicriso,100,3
 fagiolini,100,3
 felce,100,3
 fieno,100,3
+fiore di veccia,100,3
+foglia di cappero,3
 foglia di fico,100,3
 foglia di pomodoro,100,3
 foglie secche,100,3
@@ -105,45 +116,58 @@ friggitello,100,3
 frutta acerba,100,3
 fungo,100,3
 humus,100,3
+lentisco,100,3
 macchia mediterranea,100,3
 mallo di noce,100,3
+malva,100,3
 muschio,100,3
 pacciame,100,3
 peperone,100,3
 prugnolo,100,3
 sottobosco,100,3
 rabarbaro,100,3
+ruta,100,3
 tartufo,100,3
 verdura cotta,100,3
 aneto,100,3
 alloro,100,3
 balsamico,100,3
 basilico,100,3
+cardo,100,3
 finocchio,100,3
 maggiorana,100,3
+melissa,100,3
 menta,100,3
 origano,100,3
+ortica,100,3
 prezzemolo,100,3
 rosmarino,100,3
 salvia,100,3
+santoreggia,100,3
+tartufo,100,3
 timo,100,3
 ardesia,100,4
 benzina,100,4
+cenere,100,4
 gesso,100,4
 ghiaia,100,4
 grafite,100,4
+ferro,100,4
 idrocarburi,100,4
 inchiostro,100,4
 petrolio,100,4
 pietra focaia,100,4
+pietrisco,100,4
 polvere da sparo,100,4
 ruggine,100,4
 salmastro,100,4
 silice,100,4
+talco,100,4
 anice,100,5
 cannella,100,5
 cardamomo,100,5
 chiodi di garofano,100,5
+cumino,100,5
 curcuma,100,5
 curry,100,5
 ginepro,100,5
@@ -152,6 +176,9 @@ pepe bianco,100,5
 pepe nero,100,5
 pepe rosa,100,5
 pepe verde,100,5
+peperoncino,100,5
+senape,100,5
+sandalo,100,5
 vaniglia,100,5
 zafferano,100,5
 zenzero,100,5
@@ -160,9 +187,10 @@ cacao,100,6
 caffè,100,6
 cioccolato,100,6
 fumo,100,6
-catrame,100,6
+catrame (goudron),100,6
 mandorla tostata,100,6
 nocciola tostata,100,6
+pinolo tostato,100,6
 pane tostato,100,6
 scatola di sigari,100,6
 tabacco,100,6
@@ -181,6 +209,7 @@ plastica,100,9
 sapone,100,9
 smalto,100,9
 amaretto,100,10
+angostura,100,10
 biscotto,100,10
 brioche,100,10
 burro,100,10
@@ -196,13 +225,14 @@ crosta di pane,100,10
 eucalipto,100,10
 foglia di tè,100,10
 formaggio,100,10
+legna arsa,100,10
 legno (boisè),100,10
 lievito,100,10
 liquirizia,100,10
 marzapane,100,10
 mentolo,100,10
 miele,100,10
-olive,100,10
+oliva,100,10
 pan brioche,100,10
 pan biscotto,100,10
 pasticceria,100,10
@@ -211,7 +241,6 @@ pane,100,10
 plum cake,100,10
 propoli,100,10
 resina,100,10
-talco,100,10
 tamarindo,100,10
 torrone,100,10
 zucchero a velo,100,10
