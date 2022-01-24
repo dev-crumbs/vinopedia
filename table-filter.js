@@ -1,5 +1,7 @@
 if(location.href === 'https://vinopedia.devcrumbs.com/it/cantina'){
   window.addEventListener("load", function(){
+    const totaleVini = document.querySelectorAll('[data-label="Pos."]').length;
+    document.querySelector("#totalevini").innerText = totaleVini;
     const table = document.getElementById('sortMe');
     const headers = table.querySelectorAll('th');
     const tableBody = table.querySelector('tbody');
