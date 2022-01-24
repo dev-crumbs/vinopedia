@@ -65,6 +65,11 @@ const vinoso = d3.arc()
 .outerRadius(familiesOuterRadius)
 .startAngle(1.68 * Math.PI)
 .endAngle(1.71 * Math.PI);
+const fragrante = d3.arc()   
+.innerRadius(familiesInnerRadius)
+.outerRadius(familiesOuterRadius)
+.startAngle(1.71 * Math.PI)
+.endAngle(1.71 * Math.PI);
 const altri = d3.arc()   
 .innerRadius(familiesInnerRadius)
 .outerRadius(familiesOuterRadius)

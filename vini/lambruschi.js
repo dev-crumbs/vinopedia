@@ -50,6 +50,11 @@ const minerale = d3.arc()
   .outerRadius(familiesOuterRadius)
   .startAngle(1.54 * Math.PI)
   .endAngle(1.595 * Math.PI);
+  const speziato = d3.arc()   
+  .innerRadius(familiesInnerRadius)
+  .outerRadius(familiesOuterRadius)
+  .startAngle(1.595 * Math.PI)
+  .endAngle(1.595 * Math.PI);
 const tostato = d3.arc()   
   .innerRadius(familiesInnerRadius)
   .outerRadius(familiesOuterRadius)
