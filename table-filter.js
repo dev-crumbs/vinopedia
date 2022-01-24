@@ -1,4 +1,4 @@
-if(location.href === 'https://vinopedia.devcrumbs.com/cantina'){
+if(location.href === 'https://vinopedia.devcrumbs.com/it/cantina'){
   window.addEventListener("load", function(){
     const table = document.getElementById('sortMe');
     const headers = table.querySelectorAll('th');
