@@ -143,11 +143,7 @@ max-width: 350px
 }
 
 /*cantina*/
-body {
-  width: 428px;
-  margin: 20px; }
-
-.grid {
+.cantina-grid {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr; }
   .grid > div {
@@ -156,13 +152,13 @@ body {
   .grid p {
     margin: 0; }
 
-.img {
+.cantina-grid .img {
   width: 100%; }
 
-th {
+.cantina-grid th {
   text-align: left; }
 
-table {
+.cantina-grid table {
   border: 1px solid #ccc;
   border-collapse: collapse;
   margin: 0;
@@ -170,31 +166,31 @@ table {
   width: 100%;
   table-layout: fixed; }
 
-table caption {
+.cantina-grid table caption {
   font-size: 1.5em;
   margin: .5em 0 .75em; }
 
-table tr {
+.cantina-grid table tr {
   background-color: #f8f8f8;
   border: 1px solid #ddd;
   padding: .35em; }
 
-table th,
-table td {
+.cantina-grid table th,
+.cantina-grid table td {
   padding: .625em;
   text-align: center; }
 
-table th {
+.cantina-grid table th {
   font-size: .85em;
   letter-spacing: .1em;
   text-transform: uppercase; }
 
 @media screen and (max-width: 600px) {
-  table {
+  .cantina-grid table {
     border: 0; }
-  table caption {
+  .cantina-grid table caption {
     font-size: 1.3em; }
-  table thead {
+  .cantina-grid table thead {
     border: none;
     clip: rect(0 0 0 0);
     height: 1px;
@@ -203,20 +199,20 @@ table th {
     padding: 0;
     position: absolute;
     width: 1px; }
-  table tr {
+  .cantina-grid table tr {
     border-bottom: 3px solid #ddd;
     display: block;
     margin-bottom: .625em; }
-  table td {
+  .cantina-grid table td {
     border-bottom: 1px solid #ddd;
     display: block;
     font-size: .8em;
     text-align: right; }
-  table td::before {
+  .cantina-grid table td::before {
     content: attr(data-label);
     float: left;
     font-weight: bold;
     text-transform: uppercase; }
-  table td:last-child {
+  .cantina-grid table td:last-child {
     border-bottom: 0; } 
   }
