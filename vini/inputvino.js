@@ -74,7 +74,7 @@ for(var i=0; i < annata.length; i++){
     .style("font-style","italic")
   vpText.append("text")
     .text(cantina)
-    .attr("dy", 1)
+    .attr("dy", 10)
   vpText.append("text")
     .text(annoCorrente)
     .attr("dy", 35)
