@@ -73,13 +73,13 @@ const fragrante = d3.arc()
 const animale = d3.arc()   
 .innerRadius(familiesInnerRadius)
 .outerRadius(familiesOuterRadius)
-.startAngle(2 * Math.PI)
-.endAngle(2 * Math.PI);
+.startAngle(1.76 * Math.PI)
+.endAngle(1.79 * Math.PI);
 const etereo = d3.arc()   
 .innerRadius(familiesInnerRadius)
 .outerRadius(familiesOuterRadius)
-.startAngle(2 * Math.PI)
-.endAngle(2 * Math.PI);
+.startAngle(1.79 * Math.PI)
+.endAngle(1.83 * Math.PI);
 const altri = d3.arc()   
 .innerRadius(familiesInnerRadius)
 .outerRadius(familiesOuterRadius)
