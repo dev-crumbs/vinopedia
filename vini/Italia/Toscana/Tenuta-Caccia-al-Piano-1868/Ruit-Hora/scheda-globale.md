@@ -30,8 +30,8 @@ dateCreated: 2021-09-18T16:29:55.153Z
 
 ## Annate
 
-- Ruit Hora [2015](vini/Italia/Toscana/Tenuta-Caccia-al-Poggio-1868/Ruti-Hora/2015) -- <span class="star-4"></span> -- 89/100
-- Ruit Hora [2016](vini/Italia/Toscana/Tenuta-Caccia-al-Poggio-1868/Ruti-Hora/2016) -- <span class="star-4"></span> -- 90/100 
-- Ruit Hora [2017](vini/Italia/Toscana/Tenuta-Caccia-al-Poggio-1868/Ruti-Hora/2017) -- <span class="star-4"></span> -- 89/100
+- Ruit Hora [2015](vini/Italia/Toscana/Tenuta-Caccia-al-Poggio-1868/Ruit-Hora/2015) -- <span class="star-4"></span> -- 89/100
+- Ruit Hora [2016](vini/Italia/Toscana/Tenuta-Caccia-al-Poggio-1868/Ruit-Hora/2016) -- <span class="star-4"></span> -- 90/100 
+- Ruit Hora [2017](vini/Italia/Toscana/Tenuta-Caccia-al-Poggio-1868/Ruit-Hora/2017) -- <span class="star-4"></span> -- 89/100
 
 [^1]: % variabili a seconda dell'annata
