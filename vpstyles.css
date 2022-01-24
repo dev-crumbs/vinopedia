@@ -148,8 +148,8 @@ max-width: 350px
   grid-template-columns: 1fr 1fr 1fr; }
   
 .cantina-grid > div {
-  border: 1px solid red;
   text-align: center; }
+  
 .cantina-grid p {
     margin: 0; }
 
