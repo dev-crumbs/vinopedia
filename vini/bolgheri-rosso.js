@@ -26,19 +26,6 @@ function mainSvg(){
           .endAngle(d => x(d.Sentore) + x.bandwidth())
           .padAngle(1)
           .padRadius(vpInnerRadius))
-  // Add labels
-  d3.select(`.vini-${annoCorrente} svg g`).append("g")
-  .selectAll("g")
-  .data(data)
-  .join("g")
-  .attr("text-anchor", function(d) { return (x(d.Sentore) + x.bandwidth() / 2 + Math.PI) % (2 * Math.PI) < Math.PI ? "end" : "start"; })
-  .attr("transform", function(d) { return (x(d.Sentore) + x.bandwidth() / 2 + Math.PI) % (2 * Math.PI) < Math.PI ? "rotate(" + ((x(d.Sentore) + x.bandwidth() / 2) * 180 / Math.PI - 90.5) + ")"+"translate(" + (100) + ",0)" : "rotate(" + ((x(d.Sentore) + x.bandwidth() / 2) * 180 / Math.PI - 89.5) + ")"+"translate(" + (100) + ",0)"; })
-  .append("text")
-    .text(function(d){return(d.Sentore)})
-    .attr("transform", function(d) { return (x(d.Sentore) + x.bandwidth() / 2 + Math.PI) % (2 * Math.PI) < Math.PI ? "rotate(180)" : "rotate(0)"; })
-    .attr("x", function(d) { return (x(d.Sentore) + x.bandwidth() / 2 + Math.PI) % (2 * Math.PI) < Math.PI ? "-"+labelDistance : labelDistance; })
-    .attr("class","labels")
-    labelStyle();          
 });
 }
 
