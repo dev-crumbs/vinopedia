@@ -29,14 +29,31 @@ const colorScaleText =  function(d){
      return(myColor(d.Famiglia))
    }
  };   
-//label styles
-labelDistance = 186
-const labelStyle =  function(){
-  return d3.selectAll(".labels")
-    .style("font-size", "20px")
-    .attr("fill", colorScaleText)
-    .attr("alignment-baseline", "middle")
-}
+// font weight
+const fontWeight =  function(d){
+  if (d.Valore == 0){
+    return('normal')
+    } else {
+      return("900")
+    }
+  };
+ // font size
+ const fontSize =  function(d){
+  if (d.Valore == 0){
+    return('16px')
+    } else {
+      return("20px")
+    }
+  };
+ //label styles
+ labelDistance = 186
+ const labelStyle =  function(){
+   return d3.selectAll(".labels")
+     .style("font-size", fontSize)
+     .style("font-weight", fontWeight)
+     .attr("fill", colorScaleText)
+     .attr("alignment-baseline", "middle")
+ }
 
 //create SVG
 function createSVG(){

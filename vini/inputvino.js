@@ -49,6 +49,7 @@ for(var i=0; i < annata.length; i++){
     if (annata[i].querySelector(".vegetaleInput")){var vegetaleVino = 3} else {var vegetaleVino = 0}
     if (annata[i].querySelector(".mineraleInput")){var mineraleVino = 4} else {var mineraleVino = 0}
     if (annata[i].querySelector(".speziatoInput")){var speziatoVino = 5} else {var speziatoVino = 0}
+    if (annata[i].querySelector(".speziatoInput")){var coronaLabelSp = "speziato"} else {var coronaLabelSp = ""}
     if (annata[i].querySelector(".tostatoInput")){var tostatoVino = 6} else {var tostatoVino = 0}
     if (annata[i].querySelector(".vinosoInput")){var vinosoVino = 7} else {var vinosoVino = 0}
     if (annata[i].querySelector(".fragranteInput")){var fragranteVino = 11} else {var fragranteVino = 0}
@@ -106,7 +107,7 @@ wineText(docVino, nomeVino, cantinaVino, vitignoVino, punteggioVino, annoCorrent
     vpCoronaFunction(fruttato, "fruttato",fruttatoVino);
     vpCoronaFunction(vegetale, "vegetale",vegetaleVino);
     vpCoronaFunction(minerale, "minerale",mineraleVino);
-    vpCoronaFunction(speziato, "speziato",speziatoVino);
+    vpCoronaFunction(speziato, coronaLabelSp,speziatoVino);
     vpCoronaFunction(tostato, "tostato",tostatoVino);
     vpCoronaFunction(vinoso, "",vinosoVino);
     vpCoronaFunction(fragrante, "",fragranteVino);
