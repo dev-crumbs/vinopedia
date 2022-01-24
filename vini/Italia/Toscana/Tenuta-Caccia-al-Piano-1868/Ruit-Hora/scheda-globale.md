@@ -15,7 +15,7 @@ dateCreated: 2021-09-18T16:29:55.153Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Bolgheri DOC](/denominazioni/Italia/Toscana/DOC/Bolgheri)
 - **Produttore:** [Tenuta Caccia al Piano 1868](/produttori/Italia/Toscana/Tenuta-Caccia-al-Poggio-1868) 
-- **Composizione:**[^1] [Merlot](/vitigni/Francia/bacca-nera/merlot) + [Cabernet sauvignon](/vitigni/Francia/bacca-nera/cabernet-sauvignon) + [Petit Verdot](/vitigni/Francia/bacca-nera/petit-verdot) [Syrah](/vitigni/Francia/bacca-nera/syrah) 
+- **Composizione:**[^1] [Merlot](/vitigni/Francia/bacca-nera/merlot) + [Cabernet sauvignon](/vitigni/Francia/bacca-nera/cabernet-sauvignon) + [Petit Verdot](/vitigni/Francia/bacca-nera/petit-verdot) + [Syrah](/vitigni/Francia/bacca-nera/syrah) 
 - **Affinamento:** 18 mesi in barrique + 6 mesi in bottiglia
 - **Alcol:** 14%
 - **Fascia di prezzo:** 20-24€
