@@ -36,6 +36,7 @@ for(var i=0; i < annata.length; i++){
           .attr("transform", function(d) { return (x(d.Sentore) + x.bandwidth() / 2 + Math.PI) % (2 * Math.PI) < Math.PI ? "rotate(180)" : "rotate(0)"; })
           .attr("x", function(d) { return (x(d.Sentore) + x.bandwidth() / 2 + Math.PI) % (2 * Math.PI) < Math.PI ? "-"+labelDistance : labelDistance; })
           .attr("class","labels")
+          .style("font-weight","900")
           labelStyle();
     });  
     //Input dati vino
