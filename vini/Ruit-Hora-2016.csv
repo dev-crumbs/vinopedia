@@ -6,7 +6,7 @@ Famiglia,Sentore,Valore
 1,peonia,0
 1,pot-pourri,0
 1,ranuncolo,0
-1,rosa,0
+1,rosa,66
 1,r. damascena,0
 1,rosa tea,0
 1,viola/etta,0
@@ -15,7 +15,7 @@ Famiglia,Sentore,Valore
 2,carruba,0
 2,cassis,0
 2,chinotto,0
-2,ciliegia,0
+2,ciliegia,100
 2,fico,0
 2,fiore di veccia,0
 2,fragola,0
@@ -26,17 +26,17 @@ Famiglia,Sentore,Valore
 2,f. sotto spirito,0
 2,frutti di bosco,0
 2,gelso,0
-2,lampone,0
+2,lampone,100
 2,macis,0
-2,mandorla,0
+2,mandorla,33
 2,marasca,0
 2,melagrana,0
-2,mirtillo,0
+2,mirtillo,100
 2,mirto,0
 2,mora,0
 2,pesca,0
 2,prugna,0
-2,ribes,0
+2,ribes,100
 2,susina,0
 2,visciola,0
 3,alloro,0
@@ -46,7 +46,7 @@ Famiglia,Sentore,Valore
 3,corteccia,0
 3,dragoncello,0
 3,erba medica,0
-3,erba sfalciata,0
+3,erba sfalciata,33
 3,e. aromatiche,0
 3,erbe officinali,0
 3,eucalipto,0
@@ -73,7 +73,7 @@ Famiglia,Sentore,Valore
 3,santoreggia,0
 3,sottobosco,0
 3,tartufo,0
-3,timo,0
+3,timo,66
 4,cenere,0
 4,ferro,0
 4,grafite,0
@@ -91,17 +91,17 @@ Famiglia,Sentore,Valore
 5,ginepro,0
 5,noce moscata,0
 5,pepe bianco,0
-5,pepe nero,0
+5,pepe nero,33
 5,pepe rosa,0
 5,pepe verde,0
 5,sandalo,0
 5,senape,0
-5,vaniglia,0
+5,vaniglia,33
 5,zenzero,0
 6,cacao,0
 6,caffè,0
 6,catrame,0
-6,cioccolato,0
+6,cioccolato,33
 6,fumo,0
 6,mandorla tostata,0
 6,pinolo tostato,0
