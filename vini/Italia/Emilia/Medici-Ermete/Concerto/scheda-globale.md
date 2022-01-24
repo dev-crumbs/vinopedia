@@ -2,7 +2,7 @@
 title: Concerto – Reggiano DOC – Medici Ermete – Emilia (IT) – 5-9€ – 3★-5★
 description: Lambrusco Salamino 100% | Cotechino – Cannelloni – Coniglio in pancetta – Gallinella all'acqua pazza – Piadina con salsiccia – Pulled pork
 published: true
-date: 2022-01-20T06:48:48.956Z
+date: 2022-01-24T17:48:15.085Z
 tags: vino, rosso, varietale, frizzante, cotechino, cannelloni, coniglio in pancetta, gallinella all'acqua pazza, piadina con salsiccia, lambrusco salamino, 5 stelle, 5-9€
 editor: markdown
 dateCreated: 2021-08-18T10:27:11.126Z
@@ -37,3 +37,56 @@ dateCreated: 2021-08-18T10:27:11.126Z
 - Concerto [2018](/vini/Italia/Emilia/Medici-Ermete/Concerto/2018) -- <span class="star-3"></span> -- 88/100
 - Concerto [2019](/vini/Italia/Emilia/Medici-Ermete/Concerto/2019) -- <span class="star-5"></span> -- 92/100
 - Concerto [2020](/vini/Italia/Emilia/Medici-Ermete/Concerto/2020) -- <span class="star-3"></span> -- 86/100
+
+## Confronto annate
+
+### Analisi olfattiva
+
+<div class="confronto-grid">
+  <div class="annata">
+    <ul>
+      <li><b>Annata:</b> <span class="annocorrente">2018</span></li>
+    </ul>
+    <div class="vini vini-2018"></div>
+    <ul>
+      <li><b>Complessità:</b> <span class="complessitaVino">abbastanza complesso</span></li>
+      <ul>
+        <li><b><span class="florealeInput">Floreale:</span></b> viola, iris, ciclamino</li>
+        <li><b><span class="fruttatoInput">Fruttato:</span></b> amarena, mora</li>
+        <li><b><span class="vegetaleInput">Vegetale:</span></b> erbe agresti</li>
+      </ul>
+      <li><b>Punteggio:</b> <span class="punteggio">88/100</span></li>
+    </ul>
+  </div>
+  <div class="annata">
+    <ul>
+      <li><b>Annata:</b> <span class="annocorrente">2019</span></li>
+    </ul>
+    <div class="vini vini-2019"></div>
+    <ul>
+      <li><b>Complessità:</b> <span class="complessitaVino">complesso</span></li>
+      <ul>
+        <li><b><span class="florealeInput">Floreale:</span></b> violetta</li>
+        <li><b><span class="fruttatoInput">Fruttato:</span></b> frutti di bosco, lampone, ribes, fragola, mora</li>
+        <li><b><span class="vegetaleInput">Vegetale:</span></b> erba sfalciata</li>
+        <li><b><span class="vinosoInput">Vinoso</span></b></li>      
+      </ul>
+      <li><b>Punteggio:</b> <span class="punteggio">92/100</span></li>
+    </ul>
+  </div>
+  <div class="annata">
+    <ul>
+      <li><b>Annata:</b> <span class="annocorrente">2020</span></li>
+    </ul>
+    <div class="vini vini-2020"></div>
+    <ul>
+      <li><b>Complessità:</b> <span class="complessitaVino">abbastanza complesso</span></li>
+      <ul>
+        <li><b><span class="fruttatoInput">Fruttato:</span></b> mora, ribes, prugna</li>
+        <li><b><span class="vegetaleInput">Vegetale:</span></b> graspo d'uva</li>
+        <li><b><span class="vinosoInput">Vinoso</span></b></li>
+      </ul>
+      <li><b>Punteggio:</b> <span class="punteggio">86/100</span></li>
+    </ul>
+  </div>
+</div>
