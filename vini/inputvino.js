@@ -42,7 +42,7 @@ for(var i=0; i < annata.length; i++){
     //Input dati vino
     const docVino = annata[i].querySelector(".denominazione").innerText;
     const cantinaVino = annata[i].querySelector(".cantina").innerText;
-    const vitignoVino = annata[i].querySelector(".vitigno").innerText;
+    const vitignoVino = annata[i].querySelector(".vitigno").innerText;//not used
     const punteggioVino = annata[i].querySelector(".punteggio").innerText;     
     if (annata[i].querySelector(".florealeInput")){var florealeVino = 1} else {var florealeVino = 0}
     if (annata[i].querySelector(".fruttatoInput")){var fruttatoVino = 2} else {var fruttatoVino = 0}
@@ -79,11 +79,8 @@ for(var i=0; i < annata.length; i++){
     .text(annoCorrente)
     .attr("dy", 25)
   vpText.append("text")
-    .text(vitigno)
-    .attr("dy", 50)
-  vpText.append("text")
     .text(punteggio)
-    .attr("dy", 75) 
+    .attr("dy", 50) 
 }
   function vpCoronaFunction(nome, testo, colore){
   d3.selectAll(`.vini-${annoCorrente} > svg > g`).append("g").append("path")
