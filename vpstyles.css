@@ -112,14 +112,18 @@ a.v-list-item > div.v-list-item__title {
 padding: 0!important;
 max-width: 350px
 }
-.confront-grid ul ul {
-  padding-left: 1em
+.confronto-grid ul ul {
+  padding-left: 1em;
+  padding-top: 0
 }
 .confronto-grid li:before{
   content: ""!important
 }
 .confronto-grid li {
   margin-top:0px!important
+}
+.confronto-grid li span{
+  font-weight: bold
 }
 .vini {
   resize: both;
