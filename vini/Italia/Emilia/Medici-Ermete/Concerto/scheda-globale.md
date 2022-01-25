@@ -2,7 +2,7 @@
 title: Concerto – Reggiano DOC – Medici Ermete – Emilia (IT) – 5-9€ – 3★-5★
 description: Lambrusco Salamino 100% | Cotechino – Cannelloni – Coniglio in pancetta – Gallinella all'acqua pazza – Piadina con salsiccia – Pulled pork
 published: true
-date: 2022-01-25T06:50:57.124Z
+date: 2022-01-25T14:39:23.713Z
 tags: vino, rosso, varietale, frizzante, cotechino, cannelloni, coniglio in pancetta, gallinella all'acqua pazza, piadina con salsiccia, lambrusco salamino, 5 stelle, 5-9€
 editor: markdown
 dateCreated: 2021-08-18T10:27:11.126Z
@@ -46,6 +46,7 @@ dateCreated: 2021-08-18T10:27:11.126Z
   <div class="annata">
     <ul>
       <li><b>Annata:</b> <span class="annocorrente">2018</span></li>
+      <li><b>Punteggio:</b> <span class="punteggio">88/100</span></li>
     </ul>
     <div class="vini vini-2018"></div>
     <ul>
@@ -55,12 +56,12 @@ dateCreated: 2021-08-18T10:27:11.126Z
         <li><b><span class="fruttatoInput">Fruttato:</span></b> amarena, mora</li>
         <li><b><span class="vegetaleInput">Vegetale:</span></b> erbe agresti</li>
       </ul>
-      <li><b>Punteggio:</b> <span class="punteggio">88/100</span></li>
     </ul>
   </div>
   <div class="annata">
     <ul>
       <li><b>Annata:</b> <span class="annocorrente">2019</span></li>
+      <li><b>Punteggio:</b> <span class="punteggio">92/100</span></li>
     </ul>
     <div class="vini vini-2019"></div>
     <ul>
@@ -71,12 +72,12 @@ dateCreated: 2021-08-18T10:27:11.126Z
         <li><b><span class="vegetaleInput">Vegetale:</span></b> erba sfalciata</li>
         <li><b><span class="vinosoInput">Vinoso</span></b></li>      
       </ul>
-      <li><b>Punteggio:</b> <span class="punteggio">92/100</span></li>
     </ul>
   </div>
   <div class="annata">
     <ul>
       <li><b>Annata:</b> <span class="annocorrente">2020</span></li>
+      <li><b>Punteggio:</b> <span class="punteggio">86/100</span></li>
     </ul>
     <div class="vini vini-2020"></div>
     <ul>
@@ -86,7 +87,6 @@ dateCreated: 2021-08-18T10:27:11.126Z
         <li><b><span class="vegetaleInput">Vegetale:</span></b> graspo d'uva</li>
         <li><b><span class="vinosoInput">Vinoso</span></b></li>
       </ul>
-      <li><b>Punteggio:</b> <span class="punteggio">86/100</span></li>
     </ul>
   </div>
 </div>
