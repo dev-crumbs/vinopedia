@@ -42,8 +42,6 @@ for(var i=0; i < annata.length; i++){
           labelStyle();
     });  
     //Input dati vino
-    const docVino = annata[i].querySelector(".denominazione").innerText;
-    const cantinaVino = annata[i].querySelector(".cantina").innerText;
     const vitignoVino = annata[i].querySelector(".vitigno").innerText;//not used
     const punteggioVino = annata[i].querySelector(".punteggio").innerText;     
     if (annata[i].querySelector(".florealeInput")){var florealeVino = 1} else {var florealeVino = 0}
