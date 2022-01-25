@@ -2,7 +2,7 @@
 title: Ruit Hora – Bolgheri DOC – Tenuta Caccia al Piano 1868 – Toscana (IT) – 20-24€ – 4★
 description: Merlot + Cabernet Sauvignon + Petit Verdot + Syrah | Ossobuco alla toscana con patate – Filetto in crosta con porcini – Spezzatino di cervo
 published: true
-date: 2022-01-25T10:54:08.203Z
+date: 2022-01-25T12:09:16.655Z
 tags: vino, italia, rosso, blend, toscana, fermo, 3 stelle, cabernet sauvignon, merlot, syrah, 20-24€, papero in umido con cipolle caramellate, petit verdot, ossobuco alla toscana con patate, filetto in crosta con porcini, spezzatino di cervo
 editor: markdown
 dateCreated: 2022-01-24T12:15:09.595Z
@@ -68,6 +68,25 @@ dateCreated: 2022-01-24T12:15:09.595Z
           <li><span class="vegetaleInput">erbaceo:</span> timo, erba sfalciata</li>
           <li><span class="speziatoInput">speziato:</span> vaniglia, pepe nero</li>
           <li><span class="tostatoInput">tostato:</span> cioccolato</li>       
+      </ul>
+      <li><b>Punteggio:</b> <span class="punteggio">89/100</span></li>
+    </ul>
+  </div>
+  <div class="annata">
+    <ul>
+      <li><b>Annata:</b> <span class="annocorrente">2015</span></li>
+    </ul>
+    <div class="vini vini-2017"></div>
+    <ul>
+      <li><b>Complessità:</b> <span class="complessitaVino">ampio</span></li>
+      <ul>
+          <li><span class="florealeInput">floreale:</span> pot-pourri</li>
+          <li><span class="fruttatoInput">fruttato:</span> ciliegia, frutta in confettura, mora, mirtillo, fragolina</li>
+          <li><span class="vegetaleInput">erbaceo:</span> menta, sottobosco, macchia mediterranea</li>
+          <li><span class="mineraleInput">minerale:</span> ferro, talco </li>
+      	  <li><span class="speziatoInput">speziato:</span> pepe nero, vaniglia</li>
+       	 <li><span class="tostatoInput">tostato:</span> cioccolato</li>   
+       	 <li><span class="altriInput">altri:</span> china, pino</li>   
       </ul>
       <li><b>Punteggio:</b> <span class="punteggio">89/100</span></li>
     </ul>
