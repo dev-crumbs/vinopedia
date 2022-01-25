@@ -115,4 +115,6 @@ wineText(docVino, nomeVino, cantinaVino, punteggioVino, annoCorrente)
 window.addEventListener("load", function(){
 mainSvg()
 setTimeout(wineData, 1500)  
+var elSortable = document.querySelector('.confronto-grid');
+var sortable = Sortable.create(elSortable);
 });
