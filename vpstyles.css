@@ -148,6 +148,9 @@ max-width: 350px
 .confronto-grid svg{
   cursor: grab
 }
+.annata{
+  max-width: 300px
+}
 
 /*cantina*/
 .cantina-grid {
