@@ -34,4 +34,45 @@ dateCreated: 2021-09-18T16:29:55.153Z
 - Ruit Hora [2016](vini/Italia/Toscana/Tenuta-Caccia-al-Poggio-1868/Ruit-Hora/2016) -- <span class="star-4"></span> -- 90/100 
 - Ruit Hora [2017](vini/Italia/Toscana/Tenuta-Caccia-al-Poggio-1868/Ruit-Hora/2017) -- <span class="star-4"></span> -- 89/100
 
+## Confronto annate
+
+### Analisi olfattiva
+
+<div class="confronto-grid">
+  <div class="annata">
+    <ul>
+      <li><b>Annata:</b> <span class="annocorrente">2017</span></li>
+    </ul>
+    <div class="vini vini-2016"></div>
+    <ul>
+      <li><b>Complessità:</b> <span class="complessitaVino">complesso</span></li>
+      <ul>
+        <li><span class="fruttatoInput">fruttato:</span>:** amarena, fragolina, frutta in confettura</li>
+        <li><span class="vegetaleInput">erbaceo:</span>: erbe officinali, erbe aromatiche, eucalipto</li>
+        <li><span class="speziatoInput">speziato:</span>: chiodi di garofano, pepe nero</li>
+        <li><span class="altriInput">altri:</span> resina</li>
+      </ul>
+      <li><b>Punteggio:</b> <span class="punteggio">90/100</span></li>
+    </ul>
+  </div>
+  <div class="annata">
+    <ul>
+      <li><b>Annata:</b> <span class="annocorrente">2016</span></li>
+    </ul>
+    <div class="vini vini-2017"></div>
+    <ul>
+      <li><b>Complessità:</b> <span class="complessitaVino">complesso</span></li>
+      <ul>
+          <li><span class="florealeInput">floreale:</span> rosa</li>
+          <li><span class="fruttatoInput">fruttato:</span> ciliegia, lampone, mirtillo, ribes, mandorla</li>
+          <li><span class="vegetaleInput">erbaceo:</span> timo, erba sfalciata</li>
+          <li><span class="speziatoInput">speziato:</span> vaniglia, pepe nero</li>
+          <li><span class="tostatoInput">tostato:</span> cioccolato</li>       
+      </ul>
+      <li><b>Punteggio:</b> <span class="punteggio">89/100</span></li>
+    </ul>
+  </div>
+</div>
+
+
 [^1]: % variabili a seconda dell'annata
