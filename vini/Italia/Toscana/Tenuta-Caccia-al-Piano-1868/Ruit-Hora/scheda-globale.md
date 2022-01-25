@@ -2,7 +2,7 @@
 title: Ruit Hora – Bolgheri DOC – Tenuta Caccia al Piano 1868 – Toscana (IT) – 20-24€ – 4★
 description: Merlot + Cabernet Sauvignon + Petit Verdot + Syrah | Ossobuco alla toscana con patate – Filetto in crosta con porcini – Spezzatino di cervo
 published: true
-date: 2022-01-25T09:48:23.909Z
+date: 2022-01-25T10:26:33.478Z
 tags: vino, italia, rosso, blend, toscana, fermo, 3 stelle, cabernet sauvignon, merlot, syrah, 20-24€, papero in umido con cipolle caramellate, petit verdot, ossobuco alla toscana con patate, filetto in crosta con porcini, spezzatino di cervo
 editor: markdown
 dateCreated: 2022-01-24T12:15:09.595Z
@@ -11,10 +11,10 @@ dateCreated: 2022-01-24T12:15:09.595Z
 # Ruit Hora
 
 ## Caratteristiche
-- **Nome:** Ruit Hora
+- **Nome:** <span class="nome">Ruit Hora</span>
 - **Tipologia:** Rosso fermo
-- **Denominazione:** [Bolgheri DOC](/denominazioni/Italia/Toscana/DOC/Bolgheri)
-- **Produttore:** [Tenuta Caccia al Piano 1868](/produttori/Italia/Toscana/Tenuta-Caccia-al-Poggio-1868) 
+- **Denominazione:** <span class="denominazione">[Bolgheri DOC](/denominazioni/Italia/Toscana/DOC/Bolgheri)</span>
+- **Produttore:** <span class="cantina">[Tenuta Caccia al Piano 1868](/produttori/Italia/Toscana/Tenuta-Caccia-al-Poggio-1868)</span> 
 - **Composizione:**[^1] [Merlot](/vitigni/Francia/bacca-nera/merlot) + [Cabernet sauvignon](/vitigni/Francia/bacca-nera/cabernet-sauvignon) + [Petit Verdot](/vitigni/Francia/bacca-nera/petit-verdot) + [Syrah](/vitigni/Francia/bacca-nera/syrah) 
 - **Affinamento:** 18 mesi in barrique + 6 mesi in bottiglia
 - **Alcol:** 14%
