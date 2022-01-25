@@ -2,10 +2,10 @@
 title: Ruit Hora – Bolgheri DOC – Tenuta Caccia al Piano 1868 – Toscana (IT) – 20-24€ – 4★
 description: Merlot + Cabernet Sauvignon + Petit Verdot + Syrah | Ossobuco alla toscana con patate – Filetto in crosta con porcini – Spezzatino di cervo
 published: true
-date: 2021-10-01T20:14:49.356Z
-tags: vino, italia, rosso, blend, toscana, fermo, 3 stelle, cabernet sauvignon, merlot, syrah, petit verdot, Ossobuco alla toscana con patate, Filetto in crosta con porcini, Papero in umido con cipolle caramellate, Spezzatino di cervo, 20-24€
+date: 2022-01-25T09:48:23.909Z
+tags: vino, italia, rosso, blend, toscana, fermo, 3 stelle, cabernet sauvignon, merlot, syrah, 20-24€, papero in umido con cipolle caramellate, petit verdot, ossobuco alla toscana con patate, filetto in crosta con porcini, spezzatino di cervo
 editor: markdown
-dateCreated: 2021-09-18T16:29:55.153Z
+dateCreated: 2022-01-24T12:15:09.595Z
 ---
 
 # Ruit Hora
