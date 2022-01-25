@@ -2,7 +2,9 @@ function wineData(){
   const annata = document.querySelectorAll(".annata");
 
 for(var i=0; i < annata.length; i++){
-    const nomeVino = annata[i].querySelector(".nome").innerText.replaceAll(' ', '-');
+    const nomeVino = document.querySelector(".nome").innerText.replaceAll(' ', '-');
+    const docVino = document.querySelector(".denominazione").innerText;
+    const cantinaVino = document.querySelector(".cantina").innerText;
     const annoCorrente = annata[i].querySelector(".annocorrente").innerText;
     d3.csv(`/vini/${nomeVino}-${annoCorrente}.csv`).then( function(data) {  
       //const
