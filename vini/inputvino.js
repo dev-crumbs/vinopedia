@@ -1,10 +1,10 @@
 function wineData(){
   const annata = document.querySelectorAll(".annata");
-
 for(var i=0; i < annata.length; i++){
     const nomeVino = document.querySelector(".nome").innerText.replaceAll(' ', '-');
     const docVino = document.querySelector(".denominazione").innerText;
     const cantinaVino = document.querySelector(".cantina").innerText;
+    //  const vitignoVino = annata[i].querySelector(".vitigno").innerText;//not used
     const annoCorrente = annata[i].querySelector(".annocorrente").innerText;
     d3.csv(`/vini/${nomeVino}-${annoCorrente}.csv`).then( function(data) {  
       //const
@@ -42,7 +42,6 @@ for(var i=0; i < annata.length; i++){
           labelStyle();
     });  
     //Input dati vino
-    const vitignoVino = annata[i].querySelector(".vitigno").innerText;//not used
     const punteggioVino = annata[i].querySelector(".punteggio").innerText;     
     if (annata[i].querySelector(".florealeInput")){var florealeVino = 1} else {var florealeVino = 0}
     if (annata[i].querySelector(".fruttatoInput")){var fruttatoVino = 2} else {var fruttatoVino = 0}
@@ -67,7 +66,7 @@ for(var i=0; i < annata.length; i++){
     .style("backgroundColor","white")
   vpText.append("text")
     .text(doc)
-    .attr("dy", -40)  
+    .attr("dy", -40)
   vpText.append("text")
     .text(name)
     .attr("dy", -15)  
@@ -98,7 +97,7 @@ for(var i=0; i < annata.length; i++){
       .attr("class", "famiglia")
       .text(testo);
 };
-wineText(docVino, nomeVino, cantinaVino, vitignoVino, punteggioVino, annoCorrente)
+wineText(docVino, nomeVino, cantinaVino, punteggioVino, annoCorrente)
     vpCoronaFunction(floreale, "floreale",florealeVino);
     vpCoronaFunction(fruttato, "fruttato",fruttatoVino);
     vpCoronaFunction(vegetale, "vegetale",vegetaleVino);
@@ -117,7 +116,3 @@ window.addEventListener("load", function(){
 mainSvg()
 setTimeout(wineData, 1500)  
 });
-
-
-
-
