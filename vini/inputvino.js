@@ -59,7 +59,7 @@ for(var i=0; i < annata.length; i++){
     // input dati vino e corona
     
 
-  function wineText(doc, name, cantina, vitigno, punteggio, annoCorrente){
+  function wineText(doc, name, cantina, punteggio, annoCorrente){
   const vpText = d3.select(`.vini-${annoCorrente} svg g`).append("g")
     .style("text-anchor","middle")
     .style("font-size", "20px")
