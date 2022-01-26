@@ -198,7 +198,9 @@ max-width: 350px
 
 @media screen and (max-width: 600px) {
   .cantina-table {
-    border: 0; }
+    border: 0; 
+    margin: auto;
+  }
   .cantina-table caption {
     font-size: 1.3em; }
   .cantina-table thead {
