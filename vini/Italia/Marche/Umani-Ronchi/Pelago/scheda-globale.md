@@ -34,7 +34,7 @@ dateCreated: 2021-09-08T09:21:10.164Z
 - Pelago [2013](/vini/Italia/Marche/Umani-Ronchi/Pelago/2013) -- <span class="star-3"></span> -- 88/100
 - Pelago [2014](/vini/Italia/Marche/Umani-Ronchi/Pelago/2014) -- <span class="star-5"></span> -- 91/100
 - Pelago [2015](/vini/Italia/Marche/Umani-Ronchi/Pelago/2015) -- <span class="star-3"></span> -- 87/100
-- Pelago [2016](/vini/Italia/Marche/Umani-Ronchi/Pelago/2016) -- <span class="star-4"></span> -- 86/100
+- Pelago [2016](/vini/Italia/Marche/Umani-Ronchi/Pelago/2016) -- <span class="star-3"></span> -- 86/100
 
 
 
