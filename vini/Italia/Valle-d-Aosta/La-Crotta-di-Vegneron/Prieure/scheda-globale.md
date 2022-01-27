@@ -5,7 +5,7 @@ published: true
 date: 2021-10-01T20:15:15.962Z
 tags: vino, bianco, italia, varietale, valle d'aosta, 5 stelle, passito, crostata di albicocche, torta di mele, formaggio bleu d'aoste stagionato, muscat blanc a petit grains, 30-34€
 editor: markdown
-dateCreated: 2021-09-01T10:17:11.077Z
+dateCreated: 2021-09-01T10:17:11.077Z 
 ---
 
 # Prieuré

@@ -5,7 +5,7 @@ published: true
 date: 2021-10-01T20:15:13.311Z
 tags: vino, italia, rosso, varietale, lepre in salmì, valle d'aosta, fermo, 5 stelle, vuillermin, rolata di camoscio in umido alle erbe, capriolo brasato, spiedo di cervo, 20-24€
 editor: markdown
-dateCreated: 2021-09-18T16:30:04.076Z
+dateCreated: 2021-09-18T16:30:04.076Z 
 ---
 
 # Vuillermin
