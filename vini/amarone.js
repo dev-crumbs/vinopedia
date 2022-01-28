@@ -39,27 +39,27 @@ const fruttato = d3.arc()
 .innerRadius(familiesInnerRadius)
 .outerRadius(familiesOuterRadius)
 .startAngle(0.18 * Math.PI)
-.endAngle(0.65 * Math.PI);
+.endAngle(0.625 * Math.PI);
 const vegetale = d3.arc()   
 .innerRadius(familiesInnerRadius)
 .outerRadius(familiesOuterRadius)
-.startAngle(0.65 * Math.PI)
-.endAngle(1.23 * Math.PI);
+.startAngle(0.625 * Math.PI)
+.endAngle(1.02 * Math.PI);
 const minerale = d3.arc()   
 .innerRadius(familiesInnerRadius)
 .outerRadius(familiesOuterRadius)
-.startAngle(1.23 * Math.PI)
-.endAngle(1.355 * Math.PI);
+.startAngle(1.02 * Math.PI)
+.endAngle(1.12 * Math.PI);
 const speziato = d3.arc()   
 .innerRadius(familiesInnerRadius)
 .outerRadius(familiesOuterRadius)
-.startAngle(1.355 * Math.PI)
-.endAngle(1.61 * Math.PI);  
+.startAngle(1.12 * Math.PI)
+.endAngle(1.38 * Math.PI);  
 const tostato = d3.arc()   
 .innerRadius(familiesInnerRadius)
 .outerRadius(familiesOuterRadius)
-.startAngle(1.61 * Math.PI)
-.endAngle(1.76 * Math.PI);
+.startAngle(1.38 * Math.PI)
+.endAngle(1.55 * Math.PI);
 const vinoso = d3.arc()   
 .innerRadius(familiesInnerRadius)
 .outerRadius(familiesOuterRadius)
@@ -73,15 +73,15 @@ const fragrante = d3.arc()
 const animale = d3.arc()   
 .innerRadius(familiesInnerRadius)
 .outerRadius(familiesOuterRadius)
-.startAngle(1.76 * Math.PI)
-.endAngle(1.79 * Math.PI);
+.startAngle(1.55 * Math.PI)
+.endAngle(1.59 * Math.PI);
 const etereo = d3.arc()   
 .innerRadius(familiesInnerRadius)
 .outerRadius(familiesOuterRadius)
-.startAngle(1.79 * Math.PI)
-.endAngle(1.83 * Math.PI);
+.startAngle(1.59 * Math.PI)
+.endAngle(1.67 * Math.PI);
 const altri = d3.arc()   
 .innerRadius(familiesInnerRadius)
 .outerRadius(familiesOuterRadius)
-.startAngle(1.83 * Math.PI)
+.startAngle(1.67 * Math.PI)
 .endAngle(2 * Math.PI);
