@@ -2,6 +2,7 @@ function wineData(){
   const annata = document.querySelectorAll(".annata");
 for(var i=0; i < annata.length; i++){
     const nomeVino = document.querySelector(".nome").innerText.replaceAll(' ', '-');
+    const nomeVinoPretty = document.querySelector(".nome").innerText;
     const docVino = document.querySelector(".denominazione").innerText;
     const cantinaVino = document.querySelector(".cantina").innerText;
     //  const vitignoVino = annata[i].querySelector(".vitigno").innerText;//not used
@@ -81,6 +82,8 @@ for(var i=0; i < annata.length; i++){
     .text(punteggio)
     .attr("dy", 60) 
 }
+wineText(docVino, nomeVinoPretty, cantinaVino, punteggioVino, annoCorrente)
+
   function vpCoronaFunction(nome, testo, colore){
   d3.selectAll(`.vini-${annoCorrente} > svg > g`).append("g").append("path")
     .attr("d", nome)
@@ -97,18 +100,17 @@ for(var i=0; i < annata.length; i++){
       .attr("class", "famiglia")
       .text(testo);
 };
-wineText(docVino, nomeVino, cantinaVino, punteggioVino, annoCorrente)
-    vpCoronaFunction(floreale, "floreale",florealeVino);
-    vpCoronaFunction(fruttato, "fruttato",fruttatoVino);
-    vpCoronaFunction(vegetale, "vegetale",vegetaleVino);
-    vpCoronaFunction(minerale, "minerale",mineraleVino);
-    vpCoronaFunction(speziato, coronaLabelSp,speziatoVino);
-    vpCoronaFunction(tostato, "tostato",tostatoVino);
-    vpCoronaFunction(vinoso, "",vinosoVino);
-    vpCoronaFunction(fragrante, "",fragranteVino);
-    vpCoronaFunction(animale, "",animaleVino);
-    vpCoronaFunction(etereo, "",etereoVino);
-    vpCoronaFunction(altri, "altri",altriVino);
+vpCoronaFunction(floreale, "floreale",florealeVino);
+vpCoronaFunction(fruttato, "fruttato",fruttatoVino);
+vpCoronaFunction(vegetale, "vegetale",vegetaleVino);
+vpCoronaFunction(minerale, "minerale",mineraleVino);
+vpCoronaFunction(speziato, coronaLabelSp,speziatoVino);
+vpCoronaFunction(tostato, "tostato",tostatoVino);
+vpCoronaFunction(vinoso, "",vinosoVino);
+vpCoronaFunction(fragrante, "",fragranteVino);
+vpCoronaFunction(animale, "",animaleVino);
+vpCoronaFunction(etereo, "",etereoVino);
+vpCoronaFunction(altri, "altri",altriVino);
 }
 }
 
