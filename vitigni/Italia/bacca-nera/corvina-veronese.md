@@ -2,7 +2,7 @@
 title: Corvina veronese
 description: Rosso brillante, fresco e profumato di ciliegia che si incontra più spesso in Valpolicella e Bardolino
 published: true
-date: 2022-01-28T13:23:45.050Z
+date: 2022-01-28T13:23:59.285Z
 tags: vitigno, bacca nera
 editor: markdown
 dateCreated: 2021-09-06T09:42:25.447Z
@@ -13,7 +13,7 @@ dateCreated: 2021-09-06T09:42:25.447Z
 ## Bacca
 Nera
 ## Sinonimi
-Corvina, Corvina Comune, Corvina Gentile, Corvina Nostrana, Corvina Reale, Cruina
+[Corvina](/vitigni/Italia/bacca-nera/corvina), Corvina Comune, Corvina Gentile, Corvina Nostrana, Corvina Reale, Cruina
 
 ## Omonimi
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
