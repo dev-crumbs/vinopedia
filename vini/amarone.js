@@ -59,7 +59,7 @@ const tostato = d3.arc()
 .innerRadius(familiesInnerRadius)
 .outerRadius(familiesOuterRadius)
 .startAngle(1.38 * Math.PI)
-.endAngle(1.55 * Math.PI);
+.endAngle(1.57 * Math.PI);
 const vinoso = d3.arc()   
 .innerRadius(familiesInnerRadius)
 .outerRadius(familiesOuterRadius)
@@ -73,7 +73,7 @@ const fragrante = d3.arc()
 const animale = d3.arc()   
 .innerRadius(familiesInnerRadius)
 .outerRadius(familiesOuterRadius)
-.startAngle(1.55 * Math.PI)
+.startAngle(1.57 * Math.PI)
 .endAngle(1.59 * Math.PI);
 const etereo = d3.arc()   
 .innerRadius(familiesInnerRadius)

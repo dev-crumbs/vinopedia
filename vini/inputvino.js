@@ -55,6 +55,7 @@ for(var i=0; i < annata.length; i++){
     if (annata[i].querySelector(".fragranteInput")){var fragranteVino = 11} else {var fragranteVino = 0}
     if (annata[i].querySelector(".animaleInput")){var animaleVino = 8} else {var animaleVino = 0}
     if (annata[i].querySelector(".etereoInput")){var etereoVino = 9} else {var etereoVino = 0}
+    if (annata[i].querySelector(".etereoInput")){var coronaLabelSp = "etereo"} else {var coronaLabelSp = ""}    
     if (annata[i].querySelector(".altriInput")){var altriVino = 10} else {var altriVino = 0}
 
     // input dati vino e corona
@@ -109,7 +110,7 @@ vpCoronaFunction(tostato, "tostato",tostatoVino);
 vpCoronaFunction(vinoso, "",vinosoVino);
 vpCoronaFunction(fragrante, "",fragranteVino);
 vpCoronaFunction(animale, "",animaleVino);
-vpCoronaFunction(etereo, "",etereoVino);
+vpCoronaFunction(etereo, coronaLabelEt,etereoVino);
 vpCoronaFunction(altri, "altri",altriVino);
 }
 }
