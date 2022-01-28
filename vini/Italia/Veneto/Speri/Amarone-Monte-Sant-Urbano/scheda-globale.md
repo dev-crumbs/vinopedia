@@ -2,7 +2,7 @@
 title: Monte Sant'Urbano – Amarone della Valpolicella DOCG – Speri – Veneto (IT) – 65-69€ – 4★-5★
 description: Corvina 65% + Rondinella 25% + Corvinone 5% + Molinara 5% | Fagiano allo spiedo – Capretto al forno – Petto d'anatra con salsa al cioccolato – Anatra in umido
 published: true
-date: 2022-01-28T17:09:55.513Z
+date: 2022-01-28T17:14:01.126Z
 tags: vino, italia, rosso, blend, veneto, fermo, 65-69€, corvina, rondinella, capretto al forno, corvinone, molinara, fagiano allo spiedo, petto d'anatra con salsa al cioccolato, anatra in umido
 editor: markdown
 dateCreated: 2022-01-27T15:21:34.303Z
@@ -11,10 +11,10 @@ dateCreated: 2022-01-27T15:21:34.303Z
 # Monte Sant'Urbano
 
 ## Caratteristiche
-- **Nome: Monte Sant'Urbano
+- **Nome: <span class="nome">Monte Sant Urbano</span>
 - **Tipologia: Rosso fermo
-- **Denominazione: [Amarone della Valpolicella DOCG](/denominazioni/Italia/Veneto/DOCG/Amarone-della-Valpolicella)
-- **Produttore: [Speri](/produttori/Italia/Veneto/Speri) 
+- **Denominazione: <span class="denominazione">[Amarone della Valpolicella DOCG](/denominazioni/Italia/Veneto/DOCG/Amarone-della-Valpolicella)</span>
+- **Produttore: <span class="cantina">[Speri](/produttori/Italia/Veneto/Speri)</span> 
 - **Composizione: 65% [Corvina](/vitigni/Italia/bacca-nera/corvina) + 25% [Rondinella](/vitigni/Italia/bacca-nera/rondinella) + 5% [Corvinone](/vitigni/Italia/bacca-nera/corvinone) + 5% [Molinara](/vitigni/Italia/bacca-nera/molinara)
 - **Affinamento: 40 mesi in tonneau e botte grande
 - **Alcol: 15%
