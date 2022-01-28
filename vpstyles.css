@@ -105,6 +105,9 @@ a.v-list-item > div.v-list-item__title {
 .contents {
   padding-top: 0
 }
+.confronto-grid .annata{
+  max-width: 300px
+}
 .contents .annata h1 {
   margin-top: 0
 }
@@ -147,9 +150,6 @@ max-width: 350px
 }
 .confronto-grid svg{
   cursor: grab
-}
-.annata{
-  max-width: 300px
 }
 
 /*cantina*/
