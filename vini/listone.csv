@@ -81,6 +81,7 @@ mela,100,2
 melagrana,100,2
 melone,100,2
 mirtillo,100,2
+mirto,100,2
 mora,100,2
 nespola,100,2
 nocciola,100,2
@@ -121,6 +122,7 @@ fresia,100,3
 friggitello,100,3
 frutta acerba,100,3
 fungo,100,3
+genziana,100,3
 humus,100,3
 lentisco,100,3
 m. mediterranea,100,3
@@ -177,6 +179,7 @@ anice,100,5
 cannella,100,5
 cardamomo,100,5
 c. di garofano,100,5
+coriandolo,100,5
 cumino,100,5
 curcuma,100,5
 curry,100,5
@@ -201,9 +204,10 @@ fumo,100,6
 catrame,100,6
 mandorla tostata,100,6
 nocciola tostata,100,6
-pinolo tostato,100,6
-pane tostato,100,6
 orzo tostato,100,6
+pane tostato,100,6
+pinolo tostato,100,6
+pipa,100,6
 scatola di sigari,100,6
 tabacco,100,6
 vinoso,100,7
@@ -230,7 +234,7 @@ biscotto,100,10
 boero,100,10
 brioche,100,10
 burro,100,10
-caramella mou,100,10
+caramella,100,10
 caramello,100,10
 cera d'api,100,10
 china,100,10
@@ -243,10 +247,12 @@ crosta di pane,100,10
 eucalipto,100,10
 foglia di tè,100,10
 formaggio,100,10
+incenso,100,10
 legna arsa,100,10
 legno (boisè),100,10
 lievito,100,10
 liquirizia,100,10
+marron glacee,100,10
 marzapane,100,10
 mentolo,100,10
 miele,100,10
