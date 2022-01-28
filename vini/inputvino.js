@@ -3,11 +3,8 @@ function wineData(){
 for(var i=0; i < annata.length; i++){
     const nomeVino = document.querySelector(".nome").innerText.replaceAll(' ', '-');
     const nomeVinoPretty = document.querySelector(".nome").innerText;
-      if (nomeVinoPretty.length > 22){var nomeLength = "225px"}else{var nomeLength = "none"}
     const docVino = document.querySelector(".denominazione").innerText;
-      if (docVino.length > 22){var demonimazioneLength = "225px"}else{var denominazioneLength = "none"}
     const cantinaVino = document.querySelector(".cantina").innerText;
-      if (cantinaVino.length > 22){var cantinaLength = "225px"}else{var cantinaLength = "none"}
     //  const vitignoVino = annata[i].querySelector(".vitigno").innerText;//not used
     const annoCorrente = annata[i].querySelector(".annocorrente").innerText;
     d3.csv(`/vini/${nomeVino}-${annoCorrente}.csv`).then( function(data) {  
@@ -69,22 +66,14 @@ for(var i=0; i < annata.length; i++){
     .style("text-anchor","middle")
     .style("font-size", "20px")
     .style("backgroundColor","white")
-  vpText.append("text")
-    .text(doc)
-    .attr("dy", -40)
-    .attr("textLength", denominazioneLength)
-    .attr("lengthAdjust", "spacingAndGlyphs")
+
   vpText.append("text")
     .text(name)
     .attr("dy", -15)  
     .style("font-style","italic")
-    .attr("textLength", nomeLength)
-    .attr("lengthAdjust", "spacingAndGlyphs")
   vpText.append("text")
     .text(cantina)
     .attr("dy", 10)
-    .attr("textLength", cantinaLength)
-    .attr("lengthAdjust", "spacingAndGlyphs")
   vpText.append("text")
     .text(annoCorrente)
     .attr("dy", 35)
