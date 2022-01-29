@@ -2,7 +2,7 @@
 title: Caprettone
 description: Vitigno a bacca bianca campano lungamente creduto identico alla Coda di Volpe Bianca
 published: true
-date: 2021-12-26T10:03:08.336Z
+date: 2022-01-29T17:15:11.802Z
 tags: vitigno, bacca bianca
 editor: markdown
 dateCreated: 2021-12-26T10:03:05.732Z
@@ -22,7 +22,7 @@ bianca
 
 ## Origini e parentele
 
-Il Caprettone proviene dalla provincia di Napoli in Campania, Italia meridionale. Il suo nome potrebbe riferirsi al fatto che il grappolo assomiglia alla barba di una pecora (capra in italiano), o al fatto che era principalmente coltivato dai pastori. Caprettone è stato a lungo considerato un clone di CODA DI VOLPE BIANCA, ma recenti studi ampelografici e del DNA hanno dimostrato che non sono imparentati, e che Caprettone è strettamente legato a [Piedirosso](/vitigni/Italia/bacca-nera/piedirosso) e [Ginestra](/vitigni/Italia/bacca-bianca/ginestra) (Costantini et al. 2005). Alcune fonti suggeriscono una relazione con [Catalanesca](/vitigni/Italia/bacca-nera/catalanesca) e Uva Rosa ma questo è stato smentito dai dati del DNA (Costantini et al. 2005).
+Il Caprettone proviene dalla provincia di Napoli in Campania, Italia meridionale. Il suo nome potrebbe riferirsi al fatto che il grappolo assomiglia alla barba di una pecora (capra in italiano), o al fatto che era principalmente coltivato dai pastori. Caprettone è stato a lungo considerato un clone di [Coda di Volpe Bianca](/vitigni/bacca-bianca/coda-di-volpe-bianca), ma recenti studi ampelografici e del DNA hanno dimostrato che non sono imparentati, e che Caprettone è strettamente legato a [Piedirosso](/vitigni/Italia/bacca-nera/piedirosso) e [Ginestra](/vitigni/Italia/bacca-bianca/ginestra) (Costantini et al. 2005). Alcune fonti suggeriscono una relazione con [Catalanesca](/vitigni/Italia/bacca-nera/catalanesca) e Uva Rosa ma questo è stato smentito dai dati del DNA (Costantini et al. 2005).
 
 
 ## Caratteristiche viticole
