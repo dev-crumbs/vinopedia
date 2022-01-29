@@ -2,10 +2,10 @@
 title: Mayolet
 description: Varietà aostana estremamente rara che si sta gradualmente riprendendo dalla quasi estinzione.
 published: true
-date: 2021-09-06T16:28:58.278Z
+date: 2022-01-29T20:47:29.636Z
 tags: vitigno, bacca nera
 editor: markdown
-dateCreated: 2021-09-06T16:28:58.278Z
+dateCreated: 2022-01-21T08:49:39.194Z
 ---
 
 # Mayolet
