@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-08-29T16:16:10.505Z
 ---
 
-# Luigi e Giovanna
+# Vin Santo Caratelli al Pozzo
 
 ## Caratteristiche
 - **Nome:** Vin Santo Caratelli al pozzo
@@ -29,9 +29,9 @@ dateCreated: 2021-08-29T16:16:10.505Z
 - meditazione
 
 ## Annate
-- Luigi e Giovanna [2011](vini/Italia/Trentino/Poier-e-Sandri/Palai/2011) -- <span class="star-5"></span> -- 93/100
-- Luigi e Giovanna [2012](vini/Italia/Trentino/Poier-e-Sandri/Palai/2012) -- <span class="star-5"></span> -- 92/100
-- Luigi e Giovanna [2013](vini/Italia/Trentino/Poier-e-Sandri/Palai/2013) -- <span class="star-5"></span> -- 95/100
+- Vin Santo Caratelli al Pozzo [2011](vini/Italia/Umbria/La-Palazzola/Vin-Santo-Caratelli-al-Pozzo/2011) -- <span class="star-5"></span> -- 93/100
+- Vin Santo Caratelli al Pozzo [2012](vini/Italia/Umbria/La-Palazzola/Vin-Santo-Caratelli-al-Pozzo/2012) -- <span class="star-5"></span> -- 92/100
+- Vin Santo Caratelli al Pozzo [2013](vini/Italia/Umbria/La-Palazzola/Vin-Santo-Caratelli-al-Pozzo/2013) -- <span class="star-5"></span> -- 95/100
 
 ## Note
 Il produttore dichira il vitigno [Trebbiano](/vitigni/Italia/bacca-bianca/trebbiano), che come spiegato nella pagina dedicata non identifica nessun vitigno specifico ma è un nome generico di vitigni simili, non sempre imparentati tra loro. Poiché il disciplinare della DOC Amelia, di cui il vino fa parte, ammette esclusivamente il [Trebbiano toscano](/vitigni/Italia/bacca-bianca/trebbiano-toscano), è verosimile che sia questo il vitigno realmente utilizzato nel vino.
