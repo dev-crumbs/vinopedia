@@ -20,7 +20,7 @@ Armeno (Francia), Bianca di Poviglio (Reggio Emilia), Douradinha (Vinho Verde in
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Albanella](/vitigni/bacca-bianca/albanella) (Marche), [Biancame](/vitigni/bacca-bianca/biancame) (Marche), Blanc Aube (Gironda in Francia, non più coltivato), [Coda Di Volpe Bianca](/vitigni/bacca-bianca/coda-di-volpe-bianca) (Campania), [Damaschino](/vitigni/bacca-bianca/damaschino) (Australia), [Erbaluce](/vitigni/bacca-bianca/erbaluce) (Piemonte), [Fernão Pires] (Portogallo), [Maceratino](/vitigni/bacca-bianca/maceratino) (Marche), [Passerina] (costa Adriatica), [Sémillon](/vitigni/bacca-bianca/semillon), [Trbljan](/vitigni/bacca-bianca/trbljan) (Croazia), [Trebbiano Spoletino](/vitigni/Italia/bacca-bianca/trebbiano-spoletino) (Umbria)
+[Albanella](/vitigni/bacca-bianca/albanella) (Marche), [Biancame](/vitigni/bacca-bianca/biancame) (Marche), Blanc Aube (Gironda in Francia, non più coltivato), [Coda Di Volpe Bianca](/vitigni/Italia/bacca-bianca/coda-di-volpe-bianca) (Campania), [Damaschino](/vitigni/bacca-bianca/damaschino) (Australia), [Erbaluce](/vitigni/bacca-bianca/erbaluce) (Piemonte), [Fernão Pires] (Portogallo), [Maceratino](/vitigni/bacca-bianca/maceratino) (Marche), [Passerina] (costa Adriatica), [Sémillon](/vitigni/bacca-bianca/semillon), [Trbljan](/vitigni/bacca-bianca/trbljan) (Croazia), [Trebbiano Spoletino](/vitigni/Italia/bacca-bianca/trebbiano-spoletino) (Umbria)
 
 
 ## Origini e parentele
