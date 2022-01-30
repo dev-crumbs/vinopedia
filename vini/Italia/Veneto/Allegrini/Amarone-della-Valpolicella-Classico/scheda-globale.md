@@ -11,14 +11,14 @@ dateCreated: 2022-01-27T15:21:34.303Z
 # Amarone della Valpolicella
 
 ## Caratteristiche
-- **Nome: <span class="nome">Amarone della Valpolicella Classico</span>
-- **Tipologia: Rosso fermo
-- **Denominazione: <span class="denominazione">[Amarone della Valpolicella DOCG](/denominazioni/Italia/Veneto/DOCG/Amarone-della-Valpolicella) (Classico)</span>
-- **Produttore: <span class="cantina">[Allegrini](/produttori/Italia/Veneto/Allegrini)</span> 
-- **Composizione: 45% [Corvina](/vitigni/Italia/bacca-nera/corvina) + 45% [Corvinone](/vitigni/Italia/bacca-nera/corvinone) + 5% [Oseleta](/vitigni/Italia/bacca-nera/oseleta) + 5% [Rondinella](/vitigni/Italia/bacca-nera/rondinella)
-- **Affinamento: 18 mesi in barrique + 14 mesi in bottiglia
-- **Alcol: 15.5%
-- **Fascia di prezzo: 80-84€
+- **Nome:** <span class="nome">Amarone della Valpolicella Classico</span>
+- **Tipologia:** Rosso fermo
+- **Denominazione:** <span class="denominazione">[Amarone della Valpolicella DOCG](/denominazioni/Italia/Veneto/DOCG/Amarone-della-Valpolicella) (Classico)</span>
+- **Produttore:** <span class="cantina">[Allegrini](/produttori/Italia/Veneto/Allegrini)</span> 
+- **Composizione:** 45% [Corvina](/vitigni/Italia/bacca-nera/corvina) + 45% [Corvinone](/vitigni/Italia/bacca-nera/corvinone) + 5% [Oseleta](/vitigni/Italia/bacca-nera/oseleta) + 5% [Rondinella](/vitigni/Italia/bacca-nera/rondinella)
+- **Affinamento:** 18 mesi in barrique + 14 mesi in bottiglia
+- **Alcol:** 15.5%
+- **Fascia di prezzo:** 80-84€
 {.grid-list}
 
 

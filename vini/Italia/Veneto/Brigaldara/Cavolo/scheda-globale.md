@@ -11,14 +11,14 @@ dateCreated: 2022-01-27T15:21:34.303Z
 # Cavolo
 
 ## Caratteristiche
-- **Nome: <span class="nome">Amarone Monte Sant Urbano</span>
-- **Tipologia: Rosso fermo
-- **Denominazione: <span class="denominazione">[Amarone della Valpolicella DOCG](/denominazioni/Italia/Veneto/DOCG/Amarone-della-Valpolicella)</span>
-- **Produttore: <span class="cantina">[Brigaldara](/produttori/Italia/Veneto/Brigaldara)</span> 
-- **Composizione: 50% [Corvina](/vitigni/Italia/bacca-nera/corvina) + 40% [Corvinone](/vitigni/Italia/bacca-nera/corvinone) + 25% [Rondinella](/vitigni/Italia/bacca-nera/rondinella)
-- **Affinamento: 90 giorni di appassimento + 48 mesi in barrique e botte grande
-- **Alcol: 16%
-- **Fascia di prezzo: 35-39€
+- **Nome:** <span class="nome">Amarone Monte Sant Urbano</span>
+- **Tipologia:** Rosso fermo
+- **Denominazione:** <span class="denominazione">[Amarone della Valpolicella DOCG](/denominazioni/Italia/Veneto/DOCG/Amarone-della-Valpolicella)</span>
+- **Produttore:** <span class="cantina">[Brigaldara](/produttori/Italia/Veneto/Brigaldara)</span> 
+- **Composizione:** 50% [Corvina](/vitigni/Italia/bacca-nera/corvina) + 40% [Corvinone](/vitigni/Italia/bacca-nera/corvinone) + 25% [Rondinella](/vitigni/Italia/bacca-nera/rondinella)
+- **Affinamento:** 90 giorni di appassimento + 48 mesi in barrique e botte grande
+- **Alcol:** 16%
+- **Fascia di prezzo:** 35-39€
 {.grid-list}
 
 

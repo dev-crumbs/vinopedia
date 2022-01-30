@@ -11,14 +11,14 @@ dateCreated: 2022-01-27T15:21:34.303Z
 # Amarone della Valpolicella
 
 ## Caratteristiche
-- **Nome: <span class="nome">Amarone della Valpolicella Classico</span>
-- **Tipologia: Rosso fermo
-- **Denominazione: <span class="denominazione">[Amarone della Valpolicella DOCG](/denominazioni/Italia/Veneto/DOCG/Amarone-della-Valpolicella) (Classico)</span>
-- **Produttore: <span class="cantina">[David Sterza](/produttori/Italia/Veneto/David Sterza)</span> 
-- **Composizione: 60% [Corvina](/vitigni/Italia/bacca-nera/corvina) + 20% [Corvinone](/vitigni/Italia/bacca-nera/corvinone) + 3% [Oseleta](/vitigni/Italia/bacca-nera/oseleta) + 17% [Rondinella](/vitigni/Italia/bacca-nera/rondinella)
-- **Affinamento: 24 mesi in barrique e tonneau
-- **Alcol: 16%
-- **Fascia di prezzo: 30-34€
+- **Nome:** <span class="nome">Amarone della Valpolicella Classico</span>
+- **Tipologia:** Rosso fermo
+- **Denominazione:** <span class="denominazione">[Amarone della Valpolicella DOCG](/denominazioni/Italia/Veneto/DOCG/Amarone-della-Valpolicella) (Classico)</span>
+- **Produttore:** <span class="cantina">[David Sterza](/produttori/Italia/Veneto/David Sterza)</span> 
+- **Composizione:** 60% [Corvina](/vitigni/Italia/bacca-nera/corvina) + 20% [Corvinone](/vitigni/Italia/bacca-nera/corvinone) + 3% [Oseleta](/vitigni/Italia/bacca-nera/oseleta) + 17% [Rondinella](/vitigni/Italia/bacca-nera/rondinella)
+- **Affinamento:** 24 mesi in barrique e tonneau
+- **Alcol:** 16%
+- **Fascia di prezzo:** 30-34€
 {.grid-list}
 
 

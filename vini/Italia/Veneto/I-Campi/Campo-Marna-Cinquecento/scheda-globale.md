@@ -11,14 +11,14 @@ dateCreated: 2022-01-27T05:21:34.303Z
 # Amarone della Valpolicella
 
 ## Caratteristiche
-- **Nome: <span class="nome">Amarone della Valpolicella</span>
-- **Tipologia: Rosso fermo
-- **Denominazione: <span class="denominazione">[Amarone della Valpolicella DOCG](/denominazioni/Italia/Veneto/DOCG/Amarone-della-Valpolicella)</span>
-- **Produttore: <span class="cantina">[I Campi](/produttori/Italia/Veneto/Monte-Zovo)</span> 
-- **Composizione: 45% [Corvina](/vitigni/Italia/bacca-nera/corvina) + 40% [Corvinone](/vitigni/Italia/bacca-nera/corvinone) + 10% [Rondinella](/vitigni/Italia/bacca-nera/rondinella) 
-- **Affinamento: 24 mesi in barrique + 12 in bottiglia
-- **Alcol: 16%
-- **Fascia di prezzo: 150-174€
+- **Nome:** <span class="nome">Amarone della Valpolicella</span>
+- **Tipologia:** Rosso fermo
+- **Denominazione:** <span class="denominazione">[Amarone della Valpolicella DOCG](/denominazioni/Italia/Veneto/DOCG/Amarone-della-Valpolicella)</span>
+- **Produttore:** <span class="cantina">[I Campi](/produttori/Italia/Veneto/Monte-Zovo)</span> 
+- **Composizione:** 45% [Corvina](/vitigni/Italia/bacca-nera/corvina) + 40% [Corvinone](/vitigni/Italia/bacca-nera/corvinone) + 10% [Rondinella](/vitigni/Italia/bacca-nera/rondinella) 
+- **Affinamento:** 24 mesi in barrique + 12 in bottiglia
+- **Alcol:** 16%
+- **Fascia di prezzo:** 150-174€
 {.grid-list}
 
 

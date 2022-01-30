@@ -11,14 +11,14 @@ dateCreated: 2022-01-27T15:21:34.303Z
 # Mazzano
 
 ## Caratteristiche
-- **Nome: <span class="nome">Mazzano</span>
-- **Tipologia: Rosso fermo
-- **Denominazione: <span class="denominazione">[Amarone della Valpolicella DOCG](/denominazioni/Italia/Veneto/DOCG/Amarone-della-Valpolicella) (Classico)</span>
-- **Produttore: <span class="cantina">[Masi](/produttori/Italia/Veneto/Masi)</span> 
-- **Composizione: 75% [Corvina](/vitigni/Italia/bacca-nera/corvina) + 20% [Rondinella](/vitigni/Italia/bacca-nera/rondinella) + 5% [Molinara](/vitigni/Italia/bacca-nera/molinara)
-- **Affinamento: 36 mesi in botte grande 
-- **Alcol: 16%
-- **Fascia di prezzo: 125-149€
+- **Nome:** <span class="nome">Mazzano</span>
+- **Tipologia:** Rosso fermo
+- **Denominazione:** <span class="denominazione">[Amarone della Valpolicella DOCG](/denominazioni/Italia/Veneto/DOCG/Amarone-della-Valpolicella) (Classico)</span>
+- **Produttore:** <span class="cantina">[Masi](/produttori/Italia/Veneto/Masi)</span> 
+- **Composizione:** 75% [Corvina](/vitigni/Italia/bacca-nera/corvina) + 20% [Rondinella](/vitigni/Italia/bacca-nera/rondinella) + 5% [Molinara](/vitigni/Italia/bacca-nera/molinara)
+- **Affinamento:** 36 mesi in botte grande 
+- **Alcol:** 16%
+- **Fascia di prezzo:** 125-149€
 {.grid-list}
 
 

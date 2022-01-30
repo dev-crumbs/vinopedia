@@ -11,14 +11,14 @@ dateCreated: 2022-01-27T15:21:34.303Z
 # Destinée
 
 ## Caratteristiche
-- **Nome: <span class="nome">Destinée</span>
-- **Tipologia: Rosso fermo
-- **Denominazione: <span class="denominazione">[Amarone della Valpolicella DOCG](/denominazioni/Italia/Veneto/DOCG/Amarone-della-Valpolicella) (Riserva)</span>
-- **Produttore: <span class="cantina">[Rubinelli-Vajol](/produttori/Italia/Veneto/Rubinelli-Vajol)</span> 
-- **Composizione: 40% [Corvina](/vitigni/Italia/bacca-nera/corvina) + 10% [Rondinella](/vitigni/Italia/bacca-nera/rondinella) + 40% [Corvinone](/vitigni/Italia/bacca-nera/corvinone) + 5% [Molinara](/vitigni/Italia/bacca-nera/molinara) + 5% [Oseleta](/vitigni/Italia/bacca-nera/oseleta)
-- **Affinamento: 90 giorni di appassimento + 72 mesi in barrique
-- **Alcol: 16%
-- **Fascia di prezzo: 150-174€
+- **Nome:** <span class="nome">Destinée</span>
+- **Tipologia:** Rosso fermo
+- **Denominazione:** <span class="denominazione">[Amarone della Valpolicella DOCG](/denominazioni/Italia/Veneto/DOCG/Amarone-della-Valpolicella) (Riserva)</span>
+- **Produttore:** <span class="cantina">[Rubinelli-Vajol](/produttori/Italia/Veneto/Rubinelli-Vajol)</span> 
+- **Composizione:** 40% [Corvina](/vitigni/Italia/bacca-nera/corvina) + 10% [Rondinella](/vitigni/Italia/bacca-nera/rondinella) + 40% [Corvinone](/vitigni/Italia/bacca-nera/corvinone) + 5% [Molinara](/vitigni/Italia/bacca-nera/molinara) + 5% [Oseleta](/vitigni/Italia/bacca-nera/oseleta)
+- **Affinamento:** 90 giorni di appassimento + 72 mesi in barrique
+- **Alcol:** 16%
+- **Fascia di prezzo:** 150-174€
 {.grid-list}
 
 ## Possibili abbinamenti

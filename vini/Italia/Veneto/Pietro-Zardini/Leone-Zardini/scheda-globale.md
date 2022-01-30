@@ -11,14 +11,14 @@ dateCreated: 2022-01-27T15:21:34.303Z
 # Leone Zardini
 
 ## Caratteristiche
-- **Nome: <span class="nome">Leone Zardini</span>
-- **Tipologia: Rosso fermo
-- **Denominazione: <span class="denominazione">[Amarone della Valpolicella DOCG](/denominazioni/Italia/Veneto/DOCG/Amarone-della-Valpolicella) (Riserva)</span>
-- **Produttore: <span class="cantina">[Pietro Zardini](/produttori/Italia/Veneto/Pietro Zardini)</span> 
-- **Composizione: 35% [Corvina](/vitigni/Italia/bacca-nera/corvina) + 35% [Corvinone](/vitigni/Italia/bacca-nera/corvinone) + 20% [Rondinella](/vitigni/Italia/bacca-nera/rondinella) + 10% [Molinara](/vitigni/Italia/bacca-nera/molinara)
-- **Affinamento: 48 mesi in anfora e botti di rovere 
-- **Alcol: 16%
-- **Fascia di prezzo: 35-39€
+- **Nome:** <span class="nome">Leone Zardini</span>
+- **Tipologia:** Rosso fermo
+- **Denominazione:** <span class="denominazione">[Amarone della Valpolicella DOCG](/denominazioni/Italia/Veneto/DOCG/Amarone-della-Valpolicella) (Riserva)</span>
+- **Produttore:** <span class="cantina">[Pietro Zardini](/produttori/Italia/Veneto/Pietro Zardini)</span> 
+- **Composizione:** 35% [Corvina](/vitigni/Italia/bacca-nera/corvina) + 35% [Corvinone](/vitigni/Italia/bacca-nera/corvinone) + 20% [Rondinella](/vitigni/Italia/bacca-nera/rondinella) + 10% [Molinara](/vitigni/Italia/bacca-nera/molinara)
+- **Affinamento:** 48 mesi in anfora e botti di rovere 
+- **Alcol:** 16%
+- **Fascia di prezzo:** 35-39€
 {.grid-list}
 
 
