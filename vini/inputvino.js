@@ -66,7 +66,6 @@ for(var i=0; i < annata.length; i++){
     .style("text-anchor","middle")
     .style("font-size", "20px")
     .style("backgroundColor","white")
-    .attr("class","vpGrab")
 
   vpText.append("text")
     .text(name)
@@ -118,7 +117,10 @@ window.addEventListener("load", function(){
 mainSvg()
 setTimeout(wineData, 1500)  
 if (window.location.href.indexOf("scheda-globale") != -1){
-  var elSortable = document.querySelector('.vpGrab');
-  var sortable = Sortable.create(elSortable);
+  var elSortable = document.querySelector('.confronto-grid');
+  //var sortable = Sortable.create(elSortable);
+  var sortable = new Sortable(elSortable, {
+    handle: ".annocorrente" 
+  });
 }
 });
