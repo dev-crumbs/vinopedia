@@ -2,7 +2,7 @@
 title: Alicante Henri Bouschet
 description: Produttivo, ampiamente diffuso, incrocio della Francia del sud in declino in Francia ma in crescita nel sud del Portogallo.
 published: true
-date: 2021-10-03T14:23:24.633Z
+date: 2022-01-31T17:07:49.823Z
 tags: vitigno, bacca nera
 editor: markdown
 dateCreated: 2021-10-03T14:23:22.142Z
@@ -20,7 +20,7 @@ Alicante, Alicante Bouschet, Alicante Bouschet n. 2, Dalmatinka (Croazia), Garna
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Garnacha](/vitigni/Spagna/bacca-nera/garnacha), [Grand noir]((/vitigni/Francia/bacca-nera/grand-noir) (Portogallo), [Tinto velasco](/vitigni/Spagna/bacca-nera/tinto-velasco)  (La Mancha in Spagna)
+[Garnacha](/vitigni/Spagna/bacca-nera/garnacha), [Grand noir](/vitigni/Francia/bacca-nera/grand-noir) (Portogallo), [Tinto velasco](/vitigni/Spagna/bacca-nera/tinto-velasco)  (La Mancha in Spagna)
 
 ## Origini e parentele
 
