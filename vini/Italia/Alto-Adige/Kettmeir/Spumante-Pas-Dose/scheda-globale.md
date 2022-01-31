@@ -34,4 +34,4 @@ dateCreated: 2021-08-12T08:47:39.689Z
 
 ## Annate
 
-- Spumante Pas Dose [2015](/vini/Italia/Alto-Adige/Cantine-Monfort/Monfort-Rose/2015) -- <span class="star-5"></span> -- 93/100
+- Spumante Pas Dose [2015](/vini/Italia/Alto-Adige/Kettmeir/Spumante-Pas-Dose/2015) -- <span class="star-5"></span> -- 93/100
