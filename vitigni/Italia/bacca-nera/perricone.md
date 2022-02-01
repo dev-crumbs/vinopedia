@@ -19,10 +19,10 @@ Catarratto Rouge, Niuru, Perricone Nero, Pignateddu, Pignatello, Pirricuni, Tucc
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Barbera](/vitigni/bacca-nera/barbera), [Mammolo](/vitigni/bacca-nera/mammolo), [Nerello Cappuccio](/vitigni/bacca-nera/nerello-cappuccio), [Nerello Mascalese](/vitigni/bacca-nera/nerello-mascalese), [Nieddera](/vitigni/bacca-nera/nieddera), [Sangiovese](/vitigni/bacca-nera/sangiovese) 
+[Barbera](/vitigni/bacca-nera/barbera), [Mammolo](/vitigni/bacca-nera/mammolo), [Nerello Cappuccio](/vitigni/bacca-nera/nerello-cappuccio), [Nerello Mascalese](/vitigni/bacca-nera/nerello-mascalese), [Nieddera](/vitigni/bacca-nera/nieddera), [Sangiovese](/vitigni/Italia/bacca-nera/sangiovese) 
 
 ## Origini e parentele
-Il Perricone, proveniente dall'isola italiana di Sicilia, è stato confuso con molte altre varietà, come elencato sopra. Recenti profili del DNA hanno fornito prove che non sono identici ma che esiste una possibile relazione genitore-figlio con il [Sangiovese](/vitigni/bacca-nera/sangiovese) (Di Vecchi Staraz, This et al. 2007).
+Il Perricone, proveniente dall'isola italiana di Sicilia, è stato confuso con molte altre varietà, come elencato sopra. Recenti profili del DNA hanno fornito prove che non sono identici ma che esiste una possibile relazione genitore-figlio con il [Sangiovese](/vitigni/Italia/bacca-nera/sangiovese) (Di Vecchi Staraz, This et al. 2007).
 
 ## Caratteristiche viticole
 - Vigoroso, a media maturazione.

@@ -19,7 +19,7 @@ Calabrese, Calabrese d'Avola, Calabrese di Vittoria, Calabrese Dolce, Niureddu C
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Calabrese Di Montenuovo](/vitigni/bacca-nera/calabrese-di-montenuovo), [Sangiovese](/vitigni/bacca-nera/sangiovese)
+[Calabrese Di Montenuovo](/vitigni/bacca-nera/calabrese-di-montenuovo), [Sangiovese](/vitigni/Italia/bacca-nera/sangiovese)
 
 ## Origini e parentele
 Il Nero d'Avola, che prende il nome dalla città di Avola in provincia di Siracusa sull'isola italiana di Sicilia e che molto probabilmente ne è l'origine, fu descritto per la prima volta dal botanico siciliano Francesco Cupani (1696) con il nome Calavrisi, la parola dialettale per Calabrese ('dalla Calabria'), che era il nome dato a questa varietà nel XVIII e XIX secolo e potrebbe indicare una possibile origine calabrese. Tuttavia, alcuni hanno suggerito che Calavrisi potrebbe derivare da Calaulisi, che divenne Caia-Avola, che significa 'uva di Avola' (vedi Carimi et al. 2011). Sebbene questa varietà sia elencata nel registro ufficiale italiano delle varietà con il nome Calabrese, abbiamo optato per Nero d'Avola perché Calabrese è usato per altre varietà come [Sangiovese] o [Canaiolo nero] e perché Nero d'Avola è il nome che si incontra più spesso sulle etichette dei vini. Una recente indagine sul DNA del Nero d'Avola ha mostrato un alto livello di diversità genetica in Sicilia, con diversi cloni distinti mescolati tra altre varietà distinte e indeterminate (forse piantine?) nei vigneti (Carimi et al. 2011).

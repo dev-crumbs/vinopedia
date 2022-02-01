@@ -18,7 +18,7 @@ Abruzzese (Bari e Taranto in Puglia), Albese (Campi Salentino e Guagnano in Pugl
 ## Origini e parentele
 Il Negroamaro è una delle varietà più importanti in Puglia nell'Italia meridionale, dove è stato menzionato già nel XIX secolo. I suoi numerosi sinonimi suggeriscono che Negroamaro è una varietà antica e storicamente diffusa. La sua etimologia e origine sono controverse: alcuni autori suggeriscono una semplice etimologia da negro ('nero') e amaro ('amaro'), mentre altri suppongono un'etimologia greca e un'origine da mavro ('nero'), nonostante la ridondanza di 'nero nero', riferendosi ai legami storici tra Puglia e Grecia. Poiché il DNA di Negroamaro non mostra alcuna relazione con le moderne varietà greche, l'ipotesi 'nero-amaro' sembra più logica. Inoltre, una varietà chiamata Negro Dolce ('nero dolce') è stata documentata nel Salento nel XIX secolo, probabilmente per distinguerla dall'amaro amaro.
 
-Recenti profili di DNA hanno suggerito una possibile relazione genitore-figlio con il [Sangiovese](/vitigni/bacca-nera/sangiovese) (Myles et al. 2011) ma ciò può essere respinto dal confronto con altri profili di DNA pubblicati (Vouillamoz).
+Recenti profili di DNA hanno suggerito una possibile relazione genitore-figlio con il [Sangiovese](/vitigni/Italia/bacca-nera/sangiovese) (Myles et al. 2011) ma ciò può essere respinto dal confronto con altri profili di DNA pubblicati (Vouillamoz).
 
 ## Caratteristiche viticole
 - Vigoroso, ad alto rendimento, a maturazione medio-tardiva, anche se il clone Negroamaro Precoce matura molto prima, circa venti giorni prima del Negroamaro normale 
