@@ -31,6 +31,7 @@ dateCreated: 2021-09-07T16:16:38.527Z
 - fiorentina alla brace
 - black angus al tartufo
 - petto d'anatra al forno
+- costata alla brace
 
 ## Annate
 - Bonzarone [2013](/vini/Italia/Emilia/Tenuta-Bonzara/Bonzarone/2013) -- <span class="star-5"></span> -- 94/100

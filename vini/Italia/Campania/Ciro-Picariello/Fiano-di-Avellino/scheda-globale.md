@@ -13,7 +13,7 @@ dateCreated: 2021-10-04T06:50:57.503Z
 ## Caratteristiche
 - **Nome:** Fiano di Avellino
 - **Tipologia:** Bianco fermo 
-- **Denominazione:** [Fiano di Avellino DOC](/denominazioni/Italia/Campania/DOC/Fiano-di-Avellino)
+- **Denominazione:** [Fiano di Avellino DOCG](/denominazioni/Italia/Campania/DOCG/Fiano-di-Avellino)
 - **Produttore:** [Ciro Picariello](/produttori/Italia/Campania/Ciro Picariello) 
 - **Composizione:** 100% [Fiano](/vitigni/Italia/bacca-bianca/fiano)
 - **Affinamento:** 8 mesi in acciaio + 4 in bottiglia

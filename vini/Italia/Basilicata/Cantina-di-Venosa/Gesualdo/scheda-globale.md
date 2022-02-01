@@ -1,6 +1,6 @@
 ---
 title: Gesualdo – Aglianico del Vulture DOC – Cantina di Venosa – Basilicata (IT) – 10-14€ – 3★-5★
-description: Aglianico del vulture 100% | Tortiera di agnello e patate – Maialino allo spiedo – Tortiera di agnello e patate
+description: Aglianico del vulture 100% | Tortiera di agnello e patate – Maialino allo spiedo
 published: true
 date: 2021-10-01T20:11:01.671Z
 tags: vino, italia, rosso, basilicata, varietale, fermo, 5 stelle, aglianico del vulture, 10-14€, tortiera di agnello e patate, maialino allo spiedo
@@ -28,7 +28,6 @@ dateCreated: 2021-09-30T08:13:22.567Z
 
 - Tortiera di agnello e patate
 - Maialino allo spiedo
-- Tortiera di agnello e patate
 
 ## Annate
 - Gesualdo [2013](/vini/Italia/Basilicata/Cantina-di-Venosa/Gesualdo/2013) -- <span class="star-3"></span> -- 88/100
