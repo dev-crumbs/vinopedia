@@ -38,4 +38,5 @@ dateCreated: 2021-09-07T16:16:38.527Z
 - Bonzarone [2015](/vini/Italia/Emilia/Tenuta-Bonzara/Bonzarone/2015) -- <span class="star-5"></span> -- 93/100
 - Bonzarone [2016](/vini/Italia/Emilia/Tenuta-Bonzara/Bonzarone/2016) -- <span class="star-5"></span> -- 93/100
 - Bonzarone [2017](/vini/Italia/Emilia/Tenuta-Bonzara/Bonzarone/2017) -- <span class="star-5"></span> -- 94/100
+- Bonzarone [2018](/vini/Italia/Emilia/Tenuta-Bonzara/Bonzarone/2018) -- <span class="star-4"></span> -- 90/100
 
