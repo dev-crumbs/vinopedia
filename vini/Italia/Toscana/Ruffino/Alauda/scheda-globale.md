@@ -1,9 +1,9 @@
 ---
-title: Alauda – Toscana IGT – Ruffino – Toscana (IT) – 90-99€ – 5★
+title: Alauda – Toscana IGT – Ruffino – Toscana (IT) – 95-99€ – 5★
 description: 47% Cabernet Franc + 43% Merlot + 10% Colorino | Piccione in Salmì – Fegato alla veneziana – Quaglie lardellate al forno – Tordi al tegame
 published: true
 date: 2021-10-01T20:00:55.251Z
-tags: 90-99€, vino, italia, rosso, blend, toscana, Cabernet Franc, colorino, fermo, 5 stelle, Fegato alla veneziana, merlot, Piccione in Salmì, Quaglie lardellate al forno, Tordi al tegame
+tags: 95-99€, vino, italia, rosso, blend, toscana, Cabernet Franc, colorino, fermo, 5 stelle, Fegato alla veneziana, merlot, Piccione in Salmì, Quaglie lardellate al forno, Tordi al tegame
 editor: markdown
 dateCreated: 2021-09-18T16:45:15.826Z
 ---
@@ -17,7 +17,7 @@ dateCreated: 2021-09-18T16:45:15.826Z
 - **Produttore:** [Ruffino](/produttori/Italia/Toscana/Ruffino) 
 - **Composizione:** 47% [Cabernet Franc](/vitigni/Francia/bacca-nera/cabernet-franc) + 43% [Merlot](/vitigni/Francia/bacca-nera/merlot) + 10% [Colorino](/vitigni/Italia/bacca-nera/colorino.md)
 - **Affinamento:** 24 mesi in barrique + 6 mesi in bottiglia
-- **Fascia di prezzo:** 90-99€
+- **Fascia di prezzo:** 95-99€
 {.grid-list}
 
 
