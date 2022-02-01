@@ -17,7 +17,7 @@ dateCreated: 2021-09-24T12:30:47.391Z
 - **Produttore:** [La Piotta](/produttori/Italia/Lombardia/La-Piotta) 
 - **Composizione:** 100% [Pinot nero](/vitigni/Italia/bacca-nera/pinot-nero)
 - **Alcol:** 12.5%
-- **Fascia di prezzo:** 75-99€
+- **Fascia di prezzo:** 75-79€
 
 {.grid-list}
 

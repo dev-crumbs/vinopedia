@@ -18,7 +18,7 @@ dateCreated: 2021-09-02T14:32:35.010Z
 - **Composizione:** 100% [Montepulciano](/vitigni/Italia/bacca-nera/montepulciano)
 - **Affinamento:** 24 mesi in barrique + 6 anni in bottiglia
 - **Alcol:** 14.5%
-- **Fascia di prezzo:** 125-150€
+- **Fascia di prezzo:** 125-149€
 {.grid-list}
 
 
