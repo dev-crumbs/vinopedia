@@ -40,3 +40,4 @@ dateCreated: 2021-09-30T08:13:49.149Z
 - Trebium [2017](vini/Italia/Umbria/Antonelli-San-Marco/Trebium/2017) -- <span class="star-3"></span> -- 88/100
 - Trebium [2018](vini/Italia/Umbria/Antonelli-San-Marco/Trebium/2018) -- <span class="star-5"></span> -- 93/100
 - Trebium [2019](vini/Italia/Umbria/Antonelli-San-Marco/Trebium/2019) -- <span class="star-5"></span> -- 93/100
+- Trebium [2020](vini/Italia/Umbria/Antonelli-San-Marco/Trebium/2020) -- <span class="star-3"></span> -- 88/100

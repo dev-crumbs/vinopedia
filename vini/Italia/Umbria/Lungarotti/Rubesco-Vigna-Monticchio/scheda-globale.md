@@ -1,9 +1,9 @@
 ---
 title: Rubesco Vigna Monticchio – Torgiano Rosso Riserva DOCG – Lungarotti – Umbria (IT) – 30-34€ – 5★
-description: Sangiovese 100% | Cinghiale di dolceforte – Scamorza al coccio con guanciale croccante affumicato – Filetto alla rossini – Piccione ripieno su polenta – Carrè di maialino con cipolla
+description: Sangiovese 100% | Cinghiale di dolceforte – Scamorza al coccio con guanciale croccante affumicato – Filetto alla rossini – Piccione ripieno su polenta – Carrè di maialino con cipolla – Lombata di capretto
 published: true
 date: 2021-10-01T20:01:45.921Z
-tags: vino, italia, rosso, umbria, varietale, sangiovese, fermo, 5 stelle, filetto alla rossini, cinghiale di dolceforte, scamorza al coccio con guanciale croccante affumicato, piccione ripieno su polenta, carrè di maialino con cipolla, 30-34€
+tags: vino, italia, rosso, umbria, varietale, sangiovese, fermo, 5 stelle, filetto alla rossini, cinghiale di dolceforte, scamorza al coccio con guanciale croccante affumicato, piccione ripieno su polenta, carrè di maialino con cipolla, 30-34€, Lombata di capretto
 editor: markdown
 dateCreated: 2021-09-18T16:29:59.606Z
 ---
@@ -32,6 +32,7 @@ dateCreated: 2021-09-18T16:29:59.606Z
 - Filetto alla rossini 
 - Piccione ripieno su polenta 
 - Carrè di maialino con cipolla 
+- Lombata di capretto e patate
 
 ## Annate
 - Rubesco Vigna Monticchio [2011](vini/Italia/Umbria/Lungarotti/Rubesco-Vigna-Monticchio/2011) -- <span class="star-5"></span> -- 95/100
@@ -39,3 +40,4 @@ dateCreated: 2021-09-18T16:29:59.606Z
 - Rubesco Vigna Monticchio [2013](vini/Italia/Umbria/Lungarotti/Rubesco-Vigna-Monticchio/2013) -- <span class="star-5"></span> -- 94/100
 - Rubesco Vigna Monticchio [2015](vini/Italia/Umbria/Lungarotti/Rubesco-Vigna-Monticchio/2015) -- <span class="star-5"></span> -- 94/100
 - Rubesco Vigna Monticchio [2016](vini/Italia/Umbria/Lungarotti/Rubesco-Vigna-Monticchio/2016) -- <span class="star-5"></span> -- 94/100
+- Rubesco Vigna Monticchio [2017](vini/Italia/Umbria/Lungarotti/Rubesco-Vigna-Monticchio/2017) -- <span class="star-5"></span> -- 95/100

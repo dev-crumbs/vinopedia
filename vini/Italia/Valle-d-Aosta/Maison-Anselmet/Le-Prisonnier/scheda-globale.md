@@ -42,3 +42,4 @@ dateCreated: 2021-09-03T21:04:07.498Z
 - Le Prisonnier [2019](vini/Italia/Valle-d-Aosta/La-Crotta-di-Vegneron/Prieure/2019) -- <span class="star-4"></span> -- 90/100
 - Le Prisonnier [2020](vini/Italia/Valle-d-Aosta/La-Crotta-di-Vegneron/Prieure/2020) -- <span class="star-4"></span> -- 90/100
 - Le Prisonnier [2021](vini/Italia/Valle-d-Aosta/La-Crotta-di-Vegneron/Prieure/2021) -- <span class="star-3"></span> -- 87/100
+- Le Prisonnier [2022](vini/Italia/Valle-d-Aosta/La-Crotta-di-Vegneron/Prieure/2022) -- <span class="star-3"></span> -- 86/100

@@ -38,4 +38,5 @@ Non disdegna di essere offerto come aperitivo.
 - Palai [2015](vini/Italia/Trentino/Poier-e-Sandri/Palai/2015) -- <span class="star-2"></span> -- 84/100
 - Palai [2016](vini/Italia/Trentino/Poier-e-Sandri/Palai/2016) -- <span class="star-2"></span> -- 83/100
 - Palai [2019](vini/Italia/Trentino/Poier-e-Sandri/Palai/2019) -- <span class="star-5"></span> -- 95/100
+- Palai [2020](vini/Italia/Trentino/Poier-e-Sandri/Palai/2020) -- <span class="star-3"></span> -- 86/100
 

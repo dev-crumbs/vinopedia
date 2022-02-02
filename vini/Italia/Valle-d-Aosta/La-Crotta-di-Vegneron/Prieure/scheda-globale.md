@@ -1,9 +1,9 @@
 ---
 title: Prieuré – Valle d'Aosta Chambave Muscat Flétri DOC – La Crotta di Vegneron – Valle d'Aosta (IT) – 30-34€ – 3★-5★
-description: Muscat blanc a petit grains 100% | Crostata di albicocche – Torta di mele – Formaggio bleu d'Aoste stagionato
+description: Muscat blanc a petit grains 100% | Crostata di albicocche – Torta di mele – Formaggio bleu d'Aoste stagionato – Torta millefoglie
 published: true
 date: 2021-10-01T20:15:15.962Z
-tags: vino, bianco, italia, varietale, valle d'aosta, 5 stelle, passito, crostata di albicocche, torta di mele, formaggio bleu d'aoste stagionato, muscat blanc a petit grains, 30-34€
+tags: vino, bianco, italia, varietale, valle d'aosta, 5 stelle, passito, crostata di albicocche, torta di mele, formaggio bleu d'aoste stagionato, muscat blanc a petit grains, 30-34€, Torta millefoglie
 editor: markdown
 dateCreated: 2021-09-01T10:17:11.077Z 
 ---
@@ -21,10 +21,6 @@ dateCreated: 2021-09-01T10:17:11.077Z
 - **Fascia di prezzo:** 30-34€
 {.grid-list}
 
-## Descrizione del produttore
-
-> Nel 2011 si celebra il cinquantesimo anniversario dell’Azienda Agricola Barberani. La vita della nostra azienda è da sempre incentrata su due figure cardine della famiglia, Luigi e Giovanna, così come la storia dei nostri vini si concentra da sempre sulle loro rispettive passioni: i vitigni autoctoni del nostro territorio e la "Muffa Nobile". Le varietà tradizionali rispecchiano la più antica tradizione delle nostre terre e sanno donare vini di grande struttura e complessità. La "Muffa Nobile" invece sa esaltare l'eleganza e l'aromaticità delle uve, in un voluttuoso gioco di poesia e sensazioni. Dall'unione di queste due appassionate visioni nasce "Luigi e Giovanna", il vino più rappresentativo di quest'amore reciproco per il vino e la vita.
-
 
 ## Possibili abbinamenti
 *Vedere le singole annate per abbinamenti specifici*
@@ -32,6 +28,7 @@ dateCreated: 2021-09-01T10:17:11.077Z
 - crostata di albicocche
 - torta di mele
 - formaggio bleu d'Aosta stagionato
+- Torta millefoglie
 
 ## Annate
 - Prieuré [2014](vini/Italia/Valle-d-Aosta/La-Crotta-di-Vegneron/Prieure/2014) -- <span class="star-5"></span> -- 88/100
@@ -39,3 +36,4 @@ dateCreated: 2021-09-01T10:17:11.077Z
 - Prieuré [2016](vini/Italia/Valle-d-Aosta/La-Crotta-di-Vegneron/Prieure/2016) -- <span class="star-5"></span> -- 93/100
 - Prieuré [2017](vini/Italia/Valle-d-Aosta/La-Crotta-di-Vegneron/Prieure/2017) -- <span class="star-5"></span> -- 94/100
 - Prieuré [2018](vini/Italia/Valle-d-Aosta/La-Crotta-di-Vegneron/Prieure/2018) -- <span class="star-4"></span> -- 90/100
+- Prieuré [2019](vini/Italia/Valle-d-Aosta/La-Crotta-di-Vegneron/Prieure/2019) -- <span class="star-4"></span> -- 90/100

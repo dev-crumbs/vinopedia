@@ -38,3 +38,4 @@ dateCreated: 2021-09-30T08:13:53.379Z
 - Divina Villa Riserva [2015](vini/Italia/Piemonte/Duca-della-Corgna/Divina-Villa-Riserva/2015) -- <span class="star-4"></span> -- 90/100
 - Divina Villa Riserva [2016](vini/Italia/Piemonte/Duca-della-Corgna/Divina-Villa-Riserva/2016) -- <span class="star-3"></span> -- 88/100
 - Divina Villa Riserva [2017](vini/Italia/Piemonte/Duca-della-Corgna/Divina-Villa-Riserva/2017) -- <span class="star-5"></span> -- 93/100
+- Divina Villa Riserva [2018](vini/Italia/Piemonte/Duca-della-Corgna/Divina-Villa-Riserva/2018) -- <span class="star-3"></span> -- 88/100
