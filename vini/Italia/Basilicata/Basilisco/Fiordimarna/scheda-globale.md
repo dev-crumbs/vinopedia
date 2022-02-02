@@ -3,7 +3,7 @@ title: Fiordimarna – Aglianico del Vulture Superiore DOCG – Basilisco – Ba
 description: Aglianico del vulture 100% | Strascinati al ragù
 published: true
 date: 2021-10-01T20:11:01.671Z
-tags: vino, italia, rosso, basilicata, varietale, fermo, aglianico del vulture, Valutazioni | 5 stelle, Prezzi | 25-29€, Strascinati al ragù
+tags: vino, italia, rosso, basilicata, varietale, fermo, Vitigni | Aglianico del Vulture, Valutazioni | 5 stelle, Prezzi | 25-29€, Strascinati al ragù
 editor: markdown
 dateCreated: 2021-09-30T08:13:22.567Z
 ---
