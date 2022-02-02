@@ -39,4 +39,5 @@ dateCreated: 2021-09-30T12:52:51.032Z
 - [Campi Flegrei Falanghina 2016](/vini/Italia/Campania/Contrada-Salandra/Campi-Flegrei-Falanghina/2016) -- <span class="star-4"></span> -- 90/100
 - [Campi Flegrei Falanghina 2017](/vini/Italia/Campania/Contrada-Salandra/Campi-Flegrei-Falanghina/2017) -- <span class="star-4"></span> -- 90/100
 - [Campi Flegrei Falanghina 2018](/vini/Italia/Campania/Contrada-Salandra/Campi-Flegrei-Falanghina/2018) -- <span class="star-5"></span> -- 93/100
+- [Campi Flegrei Falanghina 2019](/vini/Italia/Campania/Contrada-Salandra/Campi-Flegrei-Falanghina/2019) -- <span class="star-3"></span> -- 88/100
  

@@ -39,3 +39,4 @@ dateCreated: 2021-09-03T21:02:44.317Z
 - Timpamara [2016](vini/Italia/Calabria/Terre-del-Gufo/Timpamara/2016) -- <span class="star-5"></span> -- 93/100
 - Timpamara [2017](vini/Italia/Calabria/Terre-del-Gufo/Timpamara/2017) -- <span class="star-3"></span> -- 88/100
 - Timpamara [2018](vini/Italia/Calabria/Terre-del-Gufo/Timpamara/2018) -- <span class="star-3"></span> -- 85/100
+- Timpamara [2019](vini/Italia/Calabria/Terre-del-Gufo/Timpamara/2019) -- <span class="star-3"></span> -- 86/100

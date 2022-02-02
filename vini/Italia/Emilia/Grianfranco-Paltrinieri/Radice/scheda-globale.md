@@ -40,8 +40,8 @@ dateCreated: 2021-08-25T13:27:56.103Z
 > Per gli spumanti Sans Année le "annate" indicano esclusivamente gli anni in cui il vino è stato degustato.
 {.is-warning}
 
-- Radice [2016](/vini/Italia/Emilia/Gianfranco-Paltrinieri/Lambrusco-di-Sorbara-Radice/2016) -- <span class="star-3"></span>
-- Radice [2017](/vini/Italia/Emilia/Gianfranco-Paltrinieri/Lambrusco-di-Sorbara-Radice/2017) -- <span class="star-3"></span>
-- Radice [2019](/vini/Italia/Emilia/Gianfranco-Paltrinieri/Lambrusco-di-Sorbara-Radice/2019) -- <span class="star-5"></span>
-
+- Radice [2016](/vini/Italia/Emilia/Gianfranco-Paltrinieri/Lambrusco-di-Sorbara-Radice/2016) -- <span class="star-3"></span> -- 86/100
+- Radice [2017](/vini/Italia/Emilia/Gianfranco-Paltrinieri/Lambrusco-di-Sorbara-Radice/2017) -- <span class="star-3"></span> -- 87/100
+- Radice [2019](/vini/Italia/Emilia/Gianfranco-Paltrinieri/Lambrusco-di-Sorbara-Radice/2019) -- <span class="star-5"></span> -- 91/100
+- Radice [2020](/vini/Italia/Emilia/Gianfranco-Paltrinieri/Lambrusco-di-Sorbara-Radice/2020) -- <span class="star-3"></span> -- 86/100
 

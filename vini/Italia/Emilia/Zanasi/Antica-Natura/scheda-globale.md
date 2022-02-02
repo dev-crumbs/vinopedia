@@ -1,5 +1,5 @@
 ---
-title: Antica Natura – Lambrusco Grasparossa di Castelvetro DOC – Zanasi – Emilia (IT) – 10-14€ – 4★
+title: Antica Natura – Lambrusco Grasparossa di Castelvetro DOC – Zanasi – Emilia (IT) – 10-14€ – 2★-4★
 description: Lambrusco Grasparossa 100% | Risotto con salsiccia
 published: true
 date: 2022-01-20T06:48:48.956Z
@@ -28,3 +28,4 @@ dateCreated: 2021-08-18T10:27:11.126Z
 
 ## Annate
 - Antica Natura [2018](/vini/Italia/Emilia/Zanasi/Antica-Natura/2018) -- <span class="star-4"></span> -- 89/100
+- Antica Natura [2019](/vini/Italia/Emilia/Zanasi/Antica-Natura/2019) -- <span class="star-2"></span> -- 82/100

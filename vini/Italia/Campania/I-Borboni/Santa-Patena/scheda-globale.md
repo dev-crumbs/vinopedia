@@ -1,9 +1,9 @@
 ---
 title: Santa Patena – Aversa Asprinio DOC – I Borboni – Campania (IT) – 10-14€ – 4★-5★
-description: Asprinio 100% | zuppa di anguilla – Tempura di calamari su nero di seppia – Carbonara di mare – Anguilla fritta
+description: Asprinio 100% | zuppa di anguilla – Tempura di calamari su nero di seppia – Carbonara di mare – Anguilla fritta – Orata al forno
 published: true
 date: 2021-10-01T20:11:32.706Z
-tags: vino, campania, italia, rosso, varietale, fermo, 5 stelle, asprinio, zuppa di anguilla, tempura di calamari su nero di seppia, carbonara di mare, anguilla fritta, 10-14€
+tags: vino, campania, italia, rosso, varietale, fermo, 5 stelle, asprinio, zuppa di anguilla, tempura di calamari su nero di seppia, carbonara di mare, anguilla fritta, Orata al forno, 10-14€
 editor: markdown
 dateCreated: 2021-09-03T21:02:48.129Z
 ---
@@ -31,9 +31,11 @@ dateCreated: 2021-09-03T21:02:48.129Z
 - tempura di calamari su nero di seppia
 - carbonara di mare
 - anguilla fritta
+- Orata al forno con patate novelle
 
 ## Annate
 - Santa Patena [2013](/vini/Italia/Campania/I-Borboni/Santa-Patena/2013) -- <span class="star-5"></span> -- 94/100
 - Santa Patena [2015](/vini/Italia/Campania/I-Borboni/Santa-Patena/2015) -- <span class="star-5"></span> -- 95/100
 - Santa Patena [2016](/vini/Italia/Campania/I-Borboni/Santa-Patena/2016) -- <span class="star-5"></span> -- 94/100 
 - Santa Patena [2018](/vini/Italia/Campania/I-Borboni/Santa-Patena/2018) -- <span class="star-4"></span> -- 90/100
+- Santa Patena [2019](/vini/Italia/Campania/I-Borboni/Santa-Patena/2019) -- <span class="star-4"></span> -- 90/100

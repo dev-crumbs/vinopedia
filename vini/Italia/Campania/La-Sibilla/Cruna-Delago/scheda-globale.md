@@ -39,4 +39,5 @@ dateCreated: 2021-10-04T06:51:03.801Z
 - [Cruna Delago 2016](/vini/Italia/Campania/La-Sibilla/Cruna-Delago/2016) -- <span class="star-4"></span> -- 90/100
 - [Cruna Delago 2017](/vini/Italia/Campania/La-Sibilla/Cruna-Delago/2017) -- <span class="star-4"></span> -- 90/100
 - [Cruna Delago 2018](/vini/Italia/Campania/La-Sibilla/Cruna-Delago/2018) -- <span class="star-5"></span> -- 93/100
+- [Cruna Delago 2019](/vini/Italia/Campania/La-Sibilla/Cruna-Delago/2019) -- <span class="star-5"></span> -- 91/100
  

@@ -35,3 +35,4 @@ dateCreated: 2021-09-08T09:21:00.113Z
 - Petelia [2017](vini/Italia/Calabria/Ceraudo/Petelia/2017) -- <span class="star-2"></span> -- 84/100
 - Petelia [2018](vini/Italia/Calabria/Ceraudo/Petelia/2018) -- <span class="star-4"></span> -- 90/100
 - Petelia [2019](vini/Italia/Calabria/Ceraudo/Petelia/2019) -- <span class="star-2"></span> -- 84/100
+- Petelia [2020](vini/Italia/Calabria/Ceraudo/Petelia/2020) -- <span class="star-3"></span> -- 85/100

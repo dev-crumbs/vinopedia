@@ -36,3 +36,4 @@ dateCreated: 2021-08-26T20:25:45.111Z
 - Zingamaro [2014](vini/Italia/Calabria/La-Pizzuta-del-Principe/Zingamaro/2014) -- <span class="star-4"></span> -- 90/100
 - Zingamaro [2015](vini/Italia/Calabria/La-Pizzuta-del-Principe/Zingamaro/2015) -- <span class="star-3"></span> -- 88/100
 - Zingamaro [2016](vini/Italia/Calabria/La-Pizzuta-del-Principe/Zingamaro/2016) -- <span class="star-5"></span> -- 95/100
+- Zingamaro [2017](vini/Italia/Calabria/La-Pizzuta-del-Principe/Zingamaro/2017) -- <span class="star-3"></span> -- 86/100

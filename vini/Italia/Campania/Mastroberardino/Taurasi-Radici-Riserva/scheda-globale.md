@@ -1,5 +1,5 @@
 ---
-title: Radici Riserva – Taurasi Riserva DOCG – Mastroberardino – Campania (IT) – 35-39€ – 4★-5★
+title: Taurasi Radici Riserva – Taurasi Riserva DOCG – Mastroberardino – Campania (IT) – 35-39€ – 4★-5★
 description: Aglianico 100% | Bocconcini di fagiano con salsa al ribes – Filetto di chianina al pepe nero – Brasato di manzo con purea di carote e liquirizia – Uova al tegamino con crema di taleggio e tartufo bianco
 published: true
 date: 2021-10-01T20:11:35.370Z
@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2021-09-03T21:02:52.418Z
 ---
 
-# Radici Riserva
+# Taurasi Radici Riserva
 
 ## Caratteristiche
 - **Nome:** Radici Riserva

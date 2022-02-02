@@ -1,9 +1,9 @@
 ---
 title: Vignamorello – Gutturnio Superiore DOC – La Tosa – Emilia (IT) – 15-19€ – 3★-5★
-description: Barbera 60% + Croatina 40% | Filetto di manzo al pepe nero – Arrosto di vitello ripieno – Bocconcini di cavallo al vino
+description: Barbera 60% + Croatina 40% | Filetto di manzo al pepe nero – Arrosto di vitello ripieno – Bocconcini di cavallo al vino – Bomba di riso con piccione
 published: true
 date: 2021-10-01T20:11:48.495Z
-tags: vino, italia, rosso, blend, emilia, fermo, 5 stelle, barbera, croatina, filetto di manzo al pepe nero, arrosto di vitello ripieno, bocconcini di cavallo al vino, 15-19€
+tags: vino, italia, rosso, blend, emilia, fermo, 5 stelle, barbera, croatina, filetto di manzo al pepe nero, arrosto di vitello ripieno, bocconcini di cavallo al vino, bomba di riso con piccione, 15-19€
 editor: markdown
 dateCreated: 2021-09-03T21:02:59.390Z
 ---
@@ -29,10 +29,12 @@ dateCreated: 2021-09-03T21:02:59.390Z
 - filetto di manzo al pepe nero
 - arrosto di vitello ripieno
 - bocconcini di cavallo al vino
+- bomba di riso con piccione
 
 ## Annate
 - Vignamorello [2015](/vini/Italia/Emilia/La-Tosa/Vignamorello/2015) -- <span class="star-5"></span> -- 95/100
 - Vignamorello [2016](/vini/Italia/Emilia/La-Tosa/Vignamorello/2016) -- <span class="star-3"></span> -- 87/100
 - Vignamorello [2017](/vini/Italia/Emilia/La-Tosa/Vignamorello/2017) -- <span class="star-3"></span> -- 87/100
 - Vignamorello [2018](/vini/Italia/Emilia/La-Tosa/Vignamorello/2018) -- <span class="star-3"></span> -- 85/100
+- Vignamorello [2019](/vini/Italia/Emilia/La-Tosa/Vignamorello/2019) -- <span class="star-5"></span> -- 91/100
 

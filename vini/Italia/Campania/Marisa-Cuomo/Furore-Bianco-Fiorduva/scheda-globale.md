@@ -1,9 +1,9 @@
 ---
 title: Furore Bianco Fiorduva – Costa d'Amalfi DOC – Marisa Cuomo – Campania (IT) – 10-14€ – 5★
-description: Ripolo 40% + Fenile 30% + Ginestra 30% | Linguine di farro ai ricci di mare – Fusilli zafferano e caciotta – Orata alla brace – Tonno rosso marinato alle erbette – Tonno scottato su fonduta di provolone
+description: Ripolo 40% + Fenile 30% + Ginestra 30% | Linguine di farro ai ricci di mare – Fusilli zafferano e caciotta – Orata alla brace – Tonno rosso marinato alle erbette – Tonno scottato su fonduta di provolone – Risotto zafferano provolne e salsiccia
 published: true
 date: 2021-10-01T19:56:30.359Z
-tags: vino, bianco, campania, italia, blend, fermo, 5 stelle, ripolo, fenile, ginestra, linguine di farro ai ricci di mare, fusilli zafferano e caciotta, orata alla brace, tonno rosso marinato alle erbette, tonno scottato su fonduta di provolone, 10-14€
+tags: vino, bianco, campania, italia, blend, fermo, 5 stelle, ripolo, fenile, ginestra, linguine di farro ai ricci di mare, fusilli zafferano e caciotta, orata alla brace, tonno rosso marinato alle erbette, tonno scottato su fonduta di provolone, Risotto zafferano provolne e salsiccia, 10-14€
 editor: markdown
 dateCreated: 2021-09-07T16:41:56.457Z
 ---
@@ -32,6 +32,7 @@ dateCreated: 2021-09-07T16:41:56.457Z
 - orata alla brace
 - tonno rosso marinato alle erbette
 - tonno scottato su fonduta di provolone
+- Risotto zafferano provolne e salsiccia
 
 ## Annate
 - Furore Bianco Fiorduva [2015](/vini/Italia/Campania/Marisa-Cuomo/Furore-Bianco-Fiorduva/2015) -- <span class="star-5"></span> -- 95/100
@@ -39,3 +40,4 @@ dateCreated: 2021-09-07T16:41:56.457Z
 - Furore Bianco Fiorduva [2017](/vini/Italia/Campania/Marisa-Cuomo/Furore-Bianco-Fiorduva/2017) -- <span class="star-5"></span> -- 93/100 
 - Furore Bianco Fiorduva [2018](/vini/Italia/Campania/Marisa-Cuomo/Furore-Bianco-Fiorduva/2018) -- <span class="star-5"></span> -- 94/100
 - Furore Bianco Fiorduva [2019](/vini/Italia/Campania/Marisa-Cuomo/Furore-Bianco-Fiorduva/2019) -- <span class="star-5"></span> -- 95/100
+- Furore Bianco Fiorduva [2020](/vini/Italia/Campania/Marisa-Cuomo/Furore-Bianco-Fiorduva/2020) -- <span class="star-5"></span> -- 97/100

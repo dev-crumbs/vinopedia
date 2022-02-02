@@ -1,9 +1,9 @@
 ---
 title: Bianco Lamézia – Lamezia DOC – Statti – Calabria (IT) – 10-14€ – 1★-5★
-description: Greco bianco 50% + Mantonico bianco 50% | Spiedini di gamberi al forno – Risotto zucca e fagioli
+description: Greco bianco 50% + Mantonico bianco 50% | Spiedini di gamberi al forno – Risotto zucca e fagioli – Polpo alla griglia
 published: true
 date: 2021-10-01T20:11:22.195Z
-tags: vino, bianco, italia, blend, calabria, fermo, 5 stelle, greco bianco, mantonico bianco, spiedini di gamberi al forno, risotto zucca e fagioli, 10-14€
+tags: vino, bianco, italia, blend, calabria, fermo, 5 stelle, greco bianco, mantonico bianco, spiedini di gamberi al forno, risotto zucca e fagioli, Polpo alla griglia, 10-14€
 editor: markdown
 dateCreated: 2021-09-28T15:49:35.114Z
 ---
@@ -28,9 +28,11 @@ dateCreated: 2021-09-28T15:49:35.114Z
 
 - Spiedini di gamberi al forno
 - Risotto zucca e fagioli
+- Polpo alla griglia
 
 ## Annate
 - Lamezia [2016](vini/Italia/Calabria/Statti/Lamezia-bianco/2016) -- <span class="star-1"></span> -- 79/100
 - Lamezia [2017](vini/Italia/Calabria/Statti/Lamezia-bianco/2017) -- <span class="star-3"></span> -- 86/100
 - Lamezia [2018](vini/Italia/Calabria/Statti/Lamezia-bianco/2018) -- <span class="star-2"></span> -- 84/100
 - Lamezia [2019](vini/Italia/Calabria/Statti/Lamezia-bianco/2019) -- <span class="star-5"></span> -- 92/100
+- Lamezia [2020](vini/Italia/Calabria/Statti/Lamezia-bianco/2020) -- <span class="star-4"></span> -- 90/100

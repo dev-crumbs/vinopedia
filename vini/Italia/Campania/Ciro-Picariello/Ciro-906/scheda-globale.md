@@ -30,4 +30,4 @@ dateCreated: 2021-10-04T06:50:57.503Z
 - Maialino scottato su vellutata di melanzane
 
 ## Annate
-- [Fiano di Avellino 2019](/vini/Italia/Campania/Ciro-Picariello/Ciro-906/2019) -- <span class="star-5"></span> -- 94/100 
+- Fiano di Avellino [2019](/vini/Italia/Campania/Ciro-Picariello/Ciro-906/2019) -- <span class="star-5"></span> -- 94/100 

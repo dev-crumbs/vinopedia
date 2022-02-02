@@ -1,9 +1,9 @@
 ---
 title: Terra di Rivolta Riserva – Aglianico del Taburno DOCG – Fattoria la Rivolta – Campania (IT) – 30-34€ – 3★-5★
-description: Aglianico 100% | Stinco di maiale al forno - Braciola di guancia di vitello - Quaglie al forno ripiene
+description: Aglianico 100% | Stinco di maiale al forno – Braciola di guancia di vitello – Quaglie al forno ripiene – Pappardelle al ragù
 published: true
 date: 2021-10-01T19:56:25.138Z
-tags: vino, rosso, aglianico, varietale, fermo, 5 stelle, 30-34€
+tags: vino, rosso, aglianico, varietale, fermo, 5 stelle, 30-34€, Pappardelle al ragù, Stinco di maiale al forno, Braciola di guancia di vitello, Quaglie al forno ripiene
 editor: markdown
 dateCreated: 2021-08-22T21:27:45.497Z
 ---
@@ -30,9 +30,11 @@ dateCreated: 2021-08-22T21:27:45.497Z
 - Stinco di maiale al forno 
 - Braciola di guancia di vitello con uvetta e pinoli
 - Quaglie al forno ripiene di castagne e salvia
+- Pappardelle al ragù
 
 ## Annate
 - Terra di Rivolta [2013](/vini/Italia/Campania/Fattoria-la-Rivolta/Terra-di-Rivolta-Riserva/2013) -- <span class="star-5"></span> -- 93/100
 - Terra di Rivolta [2015](/vini/Italia/Campania/Fattoria-la-Rivolta/Terra-di-Rivolta-Riserva/2015) -- <span class="star-3"></span> -- 87/100
 - Terra di Rivolta [2016](/vini/Italia/Campania/Fattoria-la-Rivolta/Terra-di-Rivolta-Riserva/2016) -- <span class="star-4"></span> -- 90/100
 - Terra di Rivolta [2017](/vini/Italia/Campania/Fattoria-la-Rivolta/Terra-di-Rivolta-Riserva/2017) -- <span class="star-5"></span> -- 93/100
+- Terra di Rivolta [2018](/vini/Italia/Campania/Fattoria-la-Rivolta/Terra-di-Rivolta-Riserva/2018) -- <span class="star-5"></span> -- 93/100

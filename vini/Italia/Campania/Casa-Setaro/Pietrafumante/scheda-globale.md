@@ -39,3 +39,4 @@ dateCreated: 2021-09-03T21:03:21.131Z
 
 - Pietrafumante Brut [2016](/vini/Italia/Campania/Casa-Setaro/Pietrafumante/2016) -- <span class="star-4"></span> -- 90/100
 - Pietrafumante Brut [2017](/vini/Italia/Campania/Casa-Setaro/Pietrafumante/2017) -- <span class="star-3"></span> -- 87/100
+- Pietrafumante Brut [2018](/vini/Italia/Campania/Casa-Setaro/Pietrafumante/2018) -- <span class="star-3"></span> -- 88/100
