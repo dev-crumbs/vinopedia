@@ -3,7 +3,7 @@ title: Rive di Solighetto – Conegliano Valdobbiadene Prosecco Superiore DOCG �
 description: Glera 100% | Gallina ubriaca alla padovana – Coniglio in umido alle erbe aromatiche
 published: true
 date: 2021-10-01T20:15:31.633Z
-tags: vino, bianco, italia, varietale, spumante, brut, veneto, 5 stelle, millesimato, 10-14€, metodo martinotti, glera, gallina ubriaca, Coniglio in umido alle erbe aromatiche
+tags: vino, bianco, italia, varietale, spumante, brut, veneto, 5 stelle, millesimato, Prezzi: 10-14€, metodo martinotti, glera, gallina ubriaca, Coniglio in umido alle erbe aromatiche
 editor: markdown
 dateCreated: 2021-09-30T08:14:01.373Z
 ---

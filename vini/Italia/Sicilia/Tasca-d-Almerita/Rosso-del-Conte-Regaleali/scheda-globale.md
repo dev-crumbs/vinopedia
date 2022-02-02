@@ -3,7 +3,7 @@ title: Rosso del Conte Regaleali – Contea di Sclafani DOC – Tasca d'Almerita
 description: Perricone 47% + Nero d'Avola 53% | Spalla di maiale al forno – Lasagnetta al ragù di capriolo – Stinco di maiale ai peperoni – Trippa alla parmigiana – Stracotto di manzo
 published: true
 date: 2021-10-01T20:14:33.327Z
-tags: 45-49€, vino, italia, rosso, blend, sicilia, Perricone, Nero d'Avola, Spalla di maiale al forno, Lasagnetta al ragù di capriolo, Stinco di maiale ai peperoni, Trippa alla parmigiana, Stracotto di manzo, 5 stelle, fermo
+tags: Prezzi: 45-49€, vino, italia, rosso, blend, sicilia, Perricone, Nero d'Avola, Spalla di maiale al forno, Lasagnetta al ragù di capriolo, Stinco di maiale ai peperoni, Trippa alla parmigiana, Stracotto di manzo, 5 stelle, fermo
 editor: markdown
 dateCreated: 2021-08-29T16:15:50.982Z
 ---

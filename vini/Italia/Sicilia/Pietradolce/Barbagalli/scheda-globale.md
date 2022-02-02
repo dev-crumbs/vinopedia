@@ -3,7 +3,7 @@ title: Barbagalli – Etna Rosso DOC – Pietradolce – Sicilia (IT) – 100-12
 description: Nerello Mascalese 100% | Falsomagro siciliano – Filetto di fassona in crosta – Salsiccia condita e cavolicelli – Stinco al forno – Tuma persa – Filetto di Kobe
 published: true
 date: 2021-10-01T20:14:41.144Z
-tags: 100-124€, vino, italia, rosso, sicilia, varietale, nerello mascalese, fermo, 5 stelle, falsomagro siciliano, filetto di fassona in crosta, salsiccia condita e cavolicelli, stinco al forno, tuma persa, Filetto di Kobe
+tags: Prezzi: 100-124€, vino, italia, rosso, sicilia, varietale, nerello mascalese, fermo, 5 stelle, falsomagro siciliano, filetto di fassona in crosta, salsiccia condita e cavolicelli, stinco al forno, tuma persa, Filetto di Kobe
 editor: markdown
 dateCreated: 2021-09-02T14:34:48.363Z
 ---

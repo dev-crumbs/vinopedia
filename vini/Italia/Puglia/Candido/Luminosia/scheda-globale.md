@@ -3,7 +3,7 @@ title: Luminosia – Salento IGT – Candido – Puglia (IT) – 10-14€ – 1�
 description: Chardonnay 100% | Darna di ombrina agli agrumi – Tartare di tonno –
 published: true
 date: 2021-10-01T20:13:51.118Z
-tags: vino, bianco, italia, puglia, varietale, chardonnay, 5 stelle, 10-14€, darna di ombrina agli agrumi, tartare di tonno
+tags: vino, bianco, italia, puglia, varietale, chardonnay, 5 stelle, Prezzi: 10-14€, darna di ombrina agli agrumi, tartare di tonno
 editor: markdown
 dateCreated: 2021-09-28T20:44:23.406Z
 ---

@@ -3,7 +3,7 @@ title: Lagrein Abtei Muri Riserva – Alto Adige DOC – Cantina Convento Muri G
 description: Lagrein 100% | Filetto di manzo in crosta – Medaglioni di vitello al Dragoncello
 published: true
 date: 2021-10-01T20:10:56.801Z
-tags: vino, italia, varietale, lagrein, rosso, fermo, 5 stelle, alto-adige, 25-29€, Filetto di manzo in crosta, Medaglioni di vitello al Dragoncello
+tags: vino, italia, varietale, lagrein, rosso, fermo, 5 stelle, alto-adige, Prezzi: 25-29€, Filetto di manzo in crosta, Medaglioni di vitello al Dragoncello
 editor: markdown
 dateCreated: 2021-09-30T08:13:14.399Z
 ---
