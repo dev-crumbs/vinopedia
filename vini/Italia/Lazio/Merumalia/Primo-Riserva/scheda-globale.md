@@ -1,9 +1,9 @@
 ---
 title: Primo Riserva – Frascati Superiore Riserva DOCG – Merumalia – Lazio (IT) – 15-19€ – 3★-5★
-description: Malvasia puntinata 70% + Greco 20% + Bombino bianco 10% | Cernia in salsa di pistacchi – Spaghetti tonno e bottarga – Tartare di ricciola con stracciatella di bufala – Salmone arrosto con asparagi e salsa olandese – Linguine asparagi e gamberi – Tartare di tonno
+description: Malvasia puntinata 70% + Greco 20% + Bombino bianco 10% | Cernia in salsa di pistacchi – Spaghetti tonno e bottarga – Tartare di ricciola con stracciatella di bufala – Salmone arrosto con asparagi e salsa olandese – Linguine asparagi e gamberi
 published: true
-date: 2021-10-01T20:12:23.181Z
-tags: vino, bianco, italia, blend, lazio, malvasia puntinata, greco, bombino bianco, cernia in salsa di pistacchi, spaghetti tonno e bottarga, tartare di ricciola con stracciatella di bufala, salmone arrosto con asparagi e salsa olandese, linguine con asparagi e gamberi in salsa di cannellini, fermo, Valutazioni | 5 stelle, Tartare di tonno, Prezzi | 15-19€
+date: 2022-02-02T19:44:52.096Z
+tags: vino, bianco, italia, blend, lazio, malvasia puntinata, greco, bombino bianco, cernia in salsa di pistacchi, spaghetti tonno e bottarga, tartare di ricciola con stracciatella di bufala, salmone arrosto con asparagi e salsa olandese, linguine con asparagi e gamberi in salsa di cannellini, fermo, valutazioni | 5 stelle, prezzi | 15-19€
 editor: markdown
 dateCreated: 2021-08-25T13:28:17.509Z
 ---
@@ -29,13 +29,13 @@ dateCreated: 2021-08-25T13:28:17.509Z
 - tartare di ricciola con stracciatella di bufala
 - salmone arrosto con asparagi e salsa olandese 
 - linguine con asparagi e gamberi in salsa di cannellini
-- Tartare di tonno
 
 ## Annate
-- Primo Riserva [2015](/vini/Italia/Lazio/Merumalia/Primo-riserva/2015) -- <span class="star-4"></span> -- 89/100
-- Primo Riserva [2016](/vini/Italia/Lazio/Merumalia/Primo-riserva/2016) -- <span class="star-3"></span> -- 88/100
-- Primo Riserva [2017](/vini/Italia/Lazio/Merumalia/Primo-riserva/2017) -- <span class="star-4"></span> -- 90/100
-- Primo Riserva [2018](/vini/Italia/Lazio/Merumalia/Primo-riserva/2018) -- <span class="star-5"></span> -- 91/100
-- Primo Riserva [2019](/vini/Italia/Lazio/Merumalia/Primo-riserva/2019) -- <span class="star-5"></span> -- 91/100
-- Primo Riserva [2020](/vini/Italia/Lazio/Merumalia/Primo-riserva/2020) -- <span class="star-5"></span> -- 92/100
+- Primo Riserva [2015](/vini/Italia/Lazio/Merumalia/Primo-riserva/2015) -- <span class="star-4"></span>
+- Primo Riserva [2016](/vini/Italia/Lazio/Merumalia/Primo-riserva/2016) -- <span class="star-3"></span>
+- Primo Riserva [2017](/vini/Italia/Lazio/Merumalia/Primo-riserva/2017) -- <span class="star-4"></span>
+- Primo Riserva [2018](/vini/Italia/Lazio/Merumalia/Primo-riserva/2018) -- <span class="star-5"></span>
+- Primo Riserva [2019](/vini/Italia/Lazio/Merumalia/Primo-riserva/2019) -- <span class="star-5"></span>
+
+test
 
