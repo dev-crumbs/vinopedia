@@ -1,5 +1,5 @@
 ---
-title: Alauda – Toscana IGT – Ruffino – Toscana (IT) – 95-99€ – 5★
+title: Alauda – Toscana IGT – Ruffino – Toscana (IT) – 95-99€ – 3★-5★
 description: 47% Cabernet Franc + 43% Merlot + 10% Colorino | Piccione in Salmì – Fegato alla veneziana – Quaglie lardellate al forno – Tordi al tegame
 published: true
 date: 2021-10-01T20:00:55.251Z
@@ -36,3 +36,4 @@ dateCreated: 2021-09-18T16:45:15.826Z
 - Alauda [2013](vini/Italia/Toscana/Ruffino/Alauda/2013) -- <span class="star-4"></span> -- 90/100
 - Alauda [2015](vini/Italia/Toscana/Ruffino/Alauda/2015) -- <span class="star-4"></span> -- 90/100
 - Alauda [2016](vini/Italia/Toscana/Ruffino/Alauda/2016) -- <span class="star-5"></span> -- 93/100 
+- Alauda [2017](vini/Italia/Toscana/Ruffino/Alauda/2017) -- <span class="star-3"></span> -- 88/100

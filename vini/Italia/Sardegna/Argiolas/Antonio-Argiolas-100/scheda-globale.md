@@ -1,9 +1,9 @@
 ---
 title: Antonio Argiolas 100 – Isola dei Nuraghi IGT – Argiolas – Sardegna (IT) – 25-29€ – 4★-5★
-description: Cannonau 100% | Charlotte al cioccolato – Bavarese al cioccolato – Crostata di lamponi
+description: Cannonau 100% | Charlotte al cioccolato – Bavarese al cioccolato – Crostata di lamponi – Torta della foresta nera
 published: true
 date: 2021-11-22T15:52:53.928Z
-tags: 25-29€, vino, italia, rosso, varietale, sardegna, 5 stelle, malvasia nera, passito, cannonau, charlotte al cioccolato, bavarese al cioccolato, crostata di lamponi
+tags: 25-29€, vino, italia, rosso, varietale, sardegna, 5 stelle, malvasia nera, passito, cannonau, charlotte al cioccolato, bavarese al cioccolato, crostata di lamponi, Torta della foresta nera
 editor: markdown
 dateCreated: 2021-09-07T14:15:08.703Z
 ---
@@ -29,10 +29,10 @@ dateCreated: 2021-09-07T14:15:08.703Z
 - charlotte al cioccolato
 - bavarese al cioccolato
 - crostata di lamponi
+- Torta della foresta nera
 
 ## Annate
 - Antonio Argiolas 100 [2012](vini/Italia/Sardegna/Argiolas/Antonio-Argiolas-100/2012) -- <span class="star-5"></span> -- 94/100
 - Antonio Argiolas 100 [2013](vini/Italia/Sardegna/Argiolas/Antonio-Argiolas-100/2013) -- <span class="star-4"></span> -- 90/100
 - Antonio Argiolas 100 [2016](vini/Italia/Sardegna/Argiolas/Antonio-Argiolas-100/2016) -- <span class="star-5"></span> -- 93/100
-
-
+- Antonio Argiolas 100 [2017](vini/Italia/Sardegna/Argiolas/Antonio-Argiolas-100/2017) -- <span class="star-5"></span> -- 96/100

@@ -37,6 +37,7 @@ dateCreated: 2021-09-18T16:29:55.153Z
 - Bolgheri Rosso [2016](vini/Italia/Toscana/Le-Macchiole/Bolgheri-Rosso/2016) -- <span class="star-3"></span> -- 87/100 
 - Bolgheri Rosso [2017](vini/Italia/Toscana/Le-Macchiole/Bolgheri-Rosso/2017) -- <span class="star-3"></span> -- 87/100
 - Bolgheri Rosso [2018](vini/Italia/Toscana/Le-Macchiole/Bolgheri-Rosso/2018) -- <span class="star-3"></span> -- 88/100
+- Bolgheri Rosso [2019](vini/Italia/Toscana/Le-Macchiole/Bolgheri-Rosso/2019) -- <span class="star-3"></span> -- 87/100
 
 [^1]: % variabili a seconda dell'annata
 

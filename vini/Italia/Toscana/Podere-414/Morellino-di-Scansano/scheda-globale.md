@@ -1,9 +1,9 @@
 ---
 title: Morellino di Scansano – Morellino di Scansano DOCG – Podere 414 – Toscana (IT) – 15-19€ – 2★-5★
-description: Sangiovese 85% + Altri 15% | Fiorentina alla brace – Cinghiale alla maremmana – Agnello a scottadito – Cinghiale alle erbe – Pecorino stagionato
+description: Sangiovese 85% + Altri 15% | Fiorentina alla brace – Cinghiale alla maremmana – Agnello a scottadito – Cinghiale alle erbe – Pecorino stagionato – Stridoli al ragù
 published: true
 date: 2021-10-04T06:51:28.811Z
-tags: vino, italia, rosso, blend, toscana, sangiovese, fermo, 5 stelle, syrah, fiorentina alla brace, colorino, 15-19€, ciliegiolo, alicante, cinghiale alla maremmana, agnello a scottadito, cinghiale alle erbe, pecorino stagionato
+tags: vino, italia, rosso, blend, toscana, sangiovese, fermo, 5 stelle, syrah, fiorentina alla brace, colorino, 15-19€, ciliegiolo, alicante, cinghiale alla maremmana, agnello a scottadito, cinghiale alle erbe, pecorino stagionato, Stridoli al ragù
 editor: markdown
 dateCreated: 2021-10-04T06:51:26.317Z
 ---
@@ -32,6 +32,7 @@ dateCreated: 2021-10-04T06:51:26.317Z
 - Agnello a scottadito
 - Cinghiale alle erbe
 - Pecorino stagionato sulle vinacce
+- Stridoli al ragù
 
 ## Annate
 - Morellino di Scansano [2014](vini/Italia/Toscana/Podere-414/Morellino-di-Scansano/2014) -- <span class="star-2"></span> -- 83/100
@@ -39,4 +40,5 @@ dateCreated: 2021-10-04T06:51:26.317Z
 - Morellino di Scansano [2016](vini/Italia/Toscana/Podere-414/Morellino-di-Scansano/2016) -- <span class="star-4"></span> -- 90/100
 - Morellino di Scansano [2017](vini/Italia/Toscana/Podere-414/Morellino-di-Scansano/2017) -- <span class="star-5"></span> -- 92/100
 - Morellino di Scansano [2018](vini/Italia/Toscana/Podere-414/Morellino-di-Scansano/2018) -- <span class="star-5"></span> -- 92/100
+- Morellino di Scansano [2019](vini/Italia/Toscana/Podere-414/Morellino-di-Scansano/2019) -- <span class="star-5"></span> -- 92/100
 

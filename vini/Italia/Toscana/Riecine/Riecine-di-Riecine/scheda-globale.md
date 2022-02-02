@@ -36,3 +36,4 @@ dateCreated: 2021-09-02T14:34:55.182Z
 - Riecine di Riecine [2014](vini/Italia/Toscana/Riecine/Riecine-di-Riecine/2014) -- <span class="star-5"></span> -- 95/100
 - Riecine di Riecine [2015](vini/Italia/Toscana/Riecine/Riecine-di-Riecine/2015) -- <span class="star-4"></span> -- 90/100
 - Riecine di Riecine [2016](vini/Italia/Toscana/Riecine/Riecine-di-Riecine/2016) -- <span class="star-4"></span> -- 90/100
+- Riecine di Riecine [2017](vini/Italia/Toscana/Riecine/Riecine-di-Riecine/2017) -- <span class="star-3"></span> -- 86/100

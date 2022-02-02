@@ -1,9 +1,9 @@
 ---
 title: Donna Franca – Marsala Superiore Riserva Semisecco Ambra DOC – Florio – Sicilia (IT) – 35-39€ – 4★-5★
-description: Grillo 100% | Quiche con pere e roquefort – Sigaro toscano – Sigaro partagas – Mandorle atterrate al cioccolato fondente
+description: Grillo 100% | Quiche con pere e roquefort – Sigaro toscano – Sigaro partagas – Mandorle atterrate al cioccolato fondente – Formaggi erborinati
 published: true
 date: 2021-10-01T20:14:35.925Z
-tags: 35-39€, vino, bianco, italia, sicilia, varietale, 5 stelle, liquoroso, grillo, quiche con pere e roquefort, sigaro toscano, sigaro partagas, mandorle atterrate al cioccolato fondente
+tags: 35-39€, vino, bianco, italia, sicilia, varietale, 5 stelle, liquoroso, grillo, quiche con pere e roquefort, sigaro toscano, sigaro partagas, mandorle atterrate al cioccolato fondente, Formaggi erborinati
 editor: markdown
 dateCreated: 2021-09-08T07:39:57.694Z
 ---
@@ -31,6 +31,7 @@ dateCreated: 2021-09-08T07:39:57.694Z
 - lepre con castagne e mirtilli
 - stracotto di manzo al ginepro
 - polpettone alla siciliana
+- Formaggi erborinati
 
 ## Annate
 > Il vino Donna Franca non è millesimato, le "annate" indicano esclusivamente gli anni in cui il vino è stato degustato.
@@ -41,3 +42,4 @@ dateCreated: 2021-09-08T07:39:57.694Z
 - Donna Franca [2019](vini/Italia/Sicilia/Florio/Donna-Franca/2019) -- <span class="star-5"></span> -- 94/100
 - Donna Franca [2020](vini/Italia/Sicilia/Florio/Donna-Franca/2020) -- <span class="star-5"></span> -- 94/100
 - Donna Franca [2021](vini/Italia/Sicilia/Florio/Donna-Franca/2021) -- <span class="star-5"></span> -- 93/100
+- Donna Franca [2022](vini/Italia/Sicilia/Florio/Donna-Franca/2022) -- <span class="star-5"></span> -- 93/100

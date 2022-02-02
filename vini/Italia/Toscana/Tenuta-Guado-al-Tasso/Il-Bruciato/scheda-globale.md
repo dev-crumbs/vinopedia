@@ -38,5 +38,6 @@ dateCreated: 2021-09-18T16:29:55.153Z
 - Il Bruciato [2016](vini/Italia/Toscana/Tenuta-Guado-al-Tasso/Il-Bruciato/2016) -- <span class="star-3"></span> -- 87/100 
 - Il Bruciato [2017](vini/Italia/Toscana/Tenuta-Guado-al-Tasso/Il-Bruciato/2017) -- <span class="star-2"></span> -- 84/100
 - Il Bruciato [2018](vini/Italia/Toscana/Tenuta-Guado-al-Tasso/Il-Bruciato/2018) -- <span class="star-3"></span> -- 86/100
+- Il Bruciato [2019](vini/Italia/Toscana/Tenuta-Guado-al-Tasso/Il-Bruciato/2019) -- <span class="star-2"></span> -- 82/100
 
 [^1]: % variabili a seconda dell'annata

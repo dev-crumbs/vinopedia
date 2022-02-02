@@ -31,9 +31,10 @@ dateCreated: 2021-08-31T15:46:49.712Z
 - ravioli ricotta e maggiorana con sugo di maiale
 
 ## Annate
-- Nerobufaleffj [2011](vini/Italia/Sicilia/Gulfi/Nerobufaleffj/2011) -- <span class="star-5"></span>
-- Nerobufaleffj [2012](vini/Italia/Sicilia/Gulfi/Nerobufaleffj/2012) -- <span class="star-3"></span>
-- Nerobufaleffj [2013](vini/Italia/Sicilia/Gulfi/Nerobufaleffj/2013) -- <span class="star-3"></span>
-- Nerobufaleffj [2016](vini/Italia/Sicilia/Gulfi/Nerobufaleffj/2016) -- <span class="star-5"></span>
-- Nerobufaleffj [2017](vini/Italia/Sicilia/Gulfi/Nerobufaleffj/2017) -- <span class="star-5"></span>
+- Nerobufaleffj [2011](vini/Italia/Sicilia/Gulfi/Nerobufaleffj/2011) -- <span class="star-5"></span> -- 91/100
+- Nerobufaleffj [2012](vini/Italia/Sicilia/Gulfi/Nerobufaleffj/2012) -- <span class="star-3"></span> -- 86/100
+- Nerobufaleffj [2013](vini/Italia/Sicilia/Gulfi/Nerobufaleffj/2013) -- <span class="star-3"></span> -- 87/100
+- Nerobufaleffj [2014](vini/Italia/Sicilia/Gulfi/Nerobufaleffj/2014) -- <span class="star-3"></span> -- 88/100
+- Nerobufaleffj [2016](vini/Italia/Sicilia/Gulfi/Nerobufaleffj/2016) -- <span class="star-5"></span> -- 94/100
+- Nerobufaleffj [2017](vini/Italia/Sicilia/Gulfi/Nerobufaleffj/2017) -- <span class="star-5"></span> -- 93/100
 

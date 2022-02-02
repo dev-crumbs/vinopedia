@@ -1,9 +1,9 @@
 ---
-title: Tenuta Greppo Riserva – Brunello di Montalcino DOCG – Biondi Santi – Toscana (IT) – >450€ – 5★
-description: Sangiovese 100% | Pernice ai porcini speck e castagne – Terrina di beccaccia – Filetto di kobe al tartufo bianco
+title: Tenuta Greppo Riserva – Brunello di Montalcino DOCG – Biondi Santi – Toscana (IT) – 450-*€ – 5★
+description: Sangiovese 100% | Pernice ai porcini speck e castagne – Terrina di beccaccia – Filetto di kobe al tartufo bianco – Petto di germano con salsa mandarino e caffè
 published: true
 date: 2021-10-01T20:00:52.685Z
-tags: >450€, vino, italia, rosso, toscana, varietale, sangiovese, pernice ai porcini speck e castagne, terrina di beccaccia, filetto di kobe al tartufo bianco, fermo, 5 stelle
+tags: 450-*€, vino, italia, rosso, toscana, varietale, sangiovese, pernice ai porcini speck e castagne, terrina di beccaccia, filetto di kobe al tartufo bianco, fermo, 5 stelle, Petto di germano con salsa mandarino e caffè
 editor: markdown
 dateCreated: 2021-08-27T17:49:50.429Z
 ---
@@ -21,12 +21,6 @@ dateCreated: 2021-08-27T17:49:50.429Z
 - **Fascia di prezzo:** > 450 € 
 {.grid-list}
 
-## Descrizione del produttore
-
-> Prodotto per la prima volta nel 1888, la Riserva Biondi-Santi è il primo Brunello della storia e ancora oggi a Tenuta Greppo, la storica sede di Biondi-Santi, l’annuncio di una nuova Riserva è un evento eccezionale. E’ un vino raro e speciale. Rinomata per la sua straordinaria longevità, è stata prodotta soltanto 40 volte dal 1888 ad oggi e la sua produzione è estremamente limitata. Tradizionalmente, le uve per la Riserva provengono dai vigneti più vecchi con oltre 25 anni d’età. Al centro dell’antica cantina di Tenuta Greppo giace una stanza gelosamente custodita al riparo dalla luce e dai rumori del mondo, dedicato interamente alla Riserva.
-È "La Storica", la cantina dove Biondi-Santi conserva le bottiglie di ogni annata di Riserva mai prodotta.
-"La Storica" è un luogo intimo dove le bottiglie riposano nude all’interno di piccole nicchie, ognuna dedicata ad un’annata. Nude, abbigliate solo con una goccia di cera d’api sopra il tappo di sughero per garantirne l’integrità e la tenuta nel tempo.
-
 
 ## Possibili abbinamenti
 *Vedere le singole annate per abbinamenti specifici*
@@ -34,8 +28,10 @@ dateCreated: 2021-08-27T17:49:50.429Z
 - pernice ai porcini speck e castagne
 - terrina di beccaccia
 - filetto di kobe al tartufo bianco
+- Petto di germano con salsa mandarino e caffè
 
 ## Annate
-- Brunello di Montalcino Tenuta Greppo Riserva [2010](vini/Italia/Toscana/Biondi-Santi/Tenuta-Greppo-Riserva/2010) -- <span class="star-5"></span>
-- Brunello di Montalcino Tenuta Greppo Riserva [2011](vini/Italia/Toscana/Biondi-Santi/Tenuta-Greppo-Riserva/2011) -- <span class="star-5"></span>
-- Brunello di Montalcino Tenuta Greppo Riserva [2012](vini/Italia/Toscana/Biondi-Santi/Tenuta-Greppo-Riserva/2012) -- <span class="star-5"></span>
+- Brunello di Montalcino Tenuta Greppo Riserva [2010](vini/Italia/Toscana/Biondi-Santi/Tenuta-Greppo-Riserva/2010) -- <span class="star-5"></span> -- 96/100
+- Brunello di Montalcino Tenuta Greppo Riserva [2011](vini/Italia/Toscana/Biondi-Santi/Tenuta-Greppo-Riserva/2011) -- <span class="star-5"></span> -- 95/100
+- Brunello di Montalcino Tenuta Greppo Riserva [2012](vini/Italia/Toscana/Biondi-Santi/Tenuta-Greppo-Riserva/2012) -- <span class="star-5"></span> -- 96/100
+- Brunello di Montalcino Tenuta Greppo Riserva [2013](vini/Italia/Toscana/Biondi-Santi/Tenuta-Greppo-Riserva/2013) -- <span class="star-5"></span> -- 97/100

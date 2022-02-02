@@ -1,9 +1,9 @@
 ---
 title: L'Apparita – Toscana IGT – Castello di Ama – Toscana (IT) – 150-174€ – 4★-5★
-description: Merlot 100% | Pernice in salmì – Sella di cervo ai mirtilli – Petto d'anatra al tartufo nero – Anatra laccata alla pechinese
+description: Merlot 100% | Pernice in salmì – Sella di cervo ai mirtilli – Petto d'anatra al tartufo nero – Anatra laccata alla pechinese – Petto d'anatra al forno
 published: true
 date: 2021-10-01T20:14:46.700Z
-tags: vino, italia, rosso, toscana, varietale, fermo, 5 stelle, merlot, pernice in salmì, sella di cervo ai mirtilli, petto d'anatra al tartufo nero, anatra laccata alla pechinese, 150-174€
+tags: vino, italia, rosso, toscana, varietale, fermo, 5 stelle, merlot, pernice in salmì, sella di cervo ai mirtilli, petto d'anatra al tartufo nero, anatra laccata alla pechinese, Petto d'anatra al forno, 150-174€
 editor: markdown
 dateCreated: 2021-09-03T21:03:57.435Z
 ---
@@ -30,7 +30,8 @@ dateCreated: 2021-09-03T21:03:57.435Z
 - pernice in salmì
 - sella di cervo ai mirtilli
 - petto d'anatra al tartufo nero
-- anatra laccata alla pechinese,
+- anatra laccata alla pechinese
+- Petto d'anatra al forno
 
 ## Annate
 - L'Apparita [2013](vini/Italia/Toscana/Castello-di-Ama/L-Apparita/2013) -- <span class="star-5"></span> -- 94/100
@@ -38,3 +39,4 @@ dateCreated: 2021-09-03T21:03:57.435Z
 - L'Apparita [2015](vini/Italia/Toscana/Castello-di-Ama/L-Apparita/2015) -- <span class="star-4"></span> -- 90/100
 - L'Apparita [2016](vini/Italia/Toscana/Castello-di-Ama/L-Apparita/2016) -- <span class="star-4"></span> -- 90/100
 - L'Apparita [2017](vini/Italia/Toscana/Castello-di-Ama/L-Apparita/2017) -- <span class="star-5"></span> -- 94/100
+- L'Apparita [2018](vini/Italia/Toscana/Castello-di-Ama/L-Apparita/2018) -- <span class="star-5"></span> -- 97/100

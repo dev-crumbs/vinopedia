@@ -1,9 +1,9 @@
 ---
 title: Il Poggio – Chianti Classico Gran Selezione Riserva DOCG – Castello Monsanto – Toscana (IT) – 55-59€ – 4★-5★
-description: Sangiovese 90% + Canaiolo 5% + Colorino 5% | bistecchine di cinghiale alla griglia – Matuffi al ragù di cinghiale – Fiorentina alla brace – arista con prugne – Tagliata al tartufo
+description: Sangiovese 90% + Canaiolo 5% + Colorino 5% | bistecchine di cinghiale alla griglia – Matuffi al ragù di cinghiale – Fiorentina alla brace – arista con prugne – Tagliata al tartufo – Filetto alla brace
 published: true
 date: 2021-10-04T06:51:26.278Z
-tags: vino, italia, rosso, blend, toscana, sangiovese, fermo, 5 stelle, fiorentina alla brace, canaiolo, colorino, bistecchine di cinghiale alla griglia, matuffi al ragù di cinghiale, arista con prugne, tagliata al tartufo, 55-59€
+tags: vino, italia, rosso, blend, toscana, sangiovese, fermo, 5 stelle, fiorentina alla brace, canaiolo, colorino, bistecchine di cinghiale alla griglia, matuffi al ragù di cinghiale, arista con prugne, tagliata al tartufo, Filetto alla brace, 55-59€
 editor: markdown
 dateCreated: 2021-09-07T15:36:11.646Z
 ---
@@ -32,6 +32,7 @@ dateCreated: 2021-09-07T15:36:11.646Z
 - fiorentina alla brace 
 - arista con prugne 
 - tagliata al tartufo
+- Filetto alla brace
 
 ## Annate
 - Il Poggio [2011](vini/Italia/Toscana/Castello-Monsanto/Il-Poggio/2011) -- <span class="star-5"></span> -- 95/100
@@ -39,5 +40,6 @@ dateCreated: 2021-09-07T15:36:11.646Z
 - Il Poggio [2013](vini/Italia/Toscana/Castello-Monsanto/Il-Poggio/2013) -- <span class="star-5"></span> -- 94/100
 - Il Poggio [2014](vini/Italia/Toscana/Castello-Monsanto/Il-Poggio/2014) -- <span class="star-4"></span> -- 90/100
 - Il Poggio [2015](vini/Italia/Toscana/Castello-Monsanto/Il-Poggio/2015) -- <span class="star-5"></span> -- 93/100
+- Il Poggio [2016](vini/Italia/Toscana/Castello-Monsanto/Il-Poggio/2016) -- <span class="star-5"></span> -- 94/100
 
 [^1]: Fino all'annata 2012 la composizione era 95% Sangiovese + 5% Canaiolo + 5% Colorino

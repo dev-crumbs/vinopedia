@@ -1,9 +1,9 @@
 ---
 title: Terre Brune – Carignano del Sulcis Superiore DOC – Cantina Santadi – Sardegna (IT) – 55-59€ – 4★-5★
-description: Carignano 95% - Bovale 5% | Cinghiale in dolceforte – agnello allo zafferano – Confit di anatra – Manzo alla borgognona – Filetto di cervo ai frutti di bosco
+description: Carignano 95% - Bovale 5% | Cinghiale in dolceforte – agnello allo zafferano – Confit di anatra – Manzo alla borgognona – Filetto di cervo ai frutti di bosco – Cinghiale in umido
 published: true
 date: 2021-10-01T20:14:25.334Z
-tags: 55-59€, vino, italia, rosso, blend, sardegna, fermo, 5 stelle, carignano, bovale, cinghiale in dolceforte, agnello allo zafferano, confit di anatra, manzo alla borgognona, filetto di cervo ai frutti di bosco
+tags: 55-59€, vino, italia, rosso, blend, sardegna, fermo, 5 stelle, carignano, bovale, cinghiale in dolceforte, agnello allo zafferano, confit di anatra, manzo alla borgognona, filetto di cervo ai frutti di bosco, Cinghiale in umido
 editor: markdown
 dateCreated: 2021-09-02T14:34:35.864Z
 ---
@@ -31,6 +31,7 @@ dateCreated: 2021-09-02T14:34:35.864Z
 - confit di anatra
 - manzo alla borgognona
 - filetto di cervo ai frutti di bosco
+- Cinghiale in umido
 
 ## Annate
 - Terre Brune [2012](vini/Italia/Sardegna/Cantina-Santadi/Terre-Brune/2012) -- <span class="star-4"></span> -- 90/100
@@ -38,5 +39,6 @@ dateCreated: 2021-09-02T14:34:35.864Z
 - Terre Brune [2014](vini/Italia/Sardegna/Cantina-Santadi/Terre-Brune/2014) -- <span class="star-5"></span> -- 95/100
 - Terre Brune [2015](vini/Italia/Sardegna/Cantina-Santadi/Terre-Brune/2015) -- <span class="star-5"></span> -- 93/100
 - Terre Brune [2016](vini/Italia/Sardegna/Cantina-Santadi/Terre-Brune/2016) -- <span class="star-5"></span> -- 93/100
+- Terre Brune [2017](vini/Italia/Sardegna/Cantina-Santadi/Terre-Brune/2017) -- <span class="star-5"></span> -- 95/100
 
 

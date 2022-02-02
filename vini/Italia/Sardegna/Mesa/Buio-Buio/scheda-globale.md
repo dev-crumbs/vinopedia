@@ -33,4 +33,4 @@ dateCreated: 2021-09-02T14:34:35.864Z
 - Buio Buio [2015](vini/Italia/Sardegna/Mesa/Buio-Buio/2015) -- <span class="star-4"></span> -- 90/100
 - Buio Buio [2016](vini/Italia/Sardegna/Mesa/Buio-Buio/2016) -- <span class="star-3"></span> -- 87/100
 - Buio Buio [2017](vini/Italia/Sardegna/Mesa/Buio-Buio/2017) -- <span class="star-4"></span> -- 90/100
-
+- Buio Buio [2018](vini/Italia/Sardegna/Mesa/Buio-Buio/2018) -- <span class="star-3"></span> -- 88/100
