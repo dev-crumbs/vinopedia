@@ -3,7 +3,7 @@ title: Ribolla Gialla – Venezia Giulia IGT – Podversic – Friuli Venezia Gi
 description: Ribolla Gialla 100% | Sella di lepre in agrodolce – Tagliata di tonno spezie e senape – Zuppa di porcini e tartufo bianco – Tartare di tonno
 published: true
 date: 2021-10-01T20:12:02.005Z
-tags: vino, bianco, italia, varietale, fermo, 5 stelle, Ribolla Gialla, Sella di lepre in agrodolce, Tagliata di tonno spezie e senape, Zuppa di porcini e tartufo bianco, friuli venezia giulia, Tartare di tonno, 35-39€
+tags: vino, bianco, italia, varietale, fermo, Valutazioni | 5 stelle, Ribolla Gialla, Sella di lepre in agrodolce, Tagliata di tonno spezie e senape, Zuppa di porcini e tartufo bianco, friuli venezia giulia, Tartare di tonno, Prezzi | 35-39€
 editor: markdown
 dateCreated: 2021-08-31T15:46:10.180Z
 ---

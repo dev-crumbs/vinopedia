@@ -3,7 +3,7 @@ title: Paleo Rosso – Toscana IGT – Le Macchiole – Toscana (IT) – 90-94�
 description: 100% Cabernet franc | Fagianella arrosto al tartufo – Coda alla vaccinara – Filetto all'aceto balsamico – Caciucco di pollo – Brasato alla bolgherese – Filetto di cervo
 published: true
 date: 2021-10-01T20:14:49.356Z
-tags: vino, italia, rosso, varietale, toscana, fermo, 5 stelle, cabernet franc, Fagianella arrosto al tartufo, Coda alla vaccinara, Filetto all'aceto balsamico, Caciucco di pollo, Brasato alla bolgherese, 90-94€
+tags: vino, italia, rosso, varietale, toscana, fermo, Valutazioni | 5 stelle, cabernet franc, Fagianella arrosto al tartufo, Coda alla vaccinara, Filetto all'aceto balsamico, Caciucco di pollo, Brasato alla bolgherese, Prezzi | 90-94€
 editor: markdown
 dateCreated: 2021-09-18T16:29:55.153Z
 ---

@@ -3,7 +3,7 @@ title: Lambrusco di Sorbara Radice – Lambrusco di Sorbara DOC – Gianfranco P
 description: Lambrusco di Sorbara 100% | Lambrusco di sorbara – Maltagliati di farina di castagne – Gamberi lardellati – Catalana di crostacei
 published: true
 date: 2021-10-01T20:11:43.311Z
-tags: vino, italia, emilia, varietale, spumante, rosato, metodo ancestrale, lambrusco di sorbara, maltagliati di farina di castagne, gamberi lardellati, catalana di crostacei, 5 stelle, 10-14€
+tags: vino, italia, emilia, varietale, spumante, rosato, metodo ancestrale, lambrusco di sorbara, maltagliati di farina di castagne, gamberi lardellati, catalana di crostacei, Valutazioni | 5 stelle, Prezzi | 10-14€
 editor: markdown
 dateCreated: 2021-08-25T13:27:56.103Z
 ---

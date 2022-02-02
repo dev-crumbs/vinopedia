@@ -3,7 +3,7 @@ title: Mason di Mason – Alto Adige DOC – Manincor – Alto-Adige (IT) – 55
 description: 100% Pinot Nero | Faraona lardellata con patate – Filetto all'aceto balsamico tradizionale
 published: true
 date: 2021-10-01T19:55:26.461Z
-tags: vino, rosso, italia, varietale, fermo, 5 stelle, alto-adige, Faraona lardellata con patate, Filetto all'aceto balsamico tradizionale, 55-59€
+tags: vino, rosso, italia, varietale, fermo, Valutazioni | 5 stelle, alto-adige, Faraona lardellata con patate, Filetto all'aceto balsamico tradizionale, Prezzi | 55-59€
 editor: markdown
 dateCreated: 2021-09-02T14:32:47.834Z
 ---

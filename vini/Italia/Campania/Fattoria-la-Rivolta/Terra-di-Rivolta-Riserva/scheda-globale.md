@@ -3,7 +3,7 @@ title: Terra di Rivolta Riserva – Aglianico del Taburno DOCG – Fattoria la R
 description: Aglianico 100% | Stinco di maiale al forno – Braciola di guancia di vitello – Quaglie al forno ripiene – Pappardelle al ragù
 published: true
 date: 2021-10-01T19:56:25.138Z
-tags: vino, rosso, aglianico, varietale, fermo, 5 stelle, 30-34€, Pappardelle al ragù, Stinco di maiale al forno, Braciola di guancia di vitello, Quaglie al forno ripiene
+tags: vino, rosso, aglianico, varietale, fermo, Valutazioni | 5 stelle, Prezzi | 30-34€, Pappardelle al ragù, Stinco di maiale al forno, Braciola di guancia di vitello, Quaglie al forno ripiene
 editor: markdown
 dateCreated: 2021-08-22T21:27:45.497Z
 ---

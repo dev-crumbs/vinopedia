@@ -3,7 +3,7 @@ title: Amarone della Valpolicella Classico – Amarone della Valpolicella Classi
 description: Corvina 60% + Corvinone 20% + Oseleta 3% Rondinella 17% | Brasato di cinghiale con polenta – Tordi in salmì con polenta
 published: true
 date: 2022-01-28T17:14:37.370Z
-tags: vino, italia, rosso, blend, veneto, fermo, 30-34€, corvina, rondinella, corvinone, oseleta, Brasato di cinghiale con polenta, Tordi in salmì con polenta
+tags: vino, italia, rosso, blend, veneto, fermo, Prezzi | 30-34€, corvina, rondinella, corvinone, oseleta, Brasato di cinghiale con polenta, Tordi in salmì con polenta
 editor: markdown
 dateCreated: 2022-01-27T15:21:34.303Z
 ---

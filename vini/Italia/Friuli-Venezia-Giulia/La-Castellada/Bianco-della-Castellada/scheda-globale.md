@@ -3,7 +3,7 @@ title: Bianco della Castellada – Collio DOC – La Castellada – Friuli Venez
 description: Pinot grigio 50% + Chardonnay 30% + Sauvignon blanc 20% | Ravioli con zucca – San Pietro al forno – Tortelli al burro fuso e parmigiano – Ravioli di magro burro e ricotta – Galletto con salsa di scalogno e anice – Zuppa di porcini
 published: true
 date: 2021-10-01T20:11:59.260Z
-tags: vino, bianco, italia, blend, chardonnay, friuli venezia giulia, pinot grigio, fermo, 5 stelle, sauvignon blanc, ravioli con zucca, san pietro al forno, tortelli al burro fuso e parmigiano, ravioli di magro burro e ricotta, galletto con salsa di scalogno e anice, Zuppa di porcini, 25-29€
+tags: vino, bianco, italia, blend, chardonnay, friuli venezia giulia, pinot grigio, fermo, Valutazioni | 5 stelle, sauvignon blanc, ravioli con zucca, san pietro al forno, tortelli al burro fuso e parmigiano, ravioli di magro burro e ricotta, galletto con salsa di scalogno e anice, Zuppa di porcini, Prezzi | 25-29€
 editor: markdown
 dateCreated: 2021-08-29T16:15:14.887Z
 ---

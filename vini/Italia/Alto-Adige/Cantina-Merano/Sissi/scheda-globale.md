@@ -3,7 +3,7 @@ title: Sissi – Alto Adige DOC – Cantina Merano – Alto-Adige (IT) – 30-34
 description: Moscato giallo 85% – Gewurztraminer 15% | Torta alle noci – Strudel di mele – Crepes con albicocca e noci 
 published: true
 date: 2021-10-01T19:55:26.461Z
-tags: vino, bianco, italia, blend, passito, 5 stelle, alto-adige, gewurztraminer, Torta alle noci, Strudel di mele, Crepes con albicocca e noci, 30-34€
+tags: vino, bianco, italia, blend, passito, Valutazioni | 5 stelle, alto-adige, gewurztraminer, Torta alle noci, Strudel di mele, Crepes con albicocca e noci, Prezzi | 30-34€
 editor: markdown
 dateCreated: 2021-09-02T14:32:47.834Z
 ---

@@ -3,7 +3,7 @@ title: 89/90 Pas Dosé – Vino generico – La Piotta – Lombardia (IT) – 20
 description: Pinot nero 100% | Filetto di sarago croccante in salsa di arance
 published: true
 date: 2021-10-01T19:58:04.928Z
-tags: vino, bianco, italia, varietale, spumante, metodo classico, pinot nero, lombardia, 5 stelle, millesimato, pas-dose, 20-24€
+tags: vino, bianco, italia, varietale, spumante, metodo classico, pinot nero, lombardia, Valutazioni | 5 stelle, millesimato, pas-dose, Prezzi | 20-24€
 editor: markdown
 dateCreated: 2021-09-24T12:30:47.391Z
 ---

@@ -3,7 +3,7 @@ title: Marchese di Villamarina Riserva – Alghero DOC – Sella e Mosca – Sar
 description: 100% Cabernet Sauvignon | Beccacce ripiene – Capretto al forno – Anatra arrosto – Faraona al forno ai mirtilli 
 published: true
 date: 2021-10-01T20:00:55.251Z
-tags: 30-34€, vino, italia, rosso, blend, Sardegna, Cabernet Sauvignon, colorino, fermo, 5 stelle, Capretto al forno, merlot, Beccacce ripiene, Anatra arrosto, Faraona al forno ai mirtilli
+tags: Prezzi | 30-34€, vino, italia, rosso, blend, Sardegna, Cabernet Sauvignon, colorino, fermo, Valutazioni | 5 stelle, Capretto al forno, merlot, Beccacce ripiene, Anatra arrosto, Faraona al forno ai mirtilli
 editor: markdown
 dateCreated: 2021-09-18T16:45:15.826Z
 ---

@@ -3,7 +3,7 @@ title: Ben Ryé – Passito di Pantelleria DOC – Donnafugata – Sicilia (IT) 
 description: Zibibbo 100% | Cannolo al cioccolato – Cassatelle di Agira – Cassata siciliana – Torta sbrisolona
 published: true
 date: 2021-10-01T20:14:28.005Z
-tags: vino, italia, bianco, sicilia, varietale, passito, 5 stelle, Zibibbo, 50-54€, Cannolo al cioccolato, Cassatelle di agira, Cassata siciliana, Torta sbrisolona
+tags: vino, italia, bianco, sicilia, varietale, passito, Valutazioni | 5 stelle, Zibibbo, Prezzi | 50-54€, Cannolo al cioccolato, Cassatelle di agira, Cassata siciliana, Torta sbrisolona
 editor: markdown
 dateCreated: 2021-10-01T09:53:17.140Z
 ---

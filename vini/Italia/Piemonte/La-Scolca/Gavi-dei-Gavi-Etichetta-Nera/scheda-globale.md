@@ -3,7 +3,7 @@ title: Gavi dei Gavi Etichetta Nera – Gavi DOCG – La Scolca – Piemonte (IT
 description: Cortese 100% | Aragosta alla catalana – Risotto agli scampi – Risotto ai frutti di mare – Filetto di branzino alle olive taggiasche
 published: true
 date: 2021-10-01T20:13:38.160Z
-tags: vino, bianco, italia, varietale, piemonte, fermo, 5 stelle, aragosta alla catalana, risotto agli scampi, risotto ai frutti di mare, cortese, Filetto di branzino alle olive taggiasche, 25-29€
+tags: vino, bianco, italia, varietale, piemonte, fermo, Valutazioni | 5 stelle, aragosta alla catalana, risotto agli scampi, risotto ai frutti di mare, cortese, Filetto di branzino alle olive taggiasche, Prezzi | 25-29€
 editor: markdown
 dateCreated: 2021-08-31T15:46:25.145Z
 ---

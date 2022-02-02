@@ -3,7 +3,7 @@ title: Mille e Una Notte – Sicilia DOC – Donnafugata – Sicilia (IT) – 55
 description: Nero d'Avola 80% + altre varietà | Cosciotto di agnello glassato – Capretto al forno/arrosto – Lepre in salmì – Stufato di manzo
 published: true
 date: 2021-10-01T20:14:38.561Z
-tags: 55-59€, Cosciotto di agnello glassato, vino, italia, rosso, sicilia, varietale, Capretto al forno/arrosto, fermo, 5 stelle, nero d'avola, Lepre in salmì, Stufato di manzo
+tags: Prezzi | 55-59€, Cosciotto di agnello glassato, vino, italia, rosso, sicilia, varietale, Capretto al forno/arrosto, fermo, Valutazioni | 5 stelle, nero d'avola, Lepre in salmì, Stufato di manzo
 editor: markdown
 dateCreated: 2021-08-31T15:46:49.712Z
 ---

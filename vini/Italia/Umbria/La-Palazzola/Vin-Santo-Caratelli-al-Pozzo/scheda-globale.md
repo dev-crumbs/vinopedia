@@ -3,7 +3,7 @@ title: Vin Santo Caratelli al Pozzo – Amelia DOC – La Palazzola – Umbria (
 description: Trebbiano 65% + Malvasia bianca 35% | Crostata con fichi e ricotta – Meditazione – Blu di capra
 published: true
 date: 2021-10-01T20:01:43.358Z
-tags: vino, bianco, italia, blend, umbria, 5 stelle, passito, trebbiano, malvasia bianca, crostata con fichi e ricotta, meditazione, 35-39€, Blu di capra
+tags: vino, bianco, italia, blend, umbria, Valutazioni | 5 stelle, passito, trebbiano, malvasia bianca, crostata con fichi e ricotta, meditazione, Prezzi | 35-39€, Blu di capra
 editor: markdown
 dateCreated: 2021-08-29T16:16:10.505Z
 ---

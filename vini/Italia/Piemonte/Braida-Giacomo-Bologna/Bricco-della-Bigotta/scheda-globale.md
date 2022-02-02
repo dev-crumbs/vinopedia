@@ -3,7 +3,7 @@ title: Bricco della Bigotta – Barbera d'Asti DOCG – Braida Giacomo Bologna �
 description: Barbera 100% | Costolette di agnello agli aromi – Maialino agli aromi – Arrosto della vena – Cinghiale in salmì – Costine alla brace
 published: true
 date: 2021-10-04T06:51:10.314Z
-tags: vino, italia, rosso, varietale, piemonte, 5 stelle, 50-54€, Barbera, Costolette di agnello agli aromi, Maialino agli aromi, Arrosto della vena, Cinghiale in salmì, Costine alla brace
+tags: vino, italia, rosso, varietale, piemonte, Valutazioni | 5 stelle, Prezzi | 50-54€, Barbera, Costolette di agnello agli aromi, Maialino agli aromi, Arrosto della vena, Cinghiale in salmì, Costine alla brace
 editor: markdown
 dateCreated: 2021-10-04T06:51:07.853Z
 ---

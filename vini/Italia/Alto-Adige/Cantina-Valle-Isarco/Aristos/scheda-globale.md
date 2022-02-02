@@ -3,7 +3,7 @@ title: Aristos – Alto Adige Valle Isarco DOC – Cantina Valle Isarco – Alto
 description: Kerner 100% | Gnocchi di ricotta gratinati e vellutata di ortica – Insalata di pollo – Gnocchi all'aglio orsino – Seppie e fave
 published: true
 date: 2021-10-01T20:10:59.126Z
-tags: vino, bianco, italia, varietale, fermo, 5 stelle, alto-adige, 15-19€, kerner, Gnocchi di ricotta gratinati e vellutata di ortica, Insalata di pollo, Gnocchi all'aglio orsino, Seppie e fave
+tags: vino, bianco, italia, varietale, fermo, Valutazioni | 5 stelle, alto-adige, Prezzi | 15-19€, kerner, Gnocchi di ricotta gratinati e vellutata di ortica, Insalata di pollo, Gnocchi all'aglio orsino, Seppie e fave
 editor: markdown
 dateCreated: 2021-09-30T08:13:18.301Z
 ---

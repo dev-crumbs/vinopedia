@@ -3,7 +3,7 @@ title: San Leonardo – Vigneti delle Dolomiti IGT – Tenuta San Leonardo – T
 description: Cabernet Sauvignon 60% + Carmenère 30% + Merlot 10% | Filetto alle erbe aromatiche – Guancia di vitello a bassa temperatura – Guancia di vitello brasata – Bitto d'alpeggio – Faraona all'arancia
 published: true
 date: 2021-10-01T20:15:02.935Z
-tags: vino, italia, rosso, blend, trentino, fermo, 5 stelle, cabernet sauvignon, merlot, carmenère, filetto alle erbe aromatiche, guancia di vitello a bassa temperatura, guancia di vitello brasata, bitto d'alpeggio, 50-54€, Faraona all'arancia
+tags: vino, italia, rosso, blend, trentino, fermo, Valutazioni | 5 stelle, cabernet sauvignon, merlot, carmenère, filetto alle erbe aromatiche, guancia di vitello a bassa temperatura, guancia di vitello brasata, bitto d'alpeggio, Prezzi | 50-54€, Faraona all'arancia
 editor: markdown
 dateCreated: 2021-09-07T09:47:22.370Z
 ---

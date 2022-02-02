@@ -3,7 +3,7 @@ title: Malvasia – Cagliari DOC – Ferruccio Deiana – Sardegna (IT) – 15-1
 description: Malvasia 100% | Ravioli di mandorle – Fiore sardo maturo
 published: true
 date: 2021-10-01T20:00:29.075Z
-tags: 15-19€, vino, bianco, varietale, sardegna, malvasia di sardegna, ravioli di mandorle, 5 stelle, italia, fermo, Fiore sardo maturo
+tags: Prezzi | 15-19€, vino, bianco, varietale, sardegna, malvasia di sardegna, ravioli di mandorle, Valutazioni | 5 stelle, italia, fermo, Fiore sardo maturo
 editor: markdown
 dateCreated: 2021-08-24T11:16:41.742Z
 ---

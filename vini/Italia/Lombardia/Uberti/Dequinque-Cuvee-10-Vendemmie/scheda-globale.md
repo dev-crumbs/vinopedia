@@ -3,7 +3,7 @@ title: Dequinque Cuvée 10 Vendemmie – Franciacorta DOCG – Uberti – Lombar
 description: Chardonnay 100% | Suprema di farona lardellata alle erbe – Sella di coniglio alla soia – Cheviche di gamberi e avocado – –
 published: true
 date: 2021-10-01T19:57:54.181Z
-tags: sans-anne, vino, bianco, italia, varietale, spumante, metodo classico, chardonnay, lombardia, 5 stelle, extra-brut, Suprema di farona lardellata alle erbe, 175-199€
+tags: sans-anne, vino, bianco, italia, varietale, spumante, metodo classico, chardonnay, lombardia, Valutazioni | 5 stelle, extra-brut, Suprema di farona lardellata alle erbe, Prezzi | 175-199€
 editor: markdown
 dateCreated: 2021-09-03T21:03:21.131Z
 ---

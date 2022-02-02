@@ -3,7 +3,7 @@ title: I Grande Cuvee – Alto Adige Terlano DOC  – Cantina Terlano – Alto-A
 description: Pinot bianco + Chardonnay + Sauvignon blanc | Astice in bellavista – Plateau royal di crudité – Tortino di gamberi rossi – Salmone all'aneto – Lucioperca allo scalogno
 published: true
 date: 2021-10-01T19:55:31.710Z
-tags: vino, italia, bianco, blend, Chardonnay, fermo, 5 stelle, alto-adige, Pinot bianco, Sauvignon blanc, Astice in bellavista, Plateau royal di crudité, Tortino di gamberi rossi, Salmone all'aneto, Lucioperca allo scalogno, 150-174€
+tags: vino, italia, bianco, blend, Chardonnay, fermo, Valutazioni | 5 stelle, alto-adige, Pinot bianco, Sauvignon blanc, Astice in bellavista, Plateau royal di crudité, Tortino di gamberi rossi, Salmone all'aneto, Lucioperca allo scalogno, Prezzi | 150-174€
 editor: markdown
 dateCreated: 2021-08-29T16:14:45.767Z
 ---

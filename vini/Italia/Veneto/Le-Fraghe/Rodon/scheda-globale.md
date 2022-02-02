@@ -3,7 +3,7 @@ title: Rodon – Bardolino Chiaretto DOC – Le Fraghe – Veneto (IT) – 10-14
 description: Corvina 80% + Rondinella 20% | Bigoli in sugo di trota – Tortelli agnello e timo
 published: true
 date: 2021-10-01T20:02:06.909Z
-tags: vino, italia, rosato, blend, veneto, fermo, 5 stelle, 10-14€, corvina, rondinella, Bigoli in sugo di trota, Tortelli agnello e timo
+tags: vino, italia, rosato, blend, veneto, fermo, Valutazioni | 5 stelle, Prezzi | 10-14€, corvina, rondinella, Bigoli in sugo di trota, Tortelli agnello e timo
 editor: markdown
 dateCreated: 2021-10-01T09:53:23.581Z
 ---

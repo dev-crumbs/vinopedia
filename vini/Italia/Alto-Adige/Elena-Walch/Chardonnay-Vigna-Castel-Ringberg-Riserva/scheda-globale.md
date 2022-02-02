@@ -3,7 +3,7 @@ title: Chardonnay Vigna Castel Ringberg Riserva – Alto Adige DOC – Elena Wal
 description: Chardonnay 100% | Gratin di capesante alle erbe
 published: true
 date: 2021-10-01T19:55:26.461Z
-tags: vino, bianco, italia, varietale, fermo, 5 stelle, alto-adige, Chardonnay, Gratin di capesante alle erbe, 35-39€
+tags: vino, bianco, italia, varietale, fermo, Valutazioni | 5 stelle, alto-adige, Chardonnay, Gratin di capesante alle erbe, Prezzi | 35-39€
 editor: markdown
 dateCreated: 2021-09-02T14:32:47.834Z
 ---

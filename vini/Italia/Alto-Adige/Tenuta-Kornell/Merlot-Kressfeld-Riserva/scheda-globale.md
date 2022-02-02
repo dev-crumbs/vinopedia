@@ -3,7 +3,7 @@ title: Merlot Kressfeld Riserva – Alto Adige DOC – Tenuta Kornell – Alto A
 description: Merlot 100% | Sella di cervo al ginepro – Anatra laccata con patate dolci – Filetto di manzo alla boscaiola – Spezzatino di capriolo al cacao
 published: true
 date: 2021-10-01T20:10:48.932Z
-tags: vino, italia, rosso, varietale, Sella di cervo al ginepro, Anatra laccata con patate dolci, Filetto di manzo alla boscaiola, Merlot, alto adige, 5 stelle, 65-69€, Spezzatino di capriolo al cacao
+tags: vino, italia, rosso, varietale, Sella di cervo al ginepro, Anatra laccata con patate dolci, Filetto di manzo alla boscaiola, Merlot, alto adige, Valutazioni | 5 stelle, Prezzi | 65-69€, Spezzatino di capriolo al cacao
 editor: markdown
 dateCreated: 2021-08-27T17:49:36.458Z
 ---

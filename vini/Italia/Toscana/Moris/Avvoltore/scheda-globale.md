@@ -3,7 +3,7 @@ title: Avvoltore – Toscana IGT – Moris – Toscana (IT) – 30-34€ – 4�
 description: Sangiovese + Cabernet Sauvignon + Syrah | Castelmagno – Agnello al forno – Tacchino ripieno
 published: true
 date: 2022-01-25T14:35:07.533Z
-tags: vino, italia, rosso, blend, toscana, fermo, 5 stelle, cabernet sauvignon, syrah, 30-34€, Castelmagno, Agnello al forno, Tacchino ripieno
+tags: vino, italia, rosso, blend, toscana, fermo, Valutazioni | 5 stelle, cabernet sauvignon, syrah, Prezzi | 30-34€, Castelmagno, Agnello al forno, Tacchino ripieno
 editor: markdown
 dateCreated: 2022-01-24T12:15:09.595Z
 ---

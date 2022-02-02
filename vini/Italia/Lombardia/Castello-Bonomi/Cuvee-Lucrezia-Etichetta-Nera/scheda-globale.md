@@ -3,7 +3,7 @@ title: Cuvée Lucrezia Etichetta Nera – Franciacorta Riserva DOCG – Castello
 description: Pinot nero 100% | Aragosta in bellavista – Coniglio alla senape di digione
 published: true
 date: 2021-10-01T19:57:59.640Z
-tags: vino, bianco, italia, varietale, spumante, metodo classico, pinot nero, lombardia, 5 stelle, extra-brut, millesimato, aragosta in bellavista, coniglio alla senape di digione, 75-79€
+tags: vino, bianco, italia, varietale, spumante, metodo classico, pinot nero, lombardia, Valutazioni | 5 stelle, extra-brut, millesimato, aragosta in bellavista, coniglio alla senape di digione, Prezzi | 75-79€
 editor: markdown
 dateCreated: 2021-09-07T19:33:33.339Z
 ---

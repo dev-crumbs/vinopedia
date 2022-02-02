@@ -3,7 +3,7 @@ title: Minaia – Gavi Rovereto DOCG – Nicola Bargaglio – Piemonte (IT) – 
 description: Cortese 100% | Gnocchetti alla polpa di granchio – Tartare di tonno – Spaghetti all'astice – Grigliata di pesce – Pesce spada al limone – Frittura di paranza
 published: true
 date: 2021-10-04T06:51:14.596Z
-tags: vino, bianco, italia, varietale, piemonte, fermo, 5 stelle, grigliata di pesce, cortese, 15-19€, tartare di tonno, gnocchetti alla polpa di granchio, spaghetti all'astice, pesce spada al limone, Frittura di paranza
+tags: vino, bianco, italia, varietale, piemonte, fermo, Valutazioni | 5 stelle, grigliata di pesce, cortese, Prezzi | 15-19€, tartare di tonno, gnocchetti alla polpa di granchio, spaghetti all'astice, pesce spada al limone, Frittura di paranza
 editor: markdown
 dateCreated: 2021-10-04T06:51:11.718Z
 ---

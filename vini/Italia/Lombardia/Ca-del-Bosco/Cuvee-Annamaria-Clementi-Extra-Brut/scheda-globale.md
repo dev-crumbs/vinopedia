@@ -3,7 +3,7 @@ title: Cuvée Annamaria Clementi Extra-Brut – Franciacorta Riserva DOCG – C�
 description: Chardonnay 55% + Pinot bianco 25% + Pinot nero 25% | Filetto di sarago croccante in salsa di arance
 published: true
 date: 2021-10-01T19:57:54.181Z
-tags: millesimato, vino, bianco, italia, blend, spumante, metodo classico, chardonnay, pinot nero, pinot bianco, lombardia, 5 stelle, extra-brut, filetto di sarago croccante in salsa di arance, 75-79€
+tags: millesimato, vino, bianco, italia, blend, spumante, metodo classico, chardonnay, pinot nero, pinot bianco, lombardia, Valutazioni | 5 stelle, extra-brut, filetto di sarago croccante in salsa di arance, Prezzi | 75-79€
 editor: markdown
 dateCreated: 2021-09-03T21:03:21.131Z
 ---

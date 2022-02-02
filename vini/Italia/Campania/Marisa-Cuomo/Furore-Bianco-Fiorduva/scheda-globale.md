@@ -3,7 +3,7 @@ title: Furore Bianco Fiorduva – Costa d'Amalfi DOC – Marisa Cuomo – Campan
 description: Ripolo 40% + Fenile 30% + Ginestra 30% | Linguine di farro ai ricci di mare – Fusilli zafferano e caciotta – Orata alla brace – Tonno rosso marinato alle erbette – Tonno scottato su fonduta di provolone – Risotto zafferano provolne e salsiccia
 published: true
 date: 2021-10-01T19:56:30.359Z
-tags: vino, bianco, campania, italia, blend, fermo, 5 stelle, ripolo, fenile, ginestra, linguine di farro ai ricci di mare, fusilli zafferano e caciotta, orata alla brace, tonno rosso marinato alle erbette, tonno scottato su fonduta di provolone, Risotto zafferano provolne e salsiccia, 10-14€
+tags: vino, bianco, campania, italia, blend, fermo, Valutazioni | 5 stelle, ripolo, fenile, ginestra, linguine di farro ai ricci di mare, fusilli zafferano e caciotta, orata alla brace, tonno rosso marinato alle erbette, tonno scottato su fonduta di provolone, Risotto zafferano provolne e salsiccia, Prezzi | 10-14€
 editor: markdown
 dateCreated: 2021-09-07T16:41:56.457Z
 ---

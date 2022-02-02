@@ -3,7 +3,7 @@ title: Comitissa Gold Riserva – Alto-Adige DOC – Lorenz Martini – Alto-Adi
 description: Pinot bianco 50% + Chardonnay 25% + Pinot nero 25% | Crespelle ai porcini e tartugo
 published: true
 date: 2021-10-01T19:57:54.181Z
-tags: millesimato, vino, bianco, italia, blend, spumante, metodo classico, chardonnay, pinot nero, pinot bianco, Alto-Adige, 5 stelle, brut, Crespelle ai porcini e tartugo, 65-69€
+tags: millesimato, vino, bianco, italia, blend, spumante, metodo classico, chardonnay, pinot nero, pinot bianco, Alto-Adige, Valutazioni | 5 stelle, brut, Crespelle ai porcini e tartugo, Prezzi | 65-69€
 editor: markdown
 dateCreated: 2021-09-03T21:03:21.131Z
 ---
