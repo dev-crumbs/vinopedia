@@ -30,9 +30,11 @@ dateCreated: 2021-09-30T08:13:22.567Z
 - Gulash
 - Costata di podolica alla brace
 - Faraona ripiena
+- Cosciotto d'agnello alla cacciatora
 
 ## Annate
 - La Firma [2012](/vini/Italia/Basilicata/Cantine-del-Notaio/La-Firma/2012) -- <span class="star-5"></span> -- 93/100
 - La Firma [2013](/vini/Italia/Basilicata/Cantine-del-Notaio/La-Firma/2013) -- <span class="star-4"></span> -- 90/100
 - La Firma [2014](/vini/Italia/Basilicata/Cantine-del-Notaio/La-Firma/2014) -- <span class="star-5"></span> -- 93/100
 - La Firma [2015](/vini/Italia/Basilicata/Cantine-del-Notaio/La-Firma/2015) -- <span class="star-5"></span> -- 93/100 
+- La Firma [2016](/vini/Italia/Basilicata/Cantine-del-Notaio/La-Firma/2016) -- <span class="star-5"></span> -- 96/100 

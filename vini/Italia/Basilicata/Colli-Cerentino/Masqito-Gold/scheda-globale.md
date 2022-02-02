@@ -1,9 +1,9 @@
 ---
 title: Masqito Gold – Aglianico del Vulture Superiore DOCG – Colli Cerentino – Basilicata (IT) – 45-49€ – 5★
-description: Aglianico 100% | Stinco di vitello al forno – Sella di agnello al tartufo – Brasato di manzo – Sella di coniglio alle prugne
+description: Aglianico 100% | Stinco di vitello al forno – Sella di agnello al tartufo – Brasato di manzo – Sella di coniglio alle prugne – Cosciotto di vitello ai mirtilli
 published: true
 date: 2021-10-01T19:55:44.595Z
-tags: vino, italia, rosso, basilicata, aglianico, varietale, fermo, 5 stelle, stinco di vitello al forno, sella di agnello al tartufo, sella di coniglio alle prugne, brasato di manzo, 45-49€
+tags: vino, italia, rosso, basilicata, aglianico, varietale, fermo, 5 stelle, stinco di vitello al forno, sella di agnello al tartufo, sella di coniglio alle prugne, brasato di manzo, Cosciotto di vitello ai mirtilli, 45-49€
 editor: markdown
 dateCreated: 2021-09-02T14:32:54.829Z
 ---
@@ -30,10 +30,11 @@ dateCreated: 2021-09-02T14:32:54.829Z
 - sella di agnello al tartufo
 - brasato
 - sella di coniglio alle prugne
+- Cosciotto di vitello ai mirtilli
 
 ## Annate
 - Masqito Gold [2011](/vini/Italia/Basilicata/Colli-Cerentino/Masqito Gold/2011) -- <span class="star-5"></span> -- 94/100
 - Masqito Gold [2012](/vini/Italia/Basilicata/Colli-Cerentino/Masqito Gold/2012) -- <span class="star-5"></span> -- 93/100
 - Masqito Gold [2013](/vini/Italia/Basilicata/Colli-Cerentino/Masqito Gold/2013) -- <span class="star-5"></span> -- 95/100
 - Masqito Gold [2014](/vini/Italia/Basilicata/Colli-Cerentino/Masqito Gold/2014) -- <span class="star-5"></span> -- 93/100
- 
+- Masqito Gold [2013](/vini/Italia/Basilicata/Colli-Cerentino/Masqito Gold/2013) -- <span class="star-5"></span> -- 93/100 

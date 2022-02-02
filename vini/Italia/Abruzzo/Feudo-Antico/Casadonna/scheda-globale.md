@@ -38,6 +38,7 @@ dateCreated: 2021-09-07T06:05:15.571Z
 - Casadonna [2017](/vini/Italia/Abruzzo/Feudo-Antico/Casadonna/2017) -- <span class="star-4"></span> -- 90/100
 - Casadonna [2018](/vini/Italia/Abruzzo/Feudo-Antico/Casadonna/2018) -- <span class="star-2"></span> -- 83/100
 - Casadonna [2019](/vini/Italia/Abruzzo/Feudo-Antico/Casadonna/2019) -- <span class="star-4"></span> -- 90/100
+- Casadonna [2020](/vini/Italia/Abruzzo/Feudo-Antico/Casadonna/2020) -- <span class="star-3"></span> -- 86/100
 
 
 

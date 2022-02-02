@@ -1,9 +1,9 @@
 ---
 title:  Pecorino Superiore Ferzo – Abruzzo Pecorino Superiore DOC – Codice Citra – Abruzzo (IT) – 15-19€ – 2★-5★
-description: Pecorino 100% | Scamorza ai ferri – Astice alla catalana – Torta rustica al formaggio – Cartoccio di trota salmonata
+description: Pecorino 100% | Scamorza ai ferri – Astice alla catalana – Torta rustica al formaggio – Cartoccio di trota salmonata – Risotto ai quattro formaggi
 published: true
 date: 2021-08-24T12:31:23.089Z
-tags: vino, bianco, fermo, varietale, pecorino, italia, abruzzo, scamorza ai ferri, astice alla catalana, torta rustica al formaggio, cartoccio di trota salmonata, 15-19€, 5 stelle
+tags: vino, bianco, fermo, varietale, pecorino, italia, abruzzo, scamorza ai ferri, astice alla catalana, torta rustica al formaggio, cartoccio di trota salmonata, 15-19€, 5 stelle, Risotto ai quattro formaggi
 editor: markdown
 dateCreated: 2021-08-24T11:31:20.502Z
 ---
@@ -30,6 +30,7 @@ dateCreated: 2021-08-24T11:31:20.502Z
 - Astice alla catalana
 - Torta rustica al formaggio
 - Cartoccio di trota salmonata
+- Risotto ai quattro formaggi
 
 ## Annate
 
@@ -38,6 +39,6 @@ dateCreated: 2021-08-24T11:31:20.502Z
 - Pecorino Superiore Ferzo [2017](/vini/Italia/Abruzzo/Codice-Citra/Pecorino-Superiore-Ferzo/2017) -- <span class="star-3"></span> -- 88/100
 - Pecorino Superiore Ferzo [2018](/vini/Italia/Abruzzo/Codice-Citra/Pecorino-Superiore-Ferzo/2018) -- <span class="star-5"></span> -- 92/100
 - Pecorino Superiore Ferzo [2019](/vini/Italia/Abruzzo/Codice-Citra/Pecorino-Superiore-Ferzo/2019) -- <span class="star-5"></span> -- 93/100
-
+- Pecorino Superiore Ferzo [2020](/vini/Italia/Abruzzo/Codice-Citra/Pecorino-Superiore-Ferzo/2020) -- <span class="star-4"></span> -- 89/100
 
 

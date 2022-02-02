@@ -31,3 +31,4 @@ dateCreated: 2021-09-30T08:13:22.567Z
 - L'Atto [2017](/vini/Italia/Basilicata/Cantine-del-Notaio/L-Atto/2017) -- <span class="star-2"></span> -- 83/100 
 - L'Atto [2018](/vini/Italia/Basilicata/Cantine-del-Notaio/L-Atto/2018) -- <span class="star-3"></span> -- 85/100 
 - L'Atto [2019](/vini/Italia/Basilicata/Cantine-del-Notaio/L-Atto/2019) -- <span class="star-3"></span> -- 87/100 
+- L'Atto [2020](/vini/Italia/Basilicata/Cantine-del-Notaio/L-Atto/2020) -- <span class="star-2"></span> -- 82/100 

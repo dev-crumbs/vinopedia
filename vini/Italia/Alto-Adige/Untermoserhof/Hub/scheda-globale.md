@@ -1,9 +1,9 @@
 ---
 title: Hub – Alto Adige Santa Maddalena Classico DOC – Untermoserfhof – Alto-Adige (IT) – 15-19€ – 5★
-description: Schiava 95% + Lagrein 5% | Carrè di maiale glassato al cumino – Coniglio alle olive
+description: Schiava 95% + Lagrein 5% | Carrè di maiale glassato al cumino – Coniglio alle olive – Chateaubriand con salsa bernese
 published: true
 date: 2021-10-01T19:55:31.710Z
-tags: vino, italia, rosso, blend, lagrein, fermo, 5 stelle, alto-adige, schiava, Carrè di maiale glassato al cumino, Coniglio alle olive, 15-19€
+tags: vino, italia, rosso, blend, lagrein, fermo, 5 stelle, alto-adige, schiava, Carrè di maiale glassato al cumino, Coniglio alle olive, Chateaubriand con salsa bernese, 15-19€
 editor: markdown
 dateCreated: 2021-08-29T16:14:45.767Z
 ---
@@ -29,9 +29,12 @@ dateCreated: 2021-08-29T16:14:45.767Z
 
 - Carrè di maiale glassato al cumino
 - Coniglio alle olive
+- Châteaubriand con salsa bernese
 
 ## Annate
 - Hub [2017](/vini/Italia/Alto-Adige/Untermoserfhof/Hub/2017) -- <span class="star-2"></span> -- 83/100
 - Hub [2018](/vini/Italia/Alto-Adige/Untermoserfhof/Hub/2018) -- <span class="star-5"></span> -- 92/100
+- Hub [2019](/vini/Italia/Alto-Adige/Untermoserfhof/Hub/2019) -- <span class="star-5"></span> -- 93/100
+
  
  

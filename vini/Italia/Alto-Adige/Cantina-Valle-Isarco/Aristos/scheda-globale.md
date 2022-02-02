@@ -1,9 +1,9 @@
 ---
 title: Aristos – Alto Adige Valle Isarco DOC – Cantina Valle Isarco – Alto-Adige (IT) – 15-19€ – 5★
-description: Kerner 100% | Gnocchi di ricotta gratinati e vellutata di ortica – Insalata di pollo – Gnocchi all'aglio orsino
+description: Kerner 100% | Gnocchi di ricotta gratinati e vellutata di ortica – Insalata di pollo – Gnocchi all'aglio orsino – Seppie e fave
 published: true
 date: 2021-10-01T20:10:59.126Z
-tags: vino, bianco, italia, varietale, fermo, 5 stelle, alto-adige, 15-19€, kerner, Gnocchi di ricotta gratinati e vellutata di ortica, Insalata di pollo, Gnocchi all'aglio orsino
+tags: vino, bianco, italia, varietale, fermo, 5 stelle, alto-adige, 15-19€, kerner, Gnocchi di ricotta gratinati e vellutata di ortica, Insalata di pollo, Gnocchi all'aglio orsino, Seppie e fave
 editor: markdown
 dateCreated: 2021-09-30T08:13:18.301Z
 ---
@@ -30,11 +30,13 @@ dateCreated: 2021-09-30T08:13:18.301Z
 - Gnocchi di ricotta gratinati e vellutata di ortica
 - Insalata di pollo
 - Gnocchi all'aglio orsino
+- Seppie e fave alla menta
 
 ## Annate
 - Aristos [2015](/vini/Italia/Alto-Adige/Cantina Valle Isarco/Aristos/2015) -- <span class="star-4"></span> -- 90/100
 - Aristos [2016](/vini/Italia/Alto-Adige/Cantina Valle Isarco/Aristos/2016) -- <span class="star-2"></span> -- 83/100
 - Aristos [2017](/vini/Italia/Alto-Adige/Cantina Valle Isarco/Aristos/2017) -- <span class="star-4"></span> -- 89/100 
 - Aristos [2018](/vini/Italia/Alto-Adige/Cantina Valle Isarco/Aristos/2018) -- <span class="star-2"></span> -- 83/100
-- Aristos [2019](/vini/Italia/Alto-Adige/Cantina Valle Isarco/Aristos/2019) -- <span class="star-5"></span> -- 92/100 
+- Aristos [2019](/vini/Italia/Alto-Adige/Cantina Valle Isarco/Aristos/2019) -- <span class="star-5"></span> -- 92/100
+- Aristos [2020](/vini/Italia/Alto-Adige/Cantina Valle Isarco/Aristos/2020) -- <span class="star-5"></span> -- 93/100 
  

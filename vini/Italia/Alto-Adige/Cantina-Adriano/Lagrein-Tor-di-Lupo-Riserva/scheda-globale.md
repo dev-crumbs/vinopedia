@@ -38,5 +38,6 @@ dateCreated: 2021-09-30T08:13:14.399Z
 - Lagrein Tor di Lupo Riserva [2014](/vini/Italia/Alto-Adige/Cantina-Adriano/Lagrein-Tor-di-Lupo-Riserva/2014) -- <span class="star-3"></span> -- 87/100
 - Lagrein Tor di Lupo Riserva [2015](/vini/Italia/Alto-Adige/Cantina-Adriano/Lagrein-Tor-di-Lupo-Riserva/2015) -- <span class="star-5"></span> -- 92/100
 - Lagrein Tor di Lupo Riserva [2016](/vini/Italia/Alto-Adige/Cantina-Adriano/Lagrein-Tor-di-Lupo-Riserva/2016) -- <span class="star-3"></span> -- 87/100 
-- Lagrein Tor di Lupo Riserva [2017](/vini/Italia/Alto-Adige/Cantina-Adriano/Lagrein-Tor-di-Lupo-Riserva/2017) -- <span class="star-5"></span> -- 93/100 
+- Lagrein Tor di Lupo Riserva [2017](/vini/Italia/Alto-Adige/Cantina-Adriano/Lagrein-Tor-di-Lupo-Riserva/2017) -- <span class="star-5"></span> -- 93/100
+- Lagrein Tor di Lupo Riserva [2018](/vini/Italia/Alto-Adige/Cantina-Adriano/Lagrein-Tor-di-Lupo-Riserva/2018) -- <span class="star-3"></span> -- 86/100 
  

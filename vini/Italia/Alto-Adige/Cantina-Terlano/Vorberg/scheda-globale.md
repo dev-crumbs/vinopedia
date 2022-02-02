@@ -35,5 +35,5 @@ dateCreated: 2021-08-29T16:14:41.774Z
 - Vorberg [2015](/vini/Italia/Alto-Adige/Cantina-Terlano/Vorberg/2015) -- <span class="star-4"></span> -- 89/100
 - Vorberg [2016](/vini/Italia/Alto-Adige/Cantina-Terlano/Vorberg/2016) -- <span class="star-5"></span> -- 94/100  
 - Vorberg [2017](/vini/Italia/Alto-Adige/Cantina-Terlano/Vorberg/2017) -- <span class="star-3"></span> -- 87/100
-- Vorberg [2018](/vini/Italia/Alto-Adige/Cantina-Terlano/Vorberg/2018) -- <span class="star-5"></span> -- 91/100 
+- Vorberg [2018](/vini/Italia/Alto-Adige/Cantina-Terlano/Vorberg/2018) -- <span class="star-4"></span> -- 89/100 
  

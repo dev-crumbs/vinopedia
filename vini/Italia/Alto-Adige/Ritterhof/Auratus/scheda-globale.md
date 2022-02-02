@@ -1,9 +1,9 @@
 ---
 title: Auratus – Alto Adige DOC – Ritterhof – Alto-Adige (IT) – 20-24€ – 5★
-description: Gewurztraminer 100% | Gambery al Curry – Pollo tandori – Maiale al latte al forno con mele  – Terrina di fegato d'oca – Sufflè di formaggio e noci
+description: Gewurztraminer 100% | Gambery al Curry – Pollo tandori – Maiale al latte al forno con mele  – Terrina di fegato d'oca – Sufflè di formaggio e noci – Caprino Roggenkas
 published: true
 date: 2021-10-01T19:55:26.461Z
-tags: vino, bianco, italia, varietale, fermo, 5 stelle, alto-adige, gewurztraminer, Gambery al Curry, Pollo tandori, Maiale al latte al forno con mele , terrina di fegato d'oca, Suffle di formaggio e noci, 20-24€
+tags: vino, bianco, italia, varietale, fermo, 5 stelle, alto-adige, gewurztraminer, Gambery al Curry, Pollo tandori, Maiale al latte al forno con mele , terrina di fegato d'oca, Suffle di formaggio e noci, Caprino Roggenkas 20-24€
 editor: markdown
 dateCreated: 2021-09-02T14:32:47.834Z
 ---
@@ -32,6 +32,7 @@ dateCreated: 2021-09-02T14:32:47.834Z
 - Maiale al latte al forno con mele 
 - terrina di fegato d'oca
 - Sufflè di formaggio e noci
+- Caprino Roggenkas
 
 ## Annate
 - Auratus [2015](/vini/Italia/Alto-Adige/Ritterhof/Auratus/2015) -- <span class="star-5"></span> -- 94/100 
@@ -39,4 +40,5 @@ dateCreated: 2021-09-02T14:32:47.834Z
 - Auratus [2017](/vini/Italia/Alto-Adige/Ritterhof/Auratus/2017) -- <span class="star-5"></span> -- 94/100 
 - Auratus [2018](/vini/Italia/Alto-Adige/Ritterhof/Auratus/2018) -- <span class="star-5"></span> -- 93/100 
 - Auratus [2019](/vini/Italia/Alto-Adige/Ritterhof/Auratus/2019) -- <span class="star-5"></span> -- 94/100
+- Auratus [2020](/vini/Italia/Alto-Adige/Ritterhof/Auratus/2020) -- <span class="star-5"></span> -- 95/100
  

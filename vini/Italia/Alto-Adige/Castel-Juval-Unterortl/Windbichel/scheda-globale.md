@@ -1,9 +1,9 @@
 ---
 title: Windbichel – Alto-Adige Val Venosta DOC – Castel Juval Unterortl – Alto-Adige (IT) – 30-34€ – 5★
-description: Riesling 100% | Asparagi allo zabaione salato – Ravioli zucca e taleggio – Sushi e sashimi – Onigiri con salmone avocado e formaggio
+description: Riesling 100% | Asparagi allo zabaione salato – Ravioli zucca e taleggio – Sushi e sashimi – Onigiri con salmone avocado e formaggio – Catalana di scampi reali
 published: true
 date: 2021-10-01T20:11:45.882Z
-tags: vino, bianco, italia, emilia, varietale, fermo, riesling, Asparagi allo zabaione salato, Ravioli zucca e taleggio, Sushi e sashimi, 5 stelle, Onigiri con salmone avocado e formaggio, 30-34€
+tags: vino, bianco, italia, emilia, varietale, fermo, riesling, Asparagi allo zabaione salato, Ravioli zucca e taleggio, Sushi e sashimi, 5 stelle, Onigiri con salmone avocado e formaggio, Catalana di scampi reali, 30-34€
 editor: markdown
 dateCreated: 2021-08-31T15:46:06.033Z
 ---
@@ -30,12 +30,14 @@ dateCreated: 2021-08-31T15:46:06.033Z
 - Ravioli zucca e taleggio 
 - Sushi e sashimi
 - Onigiri con salmone avocado e formaggio
+- Catalana di scampi reali
   
 ## Annate
-- Windbichel [2014](/vini/Italia/Emilia/Castel Juval Unterortl/Le-Vaie/2014) -- <span class="star-5"></span> -- 94/100
-- Windbichel [2015](/vini/Italia/Emilia/Castel Juval Unterortl/Le-Vaie/2015) -- <span class="star-5"></span> -- 93/100
-- Windbichel [2016](/vini/Italia/Emilia/Castel Juval Unterortl/Le-Vaie/2016) -- <span class="star-5"></span> -- 94/100
-- Windbichel [2017](/vini/Italia/Emilia/Castel Juval Unterortl/Le-Vaie/2017) -- <span class="star-5"></span> -- 92/100
-- Windbichel [2018](/vini/Italia/Emilia/Castel Juval Unterortl/Le-Vaie/2018) -- <span class="star-5"></span> -- 93/100
+- Windbichel [2014](/vini/Italia/Emilia/Castel-Juval-Unterortl/Windbichel/2014) -- <span class="star-5"></span> -- 94/100
+- Windbichel [2015](/vini/Italia/Emilia/Castel-Juval-Unterortl/Windbichel/2015) -- <span class="star-5"></span> -- 93/100
+- Windbichel [2016](/vini/Italia/Emilia/Castel-Juval-Unterortl/Windbichel/2016) -- <span class="star-5"></span> -- 94/100
+- Windbichel [2017](/vini/Italia/Emilia/Castel-Juval-Unterortl/Windbichel/2017) -- <span class="star-5"></span> -- 92/100
+- Windbichel [2018](/vini/Italia/Emilia/Castel-Juval-Unterortl/Windbichel/2018) -- <span class="star-5"></span> -- 93/100
+- Windbichel [2019](/vini/Italia/Emilia/Castel-Juval-Unterortl/Windbichel/2019) -- <span class="star-5"></span> -- 95/100
 
 

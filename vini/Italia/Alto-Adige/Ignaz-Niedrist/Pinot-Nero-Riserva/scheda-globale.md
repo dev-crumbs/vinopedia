@@ -1,9 +1,9 @@
 ---
-title: Pinot Nero Riserva – Alto Adige DOC – Ignaz Niedrist – Alto-Adige (IT) – 30-34€ – 2★
+title: Pinot Nero Riserva – Alto Adige DOC – Ignaz Niedrist – Alto-Adige (IT) – 30-34€ – 2★-3★
 description: 100% Pinot Nero | Vitello alla pizzaiola
 published: true
 date: 2021-10-01T19:55:26.461Z
-tags: vino, rosso, italia, varietale, fermo, alto-adige, 2 stelle, Vitello alla pizzaiola, 30-34€
+tags: vino, rosso, italia, varietale, fermo, alto-adige, 3 stelle, Vitello alla pizzaiola, 30-34€
 editor: markdown
 dateCreated: 2021-09-02T14:32:47.834Z
 ---
@@ -29,5 +29,5 @@ dateCreated: 2021-09-02T14:32:47.834Z
 
 ## Annate
 - Pinot Nero Riserva [2016](/vini/Italia/Alto-Adige/Ignaz Niedrist/Burgum-Novum-Riserva/2016) -- <span class="star-2"></span> -- 83/100  
-
+- Pinot Nero Riserva [2017](/vini/Italia/Alto-Adige/Ignaz Niedrist/Burgum-Novum-Riserva/2017) -- <span class="star-3"></span> -- 86/100
  

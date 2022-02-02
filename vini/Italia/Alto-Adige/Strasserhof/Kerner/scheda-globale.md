@@ -36,4 +36,5 @@ dateCreated: 2021-09-30T08:13:18.301Z
 - Kerner [2017](/vini/Italia/Alto-Adige/Stratterhof/Kerner/2017) -- <span class="star-3"></span> -- 87/100 
 - Kerner [2018](/vini/Italia/Alto-Adige/Stratterhof/Kerner/2018) -- <span class="star-2"></span> -- 83/100
 - Kerner [2019](/vini/Italia/Alto-Adige/Stratterhof/Kerner/2019) -- <span class="star-5"></span> -- 92/100 
+- Kerner [2020](/vini/Italia/Alto-Adige/Stratterhof/Kerner/2020) -- <span class="star-3"></span> -- 88/100 
  

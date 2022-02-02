@@ -38,4 +38,5 @@ dateCreated: 2021-09-30T08:13:14.399Z
 - Lagrein Mirell Riserva [2015](/vini/Italia/Alto-Adige/Tenuta-Waldgries/Lagrein-Mirell-Riserva/2015) -- <span class="star-2"></span> -- 83/100
 - Lagrein Mirell Riserva [2016](/vini/Italia/Alto-Adige/Tenuta-Waldgries/Lagrein-Mirell-Riserva/2016) -- <span class="star-3"></span> -- 87/100 
 - Lagrein Mirell Riserva [2017](/vini/Italia/Alto-Adige/Tenuta-Waldgries/Lagrein-Mirell-Riserva/2017) -- <span class="star-5"></span> -- 93/100 
+- Lagrein Mirell Riserva [2018](/vini/Italia/Alto-Adige/Tenuta-Waldgries/Lagrein-Mirell-Riserva/2018) -- <span class="star-3"></span> -- 86/100 
  

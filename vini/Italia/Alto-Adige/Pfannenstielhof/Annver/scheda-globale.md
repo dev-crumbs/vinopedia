@@ -1,5 +1,5 @@
 ---
-title: Annver – Alto Adige Santa Maddalena Classico DOC – Pfannenstielhof – Alto-Adige (IT) – 15-19€ – 5★
+title: Annver – Alto Adige Santa Maddalena Classico DOC – Pfannenstielhof – Alto-Adige (IT) – 15-19€ – 4★-5★
 description: Schiava 95% + Lagrein 5% | Tacchino con carciofi e zucca – Scaloppine alla pizzaiola
 published: true
 date: 2021-10-01T19:55:31.710Z
@@ -33,5 +33,6 @@ dateCreated: 2021-08-29T16:14:45.767Z
 ## Annate
 - Annver [2017](/vini/Italia/Alto-Adige/Pfannenstielhof/Annver/2017) -- <span class="star-5"></span> -- 94/100
 - Annver [2018](/vini/Italia/Alto-Adige/Pfannenstielhof/Annver/2018) -- <span class="star-5"></span> -- 92/100
+- Annver [2019](/vini/Italia/Alto-Adige/Pfannenstielhof/Annver/2019) -- <span class="star-4"></span> -- 89/100
  
  

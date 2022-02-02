@@ -1,9 +1,9 @@
 ---
 title: Sauvignon Renaissance Riserva – Alto Adige DOC – Gump Hof - Markus Prackwieser – Alto-Adige (IT) – 30-34€ – 3★-5★
-description: 100% Sauvignon blanc | Ostriche limone e pepe – Spatzle con graukase – Coniglio in fricassea
+description: 100% Sauvignon blanc | Ostriche limone e pepe – Spatzle con graukase – Coniglio in fricassea – Guazzetto d'astice e zucchine
 published: true
 date: 2021-10-01T19:55:26.461Z
-tags: vino, bianco, italia, varietale, fermo, 5 stelle, alto-adige, Ostriche limone e pepe, Spatzle con graukase, Coniglio in fricassea, 30-34€
+tags: vino, bianco, italia, varietale, fermo, 5 stelle, alto-adige, Ostriche limone e pepe, Spatzle con graukase, Coniglio in fricassea, Guazzetto d'astice e zucchine, 30-34€
 editor: markdown
 dateCreated: 2021-09-02T14:32:47.834Z
 ---
@@ -27,11 +27,12 @@ dateCreated: 2021-09-02T14:32:47.834Z
 - Ostriche limone e pepe
 - Spatzle con graukase
 - Coniglio in fricassea
+- Guazzetto d'astice e zucchine
 
 
 ## Annate
 - Sauvignong Renaissance Riserva [2014](/vini/Italia/Alto-Adige/Gump-Hof-Markus-Prackwieser/Sauvignon-Renaissance-Riserva/2014) -- <span class="star-3"></span> -- 87/100 
 - Sauvignong Renaissance Riserva [2016](/vini/Italia/Alto-Adige/Gump-Hof-Markus-Prackwieser/Sauvignon-Renaissance-Riserva/2016) -- <span class="star-5"></span> -- 94/100  
 - Sauvignong Renaissance Riserva [2017](/vini/Italia/Alto-Adige/Gump-Hof-Markus-Prackwieser/Sauvignon-Renaissance-Riserva/2017) -- <span class="star-5"></span> -- 93/100 
-
+- Sauvignong Renaissance Riserva [2018](/vini/Italia/Alto-Adige/Gump-Hof-Markus-Prackwieser/Sauvignon-Renaissance-Riserva/2018) -- <span class="star-5"></span> -- 96/100 
  

@@ -38,4 +38,4 @@ dateCreated: 2021-09-30T08:13:14.399Z
 - Lagrein Rose [2017](/vini/Italia/Alto-Adige/Pfannenstielhof/Lagrein-Rose/2017) -- <span class="star-2"></span> -- 83/100 
 - Lagrein Rose [2018](/vini/Italia/Alto-Adige/Pfannenstielhof/Lagrein-Rose/2018) -- <span class="star-4"></span> -- 90/100
 - Lagrein Rose [2019](/vini/Italia/Alto-Adige/Pfannenstielhof/Lagrein-Rose/2019) -- <span class="star-5"></span> -- 92/100 
- 
+- Lagrein Rose [2020](/vini/Italia/Alto-Adige/Pfannenstielhof/Lagrein-Rose/2020) -- <span class="star-3"></span> -- 86/100  

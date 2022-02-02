@@ -38,3 +38,4 @@ dateCreated: 2021-08-27T17:49:36.458Z
 - Merlot Cabernet Anticus Riserva [2015](vini/italia/Alto-Adige/Cantina-Nals-Margreid/Merlot-Cabernet-Anticus-Riserva/2015) -- <span class="star-4"></span> -- 90/100
 - Merlot Cabernet Anticus Riserva [2016](vini/italia/Alto-Adige/Cantina-Nals-Margreid/Merlot-Cabernet-Anticus-Riserva/2016) -- <span class="star-2"></span> -- 83/100
 - Merlot Cabernet Anticus Riserva [2017](vini/italia/Alto-Adige/Cantina-Nals-Margreid/Merlot-Cabernet-Anticus-Riserva/2017) -- <span class="star-5"></span> -- 94/100
+- Merlot Cabernet Anticus Riserva [2018](vini/italia/Alto-Adige/Cantina-Nals-Margreid/Merlot-Cabernet-Anticus-Riserva/2018) -- <span class="star-3"></span> -- 87/100

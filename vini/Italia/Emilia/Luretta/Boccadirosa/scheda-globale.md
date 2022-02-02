@@ -1,9 +1,9 @@
 ---
 title: Boccadirosa – Colli Piacentini DOC – Luretta – Emilia (IT) – 15-19€ – 2★-5★
-description: Malvasia aromatica di Candia 100% | Tagliatelle ai funghi porcini – Risotto zucca e gorgonzola – Coniglio alle erbe aromatiche
+description: Malvasia aromatica di Candia 100% | Tagliatelle ai funghi porcini – Risotto zucca e gorgonzola – Coniglio alle erbe aromatiche – Tortino di gamberi
 published: true
 date: 2021-10-01T20:11:51.188Z
-tags: vino, bianco, italia, emilia, varietale, fermo, 5 stelle, malvasia aromatica di candia, tagliatelle ai funghi porcini, risotto zucca e gorgonzola, coniglio alle erbe aromatiche, 15-19€
+tags: vino, bianco, italia, emilia, varietale, fermo, 5 stelle, malvasia aromatica di candia, tagliatelle ai funghi porcini, risotto zucca e gorgonzola, coniglio alle erbe aromatiche, 15-19€, tortino di gamberi
 editor: markdown
 dateCreated: 2021-09-02T14:33:13.149Z
 ---
@@ -29,6 +29,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 - tagliatelle ai funghi porcini
 - risotto zucca e gorgonzola
 - coniglio alle erbe aromatiche
+- tortino di gamberi
 
 ## Annate
 - Boccadirosa [2015](/vini/Italia/Emilia/Luretta/Boccadirosa/2015) -- <span class="star-3"></span> -- 87/100
@@ -36,4 +37,5 @@ dateCreated: 2021-09-02T14:33:13.149Z
 - Boccadirosa [2017](/vini/Italia/Emilia/Luretta/Boccadirosa/2017) -- <span class="star-5"></span> -- 95/100
 - Boccadirosa [2018](/vini/Italia/Emilia/Luretta/Boccadirosa/2018) -- <span class="star-2"></span> -- 84/100
 - Boccadirosa [2019](/vini/Italia/Emilia/Luretta/Boccadirosa/2019) -- <span class="star-3"></span> -- 87/100
+- Boccadirosa [2020](/vini/Italia/Emilia/Luretta/Boccadirosa/2020) -- <span class="star-5"></span> -- 95/100
 

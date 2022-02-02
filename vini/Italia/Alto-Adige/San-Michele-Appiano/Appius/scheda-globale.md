@@ -39,3 +39,4 @@ dateCreated: 2021-09-07T13:39:45.058Z
 - Appius [2013](/vini/Italia/Alto-Adige/San-Michele-Appiano/Appius/2013) -- <span class="star-5"></span> -- 95/100 
 - Appius [2014](/vini/Italia/Alto-Adige/San-Michele-Appiano/Appius/2014) -- <span class="star-5"></span> -- 95/100 
 - Appius [2015](/vini/Italia/Alto-Adige/San-Michele-Appiano/Appius/2015) -- <span class="star-5"></span> -- 95/100
+- Appius [2016](/vini/Italia/Alto-Adige/San-Michele-Appiano/Appius/2016) -- <span class="star-5"></span> -- 98/100

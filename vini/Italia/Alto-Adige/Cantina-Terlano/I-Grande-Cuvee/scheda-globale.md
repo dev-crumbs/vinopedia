@@ -1,9 +1,9 @@
 ---
 title: I Grande Cuvee – Alto Adige Terlano DOC  – Cantina Terlano – Alto-Adige (IT) – 150-174€ – 5★
-description: Pinot bianco + Chardonnay + Sauvignon blanc | Astice in bellavista – Plateau royal di crudité – Tortino di gamberi rossi – Salmone all'aneto
+description: Pinot bianco + Chardonnay + Sauvignon blanc | Astice in bellavista – Plateau royal di crudité – Tortino di gamberi rossi – Salmone all'aneto – Lucioperca allo scalogno
 published: true
 date: 2021-10-01T19:55:31.710Z
-tags: vino, italia, bianco, blend, Chardonnay, fermo, 5 stelle, alto-adige, Pinot bianco, Sauvignon blanc, Astice in bellavista, Plateau royal di crudité, Tortino di gamberi rossi, Salmone all'aneto, 150-174€
+tags: vino, italia, bianco, blend, Chardonnay, fermo, 5 stelle, alto-adige, Pinot bianco, Sauvignon blanc, Astice in bellavista, Plateau royal di crudité, Tortino di gamberi rossi, Salmone all'aneto, Lucioperca allo scalogno, 150-174€
 editor: markdown
 dateCreated: 2021-08-29T16:14:45.767Z
 ---
@@ -28,13 +28,14 @@ dateCreated: 2021-08-29T16:14:45.767Z
 - Plateau royal di crudité
 - Tortino di gamberi rossi
 - Salmone all'aneto
+- Lucioperca allo scalogno
 
 ## Annate
 - I Grande Cuvee [2013](/vini/Italia/Alto-Adige/Cantina-Terlano/I-Grande-Cuvee/2013) -- <span class="star-5"></span> -- 94/100
 - I Grande Cuvee [2015](/vini/Italia/Alto-Adige/Cantina-Terlano/I-Grande-Cuvee/2015) -- <span class="star-5"></span> -- 93/100
 - I Grande Cuvee [2016](/vini/Italia/Alto-Adige/Cantina-Terlano/I-Grande-Cuvee/2016) -- <span class="star-5"></span> -- 92/100
 - I Grande Cuvee [2017](/vini/Italia/Alto-Adige/Cantina-Terlano/I-Grande-Cuvee/2017) -- <span class="star-5"></span> -- 94/100
-
+- I Grande Cuvee [2018](/vini/Italia/Alto-Adige/Cantina-Terlano/I-Grande-Cuvee/2018) -- <span class="star-5"></span> -- 97/100
 
  [^1]: % variabili a seconda dell'annata
  

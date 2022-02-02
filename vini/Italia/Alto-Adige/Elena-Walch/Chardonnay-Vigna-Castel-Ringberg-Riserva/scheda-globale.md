@@ -1,5 +1,5 @@
 ---
-title: Chardonnay Vigna Castel Ringberg Riserva – Alto Adige DOC – Elena Walch – Alto-Adige (IT) – 35-39€ – 5★
+title: Chardonnay Vigna Castel Ringberg Riserva – Alto Adige DOC – Elena Walch – Alto-Adige (IT) – 35-39€ – 2★-5★
 description: Chardonnay 100% | Gratin di capesante alle erbe
 published: true
 date: 2021-10-01T19:55:26.461Z
@@ -30,4 +30,6 @@ dateCreated: 2021-09-02T14:32:47.834Z
 - Gratin di capesante alle erbe
 
 ## Annate
-- Chardonnay Vigna Castel Ringberg Riserva [2019](/vini/Italia/Alto-Adige/Elena-Walch/Chardonnay-Vigna-Castel-Ringberg-Riserva/2019) -- <span class="star-5"></span> -- 94/100
+- Chardonnay Vigna Castel Ringberg Riserva [2017](/vini/Italia/Alto-Adige/Elena-Walch/Chardonnay-Vigna-Castel-Ringberg-Riserva/2017) -- <span class="star-5"></span> -- 94/100
+- Chardonnay Vigna Castel Ringberg Riserva [2018](/vini/Italia/Alto-Adige/Elena-Walch/Chardonnay-Vigna-Castel-Ringberg-Riserva/2018) -- <span class="star-2"></span> -- 83/100
+

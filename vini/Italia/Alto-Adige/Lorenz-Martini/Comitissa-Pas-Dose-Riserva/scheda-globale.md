@@ -1,9 +1,9 @@
 ---
 title: Comitissa Pas Dose Riserva – Alto-Adige DOC – Lorenz Martini – Alto-Adige (IT) – 25-29€ – 4★
-description: Pinot bianco 50% + Chardonnay 35% + Pinot nero 15% | Orata impanata all'arancia – Tagliolini polpa di granchi e agrumi
+description: Pinot bianco 50% + Chardonnay 35% + Pinot nero 15% | Orata impanata all'arancia – Tagliolini polpa di granchi e agrumi – Calamari alle erbe aromatiche
 published: true
 date: 2021-10-01T19:57:54.181Z
-tags: millesimato, vino, bianco, italia, blend, spumante, metodo classico, chardonnay, pinot nero, pinot bianco, Alto-Adige, 5 stelle, pas-dose, Orata impanata all'arancia, Tagliolini polpa di granchi e agrumi, 25-29€
+tags: millesimato, vino, bianco, italia, blend, spumante, metodo classico, chardonnay, pinot nero, pinot bianco, Alto-Adige, 5 stelle, pas-dose, Orata impanata all'arancia, Tagliolini polpa di granchi e agrumi, Calamari alle erbe aromatiche, 25-29€
 editor: markdown
 dateCreated: 2021-09-03T21:03:21.131Z
 ---
@@ -35,7 +35,9 @@ dateCreated: 2021-09-03T21:03:21.131Z
 
 - Orata impanata all'arancia
 - Tagliolini polpa di granchi e agrumi
+- Calamari alle erbe aromatiche
 
 ## Annate
 - Comitissa Pas Dose Riserva [2013](/vini/Italia/Alto-Adige/Lorenz-Martini/Comitissa-Pas-Dose-Riserva/2013) -- <span class="star-5"></span> -- 93/100
 - Comitissa Pas Dose Riserva [2015](/vini/Italia/Alto-Adige/Lorenz-Martini/Comitissa-Pas-Dose-Riserva/2015) -- <span class="star-4"></span> -- 90/100
+- Comitissa Pas Dose Riserva [2017](/vini/Italia/Alto-Adige/Lorenz-Martini/Comitissa-Pas-Dose-Riserva/2017) -- <span class="star-4"></span> -- 90/100
