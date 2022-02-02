@@ -35,3 +35,4 @@ dateCreated: 2022-01-15T21:40:12.066Z
 - Moro Polo [2014](vini/Italia/Veneto/Ca-Lustra-Zanovello/Moro-Polo/2014) -- <span class="star-3"></span> -- 87/100
 - Moro Polo [2015](vini/Italia/Veneto/Ca-Lustra-Zanovello/Moro-Polo/2015) -- <span class="star-3"></span> -- 87/100
 - Moro Polo [2016](vini/Italia/Veneto/Ca-Lustra-Zanovello/Moro-Polo/2016) -- <span class="star-3"></span> -- 88/100
+- Moro Polo [2017](vini/Italia/Veneto/Ca-Lustra-Zanovello/Moro-Polo/2017) -- <span class="star-3"></span> -- 88/100

@@ -1,9 +1,9 @@
 ---
 title: Amarone della Valpolicella Classico – Amarone della Valpolicella Classico DOCG – David Sterza – Veneto (IT) – 30-34€ – 5★
-description: Corvina 60% + Corvinone 20% + Oseleta 3% Rondinella 17% | Brasato di cinghiale con polenta
+description: Corvina 60% + Corvinone 20% + Oseleta 3% Rondinella 17% | Brasato di cinghiale con polenta – Tordi in salmì con polenta
 published: true
 date: 2022-01-28T17:14:37.370Z
-tags: vino, italia, rosso, blend, veneto, fermo, 30-34€, corvina, rondinella, corvinone, oseleta, Brasato di cinghiale con polenta
+tags: vino, italia, rosso, blend, veneto, fermo, 30-34€, corvina, rondinella, corvinone, oseleta, Brasato di cinghiale con polenta, Tordi in salmì con polenta
 editor: markdown
 dateCreated: 2022-01-27T15:21:34.303Z
 ---
@@ -26,8 +26,10 @@ dateCreated: 2022-01-27T15:21:34.303Z
 *Vedere le singole annate per abbinamenti specifici*
 
 - Brasato di cinghiale con polenta
+- Tordi in salmì con polenta
 
 
 ## Annate
 
 - Amarone della Valpolicella [2016](vini/Italia/Veneto/David Sterza/Amarone-della-Valpolicella/2016) -- <span class="star-5"></span> -- 93/100
+- Amarone della Valpolicella [2017](vini/Italia/Veneto/David Sterza/Amarone-della-Valpolicella/2017) -- <span class="star-5"></span> -- 91/100

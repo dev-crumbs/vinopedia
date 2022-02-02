@@ -1,5 +1,5 @@
 ---
-title: La Rocca – Soave Classico DOC – Pieropan – Veneto (IT) – 25-29€ – 5★
+title: La Rocca – Soave Classico DOC – Pieropan – Veneto (IT) – 25-29€ – 3★-5★
 description: Garganega 100% | Ricciola con crema di fave – Pappardelle ai funghi porcini – Risotto al tartufo nero – Carpaccio di gamberi – Fantasia di crostacei crudi
 published: true
 date: 2021-10-01T20:02:12.330Z
@@ -38,4 +38,5 @@ dateCreated: 2021-09-03T21:04:15.425Z
 - La Rocca [2015](vini/Italia/Veneto/Pieropan/La-Rocca/2015) -- <span class="star-5"></span> -- 93/100 
 - La Rocca [2016](vini/Italia/Veneto/Pieropan/La-Rocca/2016) -- <span class="star-5"></span> -- 95/100
 - La Rocca [2017](vini/Italia/Veneto/Pieropan/La-Rocca/2017) -- <span class="star-5"></span> -- 93/100
-- La Rocca [2016](vini/Italia/Veneto/Pieropan/La-Rocca/2016) -- <span class="star-5"></span> -- 94/100
+- La Rocca [2018](vini/Italia/Veneto/Pieropan/La-Rocca/2018) -- <span class="star-5"></span> -- 94/100
+- La Rocca [2019](vini/Italia/Veneto/Pieropan/La-Rocca/2019) -- <span class="star-3"></span> -- 88/100

@@ -1,9 +1,9 @@
 ---
 title: Amarone della Valpolicella – Amarone della Valpolicella DOCG – Monte Zovo – Veneto (IT) – 70-74€ – 4★-5★
-description: Corvina 80% + Rondinella 10% + Corvinone 10% | Germano reale allo spiedo – Pecorino di fossa stagionato
+description: Corvina 80% + Rondinella 10% + Corvinone 10% | Germano reale allo spiedo – Pecorino di fossa stagionato – Parmigiano reggiano 70 mesi
 published: true
 date: 2022-01-28T17:14:37.370Z
-tags: vino, italia, rosso, blend, veneto, fermo, 70-74€, corvina, rondinella, Pecorino di fossa stagionato, corvinone, Germano reale allo spiedo
+tags: vino, italia, rosso, blend, veneto, fermo, 70-74€, corvina, rondinella, Pecorino di fossa stagionato, corvinone, Germano reale allo spiedo, Parmigiano reggiano 70 mesi
 editor: markdown
 dateCreated: 2022-01-27T15:21:34.303Z
 ---
@@ -29,7 +29,9 @@ dateCreated: 2022-01-27T15:21:34.303Z
 
 - Germano reale allo spiedo
 - Pecorino di fossa stagionato
+- Parmigiano reggiano 70 mesi
 
 ## Annate
 - Amarone della Valpolicella [2015](vini/Italia/Veneto/Monte-Zovo/Amarone-della-Valpolicella/2015) -- <span class="star-4"></span> -- 90/100
 - Amarone della Valpolicella [2016](vini/Italia/Veneto/Monte-Zovo/Amarone-della-Valpolicella/2016) -- <span class="star-5"></span> -- 93/100
+- Amarone della Valpolicella [2017](vini/Italia/Veneto/Monte-Zovo/Amarone-della-Valpolicella/2017) -- <span class="star-5"></span> -- 92/100

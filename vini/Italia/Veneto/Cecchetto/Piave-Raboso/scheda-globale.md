@@ -1,5 +1,5 @@
 ---
-title: Piave Raboso – Piave Raboso DOC – Cecchetto – Veneto (IT) – 10-14€ – 5★
+title: Piave Raboso – Piave Raboso DOC – Cecchetto – Veneto (IT) – 10-14€ – 3★-5★
 description: Raboso Piave 100% | Arista di maiale ai pistacchi – Asiago stravecchio – Castelmagno con mostarda
 published: true
 date: 2021-10-01T20:02:06.909Z
@@ -37,3 +37,4 @@ dateCreated: 2021-10-01T09:53:23.581Z
 - Piave Raboso [2015](vini/Italia/Veneto/Cecchetto/Piave-Raboso/2015) -- <span class="star-3"></span> -- 87/100 
 - Piave Raboso [2016](vini/Italia/Veneto/Cecchetto/Piave-Raboso/2016) -- <span class="star-3"></span> -- 88/100
 - Piave Raboso [2017](vini/Italia/Veneto/Cecchetto/Piave-Raboso/2017) -- <span class="star-5"></span> -- 92/100
+- Piave Raboso [2018](vini/Italia/Veneto/Cecchetto/Piave-Raboso/2018) -- <span class="star-3"></span> -- 88/100

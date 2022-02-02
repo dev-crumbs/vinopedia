@@ -1,9 +1,9 @@
 ---
 title: Monte Sant'Urbano – Amarone della Valpolicella Classico DOCG – Speri – Veneto (IT) – 65-69€ – 4★-5★
-description: Corvina 65% + Rondinella 25% + Corvinone 5% + Molinara 5% | Fagiano allo spiedo – Capretto al forno – Petto d'anatra con salsa al cioccolato – Anatra in umido
+description: Corvina 65% + Rondinella 25% + Corvinone 5% + Molinara 5% | Fagiano allo spiedo – Capretto al forno – Petto d'anatra con salsa al cioccolato – Anatra in umido – Braciola di cervo in salsa di ribes
 published: true
 date: 2022-01-30T10:15:38.884Z
-tags: vino, italia, rosso, blend, veneto, fermo, 65-69€, corvina, rondinella, capretto al forno, corvinone, molinara, fagiano allo spiedo, petto d'anatra con salsa al cioccolato, anatra in umido
+tags: vino, italia, rosso, blend, veneto, fermo, 65-69€, corvina, rondinella, capretto al forno, corvinone, molinara, fagiano allo spiedo, petto d'anatra con salsa al cioccolato, anatra in umido, Braciola di cervo in salsa di ribes
 editor: markdown
 dateCreated: 2022-01-27T15:21:34.303Z
 ---
@@ -31,13 +31,14 @@ dateCreated: 2022-01-27T15:21:34.303Z
 - Capretto al forno
 - Petto d'anatra con salsa al cioccolato
 - Anatra in umido
+- Braciola di cervo in salsa di ribes
 
 ## Annate
 - Monte Sant'Urbano [2012](/vini/Italia/Veneto/Speri/Amarone-Monte-Sant-Urbano/2012) -- <span class="star-5"></span> -- 94/100
 - Monte Sant'Urbano [2013](/vini/Italia/Veneto/Speri/Amarone-Monte-Sant-Urbano/2013) -- <span class="star-4"></span> -- 90/100
 - Monte Sant'Urbano [2015](/vini/Italia/Veneto/Speri/Amarone-Monte-Sant-Urbano/2015) -- <span class="star-5"></span> -- 92/100
 - Monte Sant'Urbano [2016](/vini/Italia/Veneto/Speri/Amarone-Monte-Sant-Urbano/2016) -- <span class="star-5"></span> -- 93/100
-- Monte Sant'Urbano [2017](/vini/Italia/Veneto/Speri/Amarone-Monte-Sant-Urbano/2017) -- <span class="star-5"></span> -- 94/100
+- Monte Sant'Urbano [2017](/vini/Italia/Veneto/Speri/Amarone-Monte-Sant-Urbano/2017) -- <span class="star-5"></span> -- 92/100
 
 
 ## Confronto annate

@@ -1,5 +1,5 @@
 ---
-title: Sangue del Diavolo – Piave Raboso DOC – Ca' di Rajo – Veneto (IT) – 15-19€ – 3★-4★
+title: Sangue del Diavolo – Piave Raboso DOC – Ca' di Rajo – Veneto (IT) – 15-19€ – 3★
 description: Raboso Piave 100% | Ravioli al germano – Costata di cavallo alla griglia 
 published: true
 date: 2022-01-15T21:27:14.635Z
@@ -32,4 +32,4 @@ dateCreated: 2022-01-15T21:12:01.561Z
 - Sangue del Diavolo [2013](vini/Italia/Veneto/Ca-di-Rajo/Sangue-del-Diavolo/2013) -- <span class="star-3"></span> -- 87/100
 - Sangue del Diavolo [2014](vini/Italia/Veneto/Ca-di-Rajo/Sangue-del-Diavolo/2014) -- <span class="star-3"></span> -- 86/100
 - Sangue del Diavolo [2016](vini/Italia/Veneto/Ca-di-Rajo/Sangue-del-Diavolo/2016) -- <span class="star-3"></span> -- 88/100
-- Sangue del Diavolo [2017](vini/Italia/Veneto/Ca-di-Rajo/Sangue-del-Diavolo/2017) -- <span class="star-4"></span> -- 89/100
+- Sangue del Diavolo [2017](vini/Italia/Veneto/Ca-di-Rajo/Sangue-del-Diavolo/2017) -- <span class="star-3"></span> -- 88/100

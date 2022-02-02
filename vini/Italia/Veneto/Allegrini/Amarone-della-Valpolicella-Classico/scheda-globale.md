@@ -1,5 +1,5 @@
 ---
-title: Amarone della Valpolicella Classico – Amarone della Valpolicella Classico DOCG – Allegrini – Veneto (IT) – 80-84€ – 4★-5★
+title: Amarone della Valpolicella Classico – Amarone della Valpolicella Classico DOCG – Allegrini – Veneto (IT) – 80-84€ – 3★-5★
 description: Corvina 45% + Corvinone 45% + Oseleta 5% Rondinella 5% | Filetto di angus – Sella di cervo al ribes – Filetto di cinghiale in crosta con crema ai funghi – Costata di cavallo – Braciola di cervo
 published: true
 date: 2022-01-28T17:14:37.370Z
@@ -37,3 +37,4 @@ dateCreated: 2022-01-27T15:21:34.303Z
 - Amarone della Valpolicella [2014](vini/Italia/Veneto/Allegrini/Amarone-della-Valpolicella/2014) -- <span class="star-3"></span> -- 87/100
 - Amarone della Valpolicella [2015](vini/Italia/Veneto/Allegrini/Amarone-della-Valpolicella/2015) -- <span class="star-4"></span> -- 90/100
 - Amarone della Valpolicella [2016](vini/Italia/Veneto/Allegrini/Amarone-della-Valpolicella/2016) -- <span class="star-5"></span> -- 93/100
+- Amarone della Valpolicella [2017](vini/Italia/Veneto/Allegrini/Amarone-della-Valpolicella/2017) -- <span class="star-3"></span> -- 88/100

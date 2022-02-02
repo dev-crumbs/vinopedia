@@ -35,3 +35,4 @@ dateCreated: 2022-01-27T15:21:34.303Z
 - Cavolo [2012](vini/Italia/Veneto/Brigaldara/Cavolo/2012) -- <span class="star-4"></span> -- 90/100
 - Cavolo [2013](vini/Italia/Veneto/Brigaldara/Cavolo/2014) -- <span class="star-3"></span> -- 88/100
 - Cavolo [2015](vini/Italia/Veneto/Brigaldara/Cavolo/2015) -- <span class="star-5"></span> -- 92/100
+- Cavolo [2016](vini/Italia/Veneto/Brigaldara/Cavolo/2016) -- <span class="star-4"></span> -- 90/100

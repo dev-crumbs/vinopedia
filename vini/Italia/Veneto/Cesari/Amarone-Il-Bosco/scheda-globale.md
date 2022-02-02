@@ -35,3 +35,4 @@ dateCreated: 2022-01-15T21:40:12.066Z
 ## Annate
 - Il Bosco [2011](vini/Italia/Veneto/Cesari/Amarone-Il-Bosco/2011) -- <span class="star-3"></span> -- 88/100
 - Il Bosco [2013](vini/Italia/Veneto/Cesari/Amarone-Il-Bosco/2013) -- <span class="star-3"></span> -- 88/100
+- Il Bosco [2015](vini/Italia/Veneto/Cesari/Amarone-Il-Bosco/2015) -- <span class="star-3"></span> -- 88/100
