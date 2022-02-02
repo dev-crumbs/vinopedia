@@ -1,9 +1,9 @@
 ---
 title: Le Braci – Salento IGT – Garofano – Puglia (IT) – 40-44€ – 5★
-description: Negroamaro 100% | Formaggio di fossa – Lepre in salmì – Pecorino di fossa
+description: Negroamaro 100% | Formaggio di fossa – Lepre in salmì – Pecorino di fossa – Filetto di manzo in crosta
 published: true
 date: 2021-10-01T19:59:44.055Z
-tags: vino, italia, rosso, puglia, varietale, lepre in salmì, fermo, 5 stelle, negroamaro, formaggio di fossa, pecorino di fossa, 40-44€
+tags: vino, italia, rosso, puglia, varietale, lepre in salmì, fermo, 5 stelle, negroamaro, formaggio di fossa, pecorino di fossa, Filetto di manzo in crosta, 40-44€
 editor: markdown
 dateCreated: 2021-08-31T15:46:29.258Z
 ---
@@ -29,9 +29,10 @@ dateCreated: 2021-08-31T15:46:29.258Z
 - formaggio di fossa
 - lepre in salmì
 - pecorino di fossa
+- Filetto di manzo in crosta
 
 ## Annate
 - Le Braci [2010](vini/Italia/Puglia/Garofano/Le-Braci/2010) -- <span class="star-5"></span> -- 92/100
 - Le Braci [2011](vini/Italia/Puglia/Garofano/Le-Braci/2011) -- <span class="star-5"></span> -- 93/100
 - Le Braci [2013](vini/Italia/Puglia/Garofano/Le-Braci/2013) -- <span class="star-5"></span> -- 95/100
-
+- Le Braci [2014](vini/Italia/Puglia/Garofano/Le-Braci/2014) -- <span class="star-5"></span> -- 93/100

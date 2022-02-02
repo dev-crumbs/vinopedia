@@ -1,9 +1,9 @@
 ---
 title: Boca – Boca Doc – Le Piane – Piemonte (IT) – 55-59€ – 5★
-description: Nebbiolo 85% + Vespolina 15% | Fagiano tartufato – Petto di faraona con uvetta e agrumi – Finanziera alla torinese – Faraona in casseruola
+description: Nebbiolo 85% + Vespolina 15% | Fagiano tartufato – Petto di faraona con uvetta e agrumi – Finanziera alla torinese – Faraona in casseruola – Quaglie allo spiedo
 published: true
 date: 2021-10-01T19:59:09.934Z
-tags: vino, italia, rosso, blend, piemonte, nebbiolo, 5 stelle, fagiano tartufato, vespolina, petto di faraona con uvetta e agrumi, finanziera alla torinese, faraona in casseruola, 55-59€
+tags: vino, italia, rosso, blend, piemonte, nebbiolo, 5 stelle, fagiano tartufato, vespolina, petto di faraona con uvetta e agrumi, finanziera alla torinese, faraona in casseruola, Quaglie allo spiedo, 55-59€
 editor: markdown
 dateCreated: 2021-09-07T14:45:31.356Z
 ---
@@ -30,9 +30,11 @@ dateCreated: 2021-09-07T14:45:31.356Z
 - petto di faraona con uvetta e agrumi
 - finanziera alla torinese
 - faraona in casseruola
+- Quaglie allo spiedo
 
 ## Annate
-- Boca [2011](vini/Italia/Piemonte/Le Piane/Boca/2011) -- <span class="star-5"></span> -- 95/100
-- Boca [2012](vini/Italia/Piemonte/Le Piane/Boca/2012) -- <span class="star-5"></span> -- 94/100 
-- Boca [2015](vini/Italia/Piemonte/Le Piane/Boca/2015) -- <span class="star-5"></span> -- 94/100
-- Boca [2016](vini/Italia/Piemonte/Le Piane/Boca/2016) -- <span class="star-5"></span> -- 93/100
+- Boca [2011](vini/Italia/Piemonte/Le-Piane/Boca/2011) -- <span class="star-5"></span> -- 95/100
+- Boca [2012](vini/Italia/Piemonte/Le-Piane/Boca/2012) -- <span class="star-5"></span> -- 94/100 
+- Boca [2015](vini/Italia/Piemonte/Le-Piane/Boca/2015) -- <span class="star-5"></span> -- 94/100
+- Boca [2016](vini/Italia/Piemonte/Le-Piane/Boca/2016) -- <span class="star-5"></span> -- 93/100
+- Boca [2017](vini/Italia/Piemonte/Le-Piane/Boca/2017) -- <span class="star-5"></span> -- 96/10

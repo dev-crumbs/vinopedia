@@ -36,4 +36,5 @@ dateCreated: 2021-10-01T17:43:08.401Z
 - Sot Lis Rivis [2016](/vini/Italia/Friuli-Venezia-Giulia/Ronco-del-Gelso/Sot-Lis-Rivis/2016) -- <span class="star-4"></span> -- 90/100
 - Sot Lis Rivis [2017](/vini/Italia/Friuli-Venezia-Giulia/Ronco-del-Gelso/Sot-Lis-Rivis/2017) -- <span class="star-4"></span> -- 90/100
 - Sot Lis Rivis [2018](/vini/Italia/Friuli-Venezia-Giulia/Ronco-del-Gelso/Sot-Lis-Rivis/2018) -- <span class="star-5"></span> -- 92/100
+- Sot Lis Rivis [2019](/vini/Italia/Friuli-Venezia-Giulia/Ronco-del-Gelso/Sot-Lis-Rivis/2019) -- <span class="star-4"></span> -- 90/100
 

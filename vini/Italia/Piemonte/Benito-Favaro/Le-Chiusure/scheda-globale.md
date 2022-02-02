@@ -37,3 +37,4 @@ dateCreated: 2021-09-30T12:52:55.306Z
 - Le Chiusure [2016](vini/Italia/Piemonte/Benito-Favaro/Le-Chiusure/2016) -- <span class="star-5"></span>  -- 91/100
 - Le Chiusure [2017](vini/Italia/Piemonte/Benito-Favaro/Le-Chiusure/2017) -- <span class="star-5"></span>  -- 92/100
 - Le Chiusure [2018](vini/Italia/Piemonte/Benito-Favaro/Le-Chiusure/2018) -- <span class="star-5"></span>  -- 91/100
+- Le Chiusure [2019](vini/Italia/Piemonte/Benito-Favaro/Le-Chiusure/2019) -- <span class="star-3"></span>  -- 88/100

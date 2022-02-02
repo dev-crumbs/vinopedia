@@ -34,7 +34,7 @@ dateCreated: 2021-09-08T14:09:00.807Z
 - Tintilia del Molise [2017](/vini/Italia/Molise/Terresacre/Tintilia-del-Molise/2017) -- <span class="star-2"></span> -- 83/100
 - Tintilia del Molise [2018](/vini/Italia/Molise/Terresacre/Tintilia-del-Molise/2018) -- <span class="star-2"></span> -- 83/100
 - Tintilia del Molise [2019](/vini/Italia/Molise/Terresacre/Tintilia-del-Molise/2019) -- <span class="star-3"></span> -- 86/100
-
+- Tintilia del Molise [2020](/vini/Italia/Molise/Terresacre/Tintilia-del-Molise/2020) -- <span class="star-3"></span> -- 85/100
 
 
 

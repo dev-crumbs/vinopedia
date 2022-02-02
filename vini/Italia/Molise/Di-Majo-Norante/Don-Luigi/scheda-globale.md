@@ -1,9 +1,9 @@
 ---
 title: Don Luigi – Molise Riserva DOC – Di Majo Norante – Molise (IT) – 25-29€ – 3★-5★
-description: Montepulciano 100% | Filetto alla wellington – Braciola di maiale alle prugne – Lasagne al forno – Guancia di manzo con zucca liquirizia e caffè
+description: Montepulciano 100% | Filetto alla wellington – Braciola di maiale alle prugne – Lasagne al forno – Guancia di manzo con zucca liquirizia e caffè – Spezzatino di maiale con polenta
 published: true
 date: 2021-10-01T20:13:14.475Z
-tags: vino, italia, rosso, varietale, montepulciano, molise, fermo, 5 stelle, filetto alla wellington, braciola di maiale alle prugne, lasagne al forno, guancia di manzo con zucca liquirizia e caffè, 25-29€
+tags: vino, italia, rosso, varietale, montepulciano, molise, fermo, 5 stelle, filetto alla wellington, braciola di maiale alle prugne, lasagne al forno, guancia di manzo con zucca liquirizia e caffè, Spezzatino di maiale con polenta, 25-29€
 editor: markdown
 dateCreated: 2021-08-31T15:46:21.100Z
 ---
@@ -28,12 +28,14 @@ dateCreated: 2021-08-31T15:46:21.100Z
 - braciola di maiale alle prugne
 - lasagne al forno
 - guancia di manzo con zucca liquirizia e caffè
+- Spezzatino di maiale con polenta
 
 ## Annate
 - [Don Luigi 2013](/vini/Italia/Molise/Di-Majo-Norante/Don-Luigi/2013) -- <span class="star-3"></span> -- 88/10
 - [Don Luigi 2014](/vini/Italia/Molise/Di-Majo-Norante/Don-Luigi/2014) -- <span class="star-5"></span> -- 92/100
 - [Don Luigi 2015](/vini/Italia/Molise/Di-Majo-Norante/Don-Luigi/2015) -- <span class="star-5"></span> -- 94/100
-- [Don Luigi 2016](/vini/Italia/Molise/Di-Majo-Norante/Don-Luigi/2016) -- <span class="star-5"></span> -- 82/100
+- [Don Luigi 2016](/vini/Italia/Molise/Di-Majo-Norante/Don-Luigi/2016) -- <span class="star-5"></span> -- 92/100
+- [Don Luigi 2017](/vini/Italia/Molise/Di-Majo-Norante/Don-Luigi/2017) -- <span class="star-5"></span> -- 92/100
 
 
 

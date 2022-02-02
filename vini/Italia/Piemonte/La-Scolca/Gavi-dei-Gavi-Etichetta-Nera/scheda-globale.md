@@ -1,9 +1,9 @@
 ---
 title: Gavi dei Gavi Etichetta Nera – Gavi DOCG – La Scolca – Piemonte (IT) – 25-29€ – 3★-5★
-description: Cortese 100% | Aragosta alla catalana – Risotto agli scampi – Risotto ai frutti di mare
+description: Cortese 100% | Aragosta alla catalana – Risotto agli scampi – Risotto ai frutti di mare – Filetto di branzino alle olive taggiasche
 published: true
 date: 2021-10-01T20:13:38.160Z
-tags: vino, bianco, italia, varietale, piemonte, fermo, 5 stelle, aragosta alla catalana, risotto agli scampi, risotto ai frutti di mare, cortese, 25-29€
+tags: vino, bianco, italia, varietale, piemonte, fermo, 5 stelle, aragosta alla catalana, risotto agli scampi, risotto ai frutti di mare, cortese, Filetto di branzino alle olive taggiasche, 25-29€
 editor: markdown
 dateCreated: 2021-08-31T15:46:25.145Z
 ---
@@ -21,16 +21,13 @@ dateCreated: 2021-08-31T15:46:25.145Z
 - **Fascia di prezzo:** 25-29€
 {.grid-list}
 
-## Descrizione del produttore
-
-> II prestigioso "Gavi dei Gavi" La Scolca® è ottenuto attraverso il più rigoroso rispetto della natura, delle più antiche e tradizionali regole di coltivazione, dalla potatura fino alla vendemmia con una severa ed attenta selezione nei vigneti che raggiungono i sessant’anni d’età. In cantina, con tecniche di vinificazione affinate in oltre 100 anni di esperienza, nasce un modello di Gavi tuttora insuperato: un termine di paragone e riferimento, frutto di una lunga tradizione da generazioni. Un vino che stupisce: contrappone ad un profumo delicato un carattere forte ed una grande personalità. Un vino sospeso nel tempo. Vivo ed intenso, armonioso ed equilibrato offre una sorprendente freschezza e continuità. I complessi sentori di pietra focaia, mandorla e noce sanno evolversi nel tempo: un vino con l’anima del fanciullo, ma con il cuore da adulto.
-
 ## Possibili abbinamenti
 *Vedere le singole annate per abbinamenti specifici*
 
 - Aragosta alla catalana
 - risotto agli scampi
 - risotto ai frutti di mare
+- Filetto di branzino alle olive taggiasche
 
 
 ## Annate
@@ -39,3 +36,4 @@ dateCreated: 2021-08-31T15:46:25.145Z
 - Gavi dei Gavi Etichetta Nera [2016](vini/Italia/Piemonte/La-Scolca/Gavi-dei-Gavi-Etichetta-Nera/2016) -- <span class="star-4"></span>  -- 90/100
 - Gavi dei Gavi Etichetta Nera [2018](vini/Italia/Piemonte/La-Scolca/Gavi-dei-Gavi-Etichetta-Nera/2018) -- <span class="star-5"></span>  -- 94/100
 - Gavi dei Gavi Etichetta Nera [2019](vini/Italia/Piemonte/La-Scolca/Gavi-dei-Gavi-Etichetta-Nera/2019) -- <span class="star-4"></span>  -- 90/100
+- Gavi dei Gavi Etichetta Nera [2020](vini/Italia/Piemonte/La-Scolca/Gavi-dei-Gavi-Etichetta-Nera/2020) -- <span class="star-5"></span>  -- 93/100

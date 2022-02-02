@@ -34,4 +34,4 @@ dateCreated: 2021-09-24T12:30:51.383Z
 - Maria Grazia [2016](vini/Italia/Piemonte/Carlo-Giacosa/Maria-Grazia/2016) -- <span class="star-2"></span> -- 83/100
 - Maria Grazia [2017](vini/Italia/Piemonte/Carlo-Giacosa/Maria-Grazia/2017) -- <span class="star-3"></span> -- 85/100
 - Maria Grazia [2018](vini/Italia/Piemonte/Carlo-Giacosa/Maria-Grazia/2018) -- <span class="star-3"></span> -- 87/100
-- Maria Grazia [2019](vini/Italia/Piemonte/Carlo-Giacosa/Maria-Grazia/2019) -- <span class="star-3"></span> -- 87/100
+- Maria Grazia [2019](vini/Italia/Piemonte/Carlo-Giacosa/Maria-Grazia/2019) -- <span class="star-2"></span> -- 84/100

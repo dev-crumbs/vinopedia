@@ -1,9 +1,9 @@
 ---
-title: Vinea Benedectina – Tintilia del Molise DOC – L'Arco Antico – Molise (IT) – 15-19€ – 5★
-description: Tintilia del Molise 100% | Carrè di maiale al forno
+title: Vinea Benedectina – Tintilia del Molise DOC – L'Arco Antico – Molise (IT) – 15-19€ – 3★-5★
+description: Tintilia del Molise 100% | Carrè di maiale al forno – Arrosto misto
 published: true
 date: 2021-10-01T19:58:35.734Z
-tags: vino, italia, rosso, varietale, tintilia, molise, fermo, 5 stelle, carrè di maiale al forno, 15-19€
+tags: vino, italia, rosso, varietale, tintilia, molise, fermo, 5 stelle, carrè di maiale al forno, 15-19€, Arrosto misto
 editor: markdown
 dateCreated: 2021-09-03T21:03:36.384Z
 ---
@@ -26,11 +26,12 @@ dateCreated: 2021-09-03T21:03:36.384Z
 ## Possibili abbinamenti
 *Vedere le singole annate per abbinamenti specifici*
 
--  carrè di maiale al forno
+- carrè di maiale al forno
+- Arrosto misto
 
 ## Annate
 - Vinea Benedectina [2015](/vini/Italia/Molise/L-Arco-Antico/Vinea-Benedectina/2015) -- <span class="star-5"></span> -- 92/100
-
+- Vinea Benedectina [2019](/vini/Italia/Molise/L-Arco-Antico/Vinea-Benedectina/2019) -- <span class="star-3"></span> -- 88/100
 
 
 

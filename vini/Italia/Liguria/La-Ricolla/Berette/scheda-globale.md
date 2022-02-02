@@ -34,3 +34,4 @@ dateCreated: 2021-08-29T16:15:27.525Z
 - Berette [2015](vini/Italia/Liguria/La-Ricolla/Berette/2015) -- <span class="star-3"></span> -- 86/100 
 - Berette [2016](vini/Italia/Liguria/La-Ricolla/Berette/2016) -- <span class="star-3"></span> -- 87/100
 - Berette [2017](vini/Italia/Liguria/La-Ricolla/Berette/2017) -- <span class="star-5"></span> -- 93/100
+- Berette [2019](vini/Italia/Liguria/La-Ricolla/Berette/2019) -- <span class="star-3"></span> -- 86/100

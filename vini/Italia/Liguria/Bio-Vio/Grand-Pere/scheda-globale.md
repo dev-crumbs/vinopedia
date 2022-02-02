@@ -36,3 +36,4 @@ dateCreated: 2021-08-26T10:19:41.335Z
 - Grand-Père [2016](vini/Italia/Liguria/Bio-Vio/Grand-Pere/2016) -- <span class="star-3"></span> -- 88/100
 - Grand-Père [2017](vini/Italia/Liguria/Bio-Vio/Grand-Pere/2017) -- <span class="star-3"></span> -- 87/100
 - Grand-Père [2018](vini/Italia/Liguria/Bio-Vio/Grand-Pere/2018) -- <span class="star-5"></span> -- 94/100
+- Grand-Père [2019](vini/Italia/Liguria/Bio-Vio/Grand-Pere/2019) -- <span class="star-3"></span> -- 88/100

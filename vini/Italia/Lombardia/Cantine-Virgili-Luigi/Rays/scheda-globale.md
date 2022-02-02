@@ -1,9 +1,9 @@
 ---
 title: Rays – Lambrusco mantovano DOC – Cantina Virgili Luigi – Lombardia (IT) – 10-14€ – 3★-5★
-description: Grappello Ruberti 100% | Cotechino – Strudel di verdure con salsiccia – Bollito misto – Tagliere di salumi – Strolghino di culatello
+description: Grappello Ruberti 100% | Cotechino – Strudel di verdure con salsiccia – Bollito misto – Tagliere di salumi – Strolghino di culatello – Tortelli di zucca
 published: true
 date: 2021-10-01T20:12:46.480Z
-tags: vino, rosso, varietale, frizzante, cotechino, 5 stelle, grappello ruberti, strudel di verdure con salsiccia, bollito misto, tagliere di salumi, strolghino di culatello, 10-14€
+tags: vino, rosso, varietale, frizzante, cotechino, 5 stelle, grappello ruberti, strudel di verdure con salsiccia, bollito misto, tagliere di salumi, strolghino di culatello, Tortelli di zucca, 10-14€
 editor: markdown
 dateCreated: 2021-09-28T15:49:42.391Z
 ---
@@ -31,6 +31,7 @@ dateCreated: 2021-09-28T15:49:42.391Z
 - Bollito misto
 - Tagliere di salumi
 - Strolghino di culatello
+- Tortelli di zucca
 
 ## Annate
 Rays è un vino Sans Année, le annate si riferiscono agli anni in cui il vino è stato degustato
@@ -40,6 +41,7 @@ Rays è un vino Sans Année, le annate si riferiscono agli anni in cui il vino �
 - Rays [2019](/vini/Italia/Lombardia/Cantina-Virgili-Luigi/Rays/2019) -- <span class="star-4"></span> -- 90/100
 - Rays [2020](/vini/Italia/Lombardia/Cantina-Virgili-Luigi/Rays/2020) -- <span class="star-4"></span> -- 90/100
 - Rays [2021](/vini/Italia/Lombardia/Cantina-Virgili-Luigi/Rays/2021) -- <span class="star-5"></span> -- 91/100
+- Rays [2022](/vini/Italia/Lombardia/Cantina-Virgili-Luigi/Rays/2022) -- <span class="star-4"></span> -- 90/100
 
 ## Note
 

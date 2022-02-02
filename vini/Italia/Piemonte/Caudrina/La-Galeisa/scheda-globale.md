@@ -1,5 +1,5 @@
 ---
-title: La Galeisa – Moscato d'Asti DOCG – Caudrina – Piemonte (IT) – 10-14€ – 4★-5★
+title: La Galeisa – Moscato d'Asti DOCG – Caudrina – Piemonte (IT) – 10-14€ – 3★-5★
 description: Moscato bianco 100% | Bavarese alle pesche – Pesche ripiene con amaretti – Paste di mandorla – Torta sbrisolona
 published: true
 date: 2021-10-01T20:13:27.457Z
@@ -38,3 +38,4 @@ dateCreated: 2021-10-01T09:53:10.670Z
 - La Galeisa [2016](vini/Italia/Piemonte/Caudrina/La-Galeisa/2016) -- <span class="star-4"></span>  -- 90/100  
 - La Galeisa [2018](vini/Italia/Piemonte/Caudrina/La-Galeisa/2018) -- <span class="star-4"></span>  -- 90/100
 - La Galeisa [2019](vini/Italia/Piemonte/Caudrina/La-Galeisa/2019) -- <span class="star-5"></span>  -- 92/100
+- La Galeisa [2020](vini/Italia/Piemonte/Caudrina/La-Galeisa/2020) -- <span class="star-3"></span>  -- 86/100

@@ -38,4 +38,4 @@ dateCreated: 2021-09-28T15:49:47.183Z
 - Rohesia [2017](vini/Italia/Puglia/Cantele/Rohesia/2017) -- <span class="star-5"></span> -- 91/100
 - Rohesia [2018](vini/Italia/Puglia/Cantele/Rohesia/2018) -- <span class="star-4"></span> -- 90/100
 - Rohesia [2019](vini/Italia/Puglia/Cantele/Rohesia/2019) -- <span class="star-5"></span> -- 92/100
-
+- Rohesia [2020](vini/Italia/Puglia/Cantele/Rohesia/2020) -- <span class="star-5"></span> -- 92/100

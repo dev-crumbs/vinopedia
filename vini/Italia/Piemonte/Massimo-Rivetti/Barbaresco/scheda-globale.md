@@ -34,3 +34,4 @@ dateCreated: 2021-09-24T12:31:16.342Z
 - Barbaresco  [2013](vini/Italia/Piemonte/Massimo-Rivetti/Barbaresco/2013) -- <span class="star-3"></span> -- 87/100
 - Barbaresco  [2014](vini/Italia/Piemonte/Massimo-Rivetti/Barbaresco/2014) -- <span class="star-3"></span> -- 86/100
 - Barbaresco  [2017](vini/Italia/Piemonte/Massimo-Rivetti/Barbaresco/2017) -- <span class="star-3"></span> -- 86/100
+- Barbaresco  [2018](vini/Italia/Piemonte/Massimo-Rivetti/Barbaresco/2018) -- <span class="star-3"></span> -- 87/100

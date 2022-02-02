@@ -1,9 +1,9 @@
 ---
 title: Minaia – Gavi Rovereto DOCG – Nicola Bargaglio – Piemonte (IT) – 15-19€ – 3★-5★
-description: Cortese 100% | Gnocchetti alla polpa di granchio – Tartare di tonno – Spaghetti all'astice – Grigliata di pesce – Pesce spada al limone
+description: Cortese 100% | Gnocchetti alla polpa di granchio – Tartare di tonno – Spaghetti all'astice – Grigliata di pesce – Pesce spada al limone – Frittura di paranza
 published: true
 date: 2021-10-04T06:51:14.596Z
-tags: vino, bianco, italia, varietale, piemonte, fermo, 5 stelle, grigliata di pesce, cortese, 15-19€, tartare di tonno, gnocchetti alla polpa di granchio, spaghetti all'astice, pesce spada al limone
+tags: vino, bianco, italia, varietale, piemonte, fermo, 5 stelle, grigliata di pesce, cortese, 15-19€, tartare di tonno, gnocchetti alla polpa di granchio, spaghetti all'astice, pesce spada al limone, Frittura di paranza
 editor: markdown
 dateCreated: 2021-10-04T06:51:11.718Z
 ---
@@ -31,6 +31,7 @@ dateCreated: 2021-10-04T06:51:11.718Z
 - Spaghetti all'astice
 - Grigliata di pesce
 - Pesce spada al limone
+- Frittura di paranza
 
 
 ## Annate
@@ -40,3 +41,4 @@ dateCreated: 2021-10-04T06:51:11.718Z
 - Minaia [2017](vini/Italia/Piemonte/Nicola-Bargaglio/Gavi-dei-Gavi-Etichetta-Nera/2017) -- <span class="star-5"></span>  -- 92/100
 - Minaia [2018](vini/Italia/Piemonte/Nicola-Bargaglio/Gavi-dei-Gavi-Etichetta-Nera/2018) -- <span class="star-5"></span>  -- 91/100
 - Minaia [2019](vini/Italia/Piemonte/Nicola-Bargaglio/Gavi-dei-Gavi-Etichetta-Nera/2019) -- <span class="star-5"></span>  -- 92/100
+- Minaia [2020](vini/Italia/Piemonte/Nicola-Bargaglio/Gavi-dei-Gavi-Etichetta-Nera/2020) -- <span class="star-5"></span>  -- 92/100

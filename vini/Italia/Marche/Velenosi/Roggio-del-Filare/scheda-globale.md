@@ -38,6 +38,7 @@ dateCreated: 2021-09-08T09:21:10.164Z
 - Roggio del Filare [2015](/vini/Italia/Marche/Velenosi/Roggio-del-Filare/2015) -- <span class="star-3"></span> -- 87/100
 - Roggio del Filare [2016](/vini/Italia/Marche/Velenosi/Roggio-del-Filare/2016) -- <span class="star-5"></span> -- 94/100
 - Roggio del Filare [2017](/vini/Italia/Marche/Velenosi/Roggio-del-Filare/2017) -- <span class="star-3"></span> -- 86/100
+- Roggio del Filare [2018](/vini/Italia/Marche/Velenosi/Roggio-del-Filare/2018) -- <span class="star-3"></span> -- 88/100
 
 
 

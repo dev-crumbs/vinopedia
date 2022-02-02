@@ -16,7 +16,7 @@ dateCreated: 2021-10-04T06:51:07.853Z
 - **Denominazione:** [Barbera d'Alba DOC](/denominazioni/Italia/Piemonte/DOC/Barbera-d-Alba) (superiore)
 - **Produttore:** [Manzone](/produttori/Italia/Piemonte/Manzone)
 - **Composizione:** 100% [Barbera](/vitigni/Italia/bacca-nera/barbera)
-- **Affinamento:** 2 anni in tonneau
+- **Affinamento:** 2 anni in
 - **Alcol:** 14.5%
 - **Fascia di prezzo:** 25-29€
 {.grid-list}

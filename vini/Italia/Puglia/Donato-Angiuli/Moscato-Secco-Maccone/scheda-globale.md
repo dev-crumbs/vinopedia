@@ -39,4 +39,5 @@ dateCreated: 2021-10-01T17:43:19.742Z
 - Moscato secco Maccone [2017](vini/Italia/Puglia/Donato-Angiuli/Moscato-Secco-Maccone/2017) -- <span class="star-5"></span> -- 92/100
 - Moscato secco Maccone [2018](vini/Italia/Puglia/Donato-Angiuli/Moscato-Secco-Maccone/2018) -- <span class="star-4"></span> -- 90/100
 - Moscato secco Maccone [2019](vini/Italia/Puglia/Donato-Angiuli/Moscato-Secco-Maccone/2019) -- <span class="star-5"></span> -- 92/100
+- Moscato secco Maccone [2020](vini/Italia/Puglia/Donato-Angiuli/Moscato-Secco-Maccone/2020) -- <span class="star-4"></span> -- 89/100
 

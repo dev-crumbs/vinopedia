@@ -32,5 +32,6 @@ dateCreated: 2021-09-30T08:13:33.751Z
 ## Annate
 - Godenzia [2017](/vini/Italia/Marche/Cantine-Mecella/Godenzia/2017) -- <span class="star-3"></span> -- 88/100
 - Godenzia [2018](/vini/Italia/Marche/Cantine-Mecella/Godenzia/2018) -- <span class="star-5"></span> -- 92/100
+- Godenzia [2019](/vini/Italia/Marche/Cantine-Mecella/Godenzia/2019) -- <span class="star-3"></span> -- 86/100
 
 

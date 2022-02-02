@@ -38,3 +38,4 @@ dateCreated: 2021-09-24T12:31:24.453Z
 - Barolo Serralunga [2014](vini/Italia/Piemonte/Paolo-Manzone/Barolo-Serralunga/2014) -- <span class="star-4"></span> -- 90/100
 - Barolo Serralunga [2015](vini/Italia/Piemonte/Paolo-Manzone/Barolo-Serralunga/2015) -- <span class="star-3"></span> -- 87/100
 - Barolo Serralunga [2016](vini/Italia/Piemonte/Paolo-Manzone/Barolo-Serralunga/2016) -- <span class="star-3"></span> -- 87/100
+- Barolo Serralunga [2017](vini/Italia/Piemonte/Paolo-Manzone/Barolo-Serralunga/2017) -- <span class="star-3"></span> -- 86/100

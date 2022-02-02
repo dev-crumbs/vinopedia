@@ -34,4 +34,5 @@ dateCreated: 2021-09-30T08:13:26.825Z
 - Colle Forma [2016](/vini/Italia/Lazio/Giovanni-Terenzi/Colle-Forma/2016) -- <span class="star-3"></span> -- 88/100
 - Colle Forma [2017](/vini/Italia/Lazio/Giovanni-Terenzi/Colle-Forma/2017) -- <span class="star-4"></span> -- 90/100
 - Colle Forma [2018](/vini/Italia/Lazio/Giovanni-Terenzi/Colle-Forma/2018) -- <span class="star-5"></span> -- 92/100
+- Colle Forma [2019](/vini/Italia/Lazio/Giovanni-Terenzi/Colle-Forma/2019) -- <span class="star-3"></span> -- 88/100
 

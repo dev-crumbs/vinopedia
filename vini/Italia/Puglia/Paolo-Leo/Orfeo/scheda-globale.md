@@ -1,9 +1,9 @@
 ---
 title: Orfeo – Salento IGT – Paolo Leo – Puglia (IT) – 10-14€ – 4★-5★
-description: Negroamaro 100% | Medaglioni di vitello su fonduta di pecorino – Tagliata con rosti di patate – Brasato di cervo ai mirtilli – Caserecce salsiccia funghi e caciocavallo – Filetto con castagne e salsa di prugne
+description: Negroamaro 100% | Medaglioni di vitello su fonduta di pecorino – Tagliata con rosti di patate – Brasato di cervo ai mirtilli – Caserecce salsiccia funghi e caciocavallo – Filetto con castagne e salsa di prugne – Pappardelle al ragù di lepre
 published: true
 date: 2021-10-01T20:13:58.700Z
-tags: vino, italia, rosso, puglia, varietale, fermo, 5 stelle, negroamaro, 10-14€, medaglioni di vitello su fonduta di pecorino, tagliata con rosti di patate, brasato di cervo ai mirtilli, filetto con castagne e salsa di prugne
+tags: vino, italia, rosso, puglia, varietale, fermo, 5 stelle, negroamaro, 10-14€, medaglioni di vitello su fonduta di pecorino, tagliata con rosti di patate, brasato di cervo ai mirtilli, filetto con castagne e salsa di prugne, Pappardelle al ragù di lepre
 editor: markdown
 dateCreated: 2021-09-30T08:13:44.856Z
 ---
@@ -31,6 +31,7 @@ dateCreated: 2021-09-30T08:13:44.856Z
 - Brasato di cervo ai mirtilli
 - Caserecce salsiccia funghi e caciocavallo
 - Filetto con castagne e salsa di prugne
+- Pappardelle al ragù di lepre
 
 ## Annate
 - Orfeo [2014](vini/Italia/Puglia/Paolo-Leo/Orfeo/2014) -- <span class="star-4"></span> -- 90/100
@@ -38,3 +39,4 @@ dateCreated: 2021-09-30T08:13:44.856Z
 - Orfeo [2016](vini/Italia/Puglia/Paolo-Leo/Orfeo/2016) -- <span class="star-4"></span> -- 90/100
 - Orfeo [2017](vini/Italia/Puglia/Paolo-Leo/Orfeo/2017) -- <span class="star-5"></span> -- 92/100
 - Orfeo [2018](vini/Italia/Puglia/Paolo-Leo/Orfeo/2018) -- <span class="star-5"></span> -- 93/100
+- Orfeo [2019](vini/Italia/Puglia/Paolo-Leo/Orfeo/2019) -- <span class="star-5"></span> -- 93/100

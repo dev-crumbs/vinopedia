@@ -34,5 +34,6 @@ dateCreated: 2021-09-24T12:31:04.121Z
 ## Annate
 - Barolo [2012](vini/Italia/Piemonte/Ciabot-Berton/Barolo-Roggeri/2012) -- <span class="star-3"></span> -- 88/100
 - Barolo [2013](vini/Italia/Piemonte/Ciabot-Berton/Barolo-Roggeri/2013) -- <span class="star-3"></span> -- 87/100
-- Barolo [2014](vini/Italia/Piemonte/Ciabot-Berton/Barolo-Roggeri/2014) -- <span class="star-3"></span> -- 87/100
+- Barolo [2014](vini/Italia/Piemonte/Ciabot-Berton/Barolo-Roggeri/2014) -- <span class="star-3"></span> -- 86/100
 - Barolo [2015](vini/Italia/Piemonte/Ciabot-Berton/Barolo-Roggeri/2015) -- <span class="star-3"></span> -- 87/100
+- Barolo [2016](vini/Italia/Piemonte/Ciabot-Berton/Barolo-Roggeri/2016) -- <span class="star-3"></span> -- 86/100

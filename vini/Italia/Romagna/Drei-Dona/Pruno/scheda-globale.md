@@ -34,3 +34,4 @@ dateCreated: 2021-08-26T10:19:45.262Z
 - Pruno [2013](/vini/Italia/Romagna/Drei-Dona/Pruno/2013) -- <span class="star-3"></span> -- 87/100
 - Pruno [2015](/vini/Italia/Romagna/Drei-Dona/Pruno/2015) -- <span class="star-3"></span> -- 88/100
 - Pruno [2016](/vini/Italia/Romagna/Drei-Dona/Pruno/2016) -- <span class="star-5"></span> -- 95/100
+- Pruno [2017](/vini/Italia/Romagna/Drei-Dona/Pruno/2017) -- <span class="star-3"></span> -- 88/100

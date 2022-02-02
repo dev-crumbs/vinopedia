@@ -1,9 +1,9 @@
 ---
 title: Pianacce – Colli di Luni DOC – Giacomelli – Liguria (IT) – 15-19€ – 3★-5★
-description: Vermentino 100% | Sogliola alla mugnaia – Tagliolini al sugo di bianchetti – Tortino di acciughe e patate – Involtini di pesce spada con uvetta e pinoli
+description: Vermentino 100% | Sogliola alla mugnaia – Tagliolini al sugo di bianchetti – Tortino di acciughe e patate – Involtini di pesce spada con uvetta e pinoli – Paccheri acciughe zucchine e pesto al limore
 published: true
 date: 2021-10-01T20:12:38.725Z
-tags: vino, bianco, italia, varietale, liguria, fermo, 5 stelle, vermentino, sogliola alla mugnaia, tagliolini al sugo di bianchetti, involtini di pesce spada con uvetta e pinoli, tortino di acciughe e patate, 15-19€
+tags: vino, bianco, italia, varietale, liguria, fermo, 5 stelle, vermentino, sogliola alla mugnaia, tagliolini al sugo di bianchetti, involtini di pesce spada con uvetta e pinoli, tortino di acciughe e patate, Paccheri acciughe zucchine e pesto al limore, 15-19€
 editor: markdown
 dateCreated: 2021-09-03T21:03:14.410Z
 ---
@@ -30,6 +30,7 @@ dateCreated: 2021-09-03T21:03:14.410Z
 - tagliolini al sugo di bianchetti
 - tortino di acciughe e pataate
 - involtini di pesce spada con uvetta e pinoli
+- Paccheri acciughe zucchine e pesto al limore
 
 ## Annate
 - Pianacce [2015](vini/Italia/Liguria/Giacomelli/Pianacce/2015) -- <span class="star-3"></span> -- 86/100 
@@ -37,3 +38,4 @@ dateCreated: 2021-09-03T21:03:14.410Z
 - Pianacce [2017](vini/Italia/Liguria/Giacomelli/Pianacce/2017) -- <span class="star-4"></span> -- 90/100
 - Pianacce [2018](vini/Italia/Liguria/Giacomelli/Pianacce/2018) -- <span class="star-3"></span> -- 85/100 
 - Pianacce [2019](vini/Italia/Liguria/Giacomelli/Pianacce/2019) -- <span class="star-3"></span> -- 85/100 
+- Pianacce [2020](vini/Italia/Liguria/Giacomelli/Pianacce/2020) -- <span class="star-4"></span> -- 89/100 

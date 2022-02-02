@@ -1,5 +1,5 @@
 ---
-title: Five Roses Anniversario – Salento IGT – Leone De Castris – Puglia (IT) – 10-14€ – 5★
+title: Five Roses Anniversario – Salento IGT – Leone De Castris – Puglia (IT) – 10-14€ – 4★-5★
 description: Negroamaro 80% + Malvasia nera di Lecce 20% | Gnocchi di patate al dentice – Filetti di triglia – Troccoli zucchine e gamberi – Cannolo con spuma di mortadella e pistacchio – Carpaccio di ricciola
 published: true
 date: 2021-10-01T19:59:46.688Z
@@ -38,3 +38,4 @@ dateCreated: 2021-09-30T08:13:40.660Z
 - Five Roses 74° Anniversario [2017](vini/Italia/Puglia/Leone-De-Castris/Five-Roses-Anniversario/2017) -- <span class="star-5"></span> -- 92/100
 - Five Roses 75° Anniversario [2018](vini/Italia/Puglia/Leone-De-Castris/Five-Roses-Anniversario/2018) -- <span class="star-5"></span> -- 91/100
 - Five Roses 76° Anniversario [2019](vini/Italia/Puglia/Leone-De-Castris/Five-Roses-Anniversario/2019) -- <span class="star-4"></span> -- 93/100
+- Five Roses 77° Anniversario [2020](vini/Italia/Puglia/Leone-De-Castris/Five-Roses-Anniversario/2020) -- <span class="star-4"></span> -- 90/100

@@ -38,3 +38,4 @@ dateCreated: 2021-10-04T06:51:07.853Z
 - San Matteo [2016](vini/Italia/Piemonte/Eraldo-Revelli/San-Matteo/2016) -- <span class="star-3"></span> -- 86/100
 - San Matteo [2017](vini/Italia/Piemonte/Eraldo-Revelli/San-Matteo/2017) -- <span class="star-3"></span> -- 85/100
 - San Matteo [2018](vini/Italia/Piemonte/Eraldo-Revelli/San-Matteo/2018) -- <span class="star-5"></span> -- 91/100
+- San Matteo [2019](vini/Italia/Piemonte/Eraldo-Revelli/San-Matteo/2019) -- <span class="star-3"></span> -- 86/100

@@ -36,5 +36,6 @@ dateCreated: 2021-10-01T09:53:06.758Z
 - Orgiolo [2015](/vini/Italia/Marche/Marotti-Campi/Orgiolo/2015) -- <span class="star-3"></span> -- 87/100
 - Orgiolo [2017](/vini/Italia/Marche/Marotti-Campi/Orgiolo/2017) -- <span class="star-3"></span> -- 88/100
 - Orgiolo [2018](/vini/Italia/Marche/Marotti-Campi/Orgiolo/2018) -- <span class="star-5"></span> -- 92/100
+- Orgiolo [2019](/vini/Italia/Marche/Marotti-Campi/Orgiolo/2019) -- <span class="star-3"></span> -- 87/100
 
 

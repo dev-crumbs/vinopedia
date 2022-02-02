@@ -1,9 +1,9 @@
 ---
 title: Tintilia 66 – Tintilia del Molise DOC – Claudio Cipressi – Molise (IT) – 45-49€ – 3★-5★
-description: Tintilia del Molise 100% | Tasca di vitello ripiena di funghi
+description: Tintilia del Molise 100% | Tasca di vitello ripiena di funghi – Tagliatelle al sugo di cinghiale
 published: true
 date: 2021-10-01T20:13:11.876Z
-tags: vino, italia, rosso, varietale, tintilia, molise, fermo, 5 stelle, tasca di vitello ripiena di funghi, 45-49€
+tags: vino, italia, rosso, varietale, tintilia, molise, fermo, 5 stelle, tasca di vitello ripiena di funghi, Tagliatelle al sugo di cinghiale, 45-49€
 editor: markdown
 dateCreated: 2021-09-07T12:38:58.050Z
 ---
@@ -27,11 +27,13 @@ dateCreated: 2021-09-07T12:38:58.050Z
 *Vedere le singole annate per abbinamenti specifici*
 
 -  carrè di maiale al forno
+-  Tagliatelle al sugo di cinghiale
 
 ## Annate
 - Tintilia 66 [2011](/vini/Italia/Molise/Claudio-Cipressi/Tintilia-66/2011) -- <span class="star-4"></span> -- 90/100
 - Tintilia 66 [2012](/vini/Italia/Molise/Claudio-Cipressi/Tintilia-66/2012) -- <span class="star-5"></span> -- 92/100
 - Tintilia 66 [2013](/vini/Italia/Molise/Claudio-Cipressi/Tintilia-66/2013) -- <span class="star-3"></span> -- 87/100
+- Tintilia 66 [2015](/vini/Italia/Molise/Claudio-Cipressi/Tintilia-66/2015) -- <span class="star-5"></span> -- 93/100
 
 
 

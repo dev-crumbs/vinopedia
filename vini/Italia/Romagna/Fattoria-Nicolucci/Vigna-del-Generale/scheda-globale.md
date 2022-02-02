@@ -1,9 +1,9 @@
 ---
-title: Vigna del generale – Romagna Sangiovese Riserva DOC – Fattoria Nicolucci – Romagna (IT) – 30-34€ – 3★-5★
-description: Sangiovese 100% | Filetto di mora romagnola al pepe – bistecca alla fiorentina – Fricassea d'agnello con carciofi – Costine d'agnello alle erbe aromatiche – Entrecote al pepe
+title: Vigna del generale – Romagna Sangiovese Predappio Riserva DOC – Fattoria Nicolucci – Romagna (IT) – 30-34€ – 3★-5★
+description: Sangiovese 100% | Filetto di mora romagnola al pepe – bistecca alla fiorentina – Fricassea d'agnello con carciofi – Costine d'agnello alle erbe aromatiche – Entrecote al pepe – Capriolo in salmì
 published: true
 date: 2021-10-01T20:14:14.614Z
-tags: vino, italia, rosso, romagna, varietale, sangiovese, fermo, 5 stelle, filetto di mora romagnola al pepe, bistecca alla fiorentina, fricassea d'agnello con carciofi, costine d'agnello alle erbe aromatiche, entrecote al pepe, 30-34€
+tags: vino, italia, rosso, romagna, varietale, sangiovese, fermo, 5 stelle, filetto di mora romagnola al pepe, bistecca alla fiorentina, fricassea d'agnello con carciofi, costine d'agnello alle erbe aromatiche, entrecote al pepe, Capriolo in salmì, 30-34€
 editor: markdown
 dateCreated: 2021-09-08T10:52:13.791Z
 ---
@@ -13,17 +13,13 @@ dateCreated: 2021-09-08T10:52:13.791Z
 ## Caratteristiche
 - **Nome:** Vigna del generale
 - **Tipologia:** Rosso fermo
-- **Denominazione:** [Romagna Sangiovese DOC](/denominazioni/Italia/Romagna/DOC/Romagna-Sangiovese) (Riserva)
+- **Denominazione:** [Romagna Sangiovese DOC](/denominazioni/Italia/Romagna/DOC/Romagna-Sangiovese) (Riserva - Predappio)
 - **Produttore:** [Fattoria Nicolucci](/produttori/Italia/Romagna/Fattoria-Nicolucci) 
 - **Composizione:** 100% [Sangiovese](/vitigni/Italia/bacca-nera/sangiovese)
 - **Affinamento:** 24 mesi in botte grande + 3 mesi in bottiglia
 - **Alcol:** 14%
 - **Fascia di prezzo:** 30-34€
 {.grid-list}
-
-## Descrizione del produttore
-
-> Vigna del generale è il nostro Cru storico di Sangiovese. Nasce dalle selezioni delle migliori uve del singolo vigneto da cui prende il nome: la Vigna del Vigna del generale. E’un vino iconico e lussuoso che lascia il segno nel tempo, capace di conservare – e valorizzare – eleganza e freschezza anche dopo tanti anni d’invecchiamento grazie alla sua compiuta personalità.
 
 ## Possibili abbinamenti
 *Vedere le singole annate per abbinamenti specifici*
@@ -33,6 +29,7 @@ dateCreated: 2021-09-08T10:52:13.791Z
 - fricassea d'agnello con carciofi
 - costine d'agnello alle erbe aromatiche
 - entrecote al pepe
+- Capriolo in salmì
 
 ## Annate
 - Vigna del generale [2013](/vini/Italia/Romagna/Fattoria-Nicolucci/Vigna-del-generale/2013) -- <span class="star-5"></span> -- 95/100
@@ -40,3 +37,4 @@ dateCreated: 2021-09-08T10:52:13.791Z
 - Vigna del generale [2015](/vini/Italia/Romagna/Fattoria-Nicolucci/Vigna-del-generale/2015) -- <span class="star-4"></span> -- 90/100
 - Vigna del generale [2016](/vini/Italia/Romagna/Fattoria-Nicolucci/Vigna-del-generale/2016) -- <span class="star-5"></span> -- 94/100
 - Vigna del generale [2017](/vini/Italia/Romagna/Fattoria-Nicolucci/Vigna-del-generale/2017) -- <span class="star-4"></span> -- 90/100
+- Vigna del generale [2018](/vini/Italia/Romagna/Fattoria-Nicolucci/Vigna-del-generale/2018) -- <span class="star-5"></span> -- 96/100

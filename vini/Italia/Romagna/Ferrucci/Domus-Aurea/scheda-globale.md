@@ -34,3 +34,4 @@ dateCreated: 2021-08-31T15:46:36.071Z
 - Domus Aurea [2016](/vini/Italia/Romagna/Ferrucci/Domus-Aurea/2016) -- <span class="star-4"></span> -- 90/100
 - Domus Aurea [2017](/vini/Italia/Romagna/Ferrucci/Domus-Aurea/2017) -- <span class="star-5"></span> -- 94/100
 - Domus Aurea [2018](/vini/Italia/Romagna/Ferrucci/Domus-Aurea/2018) -- <span class="star-3"></span> -- 87/100 
+- Domus Aurea [2019](/vini/Italia/Romagna/Ferrucci/Domus-Aurea/2019) -- <span class="star-3"></span> -- 88/100 

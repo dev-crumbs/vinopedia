@@ -1,9 +1,9 @@
 ---
 title: Arbis Blanc – Venezia Giulia IGT – Borgo San Daniele – Friuli Venezia Giulia (IT) – 20-24€ – 4★-5★
-description: Sauvignon blanc 40% + Chardonnay 20% + Pinot bianco 20% + Friulano 20% | Rombo al forno – Capesante gratinate – Scampi al sale – Tartare di dentice alle erbe 
+description: Sauvignon blanc 40% + Chardonnay 20% + Pinot bianco 20% + Friulano 20% | Rombo al forno – Capesante gratinate – Scampi al sale – Tartare di dentice alle erbe – Calamari pinoli e menta 
 published: true
 date: 2021-10-01T20:11:59.260Z
-tags: vino, bianco, italia, blend, chardonnay, friuli venezia giulia, pinot bianco, friulano, fermo, 5 stelle, sauvignon blanc, Rombo al forno, Capesante gratinate, Scampi al sale, Tartare di dentice alle erbe, 20-24€
+tags: vino, bianco, italia, blend, chardonnay, friuli venezia giulia, pinot bianco, friulano, fermo, 5 stelle, sauvignon blanc, Rombo al forno, Capesante gratinate, Scampi al sale, Tartare di dentice alle erbe, Calamari pinoli e menta, 20-24€
 editor: markdown
 dateCreated: 2021-08-29T16:15:14.887Z
 ---
@@ -30,6 +30,7 @@ dateCreated: 2021-08-29T16:15:14.887Z
 - Capesante gratinate al burro e brandy
 - Scampi al sale 
 - Tartare di dentice alle erbe 
+- Calamari pinoli e menta
 
 ## Annate
 
@@ -37,5 +38,5 @@ dateCreated: 2021-08-29T16:15:14.887Z
 - Arbis Blanc [2015](/vini/Italia/Friuli-Venezia-Giulia/Borgo-San-Daniele/Arbis-Blanc/2015) -- <span class="star-5"></span> -- 94/100
 - Arbis Blanc [2016](/vini/Italia/Friuli-Venezia-Giulia/Borgo-San-Daniele/Arbis-Blanc/2016) -- <span class="star-4"></span> -- 90/100
 - Arbis Blanc [2017](/vini/Italia/Friuli-Venezia-Giulia/Borgo-San-Daniele/Arbis-Blanc/2017) -- <span class="star-5"></span> -- 93/100
-
+- Arbis Blanc [2018](/vini/Italia/Friuli-Venezia-Giulia/Borgo-San-Daniele/Arbis-Blanc/2018) -- <span class="star-5"></span> -- 91/100
 
