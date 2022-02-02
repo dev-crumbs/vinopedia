@@ -3,7 +3,7 @@ title: L'Atto – Aglianico del Vulture IGT – Cantine del Notaio – Basilicat
 description: Aglianico del vulture 100%
 published: true
 date: 2021-10-01T20:11:01.671Z
-tags: vino, italia, rosso, basilicata, varietale, fermo, aglianico del vulture, Valutazione max: 3 stelle, 10-14€
+tags: vino, italia, rosso, basilicata, varietale, fermo, aglianico del vulture, 3 stelle, 10-14€
 editor: markdown
 dateCreated: 2021-09-30T08:13:22.567Z
 ---

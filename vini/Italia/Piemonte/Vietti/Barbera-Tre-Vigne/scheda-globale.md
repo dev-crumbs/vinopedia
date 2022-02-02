@@ -3,7 +3,7 @@ title: Barbera Tre Vigne – Barbera d'Alba DOC – Vietti – Piemonte (IT) –
 description: Barbera 100%
 published: true
 date: 2021-10-04T06:51:10.314Z
-tags: vino, italia, rosso, varietale, piemonte, Valutazione max: 3 stelle, Prezzi: 15-19€, Barbera
+tags: vino, italia, rosso, varietale, piemonte, 3 stelle, 15-19€, Barbera
 editor: markdown
 dateCreated: 2021-10-04T06:51:07.853Z
 ---

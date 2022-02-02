@@ -3,7 +3,7 @@ title: Destinée – Amarone della Valpolicella Riserva DOCG – Rubinelli-Vajol
 description: Corvina 40% + Rondinella 10% + Corvinone 40% + Molinara 5% + Oseleta 5% | Guancia di manzo brasata
 published: true
 date: 2022-01-28T17:14:37.370Z
-tags: vino, italia, rosso, blend, veneto, fermo, Prezzi: 150-174€, corvina, rondinella, corvinone, molinara, oseleta, Guancia di manzo brasata
+tags: vino, italia, rosso, blend, veneto, fermo, 150-174€, corvina, rondinella, corvinone, molinara, oseleta, Guancia di manzo brasata
 editor: markdown
 dateCreated: 2022-01-27T15:21:34.303Z
 ---

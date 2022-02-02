@@ -3,7 +3,7 @@ title: Daginestra – Aglianico del Vulture Superiore DOCG – Grifalco – Basi
 description: Aglianico del vulture 100% | Tagliata di fassona al rosmarino – Sella d'agnello alle erbe – Stinco di vitello al forno – Bollito dei pastori
 published: true
 date: 2021-10-01T20:11:01.671Z
-tags: vino, italia, rosso, basilicata, varietale, fermo, aglianico del vulture, 5 stelle, Prezzi: 25-29€, Tagliata di fassona al rosmarino, Sella d'agnello alle erbe, Stinco di vitello al forno, Bollito dei pastori
+tags: vino, italia, rosso, basilicata, varietale, fermo, aglianico del vulture, 5 stelle, 25-29€, Tagliata di fassona al rosmarino, Sella d'agnello alle erbe, Stinco di vitello al forno, Bollito dei pastori
 editor: markdown
 dateCreated: 2021-09-30T08:13:22.567Z
 ---

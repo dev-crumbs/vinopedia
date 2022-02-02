@@ -3,7 +3,7 @@ title: Buio Buio – Carignano del Sulcis Riserva DOC – Mesa – Sardegna (IT)
 description: Carignano 100% | Guancia di vitello brasata – Cinghiale alla maremmana
 published: true
 date: 2021-10-01T20:14:25.334Z
-tags: Prezzi: 25-29€, vino, italia, rosso, varietale, sardegna, fermo, 5 stelle, carignano, Guancia di vitello brasata, Cinghiale alla maremmana
+tags: 25-29€, vino, italia, rosso, varietale, sardegna, fermo, 5 stelle, carignano, Guancia di vitello brasata, Cinghiale alla maremmana
 editor: markdown
 dateCreated: 2021-09-02T14:34:35.864Z
 ---

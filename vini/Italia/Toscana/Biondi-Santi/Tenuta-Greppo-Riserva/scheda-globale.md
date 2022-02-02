@@ -3,7 +3,7 @@ title: Tenuta Greppo Riserva – Brunello di Montalcino DOCG – Biondi Santi �
 description: Sangiovese 100% | Pernice ai porcini speck e castagne – Terrina di beccaccia – Filetto di kobe al tartufo bianco – Petto di germano con salsa mandarino e caffè
 published: true
 date: 2021-10-01T20:00:52.685Z
-tags: Prezzi: 450-*€, vino, italia, rosso, toscana, varietale, sangiovese, pernice ai porcini speck e castagne, terrina di beccaccia, filetto di kobe al tartufo bianco, fermo, 5 stelle, Petto di germano con salsa mandarino e caffè
+tags: 450-*€, vino, italia, rosso, toscana, varietale, sangiovese, pernice ai porcini speck e castagne, terrina di beccaccia, filetto di kobe al tartufo bianco, fermo, 5 stelle, Petto di germano con salsa mandarino e caffè
 editor: markdown
 dateCreated: 2021-08-27T17:49:50.429Z
 ---

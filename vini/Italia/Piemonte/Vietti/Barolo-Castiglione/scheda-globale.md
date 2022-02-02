@@ -3,7 +3,7 @@ title: Barolo Castiglione – Barolo DOCG – Vietti – Piemonte (IT) – 50-54
 description: Nebbiolo 100% | Faraona farcita alle erbe – Ossobuco alla milanese – Risotto provolone e salsiccia
 published: true
 date: 2021-10-01T19:59:33.239Z
-tags: vino, italia, rosso, varietale, piemonte, nebbiolo, Valutazione max: 3 stelle, faraona farcita alle erbe, ossobuco alla milanese, Risotto provolone e salsiccia, 50-54€
+tags: vino, italia, rosso, varietale, piemonte, nebbiolo, 3 stelle, faraona farcita alle erbe, ossobuco alla milanese, Risotto provolone e salsiccia, 50-54€
 editor: markdown
 dateCreated: 2021-09-24T14:29:28.450Z
 ---

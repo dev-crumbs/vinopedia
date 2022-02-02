@@ -3,7 +3,7 @@ title: La Firma – Aglianico del Vulture Superiore DOCG – Cantine del Notaio 
 description: Aglianico del vulture 100% | Cosciotto d'agnello – Gulash – Costata alla brace – Faraona ripiena
 published: true
 date: 2021-10-01T20:11:01.671Z
-tags: vino, italia, rosso, basilicata, varietale, fermo, aglianico del vulture, 5 stelle, Prezzi: 30-34€, Cosciotto d'agnello, Gulash, Costata alla brace, Faraona ripiena
+tags: vino, italia, rosso, basilicata, varietale, fermo, aglianico del vulture, 5 stelle, 30-34€, Cosciotto d'agnello, Gulash, Costata alla brace, Faraona ripiena
 editor: markdown
 dateCreated: 2021-09-30T08:13:22.567Z
 ---

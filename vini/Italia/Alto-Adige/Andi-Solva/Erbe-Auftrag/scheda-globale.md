@@ -3,7 +3,7 @@ title: Erbe + Auftrag – Alto Adige Santa Lago di Caldaro DOC – Andi Solva �
 description: Schiava 95% + Lagrein 5% | Noce di vitello alla fiorentina – Piccione ripieno al forno
 published: true
 date: 2021-10-01T19:55:31.710Z
-tags: vino, italia, rosso, blend, lagrein, fermo, 5 stelle, alto-adige, schiava, Noce di vitello alla fiorentina, Prezzi: 25-29€, Piccione ripieno al forno
+tags: vino, italia, rosso, blend, lagrein, fermo, 5 stelle, alto-adige, schiava, Noce di vitello alla fiorentina, 25-29€, Piccione ripieno al forno
 editor: markdown
 dateCreated: 2021-08-29T16:14:45.767Z
 ---

@@ -3,7 +3,7 @@ title: Pinot Nero Riserva – Alto Adige DOC – Ignaz Niedrist – Alto-Adige (
 description: 100% Pinot Nero | Vitello alla pizzaiola
 published: true
 date: 2021-10-01T19:55:26.461Z
-tags: vino, rosso, italia, varietale, fermo, alto-adige, Valutazione max: 3 stelle, Vitello alla pizzaiola, 30-34€
+tags: vino, rosso, italia, varietale, fermo, alto-adige, 3 stelle, Vitello alla pizzaiola, 30-34€
 editor: markdown
 dateCreated: 2021-09-02T14:32:47.834Z
 ---
