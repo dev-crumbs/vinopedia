@@ -3,7 +3,7 @@ title: Burgum Novum Riserva – Alto Adige DOC – Castelfeder – Alto-Adige (I
 description: 100% Pinot Nero | Petto d'anatra in salsa di ribes – Coda di bue brasata – Filetto di vitello al tartufo – Lombata d'agnello al crescione
 published: true
 date: 2022-02-02T21:34:53.256Z
-tags: vino, italia, rosso, varietale, fermo, Regione vino | Alto-Adige, petto d'anatra in salsa di ribes, coda di bue brasata, filetto di vitello al tartufo, Alimento | agnello, Alimento-dettagli | lombata, Aromatizzazione | al crescione, valutazioni | 5 stelle, prezzi | 30-34€
+tags: vino, italia, rosso, varietale, fermo, Regione vino | Alto-Adige, Alimento | anatra, Alimento-dettagli | petto, Aromatizzazione | in salsa di ribes, coda di bue brasata, filetto di vitello al tartufo, Alimento | agnello, Alimento-dettagli | lombata, Aromatizzazione | al crescione, valutazioni | 5 stelle, prezzi | 30-34€
 editor: markdown
 dateCreated: 2022-01-29T12:00:31.230Z
 ---
