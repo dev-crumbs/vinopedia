@@ -3,7 +3,7 @@ title: Vigna del generale – Romagna Sangiovese Predappio Riserva DOC – Fatto
 description: Sangiovese 100% | Filetto di mora romagnola al pepe – bistecca alla fiorentina – Fricassea d'agnello con carciofi – Costine d'agnello alle erbe aromatiche – Entrecote al pepe – Capriolo in salmì
 published: true
 date: 2021-10-01T20:14:14.614Z
-tags: vino, italia, rosso, romagna, varietale, sangiovese, fermo, Valutazioni | 5 stelle, filetto di mora romagnola al pepe, bistecca alla fiorentina, fricassea d'agnello con carciofi, costine d'agnello alle erbe aromatiche, entrecote al pepe, Capriolo in salmì, Prezzi | 30-34€
+tags: vino, italia, rosso, romagna, varietale, Vitigni | Sangiovese, fermo, Valutazioni | 5 stelle, filetto di mora romagnola al pepe, bistecca alla fiorentina, fricassea d'agnello con carciofi, costine d'agnello alle erbe aromatiche, entrecote al pepe, Capriolo in salmì, Prezzi | 30-34€
 editor: markdown
 dateCreated: 2021-09-08T10:52:13.791Z
 ---

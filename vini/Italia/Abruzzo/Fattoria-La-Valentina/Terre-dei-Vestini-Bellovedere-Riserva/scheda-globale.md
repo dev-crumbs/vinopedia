@@ -3,7 +3,7 @@ title: Terre dei Vestini Bellovedere – Montepulciano d'Abruzzo Riserva DOC –
 description: Montepulciano 100% | Costatine di maiale alle erbe – Sformato patate e salsicce – Pollo al forno con peperoni – Lepre in salmì – Cinghiale in umido
 published: true
 date: 2021-10-01T19:55:10.155Z
-tags: Prezzi | 50-54€, vino, italia, rosso, varietale, montepulciano, abruzzo, fermo, Valutazioni | 5 stelle, Costatine di maiale alle erbe, Sformato patate e salsicce, Pollo al forno con peperoni, Lepre in salmì, Cinghiale in umido
+tags: Prezzi | 50-54€, vino, italia, rosso, varietale, Vitigni | Montepulciano, abruzzo, fermo, Valutazioni | 5 stelle, Costatine di maiale alle erbe, Sformato patate e salsicce, Pollo al forno con peperoni, Lepre in salmì, Cinghiale in umido
 editor: markdown
 dateCreated: 2021-09-02T14:32:35.010Z
 ---
