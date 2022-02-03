@@ -3,7 +3,7 @@ title: Sauvignon Renaissance Riserva – Alto Adige DOC – Gump Hof - Markus Pr
 description: 100% Sauvignon blanc | Ostriche limone e pepe – Spatzle con graukase – Coniglio in fricassea – Guazzetto d'astice e zucchine
 published: true
 date: 2021-10-01T19:55:26.461Z
-tags: vino, bianco, italia, varietale, fermo, Valutazioni | 5 stelle, Regione vino | Alto-Adige, Ostriche limone e pepe, Spatzle con graukase, Coniglio in fricassea, Guazzetto d'astice e zucchine, Prezzi | 30-34€
+tags: vino, bianco, italia, varietale, fermo, Valutazioni | 5 stelle, Regione vino | Alto-Adige, Ostriche limone e pepe, Spatzle con graukase, Coniglio in fricassea, Alimento | astice, Cottura | in guazzetto, Aromatizzazione | con zucchine, Prezzi | 30-34€
 editor: markdown
 dateCreated: 2021-09-02T14:32:47.834Z
 ---
