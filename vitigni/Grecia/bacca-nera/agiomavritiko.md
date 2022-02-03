@@ -3,7 +3,7 @@ title: Agiomavritiko
 description: Varietà greca quasi estinta
 published: true
 date: 2021-09-06T09:40:05.902Z
-tags: vitigno, bacca nera
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:38:22.791Z
 ---

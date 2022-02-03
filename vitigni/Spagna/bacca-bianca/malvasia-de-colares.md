@@ -3,7 +3,7 @@ title: Malvasia De Colares
 description: La varietà principale, anche se impegnativa, di un'insolita regione vinicola che si sta lentamente restringendo sulla costa sabbiosa a nord ovest di Lisbona.
 published: true
 date: 2021-09-06T09:46:55.046Z
-tags: vitigno, sinonimo, bacca bianca
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:46:51.252Z
 ---

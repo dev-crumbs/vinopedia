@@ -3,7 +3,7 @@ title: Malvasia Preta
 description: Varietà del Douro usata per il porto e i vini da tavola
 published: true
 date: 2021-09-06T14:53:57.258Z
-tags: vitigno, bacca nera
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:47:01.671Z
 ---

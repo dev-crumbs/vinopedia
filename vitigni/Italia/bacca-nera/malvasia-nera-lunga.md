@@ -3,7 +3,7 @@ title: Malvasia Nera Lunga
 description: Rara Malvasia dalla buccia scura esclusiva della provincia di Asti
 published: true
 date: 2021-09-06T14:52:20.199Z
-tags: vitigno, bacca nera
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:44:35.126Z
 ---

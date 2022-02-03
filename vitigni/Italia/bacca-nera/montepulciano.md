@@ -3,7 +3,7 @@ title: Montepulciano
 description: Produttivo, di colore intenso, con una struttura solida e un'ampia piantagione.
 published: true
 date: 2021-09-06T14:52:28.984Z
-tags: vitigno, bacca nera
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:44:49.409Z
 ---

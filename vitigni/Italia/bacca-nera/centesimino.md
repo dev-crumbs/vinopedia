@@ -3,7 +3,7 @@ title: Centesimino
 description: Varietà rossa risorta in un giardino dell'Emilia-Romagna a metà del XX secolo.
 published: true
 date: 2021-09-24T14:38:39.092Z
-tags: vitigno, bacca nera
+tags: 
 editor: markdown
 dateCreated: 2021-09-24T14:38:36.522Z
 ---

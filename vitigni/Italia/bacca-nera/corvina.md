@@ -3,7 +3,7 @@ title: Corvina
 description: "Corvina" è un sinonimo di "Corvina veronese"
 published: true
 date: 2022-01-28T13:26:23.385Z
-tags: vitigno, sinonimo
+tags: 
 editor: markdown
 dateCreated: 2022-01-28T13:26:23.385Z
 ---

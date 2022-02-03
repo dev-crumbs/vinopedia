@@ -3,7 +3,7 @@ title: Greco
 description: Campano potenzialmente fine, aromatico ma notevolmente fermo.
 published: true
 date: 2021-09-08T09:51:41.884Z
-tags: vitigno, bacca bianca
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:39:10.616Z
 ---

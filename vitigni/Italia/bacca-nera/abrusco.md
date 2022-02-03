@@ -3,7 +3,7 @@ title: Abrusco
 description: Un vitigno a bacca nera italiano a maturazione tardiva poco conosciuto e in pericolo di estinzione, dal grande potere colorante.
 published: true
 date: 2021-09-06T09:41:59.531Z
-tags: vitigno, bacca nera
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:41:12.531Z
 ---

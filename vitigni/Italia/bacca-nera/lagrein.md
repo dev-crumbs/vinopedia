@@ -3,7 +3,7 @@ title: Lagrein
 description: Varietà dell'Alto Adige che produce vini molto caratteristici, distintamente fruttati ma a volte un po' rustici
 published: true
 date: 2021-09-06T14:51:40.190Z
-tags: vitigno, bacca nera
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:43:34.181Z
 ---

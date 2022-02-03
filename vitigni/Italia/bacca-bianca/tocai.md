@@ -3,7 +3,7 @@ title: Tocai
 description: "Tocai" è un sinonimo di "Sauvignonasse"
 published: true
 date: 2021-09-06T16:47:08.090Z
-tags: vitigno, sinonimo, bacca bianca
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T16:47:05.461Z
 ---

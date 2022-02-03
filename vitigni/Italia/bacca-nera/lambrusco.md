@@ -3,7 +3,7 @@ title: Lambrusco
 description: Nome generico attribuito a molte varietà italiane dell'Emilia e dintorni
 published: true
 date: 2021-09-06T14:52:08.800Z
-tags: vitigno, bacca nera
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:44:21.693Z
 ---

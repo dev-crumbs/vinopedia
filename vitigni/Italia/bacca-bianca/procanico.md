@@ -3,7 +3,7 @@ title: Procanico
 description: "Procanico" è un sinonimo di "Trebbiano toscano"
 published: true
 date: 2021-09-06T17:03:19.513Z
-tags: vitigno, sinonimo, bacca bianca
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T17:03:16.849Z
 ---

@@ -3,7 +3,7 @@ title: Riesling
 description: Una delle più grandi uve da vino bianco del mondo, capace di produrre vini particolarmente espressivi e longevi in tutte le gradazioni di dolcezza
 published: true
 date: 2021-09-30T15:48:35.797Z
-tags: vitigno, bacca bianca
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:38:06.041Z
 ---

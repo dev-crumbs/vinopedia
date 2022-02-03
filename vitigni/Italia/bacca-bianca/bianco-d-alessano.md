@@ -3,7 +3,7 @@ title: Bianco d'Alessano
 description: Vitigno a bacca bianca dell'Italia meridionale, spesso utilizzato in blend con la Verdeca. Gode di un certo successo anche in Australia.
 published: true
 date: 2021-09-06T09:40:16.463Z
-tags: vitigno, bacca bianca
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:38:39.480Z
 ---

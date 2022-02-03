@@ -3,7 +3,7 @@ title: Verdicchio bianco
 description: Famoso grazie ai bianchi delle Marche è probabilmente originario del Veneto, dove si trova anche come Trebbiano di Soave. Produce bianchi idonei all'invecchiamento
 published: true
 date: 2021-09-06T14:50:10.989Z
-tags: vitigno, bacca bianca
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:41:00.310Z
 ---

@@ -3,7 +3,7 @@ title: Acolon
 description: Incrocio tedesco autorizzato di recente, favorito per il suo colore e la maturazione precoce.
 published: true
 date: 2021-09-06T15:07:01.836Z
-tags: vitigno, bacca nera
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:34:31.503Z
 ---

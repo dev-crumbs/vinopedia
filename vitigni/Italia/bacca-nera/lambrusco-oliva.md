@@ -3,7 +3,7 @@ title: Lambrusco Oliva
 description: Varietà di Lambrusco relativamente minore, occasionalmente amara
 published: true
 date: 2021-09-06T14:51:57.590Z
-tags: vitigno, bacca nera
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:44:08.252Z
 ---

@@ -3,7 +3,7 @@ title: Gamay Beaujolais
 description: "Gamay Beaujolais" è un sinonimo.
 published: true
 date: 2021-08-02T17:02:16.557Z
-tags: vitigno, sinonimo, bacca nera
+tags: 
 editor: markdown
 dateCreated: 2021-08-02T17:02:14.022Z
 ---

@@ -3,7 +3,7 @@ title: Malvasia Di Schierano
 description: Malvasia minore e dalla buccia scura del Piemonte che produce rossi dolci leggermente aromatici.
 published: true
 date: 2021-09-06T14:52:11.815Z
-tags: vitigno, bacca nera
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:44:24.710Z
 ---

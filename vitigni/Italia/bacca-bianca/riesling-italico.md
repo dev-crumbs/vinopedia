@@ -3,7 +3,7 @@ title: Riesling italico
 description: "Riesling italico" è un sinonimo di "Graševina"
 published: true
 date: 2021-09-06T17:00:18.265Z
-tags: vitigno, sinonimo, bacca bianca
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T17:00:15.472Z
 ---

@@ -3,7 +3,7 @@ title: Prosecco lungo
 description: L'uva Prosecco più speziata e meno comune.
 published: true
 date: 2021-09-24T15:17:14.228Z
-tags: vitigno, bacca bianca
+tags: 
 editor: markdown
 dateCreated: 2021-09-24T15:17:11.401Z
 ---

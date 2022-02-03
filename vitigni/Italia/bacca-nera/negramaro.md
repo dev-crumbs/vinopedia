@@ -3,7 +3,7 @@ title: Negroamaro
 description: Produce rossi dal sapore dolce e di pronta beva. Famoso per l'utilizzo nei rosé pugliesi.
 published: true
 date: 2021-09-06T14:52:37.456Z
-tags: vitigno, bacca nera
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:45:03.568Z
 ---

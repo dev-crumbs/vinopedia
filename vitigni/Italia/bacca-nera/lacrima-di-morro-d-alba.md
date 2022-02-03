@@ -3,7 +3,7 @@ title: Lacrima di Morro d'Alba
 description: Specialità marchigiana recuperata e molto locale, usata per rossi a maturazione precoce sia secchi che dolci
 published: true
 date: 2021-09-06T14:51:37.151Z
-tags: vitigno, bacca nera
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:43:30.826Z
 ---

@@ -3,7 +3,7 @@ title: Maruggio
 description: Antica varietà pugliese molto fresca e profumata, recuperata sull'orlo dell'estinzione.
 published: true
 date: 2021-09-06T09:41:09.547Z
-tags: vitigno, bacca bianca
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:39:58.649Z
 ---

@@ -3,7 +3,7 @@ title: Cot
 description: Vitigno originario del sud ovest della Francia, divenuto famose con il sinonimo "Malbec" in Sud America. Produce vini dal colore impenetrabile e di struttura robusta
 published: true
 date: 2021-09-06T14:47:43.786Z
-tags: vitigno, bacca nera
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:36:56.958Z
 ---

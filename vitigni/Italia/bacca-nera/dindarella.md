@@ -3,7 +3,7 @@ title: Dindarella
 description: Rara varietà veneta dalla buccia scura che ben si adatta a stili di vino da uve secche.
 published: true
 date: 2021-09-06T09:42:56.928Z
-tags: vitigno, bacca nera
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:42:36.905Z
 ---

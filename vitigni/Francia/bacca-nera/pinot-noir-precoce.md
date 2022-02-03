@@ -3,7 +3,7 @@ title: Pinot Noir Précoce
 description: Mutazione a maturazione precoce del Pinot Noir, popolare in Germania come Frühburgunder.
 published: true
 date: 2021-09-06T09:39:32.268Z
-tags: vitigno, bacca nera
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:37:30.878Z
 ---

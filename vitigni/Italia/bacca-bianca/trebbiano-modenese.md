@@ -3,7 +3,7 @@ title: Trebbiano modenese
 description: Usato più per l'aceto balsamico che per il vino.
 published: true
 date: 2021-09-06T14:49:53.224Z
-tags: vitigno, bacca bianca
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:40:37.335Z
 ---

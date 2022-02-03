@@ -3,7 +3,7 @@ title: Gamay-Saint-Laurent
 description: "Gamay-Saint-Laurent" è un sinonimo.
 published: true
 date: 2021-08-02T17:04:15.781Z
-tags: vitigno, sinonimo, bacca nera
+tags: 
 editor: markdown
 dateCreated: 2021-08-02T17:04:13.493Z
 ---

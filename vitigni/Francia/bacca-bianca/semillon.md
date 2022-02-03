@@ -3,7 +3,7 @@ title: Sèmillon
 description: Il vitigno del bordeaux bianco dolce e un partner naturale del Sauvignon Blanc anche nei bianchi secchi.
 published: true
 date: 2021-09-06T15:08:29.163Z
-tags: vitigno, bordeaux, bacca bianca
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:36:38.823Z
 ---

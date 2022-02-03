@@ -3,7 +3,7 @@ title: Prosecco
 description: Il vitigno dominante, piuttosto neutro, per lo spumante Prosecco, probabilmente istriano. Ingannevolmente ribattezzato Glera per motivi di protezione commerciale.
 published: true
 date: 2021-09-24T15:17:15.672Z
-tags: vitigno, bacca bianca
+tags: 
 editor: markdown
 dateCreated: 2021-09-24T15:08:36.952Z
 ---

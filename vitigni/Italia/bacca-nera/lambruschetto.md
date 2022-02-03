@@ -3,7 +3,7 @@ title: Lambruschetto
 description: Varietà antica e molto localizzata che suscita interesse attuale in Piemonte
 published: true
 date: 2021-09-06T14:51:42.991Z
-tags: vitigno, bacca nera
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:43:37.689Z
 ---

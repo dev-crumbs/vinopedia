@@ -3,7 +3,7 @@ title: Durella
 description: Produce bianchi veneti acidi e di corpo debole.
 published: true
 date: 2021-09-06T14:48:53.182Z
-tags: vitigno, bacca bianca
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:38:58.089Z
 ---

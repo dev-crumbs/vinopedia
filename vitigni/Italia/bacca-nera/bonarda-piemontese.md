@@ -3,7 +3,7 @@ title: Bonarda piemontese
 description: Rosso italiano aromatico e ben colorato con grappoli piccoli e tannini morbidi.
 published: true
 date: 2021-09-06T14:50:42.379Z
-tags: vitigno, bacca nera
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:41:51.916Z
 ---

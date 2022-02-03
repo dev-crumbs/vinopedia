@@ -3,7 +3,7 @@ title: Nebbiera
 description: Incrocio minore dell'Italia settentrionale dalla pelle scura, la cui vera discendenza è stata rivelata solo di recente.
 published: true
 date: 2021-09-06T14:52:31.764Z
-tags: vitigno, bacca nera
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:44:56.430Z
 ---

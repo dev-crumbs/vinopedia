@@ -3,7 +3,7 @@ title: Nerello Mascalese
 description: Importante vitigno siciliano di particolare significato intorno all'Etna. Il Nerello più solido e longevo.
 published: true
 date: 2021-09-06T14:52:43.212Z
-tags: vitigno, bacca nera
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:45:11.001Z
 ---

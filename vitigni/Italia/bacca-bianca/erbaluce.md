@@ -3,7 +3,7 @@ title: Erbaluce
 description: Varietà bianca minore piemontese, produce vini dolci caratteristici.
 published: true
 date: 2021-09-28T14:25:16.834Z
-tags: vitigno, bacca bianca
+tags: 
 editor: markdown
 dateCreated: 2021-09-28T12:49:34.570Z
 ---

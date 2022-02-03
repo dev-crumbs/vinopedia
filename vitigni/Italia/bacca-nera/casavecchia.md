@@ -3,7 +3,7 @@ title: Casavecchia
 description: Antico vitigno autoctono della Campania, riscoperto in tempi recenti
 published: true
 date: 2021-09-06T14:50:47.805Z
-tags: vitigno, bacca nera
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:41:59.873Z
 ---

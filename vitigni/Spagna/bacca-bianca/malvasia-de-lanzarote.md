@@ -3,7 +3,7 @@ title: Malvasia Di Lanzarote
 description: Varietà identificata di recente che si trova sulle Islas Canarie, facilmente confondibile con altre Malvasie
 published: true
 date: 2021-09-06T14:53:54.739Z
-tags: vitigno, bacca bianca
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:46:55.116Z
 ---

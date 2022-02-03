@@ -3,7 +3,7 @@ title: Malvasia Branca De São Jorge
 description: Varietà portoghese di parentela sconosciuta ma di alta qualità usata nella produzione di Madeira.
 published: true
 date: 2021-09-06T09:46:51.195Z
-tags: vitigno, bacca bianca
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:46:48.283Z
 ---

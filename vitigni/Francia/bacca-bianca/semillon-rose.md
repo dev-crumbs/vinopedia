@@ -3,7 +3,7 @@ title: Sémillon Rose
 description: Mutazione di colore del Sémillon
 published: true
 date: 2021-09-06T15:08:25.989Z
-tags: vitigno, bacca bianca, mutazione di colore
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:36:34.745Z
 ---

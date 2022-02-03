@@ -3,7 +3,7 @@ title: Gaglioppo
 description: La caratteristica uva da vino rosso della Calabria
 published: true
 date: 2021-09-06T14:51:25.771Z
-tags: vitigno, bacca nera
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:43:05.076Z
 ---

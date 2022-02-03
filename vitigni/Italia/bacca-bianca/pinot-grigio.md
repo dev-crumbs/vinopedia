@@ -3,7 +3,7 @@ title: Pinot grigio
 description: "Pinot grigio" è un sinonimo di "Pinot gris"
 published: true
 date: 2021-09-06T17:04:49.668Z
-tags: vitigno, sinonimo, bacca bianca
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T17:04:47.017Z
 ---

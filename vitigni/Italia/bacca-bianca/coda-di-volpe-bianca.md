@@ -3,7 +3,7 @@ title: Coda di Volpe Bianca
 description: Bianco antico e corposo dell'Italia meridionale che si afferma come vino varietale.
 published: true
 date: 2022-01-09T08:53:17.075Z
-tags: vitigno, bacca bianca
+tags: 
 editor: markdown
 dateCreated: 2021-12-26T10:08:27.085Z
 ---

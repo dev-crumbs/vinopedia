@@ -3,7 +3,7 @@ title: Freisa
 description: Leggero, fragrante, insolito parente del Nebbiolo, fatto in un'ampia gamma di stili, incluso lo spumante
 published: true
 date: 2021-09-06T14:51:20.326Z
-tags: vitigno, bacca nera
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:42:57.526Z
 ---

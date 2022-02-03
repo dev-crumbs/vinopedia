@@ -3,7 +3,7 @@ title: Albarossa
 description: Incrocio minore piemontese dalla pelle scura recentemente ripiantato da Michele Chiarlo
 published: true
 date: 2021-09-06T14:50:28.249Z
-tags: vitigno, bacca nera
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:41:28.263Z
 ---

@@ -3,7 +3,7 @@ title: Neuburger
 description: Bianco austriaco rigoglioso, produce vini corposi e morbidi.
 published: true
 date: 2021-09-06T15:06:48.802Z
-tags: vitigno, bacca bianca
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:34:11.345Z
 ---

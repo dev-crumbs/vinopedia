@@ -3,7 +3,7 @@ title: Vermentino
 description: Varietà aromatica, fresca e di alta qualità che prospera sulle coste liguri, nella Francia meridionale e nelle isole di Corsica e Sardegna.
 published: true
 date: 2021-09-24T12:43:39.563Z
-tags: vitigno, bacca bianca
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:41:04.565Z
 ---

@@ -3,7 +3,7 @@ title: Grechetto gentile
 description: "Grechetto gentile" è un sinonimo di "Pignoletto"
 published: true
 date: 2022-01-31T17:33:59.282Z
-tags: vitigno, sinonimo
+tags: 
 editor: markdown
 dateCreated: 2022-01-31T17:33:59.282Z
 ---

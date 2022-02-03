@@ -3,7 +3,7 @@ title: Ederena
 description: Incrocio di Bordeaux in fase di sperimentazione in California.
 published: true
 date: 2021-09-06T14:47:46.446Z
-tags: vitigno, bacca nera
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:37:01.312Z
 ---

@@ -3,7 +3,7 @@ title: Aleatico
 description: Rosso italiano insolitamente profumato e simile al moscato.
 published: true
 date: 2021-09-06T14:50:31.090Z
-tags: vitigno, bacca nera
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:41:32.273Z
 ---

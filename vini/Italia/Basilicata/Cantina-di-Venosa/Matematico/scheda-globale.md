@@ -1,6 +1,6 @@
 ---
 title: Matematico – Vino generico – Cantina di Venosa – Basilicata (IT) – 35-39€ – 3★-5★
-description: Merlot 70% + Aglianico del vulture 30% | Filetto alla brace – Pappardelle al ragù di lepre – Arrosto di manzo ai pistacchi
+description: Merlot 70% + Aglianico del vulture 30% | Filetto alla brace – Pappardelle al ragù di lepre – Alimento | manzo, Cottura | arrosto, Aromatizzazione | ai pistacchi,
 published: true
 date: 2021-10-01T20:11:01.671Z
 tags: vino, italia, rosso, basilicata, blend, fermo, Valutazioni | 5 stelle, merlot, Vitigni | Aglianico del Vulture, Prezzi | 35-39€, Filetto alla brace, Pappardelle al ragù di lepre

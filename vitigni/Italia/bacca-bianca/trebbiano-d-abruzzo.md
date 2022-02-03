@@ -3,7 +3,7 @@ title: Trebbiano d'Abruzzo
 description: Varietà dalla pelle chiara dell'Italia centro-orientale non collegata ad altri Trebbiano ma la cui identità non è ancora chiara.
 published: true
 date: 2021-09-06T14:49:47.581Z
-tags: vitigno, bacca bianca
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:40:29.676Z
 ---

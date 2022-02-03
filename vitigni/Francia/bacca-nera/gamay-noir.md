@@ -3,7 +3,7 @@ title: Gamay Noir
 description: Vitigno della Borgogna utilizzato principalmente per produrre vini da consumare giovani
 published: true
 date: 2021-09-06T14:47:52.595Z
-tags: vitigno, bacca nera
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:37:09.738Z
 ---

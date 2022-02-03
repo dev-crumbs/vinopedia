@@ -3,7 +3,7 @@ title: Corvinone
 description: Una varietà dalla pelle scura e dall'acidità fresca che contribuisce ai blend veneti.
 published: true
 date: 2021-09-06T09:42:51.501Z
-tags: vitigno, bacca nera
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:42:29.516Z
 ---

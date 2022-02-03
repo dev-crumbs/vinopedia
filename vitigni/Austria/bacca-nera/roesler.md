@@ -3,7 +3,7 @@ title: Roesler
 description: Ibrido austriaco relativamente recente e molto colorato
 published: true
 date: 2021-09-06T15:07:15.570Z
-tags: vitigno, bacca nera
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:34:51.796Z
 ---

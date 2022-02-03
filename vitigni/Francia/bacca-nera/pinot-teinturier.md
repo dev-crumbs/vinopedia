@@ -3,7 +3,7 @@ title: Pinot Teinturier
 description: Mutazione del Pinot a polpa rossa
 published: true
 date: 2021-09-06T09:39:37.577Z
-tags: vitigno, bacca nera
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:37:39.894Z
 ---

@@ -3,7 +3,7 @@ title: Granaccia
 description: "Granaccia" è un sinonimo di Alicante Henri Bouschet 
 published: true
 date: 2022-01-31T17:10:54.439Z
-tags: vitigno, sinonimo
+tags: 
 editor: markdown
 dateCreated: 2022-01-31T17:10:54.439Z
 ---

@@ -3,7 +3,7 @@ title: Uva rara
 description: Spesso usato per ammorbidire il Nebbiolo nell'estremo nord dell'Italia.
 published: true
 date: 2021-09-06T14:53:37.859Z
-tags: vitigno, bacca nera
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:46:25.082Z
 ---

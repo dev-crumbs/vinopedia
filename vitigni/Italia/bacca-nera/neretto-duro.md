@@ -3,7 +3,7 @@ title: Neretto duro
 description: Raro piemontese con un numero sproporzionato di sinonimi.
 published: true
 date: 2021-09-06T14:52:46.122Z
-tags: vitigno, bacca nera
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:45:14.118Z
 ---

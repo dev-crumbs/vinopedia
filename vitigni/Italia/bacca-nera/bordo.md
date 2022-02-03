@@ -3,7 +3,7 @@ title: Bordò
 description: "Bordò" è un sinonimo di "Garnacha"
 published: true
 date: 2021-09-06T14:48:34.614Z
-tags: vitigno, bacca nera
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T14:48:31.747Z
 ---

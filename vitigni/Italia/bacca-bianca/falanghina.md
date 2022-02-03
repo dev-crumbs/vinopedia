@@ -3,7 +3,7 @@ title: Falanghina
 description: "Falanghina è un sinonimo di "Falanghina flegrea" o "Falanghina beneventana"
 published: true
 date: 2021-09-30T16:11:37.478Z
-tags: vitigno, sinonimo, bacca bianca
+tags: 
 editor: markdown
 dateCreated: 2021-09-30T16:06:32.620Z
 ---

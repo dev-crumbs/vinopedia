@@ -3,7 +3,7 @@ title: Sciascinoso
 description: Raro vitigno campano che produce rossi chiari
 published: true
 date: 2021-09-06T14:53:29.022Z
-tags: vitigno, bacca nera
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:46:14.678Z
 ---

@@ -3,7 +3,7 @@ title: Abbuoto
 description: Raro vitigno originario dell'Italia centrale, usato generalmente in blend
 published: true
 date: 2021-09-06T16:37:35.548Z
-tags: vitigno, bacca nera
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:41:08.823Z
 ---

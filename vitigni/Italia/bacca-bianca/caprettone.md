@@ -3,7 +3,7 @@ title: Caprettone
 description: Vitigno a bacca bianca campano lungamente creduto identico alla Coda di Volpe Bianca
 published: true
 date: 2022-01-29T17:15:11.802Z
-tags: vitigno, bacca bianca
+tags: 
 editor: markdown
 dateCreated: 2021-12-26T10:03:05.732Z
 ---

@@ -3,7 +3,7 @@ title: Malvasia del Lazio
 description: Fratello del Moscato di Amburgo, produce vini vinosi.
 published: true
 date: 2021-09-06T14:49:19.234Z
-tags: vitigno, bacca bianca, lazio
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:39:34.466Z
 ---

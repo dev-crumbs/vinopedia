@@ -3,7 +3,7 @@ title: Ginestra
 description: Vitigno campano minore ma interessante e dalla spiccata acidità
 published: true
 date: 2021-09-30T15:52:56.275Z
-tags: vitigno, bacca bianca
+tags: 
 editor: markdown
 dateCreated: 2021-09-07T17:55:14.778Z
 ---

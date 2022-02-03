@@ -3,7 +3,7 @@ title: Adamiina
 description: Ibrido americano minore ma complesso, resistente al freddo, coltivato soprattutto in Québec.
 published: true
 date: 2021-09-06T09:47:22.626Z
-tags: vitigno, bacca bianca
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:47:19.858Z
 ---

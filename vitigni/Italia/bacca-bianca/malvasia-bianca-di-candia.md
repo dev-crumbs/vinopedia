@@ -3,7 +3,7 @@ title: Malvasia bianca di Candia
 description: La Malvasia più piantata, produce un bianco neutro. In declino ma ancora diffusa in numerosi blend nell'Italia centrale
 published: true
 date: 2021-09-06T14:49:10.682Z
-tags: vitigno, bacca bianca
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:39:22.344Z
 ---

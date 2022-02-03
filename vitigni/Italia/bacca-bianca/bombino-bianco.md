@@ -3,7 +3,7 @@ title: Bombino bianco
 description: Bianco italiano produttivo che si trova principalmente nel sud e si distingue solo raramente.
 published: true
 date: 2021-09-06T14:48:41.640Z
-tags: vitigno, bacca bianca
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:38:42.443Z
 ---

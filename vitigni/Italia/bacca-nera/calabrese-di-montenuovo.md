@@ -3,7 +3,7 @@ title: Calabrese di Montenuovo
 description: Genitore calabrese del Sangiovese identificato di recente.
 published: true
 date: 2021-09-06T14:50:45.194Z
-tags: vitigno, bacca nera
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:41:55.941Z
 ---

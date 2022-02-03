@@ -3,7 +3,7 @@ title: Nascetta
 description: Piemontese semi-aromatico, recentemente sempre più vinificato come varietale.
 published: true
 date: 2021-09-06T14:49:36.235Z
-tags: vitigno, bacca bianca
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:40:06.259Z
 ---

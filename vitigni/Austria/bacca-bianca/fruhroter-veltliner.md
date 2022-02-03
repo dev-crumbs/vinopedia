@@ -3,7 +3,7 @@ title: Frühroter Veltliner
 description: Incrocio naturale tra Roter Veltliner e Silvaner
 published: true
 date: 2021-09-06T15:06:37.552Z
-tags: vitigno, bacca bianca
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:33:55.069Z
 ---

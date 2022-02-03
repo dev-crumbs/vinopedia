@@ -3,7 +3,7 @@ title: Ag Malayi
 description: Varietà azera dalla buccia chiara che produce vini leggeri e croccanti a Nakhchivan.
 published: true
 date: 2021-09-06T15:07:26.982Z
-tags: vitigno, bacca bianca
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:35:07.940Z
 ---

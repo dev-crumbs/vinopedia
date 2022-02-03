@@ -3,7 +3,7 @@ title: Moscato bianco
 description: "Moscato bianco" è un sinonimo di "Muscat blanc à petit grains"
 published: true
 date: 2021-09-06T17:13:51.506Z
-tags: vitigno, sinonimo, bacca bianca
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T17:13:48.881Z
 ---

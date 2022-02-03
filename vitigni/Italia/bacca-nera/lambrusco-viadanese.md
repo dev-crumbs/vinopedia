@@ -3,7 +3,7 @@ title: Lambrusco Viadanese
 description: Varietà di Lambrusco minore ma di carattere
 published: true
 date: 2021-09-06T14:52:03.245Z
-tags: vitigno, bacca nera
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:44:14.736Z
 ---

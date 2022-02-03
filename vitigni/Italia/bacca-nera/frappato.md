@@ -3,7 +3,7 @@ title: Frappato
 description: Fruttato, fresco e floreale siciliano spesso in blend con Nero d'Avola.
 published: true
 date: 2021-09-06T14:51:17.483Z
-tags: vitigno, bacca nera
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:42:53.331Z
 ---

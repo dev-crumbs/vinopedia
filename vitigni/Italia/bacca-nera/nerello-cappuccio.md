@@ -3,7 +3,7 @@ title: Nerello Cappuccio
 description: Il minore e il più morbido dei Nerello siciliani, spesso piantato con altre varietà ancora sconosciute.
 published: true
 date: 2021-09-06T14:52:40.319Z
-tags: vitigno, bacca nera
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:45:06.971Z
 ---

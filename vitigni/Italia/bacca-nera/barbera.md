@@ -3,7 +3,7 @@ title: Barbera
 description: Con origini ancora sconosciute, questa varietà versatile produce rossi italiani croccanti e dolci in un'ampia gamma di stili e luoghi.
 published: true
 date: 2021-09-06T14:50:39.405Z
-tags: vitigno, bacca nera
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:41:47.806Z
 ---

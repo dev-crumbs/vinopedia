@@ -3,7 +3,7 @@ title: Mazuelo
 description: Varietà nera del nord-est della Spagna ad alto contenuto di tannini e acidità che può fare un buon vino da vecchie viti ma che a suo tempo, come il Carignan, ha rovinato il Languedoc-Roussillon.
 published: true
 date: 2021-09-26T14:54:40.309Z
-tags: vitigno, bacca nera
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:37:22.258Z
 ---

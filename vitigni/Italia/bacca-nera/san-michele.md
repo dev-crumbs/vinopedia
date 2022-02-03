@@ -3,7 +3,7 @@ title: San Michele
 description: Oscuro incrocio di Conegliano la cui vera discendenza è stata rivelata solo recentemente.
 published: true
 date: 2021-09-06T14:53:20.048Z
-tags: vitigno, bacca nera
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:46:04.337Z
 ---

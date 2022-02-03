@@ -3,7 +3,7 @@ title: Pinot Gris
 description: Produce vini corposi e aromatici se se ne sanno sfruttare le potenzialità. A causa della notevole fama il mercato è stato però inondato di versioni piatte e mediocri.
 published: true
 date: 2021-09-06T15:08:01.988Z
-tags: vitigno, bacca grigia
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:35:59.862Z
 ---

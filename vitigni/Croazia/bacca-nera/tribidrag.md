@@ -3,7 +3,7 @@ title: Tribidrag
 description: Varietà di origine Croata che ha trovato grande successo nel sud Italia e in California, capace di produrre vini tra i più robusti al mondo
 published: true
 date: 2021-09-06T16:37:35.548Z
-tags: vitigno, bacca nera
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:35:25.456Z
 ---

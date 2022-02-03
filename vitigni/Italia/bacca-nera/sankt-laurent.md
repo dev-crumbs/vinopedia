@@ -3,7 +3,7 @@ title: Sankt Laurent
 description: Varietà mitteleuropea di origine incerta che produce rossi vellutati.
 published: true
 date: 2021-09-06T14:53:26.098Z
-tags: vitigno, bacca nera
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:46:11.498Z
 ---

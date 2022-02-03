@@ -3,7 +3,7 @@ title: Lambrusco di Sorbara
 description: Forse la più rinomata delle varietà del Lambrusco, il rosso emiliano rinfrescante, leggermente spumoso e adatto al pasteggio
 published: true
 date: 2021-09-06T14:51:48.698Z
-tags: vitigno, bacca nera
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:43:49.930Z
 ---

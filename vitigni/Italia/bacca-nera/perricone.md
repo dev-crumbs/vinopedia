@@ -3,7 +3,7 @@ title: Perricone
 description: Siciliano dalla pelle scura e relativamente tannico, spesso mescolato con Nero d'Avola.
 published: true
 date: 2021-09-06T14:52:57.946Z
-tags: vitigno, bacca nera
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:45:35.680Z
 ---

@@ -3,7 +3,7 @@ title: Tintilia del Molise
 description: Varietà minore molisana fino a poco tempo fa confusa con Bovale Grande (cioè Mazuelo/Carignan)
 published: true
 date: 2021-09-26T14:54:20.213Z
-tags: vitigno, bacca nera
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:46:21.486Z
 ---

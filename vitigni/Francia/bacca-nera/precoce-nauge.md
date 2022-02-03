@@ -3,7 +3,7 @@ title: Précoce Naugé
 description: "Précoce Naugé" è un sinonimo.
 published: true
 date: 2021-08-02T17:15:14.064Z
-tags: vitigno, sinonimo, bacca nera
+tags: 
 editor: markdown
 dateCreated: 2021-08-02T17:15:11.710Z
 ---

@@ -3,7 +3,7 @@ title: Prunesta
 description: Vitigno calabrese poco noto, usato principalmente in blend
 published: true
 date: 2021-09-06T14:53:09.609Z
-tags: vitigno, bacca nera
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:45:48.646Z
 ---

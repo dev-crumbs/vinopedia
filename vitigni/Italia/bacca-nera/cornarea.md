@@ -3,7 +3,7 @@ title: Cornarea
 description: Oscuro incrocio italiano dalla pelle scura la cui vera discendenza è stata rivelata solo recentemente
 published: true
 date: 2021-09-06T14:50:59.643Z
-tags: vitigno, bacca nera
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:42:17.696Z
 ---

@@ -3,7 +3,7 @@ title: Nero d'Avola
 description: La varietà di vino rosso più diffusa in Sicilia, apprezzata per il colore, il corpo pieno e il potenziale d'invecchiamento
 published: true
 date: 2021-09-06T14:52:49.385Z
-tags: vitigno, bacca nera
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:45:18.252Z
 ---

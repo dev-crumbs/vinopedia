@@ -3,7 +3,7 @@ title: Muscat
 description: Nome utilizzato per più di 200 varietà distinte di uva
 published: true
 date: 2021-09-06T17:12:54.778Z
-tags: vitigno, bacca bianca
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:35:51.318Z
 ---

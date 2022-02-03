@@ -3,7 +3,7 @@ title: Malvasia Di Candia Aromatica
 description: Malvasia aromatica molto diffusa in Italia e Grecia.
 published: true
 date: 2021-09-06T14:49:22.088Z
-tags: vitigno, bacca bianca
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:39:38.446Z
 ---

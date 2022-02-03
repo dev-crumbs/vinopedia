@@ -3,7 +3,7 @@ title: Cesanese
 description: La prima uva da vino rosso del Lazio, aromatica e di difficile maturazione.
 published: true
 date: 2021-09-06T09:42:33.218Z
-tags: vitigno, bacca nera
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:42:02.986Z
 ---

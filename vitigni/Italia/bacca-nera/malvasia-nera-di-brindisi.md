@@ -3,7 +3,7 @@ title: Malvasia Nera Di Brindisi
 description: La più comune delle due Malvasie dalla pelle scura dell'Italia meridionale, comunemente mescolata con il Negroamaro, uno dei suoi genitori.
 published: true
 date: 2021-09-06T14:52:17.343Z
-tags: vitigno, bacca nera
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:44:31.460Z
 ---

@@ -3,7 +3,7 @@ title: Monastrell
 description: Varietà di alta qualità, amante del calore e dalla pelle scura, molto apprezzata per il suo contributo inebriante e strutturato in blend.
 published: true
 date: 2021-09-26T14:54:43.164Z
-tags: vitigno, bacca nera
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:47:16.076Z
 ---

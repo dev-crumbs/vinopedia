@@ -3,7 +3,7 @@ title: Nocera
 description: Ingrediente di miscelazione minore in Calabria e Sicilia.
 published: true
 date: 2021-09-06T14:52:55.252Z
-tags: vitigno, bacca nera
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:45:28.732Z
 ---

@@ -3,7 +3,7 @@ title: Rondinella
 description: Compagno di assemblaggio minore in rossi come Valpolicella e Bardolino.
 published: true
 date: 2021-09-06T09:46:01.357Z
-tags: vitigno, bacca nera
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:45:57.113Z
 ---

@@ -3,7 +3,7 @@ title: Prodest
 description: Incrocio di Conegliano; tentativo di Merlot più fresco
 published: true
 date: 2021-09-06T14:53:06.784Z
-tags: vitigno, bacca nera
+tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:45:45.169Z
 ---
