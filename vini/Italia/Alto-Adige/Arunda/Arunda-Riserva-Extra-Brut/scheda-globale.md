@@ -3,7 +3,7 @@ title: Arunda Riserva Extra Brut – Alto Adige DOC – Arunda – Alto-Adige (I
 description: Chardonnay 60%+ Pinot Noir 40%  | Scampi gratinati alle erbe – Spiedino di pollo con salsa avocado – Insalata di aringhe
 published: true
 date: 2021-10-01T20:01:08.458Z
-tags: vino, blend, spumante, bianco, Alto-Adige, metodo classico, Scampi gratinati alle erbe, chardonnay, pinot nero, extra-brut, millesimato, Valutazioni | 5 stelle, italia, pinot noir, pinot bianco, Prezzi | 25-29€, Spiedino di pollo con salsa avocado, Insalata di aringhe
+tags: vino, blend, spumante, bianco, Regione vino | Alto-Adige, metodo classico, Scampi gratinati alle erbe, chardonnay, pinot nero, extra-brut, millesimato, Valutazioni | 5 stelle, italia, pinot noir, pinot bianco, Prezzi | 25-29€, Spiedino di pollo con salsa avocado, Insalata di aringhe
 editor: markdown
 dateCreated: 2021-08-12T08:47:39.689Z
 ---

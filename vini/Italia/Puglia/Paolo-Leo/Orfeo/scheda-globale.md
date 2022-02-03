@@ -3,7 +3,7 @@ title: Orfeo – Salento IGT – Paolo Leo – Puglia (IT) – 10-14€ – 4★
 description: Negroamaro 100% | Medaglioni di vitello su fonduta di pecorino – Tagliata con rosti di patate – Brasato di cervo ai mirtilli – Caserecce salsiccia funghi e caciocavallo – Filetto con castagne e salsa di prugne – Pappardelle al ragù di lepre
 published: true
 date: 2021-10-01T20:13:58.700Z
-tags: vino, italia, rosso, puglia, varietale, fermo, Valutazioni | 5 stelle, negroamaro, Prezzi | 10-14€, medaglioni di vitello su fonduta di pecorino, tagliata con rosti di patate, brasato di cervo ai mirtilli, filetto con castagne e salsa di prugne, Pappardelle al ragù di lepre
+tags: vino, italia, rosso, Regione vino | Puglia, varietale, fermo, Valutazioni | 5 stelle, negroamaro, Prezzi | 10-14€, medaglioni di vitello su fonduta di pecorino, tagliata con rosti di patate, brasato di cervo ai mirtilli, filetto con castagne e salsa di prugne, Pappardelle al ragù di lepre
 editor: markdown
 dateCreated: 2021-09-30T08:13:44.856Z
 ---

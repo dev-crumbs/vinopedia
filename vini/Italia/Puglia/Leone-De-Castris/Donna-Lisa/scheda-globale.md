@@ -3,7 +3,7 @@ title: Donna Lisa – Puglia IGT – Leone De Castris – Puglia (IT) – 15-19�
 description: Malvasia bianca 100% | Rombo al forno – Filetto di orata con caponata di ortaggi – Tortelli all'astice – Zuppa di cernia
 published: true
 date: 2021-10-01T20:13:56.255Z
-tags: vino, italia, rosso, puglia, varietale, fermo, Valutazioni | 5 stelle, Tortelli all'astice, Malvasia bianca, Prezzi | 15-19€, Rombo al forno, Filetto di orata con caponata di ortaggi, Zuppa di cernia, risotto ostriche ed erbe aromatiche
+tags: vino, italia, rosso, Regione vino | Puglia, varietale, fermo, Valutazioni | 5 stelle, Tortelli all'astice, Malvasia bianca, Prezzi | 15-19€, Rombo al forno, Filetto di orata con caponata di ortaggi, Zuppa di cernia, risotto ostriche ed erbe aromatiche
 editor: markdown
 dateCreated: 2021-10-01T17:43:19.742Z
 ---

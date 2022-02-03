@@ -3,7 +3,7 @@ title:  Pecorino Superiore Ferzo – Abruzzo Pecorino Superiore DOC – Codice C
 description: Pecorino 100% | Scamorza ai ferri – Astice alla catalana – Torta rustica al formaggio – Cartoccio di trota salmonata – Risotto ai quattro formaggi
 published: true
 date: 2021-08-24T12:31:23.089Z
-tags: vino, bianco, fermo, varietale, pecorino, italia, abruzzo, scamorza ai ferri, astice alla catalana, torta rustica al formaggio, cartoccio di trota salmonata, Prezzi | 15-19€, Valutazioni | 5 stelle, Risotto ai quattro formaggi
+tags: vino, bianco, fermo, varietale, pecorino, italia, Regione vino | Abruzzo, scamorza ai ferri, astice alla catalana, torta rustica al formaggio, cartoccio di trota salmonata, Prezzi | 15-19€, Valutazioni | 5 stelle, Risotto ai quattro formaggi
 editor: markdown
 dateCreated: 2021-08-24T11:31:20.502Z
 ---

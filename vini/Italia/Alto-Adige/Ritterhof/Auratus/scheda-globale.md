@@ -3,7 +3,7 @@ title: Auratus – Alto Adige DOC – Ritterhof – Alto-Adige (IT) – 20-24€
 description: Gewurztraminer 100% | Gambery al Curry – Pollo tandori – Maiale al latte al forno con mele  – Terrina di fegato d'oca – Sufflè di formaggio e noci – Caprino Roggenkas
 published: true
 date: 2022-02-02T19:06:05.728Z
-tags: vino, bianco, italia, varietale, fermo, alto-adige, gewurztraminer, terrina di fegato d'oca, gambery al curry, pollo tandori, maiale al latte al forno con mele, suffle di formaggio e noci, valutazioni | 5 stelle, prezzi | 20-24€, caprino roggenkas
+tags: vino, bianco, italia, varietale, fermo, Regione vino | Alto-Adige, gewurztraminer, terrina di fegato d'oca, gambery al curry, pollo tandori, maiale al latte al forno con mele, suffle di formaggio e noci, valutazioni | 5 stelle, prezzi | 20-24€, caprino roggenkas
 editor: markdown
 dateCreated: 2022-01-20T13:47:28.772Z
 ---

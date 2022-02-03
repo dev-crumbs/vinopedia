@@ -3,7 +3,7 @@ title: Graticciaia – Salento IGT – Vallone – Puglia (IT) – 50-54€ – 
 description: Negroamaro 100% | Filetto di manzo su fonduta tartufata – Stracotto di vitello con pere prugne e pecorino – Risotto con ragù d'anatra – Fagiano tartufato in crosta
 published: true
 date: 2021-10-01T20:00:00.508Z
-tags: vino, italia, rosso, puglia, varietale, Valutazioni | 5 stelle, negroamaro, filetto di manzo su fonduta tartufata, stracotto di vitello con pere prugne e pecorino, risotto con ragù d'anatra, Prezzi | 50-54€, Fagiano tartufato in crosta
+tags: vino, italia, rosso, Regione vino | Puglia, varietale, Valutazioni | 5 stelle, negroamaro, filetto di manzo su fonduta tartufata, stracotto di vitello con pere prugne e pecorino, risotto con ragù d'anatra, Prezzi | 50-54€, Fagiano tartufato in crosta
 editor: markdown
 dateCreated: 2021-09-07T19:53:52.646Z
 ---
