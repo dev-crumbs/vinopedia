@@ -1,9 +1,9 @@
 ---
 title: Terre dei Vestini Bellovedere – Montepulciano d'Abruzzo Riserva DOC – Fattoria La Valentina – Abruzzo (IT) – 50-54€ – 3★-5★
-description: Montepulciano 100% | Costatine di maiale alle erbe – Sformato patate e salsicce – Pollo al forno con peperoni – Lepre in salmì – Cinghiale in umido
+description: Montepulciano 100% | costine di maiale alle erbe – Sformato patate e salsicce – Pollo al forno con peperoni – Lepre in salmì – Cinghiale in umido
 published: true
 date: 2021-10-01T19:55:10.155Z
-tags: Prezzi | 50-54€, vino, italia, rosso, varietale, Vitigni | Montepulciano, abruzzo, fermo, Valutazioni | 5 stelle, Costatine di maiale alle erbe, Sformato patate e salsicce, Pollo al forno con peperoni, Lepre in salmì, Cinghiale in umido
+tags: Prezzi | 50-54€, vino, italia, rosso, varietale, Vitigni | Montepulciano, abruzzo, fermo, Valutazioni | 5 stelle, costine di maiale alle erbe, Sformato patate e salsicce, Pollo al forno con peperoni, Lepre in salmì, Cinghiale in umido
 editor: markdown
 dateCreated: 2021-09-02T14:32:35.010Z
 ---
@@ -26,7 +26,7 @@ dateCreated: 2021-09-02T14:32:35.010Z
 ## Possibili abbinamenti
 *Vedere le singole annate per abbinamenti specifici*
 
-- Costatine di maiale alle erbe
+- costine di maiale alle erbe
 - Sformato patate e salsicce
 - Pollo al forno con peperoni
 - Lepre in salmì

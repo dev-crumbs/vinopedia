@@ -3,7 +3,7 @@ title: Mazzamurello – Montepulciano d'Abruzzo DOC – Torre dei Beati – Abru
 description: Montepulciano 100% | Filetto di manzo in crosta con erbe aromatiche – Polenta con spuntature di maiale – Arista con patate – Filetto con riduzione al montepulciano – Agnello cacio e uova – Gnocchi al ragù di cinghiale
 published: true
 date: 2021-10-01T20:10:46.317Z
-tags: vino, italia, rosso, varietale, Vitigni | Montepulciano, abruzzo, filetto di manzo in crosta con erbe aromatiche, polenta con spuntature di maiale, arista con patate, filetto con riduzione al montepulciano, agnello cacio e uova, fermo, Valutazioni | 5 stelle, Gnocchi al ragù di cinghiale, Prezzi | 25-29€
+tags: vino, italia, rosso, varietale, Vitigni | Montepulciano, abruzzo, filetto di manzo in crosta con erbe aromatiche, polenta con spuntature di maiale, arista con patate, filetto con riduzione al montepulciano, Alimento | agnello, Aromatizzazione | cacio e uova, fermo, Valutazioni | 5 stelle, Gnocchi al ragù di cinghiale, Prezzi | 25-29€
 editor: markdown
 dateCreated: 2021-08-26T10:14:28.661Z
 ---

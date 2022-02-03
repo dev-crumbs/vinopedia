@@ -1,9 +1,9 @@
 ---
 title: Lagrein Tor di Lupo Riserva – Alto Adige DOC – Cantina Adriano – Alto-Adige (IT) – 35-39€ – 2★-5★
-description: Lagrein 100% | Stufato d'agnello all'alloro – Faraona ripiena –  Cariolo alla cacciatora – Brasato di manzo
+description: Lagrein 100% | Stufato d'agnello all'alloro – Faraona ripiena –  Capriolo alla cacciatora – Brasato di manzo
 published: true
 date: 2021-10-01T20:10:56.801Z
-tags: vino, italia, varietale, lagrein, rosso, fermo, Valutazioni | 5 stelle, alto-adige, Prezzi | 35-39€, Stufato d'agnello all'alloro, Faraona ripiena,  Cariolo alla cacciatora, brasato di manzo
+tags: vino, italia, varietale, lagrein, rosso, fermo, Valutazioni | 5 stelle, alto-adige, Prezzi | 35-39€, Alimento | agnello, Cottura | stufato, Aromatizzazione | all'alloro, Faraona ripiena,  Capriolo alla cacciatora, brasato di manzo
 editor: markdown
 dateCreated: 2021-09-30T08:13:14.399Z
 ---

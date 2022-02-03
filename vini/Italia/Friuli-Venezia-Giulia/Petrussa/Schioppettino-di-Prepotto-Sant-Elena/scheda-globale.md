@@ -3,7 +3,7 @@ title: Schioppettino di Prepotto Sant'Elena – Friuli Colli Orientali DOC – P
 description: Schioppettino 100% | Spalla di agnello al forno
 published: true
 date: 2021-10-01T19:57:02.010Z
-tags: vino, italia, rosso, varietale, friuli venezia giulia, fermo, Valutazioni | 5 stelle, Schioppettino, Spalla di agnello al forno, Prezzi | 60-64€
+tags: vino, italia, rosso, varietale, friuli venezia giulia, fermo, Valutazioni | 5 stelle, Schioppettino, Alimento | agnello, Alimento-dettagli | spalla, Cottura | al forno, Prezzi | 60-64€
 editor: markdown
 dateCreated: 2021-09-03T21:03:03.576Z
 ---

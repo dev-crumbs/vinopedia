@@ -26,11 +26,9 @@ dateCreated: 2021-09-02T14:34:18.751Z
 ## Possibili abbinamenti
 *Vedere le singole annate per abbinamenti specifici*
 
-- Pecora in pignata
-- Cosciotto di Capretto
-- Capretto al ginepro
-- Carrè di agnello al forno
-- Filetto di manzo al vino e salsa ai mirtilli
+- Caciocavallo stagionato in grotta 
+- Brasato di chianina 
+- Goulash di cinghiale 
 - Formaggio di fossa
 
 ## Annate
