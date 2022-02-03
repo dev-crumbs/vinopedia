@@ -3,7 +3,7 @@ title: Arbis Blanc – Venezia Giulia IGT – Borgo San Daniele – Friuli Venez
 description: Sauvignon blanc 40% + Chardonnay 20% + Pinot bianco 20% + Friulano 20% | Rombo al forno – Capesante gratinate – Scampi al sale – Tartare di dentice alle erbe – Calamari pinoli e menta 
 published: true
 date: 2021-10-01T20:11:59.260Z
-tags: vino, bianco, italia, blend, chardonnay, friuli venezia giulia, pinot bianco, friulano, fermo, Valutazioni | 5 stelle, sauvignon blanc, Rombo al forno, Capesante gratinate, Scampi al sale, Tartare di dentice alle erbe, Calamari pinoli e menta, Prezzi | 20-24€
+tags: vino, Vinificazione | bianco, italia, blend, chardonnay, friuli venezia giulia, pinot bianco, friulano, fermo, Valutazioni | 5 stelle, sauvignon blanc, Rombo al forno, Capesante gratinate, Scampi al sale, Tartare di dentice alle erbe, Calamari pinoli e menta, Prezzi | 20-24€
 editor: markdown
 dateCreated: 2021-08-29T16:15:14.887Z
 ---

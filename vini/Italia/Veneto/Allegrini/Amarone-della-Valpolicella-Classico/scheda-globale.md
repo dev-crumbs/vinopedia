@@ -3,7 +3,7 @@ title: Amarone della Valpolicella Classico – Amarone della Valpolicella Classi
 description: Corvina 45% + Corvinone 45% + Oseleta 5% Rondinella 5% | Filetto di angus – Sella di cervo al ribes – Filetto di cinghiale in crosta con crema ai funghi – Costata di cavallo – Braciola di cervo
 published: true
 date: 2022-01-28T17:14:37.370Z
-tags: vino, italia, rosso, blend, veneto, fermo, Prezzi | 80-84€, corvina, rondinella, Sella di cervo al ribes, corvinone, oseleta, Filetto di angus, Filetto di cinghiale in crosta con crema ai funghi, Costata di cavallo, Braciola di cervo
+tags: vino, italia, Vinificazione | rosso, blend, veneto, fermo, Prezzi | 80-84€, corvina, rondinella, Sella di cervo al ribes, corvinone, oseleta, Filetto di angus, Filetto di cinghiale in crosta con crema ai funghi, Costata di cavallo, Braciola di cervo
 editor: markdown
 dateCreated: 2022-01-27T15:21:34.303Z
 ---

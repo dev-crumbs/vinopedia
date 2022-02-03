@@ -3,7 +3,7 @@ title: Chardonnay Cuvée Bois – Valle d'Aosta DOC – Les Cretes – Valle d'A
 description: Chardonnay 100% | Salmone alla piastra – Spaghetti cacio e pepe – Galletto alle erbe – Seupetta di Cogne – Tagliolini ai funghi – Risotto ai porcini
 published: true
 date: 2021-10-01T20:15:15.962Z
-tags: vino, bianco, italia, varietale, valle d'aosta, Valutazioni | 5 stelle, fermo, Filetto di salmone alla piastra, Spaghetti cacio e pepe, Galletto alle erbe, Chardonnay, Seupetta di Cogne, Risotto ai porcini, Tagliolini ai funghi, Prezzi | 40-44€
+tags: vino, Vinificazione | bianco, italia, varietale, valle d'aosta, Valutazioni | 5 stelle, fermo, Filetto di salmone alla piastra, Spaghetti cacio e pepe, Galletto alle erbe, Chardonnay, Seupetta di Cogne, Risotto ai porcini, Tagliolini ai funghi, Prezzi | 40-44€
 editor: markdown
 dateCreated: 2021-09-01T10:17:11.077Z 
 ---

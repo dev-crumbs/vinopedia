@@ -3,7 +3,7 @@ title: A Fortiori – Umbria IGT – Cantina La Spina – Umbria (IT) – 20-24�
 description: Nebbiolo 100% | Parmigiano reggiano 40 mesi – Spezzatino di cinghiale alla cacciatora – Guancia di vitello brasata – Tagliata ai porcini
 published: true
 date: 2021-10-01T20:15:08.050Z
-tags: vino, italia, rosso, umbria, varietale, Vitigni | Nebbiolo, Valutazioni | 5 stelle, guancia di vitello brasata, parmigiano reggiano 40 mesi, spezzatino di cinghiale alla cacciatora, Prezzi | 20-24€, Tagliata ai porcini
+tags: vino, italia, Vinificazione | rosso, umbria, varietale, Vitigni | Nebbiolo, Valutazioni | 5 stelle, guancia di vitello brasata, parmigiano reggiano 40 mesi, spezzatino di cinghiale alla cacciatora, Prezzi | 20-24€, Tagliata ai porcini
 editor: markdown
 dateCreated: 2021-09-24T14:29:42.326Z
 ---

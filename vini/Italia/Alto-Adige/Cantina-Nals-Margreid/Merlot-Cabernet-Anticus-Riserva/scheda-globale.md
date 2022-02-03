@@ -3,7 +3,7 @@ title: Merlot Cabernet Anticus Riserva – Alto Adige DOC – Cantina Nals Margr
 description: Merlot 80% - Cabernet Sauvignon 20% | Ossobuco alla milanese – Gulash – Arrosto di agnello alla contadina – Capriolo alla cacciatora – Filetto d'agnello in foglie di vite
 published: true
 date: 2021-10-01T20:10:48.932Z
-tags: vino, italia, rosso, varietale, Ossobuco alla milanese, Gulash, Capriolo alla cacciatora, Alimento | agnello, Aromatizzazione | alla contadina, Alimento-dettagli | filetto, Aromatizzazione | in foglie di vite, Merlot, Regione Vino | Alto-Adige, Valutazioni | 5 stelle, Prezzi | 35-39€
+tags: vino, italia, Vinificazione | rosso, varietale, Ossobuco alla milanese, Gulash, Capriolo alla cacciatora, Alimento | agnello, Aromatizzazione | alla contadina, Alimento-dettagli | filetto, Aromatizzazione | in foglie di vite, Merlot, Regione Vino | Alto-Adige, Valutazioni | 5 stelle, Prezzi | 35-39€
 editor: markdown
 dateCreated: 2021-08-27T17:49:36.458Z
 ---

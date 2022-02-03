@@ -3,7 +3,7 @@ title: Cruna Delago – Campi Flegrei DOC – La Sibilla – Campania (IT) – 1
 description: Falanghina 100% | Tagliolini fave guanciale e pecorino – Linguine ai ricci di mare – Paccheri allo scorfano – Caserecce vongole e salicornia – Zuppetta di totani e fagioli
 published: true
 date: 2021-10-04T06:51:06.631Z
-tags: vino, bianco, campania, italia, varietale, fermo, Valutazioni | 5 stelle, Prezzi | 15-19€, falanghina, tagliolini fave guanciale e pecorino, linguine ai ricci di mare, paccheri allo scorfano, caserecce vongole e salicornia, zuppetta di totani e fagioli
+tags: vino, Vinificazione | bianco, campania, italia, varietale, fermo, Valutazioni | 5 stelle, Prezzi | 15-19€, falanghina, tagliolini fave guanciale e pecorino, linguine ai ricci di mare, paccheri allo scorfano, caserecce vongole e salicornia, zuppetta di totani e fagioli
 editor: markdown
 dateCreated: 2021-10-04T06:51:03.801Z
 ---

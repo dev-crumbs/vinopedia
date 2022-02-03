@@ -3,7 +3,7 @@ title: La Marchesa – Barbera d'Alba Superiore DOC – Manzone – Piemonte (IT
 description: Barbera 100%
 published: true
 date: 2021-10-04T06:51:10.314Z
-tags: vino, italia, rosso, varietale, piemonte, Valutazioni | 3 stelle, Prezzi | 25-29€, Barbera
+tags: vino, italia, Vinificazione | rosso, varietale, piemonte, Valutazioni | 3 stelle, Prezzi | 25-29€, Vitigni | Barbera
 editor: markdown
 dateCreated: 2021-10-04T06:51:07.853Z
 ---

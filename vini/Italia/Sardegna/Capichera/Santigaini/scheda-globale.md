@@ -3,7 +3,7 @@ title: Santigaìni – Isola dei Nuraghi IGT – Capichera – Sardegna (IT) –
 description: Vermentino 100% | Risotto al nero di seppia – Risotto con mazzancolle e porcini
 published: true
 date: 2021-10-01T20:00:26.198Z
-tags: Prezzi | 125-149€, vino, bianco, italia, varietale, sardegna, risotto al nero di seppia, fermo, Valutazioni | 5 stelle, vermentino, Risotto con mazzancolle e porcini
+tags: Prezzi | 125-149€, vino, Vinificazione | bianco, italia, varietale, sardegna, risotto al nero di seppia, fermo, Valutazioni | 5 stelle, vermentino, Risotto con mazzancolle e porcini
 editor: markdown
 dateCreated: 2021-08-31T15:46:40.040Z
 ---

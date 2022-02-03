@@ -3,7 +3,7 @@ title: Le Prisonnier – Vino generico – Maison Anselmet – Valle d'Aosta (IT
 description: Petit rouge 40% + Cornalin 35% + Fumin 20% + Mayolet 5% | Costolette di cervo – Stracotto di cervo – Coda alla vaccinara – Stinco di vitello al pepe – Costolette di cervo al ribes
 published: true
 date: 2021-10-01T20:15:21.116Z
-tags: vino, italia, rosso, blend, coda alla vaccinara, valle d'aosta, Valutazioni | 5 stelle, petit rouge, cornalin, fumin, mayolet, costolette di cervo, stracotto di cervo, stinco di vitello al pepe, costolette di cervo al ribes, Prezzi | 60-64€ 
+tags: vino, italia, Vinificazione | rosso, blend, coda alla vaccinara, valle d'aosta, Valutazioni | 5 stelle, petit rouge, cornalin, fumin, mayolet, costolette di cervo, stracotto di cervo, stinco di vitello al pepe, costolette di cervo al ribes, Prezzi | 60-64€ 
 editor: markdown
 dateCreated: 2021-09-03T21:04:07.498Z
 ---

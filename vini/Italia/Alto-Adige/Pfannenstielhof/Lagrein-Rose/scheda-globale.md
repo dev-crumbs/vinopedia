@@ -3,7 +3,7 @@ title: Lagrein Rosé – Vigneti delle Dolomiti IGT – Pfannenstielhof – Alto
 description: Lagrein 100% | Pomodori ripieni con riso e provola – Paella alla Valenciana – Spezzatino di verdure e farro – Insalata di farro con scampi
 published: true
 date: 2021-10-01T20:10:56.801Z
-tags: vino, italia, varietale, lagrein, rosato, fermo, Valutazioni | 5 stelle, Regione vino | Alto-Adige, Prezzi | 10-14€, pomodori ripieni con riso e provola, paella alla valenciana, spezzatino di verdure e farro, insalata di farro con scampi
+tags: vino, italia, varietale, lagrein, Vinificazione | rosato, fermo, Valutazioni | 5 stelle, Regione vino | Alto-Adige, Prezzi | 10-14€, pomodori ripieni con riso e provola, paella alla valenciana, spezzatino di verdure e farro, insalata di farro con scampi
 editor: markdown
 dateCreated: 2021-09-30T08:13:14.399Z
 ---

@@ -3,7 +3,7 @@ title: Opera Mia – Taurasi DOCG – Tenuta Cavalier Pepe – Campania (IT) –
 description: Aglianico 100% | Spezzatino di cinghiale al vino – Anatra all'arancia – Pancia di agnello farcita – Caciocavallo podolico in grotta
 published: true
 date: 2021-10-01T20:11:27.381Z
-tags: vino, rosso, Vitigni | Aglianico, varietale, spezzatino di cinghiale al vino, Alimento | anatra, Aromatizzazione | all'arancia, Alimento | agnello, Alimento-dettagli | pancia, Aromatizzazione | farcito, fermo, Valutazioni | 5 stelle, campania, italia, Caciocavallo podolico in grotta, Prezzi | 30-34€
+tags: vino, Vinificazione | rosso, Vitigni | Aglianico, varietale, spezzatino di cinghiale al vino, Alimento | anatra, Aromatizzazione | all'arancia, Alimento | agnello, Alimento-dettagli | pancia, Aromatizzazione | farcito, fermo, Valutazioni | 5 stelle, campania, italia, Caciocavallo podolico in grotta, Prezzi | 30-34€
 editor: markdown
 dateCreated: 2021-08-11T15:27:13.077Z
 ---

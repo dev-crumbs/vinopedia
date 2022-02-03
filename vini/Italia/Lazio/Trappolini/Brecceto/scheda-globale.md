@@ -3,7 +3,7 @@ title: Brecceto – Lazio IGT – Trappolini – Lazio (IT) – 15-19€ – 4�
 description: Grechetto 100% | Insalata di porcini con scaglie di grana – Risotto ai porcini
 published: true
 date: 2021-10-01T20:12:28.355Z
-tags: vino, bianco, italia, varietale, lazio, fermo, Valutazioni | 5 stelle, frechetto, insalata di porcini con scaglie di grana, risotto ai porcini, Prezzi | 15-19€
+tags: vino, Vinificazione | bianco, italia, varietale, lazio, fermo, Valutazioni | 5 stelle, frechetto, insalata di porcini con scaglie di grana, risotto ai porcini, Prezzi | 15-19€
 editor: markdown
 dateCreated: 2021-09-07T15:36:07.573Z
 ---

@@ -3,7 +3,7 @@ title: Moscato secco Maccone – Puglia IGT – Donato Angiuli – Puglia (IT) �
 description: Moscato bianco 100% | Filetto di ombrina – Tortelli di branzino – Aragosta alla catalana – Tortelli di ricotta con burro e salvia – Risotto ostriche ed erbe aromatiche
 published: true
 date: 2021-10-01T20:13:56.255Z
-tags: vino, italia, rosso, Regione vino | Puglia, varietale, fermo, Valutazioni | 5 stelle, Alimento | aragosta, Cottura | alla catalana, moscato bianco, Prezzi | 15-19€, filetto di ombrina, tortelli di branzino, tortelli di ricotta con burro e salvia, risotto ostriche ed erbe aromatiche
+tags: vino, italia, Vinificazione | rosso, Regione vino | Puglia, varietale, fermo, Valutazioni | 5 stelle, Alimento | aragosta, Cottura | alla catalana, moscato bianco, Prezzi | 15-19€, filetto di ombrina, tortelli di branzino, tortelli di ricotta con burro e salvia, risotto ostriche ed erbe aromatiche
 editor: markdown
 dateCreated: 2021-10-01T17:43:19.742Z
 ---
