@@ -3,7 +3,7 @@ title: Fior d'Arancio Passito – Colli Euganei DOCG – Cà Lustra Zanovello �
 description: Moscato giallo 100% | Baccalà mantecato – crepe pere e noci – Cioccolato e frutto della passione
 published: true
 date: 2021-10-01T20:15:26.483Z
-tags: vino, Vinificazione | bianco, varietale, veneto, baccalà mantecato, Valutazioni | 5 stelle, passito, moscato giallo, crepe pere e noci, cioccolato e frutto della passione, Prezzi | 20-24€
+tags: vino, Vinificazione | bianco, varietale, veneto, Alimento | baccalà, Cottura | mantecato, Valutazioni | 5 stelle, passito, moscato giallo, crepe pere e noci, cioccolato e frutto della passione, Prezzi | 20-24€
 editor: markdown
 dateCreated: 2021-08-31T15:46:53.719Z
 ---
