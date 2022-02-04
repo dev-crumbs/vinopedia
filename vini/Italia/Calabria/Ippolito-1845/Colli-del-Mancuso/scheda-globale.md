@@ -3,7 +3,7 @@ title: Colli del Mancuso – Cirò Classico Superiore Riserva DOC – Ippolito 1
 description: Gaglioppo 100% | Capretto in umido – Involtini di pecora al ragù – Pancia di maiale arrosto
 published: true
 date: 2021-10-01T20:11:11.877Z
-tags: vino, Vinificazione | rosso, Regione Vino | Calabria (IT), Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 5 stelle, gaglioppo, capretto in umido, Prezzi | 10-14€, involtini di pecora al ragù, Pancia di maiale arrosto
+tags: vino, Vinificazione | rosso, Regione | Calabria (IT), Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 5 stelle, gaglioppo, capretto in umido, Prezzi | 10-14€, involtini di pecora al ragù, Pancia di maiale arrosto
 editor: markdown
 dateCreated: 2021-10-01T09:52:58.839Z
 ---

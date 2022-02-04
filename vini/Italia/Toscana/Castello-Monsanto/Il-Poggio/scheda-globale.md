@@ -3,7 +3,7 @@ title: Il Poggio – Chianti Classico Gran Selezione Riserva DOCG – Castello M
 description: Sangiovese 90% + Canaiolo 5% + Colorino 5% | bistecchine di cinghiale alla griglia – Matuffi al ragù di cinghiale – Fiorentina alla brace – arista con prugne – Tagliata al tartufo – Filetto alla brace
 published: true
 date: 2021-10-04T06:51:26.278Z
-tags: vino, Vinificazione | rosso, Vinificazione | blend, Regione Vino | Toscana (IT), Vitigni | Sangiovese, Vinificazione | fermo, Valutazioni | 5 stelle, fiorentina alla brace, canaiolo, colorino, bistecchine di cinghiale alla griglia, matuffi al ragù di cinghiale, Alimento | maiale, Alimento-dettagli | arista, Aromatizzazione | con prugne, tagliata al tartufo, Filetto alla brace, Prezzi | 55-59€
+tags: vino, Vinificazione | rosso, Vinificazione | blend, Regione | Toscana (IT), Vitigni | Sangiovese, Vinificazione | fermo, Valutazioni | 5 stelle, fiorentina alla brace, canaiolo, colorino, bistecchine di cinghiale alla griglia, matuffi al ragù di cinghiale, Alimento | maiale, Alimento-dettagli | arista, Aromatizzazione | con prugne, tagliata al tartufo, Filetto alla brace, Prezzi | 55-59€
 editor: markdown
 dateCreated: 2021-09-07T15:36:11.646Z
 ---

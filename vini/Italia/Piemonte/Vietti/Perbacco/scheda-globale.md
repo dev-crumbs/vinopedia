@@ -3,7 +3,7 @@ title: Perbacco – Langhe DOC – Vietti – Piemonte (IT) – 15-19€ – 3�
 description: Nebbiolo 100%
 published: true
 date: 2021-10-01T20:13:24.845Z
-tags: vino, Vinificazione | rosso, Vinificazione | varietale, Regione Vino | Piemonte (IT), Vitigni | Nebbiolo, Valutazioni | 3 stelle, Prezzi | 15-19€
+tags: vino, Vinificazione | rosso, Vinificazione | varietale, Regione | Piemonte (IT), Vitigni | Nebbiolo, Valutazioni | 3 stelle, Prezzi | 15-19€
 editor: markdown
 dateCreated: 2021-09-24T12:30:51.383Z
 ---

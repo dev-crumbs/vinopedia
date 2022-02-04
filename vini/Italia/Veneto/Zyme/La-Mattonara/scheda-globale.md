@@ -3,7 +3,7 @@ title: La Mattonara – Amarone della Valpolicella Riserva DOCG – Zymé – Ve
 description: Corvina 40% + Corvinone 40% + Rondinella 15% + altre | Sella di lepre – Filetto di manzo ai porcini – Controfiletto di cervo
 published: true
 date: 2022-01-28T17:14:37.370Z
-tags: vino, Vinificazione | rosso, Vinificazione | blend, Regione Vino | Veneto (IT), Vinificazione | fermo, Prezzi | 200-249€, Valutazioni | 5 stelle, corvina, rondinella, corvinone, Sella di lepre, Filetto di manzo, Controfiletto di cervo
+tags: vino, Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Prezzi | 200-249€, Valutazioni | 5 stelle, corvina, rondinella, corvinone, Sella di lepre, Filetto di manzo, Controfiletto di cervo
 editor: markdown
 dateCreated: 2022-01-27T15:21:34.303Z
 ---

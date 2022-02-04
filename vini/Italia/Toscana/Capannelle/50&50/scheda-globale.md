@@ -3,7 +3,7 @@ title: 50&50 – Toscana IGT – Capannelle – Toscana (IT) – 100-124€ – 
 description: 50% Merlot + 50% Sangiovese | Sella di coniglio con patate e carciofi – Filetto alla rossini – Salsicce alla brace
 published: true
 date: 2021-10-01T20:00:55.251Z
-tags: Prezzi | 100-124€, vino, Vinificazione | rosso, Vinificazione | blend, Regione Vino | Toscana (IT), Vitigni | Sangiovese, Vinificazione | fermo, Valutazioni | 5 stelle, filetto alla rossini, merlot, sella di coniglio con patate e carciofi, Salsicce alla brace
+tags: Prezzi | 100-124€, vino, Vinificazione | rosso, Vinificazione | blend, Regione | Toscana (IT), Vitigni | Sangiovese, Vinificazione | fermo, Valutazioni | 5 stelle, filetto alla rossini, merlot, sella di coniglio con patate e carciofi, Salsicce alla brace
 editor: markdown
 dateCreated: 2021-09-18T16:45:15.826Z
 ---

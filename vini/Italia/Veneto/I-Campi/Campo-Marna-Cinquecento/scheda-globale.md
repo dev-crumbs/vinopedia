@@ -3,7 +3,7 @@ title: Campo Marna Cinquecento – Amarone della Valpolicella DOCG – I Campi �
 description: Corvina 45% + Corvinone 40% + Rondinella 10% + Altre | Filetto di manzo al tartufo – Arista di maiale in salsa di prugne
 published: true
 date: 2022-01-28T17:14:37.370Z
-tags: vino, Vinificazione | rosso, Vinificazione | blend, Regione Vino | Veneto (IT), Vinificazione | fermo, Prezzi | 150-174€, corvina, rondinella, Alimento | maiale, Alimento-dettagli | arista, Aromatizzazione | in salsa di prugne, corvinone, Filetto di manzo al tartufo
+tags: vino, Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Prezzi | 150-174€, corvina, rondinella, Alimento | maiale, Alimento-dettagli | arista, Aromatizzazione | in salsa di prugne, corvinone, Filetto di manzo al tartufo
 editor: markdown
 dateCreated: 2022-01-27T05:21:34.303Z
 ---

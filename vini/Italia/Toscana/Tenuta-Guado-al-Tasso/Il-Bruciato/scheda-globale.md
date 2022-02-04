@@ -3,7 +3,7 @@ title: Il Bruciato – Bolgheri DOC – Tenuta Guado al Tasso – Toscana (IT) �
 description: Cabernet Sauvignon + Merlot + Syrah | Tagliatelle al ragù – Scamerita al forno – Papero in umido con cipolle caramellate 
 published: true
 date: 2021-10-01T20:14:49.356Z
-tags: vino, Vinificazione | rosso, Vinificazione | blend, Regione Vino | Toscana (IT), Vinificazione | fermo, Valutazioni | 3 stelle, Vitigni | Cabernet Sauvignon, merlot, syrah, tagliatelle al ragù, Scamerita al forno, Papero in umido con cipolle caramellate, Prezzi | 20-24€
+tags: vino, Vinificazione | rosso, Vinificazione | blend, Regione | Toscana (IT), Vinificazione | fermo, Valutazioni | 3 stelle, Vitigni | Cabernet Sauvignon, merlot, syrah, tagliatelle al ragù, Scamerita al forno, Papero in umido con cipolle caramellate, Prezzi | 20-24€
 editor: markdown
 dateCreated: 2021-09-18T16:29:55.153Z
 ---
