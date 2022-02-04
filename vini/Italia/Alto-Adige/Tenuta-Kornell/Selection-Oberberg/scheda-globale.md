@@ -3,7 +3,7 @@ title: Selection Oberberg – Alto Adige DOC – Tenuta Kornell – Alto-Adige (
 description: Sauvignon Blanc 100% | Tacchino in salsa di limone – Gnocchi erbe burro e nocciole – Canederli di patate e spinaci – Gnocchi vongole e mazzancolle
 published: true
 date: 2021-10-01T20:10:54.290Z
-tags: vino, Vinificazione | bianco, italia, varietale, fermo, Valutazioni | 5 stelle, Regione vino | Alto-Adige, sauvignon blanc, Tacchino in salsa di limone, Gnocchi erbe burro e nocciole, Canederli di patate e spinaci, Gnocchi vongole e mazzancolle, Prezzi | 25-29€
+tags: vino, Vinificazione | bianco, varietale, fermo, Valutazioni | 5 stelle, Regione | Alto-Adige (IT), sauvignon blanc, Tacchino in salsa di limone, Gnocchi erbe burro e nocciole, Canederli di patate e spinaci, Gnocchi vongole e mazzancolle, Prezzi | 25-29€
 editor: markdown
 dateCreated: 2021-09-03T21:02:22.379Z
 ---

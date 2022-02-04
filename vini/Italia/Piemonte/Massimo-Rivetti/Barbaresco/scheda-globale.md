@@ -3,7 +3,7 @@ title: Barbaresco  – Barbaresco  DOCG – Massimo Rivetti – Piemonte (IT) �
 description: Nebbiolo 100% | Fagiano in cocotte – Coscia di faraona alle prugne – Tortelli di ragù al capriolo
 published: true
 date: 2021-10-01T19:59:15.183Z
-tags: vino, italia, Vinificazione | rosso, varietale, piemonte, Vitigni | Nebbiolo, Valutazioni | 3 stelle, fagiano in cocotte, coscia di faraona alle prugne, tortelli di ragù al capriolo, Prezzi | 20-24€
+tags: vino, Vinificazione | rosso, varietale, piemonte, Vitigni | Nebbiolo, Valutazioni | 3 stelle, fagiano in cocotte, coscia di faraona alle prugne, tortelli di ragù al capriolo, Prezzi | 20-24€
 editor: markdown
 dateCreated: 2021-09-24T12:31:16.342Z
 ---

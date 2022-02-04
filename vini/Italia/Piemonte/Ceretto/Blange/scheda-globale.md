@@ -3,7 +3,7 @@ title: Blangé – Langhe DOC – Ceretto Piemonte (IT) – 15-19€ – 2★-3�
 description: Arneis 100%
 published: true
 date: 2021-10-01T20:13:32.489Z
-tags: vino, Vinificazione | bianco, italia, varietale, piemonte, fermo, Valutazioni | 3 stelle, Vitigni | Arneis, Prezzi | 15-19€
+tags: vino, Vinificazione | bianco, varietale, piemonte, fermo, Valutazioni | 3 stelle, Vitigni | Arneis, Prezzi | 15-19€
 editor: markdown
 dateCreated: 2021-09-24T14:29:13.125Z
 ---

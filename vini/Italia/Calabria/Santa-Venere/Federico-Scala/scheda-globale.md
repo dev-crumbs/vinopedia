@@ -3,7 +3,7 @@ title: Federico Scala – Cirò Classico Superiore Riserva DOC – Santa Venere 
 description: Gaglioppo 100% | Cosciotto di agnello al forno – Involtini di maiale al sugo – Cosciotto di agnello con salsa all'aglio – Pollo ripieno di castgne e salsiccia
 published: true
 date: 2021-10-01T20:11:19.542Z
-tags: vino, italia, Vinificazione | rosso, calabria, varietale, Alimento | agnello, Alimento-dettagli | coscia, Cottura | al forno, Aromatizzazione | salsa all'aglio, fermo, Valutazioni | 5 stelle, gaglioppo, involtini di maiale al sugo, Pollo ripieno di castgne e salsiccia, Prezzi | 20-24€
+tags: vino, Vinificazione | rosso, calabria, varietale, Alimento | agnello, Alimento-dettagli | coscia, Cottura | al forno, Aromatizzazione | salsa all'aglio, fermo, Valutazioni | 5 stelle, gaglioppo, involtini di maiale al sugo, Pollo ripieno di castgne e salsiccia, Prezzi | 20-24€
 editor: markdown
 dateCreated: 2021-09-03T21:02:40.319Z
 ---

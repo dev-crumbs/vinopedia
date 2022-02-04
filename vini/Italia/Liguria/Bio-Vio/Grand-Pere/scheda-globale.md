@@ -3,7 +3,7 @@ title: Grand-Père – Riviera Ligure di Ponente DOC – Bio Vio – Liguria (IT
 description: Pigato 100% | Cappon magro – Risotto al nero di seppia – Calamari al forno ripieni di patate e olive – Tortino di acciughe
 published: true
 date: 2021-10-01T20:12:30.935Z
-tags: vino, Vinificazione | bianco, italia, varietale, pigato, liguria, cappon magro, risotto al nero di seppia, calamari al forno ripieni di patate e olive, tortino di acciughe, fermo, Valutazioni | 5 stelle, Prezzi | 30-34€
+tags: vino, Vinificazione | bianco, varietale, pigato, liguria, cappon magro, risotto al nero di seppia, calamari al forno ripieni di patate e olive, tortino di acciughe, fermo, Valutazioni | 5 stelle, Prezzi | 30-34€
 editor: markdown
 dateCreated: 2021-08-26T10:19:41.335Z
 ---

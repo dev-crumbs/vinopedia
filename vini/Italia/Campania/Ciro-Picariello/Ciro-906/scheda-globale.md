@@ -3,7 +3,7 @@ title: Ciro 906 – Fiano di Avellino DOCG – Ciro Picariello – Campania (IT)
 description: Fiano 100% | Maialino scottato su vellutata di melanzane
 published: true
 date: 2021-10-04T06:50:59.882Z
-tags: vino, Vinificazione | bianco, campania, italia, varietale, fermo, Valutazioni | 5 stelle, Prezzi | 40-44€, fiano, Maialino scottato su vellutata di melanzane
+tags: vino, Vinificazione | bianco, campania, varietale, fermo, Valutazioni | 5 stelle, Prezzi | 40-44€, fiano, Maialino scottato su vellutata di melanzane
 editor: markdown
 dateCreated: 2021-10-04T06:50:57.503Z
 ---

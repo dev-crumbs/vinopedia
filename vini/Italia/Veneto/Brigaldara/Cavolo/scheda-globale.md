@@ -3,7 +3,7 @@ title: Cavolo – Amarone della Valpolicella DOCG – Brigaldara – Veneto (IT)
 description: Corvina 50% + Corvinone 40% + Rondinella 10% | Brasato di lepre – Brasato – Stracotto di asino
 published: true
 date: 2022-01-28T17:14:37.370Z
-tags: vino, italia, Vinificazione | rosso, blend, veneto, fermo, Prezzi | 35-39€, corvina, rondinella, Brasato, corvinone, Brasato di lepre, Stracotto di asino
+tags: vino, Vinificazione | rosso, blend, veneto, fermo, Prezzi | 35-39€, corvina, rondinella, Brasato, corvinone, Brasato di lepre, Stracotto di asino
 editor: markdown
 dateCreated: 2022-01-27T15:21:34.303Z
 ---

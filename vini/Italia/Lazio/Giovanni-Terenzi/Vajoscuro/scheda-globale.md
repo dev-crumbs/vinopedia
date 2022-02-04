@@ -3,7 +3,7 @@ title: Vajoscuro – Cesanese del Piglio Superiore DOCG – Giovanni Terenzi –
 description: Cesanese d'Affile 100% | Tagliata di cervo al ginepro – Quaglie con guanciale e tartufo – Sella di agnello in crosta – Fagiano tartufato – Pecorino di fossa – Spezzatino di manzo
 published: true
 date: 2021-10-01T20:12:20.491Z
-tags: vino, italia, Vinificazione | rosso, varietale, lazio, fermo, Valutazioni | 5 stelle, pecorino di fossa, cesanese d'affile, tagliata di cervo al ginepro, quaglie con guanciale e tartufo, Alimento | agnello, Alimento-dettagli | sella, Aromatizzazione | in crosta, fagiano tartufato, Spezzatino di manzo, Prezzi | 10-14€
+tags: vino, Vinificazione | rosso, varietale, lazio, fermo, Valutazioni | 5 stelle, pecorino di fossa, cesanese d'affile, tagliata di cervo al ginepro, quaglie con guanciale e tartufo, Alimento | agnello, Alimento-dettagli | sella, Aromatizzazione | in crosta, fagiano tartufato, Spezzatino di manzo, Prezzi | 10-14€
 editor: markdown
 dateCreated: 2021-09-02T14:33:32.661Z
 ---

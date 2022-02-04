@@ -3,7 +3,7 @@ title: Mai dire mai – Amarone della Valpolicella DOCG – Pasqua – Veneto (I
 description: Corvina 65% + Rondinella 10% + Corvinone 15% + Oseleta 10% | Carré di maiale ai funghi
 published: true
 date: 2022-01-28T17:14:37.370Z
-tags: vino, italia, Vinificazione | rosso, blend, veneto, fermo, Prezzi | 70-74€, corvina, Valutazioni | 5 stelle, corvinone, oseleta, Carré di maiale ai funghi
+tags: vino, Vinificazione | rosso, blend, veneto, fermo, Prezzi | 70-74€, corvina, Valutazioni | 5 stelle, corvinone, oseleta, Carré di maiale ai funghi
 editor: markdown
 dateCreated: 2022-01-27T15:21:34.303Z
 ---

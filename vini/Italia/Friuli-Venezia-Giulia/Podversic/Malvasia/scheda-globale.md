@@ -3,7 +3,7 @@ title: Malvasia – Venezia Giulia IGT – Podversic – Friuli Venezia Giulia (
 description: Malvasia istriana 100% | Coniglio al forno con albicocche – Suprema di faraona con salsa agli agrumi – Tortelli di zucca con salsa di noci – Gamberi in pasta kataifi al basilico – Linguine all'astice
 published: true
 date: 2021-10-01T20:12:02.005Z
-tags: vino, Vinificazione | bianco, italia, varietale, fermo, Valutazioni | 5 stelle, malvasia istriana, coniglio al forno con albicocche, suprema di faraona con salsa agli agrumi, tortelli di zucca con salsa di noci, gamberi in pasta kataifi al basilico, friuli venezia giulia, Alimento | pasta, Alimento-dettagli | linguine, Aromatizzazione | all'astice, Prezzi | 35-39€
+tags: vino, Vinificazione | bianco, varietale, fermo, Valutazioni | 5 stelle, malvasia istriana, coniglio al forno con albicocche, suprema di faraona con salsa agli agrumi, tortelli di zucca con salsa di noci, gamberi in pasta kataifi al basilico, friuli venezia giulia, Alimento | pasta, Alimento-dettagli | linguine, Aromatizzazione | all'astice, Prezzi | 35-39€
 editor: markdown
 dateCreated: 2021-08-31T15:46:10.180Z
 ---

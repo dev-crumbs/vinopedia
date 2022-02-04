@@ -3,7 +3,7 @@ title: Gemola – Colli Euganei DOC – Vignalta – Veneto (IT) – 35-39€ �
 description: Merlot 70% + Cabernet Franc 30% | Filetto di cinghiale in crosta con funghi – Faraona in salsa di mirtilli – Stufato di manzo – Filetto di bue al roquefort – Sella di capriolo in salmì
 published: true
 date: 2022-01-15T21:40:44.960Z
-tags: vino, italia, Vinificazione | rosso, blend, veneto, fermo, Valutazioni | 5 stelle, cabernet franc, merlot, filetto di cinghiale in crosta con funghi, faraona in salsa di mirtilli, stufato di manzo, filetto di bue al roquefort, Prezzi | 35-39€
+tags: vino, Vinificazione | rosso, blend, veneto, fermo, Valutazioni | 5 stelle, cabernet franc, merlot, filetto di cinghiale in crosta con funghi, faraona in salsa di mirtilli, stufato di manzo, filetto di bue al roquefort, Prezzi | 35-39€
 editor: markdown
 dateCreated: 2021-09-03T21:04:22.446Z
 ---

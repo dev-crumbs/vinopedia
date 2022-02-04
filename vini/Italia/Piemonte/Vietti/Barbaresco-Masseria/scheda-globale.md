@@ -3,7 +3,7 @@ title: Barbaresco Masseria  – Barbaresco DOCG – Vietti – Piemonte (IT) –
 description: Nebbiolo 100%
 published: true
 date: 2021-10-01T19:59:30.550Z
-tags: vino, italia, Vinificazione | rosso, varietale, piemonte, Vitigni | Nebbiolo, Valutazioni | 3 stelle, Prezzi | 40-44€
+tags: vino, Vinificazione | rosso, varietale, piemonte, Vitigni | Nebbiolo, Valutazioni | 3 stelle, Prezzi | 40-44€
 editor: markdown
 dateCreated: 2021-09-24T14:29:23.890Z
 ---

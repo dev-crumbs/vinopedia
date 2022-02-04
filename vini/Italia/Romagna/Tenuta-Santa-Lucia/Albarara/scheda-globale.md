@@ -3,7 +3,7 @@ title: Albarara – Albana DOCG – Tenuta Santa Lucia – Romagna (IT) – 10-1
 description: Albana 100% | Rombo all'acqua pazza – Ossobuco di vitello allo zafferano – Quiche lorraine – Crostacei al sale – Tortelli di farina di castagne con erbette
 published: true
 date: 2021-10-01T20:00:15.973Z
-tags: vino, Vinificazione | bianco, italia, romagna, varietale, Valutazioni | 4 stelle, Vitigni | Albana, Rombo chiodato all'acqua pazza, Ossobuco di vitello allo zafferano, Quiche lorraine, Crostacei al sale, Tortelli di castagne con erbette, Prezzi | 10-14€
+tags: vino, Vinificazione | bianco, romagna, varietale, Valutazioni | 4 stelle, Vitigni | Albana, Rombo chiodato all'acqua pazza, Ossobuco di vitello allo zafferano, Quiche lorraine, Crostacei al sale, Tortelli di castagne con erbette, Prezzi | 10-14€
 editor: markdown
 dateCreated: 2021-09-07T06:15:26.688Z
 ---

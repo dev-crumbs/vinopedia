@@ -3,7 +3,7 @@ title: Ardito – Toscana IGT – Baracchi – Toscana (IT) – 35-39€ – 2�
 description: Cabernet Sauvignon + Syrah | Costine di maiale in salsa barbecue – Cinghiale alla cacciatora – Gran pezzo al forno – Piccione lardellato
 published: true
 date: 2022-01-25T14:35:07.533Z
-tags: vino, italia, Vinificazione | rosso, blend, toscana, fermo, Valutazioni | 5 stelle, Vitigni | Cabernet Sauvignon, syrah, Prezzi | 35-39€, Costine di maiale in salsa barbecue, Cinghiale alla cacciatora, Gran pezzo al forno, Piccione lardellato
+tags: vino, Vinificazione | rosso, blend, toscana, fermo, Valutazioni | 5 stelle, Vitigni | Cabernet Sauvignon, syrah, Prezzi | 35-39€, Costine di maiale in salsa barbecue, Cinghiale alla cacciatora, Gran pezzo al forno, Piccione lardellato
 editor: markdown
 dateCreated: 2022-01-24T12:15:09.595Z
 ---
