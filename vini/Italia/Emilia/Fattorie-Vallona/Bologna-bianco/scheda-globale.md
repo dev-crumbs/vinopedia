@@ -29,7 +29,7 @@ dateCreated: 2021-08-31T15:46:06.033Z
 - Risotto agli asparagi 
 
 ## Annate
-- Bologna bianco [2015](/vini/Italia/Emilia/Fattorie Vallona/Fattorie-Vallona/2015) -- <span class="star-3"></span> -- 82/100
+- Bologna bianco [2015](/vini/Italia/Emilia/Fattorie Vallona/Fattorie-Vallona/2015) -- <span class="star-3"></span> -- 85/100
 - Bologna bianco [2016](/vini/Italia/Emilia/Fattorie Vallona/Fattorie-Vallona/2016) -- <span class="star-2"></span> -- 83/100
 - Bologna bianco [2017](/vini/Italia/Emilia/Fattorie Vallona/Fattorie-Vallona/2017) -- <span class="star-3"></span> -- 86/100
 - Bologna bianco [2018](/vini/Italia/Emilia/Fattorie Vallona/Fattorie-Vallona/2018) -- <span class="star-2"></span> -- 83/100
