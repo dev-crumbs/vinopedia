@@ -3,7 +3,7 @@ title: Tannenberg – Alto Adige Terlano DOC – Manincor – Alto-Adige (IT) �
 description: Sauvignon Blanc 100% | Carpaccio di ricciola agli agrumi – Testina di vitello all'agro
 published: true
 date: 2021-10-01T20:10:54.290Z
-tags: vino, Vinificazione | bianco, varietale, fermo, Valutazioni | 5 stelle, Regione | Alto-Adige (IT), sauvignon blanc, carpaccio di ricciola agli agrumi, testina di vitello all'agro, Prezzi | 20-24€
+tags: vino, Vinificazione | bianco, varietale, fermo, Valutazioni | 5 stelle, Regione | Alto-Adige (IT), sauvignon blanc, carpaccio di ricciola agli agrumi, Alimento | vitello, Alimento-dettagli | testa, Aromatizzazione | all'agro, Prezzi | 20-24€
 editor: markdown
 dateCreated: 2021-09-03T21:02:22.379Z
 ---
