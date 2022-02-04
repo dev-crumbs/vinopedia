@@ -20,6 +20,7 @@
   overflow-y: auto;
   max-height: 300px
 }
+.star,
 .star-0,
 .star-1,
 .star-2,
@@ -31,6 +32,10 @@
   font-variant: normal;
   text-rendering: auto;
   font-family: "Font Awesome 5 Free"
+}
+.star:before {
+  font-weight: 900;
+  content: "\f005"
 }
 .star-0:before {
   font-weight: 900;
