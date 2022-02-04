@@ -3,7 +3,7 @@ title: Amarone La Fabriseria – Amarone della Valpolicella Riserva DOCG – Ted
 description: Corvina 35% + Rondinella 30% + Corvinone 30% + Oseleta 5% | Agnello con porcini alla brace – Goulash
 published: true
 date: 2022-01-28T17:14:37.370Z
-tags: vino, Vinificazione | rosso, blend, veneto, fermo, Prezzi | 200-249€, corvina, rondinella, corvinone, molinara, oseleta, Alimento | agnello, Cottura | alla brace, Aromatizzazione | con porcini, Goulash
+tags: vino, Vinificazione | rosso, Vinificazione | blend, Regione Vino | Veneto (IT), Vinificazione | fermo, Prezzi | 200-249€, corvina, rondinella, corvinone, molinara, oseleta, Alimento | agnello, Cottura | alla brace, Aromatizzazione | con porcini, Goulash
 editor: markdown
 dateCreated: 2022-01-27T15:21:34.303Z
 ---

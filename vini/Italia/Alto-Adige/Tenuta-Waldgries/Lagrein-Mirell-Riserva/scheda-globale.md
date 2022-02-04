@@ -3,7 +3,7 @@ title: Lagrein Mirell Riserva – Alto Adige DOC – Tenuta Waldgires – Alto-A
 description: Lagrein 100% | Anatra in salsa di Lagrein – Faraona ripiena con castagne – Stracotto di cinghiale
 published: true
 date: 2021-10-01T20:10:56.801Z
-tags: vino, varietale, lagrein, Vinificazione | rosso, fermo, Valutazioni | 5 stelle, Regione | Alto-Adige (IT), Prezzi | 35-39€, Alimento | anatra, Aromatizzazione | al vino, Faraona ripiena con castagne, Stracotto di cinghiale
+tags: vino, Vinificazione | varietale, lagrein, Vinificazione | rosso, Vinificazione | fermo, Valutazioni | 5 stelle, Regione | Alto-Adige (IT), Prezzi | 35-39€, Alimento | anatra, Aromatizzazione | al vino, Faraona ripiena con castagne, Stracotto di cinghiale
 editor: markdown
 dateCreated: 2021-09-30T08:13:14.399Z
 ---

@@ -3,7 +3,7 @@ title: Roggio del Filare – Rosso Piceno Superiore DOC – Velenosi – Marche 
 description: Montepulciano 70% + Sangiovese 30% | Fagiano ripieno con tartufo – Filetto alla Rossini – Agnello alla cacciatora – Costata alla griglia – Stracotto di cinghiale
 published: true
 date: 2021-10-01T20:13:06.774Z
-tags: vino, Vinificazione | rosso, blend, marche, Vitigni | Montepulciano, Valutazioni | 5 stelle, Vitigni | Sangiovese, Fagiano ripieno con tartufo, Filetto alla Rossini, Alimento | agnello, Aromatizzazione | alla cacciatora, Costata alla griglia, Stracotto di cinghiale, Prezzi | 30-34€
+tags: vino, Vinificazione | rosso, Vinificazione | blend, marche, Vitigni | Montepulciano, Valutazioni | 5 stelle, Vitigni | Sangiovese, Fagiano ripieno con tartufo, Filetto alla Rossini, Alimento | agnello, Aromatizzazione | alla cacciatora, Costata alla griglia, Stracotto di cinghiale, Prezzi | 30-34€
 editor: markdown
 dateCreated: 2021-09-08T09:21:10.164Z
 ---

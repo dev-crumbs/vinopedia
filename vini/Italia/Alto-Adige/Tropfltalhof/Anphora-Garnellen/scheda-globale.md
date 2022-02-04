@@ -3,7 +3,7 @@ title: Anphora Garnellen – Vino generico – Tropfltalhof – Alto-Adige (IT) 
 description: 100% Sauvignon blanc | Tortino di scamorza e pomodori – Tagliolini astice e zafferano
 published: true
 date: 2021-10-01T19:55:26.461Z
-tags: vino, Vinificazione | bianco, varietale, fermo, Valutazioni | 5 stelle, Regione | Alto-Adige (IT), sauvignon blanc, Tortino di scamorza e pomodori, Alimento | pasta, Alimento-dettagli | tagliolini, Aromatizzazione | astice e zafferano, Prezzi | 45-49€
+tags: vino, Vinificazione | bianco, Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 5 stelle, Regione | Alto-Adige (IT), sauvignon blanc, Tortino di scamorza e pomodori, Alimento | pasta, Alimento-dettagli | tagliolini, Aromatizzazione | astice e zafferano, Prezzi | 45-49€
 edr: markdown
 dateCreated: 2021-09-02T14:32:47.834Z
 ---

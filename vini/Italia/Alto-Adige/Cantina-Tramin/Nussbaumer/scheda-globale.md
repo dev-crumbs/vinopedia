@@ -3,7 +3,7 @@ title: Nussbaumer – Alto Adige DOC – Cantina Tramin – Alto-Adige (IT) – 
 description: Gewurztraminer 100% | Crespelle agli asparagi – Pollo al curry – Fagottini con formaggio di capra crescione e uvetta – Terrina di fegato d'oca – Galletto alle erbe
 published: true
 date: 2021-10-01T19:55:26.461Z
-tags: vino, Vinificazione | bianco, varietale, fermo, Valutazioni | 5 stelle, Regione | Alto-Adige (IT), gewurztraminer, crespelle agli asparagi, pollo al curry, fagottini con formaggio di capra crescione e uvetta, terrina di fegato d'oca, Prezzi | 25-29€, Galletto alle erbe
+tags: vino, Vinificazione | bianco, Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 5 stelle, Regione | Alto-Adige (IT), gewurztraminer, crespelle agli asparagi, pollo al curry, fagottini con formaggio di capra crescione e uvetta, terrina di fegato d'oca, Prezzi | 25-29€, Galletto alle erbe
 editor: markdown
 dateCreated: 2021-09-02T14:32:47.834Z
 ---

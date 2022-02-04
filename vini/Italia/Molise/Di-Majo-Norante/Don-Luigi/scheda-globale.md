@@ -3,7 +3,7 @@ title: Don Luigi – Molise Riserva DOC – Di Majo Norante – Molise (IT) – 
 description: Montepulciano 100% | Filetto alla wellington – Braciola di maiale alle prugne – Lasagne al forno – Guancia di manzo con zucca liquirizia e caffè – Spezzatino di maiale con polenta
 published: true
 date: 2021-10-01T20:13:14.475Z
-tags: vino, Vinificazione | rosso, varietale, Vitigni | Montepulciano, molise, fermo, Valutazioni | 5 stelle, filetto alla wellington, braciola di maiale alle prugne, lasagne al forno, guancia di manzo con zucca liquirizia e caffè, Spezzatino di maiale con polenta, Prezzi | 25-29€
+tags: vino, Vinificazione | rosso, Vinificazione | varietale, Vitigni | Montepulciano, molise, Vinificazione | fermo, Valutazioni | 5 stelle, filetto alla wellington, braciola di maiale alle prugne, lasagne al forno, guancia di manzo con zucca liquirizia e caffè, Spezzatino di maiale con polenta, Prezzi | 25-29€
 editor: markdown
 dateCreated: 2021-08-31T15:46:21.100Z
 ---

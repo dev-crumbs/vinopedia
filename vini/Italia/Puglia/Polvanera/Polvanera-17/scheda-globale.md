@@ -3,7 +3,7 @@ title: Polvanera 17 – Gioia del Colle DOC – Polvanera – Puglia (IT) – 30
 description: Primitivo 100% | Caciocavallo stagionato in grotta – Brasato di chianina – Goulash di cinghiale – Alimento | formaggio, Alimento-dettagli | Formaggio di fossa
 published: true
 date: 2021-10-01T19:59:51.958Z
-tags: vino, Vinificazione | rosso, Regione | Puglia (IT), varietale, Valutazioni | 5 stelle, primitivo, Alimento | formaggio, Alimento-dettagli | Caciocavallo stagionato in grotta, brasato di chianina, goulash di cinghiale, Formaggio di fossa, Prezzi | 30-34€
+tags: vino, Vinificazione | rosso, Regione | Puglia (IT), Vinificazione | varietale, Valutazioni | 5 stelle, primitivo, Alimento | formaggio, Alimento-dettagli | Caciocavallo stagionato in grotta, brasato di chianina, goulash di cinghiale, Formaggio di fossa, Prezzi | 30-34€
 editor: markdown
 dateCreated: 2021-09-02T14:34:18.751Z
 ---

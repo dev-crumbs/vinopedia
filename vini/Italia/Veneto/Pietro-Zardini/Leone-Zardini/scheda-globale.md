@@ -3,7 +3,7 @@ title: Leone Zardini – Amarone della Valpolicella Riserva DOCG – Pietro Zard
 description: Corvina 35% + Corvinone 35% + Rondinella 20% + Molinara 10% | Filetto di fassona – Anatra al forno – Gulash di cervo – Anatra in umido – Germano reale al forno
 published: true
 date: 2022-01-28T17:14:37.370Z
-tags: vino, Vinificazione | rosso, blend, veneto, fermo, Prezzi | 35-39€, corvina, rondinella, Alimento | anatra, Cottura | al forno, corvinone, molinara, Alimento | fassona, Alimento-dettagli | filetto, Gulash di cervo, Cottura | in umido, Germano reale al forno
+tags: vino, Vinificazione | rosso, Vinificazione | blend, Regione Vino | Veneto (IT), Vinificazione | fermo, Prezzi | 35-39€, corvina, rondinella, Alimento | anatra, Cottura | al forno, corvinone, molinara, Alimento | fassona, Alimento-dettagli | filetto, Gulash di cervo, Cottura | in umido, Germano reale al forno
 editor: markdown
 dateCreated: 2022-01-27T15:21:34.303Z
 ---

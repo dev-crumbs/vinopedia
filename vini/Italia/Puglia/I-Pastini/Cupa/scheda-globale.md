@@ -3,7 +3,7 @@ title: Cupa – Valle d'Itria IGT – I Pastini – Puglia (IT) – 5-9€ – 1
 description: Moscato bianco 100% | Risotto ai gamberi e mandorle tostate
 published: true
 date: 2021-10-01T20:13:56.255Z
-tags: vino, Vinificazione | bianco, Regione | Puglia (IT), varietale, fermo, Valutazioni | 3 stelle, Vitigni | bianco d alessano, Prezzi | 5-9€, Alimento | Risotto ai gamberi e mandorle tostate
+tags: vino, Vinificazione | bianco, Regione | Puglia (IT), Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 3 stelle, Vitigni | bianco d alessano, Prezzi | 5-9€, Alimento | Risotto ai gamberi e mandorle tostate
 editor: markdown
 dateCreated: 2021-10-01T17:43:19.742Z
 ---

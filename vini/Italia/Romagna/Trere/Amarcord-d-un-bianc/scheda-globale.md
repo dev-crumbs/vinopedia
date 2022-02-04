@@ -3,7 +3,7 @@ title: Amarcord d'un Bianc – Albana DOCG – Trere – Romagna (IT) – 15-19�
 description: Albana 100% | Rombo all'acqua pazza – Pescatrice alle erbe aromatiche
 published: true
 date: 2021-10-01T20:00:15.973Z
-tags: vino, Vinificazione | bianco, romagna, varietale, Valutazioni | 4 stelle, Vitigni | Albana, Streghette pesche e salsiccia, Pescatrice alle erbe aromatiche, Prezzi | 15-19€
+tags: vino, Vinificazione | bianco, romagna, Vinificazione | varietale, Valutazioni | 4 stelle, Vitigni | Albana, Streghette pesche e salsiccia, Pescatrice alle erbe aromatiche, Prezzi | 15-19€
 editor: markdown
 dateCreated: 2021-09-07T06:15:26.688Z
 ---

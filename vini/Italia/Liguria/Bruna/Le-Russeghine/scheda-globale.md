@@ -3,7 +3,7 @@ title: Le Russeghine – Riviera Ligure di Ponente DOC – Bruna – Liguria (IT
 description: Pigato 100% | Spigola in crosta di pistacchio – Paccheri ai ricci di mare – Bocconcini cernia e avocado – Cappon magro – Ravioli di borragine
 published: true
 date: 2021-10-01T20:12:33.612Z
-tags: vino, Vinificazione | bianco, varietale, pigato, liguria, cappon magro, fermo, Valutazioni | 5 stelle, spigola in crosta di pistacchio, paccheri ai ricci di mare, bocconcini cernia e avocado, ravioli di borragine, Prezzi | 15-19€
+tags: vino, Vinificazione | bianco, Vinificazione | varietale, pigato, liguria, cappon magro, Vinificazione | fermo, Valutazioni | 5 stelle, spigola in crosta di pistacchio, paccheri ai ricci di mare, bocconcini cernia e avocado, ravioli di borragine, Prezzi | 15-19€
 editor: markdown
 dateCreated: 2021-09-08T10:52:06.764Z
 ---

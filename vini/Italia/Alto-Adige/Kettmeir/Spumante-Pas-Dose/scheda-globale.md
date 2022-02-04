@@ -3,7 +3,7 @@ title: Spumante Pas Dose – Alto Adige DOC – Kettmeir – Alto-Adige (IT) –
 description: Chardonnay 50% + Pinot Bianco 40% + Pinot Noir 10%  | Code di gamberi in salsa all'aneto
 published: true
 date: 2021-10-01T20:01:08.458Z
-tags: vino, blend, spumante, Vinificazione | bianco, Regione | Alto-Adige (IT), metodo classico, Code di gamberi in salsa all'aneto, chardonnay, pinot nero, pas-dose, millesimato, Valutazioni | 5 stelle, pinot noir, pinot bianco, Prezzi | 25-29€
+tags: vino, Vinificazione | blend, spumante, Vinificazione | bianco, Regione | Alto-Adige (IT), metodo classico, Code di gamberi in salsa all'aneto, chardonnay, pinot nero, pas-dose, millesimato, Valutazioni | 5 stelle, pinot noir, pinot bianco, Prezzi | 25-29€
 editor: markdown
 dateCreated: 2021-08-12T08:47:39.689Z
 ---

@@ -3,7 +3,7 @@ title: Ràmici – Ciliegiolo di Narni IGT – Leonardo Bussoleti – Umbria (IT
 description: Ciliegiolo 100% | Piccione ripieno allo spiedo – Pernici al forno – Pappardelle al sugo di lepre – Carrè di agnello al forno
 published: true
 date: 2022-02-02T19:03:32.106Z
-tags: vino, Vinificazione | rosso, umbria, varietale, fermo, pappardelle al sugo di lepre, ciliegiolo, piccione ripieno allo spiedo, pernici al forno, Alimento | agnello, Alimento-dettagli | carrè, Cottura | al forno, valutazioni | 5 stelle, prezzi | 20-24€
+tags: vino, Vinificazione | rosso, umbria, Vinificazione | varietale, Vinificazione | fermo, pappardelle al sugo di lepre, ciliegiolo, piccione ripieno allo spiedo, pernici al forno, Alimento | agnello, Alimento-dettagli | carrè, Cottura | al forno, valutazioni | 5 stelle, prezzi | 20-24€
 editor: markdown
 dateCreated: 2022-02-01T11:02:08.224Z
 ---

@@ -3,7 +3,7 @@ title: Tintilia 66 – Tintilia del Molise DOC – Claudio Cipressi – Molise (
 description: Tintilia del Molise 100% | Tasca di vitello ripiena di funghi – Tagliatelle al sugo di cinghiale
 published: true
 date: 2021-10-01T20:13:11.876Z
-tags: vino, Vinificazione | rosso, varietale, tintilia, molise, fermo, Valutazioni | 5 stelle, Alimento | vitello, Alimento-dettagli | tasca, Aromatizzazione | ai funghi, Tagliatelle al sugo di cinghiale, Prezzi | 45-49€
+tags: vino, Vinificazione | rosso, Vinificazione | varietale, tintilia, molise, Vinificazione | fermo, Valutazioni | 5 stelle, Alimento | vitello, Alimento-dettagli | tasca, Aromatizzazione | ai funghi, Tagliatelle al sugo di cinghiale, Prezzi | 45-49€
 editor: markdown
 dateCreated: 2021-09-07T12:38:58.050Z
 ---

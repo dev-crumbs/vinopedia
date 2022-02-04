@@ -3,7 +3,7 @@ title: Rohesia – Salento IGT – Cantele – Puglia (IT) – 10-14€ – 4★
 description: Negroamaro 100% | Carpaccio di pesce spada marinato agli agrumi – Spaghetti con ragù di cicala e pomodorino giallo – Anelli di cipolla rossa fritti – Calamarata con pesto di fagiolini e ricotta – Spaghetti alla granseola
 published: true
 date: 2021-10-01T20:13:53.710Z
-tags: spaghetti alla granseola, vino, Regione | Puglia (IT), varietale, Vinificazione | rosato, fermo, Valutazioni | 5 stelle, negroamaro, carpaccio di pesce spada marinato agli agrumi, spaghetti con ragù di cicala e pomodorino giallo, Alimento | anelli di cipolla rossa fritti, calamarata con pesto di fagiolini e ricotta, Prezzi | 10-14€
+tags: spaghetti alla granseola, vino, Regione | Puglia (IT), Vinificazione | varietale, Vinificazione | rosato, Vinificazione | fermo, Valutazioni | 5 stelle, negroamaro, carpaccio di pesce spada marinato agli agrumi, spaghetti con ragù di cicala e pomodorino giallo, Alimento | anelli di cipolla rossa fritti, calamarata con pesto di fagiolini e ricotta, Prezzi | 10-14€
 editor: markdown
 dateCreated: 2021-09-28T15:49:47.183Z
 ---

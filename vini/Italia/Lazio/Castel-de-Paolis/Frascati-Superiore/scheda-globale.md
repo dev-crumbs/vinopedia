@@ -3,7 +3,7 @@ title: Frascati superiore – Frascati Superiore DOCG – Castel de Paolis – L
 description: Malvasia puntinata 70% + Altre varietà 30% | Linguine all'astice – Tonnarelli cacio e pepe – Filetto di sgombro cipolle e capperi
 published: true
 date: 2021-10-01T20:12:12.310Z
-tags: vino, Vinificazione | bianco, blend, lazio, malvasia puntinata, fermo, Valutazioni | 5 stelle, Prezzi | 15-19€, Alimento | pasta, Alimento-dettagli | linguine, Aromatizzazione | all'astice, tonnarelli cacio e pepe, Filetto di sgombro cipolle e capperi
+tags: vino, Vinificazione | bianco, Vinificazione | blend, lazio, malvasia puntinata, Vinificazione | fermo, Valutazioni | 5 stelle, Prezzi | 15-19€, Alimento | pasta, Alimento-dettagli | linguine, Aromatizzazione | all'astice, tonnarelli cacio e pepe, Filetto di sgombro cipolle e capperi
 editor: markdown
 dateCreated: 2021-10-01T17:43:12.241Z
 ---

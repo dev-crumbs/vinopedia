@@ -3,7 +3,7 @@ title: Abelos – Frascati Superiore DOCG – De Sanctis – Lazio (IT) – 10-1
 description: Malvasia puntinata 80% + Bombino bianco 20% | Spaghetti cozze vongole e pomodorini – Tonno con pesto di pistacchi e capperi – Zuppa di pesce alla marsigliese – Polpo patate e capperi – Timballo ai carciofi – Tonno in crosta
 published: true
 date: 2021-10-01T20:12:15.396Z
-tags: vino, Vinificazione | bianco, blend, lazio, malvasia puntinata, bombino bianco, fermo, Valutazioni | 5 stelle, spaghetti cozze vongole e pomodorini, tonno con pesto di pistacchi e capperi, zuppa di pesce alla marsigliese, polpo patate e capperi, timballo ai carciofi, Tonno in crosta, Prezzi | 10-14€
+tags: vino, Vinificazione | bianco, Vinificazione | blend, lazio, malvasia puntinata, bombino bianco, Vinificazione | fermo, Valutazioni | 5 stelle, spaghetti cozze vongole e pomodorini, tonno con pesto di pistacchi e capperi, zuppa di pesce alla marsigliese, polpo patate e capperi, timballo ai carciofi, Tonno in crosta, Prezzi | 10-14€
 editor: markdown
 dateCreated: 2021-09-28T19:38:43.049Z
 ---

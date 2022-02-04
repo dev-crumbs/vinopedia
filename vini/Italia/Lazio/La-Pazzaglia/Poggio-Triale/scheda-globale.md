@@ -3,7 +3,7 @@ title: Poggio Triale – Lazio IGT – La Pazzaglia – Lazio (IT) – 20-24€ 
 description: Grechetto 100% | Dentice al forno – Coniglio alla cacciatora – Trofie al pesto – Risotto ai funghi porcini
 published: true
 date: 2021-10-01T20:12:28.355Z
-tags: vino, Vinificazione | bianco, varietale, lazio, fermo, Valutazioni | 5 stelle, frechetto, Dentice al forno, Coniglio alla cacciatora, Trofie al pesto, Risotto ai funghi porcini, Prezzi | 20-24€
+tags: vino, Vinificazione | bianco, Vinificazione | varietale, lazio, Vinificazione | fermo, Valutazioni | 5 stelle, frechetto, Dentice al forno, Coniglio alla cacciatora, Trofie al pesto, Risotto ai funghi porcini, Prezzi | 20-24€
 editor: markdown
 dateCreated: 2021-09-07T15:36:07.573Z
 ---

@@ -3,7 +3,7 @@ title: La Firma – Aglianico del Vulture Superiore DOCG – Cantine del Notaio 
 description: Aglianico del vulture 100% | Cosciotto d'agnello alla cacciatora/al vino – Gulash – Costata alla brace – Faraona ripiena
 published: true
 date: 2021-10-01T20:11:01.671Z
-tags: vino, Vinificazione | rosso, Regione | Basilicata (IT), varietale, fermo, Vitigni | Aglianico del Vulture, Valutazioni | 5 stelle, Prezzi | 30-34€, Alimento | agnello, Aromatizzazione | al vino, Alimento-dettagli | cosciotto, Aromatizzazione | alla cacciatora, Gulash, Costata alla brace, Faraona ripiena
+tags: vino, Vinificazione | rosso, Regione | Basilicata (IT), Vinificazione | varietale, Vinificazione | fermo, Vitigni | Aglianico del Vulture, Valutazioni | 5 stelle, Prezzi | 30-34€, Alimento | agnello, Aromatizzazione | al vino, Alimento-dettagli | cosciotto, Aromatizzazione | alla cacciatora, Gulash, Costata alla brace, Faraona ripiena
 editor: markdown
 dateCreated: 2021-09-30T08:13:22.567Z
 ---

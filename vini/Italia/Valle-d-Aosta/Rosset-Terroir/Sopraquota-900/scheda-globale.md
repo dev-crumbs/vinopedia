@@ -3,7 +3,7 @@ title: Sopraquota 900 – Vino generico – Rosset Terroir – Valle d'Aosta (IT
 description: Petite Arvine 100% | Crespelle alla valdostana – Lasagne bianche con verze patate e fonduta – Risotto asparagi e mazzancolle
 published: true
 date: 2022-02-02T21:35:52.912Z
-tags: vino, Vinificazione | bianco, varietale, valle d'aosta, fermo, Vinificazione | anfora, petite arvine, crespelle alla valdostana, lasagne bianche con verze patate e fonduta, risotto asparagi e mazzancolle, valutazioni | 5 stelle, prezzi | 35-39€
+tags: vino, Vinificazione | bianco, Vinificazione | varietale, valle d'aosta, Vinificazione | fermo, Vinificazione | anfora, petite arvine, crespelle alla valdostana, lasagne bianche con verze patate e fonduta, risotto asparagi e mazzancolle, valutazioni | 5 stelle, prezzi | 35-39€
 editor: markdown
 dateCreated: 2021-09-03T21:04:11.465Z
 ---

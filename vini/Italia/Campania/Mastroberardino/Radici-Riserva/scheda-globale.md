@@ -3,7 +3,7 @@ title: Radici Riserva – Taurasi Riserva DOCG – Mastroberardino – Campania 
 description: Aglianico 100% | Bocconcini di fagiano con salsa al ribes – Filetto di chianina al pepe nero – Brasato di manzo con purea di carote e liquirizia – Uova al tegamino con crema di taleggio e tartufo bianco
 published: true
 date: 2022-02-02T21:36:36.403Z
-tags: vino, campania, Vinificazione | rosso, Vitigni | Aglianico, varietale, fermo, bocconcini di fagiano con salsa al ribes, filetto di chianina al pepe nero, brasato di manzo con purea di carote e liquirizia, uova al tegamino con crema di taleggio e tartufo bianco, valutazioni | 5 stelle, prezzi | 35-39€
+tags: vino, campania, Vinificazione | rosso, Vitigni | Aglianico, Vinificazione | varietale, Vinificazione | fermo, bocconcini di fagiano con salsa al ribes, filetto di chianina al pepe nero, brasato di manzo con purea di carote e liquirizia, uova al tegamino con crema di taleggio e tartufo bianco, valutazioni | 5 stelle, prezzi | 35-39€
 editor: markdown
 dateCreated: 2021-09-03T21:02:52.418Z
 ---

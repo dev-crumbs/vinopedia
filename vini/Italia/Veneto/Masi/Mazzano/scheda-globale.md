@@ -3,7 +3,7 @@ title: Mazzano – Amarone della Valpolicella Classico DOCG – Masi – Veneto 
 description: Corvina 75% + Rondinella 20% + Molinara 5% | Cinghiale in dolceforte – Anatra in umido – Gulash di cervo
 published: true
 date: 2022-01-28T17:14:37.370Z
-tags: vino, Vinificazione | rosso, blend, veneto, fermo, Prezzi | 125-149€, corvina, rondinella, Alimento | anatra, Cottura | in umido, molinara, Cinghiale in dolceforte, Gulash di cervo
+tags: vino, Vinificazione | rosso, Vinificazione | blend, Regione Vino | Veneto (IT), Vinificazione | fermo, Prezzi | 125-149€, corvina, rondinella, Alimento | anatra, Cottura | in umido, molinara, Cinghiale in dolceforte, Gulash di cervo
 editor: markdown
 dateCreated: 2022-01-27T15:21:34.303Z
 ---
