@@ -1,6 +1,6 @@
 window.addEventListener("load", function(){
-  d3.csv("produttore-summary.csv").then( function(data) {
-  
+  d3.csv("produttore-summary.csv", function(data) {
+    
     var sortAscending = true;
     var table = d3.select('#table-container').append('table').attr('class','produttore-summary');
     var titles = d3.keys(data[0]);
