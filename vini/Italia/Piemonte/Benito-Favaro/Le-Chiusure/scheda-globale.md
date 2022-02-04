@@ -3,7 +3,7 @@ title: Le Chiusure – Erbaluce di Caluso DOCG – Benito Favaro – Piemonte (I
 description: Erbaluce 100% | Orata al forno – Salmerino patate e crescione – Tagliolini al pesce persico – Timballo di pesce
 published: true
 date: 2021-10-01T20:13:19.610Z
-tags: vino, Vinificazione | bianco, Vinificazione | varietale, Regione | Piemonte (IT), Vinificazione | fermo, Valutazioni | 5 stelle, erbaluce, Prezzi | 10-14€, orata al forno, salmerino patate e crescione, tagliolini al pesce persico, timballo di pesce
+tags: Vinificazione | bianco, Vinificazione | varietale, Regione | Piemonte (IT), Vinificazione | fermo, Valutazioni | 5 stelle, erbaluce, Prezzi | 10-14€, orata al forno, salmerino patate e crescione, tagliolini al pesce persico, timballo di pesce
 editor: markdown
 dateCreated: 2021-09-30T12:52:55.306Z
 ---

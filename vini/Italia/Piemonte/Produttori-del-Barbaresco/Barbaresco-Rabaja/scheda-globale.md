@@ -3,7 +3,7 @@ title: Barbaresco Riserva Rabajà – Barbaresco Rabajà Riserva DOCG – Produt
 description: Nebbiolo 100% | Fagiano in umido – Testun stagionato – spalla d'agnello – Fagiano alla carbonara
 published: true
 date: 2021-10-01T20:13:45.958Z
-tags: vino, Vinificazione | rosso, Vinificazione | varietale, Regione | Piemonte (IT), fagiano in umido, Alimento | formaggio, Alimento-dettagli | Testun stagionato, Alimento | agnello, Alimento-dettagli | spalla, Vitigni | Nebbiolo, Valutazioni | 5 stelle, Fagiano alla carbonara, Prezzi | 45-49€
+tags: Vinificazione | rosso, Vinificazione | varietale, Regione | Piemonte (IT), fagiano in umido, Alimento | formaggio, Alimento-dettagli | Testun stagionato, Alimento | agnello, Alimento-dettagli | spalla, Vitigni | Nebbiolo, Valutazioni | 5 stelle, Fagiano alla carbonara, Prezzi | 45-49€
 editor: markdown
 dateCreated: 2021-08-23T12:22:31.894Z
 ---

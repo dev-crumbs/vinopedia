@@ -3,7 +3,7 @@ title: Titolo – Aglianico del Vulture DOC – Elena Fucci – Basilicata (IT) 
 description: Aglianico del vulture 100% | Spezzatino di maiale – Entrecote al rosmarino – Stracotto di manzo ai funghi – Filetto alla Wellington – Tagliata al pepe rosa – Caciocavallo alla piastra
 published: true
 date: 2021-10-01T20:11:01.671Z
-tags: vino, Vinificazione | rosso, Regione | Basilicata (IT), Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 5 stelle, Vitigni | Aglianico del Vulture, Prezzi | 30-34€, Spezzatino di maiale, Entrecote al rosmarino, Alimento | manzo, Cottura | stracotto, Aromatizzazione | ai funghi, Filetto alla Wellington, Tagliata al pepe rosa, Caciocavallo alla piastra
+tags: Vinificazione | rosso, Regione | Basilicata (IT), Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 5 stelle, Vitigni | Aglianico del Vulture, Prezzi | 30-34€, Spezzatino di maiale, Entrecote al rosmarino, Alimento | manzo, Cottura | stracotto, Aromatizzazione | ai funghi, Filetto alla Wellington, Tagliata al pepe rosa, Caciocavallo alla piastra
 editor: markdown
 dateCreated: 2021-09-30T08:13:22.567Z
 ---

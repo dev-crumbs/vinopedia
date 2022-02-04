@@ -3,7 +3,7 @@ title: Masqito Gold – Aglianico del Vulture Superiore DOCG – Colli Cerentino
 description: Aglianico 100% | Stinco di vitello al forno – Sella di agnello al tartufo – Brasato di manzo – Sella di coniglio alle prugne – Cosciotto di vitello ai mirtilli
 published: true
 date: 2021-10-01T19:55:44.595Z
-tags: vino, Vinificazione | rosso, Regione | Basilicata (IT), Vitigni | Aglianico, Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 5 stelle, Alimento | vitello, Alimento-dettagli | stinco, Cottura | a forno, Alimento-dettagli | coscia, Aromatizzazione | ai mirtilli, Alimento | agnello, Alimento-dettagli | sella, Aromatizzazione | al tartufo, sella di coniglio alle prugne, brasato di manzo, Prezzi | 45-49€
+tags: Vinificazione | rosso, Regione | Basilicata (IT), Vitigni | Aglianico, Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 5 stelle, Alimento | vitello, Alimento-dettagli | stinco, Cottura | a forno, Alimento-dettagli | coscia, Aromatizzazione | ai mirtilli, Alimento | agnello, Alimento-dettagli | sella, Aromatizzazione | al tartufo, sella di coniglio alle prugne, brasato di manzo, Prezzi | 45-49€
 editor: markdown
 dateCreated: 2021-09-02T14:32:54.829Z
 ---

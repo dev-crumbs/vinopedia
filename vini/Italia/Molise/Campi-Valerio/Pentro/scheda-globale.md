@@ -3,7 +3,7 @@ title: Pentro – Pentro DOC – Campi Valerio – Molise (IT) – 100-124€ �
 description: Montepulciano 75% + Tintilia 25% | Cosciotto di angello con castagne – Spezzatino di cinghiale al tartufo
 published: true
 date: 2021-10-01T20:13:09.288Z
-tags: vino, Vinificazione | rosso, Vinificazione | varietale, Vitigni | Montepulciano, molise, Cosciotto di angello con castagne, Spezzatino di cinghiale al tartufo, Vinificazione | fermo, Valutazioni | 5 stelle, Prezzi | 100-124€
+tags: Vinificazione | rosso, Vinificazione | varietale, Vitigni | Montepulciano, molise, Cosciotto di angello con castagne, Spezzatino di cinghiale al tartufo, Vinificazione | fermo, Valutazioni | 5 stelle, Prezzi | 100-124€
 editor: markdown
 dateCreated: 2021-08-26T20:26:44.724Z
 ---

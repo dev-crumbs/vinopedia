@@ -3,7 +3,7 @@ title: Montefalco Sagrantino 25 anni – Montefalco Sagrantino DOCG – Arnaldo 
 description: Sagrantino 100% | Filetto di cervo all'aceto balsamico – Bracioline di agnello al tartufo – Sella di cervo con castagne – Filetto alla rossini – Medaglioni di maiale ai mirtilli
 published: true
 date: 2021-10-01T20:01:30.016Z
-tags: vino, Vinificazione | rosso, umbria, Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 5 stelle, filetto alla rossini, sagrantino, filetto di cervo all'aceto balsamico, Alimento | agnello, Alimento-dettagli | braciola, Aromatizzazione | al tartufo, sella di cervo con castagne, Prezzi | 50-54€, Medaglioni di maiale ai mirtilli
+tags: Vinificazione | rosso, umbria, Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 5 stelle, filetto alla rossini, sagrantino, filetto di cervo all'aceto balsamico, Alimento | agnello, Alimento-dettagli | braciola, Aromatizzazione | al tartufo, sella di cervo con castagne, Prezzi | 50-54€, Medaglioni di maiale ai mirtilli
 editor: markdown
 dateCreated: 2021-09-07T05:50:04.082Z
 ---

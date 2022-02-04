@@ -3,7 +3,7 @@ title: Cornalin – Valle d'Aosta DOC – Le Clocher – Valle d'Aosta (IT) – 
 description: Cornalin 100%
 published: true
 date: 2021-10-01T20:15:13.311Z
-tags: vino, Vinificazione | rosso, Vinificazione | varietale, valle d'aosta, Vinificazione | fermo, Cornalin, Prezzi | 10-14€
+tags: Vinificazione | rosso, Vinificazione | varietale, valle d'aosta, Vinificazione | fermo, Cornalin, Prezzi | 10-14€
 editor: markdown
 dateCreated: 2021-09-18T16:30:04.076Z 
 ---

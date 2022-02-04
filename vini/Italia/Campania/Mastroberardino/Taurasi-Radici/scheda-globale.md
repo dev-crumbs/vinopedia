@@ -3,7 +3,7 @@ title: Taurasi Radici – Taurasi DOCG – Mastroberardino – Campania (IT) –
 description: Aglianico 100% | Cinchiale in salsa di mirtilli – Fagiano ai porcini
 published: true
 date: 2021-10-01T20:11:35.370Z
-tags: vino, campania, Vinificazione | rosso, Vitigni | Aglianico, Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 5 stelle, Cinchiale in salsa di mirtilli, Fagiano ai porcini, Prezzi | 35-39€
+tags: campania, Vinificazione | rosso, Vitigni | Aglianico, Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 5 stelle, Cinchiale in salsa di mirtilli, Fagiano ai porcini, Prezzi | 35-39€
 editor: markdown
 dateCreated: 2021-09-03T21:02:52.418Z
 ---

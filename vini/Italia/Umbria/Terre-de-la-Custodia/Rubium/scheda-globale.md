@@ -3,7 +3,7 @@ title: Rubium – Montefalco DOC – Terre de la Custodia – Umbria (IT) – 15
 description: Sangiovese 70% + Merlot 15% + Sagrantino 15% | Coniglio in salsa tartufata – Tacchino ripieno di castagne – Coniglio in fricassea – Capriolo al ginepro
 published: true
 date: 2021-10-01T20:01:48.471Z
-tags: vino, Vinificazione | rosso, Vinificazione | blend, umbria, Vitigni | Sangiovese, Vinificazione | fermo, Valutazioni | 5 stelle, merlot, Prezzi | 15-19€, coniglio in salsa tartufata, tacchino ripieno di castagne, coniglio in fricassea, capriolo al ginepro
+tags: Vinificazione | rosso, Vinificazione | blend, umbria, Vitigni | Sangiovese, Vinificazione | fermo, Valutazioni | 5 stelle, merlot, Prezzi | 15-19€, coniglio in salsa tartufata, tacchino ripieno di castagne, coniglio in fricassea, capriolo al ginepro
 editor: markdown
 dateCreated: 2021-10-01T17:43:26.472Z
 ---

@@ -3,7 +3,7 @@ title: Neromoro – Montepulciano d'Abruzzo Colline Teramane Riserva DOCG – Ni
 description: Montepulciano 100% | Capretto alla brace – Piccione in casseruola – Spezzatino di cinghiale in umido – Pernici con polenta – Quaglie al prosciutto
 published: true
 date: 2021-10-01T19:55:13.137Z
-tags: vino, Vinificazione | rosso, Vinificazione | varietale, Vitigni | Montepulciano, Regione | Abruzzo (IT), Vinificazione | fermo, Valutazioni | 5 stelle, capretto alla brace, piccione in casseruola, spezzatino di cinghiale in umido, pernici con polenta, quaglie al prosciutto, Prezzi | 30-34€
+tags: Vinificazione | rosso, Vinificazione | varietale, Vitigni | Montepulciano, Regione | Abruzzo (IT), Vinificazione | fermo, Valutazioni | 5 stelle, capretto alla brace, piccione in casseruola, spezzatino di cinghiale in umido, pernici con polenta, quaglie al prosciutto, Prezzi | 30-34€
 editor: markdown
 dateCreated: 2021-09-08T08:15:21.741Z
 ---

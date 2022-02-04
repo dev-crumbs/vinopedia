@@ -3,7 +3,7 @@ title: Amelia Vin Santo Occhio di Pernice – Amelia DOC – La Palazzola – Um
 description: Sangiovese | Formaggi erborinati 
 published: true
 date: 2021-10-01T20:01:43.358Z
-tags: vino, Vinificazione | rosso, Vinificazione | varietale, umbria, Valutazioni | 5 stelle, passito, Vitigni | Sangiovese,  Formaggi erborinati, Prezzi | 25-29€
+tags: Vinificazione | rosso, Vinificazione | varietale, umbria, Valutazioni | 5 stelle, passito, Vitigni | Sangiovese,  Formaggi erborinati, Prezzi | 25-29€
 editor: markdown
 dateCreated: 2021-08-29T16:16:10.505Z
 ---

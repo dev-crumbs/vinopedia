@@ -3,7 +3,7 @@ title: Cà Moréi – Valtellina Superiore Valgella DOCG – Fay – Lombardia (
 description: Nebbiolo 100% | Brasato di manzo – Petto d'anatra con salsa all'aceto balsamico e mostarda – Risotto funghi e nocciole mantecato al casera – Fonduta di fontina – Crespelle funghi porcini e casera
 published: true
 date: 2021-10-01T20:12:49.051Z
-tags: vino, Vinificazione | rosso, Vinificazione | varietale, Vitigni | Nebbiolo, lombardia, Vinificazione | fermo, Valutazioni | 5 stelle, brasato di manzo, Alimento | anatra, Alimento-dettagli | petto, Aromatizzazione | salsa aceto balsamico e mostarda, risotto funghi e nocciole mantecato al casera, fonduta di fontina, crespelle funghi porcini e casera, Prezzi | 25-29€
+tags: Vinificazione | rosso, Vinificazione | varietale, Vitigni | Nebbiolo, lombardia, Vinificazione | fermo, Valutazioni | 5 stelle, brasato di manzo, Alimento | anatra, Alimento-dettagli | petto, Aromatizzazione | salsa aceto balsamico e mostarda, risotto funghi e nocciole mantecato al casera, fonduta di fontina, crespelle funghi porcini e casera, Prezzi | 25-29€
 editor: markdown
 dateCreated: 2021-09-03T21:03:25.179Z
 ---

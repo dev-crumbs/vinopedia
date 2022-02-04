@@ -3,7 +3,7 @@ title: Amarone Terre di Leone Riserva – Amarone della Valpolicella Classico Ri
 description: Corvina 40% + Rondinella 20% + Corvinone 30% + Oseleta 10% | Spezzatino di cinghiale
 published: true
 date: 2022-01-28T17:14:37.370Z
-tags: vino, Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Prezzi | 90-94€, corvina, Valutazioni | 5 stelle, corvinone, oseleta, Spezzatino di cinghiale
+tags: Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Prezzi | 90-94€, corvina, Valutazioni | 5 stelle, corvinone, oseleta, Spezzatino di cinghiale
 editor: markdown
 dateCreated: 2022-01-27T15:21:34.303Z
 ---

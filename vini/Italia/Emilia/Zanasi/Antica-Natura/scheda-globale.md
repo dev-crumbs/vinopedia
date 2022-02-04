@@ -3,7 +3,7 @@ title: Antica Natura – Lambrusco Grasparossa di Castelvetro DOC – Zanasi –
 description: Lambrusco Grasparossa 100% | Risotto con salsiccia
 published: true
 date: 2022-01-20T06:48:48.956Z
-tags: vino, Vinificazione | rosso, Vinificazione | varietale, frizzante, Risotto con salsiccia, Valutazioni | 4 stelle, Prezzi | 10-14€
+tags: Vinificazione | rosso, Vinificazione | varietale, frizzante, Risotto con salsiccia, Valutazioni | 4 stelle, Prezzi | 10-14€
 editor: markdown
 dateCreated: 2021-08-18T10:27:11.126Z
 ---

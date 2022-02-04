@@ -3,7 +3,7 @@ title: Verdicchio dei Castelli di Jesi Spumante Brut – Verdicchio dei Castelli
 description: Verdicchio 100% | Carpaccio di sgombro con pesto di pistacchi – Spaghetti ai frutti di mare
 published: true
 date: 2021-10-01T20:12:57.016Z
-tags: vino, Vinificazione | bianco, Vinificazione | varietale, spumante, metodo classico, brut, marche, Valutazioni | 5 stelle, verdicchio, carpaccio di sgombro con pesto di pistacchi, spaghetti ai frutti di mare, Prezzi | 15-19€
+tags: Vinificazione | bianco, Vinificazione | varietale, spumante, metodo classico, brut, marche, Valutazioni | 5 stelle, verdicchio, carpaccio di sgombro con pesto di pistacchi, spaghetti ai frutti di mare, Prezzi | 15-19€
 editor: markdown
 dateCreated: 2021-09-01T10:16:55.566Z
 ---
