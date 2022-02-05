@@ -1,4 +1,4 @@
-if(location.href === 'https://vinopedia.devcrumbs.com/it/cantina'){
+
   window.addEventListener("load", function(){
     const totaleVini = document.querySelectorAll('[data-label="Pos."]').length;
     document.querySelector("#totalevini").innerText = totaleVini;
@@ -72,7 +72,7 @@ if(location.href === 'https://vinopedia.devcrumbs.com/it/cantina'){
     });
   });
 
-  function myFunction() {
+  export function myFunction() {
     var input, filter, table, tr, td, cell, i, j;
     input = document.getElementById("myInput");
     filter = input.value.toUpperCase();
@@ -94,4 +94,3 @@ if(location.href === 'https://vinopedia.devcrumbs.com/it/cantina'){
       }
     }
   }
-}
