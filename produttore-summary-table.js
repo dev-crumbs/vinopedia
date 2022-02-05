@@ -1,4 +1,4 @@
-window.addEventListener("load", function(){
+export function produttoreSummaryTable(){
   d3.text("produttore-summary.csv").then( function(data) {
     var sortAscending = true;
     var csv = d3.csvParse(data), allheaders = d3.csvParseRows(data)[0],
@@ -32,7 +32,7 @@ window.addEventListener("load", function(){
         return d.value;
       });
   });
-  });
+}
 
 /*
 window.addEventListener("load", function(){
