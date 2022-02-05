@@ -4,7 +4,6 @@ export function produttoreSummaryTable(){
     var csv = d3.csvParse(data), allheaders = d3.csvParseRows(data)[0],
     table = d3.select('#table-container').append('table').attr('class','produttore-summary');
         var titles = Object.keys(data[0]);
-    console.log(titles)
         var headers = table.append('thead').append('tr')
                      .selectAll('th')
                      .data(allheaders).enter()
@@ -12,9 +11,6 @@ export function produttoreSummaryTable(){
                      .text(function (d) {
                         return d;
                       })
-
-    
-    
     var rows = table.append('tbody').selectAll('tr')
                  .data(csv).enter()
                  .append('tr');
@@ -31,6 +27,17 @@ export function produttoreSummaryTable(){
       .text(function (d) {
         return d.value;
       });
+      const mytest = document.querySelectorAll("td[data-th='Vino']");
+      const regione = document.querySelector(".produttoreRegione").innerText
+      const produttore = document.querySelector(".produttoreNome").innerText.replaceAll(' ', '-');
+      for (let i = 0; i < mytest.length; i++){
+        const nome = mytest[i].innerText.replaceAll(' ', '-').replaceAll('é','e')
+        const path = "/vini/Italia/" + regione + "/" + produttore + "/" + nome
+        const node = document.createElement("a");
+        node.href = path
+        node.innerText = "X";
+        mytest[i].appendChild(node)
+      }  
   });
 }
 
