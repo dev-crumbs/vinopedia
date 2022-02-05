@@ -20,6 +20,10 @@
   overflow-y: auto;
   max-height: 300px
 }
+.vinorosso,
+.vinobianco,
+.vinosputamenterose,
+.vinospumantebianco,
 .star,
 .star-0,
 .star-1,
@@ -77,6 +81,27 @@
   font-weight: 900;
   content: "\f005\f005\f005\f005\f005"
 }
+.vinorosso:before {
+  font-weight: 900;
+  content: "\f4e3";
+  color: rebeccapurple
+}
+.vinobianco:before {
+  font-weight: 900;
+  content: "\f4e3";
+  color: bisque
+}
+.vinospumanterosato:before {
+  font-weight: 900;
+  content: "\f4e3";
+  color: pink
+}
+.vinospumantebianco:before {
+  font-weight: 900;
+  content: "\f4e3";
+  color: bisque
+}
+
 button.v-btn--fixed.v-btn--bottom,
 div.v-speed-dial.v-speed-dial--right {
   bottom: 84px
