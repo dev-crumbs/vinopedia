@@ -22,7 +22,7 @@
 }
 .vinorosso,
 .vinobianco,
-.vinosputamenterose,
+.vinospumanterose,
 .vinospumantebianco,
 .star,
 .star-0,
@@ -84,22 +84,26 @@
 .vinorosso:before {
   font-weight: 900;
   content: "\f4e3";
-  color: rebeccapurple
+  color: rebeccapurple;
+  font-size: 40px;
 }
 .vinobianco:before {
   font-weight: 900;
   content: "\f4e3";
-  color: bisque
+  color: bisque;
+  font-size: 40px;
 }
-.vinospumanterosato:before {
+.vinospumanterose:before {
   font-weight: 900;
   content: "\f4e3";
-  color: pink
+  color: pink;
+  font-size: 40px;
 }
 .vinospumantebianco:before {
   font-weight: 900;
   content: "\f4e3";
-  color: bisque
+  color: bisque;
+  font-size: 40px;
 }
 
 button.v-btn--fixed.v-btn--bottom,
