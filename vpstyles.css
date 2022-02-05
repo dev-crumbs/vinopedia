@@ -20,6 +20,7 @@
   overflow-y: auto;
   max-height: 300px
 }
+.summaryExtLink,
 .vinorosso,
 .vinobianco,
 .vinospumanterose,
@@ -272,5 +273,66 @@ max-width: 350px
   }
 
   /*Produttore summary*/
+  table.produttore-summary th:nth-child(1) {text-align: left;}
+  table.produttore-summary th:nth-child(1n+3) {text-align: right;}
+  table.produttore-summary td:nth-child(1n+3) {text-align: right;}
+  table.produttore-summary td:nth-child(2) {text-align: center;}
+  table.produttore-summary th:nth-child(2) {min-width: 106px;}
+  table.produttore-summary td,table.produttore-summary th{ padding: 3px 6px!important}
+  table.produttore-summary{
+      width:95%;
+      margin:auto
+  }
+  #table-container{
+          overflow-x:auto 
+  }
+
+  @media screen and (max-width: 600px) {
+    table.produttore-summary td:nth-child(2) {text-align: right;}
+    table.produttore-summary tr{height:130px;overflow-y:auto}
+    table.produttore-summary td:nth-child(2),table.produttore-summary td:nth-child(1){
+        position:sticky;
+        background-color: white;
+        top:0px
+    }
+    table.produttore-summary td:nth-child(2){
+        top:26px
+    }
+    table.produttore-summary {
+      border: 0; 
+      margin: auto!important;
+    }
+    .produttore-summary caption {
+      font-size: 1.3em; }
+    .produttore-summary thead {
+      border: none;
+      clip: rect(0 0 0 0);
+      height: 1px;
+      margin: -1px;
+      overflow: hidden;
+      padding: 0;
+      position: absolute;
+      width: 1px; }
+    .produttore-summary tr {
+      border-bottom: 3px solid #ddd;
+      display: block;
+      margin-bottom: .625em; }
+    .produttore-summary td {
+      border-bottom: 1px solid #ddd;
+      display: block;
+      font-size: .8em;
+      text-align: right; }
+    .produttore-summary td::before {
+      content: attr(data-th);
+      float: left;
+      font-weight: bold;
+      text-transform: uppercase; }
+    .produttore-summary td:last-child {
+      border-bottom: 0; } 
+    }
+    .summaryExtLink:before{
+      font-weight: 900;
+      content: " \f0c1"
+    }
 
   

@@ -36,6 +36,7 @@ export function produttoreSummaryTable(){
           const path = "/it/vini/Italia/" + regione + "/" + produttore + "/" + nome + "/scheda-globale"
           const node = document.createElement("a");
           node.href = path
+          node.classList.add("summaryExtLink")
           node.innerText = "X";
           mytest[i].appendChild(node)
         }  
