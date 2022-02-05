@@ -32,7 +32,7 @@ export function produttoreSummaryTable(){
       const produttore = document.querySelector(".produttoreNome").innerText.replaceAll(' ', '-');
       for (let i = 0; i < mytest.length; i++){
         const nome = mytest[i].innerText.replaceAll(' ', '-').replaceAll('é','e')
-        const path = "/vini/Italia/" + regione + "/" + produttore + "/" + nome
+        const path = "/it/vini/Italia/" + regione + "/" + produttore + "/" + nome
         const node = document.createElement("a");
         node.href = path
         node.innerText = "X";
