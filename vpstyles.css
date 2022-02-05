@@ -213,7 +213,7 @@ max-width: 350px
   border-collapse: collapse;
   margin: 0;
   padding: 0;
-  width: 100%;
+  width: 90%;
   table-layout: fixed; }
 
 .cantina-table caption {
@@ -238,7 +238,7 @@ max-width: 350px
 @media screen and (max-width: 600px) {
   .cantina-table {
     border: 0; 
-    margin: auto;
+    margin: auto!important;
   }
   .cantina-table caption {
     font-size: 1.3em; }
