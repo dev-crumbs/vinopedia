@@ -37,10 +37,15 @@ export function produttoreSummaryTable(){
           const node = document.createElement("a");
           node.href = path
           node.classList.add("summaryExtLink")
-          node.innerText = "X";
+          node.setAttribute("target","_blank")
           mytest[i].appendChild(node)
         }  
     });
+    for (const td of document.querySelectorAll("td")) {
+      if (td.textContent.includes("sv")) {
+        this.style.color = "lightgray"
+      }
+    }
   })
 }
 

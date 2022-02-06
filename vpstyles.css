@@ -332,7 +332,9 @@ max-width: 350px
     }
     .summaryExtLink:before{
       font-weight: 900;
-      content: " \f0c1"
+      content: " \f0c1";
+      padding-left: 5px;
+      font-size: 90%;
     }
 
   
