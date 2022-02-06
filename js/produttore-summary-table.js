@@ -39,13 +39,14 @@ export function produttoreSummaryTable(){
           node.classList.add("summaryExtLink")
           node.setAttribute("target","_blank")
           mytest[i].appendChild(node)
-        }  
+        }
+      //color sv
+      for (const td of document.querySelectorAll("td")) {
+        if (td.textContent.includes("sv")) {
+          td.style.color = "lightgray"
+        } 
+      }   
     });
-    for (const td of document.querySelectorAll("td")) {
-      if (td.textContent.includes("sv")) {
-        this.style.color = "lightgray"
-      }
-    }
   })
 }
 

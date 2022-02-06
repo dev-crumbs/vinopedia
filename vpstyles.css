@@ -279,6 +279,14 @@ max-width: 350px
   table.produttore-summary td:nth-child(2) {text-align: center;}
   table.produttore-summary th:nth-child(2) {min-width: 106px;}
   table.produttore-summary td,table.produttore-summary th{ padding: 3px 6px!important}
+  table.produttore-summary td:nth-child(2),table.produttore-summary td:nth-child(1){
+    position:sticky;
+    background-color: white;
+    left:0px
+  }
+  table.produttore-summary td:nth-child(2){
+      top:50px
+  }
   table.produttore-summary{
       width:95%;
       margin:auto
@@ -330,9 +338,12 @@ max-width: 350px
     .produttore-summary td:last-child {
       border-bottom: 0; } 
     }
+    a.summaryExtLink{
+      text-decoration: none!important
+    }
     .summaryExtLink:before{
       font-weight: 900;
-      content: " \f0c1";
+      content: "\f0c1";
       padding-left: 5px;
       font-size: 90%;
     }
