@@ -28,25 +28,43 @@ export function produttoreSummaryTable(){
         .text(function (d) {
           return d.value;
         });
-        const mytest = document.querySelectorAll("td[data-th='Vino']");
+        const nomeAll = document.querySelectorAll("td[data-th='Vino']");
         const regione = document.querySelector(".produttoreRegione").innerText
         const produttore = document.querySelector(".produttoreNome").innerText.replaceAll(' ', '-');
-        for (let i = 0; i < mytest.length; i++){
-          const nome = mytest[i].innerText.replaceAll(' ', '-').replaceAll('é','e')
+        for (let i = 0; i < nomeAll.length; i++){
+          const nome = nomeAll[i].innerText.replaceAll(' ', '-').replaceAll('é','e')
           const path = "/it/vini/Italia/" + regione + "/" + produttore + "/" + nome + "/scheda-globale"
           const node = document.createElement("a");
           node.href = path
           node.classList.add("summaryExtLink")
           node.setAttribute("target","_blank")
-          mytest[i].appendChild(node)
+          nomeAll[i].prepend(node)
+          nomeAll[i].setAttribute("title",nomeAll[i].innerText)
         }
-      //color sv
       for (const td of document.querySelectorAll("td")) {
         if (td.textContent.includes("sv")) {
           td.style.color = "lightgray"
+          //console.log(td.innerText.length)
+        } else if (td.innerText.length <= 3){
+          td.classList.add("star-table")
+        }
+      }
+      for (const tdStar of document.querySelectorAll("td.star-table")){
+
+        if (tdStar.innerText >= 1 && tdStar.innerText <= 1.9 ){
+          tdStar.style.color = "#cecece"
+        } else if (tdStar.innerText >= 2 && tdStar.innerText <= 2.9 ) {
+          tdStar.style.color = "#a0a0a0"
+        } else if (tdStar.innerText >= 3 && tdStar.innerText <= 3.9 ) {
+          tdStar.style.color = "#747474"
+        } else if (tdStar.innerText >= 4 && tdStar.innerText <= 4.7 ) {
+          tdStar.style.color = "#4b4b4b"
+        } else if (tdStar.innerText >= 4.7 && tdStar.innerText <= 5 ) {
+          tdStar.style.color = "#252525"
         } 
-      }   
+      }
     });
+    
   })
 }
 
