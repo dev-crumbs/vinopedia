@@ -74,7 +74,7 @@ if (window.location.href.indexOf("/cantina") != -1){
   });
 }
 
-export function myFunction() {
+export function mySort() {
   var input, filter, table, tr, td, cell, i, j;
   input = document.getElementById("myInput");
   filter = input.value.toUpperCase();
