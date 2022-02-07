@@ -315,6 +315,24 @@ max-width: 350px
           overflow-x:auto 
   }
 
+  #myInput{
+  margin: 10px 1px;
+  display: block;
+  border: 1px solid lightgray;
+  border-radius: 10px;
+  padding: 0px 6px;
+  }
+
+  a.summaryExtLink{
+    text-decoration: none!important
+  }
+  .summaryExtLink:before{
+    font-weight: 900;
+    content: "\f0c1";
+    padding-right: 5px;
+    font-size: 85%;
+  }
+
   @media screen and (max-width: 600px) {
     table.produttore-summary td:nth-child(1) {
       max-width: 100%;
@@ -363,15 +381,6 @@ max-width: 350px
       text-transform: uppercase; }
     .produttore-summary td:last-child {
       border-bottom: 0; } 
-    }
-    a.summaryExtLink{
-      text-decoration: none!important
-    }
-    .summaryExtLink:before{
-      font-weight: 900;
-      content: "\f0c1";
-      padding-right: 5px;
-      font-size: 85%;
     }
 
   
