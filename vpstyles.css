@@ -287,10 +287,10 @@ max-width: 350px
 
   /*Produttore summary*/
   table.produttore-summary td:nth-child(1) {
-    max-width: 100%;
+    max-width: 180px;
+    text-overflow: ellipsis;
     overflow: hidden;
-    text-overflow: unset;
-    white-space: unset;
+    white-space: nowrap;      
   }
   table.produttore-summary th:nth-child(1) {text-align: left;}
   table.produttore-summary th:nth-child(1n+3) {text-align: right;}
@@ -317,11 +317,9 @@ max-width: 350px
   @media screen and (max-width: 600px) {
     table.produttore-summary td:nth-child(1) {
       max-width: 100%;
+      overflow: hidden;
       text-overflow: unset;
-          /* max-width: 180px; */
-    overflow: none;
-    white-space: nowrap;
-      
+      white-space: unset;
     }
     table.produttore-summary td:nth-child(2) {text-align: right;}
     table.produttore-summary tr{height:130px;overflow-y:auto}
