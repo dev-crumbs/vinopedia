@@ -29,8 +29,8 @@ dateCreated: 2021-09-02T14:32:47.834Z
 
 
 ## Annate
-- Mason di Mason [2013](/vini/Italia/Alto-Adige/Manincor/Burgum-Novum-Riserva/2013) -- <span class="star-5"></span> -- 92/100 
-- Mason di Mason [2016](/vini/Italia/Alto-Adige/Manincor/Burgum-Novum-Riserva/2016) -- <span class="star-3"></span> -- 87/100  
-- Mason di Mason [2017](/vini/Italia/Alto-Adige/Manincor/Burgum-Novum-Riserva/2017) -- <span class="star-5"></span> -- 93/100 
-- Mason di Mason [2018](/vini/Italia/Alto-Adige/Manincor/Burgum-Novum-Riserva/2018) -- <span class="star-3"></span> -- 87/100
+- Mason di Mason [2013](/vini/Italia/Alto-Adige/Manincor/Mason-di-Mason/2013) -- <span class="star-5"></span> -- 92/100 
+- Mason di Mason [2016](/vini/Italia/Alto-Adige/Manincor/Mason-di-Mason/2016) -- <span class="star-3"></span> -- 87/100  
+- Mason di Mason [2017](/vini/Italia/Alto-Adige/Manincor/Mason-di-Mason/2017) -- <span class="star-5"></span> -- 93/100 
+- Mason di Mason [2018](/vini/Italia/Alto-Adige/Manincor/Mason-di-Mason/2018) -- <span class="star-3"></span> -- 87/100
  

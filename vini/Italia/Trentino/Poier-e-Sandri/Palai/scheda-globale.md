@@ -21,14 +21,6 @@ dateCreated: 2021-08-26T10:19:52.284Z
 - **Fascia di prezzo:** 10-14€
 {.grid-list}
 
-## Descrizione del produttore
-
-> Vino di colore giallo paglierino con riflessi verdognoli, brillante.
-Dal profumo intenso, aromatico e ampio con sentori di limoncella, pesca.
-La sua vena acidula e leggermente aromatica lo rende suadente compagno sia ai piatti di pesce della gran cucina che alle semplici cotture in umido di pesci d’acqua dolce. Trova in ogni modo legittima sublimazione con gli strangolapreti al burro e salvia, piatto tipicamente trentino, e generalmente con tutti i piatti aromatizzati con erbe.
-Non disdegna di essere offerto come aperitivo.
-
-
 ## Possibili abbinamenti
 *Vedere le singole annate per abbinamenti specifici*
 
