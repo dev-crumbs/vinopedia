@@ -1,5 +1,5 @@
 import { produttoreSummaryTable } from './it/js/produttore-summary-table.js';
-import { mySortn } from './it/js/table-filter.js';
+import { mySort } from './it/js/table-filter.js';
 
 if (window.location.href.indexOf("/produttori/") != -1){
   produttoreSummaryTable()
