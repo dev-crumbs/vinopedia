@@ -4,7 +4,6 @@ export function tableSort(){
     document.querySelector("#totalevini").innerText = totaleVini;
   }
   const table = document.querySelector('#sortMe');
-  console.log(table)
   const headers = table.querySelectorAll('th');
   const tableBody = table.querySelector('tbody');
   const rows = tableBody.querySelectorAll('tr'); 
