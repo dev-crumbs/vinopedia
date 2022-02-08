@@ -1,80 +1,84 @@
 
-if (window.location.href.indexOf("/cantina") != -1){
-  window.addEventListener("load", function(){
-    const totaleVini = document.querySelectorAll('[data-label="Pos."]').length;
-    document.querySelector("#totalevini").innerText = totaleVini;
-    const table = document.getElementById('sortMe');
-    const headers = table.querySelectorAll('th');
-    const tableBody = table.querySelector('tbody');
-    const rows = tableBody.querySelectorAll('tr'); 
-
-    // Track sort directions
-    const directions = Array.from(headers).map(function (header) {
-      return '';
-    });
-
-    // Transform the content of given cell in given column
-    const transform = function (index, content) {
-      // Get the data type of column
-      const type = headers[index].getAttribute('data-type');
-      switch (type) {
-        case 'number':
-          return parseFloat(content);
-        case 'string':
-        default:
-          return content;
+export function tableSort(){
+  if (window.location.href.indexOf("/produttori/") != -1){
+    window.addEventListener("load", function(){
+      if (window.location.href.indexOf("/cantina") != -1){
+        const totaleVini = document.querySelectorAll('[data-label="Pos."]').length;
+        document.querySelector("#totalevini").innerText = totaleVini;
       }
-    };
+      const table = document.querySelector('sortMe');
+      const headers = table.querySelectorAll('th');
+      const tableBody = table.querySelector('tbody');
+      const rows = tableBody.querySelectorAll('tr'); 
 
-    const sortColumn = function (index) {
-      // Get the current direction
-      const direction = directions[index] || 'asc';
+      // Track sort directions
+      const directions = Array.from(headers).map(function (header) {
+        return '';
+      });
 
-      // A factor based on the direction
-      const multiplier = direction === 'asc' ? 1 : -1;
-
-      const newRows = Array.from(rows);
-
-      newRows.sort(function (rowA, rowB) {
-        const cellA = rowA.querySelectorAll('td')[index].innerHTML;
-        const cellB = rowB.querySelectorAll('td')[index].innerHTML;
-
-        const a = transform(index, cellA);
-        const b = transform(index, cellB);
-
-        switch (true) {
-          case a > b:
-            return 1 * multiplier;
-          case a < b:
-            return -1 * multiplier;
-          case a === b:
-            return 0;
+      // Transform the content of given cell in given column
+      const transform = function (index, content) {
+        // Get the data type of column
+        const type = headers[index].getAttribute('data-type');
+        switch (type) {
+          case 'number':
+            return parseFloat(content);
+          case 'string':
+          default:
+            return content;
         }
-      });
+      };
 
-      // Remove old rows
-      [].forEach.call(rows, function (row) {
-        tableBody.removeChild(row);
-      });
+      const sortColumn = function (index) {
+        // Get the current direction
+        const direction = directions[index] || 'asc';
 
-      // Reverse the direction
-      directions[index] = direction === 'asc' ? 'desc' : 'asc';
+        // A factor based on the direction
+        const multiplier = direction === 'asc' ? 1 : -1;
 
-      // Append new row
-      newRows.forEach(function (newRow) {
-        tableBody.appendChild(newRow);
-      });
-    };
+        const newRows = Array.from(rows);
 
-    [].forEach.call(headers, function (header, index) {
-      header.addEventListener('click', function () {
-        sortColumn(index);
+        newRows.sort(function (rowA, rowB) {
+          const cellA = rowA.querySelectorAll('td')[index].innerHTML;
+          const cellB = rowB.querySelectorAll('td')[index].innerHTML;
+
+          const a = transform(index, cellA);
+          const b = transform(index, cellB);
+
+          switch (true) {
+            case a > b:
+              return 1 * multiplier;
+            case a < b:
+              return -1 * multiplier;
+            case a === b:
+              return 0;
+          }
+        });
+
+        // Remove old rows
+        [].forEach.call(rows, function (row) {
+          tableBody.removeChild(row);
+        });
+
+        // Reverse the direction
+        directions[index] = direction === 'asc' ? 'desc' : 'asc';
+
+        // Append new row
+        newRows.forEach(function (newRow) {
+          tableBody.appendChild(newRow);
+        });
+      };
+
+      [].forEach.call(headers, function (header, index) {
+        header.addEventListener('click', function () {
+          sortColumn(index);
+        });
       });
     });
-  });
+  }
 }
 
-export function mySort() {
+export function tableFilter() {
   var input, filter, table, tr, td, cell, i, j;
   input = document.getElementById("myInput");
   filter = input.value.toUpperCase();

@@ -13,6 +13,8 @@ export function produttoreSummaryTable(){
                       .text(function (d) {
                           return d;
                         })
+                      .attr("data-type", "number" )
+                      .attr("scope", "col")
       var rows = table.append('tbody').selectAll('tr')
                   .data(csv).enter()
                   .append('tr');
