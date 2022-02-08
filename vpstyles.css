@@ -375,7 +375,7 @@ max-width: 350px
       justify-content: end;
     }
     table.produttore-summary th:nth-child(1n+3) {display:none}
-    table.produttore-summary th:nth-child(1n-2) {border-bottom: 0px solid transparent!important}
+    table.produttore-summary th:nth-child(1n-2) {border-bottom: 0px solid transparent!important; font-size: 90%;}
     /*END to get sorting buttons on mobile*/
     .produttore-summary tr {
       border-bottom: 3px solid #ddd;
