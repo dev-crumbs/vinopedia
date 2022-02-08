@@ -58,7 +58,7 @@ export function tableSort(){
     });
 
     // Reverse the direction
-    directions[index] = direction === 'asc' ? 'desc' : 'asc';
+    directions[index] = direction === 'desc' ? 'asc' : 'desc';
 
     // Append new row
     newRows.forEach(function (newRow) {
