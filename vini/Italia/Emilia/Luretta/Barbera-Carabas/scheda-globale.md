@@ -24,9 +24,8 @@ dateCreated: 2021-09-02T14:33:13.149Z
 ## Possibili abbinamenti
 *Vedere le singole annate per abbinamenti specifici*
 
-- Lepre al cacao
-- Brasato di manzo con polenta
-- Fagiano arrosto
+- Stracotto d'asino
+
 
 ## Annate
 - Barbera Carabas [2013](/vini/Italia/Emilia/Luretta/Barbera-Carabas/2013) -- <span class="star-2"></span> -- 83/100

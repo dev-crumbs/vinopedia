@@ -1,5 +1,5 @@
 ---
-title: Boccadirosa – Colli Piacentini DOC – Luretta – Emilia (IT) – 15-19€ – 2★-5★
+title: Malvasia Boccadirosa – Colli Piacentini DOC – Luretta – Emilia (IT) – 15-19€ – 2★-5★
 description: Malvasia aromatica di Candia 100% | Tagliatelle ai funghi porcini – Risotto zucca e gorgonzola – Coniglio alle erbe aromatiche – Tortino di gamberi
 published: true
 date: 2021-10-01T20:11:51.188Z
@@ -8,10 +8,10 @@ editor: markdown
 dateCreated: 2021-09-02T14:33:13.149Z
 ---
 
-# Boccadirosa
+# Malvasia Boccadirosa
 
 ## Caratteristiche
-- **Nome:** Boccadirosa
+- **Nome:** Malvasia Boccadirosa
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Colli Piacentini DOC](/denominazioni/Italia/Emilia/DOC/Colli-Piacentini)
 - **Produttore:** [Luretta](/produttori/Italia/Emilia/Luretta) 
@@ -32,10 +32,10 @@ dateCreated: 2021-09-02T14:33:13.149Z
 - tortino di gamberi
 
 ## Annate
-- Boccadirosa [2015](/vini/Italia/Emilia/Luretta/Boccadirosa/2015) -- <span class="star-3"></span> -- 87/100
-- Boccadirosa [2016](/vini/Italia/Emilia/Luretta/Boccadirosa/2016) -- <span class="star-5"></span> -- 94/100
-- Boccadirosa [2017](/vini/Italia/Emilia/Luretta/Boccadirosa/2017) -- <span class="star-5"></span> -- 95/100
-- Boccadirosa [2018](/vini/Italia/Emilia/Luretta/Boccadirosa/2018) -- <span class="star-2"></span> -- 84/100
-- Boccadirosa [2019](/vini/Italia/Emilia/Luretta/Boccadirosa/2019) -- <span class="star-3"></span> -- 87/100
-- Boccadirosa [2020](/vini/Italia/Emilia/Luretta/Boccadirosa/2020) -- <span class="star-5"></span> -- 95/100
+- Malvasia Boccadirosa [2015](/vini/Italia/Emilia/Luretta/Malvasia-Boccadirosa/2015) -- <span class="star-3"></span> -- 87/100
+- Malvasia Boccadirosa [2016](/vini/Italia/Emilia/Luretta/Malvasia-Boccadirosa/2016) -- <span class="star-5"></span> -- 94/100
+- Malvasia Boccadirosa [2017](/vini/Italia/Emilia/Luretta/Malvasia-Boccadirosa/2017) -- <span class="star-5"></span> -- 95/100
+- Malvasia Boccadirosa [2018](/vini/Italia/Emilia/Luretta/Malvasia-Boccadirosa/2018) -- <span class="star-2"></span> -- 84/100
+- Malvasia Boccadirosa [2019](/vini/Italia/Emilia/Luretta/Malvasia-Boccadirosa/2019) -- <span class="star-3"></span> -- 87/100
+- Malvasia Boccadirosa [2020](/vini/Italia/Emilia/Luretta/Malvasia-Boccadirosa/2020) -- <span class="star-5"></span> -- 95/100
 
