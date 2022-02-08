@@ -13,8 +13,6 @@ export function produttoreSummaryTable(){
                       .text(function (d) {
                           return d;
                         })
-                      .attr("scope", "col")  
-                      .attr("class","table__header")
       var rows = table.append('tbody').selectAll('tr')
                   .data(csv).enter()
                   .append('tr');
@@ -65,6 +63,12 @@ export function produttoreSummaryTable(){
           tdStar.style.color = "#252525"
         } 
       }
+        const firstTh = document.querySelector('#sortMe th:nth-child(1)');
+            firstTh.setAttribute("scope","col");
+            firstTh.classList.add("table__header");
+        const secondTh = document.querySelector('#sortMe th:nth-child(2)');
+            secondTh.setAttribute("scope","col");
+            secondTh.classList.add("table__header");
     });
     
   })
