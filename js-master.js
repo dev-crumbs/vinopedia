@@ -6,6 +6,6 @@ if (window.location.href.indexOf("/produttori/") != -1){
   produttoreSummaryTable()
   window.addEventListener("load", function(){
     document.querySelector('#myInput').addEventListener('keyup', tableFilter)
-    tableSort();
+    setTimeout(tableSort, 1000) 
   })
 }
