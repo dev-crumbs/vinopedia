@@ -28,10 +28,10 @@ export function tableSort(){
 
   const sortColumn = function (index) {
     // Get the current direction
-    const direction = directions[index] || 'asc';
+    const direction = directions[index] || 'desc';
 
     // A factor based on the direction
-    const multiplier = direction === 'asc' ? 1 : -1;
+    const multiplier = direction === 'desc' ? 1 : -1;
 
     const newRows = Array.from(rows);
 
@@ -58,7 +58,7 @@ export function tableSort(){
     });
 
     // Reverse the direction
-    directions[index] = direction === 'desc' ? 'asc' : 'desc';
+    directions[index] = direction === 'asc' ? 'desc' : 'asc';
 
     // Append new row
     newRows.forEach(function (newRow) {
