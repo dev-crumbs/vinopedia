@@ -272,13 +272,16 @@ max-width: 350px
   table.produttore-summary td:nth-child(2) {text-align: center;}
   table.produttore-summary th:nth-child(2) {min-width: 110px; cursor:pointer}
   table.produttore-summary td,table.produttore-summary th{ padding: 3px 6px!important}
-  table.produttore-summary td:nth-child(2),table.produttore-summary td:nth-child(1),table.produttore-summary th:nth-child(2),table.produttore-summary th:nth-child(1){
-    position:sticky;
-    background-color: white;
-    left:0px
-  }
-  table.produttore-summary td:nth-child(2),table.produttore-summary th:nth-child(2){
-      left:180px
+  
+  @media screen and (min-width: 600px) {
+    table.produttore-summary td:nth-child(2),table.produttore-summary td:nth-child(1),table.produttore-summary th:nth-child(2),table.produttore-summary th:nth-child(1){
+      position:sticky;
+      background-color: white;
+      left:0px
+    }
+    table.produttore-summary td:nth-child(2),table.produttore-summary th:nth-child(2){
+        left:180px
+    }
   }
   table.produttore-summary{
       width:95%;
