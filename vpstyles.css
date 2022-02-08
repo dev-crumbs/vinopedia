@@ -345,7 +345,7 @@ max-width: 350px
       white-space: unset;
     }
     table.produttore-summary td:nth-child(2) {text-align: right;}
-    table.produttore-summary tr{overflow-y:auto}
+    table.produttore-summary tbody tr{height:130px; overflow-y:auto}
     table.produttore-summary td:nth-child(2),table.produttore-summary td:nth-child(1){
         position:sticky;
         background-color: #f2f2f2;
