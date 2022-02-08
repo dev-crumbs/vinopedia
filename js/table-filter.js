@@ -28,7 +28,7 @@ export function tableSort(){
 
   const sortColumn = function (index) {
     // Get the current direction
-    const direction = directions[index] || 'desc';
+    const direction = directions[index] || 'asc';
 
     // A factor based on the direction
     const multiplier = direction === 'desc' ? 1 : -1;
