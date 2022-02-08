@@ -372,7 +372,7 @@ max-width: 350px
       width: 1px; }
     .produttore-summary thead tr {
       display: flex;
-      flex-direction: row-reverse;
+      justify-content: end;
     }
     table.produttore-summary th:nth-child(1n+3) {display:none}
     table.produttore-summary th:nth-child(1n-2) {border-bottom: 0px solid transparent!important}
