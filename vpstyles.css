@@ -345,7 +345,7 @@ max-width: 350px
       white-space: unset;
     }
     table.produttore-summary td:nth-child(2) {text-align: right;}
-    table.produttore-summary tr{height:130px;overflow-y:auto}
+    table.produttore-summary tr{overflow-y:auto}
     table.produttore-summary td:nth-child(2),table.produttore-summary td:nth-child(1){
         position:sticky;
         background-color: #f2f2f2;
@@ -375,6 +375,7 @@ max-width: 350px
       flex-direction: row-reverse;
     }
     table.produttore-summary th:nth-child(1n+3) {display:none}
+    table.produttore-summary th:nth-child(1n-2) {border-bottom: 0px solid transparent!important}
     /*END to get sorting buttons on mobile*/
     .produttore-summary tr {
       border-bottom: 3px solid #ddd;
