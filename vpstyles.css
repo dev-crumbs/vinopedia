@@ -156,7 +156,8 @@ a.v-list-item > div.v-list-item__title {
 }
 /*grafici olfattivi related css*/
 .contents {
-  padding-top: 0
+  padding-top: 0;
+  padding-bottom: 80px 
 }
 .confronto-grid .annata{
   max-width: 300px
