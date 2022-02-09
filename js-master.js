@@ -6,12 +6,15 @@ import { mobileNavBottom } from './it/js/mobile-nav-bottom.js';
 
 
 window.addEventListener("load", function(){
+  // custom label for search field
   searchLabel();
+  //mobile navigation bottom
   if (window.innerWidth < 959) {
     let headers = document.querySelectorAll("div.contents > div > h2.toc-header");
     console.log(headers);
-    //mobileNavBottom();
+    mobileNavBottom();
   }
+  // produttore table and sort/filter tools
   if (window.location.href.indexOf("/produttori/") != -1){  
     produttoreSummaryTable()
     document.querySelector('#myInput').addEventListener('keyup', tableFilter)
