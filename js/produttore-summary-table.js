@@ -1,7 +1,7 @@
 export function produttoreSummaryTable(){
   window.addEventListener("load", function(){
     var produttore = document.querySelector(".produttoreNome").innerText.replaceAll(' ', '-');
-    d3.text(`${produttore}/produttore-summary.csv`).then( function(data) {
+    d3.text(`${produttore}/${produttore}.csv`).then( function(data) {
       var sortAscending = true;
       var csv = d3.csvParse(data), allheaders = d3.csvParseRows(data)[0],
       table = d3.select('#table-container').append('table').attr('class','produttore-summary').attr('id','sortMe');
