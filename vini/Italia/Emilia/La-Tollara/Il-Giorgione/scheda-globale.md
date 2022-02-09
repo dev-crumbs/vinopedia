@@ -13,7 +13,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 ## Caratteristiche
 - **Nome:** Il Giorgione 
 - **Tipologia:** Rosso fermo
-- **Denominazione:** [Gutturnio DOC](/denominazioni/Italia/Emilia/DOC/Gutturnio) (Superiore)
+- **Denominazione:** [Vino generico](/denominazioni/Italia/Vino-generico)
 - **Produttore:** [La Tollara](/produttori/Italia/Emilia/La-Tollara) 
 - **Composizione:** 100% [Croatina](/vitigni/Italia/bacca-nera/croatina)
 - **Vinificazione:** 60 giorni di appassimento in fruttaio

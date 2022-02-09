@@ -14,7 +14,7 @@ dateCreated: 2022-01-27T15:21:34.303Z
 - **Nome:** <span class="nome">Amarone Monte Sant Urbano</span>
 - **Tipologia:** Rosso fermo
 - **Denominazione:** <span class="denominazione">[Amarone della Valpolicella DOCG](/denominazioni/Italia/Veneto/DOCG/Amarone-della-Valpolicella) (Riserva)</span>
-- **Produttore: <span class="cantina">[Tedeschi](/produttori/Italia/Veneto/Tedeschi)</span> 
+- **Produttore:** <span class="cantina">[Tedeschi](/produttori/Italia/Veneto/Tedeschi)</span> 
 - **Composizione:** 35% [Corvina](/vitigni/Italia/bacca-nera/corvina) + 30% [Rondinella](/vitigni/Italia/bacca-nera/rondinella) + 30% [Corvinone](/vitigni/Italia/bacca-nera/corvinone) + 5% [Oseleta](/vitigni/Italia/bacca-nera/oseleta)
 - **Affinamento:** 100 giorni di appassimento + 48 mesi in botte grande
 - **Alcol:** 17%
