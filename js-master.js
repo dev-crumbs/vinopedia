@@ -4,14 +4,17 @@ import { tableSort } from './it/js/table-filter.js';
 import { searchLabel } from './it/js/mobile-nav-bottom.js';
 import { mobileNavBottom } from './it/js/mobile-nav-bottom.js';
 
+
 window.addEventListener("load", function(){
   searchLabel();
   if (window.innerWidth < 959) {
-    mobileNavBottom();
+    let headers = document.querySelectorAll("div.contents > div > h2.toc-header");
+    console.log(headers);
+    //mobileNavBottom();
   }
-  if (window.location.href.indexOf("/produttori/") != -1){
+  if (window.location.href.indexOf("/produttori/") != -1){  
     produttoreSummaryTable()
-      document.querySelector('#myInput').addEventListener('keyup', tableFilter)
-      setTimeout(tableSort, 1000) 
+    document.querySelector('#myInput').addEventListener('keyup', tableFilter)
+    setTimeout(tableSort, 1000) 
   }
 })

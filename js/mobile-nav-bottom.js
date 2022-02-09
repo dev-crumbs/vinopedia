@@ -9,7 +9,6 @@ export function searchLabel(){
 export function mobileNavBottom(){
   let mobileSummaryContainer = document.querySelector("div.dc-summary"); 
   let headers = document.querySelectorAll("div.contents > div > h2.toc-header");
-  console.log(headers);
   headers.forEach(el => {
     clone = el.cloneNode(true);
     anchor = clone.querySelector("a")
