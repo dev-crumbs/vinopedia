@@ -3,7 +3,7 @@ title: Torre del Piano – Cesanese del Piglio Superiore Riserva DOCG – Casale
 description: Cesanese d'Affile 100% | Entrocote ai funghi porcini – Fiorentina alla brace – Spalla arrosto con coratella – Garofolato di veroli
 published: true
 date: 2021-10-01T20:12:09.858Z
-tags: Vinificazione | rosso, Vinificazione | varietale, lazio, Vinificazione | fermo, Valutazioni | 5 stelle, cesanese d'affile, entrocote ai funghi porcini, Vitigni | Vitigni | Abbuoto fiorentina alla brace, spalla arrosto con coratella, garofolato di veroli, Prezzi | 20-24€
+tags: Vinificazione | rosso, Vinificazione | varietale, lazio, Vinificazione | fermo, Valutazioni | 5 stelle, cesanese d'affile, entrocote ai funghi porcini, Vitigni | Abbuoto, fiorentina alla brace, spalla arrosto con coratella, garofolato di veroli, Prezzi | 20-24€
 editor: markdown
 dateCreated: 2021-09-03T21:03:07.540Z
 ---

@@ -3,7 +3,7 @@ title: Angraris – Mandrolisai Superiore DOC – Fradiles – Sardegna (IT) –
 description: Bovale 50% + Cannonau 30% + Monica 20% | Cinchiale alla cacciatora – Filetto di chianina ai porcini
 published: true
 date: 2021-10-01T20:14:25.334Z
-tags: Prezzi | 45-49€,Vinificazione | rosso, Vinificazione | blend, sardegna, Vinificazione | fermo, Valutazioni | 5 stelle, Cannonau, bovale, monica, Cinchiale alla cacciatora, Filetto di chianina ai porcini
+tags: Prezzi | 45-49€, Vinificazione | rosso, Vinificazione | blend, sardegna, Vinificazione | fermo, Valutazioni | 5 stelle, Cannonau, bovale, monica, Cinchiale alla cacciatora, Filetto di chianina ai porcini
 editor: markdown
 dateCreated: 2021-09-02T14:34:35.864Z
 ---
