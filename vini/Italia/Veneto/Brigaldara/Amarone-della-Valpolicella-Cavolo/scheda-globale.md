@@ -3,7 +3,7 @@ title: Amarone della Valpolicella Cavolo – Amarone della Valpolicella DOCG –
 description: Corvina 50% + Corvinone 40% + Rondinella 10% | Brasato di lepre – Brasato – Stracotto di asino
 published: true
 date: 2022-01-28T17:14:37.370Z
-tags: Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Prezzi | 35-39€, corvina, rondinella, Brasato, corvinone, Brasato di lepre, Stracotto di asino
+tags: Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Prezzi | 35-39€, Vitigni | Corvina, rondinella, Brasato, Vitigni | Corvinone, Brasato di lepre, Stracotto di asino
 editor: markdown
 dateCreated: 2022-01-27T15:21:34.303Z
 ---

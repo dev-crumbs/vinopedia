@@ -3,7 +3,7 @@ title: Monte Sant'Urbano – Amarone della Valpolicella Classico DOCG – Speri 
 description: Corvina 65% + Rondinella 25% + Corvinone 5% + Molinara 5% | Fagiano allo spiedo – Capretto al forno – Petto d'anatra con salsa al cioccolato – Anatra in umido – Braciola di cervo in salsa di ribes
 published: true
 date: 2022-01-30T10:15:38.884Z
-tags: Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Prezzi | 65-69€, corvina, rondinella, capretto al forno, corvinone, molinara, fagiano allo spiedo, Alimento | anatra, Alimento-dettagli | petto, Aromatizzazione | con salsa al cioccolato, Cottura | in umido, Braciola di cervo in salsa di ribes
+tags: Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Prezzi | 65-69€, Vitigni | Corvina, rondinella, capretto al forno, Vitigni | Corvinone, Vitigni | Molinara, fagiano allo spiedo, Alimento | anatra, Alimento-dettagli | petto, Aromatizzazione | con salsa al cioccolato, Cottura | in umido, Braciola di cervo in salsa di ribes
 editor: markdown
 dateCreated: 2022-01-27T15:21:34.303Z
 ---
