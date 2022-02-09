@@ -1,9 +1,9 @@
 ---
 title: Gutturnio Frizzante Spago – Gutturnio DOC – Il Poggiarello – Emilia (IT) – 5-9€ – 3★
-description: Barbera 60% + Croatina 40% | Trippa alla piacentina – Arrosto al latte – Petto d'anatra
+description: Barbera 60% + Croatina 40% | Trippa alla piacentina
 published: true
 date: 2021-10-01T20:11:51.188Z
-tags: Vinificazione | rosso, Regione | Emilia, Vinificazione | blend, Vinificazione | fermo, Valutazioni | 3 stelle, Vitigni | Barbera, Vitigni | Croatina, Prezzi | 5-9€, Alimenti | Trippa, Aromatizzazione | alla piacentina
+tags: Vinificazione | rosso, Regione | Emilia, Vinificazione | blend, Vinificazione | frizzante, Valutazioni | 3 stelle, Vitigni | Barbera, Vitigni | Croatina, Prezzi | 5-9€, Alimenti | Trippa, Aromatizzazione | alla piacentina
 editor: markdown
 dateCreated: 2021-09-02T14:33:13.149Z
 ---
@@ -12,7 +12,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 
 ## Caratteristiche
 - **Nome:** Gutturnio Frizzante Spago 
-- **Tipologia:** Rosso fermo
+- **Tipologia:** Rosso frizzante
 - **Denominazione:** [Gutturnio DOC](/denominazioni/Italia/Emilia/DOC/Gutturnio)
 - **Produttore:** [Il Poggiarello](/produttori/Italia/Emilia/Il-Poggiarello) 
 - **Composizione:** 60% [Barbera](/vitigni/Italia/bacca-nera/barbera) + 40% [Croatina](/vitigni/Italia/bacca-nera/croatina)
