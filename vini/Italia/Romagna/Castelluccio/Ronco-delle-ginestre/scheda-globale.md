@@ -3,7 +3,7 @@ title: Ronco delle Ginestre – Forlì IGT – Castelluccio – Romagna (IT) –
 description: Sangiovese 100% | Piccione con crema di melanzane – Petto di piccione – Medaglioni di maiale al miele e zenzero
 published: true
 date: 2021-10-01T20:14:09.423Z
-tags: Vinificazione | rosso, romagna, Vinificazione | varietale, Vitigni | Sangiovese, Vinificazione | fermo, Valutazioni | 5 stelle, piccione con crema di melanzane, petto di piccione, medaglioni di maiale al miele e zenzero, Prezzi | 20-24€
+tags: Vinificazione | rosso, Regioni | Romagna (IT), Vinificazione | varietale, Vitigni | Sangiovese, Vinificazione | fermo, Valutazioni | 5 stelle, piccione con crema di melanzane, petto di piccione, medaglioni di maiale al miele e zenzero, Prezzi | 20-24€
 editor: markdown
 dateCreated: 2021-09-02T14:34:25.826Z
 ---
