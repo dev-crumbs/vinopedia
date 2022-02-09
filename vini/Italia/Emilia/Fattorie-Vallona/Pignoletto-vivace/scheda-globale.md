@@ -1,5 +1,5 @@
 ---
-title: Pignoletto Vivace – Colli Bolognesi DOC – Fattorie Vallona – Emilia (IT) – 5-9€ – 2★
+title: Pignoletto Vivace – Pignoletto DOC – Fattorie Vallona – Emilia (IT) – 5-9€ – 2★
 description: Grechetto gentile 100% 
 published: true
 date: 2021-10-01T20:11:45.882Z
@@ -13,7 +13,7 @@ dateCreated: 2021-08-31T15:46:06.033Z
 ## Caratteristiche
 - **Nome:** Pignoletto Vivace
 - **Tipologia:** Bianco frizzante
-- **Denominazione:** [Colli Bolognesi DOC](/denominazioni/Italia/Emilia/DOC/Colli-Bolognesi)
+- **Denominazione:** [Pignoletto DOC](/denominazioni/Italia/Emilia/DOC/Pignoletto)
 - **Produttore:** [Fattorie Vallona](/produttori/Italia/Emilia/Fattorie-Vallona) 
 - **Composizione:** 100% [Grechetto gentile](/vitigni/Italia/bacca-bianca/grechetto-gentile)
 - **Affinamento:** 6 mesi in acciaio
