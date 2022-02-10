@@ -7,7 +7,7 @@ export function denominazioneSummaryTable(){
     d3.text(`${denominazione}/${denominazioneTipoNome}.csv`).then( function(data) {
       var sortAscending = true;
       var csv = d3.csvParse(data), allheaders = d3.csvParseRows(data)[0],
-      table = d3.select(`#${denominazioneTipoNomeL} + div.table-container`).append('table').attr('class','produttore-summary').attr('id','sortMe');
+      table = d3.select(`#${denominazioneTipoNomeL} + div.table-container`).append('table').attr('class','produttore-summary').attr('id',`sortMe${denominazioneTipoNome}`);
           var titles = Object.keys(data[0]);
           var headers = table.append('thead').append('tr')
                       .selectAll('th')
@@ -37,7 +37,6 @@ export function denominazioneSummaryTable(){
         for (let i = 0; i < nomeAll.length; i++){
           const nome = nomeAll[i].innerText.replaceAll(' ', '-').replaceAll('é','e')
           const produttore = nomeAll[i].previousElementSibling.innerText.replaceAll(' ', '-');
-          console.log(produttore)
           const path = "/it/vini/Italia/" + regione + "/" + produttore + "/" + nome + "/scheda-globale"
           const node = document.createElement("a");
           node.href = path
@@ -49,7 +48,6 @@ export function denominazioneSummaryTable(){
     for (const td of document.querySelectorAll("td")) {
       if (td.textContent.includes("sv")) {
         td.style.color = "lightgray"
-        //console.log(td.innerText.length)
       } else if (td.innerText.length <= 3){
         td.classList.add("star-table")
       }
@@ -68,13 +66,13 @@ export function denominazioneSummaryTable(){
         tdStar.style.color = "#252525"
       } 
     }
-      const firstTh = document.querySelector('#sortMe th:nth-child(1)');
+      const firstTh = document.querySelector('.produttore-summary th:nth-child(1)');
           firstTh.setAttribute("scope","col");
           firstTh.classList.add("table__header");
-      const secondTh = document.querySelector('#sortMe th:nth-child(2)');
+      const secondTh = document.querySelector('.produttore-summary th:nth-child(2)');
           secondTh.setAttribute("scope","col");
           secondTh.classList.add("table__header");
-      const thirdTh = document.querySelector('#sortMe th:nth-child(3)');
+      const thirdTh = document.querySelector('.produttore-summary th:nth-child(3)');
           thirdTh.setAttribute("scope","col");
           thirdTh.classList.add("table__header");
     });
