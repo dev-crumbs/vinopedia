@@ -1,9 +1,9 @@
 ---
 title: Amarone La Fabriseria – Amarone della Valpolicella Riserva DOCG – Tedeschi – Veneto (IT) – 200-249€ – 5★
-description: Corvina 35% + Rondinella 30% + Corvinone 30% + Oseleta 5% | Agnello con porcini alla brace – Goulash
+description: Corvina 35% + Rondinella 30% + Corvinone 30% + Oseleta 5% | Agnello con porcini alla brace – Gulash
 published: true
 date: 2022-01-28T17:14:37.370Z
-tags: Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Prezzi | 200-249€, Vitigni | Corvina, rondinella, Vitigni | Corvinone, Vitigni | Molinara, Vitigni | Oseleta, Alimento | agnello, Cottura | alla brace, Aromatizzazione | ai porcini, Goulash
+tags: Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Prezzi | 200-249€, Vitigni | Corvina, rondinella, Vitigni | Corvinone, Vitigni | Molinara, Vitigni | Oseleta, Alimento | agnello, Cottura | alla brace, Aromatizzazione | ai porcini, Gulash
 editor: markdown
 dateCreated: 2022-01-27T15:21:34.303Z
 ---
@@ -25,7 +25,7 @@ dateCreated: 2022-01-27T15:21:34.303Z
 *Vedere le singole annate per abbinamenti specifici*
 
 - Agnello con porcini alla brace
-- Goulash
+- Gulash
 
 ## Annate
 - Amarone La Fabriseria [2011](vini/Italia/Veneto/Tedeschi/Amarone-La-Fabriseria/2011) -- <span class="star-5"></span> -- 93/100

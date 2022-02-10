@@ -3,7 +3,7 @@ title: Merlot Brenntal Riserva – Alto Adige DOC – Cantina Kurtatsch – Alto
 description: Merlot 100% | Guanciale brasato – Gulash – Petto di fagiano con lardo – Cosciotto di capriolo con fichi – Roast-beef alle erbe
 published: true
 date: 2021-10-01T20:10:48.932Z
-tags: Vinificazione | rosso, Vinificazione | varietale, Guanciale brasato, Gulash, Cosciotto di capriolo con fichi, Petto di fagiano con lardo, Roast-beef alle erbe, Merlot, Regione | Alto-Adige (IT), Valutazioni | 5 stelle, Prezzi | 30-34€
+tags: Vinificazione | rosso, Vinificazione | varietale, Guanciale brasato, Alimento | Gulash, Cosciotto di capriolo con fichi, Petto di fagiano con lardo, Roast-beef alle erbe, Merlot, Regione | Alto-Adige (IT), Valutazioni | 5 stelle, Prezzi | 30-34€
 editor: markdown
 dateCreated: 2021-08-27T17:49:36.458Z
 ---

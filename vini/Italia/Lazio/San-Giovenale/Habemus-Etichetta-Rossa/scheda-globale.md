@@ -1,9 +1,9 @@
 ---
 title: Habemus Etichetta Rossa – Lazio IGT – San Giovenale – Lazio (IT) – 80-84€ – 4★-5★
-description: Cabernet Franc 100% | Cinghiale al ginepro – Costolette di agnello a scottadito – Goulash – Guancia di manzo brasata – Capretto alla brace – Abbuticchi
+description: Cabernet Franc 100% | Cinghiale al ginepro – Costolette di agnello a scottadito – Gulash – Guancia di manzo brasata – Capretto alla brace – Abbuticchi
 published: true
 date: 2021-10-01T20:12:25.771Z
-tags: Vinificazione | rosso, Vinificazione | varietale, lazio, Vinificazione | fermo, Valutazioni | 5 stelle, cabernet franc, cinghiale al ginepro, Alimento | agnello, Alimento-dettagli | costine, Aromatizzazione | a scottadito, goulash, guancia di manzo brasata, capretto alla brace, Prezzi | 80-84€, Alimento | Abbuticchi
+tags: Vinificazione | rosso, Vinificazione | varietale, lazio, Vinificazione | fermo, Valutazioni | 5 stelle, cabernet franc, cinghiale al ginepro, Alimento | agnello, Alimento-dettagli | costine, Aromatizzazione | a scottadito, Alimento | Gulash,guancia di manzo brasata, capretto alla brace, Prezzi | 80-84€, Alimento | Abbuticchi
 editor: markdown
 dateCreated: 2021-08-31T15:46:16.788Z
 ---
@@ -28,7 +28,7 @@ dateCreated: 2021-08-31T15:46:16.788Z
 
 - cinghiale al ginepro
 - costolette di agnello a scottadito
-- goulash
+- Gulash
 - guancia di manzo brasata
 - capretto alla brace
 - Abbuticchi
