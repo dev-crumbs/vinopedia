@@ -1,4 +1,5 @@
 export function produttoreSummaryTable(){
+  if (window.location.href.indexOf("/cantina") != -1){return;}   
   var produttore = document.querySelector(".produttoreNome").innerText.replaceAll(' ', '-');
   d3.text(`${produttore}/${produttore}.csv`).then( function(data) {
     var sortAscending = true;
