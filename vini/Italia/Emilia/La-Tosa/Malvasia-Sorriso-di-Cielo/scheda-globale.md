@@ -32,10 +32,10 @@ dateCreated: 2021-09-02T14:33:13.149Z
 
 
 ## Annate
-- Malvasia Sorriso di Cielo [2015](/vini/Italia/Emilia/La-Tosa/Malvasia Sorriso di Cielo/2015) -- <span class="star-3"></span> -- 87/100
-- Malvasia Sorriso di Cielo [2016](/vini/Italia/Emilia/La-Tosa/Malvasia Sorriso di Cielo/2016) -- <span class="star-3"></span> -- 86/100
-- Malvasia Sorriso di Cielo [2017](/vini/Italia/Emilia/La-Tosa/Malvasia Sorriso di Cielo/2017) -- <span class="star-3"></span> -- 85/100
-- Malvasia Sorriso di Cielo [2018](/vini/Italia/Emilia/La-Tosa/Malvasia Sorriso di Cielo/2018) -- <span class="star-3"></span> -- 87/100
-- Malvasia Sorriso di Cielo [2019](/vini/Italia/Emilia/La-Tosa/Malvasia Sorriso di Cielo/2019) -- <span class="star-4"></span> -- 90/100
-- Malvasia Sorriso di Cielo [2020](/vini/Italia/Emilia/La-Tosa/Malvasia Sorriso di Cielo/2020) -- <span class="star-5"></span> -- 95/100
+- Malvasia Sorriso di Cielo [2015](/vini/Italia/Emilia/La-Tosa/Malvasia-Sorriso-di-Cielo/2015) -- <span class="star-3"></span> -- 87/100
+- Malvasia Sorriso di Cielo [2016](/vini/Italia/Emilia/La-Tosa/Malvasia-Sorriso-di-Cielo/2016) -- <span class="star-3"></span> -- 86/100
+- Malvasia Sorriso di Cielo [2017](/vini/Italia/Emilia/La-Tosa/Malvasia-Sorriso-di-Cielo/2017) -- <span class="star-3"></span> -- 85/100
+- Malvasia Sorriso di Cielo [2018](/vini/Italia/Emilia/La-Tosa/Malvasia-Sorriso-di-Cielo/2018) -- <span class="star-3"></span> -- 87/100
+- Malvasia Sorriso di Cielo [2019](/vini/Italia/Emilia/La-Tosa/Malvasia-Sorriso-di-Cielo/2019) -- <span class="star-4"></span> -- 90/100
+- Malvasia Sorriso di Cielo [2020](/vini/Italia/Emilia/La-Tosa/Malvasia-Sorriso-di-Cielo/2020) -- <span class="star-5"></span> -- 95/100
 
