@@ -3,10 +3,11 @@ export function denominazioneSummaryTable(){
   var denominazioneTipo = document.querySelectorAll(".denominazioneTipo");
   denominazioneTipo.forEach(el => {
     const denominazioneTipoNome = el.innerText.replaceAll(' ', '-');
+    const denominazioneTipoNomeL = denominazioneTipoNome.toLowerCase();
     d3.text(`${denominazione}/${denominazioneTipoNome}.csv`).then( function(data) {
       var sortAscending = true;
       var csv = d3.csvParse(data), allheaders = d3.csvParseRows(data)[0],
-      table = d3.select(el + ' + div.table-container').append('table').attr('class','produttore-summary').attr('id','sortMe');
+      table = d3.select(`#${denominazioneTipoNomeL} + div.table-container`).append('table').attr('class','produttore-summary').attr('id','sortMe');
           var titles = Object.keys(data[0]);
           var headers = table.append('thead').append('tr')
                       .selectAll('th')
@@ -32,9 +33,11 @@ export function denominazioneSummaryTable(){
           return d.value;
         });
         const nomeAll = document.querySelectorAll("td[data-th='Vino']");
-        const regione = document.querySelector(".produttoreRegione").innerText
+        const regione = document.querySelector(".denominazioneRegione").innerText
         for (let i = 0; i < nomeAll.length; i++){
           const nome = nomeAll[i].innerText.replaceAll(' ', '-').replaceAll('é','e')
+          const produttore = nomeAll[i].previousElementSibling.innerText.replaceAll(' ', '-');
+          console.log(produttore)
           const path = "/it/vini/Italia/" + regione + "/" + produttore + "/" + nome + "/scheda-globale"
           const node = document.createElement("a");
           node.href = path
@@ -71,6 +74,9 @@ export function denominazioneSummaryTable(){
       const secondTh = document.querySelector('#sortMe th:nth-child(2)');
           secondTh.setAttribute("scope","col");
           secondTh.classList.add("table__header");
+      const thirdTh = document.querySelector('#sortMe th:nth-child(3)');
+          thirdTh.setAttribute("scope","col");
+          thirdTh.classList.add("table__header");
     });
   })
 }
