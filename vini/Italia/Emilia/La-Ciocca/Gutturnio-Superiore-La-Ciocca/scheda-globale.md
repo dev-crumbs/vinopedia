@@ -13,7 +13,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 ## Caratteristiche
 - **Nome:** Gutturnio Superiore La Ciocca 
 - **Tipologia:** Rosso fermo
-- **Denominazione:** [Gutturnio DOC](/denominazioni/Italia/Emilia/DOC/Gutturnio) (Superiore)
+- **Denominazione:** [Gutturnio DOC](/denominazioni/Italia/Emilia/DOC-Gutturnio) (Superiore)
 - **Produttore:** [La Ciocca](/produttori/Italia/Emilia/La-Ciocca) 
 - **Composizione:** 60% [Barbera](/vitigni/Italia/bacca-nera/barbera) + 40% [Croatina](/vitigni/Italia/bacca-nera/croatina)
 - **Affinamento:** 6 mesi in acciaio 

@@ -13,7 +13,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 ## Caratteristiche
 - **Nome:** Gutturnio Superiore 
 - **Tipologia:** Rosso fermo
-- **Denominazione:** [Gutturnio DOC](/denominazioni/Italia/Emilia/DOC/Gutturnio)
+- **Denominazione:** [Gutturnio DOC](/denominazioni/Italia/Emilia/DOC-Gutturnio)
 - **Produttore:** [LaTollara](/produttori/Italia/Emilia/La-Tollara) 
 - **Composizione:** 65% [Barbera](/vitigni/Italia/bacca-nera/barbera) + 35% [Croatina](/vitigni/Italia/bacca-nera/croatina)
 - **Affinamento:** acciaio

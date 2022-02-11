@@ -13,7 +13,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 ## Caratteristiche
 - **Nome:** Gutturnio Classico Superiore Vidarò 
 - **Tipologia:** Rosso fermo
-- **Denominazione:** [Gutturnio DOC](/denominazioni/Italia/Emilia/DOC/Gutturnio) (Classico, Superiore)
+- **Denominazione:** [Gutturnio DOC](/denominazioni/Italia/Emilia/DOC-Gutturnio) (Classico, Superiore)
 - **Produttore:** [Casa Benna](/produttori/Italia/Emilia/Casa-Benna) 
 - **Composizione:** 68% [Barbera](/vitigni/Italia/bacca-nera/barbera) + 32% [Croatina](/vitigni/Italia/bacca-nera/croatina)
 - **Affinamento:** 18 mesi in acciaio

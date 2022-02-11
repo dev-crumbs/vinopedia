@@ -13,7 +13,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 ## Caratteristiche
 - **Nome:** Come la Pantera e i Lupi nella Sera
 - **Tipologia:** Rosso fermo
-- **Denominazione:** [Gutturnio DOC](/denominazioni/Italia/Emilia/DOC/Gutturnio) (Superiore)
+- **Denominazione:** [Gutturnio DOC](/denominazioni/Italia/Emilia/DOC-Gutturnio) (Superiore)
 - **Produttore:** [Luretta](/produttori/Italia/Emilia/Luretta) 
 - **Composizione:** 60% [Barbera](/vitigni/Francia/bacca-nera/cabernet-sauvignon) + 30% [Barbera](/vitigni/Italia/bacca-nera/barbera) + 30% [Croatina](/vitigni/Italia/bacca-nera/croatina)
 - **Affinamento:** 18 mesi in barrique

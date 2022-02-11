@@ -13,7 +13,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 ## Caratteristiche
 - **Nome:** Gutturnio Farosa Riserva 
 - **Tipologia:** Rosso fermo
-- **Denominazione:** [Gutturnio DOC](/denominazioni/Italia/Emilia/DOC/Gutturnio) (Riserva)
+- **Denominazione:** [Gutturnio DOC](/denominazioni/Italia/Emilia/DOC-Gutturnio) (Riserva)
 - **Produttore:** [Marengoni](/produttori/Italia/Emilia/Marengoni) 
 - **Composizione:** 60% [Barbera](/vitigni/Italia/bacca-nera/barbera) + 40% [Croatina](/vitigni/Italia/bacca-nera/croatina)
 - **Affinamento:** 36 mesi in botte

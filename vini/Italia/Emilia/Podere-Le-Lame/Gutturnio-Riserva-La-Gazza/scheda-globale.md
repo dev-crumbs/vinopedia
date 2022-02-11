@@ -13,7 +13,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 ## Caratteristiche
 - **Nome:** Gutturnio Riserva La Gazza 
 - **Tipologia:** Rosso fermo
-- **Denominazione:** [Gutturnio DOC](/denominazioni/Italia/Emilia/DOC/Gutturnio) (Riserva)
+- **Denominazione:** [Gutturnio DOC](/denominazioni/Italia/Emilia/DOC-Gutturnio) (Riserva)
 - **Produttore:** [Podere Le Lame](/produttori/Italia/Emilia/Podere-Le-Lame) 
 - **Composizione:** 65% [Barbera](/vitigni/Italia/bacca-nera/barbera) + 35% [Croatina](/vitigni/Italia/bacca-nera/croatina)
 - **Affinamento:** 12 mesi in acciaio + 6 mesi in barrique

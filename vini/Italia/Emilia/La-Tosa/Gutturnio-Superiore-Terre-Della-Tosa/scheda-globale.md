@@ -13,7 +13,7 @@ dateCreated: 2021-09-03T21:02:59.390Z
 ## Caratteristiche
 - **Nome:** Gutturnio Superiore Terre Della Tosa
 - **Tipologia:** Rosso fermo
-- **Denominazione:** [Gutturnio DOC](/denominazioni/Italia/Emilia/DOC/Gutturnio) (Superiore)
+- **Denominazione:** [Gutturnio DOC](/denominazioni/Italia/Emilia/DOC-Gutturnio) (Superiore)
 - **Produttore:** [La Tosa](/produttori/Italia/Emilia/La-Tosa) 
 - **Composizione:** 65% [Barbera](/vitigni/Italia/bacca-nera/barbera) + 35% [Croatina](/vitigni/Italia/bacca-nera/croatina)
 - **Affinamento:** 5 mesi in acciaio

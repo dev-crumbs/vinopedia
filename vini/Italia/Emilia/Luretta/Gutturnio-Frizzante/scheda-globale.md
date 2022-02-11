@@ -13,7 +13,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 ## Caratteristiche
 - **Nome:** Gutturnio Frizzante 
 - **Tipologia:** Rosso fermo
-- **Denominazione:** [Gutturnio DOC](/denominazioni/Italia/Emilia/DOC/Gutturnio) (Frizzante)
+- **Denominazione:** [Gutturnio DOC](/denominazioni/Italia/Emilia/DOC-Gutturnio) (Frizzante)
 - **Produttore:** [Luretta](/produttori/Italia/Emilia/Luretta) 
 - **Composizione:** 60% [Barbera](/vitigni/Italia/bacca-nera/barbera) + 40% [Croatina](/vitigni/Italia/bacca-nera/croatina)
 - **Affinamento:** 12 mesi in botte

@@ -13,7 +13,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 ## Caratteristiche
 - **Nome:** Gutturnio Classico Superiore Impetuoso 
 - **Tipologia:** Rosso fermo
-- **Denominazione:** [Gutturnio DOC](/denominazioni/Italia/Emilia/DOC/Gutturnio) (Classico, Superiore)
+- **Denominazione:** [Gutturnio DOC](/denominazioni/Italia/Emilia/DOC-Gutturnio) (Classico, Superiore)
 - **Produttore:** [Mossi 1558](/produttori/Italia/Emilia/Mossi-1558) 
 - **Composizione:** 60% [Barbera](/vitigni/Italia/bacca-nera/barbera) + 40% [Croatina](/vitigni/Italia/bacca-nera/croatina)
 - **Affinamento:** 12 mesi in acciaio + 12 mesi in botte
