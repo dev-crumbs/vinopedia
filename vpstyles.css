@@ -64,8 +64,7 @@ table.summary-table td:nth-child(1n+4) {text-align: right;}
     text-transform: uppercase; }
   .summary-table td:last-child {
     border-bottom: 0; } 
-  }
-  
+
   .summary-table thead {
     border: none;
     clip: rect(0 0 0 0);
