@@ -96,7 +96,7 @@ export function tableFilter() {
   }
 }
 
-export function denominazionetableFilter(){
+export function denominazioneTableFilter(){
   const inputAll = document.querySelectorAll(".filterInput")
   inputAll.forEach(el =>{
     el.addEventListener('keyup', function(){
