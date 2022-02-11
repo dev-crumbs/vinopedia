@@ -13,7 +13,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 ## Caratteristiche
 - **Nome:** Bonarda Frizzante Nell'Orma di Irma 
 - **Tipologia:** Rosso frizzante
-- **Denominazione:** [Colli piacentini DOC](/denominazioni/Italia/Emilia/DOC/Colli-Piacentini)
+- **Denominazione:** [Colli piacentini DOC](/denominazioni/Italia/Emilia/DOC-Colli-Piacentini)
 - **Produttore:** [Casa Benna](/produttori/Italia/Emilia/Casa-Benna) 
 - **Composizione:** 100% [Croatina](/vitigni/Italia/bacca-nera/croatina)
 - **Affinamento:** 3 mesi in acciaio

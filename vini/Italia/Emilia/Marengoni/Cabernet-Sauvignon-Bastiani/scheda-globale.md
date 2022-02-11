@@ -13,7 +13,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 ## Caratteristiche
 - **Nome:** Cabernet Sauvignon Bastiani 
 - **Tipologia:** Rosso fermo
-- **Denominazione:** [Colli Piacentini DOC](/denominazioni/Italia/Emilia/DOC/Colli-Piacentini) (Riserva)
+- **Denominazione:** [Colli Piacentini DOC](/denominazioni/Italia/Emilia/DOC-Colli-Piacentini) (Riserva)
 - **Produttore:** [Marengoni](/produttori/Italia/Emilia/Marengoni) 
 - **Composizione:** 100% [Cabernet Sauvignon](/vitigni/Francia/bacca-nera/cabernet-sauvignon)
 - **Affinamento:** 3 anni in botte

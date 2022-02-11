@@ -13,7 +13,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 ## Caratteristiche
 - **Nome:** Barbera Nato Bio
 - **Tipologia:** Rosso fermo
-- **Denominazione:** [Colli Piacentini DOC](/denominazioni/Italia/Emilia/DOC/Colli-Piacentini)
+- **Denominazione:** [Colli Piacentini DOC](/denominazioni/Italia/Emilia/DOC-Colli-Piacentini)
 - **Produttore:** [Cantine-Campana](/produttori/Italia/Emilia/Cantine-Campana) 
 - **Composizione:** 100% [Barbera](/vitigni/Italia/bacca-nera/barbera)
 - **Affinamento:** 6 mesi in acciaio

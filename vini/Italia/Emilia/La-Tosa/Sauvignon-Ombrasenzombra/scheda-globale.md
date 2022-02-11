@@ -13,7 +13,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 ## Caratteristiche
 - **Nome:** Ombrasenzombra
 - **Tipologia:** Bianco fermo
-- **Denominazione:** [Colli Piacentini DOC](/denominazioni/Italia/Emilia/DOC/Colli-Piacentini)
+- **Denominazione:** [Colli Piacentini DOC](/denominazioni/Italia/Emilia/DOC-Colli-Piacentini)
 - **Produttore:** [La Tosa](/produttori/Italia/Emilia/La-Tosa) 
 - **Composizione:** 100% [Sauvignon blanc](/vitigni/Italia/bacca-bianca/sauvignon-blanc)
 - **Affinamento:** 6 mesi in acciaio

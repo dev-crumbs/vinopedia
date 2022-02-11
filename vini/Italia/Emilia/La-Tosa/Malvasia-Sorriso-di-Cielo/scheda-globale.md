@@ -13,7 +13,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 ## Caratteristiche
 - **Nome:** Malvasia Sorriso di Cielo
 - **Tipologia:** Bianco fermo
-- **Denominazione:** [Colli Piacentini DOC](/denominazioni/Italia/Emilia/DOC/Colli-Piacentini)
+- **Denominazione:** [Colli Piacentini DOC](/denominazioni/Italia/Emilia/DOC-Colli-Piacentini)
 - **Produttore:** [La Tosa](/produttori/Italia/Emilia/La-Tosa) 
 - **Composizione:** 100% [Malvasia aromatica di Candia](/vitigni/Italia/bacca-bianca/malvasia-di-candia-aromatica)
 - **Affinamento:** 4 mesi in acciaio

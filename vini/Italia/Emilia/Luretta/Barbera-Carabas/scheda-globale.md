@@ -13,7 +13,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 ## Caratteristiche
 - **Nome:** Barbera Carabas
 - **Tipologia:** Rosso fermo
-- **Denominazione:** [Colli Piacentini DOC](/denominazioni/Italia/Emilia/DOC/Colli-Piacentini)
+- **Denominazione:** [Colli Piacentini DOC](/denominazioni/Italia/Emilia/DOC-Colli-Piacentini)
 - **Produttore:** [Luretta](/produttori/Italia/Emilia/Luretta) 
 - **Composizione:** 100% [Barbera](/vitigni/Italia/bacca-nera/barbera)
 - **Affinamento:** 9 mesi in botte grande

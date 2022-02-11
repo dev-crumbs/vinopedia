@@ -13,7 +13,7 @@ dateCreated: 2021-09-03T21:02:59.390Z
 ## Caratteristiche
 - **Nome:** Cabernet Sauvignon Luna Selvatica
 - **Tipologia:** Rosso fermo
-- **Denominazione:** [Colli Piacentini DOC](/denominazioni/Italia/Emilia/DOC/Colli-Piacentini)
+- **Denominazione:** [Colli Piacentini DOC](/denominazioni/Italia/Emilia/DOC-Colli-Piacentini)
 - **Produttore:** [La Tosa](/produttori/Italia/Emilia/La-Tosa) 
 - **Composizione:** 90% [Cabernet Sauvignon ](/vitigni/Italia/bacca-nera/Cabernet Sauvignon ) + 10% [Merlot](/vitigni/Italia/bacca-nera/Merlot)
 - **Affinamento:** 12 mesi in barrique + 18 mesi in bottiglia

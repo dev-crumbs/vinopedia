@@ -13,7 +13,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 ## Caratteristiche
 - **Nome:** Bonarda 
 - **Tipologia:** Rosso fermo
-- **Denominazione:** [Colli Piacentini DOC](/denominazioni/Italia/Emilia/DOC/Colli-Piacentini)
+- **Denominazione:** [Colli Piacentini DOC](/denominazioni/Italia/Emilia/DOC-Colli-Piacentini)
 - **Produttore:** [Casa Benna](/produttori/Italia/Emilia/Casa-Benna) 
 - **Composizione:** 100% [Croatina](/vitigni/Italia/bacca-nera/croatina)
 - **Affinamento:** 6 mesi in acciaio

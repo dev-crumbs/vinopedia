@@ -13,7 +13,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 ## Caratteristiche
 - **Nome:** Malvasia La Ciocca 
 - **Tipologia:** Bianco fermo
-- **Denominazione:** [Colli Piacentini DOC](/denominazioni/Italia/Emilia/DOC/Colli-Piacentini)
+- **Denominazione:** [Colli Piacentini DOC](/denominazioni/Italia/Emilia/DOC-Colli-Piacentini)
 - **Produttore:** [La Ciocca](/produttori/Italia/Emilia/La-Ciocca) 
 - **Composizione:** 100% [Malvasia di Candia aromatica](/vitigni/Italia/bacca-bianca/malvasia-di-candia-aromatica)
 - **Affinamento:** 6 mesi in acciaio 

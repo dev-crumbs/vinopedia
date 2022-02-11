@@ -13,7 +13,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 ## Caratteristiche
 - **Nome:** Cabernet Sauvignon Corbeau
 - **Tipologia:** Rosso fermo
-- **Denominazione:** [Colli Piacentini DOC](/denominazioni/Italia/Emilia/DOC/Colli-Piacentini)
+- **Denominazione:** [Colli Piacentini DOC](/denominazioni/Italia/Emilia/DOC-Colli-Piacentini)
 - **Produttore:** [Luretta](/produttori/Italia/Emilia/Luretta) 
 - **Composizione:** 100% [Cabernet Sauvignon](/vitigni/Francia/bacca-nera/cabernet-sauvignon)
 - **Affinamento:** 12 mesi in tonneau

@@ -13,7 +13,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 ## Caratteristiche
 - **Nome:** Le Rane
 - **Tipologia:** Bianco passito
-- **Denominazione:** [Colli Piacentini DOC](/denominazioni/Italia/Emilia/DOC/Colli-Piacentini)
+- **Denominazione:** [Colli Piacentini DOC](/denominazioni/Italia/Emilia/DOC-Colli-Piacentini)
 - **Produttore:** [Luretta](/produttori/Italia/Emilia/Luretta) 
 - **Composizione:** 100% [Malvasia di Candia aromatica](/vitigni/Italia/bacca-bianca/malvasia-di-candia-aromatica)
 - **Affinamento:** 9 mesi in acciaio

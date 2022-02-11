@@ -13,7 +13,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 ## Caratteristiche
 - **Nome:** Ortrugo Frizzante
 - **Tipologia:** Bianco frizzante
-- **Denominazione:** [Ortrugo dei Colli Piacentini DOC](/denominazioni/Italia/Emilia/DOC/Colli-Piacentini)
+- **Denominazione:** [Ortrugo dei Colli Piacentini DOC](/denominazioni/Italia/Emilia/DOC-Colli-Piacentini)
 - **Produttore:** [Podere Le Lame](/produttori/Italia/Emilia/Podere-Le-Lame) 
 - **Composizione:** 100% [Ortrugo](/vitigni/Italia/bacca-bianca/ortrugo)
 - **Affinamento:** 3 mesi in acciaio
