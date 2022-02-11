@@ -3,7 +3,7 @@ export function denominazioneSummaryTable(){
   var denominazioneTipo = document.querySelectorAll(".denominazioneTipo");
   var regione = document.querySelector(".denominazioneRegione").innerText
   denominazioneTipo.forEach(el => {
-    const denominazioneTipoNome = el.previousElementSibling.innerText.replaceAll(' ', '-').replaceAll('|', '-');
+    const denominazioneTipoNome = el.previousElementSibling.innerText.replaceAll(' ', '-');
     const denominazioneTipoNomeL = denominazioneTipoNome.toLowerCase();
     d3.text(`${denominazione}/${denominazioneTipoNome}.csv`).then( function(data) {
       var sortAscending = true;
