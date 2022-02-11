@@ -45,7 +45,7 @@ table.denominazione-table th:nth-child(2) {text-align: left; cursor:pointer }
     background-color: white;
     left:277px
   }
-
+  table.denominazione-table td:nth-child(3){text-align: center}
 }
 /* #endregion */
 
