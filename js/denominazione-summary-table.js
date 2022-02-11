@@ -3,7 +3,7 @@ export function denominazioneSummaryTable(){
   var denominazioneTipo = document.querySelectorAll(".denominazioneTipo");
   var regione = document.querySelector(".denominazioneRegione").innerText
   denominazioneTipo.forEach(el => {
-    const denominazioneTipoNome = el.previousElementSibling.innerText.replaceAll(' ', '-');
+    const denominazioneTipoNome = el.previousElementSibling.innerText.replaceAll(' ', '-').replaceAll('|', '-');
     const denominazioneTipoNomeL = denominazioneTipoNome.toLowerCase();
     d3.text(`${denominazione}/${denominazioneTipoNome}.csv`).then( function(data) {
       var sortAscending = true;
@@ -35,7 +35,7 @@ export function denominazioneSummaryTable(){
         });
       const nomeAll = el.querySelectorAll("td[data-th='Vino']");
       nomeAll.forEach(i =>{
-        const nome = i.innerText.replaceAll(' ', '-').replaceAll('é','e').replaceAll('|', '-')
+        const nome = i.innerText.replaceAll(' ', '-').replaceAll('é','e')
         const produttore = i.previousElementSibling.innerText.replaceAll(' ', '-');
         const path = "/it/vini/Italia/" + regione + "/" + produttore + "/" + nome + "/scheda-globale"
         const node = document.createElement("a");
