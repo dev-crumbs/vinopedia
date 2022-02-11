@@ -1,5 +1,6 @@
 /* #region SUMMARY TABLES PRODUTTORE*/
-@media screen and (max-width: 600px) {
+@media screen and (max-width: 599px) {
+  table.produttore-table tbody tr{height:130px; overflow-y:auto}
   table.produttore-table th:nth-child(1n+3) {display:none}
   table.produttore-table th:nth-child(1n-2) {
     border-bottom: 0px solid transparent!important; 
@@ -28,7 +29,6 @@ table.produttore-table th:nth-child(2) {min-width: 110px; cursor:pointer}
 
 /* #region SUMMARY TABLES DENOMINAZIONE*/
 table.denominazione-table td:nth-child(1),table.denominazione-table td:nth-child(2) {
-max-width: 180px;
 text-overflow: ellipsis;
 overflow: hidden;
 white-space: nowrap;      
@@ -46,6 +46,15 @@ table.denominazione-table th:nth-child(2) {text-align: left; cursor:pointer }
     left:277px
   }
   table.denominazione-table td:nth-child(3){text-align: center}
+}
+@media screen and (max-width: 599px) {
+  table.denominazione-table tbody tr{height:160px; overflow-y:auto}
+  table.denominazione-table td:nth-child(3){
+      position:sticky;
+      background-color: #f2f2f2;
+      top:52px
+  }
+  
 }
 /* #endregion */
 
@@ -113,7 +122,6 @@ table.summary-table td:nth-child(1n+4) {text-align: right;}
     white-space: unset;
   }
   table.summary-table td:nth-child(2) {text-align: right;}
-  table.summary-table tbody tr{height:130px; overflow-y:auto}
   table.summary-table td:nth-child(2),table.summary-table td:nth-child(1){
       position:sticky;
       background-color: #f2f2f2;
