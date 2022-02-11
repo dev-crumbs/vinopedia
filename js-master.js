@@ -1,5 +1,6 @@
 import { produttoreSummaryTable } from './it/js/produttore-summary-table.js';
 import { tableFilter } from './it/js/table-filter.js';
+import { denominazioneTableFilter } from './it/js/table-filter.js';
 import { tableSort } from './it/js/table-filter.js';
 import { searchLabel } from './it/js/mobile-nav-bottom.js';
 import { mobileNavBottom } from './it/js/mobile-nav-bottom.js';
@@ -24,7 +25,7 @@ window.addEventListener("load", function(){
   // denominazione talbe
   if (window.location.href.indexOf("/denominazioni/") != -1){
     denominazioneSummaryTable()
-    denominazionetableFilter()
+    denominazioneTableFilter()
     setTimeout(tableSort, 1000) 
   }
 })
