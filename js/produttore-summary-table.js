@@ -63,10 +63,10 @@ export function produttoreSummaryTable(){
         tdStar.style.color = "#252525"
       } 
     }
-      const firstTh = document.querySelector('#sortMe th:nth-child(1)');
+      const firstTh = document.querySelector('.sort th:nth-child(1)');
           firstTh.setAttribute("scope","col");
           firstTh.classList.add("table__header");
-      const secondTh = document.querySelector('#sortMe th:nth-child(2)');
+      const secondTh = document.querySelector('.sort th:nth-child(2)');
           secondTh.setAttribute("scope","col");
           secondTh.classList.add("table__header");
   });
