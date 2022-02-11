@@ -260,30 +260,30 @@ max-width: 350px
   color: lightslategray
 }
   /*Produttore summary*/
-  table.produttore-summary td:nth-child(1) {
+  table.summary-table td:nth-child(1) {
     max-width: 180px;
     text-overflow: ellipsis;
     overflow: hidden;
     white-space: nowrap;      
   }
-  table.produttore-summary th:nth-child(1) {text-align: left; cursor:pointer }
-  table.produttore-summary th:nth-child(1n+3) {text-align: right;}
-  table.produttore-summary td:nth-child(1n+3) {text-align: right;}
-  table.produttore-summary td:nth-child(2) {text-align: center;}
-  table.produttore-summary th:nth-child(2) {min-width: 110px; cursor:pointer}
-  table.produttore-summary td,table.produttore-summary th{ padding: 3px 6px!important}
+  table.summary-table th:nth-child(1) {text-align: left; cursor:pointer }
+  table.summary-table th:nth-child(1n+3) {text-align: right;}
+  table.summary-table td:nth-child(1n+3) {text-align: right;}
+  table.summary-table td:nth-child(2) {text-align: center;}
+  table.summary-table th:nth-child(2) {min-width: 110px; cursor:pointer}
+  table.summary-table td,table.summary-table th{ padding: 3px 6px!important}
   
   @media screen and (min-width: 600px) {
-    table.produttore-summary td:nth-child(2),table.produttore-summary td:nth-child(1),table.produttore-summary th:nth-child(2),table.produttore-summary th:nth-child(1){
+    table.summary-table td:nth-child(2),table.summary-table td:nth-child(1),table.summary-table th:nth-child(2),table.summary-table th:nth-child(1){
       position:sticky;
       background-color: white;
       left:0px
     }
-    table.produttore-summary td:nth-child(2),table.produttore-summary th:nth-child(2){
+    table.summary-table td:nth-child(2),table.summary-table th:nth-child(2){
         left:180px
     }
   }
-  table.produttore-summary{
+  table.summary-table{
       width:90%;
       margin:auto
   }
@@ -341,30 +341,30 @@ max-width: 350px
       text-transform: uppercase; }
     .cantina-table td:last-child {
       border-bottom: 0; } 
-    table.produttore-summary td:nth-child(1) {
+    table.summary-table td:nth-child(1) {
       max-width: 100%;
       overflow: hidden;
       text-overflow: unset;
       white-space: unset;
     }
-    table.produttore-summary td:nth-child(2) {text-align: right;}
-    table.produttore-summary tbody tr{height:130px; overflow-y:auto}
-    table.produttore-summary td:nth-child(2),table.produttore-summary td:nth-child(1){
+    table.summary-table td:nth-child(2) {text-align: right;}
+    table.summary-table tbody tr{height:130px; overflow-y:auto}
+    table.summary-table td:nth-child(2),table.summary-table td:nth-child(1){
         position:sticky;
         background-color: #f2f2f2;
         top:0px
     }
-    table.produttore-summary td:nth-child(2){
+    table.summary-table td:nth-child(2){
         top:26px
     }
-    table.produttore-summary {
+    table.summary-table {
       border: 0; 
       margin: auto!important;
     }
-    .produttore-summary caption {
+    .summary-table caption {
       font-size: 1.3em; }
     /*START to get sorting buttons on mobile*/
-    .produttore-summary thead {
+    .summary-table thead {
       border: none;
       clip: rect(0 0 0 0);
       height: 1px;
@@ -373,28 +373,28 @@ max-width: 350px
       padding: 0;
       /*position: absolute;*/
       width: 1px; }
-    .produttore-summary thead tr {
+    .summary-table thead tr {
       display: flex;
       justify-content: end;
     }
-    table.produttore-summary th:nth-child(1n+3) {display:none}
-    table.produttore-summary th:nth-child(1n-2) {border-bottom: 0px solid transparent!important; font-size: 90%;}
+    table.summary-table th:nth-child(1n+3) {display:none}
+    table.summary-table th:nth-child(1n-2) {border-bottom: 0px solid transparent!important; font-size: 90%;}
     /*END to get sorting buttons on mobile*/
-    .produttore-summary tr {
+    .summary-table tr {
       border-bottom: 3px solid #ddd;
       display: block;
       margin-bottom: .625em; }
-    .produttore-summary td {
+    .summary-table td {
       border-bottom: 1px solid #ddd;
       display: block;
       font-size: .8em;
       text-align: right; }
-    .produttore-summary td::before {
+    .summary-table td::before {
       content: attr(data-th);
       float: left;
       font-weight: bold;
       text-transform: uppercase; }
-    .produttore-summary td:last-child {
+    .summary-table td:last-child {
       border-bottom: 0; } 
     }
 
