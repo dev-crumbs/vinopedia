@@ -35,7 +35,7 @@ export function denominazioneSummaryTable(){
         });
       const nomeAll = el.querySelectorAll("td[data-th='Vino']");
       nomeAll.forEach(i =>{
-        const nome = i.innerText.replaceAll(' ', '-').replaceAll('é','e')
+        const nome = i.innerText.replaceAll(' ', '-').replaceAll('é','e').replaceAll('|', '-')
         const produttore = i.previousElementSibling.innerText.replaceAll(' ', '-');
         const path = "/it/vini/Italia/" + regione + "/" + produttore + "/" + nome + "/scheda-globale"
         const node = document.createElement("a");
