@@ -1,8 +1,9 @@
 export function denominazioneSummaryTable(){
   var denominazione = document.querySelector(".denominazioneNome").innerText.replaceAll(' ', '-');
   var denominazioneTipo = document.querySelectorAll(".denominazioneTipo");
+  var regione = document.querySelector(".denominazioneRegione").innerText
   denominazioneTipo.forEach(el => {
-    const denominazioneTipoNome = el.innerText.replaceAll(' ', '-');
+    const denominazioneTipoNome = el.querySelector(".tipoNome").innerText.replaceAll(' ', '-');
     const denominazioneTipoNomeL = denominazioneTipoNome.toLowerCase();
     d3.text(`${denominazione}/${denominazioneTipoNome}.csv`).then( function(data) {
       var sortAscending = true;
@@ -32,51 +33,51 @@ export function denominazioneSummaryTable(){
         .text(function (d) {
           return d.value;
         });
-        const nomeAll = document.querySelectorAll("td[data-th='Vino']");
-        const regione = document.querySelector(".denominazioneRegione").innerText
-        for (let i = 0; i < nomeAll.length; i++){
-          const nome = nomeAll[i].innerText.replaceAll(' ', '-').replaceAll('é','e')
-          const produttore = nomeAll[i].previousElementSibling.innerText.replaceAll(' ', '-');
-          console.log(produttore)
-          const path = "/it/vini/Italia/" + regione + "/" + produttore + "/" + nome + "/scheda-globale"
-          const node = document.createElement("a");
-          node.href = path
-          node.classList.add("summaryExtLink")
-          node.setAttribute("target","_blank")
-          nomeAll[i].prepend(node)
-          nomeAll[i].setAttribute("title",nomeAll[i].innerText)
-      }
-    for (const td of document.querySelectorAll("td")) {
-      if (td.textContent.includes("sv")) {
-        td.style.color = "lightgray"
-        //console.log(td.innerText.length)
-      } else if (td.innerText.length <= 3){
-        td.classList.add("star-table")
-      }
-    }
-    for (const tdStar of document.querySelectorAll("td.star-table")){
-
-      if (tdStar.innerText >= 1 && tdStar.innerText <= 1.9 ){
-        tdStar.style.color = "#cecece"
-      } else if (tdStar.innerText >= 2 && tdStar.innerText <= 2.9 ) {
-        tdStar.style.color = "#a0a0a0"
-      } else if (tdStar.innerText >= 3 && tdStar.innerText <= 3.9 ) {
-        tdStar.style.color = "#747474"
-      } else if (tdStar.innerText >= 4 && tdStar.innerText <= 4.7 ) {
-        tdStar.style.color = "#4b4b4b"
-      } else if (tdStar.innerText >= 4.7 && tdStar.innerText <= 5 ) {
-        tdStar.style.color = "#252525"
-      } 
-    }
-      const firstTh = document.querySelector('#sortMe th:nth-child(1)');
-          firstTh.setAttribute("scope","col");
-          firstTh.classList.add("table__header");
-      const secondTh = document.querySelector('#sortMe th:nth-child(2)');
-          secondTh.setAttribute("scope","col");
-          secondTh.classList.add("table__header");
-      const thirdTh = document.querySelector('#sortMe th:nth-child(3)');
-          thirdTh.setAttribute("scope","col");
-          thirdTh.classList.add("table__header");
+      const nomeAll = el.querySelectorAll("td[data-th='Vino']");
+      nomeAll.forEach(i =>{
+        const nome = i.innerText.replaceAll(' ', '-').replaceAll('é','e')
+        const produttore = i.previousElementSibling.innerText.replaceAll(' ', '-');
+        const path = "/it/vini/Italia/" + regione + "/" + produttore + "/" + nome + "/scheda-globale"
+        const node = document.createElement("a");
+        node.href = path
+        node.classList.add("summaryExtLink")
+        node.setAttribute("target","_blank")
+        i.prepend(node)
+        i.setAttribute("title",i.innerText)
+      });
+      const tdAll = el.querySelectorAll("td")
+      tdAll.forEach(j =>{  
+        if (j.textContent.includes("sv")) {
+          j.style.color = "lightgray"
+          //console.log(td.innerText.length)
+        } else if (j.innerText.length <= 3){
+          j.classList.add("star-table")
+        }
+      })
+      const starAll = el.querySelectorAll("td.star-table")
+      starAll.forEach(k =>{
+        if (k.innerText >= 1 && k.innerText <= 1.9 ){
+          k.style.color = "#cecece"
+        } else if (k.innerText >= 2 && k.innerText <= 2.9 ) {
+          k.style.color = "#a0a0a0"
+        } else if (k.innerText >= 3 && k.innerText <= 3.9 ) {
+          k.style.color = "#747474"
+        } else if (k.innerText >= 4 && k.innerText <= 4.7 ) {
+          k.style.color = "#4b4b4b"
+        } else if (k.innerText >= 4.7 && k.innerText <= 5 ) {
+          k.style.color = "#252525"
+        } 
+      })
+      const firstTh = el.querySelector('th:nth-child(1)');
+        firstTh.setAttribute("scope","col");
+        firstTh.classList.add("table__header");
+      const secondTh = el.querySelector('th:nth-child(2)');
+        secondTh.setAttribute("scope","col");
+        secondTh.classList.add("table__header");
+      const thirdTh = el.querySelector('th:nth-child(3)');
+        thirdTh.setAttribute("scope","col");
+        thirdTh.classList.add("table__header");
     });
   })
 }
+  

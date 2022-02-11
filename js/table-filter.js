@@ -95,3 +95,29 @@ export function tableFilter() {
     }
   }
 }
+
+export function denominazionetableFilter(){
+  const inputAll = document.querySelectorAll(".filterInput")
+  inputAll.forEach(el =>{
+    el.addEventListener('keyup', function(){
+      const filter = el.value.toUpperCase();
+      const table = el.nextElementSibling;
+      const tr = table.getElementsByTagName("tr");
+      for (var i = 1; i < tr.length; i++) {
+        // Hide the row initially.
+        tr[i].style.display = "none";
+      
+        const td = tr[i].getElementsByTagName("td");
+        for (var j = 0; j < td.length; j++) {
+          const cell = tr[i].getElementsByTagName("td")[j];
+          if (cell) {
+            if (cell.innerHTML.toUpperCase().indexOf(filter) > -1) {
+              tr[i].style.display = "";
+              break;
+            } 
+          }
+        }
+      }        
+    })
+  })
+}

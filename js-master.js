@@ -24,7 +24,7 @@ window.addEventListener("load", function(){
   // denominazione talbe
   if (window.location.href.indexOf("/denominazioni/") != -1){
     denominazioneSummaryTable()
-    document.querySelector('#myInput').addEventListener('keyup', tableFilter)
+    denominazionetableFilter()
     setTimeout(tableSort, 1000) 
   }
 })
