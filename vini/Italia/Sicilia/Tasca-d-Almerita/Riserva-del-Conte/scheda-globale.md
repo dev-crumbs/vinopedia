@@ -3,7 +3,7 @@ title: Riserva del Conte – Contea di Sclafani DOC – Tasca d'Almerita – Sic
 description: Perricone 60% + Nero d'Avola 40% | Cotoletta alla palermitana
 published: true
 date: 2021-10-01T20:14:33.327Z
-tags: Prezzi | 125-149€, Vinificazione | rosso, Vinificazione | blend, Regioni | Sicilia (IT), Perricone, Nero d'Avola, Cotoletta alla palermitana, Valutazioni | 5 stelle, fermo
+tags: Prezzi | 125-149€, Vinificazione | rosso, Vinificazione | blend, Regione | Sicilia (IT), Perricone, Nero d'Avola, Cotoletta alla palermitana, Valutazioni | 5 stelle, fermo
 editor: markdown
 dateCreated: 2021-08-29T16:15:50.982Z
 ---
