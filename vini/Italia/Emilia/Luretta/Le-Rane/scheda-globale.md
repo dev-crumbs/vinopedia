@@ -3,7 +3,7 @@ title: Le Rane – Colli Piacentini DOC – Luretta – Emilia (IT) – 30-34€
 description: Malvasia di Candia aromatica 100% | Savarin all'arancia – Gorgonzola
 published: true
 date: 2021-10-01T20:11:51.188Z
-tags: Vinificazione | bianco, Regione | Emilia, Vinificazione | passito, Valutazioni | 4 stelle, Vitigni | Malvasia di Candia aromatica, Prezzi | 30-34€, Alimento | formaggio, Alimento-dettagli | gorgonzola, Alimento | Savarin all'arancia
+tags: Vinificazione | bianco, Regione | Emilia, Vinificazione | passito, Valutazioni | 4 stelle, Vitigni | Malvasia di Candia aromatica, Prezzi | 30-34€, Alimento | formaggi, Alimento-dettagli | gorgonzola, Alimento | Savarin all'arancia
 editor: markdown
 dateCreated: 2021-09-02T14:33:13.149Z
 ---

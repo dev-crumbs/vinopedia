@@ -3,7 +3,7 @@ title: Malvasia Passito L'Angelica – Colli Piacentini DOC – La Tollara – E
 description: Malvasia di Candia aromatica 100% | Gorgonzola – Torta Sacher – Formaggi erborinati
 published: true
 date: 2021-10-01T20:11:51.188Z
-tags: Vinificazione | bianco, Regione | Emilia, Vinificazione | varietale, Vinificazione | passito, Valutazioni | 5 stelle, Vitigni | Malvasia di Candia aromatica, Prezzi | 20-24€, Alimento | formaggio, Alimento-dettagli | Gorgonzola, Alimento | Torta Sacher, Alimento-dettagli | Formaggi-erborinati
+tags: Vinificazione | bianco, Regione | Emilia, Vinificazione | varietale, Vinificazione | passito, Valutazioni | 5 stelle, Vitigni | Malvasia di Candia aromatica, Prezzi | 20-24€, Alimento | formaggi, Alimento-dettagli | Gorgonzola, Alimento | Torta Sacher, Alimento-dettagli | Formaggi erborinati
 editor: markdown
 dateCreated: 2021-09-02T14:33:13.149Z
 ---

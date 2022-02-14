@@ -3,7 +3,7 @@ title: Vin Santo Le Solane – Colli Piacentini DOC – Mossi 1558 – Emilia (I
 description: Malvasia aromatica di Candia 100% | Blu di capra
 published: true
 date: 2021-10-01T20:11:51.188Z
-tags: Vinificazione | bianco, Regione | Emilia, Vinificazione | varietale, Vinificazione | passito, Valutazioni | 5 stelle, Vitigni | Malvasia di Candia aromatica, Prezzi | 25-29€, Alimento | formaggio, Alimento-dettagli | Blu di capra
+tags: Vinificazione | bianco, Regione | Emilia, Vinificazione | varietale, Vinificazione | passito, Valutazioni | 5 stelle, Vitigni | Malvasia di Candia aromatica, Prezzi | 25-29€, Alimento | formaggi, Alimento-dettagli | Blu di capra
 editor: markdown
 dateCreated: 2021-09-02T14:33:13.149Z
 ---
