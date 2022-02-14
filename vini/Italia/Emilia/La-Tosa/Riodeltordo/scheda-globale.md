@@ -3,7 +3,7 @@ title: Riodeltordo – Emilia IGT – La Tosa – Emilia (IT) – 5-9€ – 3�
 description: Malvasia aromatica di Candia 60% + Sauvignon  blanc 20% + Trebbiano 20%
 published: true
 date: 2021-10-01T20:11:51.188Z
-tags: Vinificazione | bianco, Regione | Emilia, Vinificazione | blend, Vinificazione | fermo, Valutazioni | 3 stelle, Vitigni | Malvasia di Candia aromatica,  Vitigni | Sauvignon blanc,  Vitigni | Trebbiano, Prezzi | 5-9€
+tags: Vinificazione | bianco, Regione | Emilia (IT), Vinificazione | blend, Vinificazione | fermo, Valutazioni | 3 stelle, Vitigni | Malvasia di Candia aromatica,  Vitigni | Sauvignon blanc,  Vitigni | Trebbiano, Prezzi | 5-9€
 editor: markdown
 dateCreated: 2021-09-02T14:33:13.149Z
 ---

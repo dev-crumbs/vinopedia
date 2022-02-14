@@ -3,7 +3,7 @@ title: Come la Pantera e i Lupi nella Sera – Vino generico – Luretta – Emi
 description: Cabernet Sauvignon 40% + Barbera 30% + Croatina 30% | Spezzatino di cinghiale – Costata di manzo alla griglia
 published: true
 date: 2021-10-01T20:11:51.188Z
-tags: Vinificazione | rosso, Regione | Emilia, Vinificazione | blend, Vinificazione | fermo, Valutazioni | 4 stelle, Vitigni | Barbera, Vitigni | Croatina, Vitigni | Cabernet sauvignon, Prezzi | 15-19€, Alimento | cinghiale, Cottura | spezzatino, Alimento | manzo, Alimento-dettagli | costata, Cottura | alla griglia
+tags: Vinificazione | rosso, Regione | Emilia (IT), Vinificazione | blend, Vinificazione | fermo, Valutazioni | 4 stelle, Vitigni | Barbera, Vitigni | Croatina, Vitigni | Cabernet sauvignon, Prezzi | 15-19€, Alimento | cinghiale, Cottura | spezzatino, Alimento | manzo, Alimento-dettagli | costata, Cottura | alla griglia
 editor: markdown
 dateCreated: 2021-09-02T14:33:13.149Z
 ---

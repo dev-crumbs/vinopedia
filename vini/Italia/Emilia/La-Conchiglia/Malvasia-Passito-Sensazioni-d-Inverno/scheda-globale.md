@@ -3,7 +3,7 @@ title: Malvasia Passito Sensazioni d'Inverno – Colli Bolognesi DOC – La Conc
 description: Malvasia aromatica di Candia 100% | Crepe susette – Certosino bolognese
 published: true
 date: 2021-10-01T20:11:51.188Z
-tags: Vinificazione | bianco, Regione | Emilia, Vinificazione | varietale, Vinificazione | passito, Valutazioni | 4 stelle, Vitigni | Malvasia di Candia aromatica, Prezzi | 30-34€, Alimento | Crepe susette, Alimento | Certosino bolognese
+tags: Vinificazione | bianco, Regione | Emilia (IT), Vinificazione | varietale, Vinificazione | passito, Valutazioni | 4 stelle, Vitigni | Malvasia di Candia aromatica, Prezzi | 30-34€, Alimento | Crepe susette, Alimento | Certosino bolognese
 editor: markdown
 dateCreated: 2021-09-02T14:33:13.149Z
 ---

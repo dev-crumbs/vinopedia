@@ -3,7 +3,7 @@ title: 17 Nero – Gutturnio DOC – La Conchiglia – Emilia (IT) – 10-14€ 
 description: Barbera 34% + Croatina 33% + Syrah 33% 
 published: true
 date: 2021-10-01T20:11:51.188Z
-tags: Vinificazione | rosso, Regione | Emilia, Vinificazione | blend, Vinificazione | fermo, Valutazioni | 2 stelle, Vitigni | Barbera, Vitigni | Croatina, Vitigni | Syrah, Prezzi | 10-14€ 
+tags: Vinificazione | rosso, Regione | Emilia (IT), Vinificazione | blend, Vinificazione | fermo, Valutazioni | 2 stelle, Vitigni | Barbera, Vitigni | Croatina, Vitigni | Syrah, Prezzi | 10-14€ 
 editor: markdown
 dateCreated: 2021-09-02T14:33:13.149Z
 ---

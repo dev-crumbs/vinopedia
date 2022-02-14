@@ -3,7 +3,7 @@ title: Nevermore – Vino generico – Luretta – Emilia (IT) – 70-74€ – 
 description: Malvasia di Candia aromatica 100% | Blu del Moncenisio
 published: true
 date: 2021-10-01T20:11:51.188Z
-tags: Vinificazione | bianco, Regione | Emilia, Vinificazione | passito, Valutazioni | 4 stelle, Vitigni | Malvasia di Candia aromatica, Prezzi | 70-74€, Alimento | formaggi, Alimento-dettagli | Blu del Moncenisio
+tags: Vinificazione | bianco, Regione | Emilia (IT), Vinificazione | passito, Valutazioni | 4 stelle, Vitigni | Malvasia di Candia aromatica, Prezzi | 70-74€, Alimento | formaggi, Alimento-dettagli | Blu del Moncenisio
 editor: markdown
 dateCreated: 2021-09-02T14:33:13.149Z
 ---

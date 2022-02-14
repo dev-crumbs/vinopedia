@@ -3,7 +3,7 @@ title: Pas Dosé – Vino generico – Luretta – Emilia (IT) – 15-19€ – 
 description: Pinot Nero 60% + Chardonnay 40%
 published: true
 date: 2021-10-01T20:11:51.188Z
-tags: Vinificazione | bianco, Regione | Emilia, Vinificazione | blend, Vinificazione | spumante, Vinificazione | spumante, Vinificazione | pas-dose, Valutazioni | 3 stelle, Vitigni | Pinot Nero, Vitigni | Chardonnay, Prezzi | 15-19€
+tags: Vinificazione | bianco, Regione | Emilia (IT), Vinificazione | blend, Vinificazione | spumante, Vinificazione | spumante, Vinificazione | pas-dose, Valutazioni | 3 stelle, Vitigni | Pinot Nero, Vitigni | Chardonnay, Prezzi | 15-19€
 editor: markdown
 dateCreated: 2021-09-02T14:33:13.149Z
 ---

@@ -3,7 +3,7 @@ title: Cabernet Sauvignon Bastiani – Colli Piacentini DOC – Marengoni – Em
 description: Cabernet Sauvignon 100% | Costolette di maiale al forno – Gulash
 published: true
 date: 2021-10-01T20:11:51.188Z
-tags: Vinificazione | rosso, Regione | Emilia, Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 5 stelle, Vitigni | Cabernet Sauvignon, Prezzi | 20-24€, Alimento | maiale, Alimento-dettagli | costine, Cottura | al forno, Alimento | Gulash
+tags: Vinificazione | rosso, Regione | Emilia (IT), Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 5 stelle, Vitigni | Cabernet Sauvignon, Prezzi | 20-24€, Alimento | maiale, Alimento-dettagli | costine, Cottura | al forno, Alimento | Gulash
 editor: markdown
 dateCreated: 2021-09-02T14:33:13.149Z
 ---

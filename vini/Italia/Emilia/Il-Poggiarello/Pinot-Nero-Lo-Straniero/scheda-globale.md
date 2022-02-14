@@ -3,7 +3,7 @@ title: Pinot Nero Lo Straniero – Emilia IGT – Il Poggiarello – Emilia (IT)
 description: Pinot Nero 95% + altre varietà
 published: true
 date: 2021-10-01T20:11:51.188Z
-tags: Vinificazione | rosato, Regione | Emilia, Vinificazione | blend, Vinificazione | fermo, Valutazioni | 3 stelle, Vitigni | Pinot Nero, Prezzi | 10-14€
+tags: Vinificazione | rosato, Regione | Emilia (IT), Vinificazione | blend, Vinificazione | fermo, Valutazioni | 3 stelle, Vitigni | Pinot Nero, Prezzi | 10-14€
 editor: markdown
 dateCreated: 2021-09-02T14:33:13.149Z
 ---

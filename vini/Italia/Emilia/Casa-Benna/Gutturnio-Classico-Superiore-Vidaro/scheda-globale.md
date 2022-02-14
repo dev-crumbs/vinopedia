@@ -3,7 +3,7 @@ title: Gutturnio Classico Superiore Vidarò – Gutturnio Classico Superiore DOC
 description: Barbera 68% + Croatina 32% | Cappone arrosto – Piccola di cavallo – Ossobuco di vitello – Spezzatino in umido con patate e piselli 
 published: true
 date: 2021-10-01T20:11:51.188Z
-tags: Vinificazione | rosso, Regione | Emilia, Vinificazione | blend, Vinificazione | frizzante, Valutazioni | 3 stelle, Vitigni | Barbera, Vitigni | Croatina, Prezzi | 5-9€, Alimento | cappone, Cottura | arrosto, Alimento | cavallo, Cottura | piccola, Alimento | vitello, Alimento-dettagli | ossobuco, Cottura | in umido, Alimento-dettagli | spezzatino, Aromatizzazione | con patate e piselli 
+tags: Vinificazione | rosso, Regione | Emilia (IT), Vinificazione | blend, Vinificazione | frizzante, Valutazioni | 3 stelle, Vitigni | Barbera, Vitigni | Croatina, Prezzi | 5-9€, Alimento | cappone, Cottura | arrosto, Alimento | cavallo, Cottura | piccola, Alimento | vitello, Alimento-dettagli | ossobuco, Cottura | in umido, Alimento-dettagli | spezzatino, Aromatizzazione | con patate e piselli 
 editor: markdown
 dateCreated: 2021-09-02T14:33:13.149Z
 ---

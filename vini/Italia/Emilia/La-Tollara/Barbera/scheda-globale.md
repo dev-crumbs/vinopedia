@@ -3,7 +3,7 @@ title: Barbera – Colli Piacentini DOC – La Tollara – Emilia (IT) – 14-19
 description: Barbera 100% | Carrello di bolliti
 published: true
 date: 2021-10-01T20:11:51.188Z
-tags: Vinificazione | rosso, Regione | Emilia, Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 4 stelle, Vitigni | Barbera, Prezzi | 14-19€, Alimento | Carrello di bolliti
+tags: Vinificazione | rosso, Regione | Emilia (IT), Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 4 stelle, Vitigni | Barbera, Prezzi | 14-19€, Alimento | Carrello di bolliti
 editor: markdown
 dateCreated: 2021-09-02T14:33:13.149Z
 ---

@@ -3,7 +3,7 @@ title: Cabernet Sauvignon Corbeau – Colli Piacentini DOC – Luretta – Emili
 description: Cabernet Sauvignon 100% | Lepre al cacao – Brasato di manzo con polenta – Fagiano arrosto
 published: true
 date: 2021-10-01T20:11:51.188Z
-tags: Vinificazione | rosso, Regione | Emilia, Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 5 stelle, Vitigni | Cabernet Sauvignon, Prezzi | 30-34€, Alimento | lepre, Aromatizzazione | al cacao, Alimento | manzo, Aromatizzazione | con polenta, Cottura | brasato, Alimento | fagiano, Cottura | arrosto
+tags: Vinificazione | rosso, Regione | Emilia (IT), Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 5 stelle, Vitigni | Cabernet Sauvignon, Prezzi | 30-34€, Alimento | lepre, Aromatizzazione | al cacao, Alimento | manzo, Aromatizzazione | con polenta, Cottura | brasato, Alimento | fagiano, Cottura | arrosto
 editor: markdown
 dateCreated: 2021-09-02T14:33:13.149Z
 ---

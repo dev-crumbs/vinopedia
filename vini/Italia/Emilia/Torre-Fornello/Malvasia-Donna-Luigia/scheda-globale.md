@@ -3,7 +3,7 @@ title: Malvasia Donna Luigia – Colli Piacentini DOC – Torre Fornello – Emi
 description: Malvasia aromatica di Candia 100% | Anguilla alla griglia
 published: true
 date: 2021-10-01T20:11:51.188Z
-tags: Vinificazione | bianco, Regione | Emilia, Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 3 stelle, Vitigni | Malvasia di Candia aromatica, Alimento | anguilla, Cottura | alla griglia, Prezzi | 15-19€,
+tags: Vinificazione | bianco, Regione | Emilia (IT), Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 3 stelle, Vitigni | Malvasia di Candia aromatica, Alimento | anguilla, Cottura | alla griglia, Prezzi | 15-19€,
 editor: markdown
 dateCreated: 2021-09-02T14:33:13.149Z
 ---

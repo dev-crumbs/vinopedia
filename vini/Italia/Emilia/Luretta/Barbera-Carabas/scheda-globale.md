@@ -3,7 +3,7 @@ title: Barbera Carabas – Colli Piacentini DOC – Luretta – Emilia (IT) – 
 description: Barbera 100% | Stracotto d'asino
 published: true
 date: 2021-10-01T20:11:51.188Z
-tags: Vinificazione | rosso, Regione | Emilia, Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 5 stelle, Vitigni | Barbera, Prezzi | 20-24€, Alimento | asino, Cottura | stracotto
+tags: Vinificazione | rosso, Regione | Emilia (IT), Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 5 stelle, Vitigni | Barbera, Prezzi | 20-24€, Alimento | asino, Cottura | stracotto
 editor: markdown
 dateCreated: 2021-09-02T14:33:13.149Z
 ---

@@ -3,7 +3,7 @@ title: Gutturnio Classico Punctatum Riserva – Gutturnio Classico Riserva DOC �
 description: Barbera 68% + Croatina 32% | Brasato ai chiodi di garofano – Pollo alla cacciatora
 published: true
 date: 2021-10-01T20:11:51.188Z
-tags: Vinificazione | rosso, Regione | Emilia, Vinificazione | blend, Vinificazione | fermo, Valutazioni | 4 stelle, Vitigni | Barbera, Vitigni | Croatina, Prezzi | 10-14€, Alimento | manzo, Cottura | brasato, Alimento | pollo, Aromatizzazione | alla cacciatora, Aromatizzazione | ai chiodi di garofano
+tags: Vinificazione | rosso, Regione | Emilia (IT), Vinificazione | blend, Vinificazione | fermo, Valutazioni | 4 stelle, Vitigni | Barbera, Vitigni | Croatina, Prezzi | 10-14€, Alimento | manzo, Cottura | brasato, Alimento | pollo, Aromatizzazione | alla cacciatora, Aromatizzazione | ai chiodi di garofano
 editor: markdown
 dateCreated: 2021-09-02T14:33:13.149Z
 ---

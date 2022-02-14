@@ -26,10 +26,7 @@ dateCreated: 2021-09-03T21:02:59.390Z
 ## Possibili abbinamenti
 *Vedere le singole annate per abbinamenti specifici*
 
-- filetto di manzo al pepe nero
-- arrosto di vitello ripieno
-- bocconcini di cavallo al vino
-- bomba di riso con piccione
+- Tagliata di puledro al rosmarino
 
 ## Annate
 - Gutturnio Superiore Terre Della Tosa [2015](/vini/Italia/Emilia/La-Tosa/Gutturnio Superiore Terre Della Tosa/2015) -- <span class="star-3"></span> -- 85/100

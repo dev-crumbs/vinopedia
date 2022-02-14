@@ -3,7 +3,7 @@ title: Gutturnio Superiore Migliorina – Gutturnio Superiore DOC – Marengoni 
 description: Barbera 60% + Croatina 40% | Guancia brasata al vino – Stinco di maiale in salsa barbecue – Piccola di cavallo
 published: true
 date: 2021-10-01T20:11:51.188Z
-tags: Vinificazione | rosso, Regione | Emilia, Vinificazione | blend, Vinificazione | fermo, Valutazioni | 3 stelle, Vitigni | Barbera, Vitigni | Croatina, Prezzi | 10-14€, Alimento | manzo, Cottura | brasato, Aromatizzazione | al vino, Alimento | maiale, Alimento-dettagli | stinco, Aromatizzazione | salsa barbecue, Alimento | cavallo, Cottura | piccola
+tags: Vinificazione | rosso, Regione | Emilia (IT), Vinificazione | blend, Vinificazione | fermo, Valutazioni | 3 stelle, Vitigni | Barbera, Vitigni | Croatina, Prezzi | 10-14€, Alimento | manzo, Cottura | brasato, Aromatizzazione | al vino, Alimento | maiale, Alimento-dettagli | stinco, Aromatizzazione | salsa barbecue, Alimento | cavallo, Cottura | piccola
 editor: markdown
 dateCreated: 2021-09-02T14:33:13.149Z
 ---

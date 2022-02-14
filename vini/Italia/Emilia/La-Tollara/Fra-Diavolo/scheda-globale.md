@@ -3,7 +3,7 @@ title: Fra Diavolo – Vino generico – La Tollara – Emilia (IT) – 20-24€
 description: Croatina 100%
 published: true
 date: 2021-10-01T20:11:51.188Z
-tags: Vinificazione | rosso, Regione | Emilia, Vinificazione | varietale, Vinificazione | dolce, Valutazioni | 3 stelle, Vitigni | Croatina, Prezzi | 20-24€
+tags: Vinificazione | rosso, Regione | Emilia (IT), Vinificazione | varietale, Vinificazione | dolce, Valutazioni | 3 stelle, Vitigni | Croatina, Prezzi | 20-24€
 editor: markdown
 dateCreated: 2021-09-02T14:33:13.149Z
 ---

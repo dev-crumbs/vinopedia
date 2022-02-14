@@ -3,7 +3,7 @@ title: Bonarda – Colli Piacentini DOC – Casa Benna – Emilia (IT) – 5-9�
 description: Croatina 100% | Involtini di carne prosciutto e formaggio – Pappardelle al ragù
 published: true
 date: 2021-10-01T20:11:51.188Z
-tags: Vinificazione | rosso, Regione | Emilia, Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 3 stelle, Vitigni | Croatina, Prezzi | 5-9€, Alimento | manzo, Alimento-dettagli | involtini, Aromatizzazione | prosciutto e formaggio, Alimento | pasta, Alimento-dettagli | pappardelle, Aromatizzazione | al ragù
+tags: Vinificazione | rosso, Regione | Emilia (IT), Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 3 stelle, Vitigni | Croatina, Prezzi | 5-9€, Alimento | manzo, Alimento-dettagli | involtini, Aromatizzazione | prosciutto e formaggio, Alimento | pasta, Alimento-dettagli | pappardelle, Aromatizzazione | al ragù
 editor: markdown
 dateCreated: 2021-09-02T14:33:13.149Z
 ---

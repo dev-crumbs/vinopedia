@@ -3,7 +3,7 @@ title: Malvasia Sorriso di Cielo – Colli Piacentini DOC – La Tosa – Emilia
 description: Malvasia aromatica di Candia 100% | Tortelli di zucca alla mantovana – Risotto zucca e gorgonzola – Coniglio alla ligure
 published: true
 date: 2021-10-01T20:11:51.188Z
-tags: Vinificazione | bianco, Regione | Emilia, Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 5 stelle, Vitigni | Malvasia di Candia aromatica, Prezzi | 15-19€, Alimento | pasta, Alimento-dettagli | tortelli, Aromatizzazione | alla zucca, Alimento | Risotto zucca e gorgonzola, Alimento | coniglio, Aromatizzazione | alla ligure, 
+tags: Vinificazione | bianco, Regione | Emilia (IT), Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 5 stelle, Vitigni | Malvasia di Candia aromatica, Prezzi | 15-19€, Alimento | pasta, Alimento-dettagli | tortelli, Aromatizzazione | alla zucca, Alimento | Risotto zucca e gorgonzola, Alimento | coniglio, Aromatizzazione | alla ligure, 
 editor: markdown
 dateCreated: 2021-09-02T14:33:13.149Z
 ---

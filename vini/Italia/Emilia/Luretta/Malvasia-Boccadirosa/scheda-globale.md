@@ -3,7 +3,7 @@ title: Malvasia Boccadirosa – Colli Piacentini DOC – Luretta – Emilia (IT)
 description: Malvasia aromatica di Candia 100% | Tagliatelle ai funghi porcini – Risotto zucca e gorgonzola – Coniglio alle erbe aromatiche – Tortino di gamberi
 published: true
 date: 2021-10-01T20:11:51.188Z
-tags: Vinificazione | bianco, Regione | Emilia, Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 5 stelle, Vitigni | Malvasia di Candia aromatica, Alimento | pasta, Alimento-dettagli | tagliatelle, Aromatizzazione | ai porcini, Alimento | Risotto zucca e gorgonzola, Alimento | coniglio, Aromatizzazione | alle erbe aromatiche, Alimento | gamberi, Cottura | tortino, Prezzi | 15-19€,
+tags: Vinificazione | bianco, Regione | Emilia (IT), Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 5 stelle, Vitigni | Malvasia di Candia aromatica, Alimento | pasta, Alimento-dettagli | tagliatelle, Aromatizzazione | ai porcini, Alimento | Risotto zucca e gorgonzola, Alimento | coniglio, Aromatizzazione | alle erbe aromatiche, Alimento | gamberi, Cottura | tortino, Prezzi | 15-19€,
 editor: markdown
 dateCreated: 2021-09-02T14:33:13.149Z
 ---

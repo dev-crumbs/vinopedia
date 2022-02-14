@@ -3,7 +3,7 @@ title: Gutturnio Classico Superiore Impetuoso – Gutturnio Classico Superiore D
 description: Barbera 60% + Croatina 40%
 published: true
 date: 2021-10-01T20:11:51.188Z
-tags: Vinificazione | rosso, Regione | Emilia, Vinificazione | blend, Vinificazione | frizzante, Valutazioni | 2 stelle, Vitigni | Barbera, Vitigni | Croatina, Prezzi | 5-9€ 
+tags: Vinificazione | rosso, Regione | Emilia (IT), Vinificazione | blend, Vinificazione | frizzante, Valutazioni | 2 stelle, Vitigni | Barbera, Vitigni | Croatina, Prezzi | 5-9€ 
 editor: markdown
 dateCreated: 2021-09-02T14:33:13.149Z
 ---

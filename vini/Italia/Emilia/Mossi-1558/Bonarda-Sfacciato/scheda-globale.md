@@ -3,7 +3,7 @@ title: Bonarda Sfacciato – Colli Piacentini DOC – Mossi 1558 – Emilia (IT)
 description: Croatina 100%
 published: true
 date: 2021-10-01T20:11:51.188Z
-tags: Vinificazione | rosso, Regione | Emilia, Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 2 stelle, Vitigni | Croatina, Prezzi | 5-9€
+tags: Vinificazione | rosso, Regione | Emilia (IT), Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 2 stelle, Vitigni | Croatina, Prezzi | 5-9€
 editor: markdown
 dateCreated: 2021-09-02T14:33:13.149Z
 ---

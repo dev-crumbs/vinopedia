@@ -3,7 +3,7 @@ title: Ortrugo Frizzante Genius – Ortrugo dei Colli Piacentini DOC – Casa Be
 description: Ortrugo 92% + Trebbiano romagnolo 8% 
 published: true
 date: 2021-10-01T20:11:51.188Z
-tags: Vinificazione | bianco, Regione | Emilia, Vinificazione | blend, Vinificazione | frizzante, Valutazioni | 2 stelle, Vitigni | Ortrugo, Vitigni | Trebbiano romagnolo, Prezzi | 5-9€
+tags: Vinificazione | bianco, Regione | Emilia (IT), Vinificazione | blend, Vinificazione | frizzante, Valutazioni | 2 stelle, Vitigni | Ortrugo, Vitigni | Trebbiano romagnolo, Prezzi | 5-9€
 editor: markdown
 dateCreated: 2021-09-02T14:33:13.149Z
 ---

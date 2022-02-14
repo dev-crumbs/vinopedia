@@ -3,7 +3,7 @@ title: Malvasia Baciamano – Colli Piacentini DOC – Mossi 1558 – Emilia (IT
 description: Malvasia aromatica di Candia 100%
 published: true
 date: 2021-10-01T20:11:51.188Z
-tags: Vinificazione | bianco, Regione | Emilia, Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 2 stelle, Vitigni | Malvasia di Candia aromatica, Prezzi | 10-14€
+tags: Vinificazione | bianco, Regione | Emilia (IT), Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 2 stelle, Vitigni | Malvasia di Candia aromatica, Prezzi | 10-14€
 editor: markdown
 dateCreated: 2021-09-02T14:33:13.149Z
 ---
