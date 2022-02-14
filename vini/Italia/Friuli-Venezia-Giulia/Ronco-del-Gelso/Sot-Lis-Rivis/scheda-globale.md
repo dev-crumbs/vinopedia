@@ -3,7 +3,7 @@ title: Sot Lis Rivis – Friuli Isonzo DOC – Ronco del Gelso – Friuli Friuli
 description: Pinot grigio 100% | Crema ai funghi porcini – Toc in braide con tartufo – Risotti ai formaggi erborinati – Spiedini di mare gratinati
 published: true
 date: 2021-10-01T20:12:04.619Z
-tags: Vinificazione | bianco, Vinificazione | varietale, pinot grigio, Vinificazione | fermo, Valutazioni | 5 stelle, Prezzi | 15-19€, friuli friuli isonzo, crema ai funghi porcini, toc in braide con tartufo, risotti ai formaggi erborinati, spiedini di mare gratinati
+tags: Vinificazione | bianco, Vinificazione | varietaleVitigni | Pinot grigio Vinificazione | fermo, Valutazioni | 5 stelle, Prezzi | 15-19€, friuli friuli isonzo, crema ai funghi porcini, toc in braide con tartufo, risotti ai formaggi erborinati, spiedini di mare gratinati
 editor: markdown
 dateCreated: 2021-10-01T17:43:08.401Z
 ---

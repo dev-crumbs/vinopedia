@@ -25,5 +25,5 @@ dateCreated: 2021-09-02T14:33:13.149Z
 *Vedere le singole annate per abbinamenti specifici*
 
 ## Annate
-- Fra Diavolo [2014](/vini/Italia/Emilia/La-Tollara/Il-Giorgione/2014) -- <span class="star-3"></span> -- 88/100
+- Fra Diavolo [2014](/vini/Italia/Emilia/La-Tollara/Fra-Diavolo/2014) -- <span class="star-3"></span> -- 88/100
 

@@ -3,7 +3,7 @@ title: Vorberg – Alto Adige Terlano Riserva DOC – Cantina Terlano – Alto-A
 description: Pinot bianco 100% | Bocconcini di coda di rospo all'arancia – Gran fritto misto alla bolognese – Ravioli burro e salvia
 published: true
 date: 2021-10-01T20:10:51.613Z
-tags: Vinificazione | bianco, Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 5 stelle, Regione | Alto-Adige (IT), bocconcini di coda di rospo all'arancia, pinot bianco, gran fritto misto alla bolognese, ravioli burro e salvia, Prezzi | 25-29€
+tags: Vinificazione | bianco, Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 5 stelle, Regione | Alto-Adige (IT), bocconcini di coda di rospo all'arancia, Vitigni | Pinot bianco, gran fritto misto alla bolognese, ravioli burro e salvia, Prezzi | 25-29€
 editor: markdown
 dateCreated: 2021-08-29T16:14:41.774Z
 ---
