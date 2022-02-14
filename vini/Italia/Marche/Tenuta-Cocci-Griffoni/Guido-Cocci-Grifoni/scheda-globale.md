@@ -3,7 +3,7 @@ title: Guido Cocci Grifoni – Offida DOCG – Tenuta Cocci Grifoni – Marche (
 description: Pecorino 100% | Lasagne al ragù bianco di vitello – Dentice in crosta di sale
 published: true
 date: 2021-10-01T19:58:23.049Z
-tags: Vinificazione | bianco, Vinificazione | varietale, marche, Valutazioni | 5 stelle, pecorino, Alimento | pasta, Alimento-dettagli | lasagna, Aromatizzazione | al ragù bianco di vitello, dentice in crosta di sale, Prezzi | 30-34€
+tags: Vinificazione | bianco, Vinificazione | varietale, marche, Valutazioni | 5 stelle, Vitigni | Pecorino, Alimento | pasta, Alimento-dettagli | lasagna, Aromatizzazione | al ragù bianco di vitello, dentice in crosta di sale, Prezzi | 30-34€
 editor: markdown
 dateCreated: 2021-09-02T14:33:56.205Z
 ---

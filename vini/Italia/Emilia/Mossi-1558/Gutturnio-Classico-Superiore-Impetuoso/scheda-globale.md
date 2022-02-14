@@ -25,4 +25,4 @@ dateCreated: 2021-09-02T14:33:13.149Z
 *Vedere le singole annate per abbinamenti specifici*
 
 ## Annate
-- Gutturnio Classico Superiore Impetuoso [2018](/vini/Italia/Emilia/Mossi-1558/Gutturnio-Classico-Superiore-Vidaro/2018) -- <span class="star-2"></span> -- 84/100
+- Gutturnio Classico Superiore Impetuoso [2018](/vini/Italia/Emilia/Mossi-1558/Gutturnio-Classico-Superiore-Impetuoso/2018) -- <span class="star-2"></span> -- 84/100
