@@ -3,7 +3,7 @@ title: Perlage Brut – Vino Generico – Cantina Valtidone – Emilia (IT) – 
 description: Chardonnay 80% + Pinot Nero 20% | Coda di rospo al forno – Insalata di mare – Tartare di ricciola con maionese di arachidi –
 published: true
 date: 2021-10-01T20:11:51.188Z
-tags: Vinificazione | bianco, Regione | Emilia (IT), Vinificazione | sans-annee, Vinificazione | blend, Vinificazione | spumante, Vinificazione | metodo classico, Vinificazione | brut, Valutazioni | 3 stelle, Vitigni | Chardonnay, Vitigno | Pinot nero, Prezzi | 25-29€, Alimento | coda di rospo, Cottura | al forno, Alimento | insalata di mare, Alimento | ricciola, Cottura | tartare, Aromatizzazione | maionese alle arachidi
+tags: Vinificazione | bianco, Regione | Emilia (IT), Vinificazione | sans-annee, Vinificazione | blend, Vinificazione | spumante, Vinificazione | metodo classico, Vinificazione | brut, Valutazioni | 3 stelle, Vitigni | Chardonnay, Vitigni |Pinot nero, Prezzi | 25-29€, Alimento | coda di rospo, Cottura | al forno, Alimento | insalata di mare, Alimento | ricciola, Cottura | tartare, Aromatizzazione | maionese alle arachidi
 editor: markdown
 dateCreated: 2021-09-02T14:33:13.149Z
 ---
@@ -12,9 +12,9 @@ dateCreated: 2021-09-02T14:33:13.149Z
 
 ## Caratteristiche
 - **Nome:** Perlage Brut
-- **Tipologia:** Bianco fermo
+- **Tipologia:** Bianco spumante metodo classico
 - **Denominazione:** [Vino Generico](/denominazioni/Italia/Vino-generico)
-- **Produttore:** [Cantina Valtidone](/produttori/Italia/Emilia/Torre-Fornello) 
+- **Produttore:** [Cantina Valtidone](/produttori/Italia/Emilia/Cantina-Valtidone) 
 - **Composizione:** 80% [Chardonnay](/vitigni/Francia/bacca-bianca/chardonnay) + 20% [Pinot nero](/vitigni/Francia/bacca-nera/pinot-nero)
 - **Alcol:** 12%
 - **Fascia di prezzo:** 25-29€

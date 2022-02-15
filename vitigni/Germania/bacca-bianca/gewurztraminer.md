@@ -18,7 +18,7 @@ Dišeči Traminec (Slovenia), Gentil Aromatique o Gentil Rose Aromatique (Jura),
 
 
 ## Origini e parentele
-Si pensa che il Gewürztraminer sia una mutazione aromatica del [Savagnin Rose](/vitigni/bacca-bianca/savagning-rose) (Galet 2000).
+Si pensa che il Gewürztraminer sia una mutazione aromatica del [Savagnin Rose](/vitigni/bacca-bianca/savagnin-rose) (Galet 2000).
 
 ###  Riferimenti Storici
 

@@ -31,10 +31,10 @@ Una Volta
 - Fagiano alla mazzolara
 
 ## Annate
-- Gutturnio Riserva Bollo Rosso [2011](/vini/Italia/Emilia/Cantina-Valtidone/Gutturnio-Frizzante-50-Vendemmie/2011) -- <span class="star-3"></span> -- 85/100
-- Gutturnio Riserva Bollo Rosso [2012](/vini/Italia/Emilia/Cantina-Valtidone/Gutturnio-Frizzante-50-Vendemmie/2012) -- <span class="star-4"></span> -- 90/100
-- Gutturnio Riserva Bollo Rosso [2014](/vini/Italia/Emilia/Cantina-Valtidone/Gutturnio-Frizzante-50-Vendemmie/2014) -- <span class="star-3"></span> -- 85/100
-- Gutturnio Riserva Bollo Rosso [2015](/vini/Italia/Emilia/Cantina-Valtidone/Gutturnio-Frizzante-50-Vendemmie/2015) -- <span class="star-4"></span> -- 89/100
-- Gutturnio Riserva Bollo Rosso [2016](/vini/Italia/Emilia/Cantina-Valtidone/Gutturnio-Frizzante-50-Vendemmie/2016) -- <span class="star-3"></span> -- 85/100
-- Gutturnio Riserva Bollo Rosso [2017](/vini/Italia/Emilia/Cantina-Valtidone/Gutturnio-Frizzante-50-Vendemmie/2017) -- <span class="star-2"></span> -- 82/100
+- Gutturnio Riserva Bollo Rosso [2011](/vini/Italia/Emilia/Cantina-Valtidone/Gutturnio-Riserva-Bollo-Rosso/2011) -- <span class="star-3"></span> -- 85/100
+- Gutturnio Riserva Bollo Rosso [2012](/vini/Italia/Emilia/Cantina-Valtidone/Gutturnio-Riserva-Bollo-Rosso/2012) -- <span class="star-4"></span> -- 90/100
+- Gutturnio Riserva Bollo Rosso [2014](/vini/Italia/Emilia/Cantina-Valtidone/Gutturnio-Riserva-Bollo-Rosso/2014) -- <span class="star-3"></span> -- 85/100
+- Gutturnio Riserva Bollo Rosso [2015](/vini/Italia/Emilia/Cantina-Valtidone/Gutturnio-Riserva-Bollo-Rosso/2015) -- <span class="star-4"></span> -- 89/100
+- Gutturnio Riserva Bollo Rosso [2016](/vini/Italia/Emilia/Cantina-Valtidone/Gutturnio-Riserva-Bollo-Rosso/2016) -- <span class="star-3"></span> -- 85/100
+- Gutturnio Riserva Bollo Rosso [2017](/vini/Italia/Emilia/Cantina-Valtidone/Gutturnio-Riserva-Bollo-Rosso/2017) -- <span class="star-2"></span> -- 82/100
 

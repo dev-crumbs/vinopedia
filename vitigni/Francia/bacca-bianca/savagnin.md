@@ -18,7 +18,7 @@ Per questo motivo, le mutazioni clonali più significative di questa varietà sa
 
 - [Savagnin Blanc](/vitigni/bacca-bianca/savagning-blanc)
 - [Savagnin Rose](/vitigni/bacca-bianca/savagning-rose)
-- [Gewürtztraminer](/vitigni/bacca-bianca/gewurtztraminer)
+- [Gewürztraminer](/vitigni/bacca-bianca/gewurztraminer)
 
 ## Origini e parentele
 
