@@ -1,5 +1,5 @@
 ---
-title: Moscato Rosa – Alto Adige DOC – Franz Haas – Alto-Adige (IT) – 25-29€ – 2★
+title: Moscato Rosa – Alto Adige DOC – Franz Haas – Alto-Adige (IT) – 25-29€ – 2★-3★
 description: 100% Moscato rosa | Torta allo yogurt con lamponi – Torta Sacher – Cioccolato
 published: true
 date: 2021-10-01T19:55:26.461Z
