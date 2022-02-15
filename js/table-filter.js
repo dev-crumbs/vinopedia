@@ -77,7 +77,7 @@ export function tableSort(){
 
 export function tableFilter() {
   var input, filter, table, tr, td, cell, i, j;
-  input = document.getElementById("myInput");
+  input = document.getElementById("filterInput");
   filter = input.value.toUpperCase();
   table = document.querySelector(".sort");
   tr = table.getElementsByTagName("tr");
