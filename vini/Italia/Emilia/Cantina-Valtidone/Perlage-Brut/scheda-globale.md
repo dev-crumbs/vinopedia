@@ -1,9 +1,9 @@
 ---
 title: Perlage Brut – Vino Generico – Cantina Valtidone – Emilia (IT) – 25-29€ – 3★
-description: Chardonnay 80% + Pinot Nero 20% | Coda di rospo al forno – Insalata di mare – – –
+description: Chardonnay 80% + Pinot Nero 20% | Coda di rospo al forno – Insalata di mare – Tartare di ricciola con maionese di arachidi –
 published: true
 date: 2021-10-01T20:11:51.188Z
-tags: Vinificazione | bianco, Regione | Emilia (IT), Vinificazione | sans-annee, Vinificazione | blend, Vinificazione | spumante, Vinificazione | metodo classico, Vinificazione | brut, Valutazioni | 3 stelle, Vitigni | Chardonnay, Vitigno | Pinot nero, Prezzi | 25-29€, Alimento | coda di rospo, Cottura | al forno, Alimento | insalata di mare
+tags: Vinificazione | bianco, Regione | Emilia (IT), Vinificazione | sans-annee, Vinificazione | blend, Vinificazione | spumante, Vinificazione | metodo classico, Vinificazione | brut, Valutazioni | 3 stelle, Vitigni | Chardonnay, Vitigno | Pinot nero, Prezzi | 25-29€, Alimento | coda di rospo, Cottura | al forno, Alimento | insalata di mare, Alimento | ricciola, Cottura | tartare, Aromatizzazione | maionese alle arachidi
 editor: markdown
 dateCreated: 2021-09-02T14:33:13.149Z
 ---
@@ -38,6 +38,6 @@ dateCreated: 2021-09-02T14:33:13.149Z
 > Per gli spumanti Sans Année le "annate" indicano esclusivamente gli anni in cui il vino è stato degustato.
 {.is-warning}
 
-- Perlage Brut [2021](/vini/Italia/Emilia/Cantina-Valtidone/Perlage-Brut/2021) -- <span class="star-3"></span> -- 85/100
+- Perlage Brut [2021](/vini/Italia/Emilia/Cantina-Valtidone/Perlage-Brut/2021) -- <span class="star-4"></span> -- 90/100
 - Perlage Brut [2022](/vini/Italia/Emilia/Cantina-Valtidone/Perlage-Brut/2022) -- <span class="star-3"></span> -- 85/100
 
