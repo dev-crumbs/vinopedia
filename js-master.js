@@ -18,7 +18,7 @@ window.addEventListener("load", function(){
   // produttore table and sort/filter tools
   if (window.location.href.indexOf("/produttori/") != -1){  
     produttoreSummaryTable()
-    document.querySelector('#myInput').addEventListener('keyup', tableFilter)
+    document.querySelector('#filterInput').addEventListener('keyup', tableFilter)
     setTimeout(tableSort, 1000) 
   }
   // denominazione talbe
