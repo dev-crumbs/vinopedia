@@ -2,8 +2,8 @@
 title: Moscato Rosa del Trentino
 description: Vitigno minore a bacca nera dell'Italia settentrionale, produce vini dolci profumati alla rosa
 published: true
-date: 2022-01-20T14:32:03.520Z
-tags: vitigno
+date: 2022-02-15T17:01:46.234Z
+tags: 
 editor: markdown
 dateCreated: 2022-01-20T14:32:03.520Z
 ---
@@ -26,7 +26,7 @@ Muškat Ruža Porečki(Croazia), Rosenmuskateller (Alto Adige, Germania, Austria
 
 La varietà è menzionata per la prima volta alla fine del XIX secolo e il suo nome deriva probabilmente dall'aroma di rosa del vino piuttosto che dal colore degli acini, che sono rosso rosato piuttosto che rosa chiaro.
 
-Uno studio approfondito di varie accessioni di Moscato nelle collezioni di viti di tutto il mondo ha dimostrato che tre varietà distinte sono state chiamate Moscato Rosa, una in Trentino, una a Breganze (in provincia di Vicenza), e un'altra in una collezione a Belgrado. Le accessioni del Trentino e di Breganze erano distinte e non corrispondevano a nessun altro Moscato, mentre il Moscato Rosa di Belgrado era una mutazione cromatica del [Muscat blanc a petit grains](/vitigni/Francia/bacca-bianca/muscat-blanc-a-petit-grains) (Crespan e Milani 2001). Poiché l'adesione dal Trentino è l'unica con impianti significativi, abbiamo usato qui il nome Moscato Rosa del Trentino. Gli stessi autori hanno effettuato un'analisi di parentela del DNA e hanno rivelato che il Moscato Rosa del Trentino ha un rapporto di parentela con il Muscat Blanc à Petits Grains (Moscato Bianco), ed è quindi un fratellastro o un nipote di almeno altre cinque varietà che hanno rapporti di parentela con il Muscat Blanc à Petits Grains: [Aleatico](/vitigni/Italia/bacca-nera/aleatico) (Moscatello Nero), [Moscato di Scanzo](/vitigni/Italia/bacca-bianca/moscato-di-scanzo), [Moscato Giallo](/vitigni/Italia/bacca-bianca/moscato-giallo), [Moscato](/vitigni/Francia/bacca-bianca/muscat-di-alessandria) e Muscat Rouge de Madère (quest'ultimo non più coltivato).
+Uno studio approfondito di varie accessioni di Moscato nelle collezioni di viti di tutto il mondo ha dimostrato che tre varietà distinte sono state chiamate Moscato Rosa, una in Trentino, una a Breganze (in provincia di Vicenza), e un'altra in una collezione a Belgrado. Le accessioni del Trentino e di Breganze erano distinte e non corrispondevano a nessun altro Moscato, mentre il Moscato Rosa di Belgrado era una mutazione cromatica del [Muscat blanc a petit grains](/vitigni/Francia/bacca-bianca/muscat-blanc-a-petit-grains) (Crespan e Milani 2001). Poiché l'adesione dal Trentino è l'unica con impianti significativi, abbiamo usato qui il nome Moscato Rosa del Trentino. Gli stessi autori hanno effettuato un'analisi di parentela del DNA e hanno rivelato che il Moscato Rosa del Trentino ha un rapporto di parentela con il Muscat Blanc à Petits Grains (Moscato Bianco), ed è quindi un fratellastro o un nipote di almeno altre cinque varietà che hanno rapporti di parentela con il Muscat Blanc à Petits Grains: [Aleatico](/vitigni/Italia/bacca-nera/aleatico) (Moscatello Nero), [Moscato di Scanzo](/vitigni/Italia/bacca-bianca/moscato-di-scanzo), [Moscato Giallo](/vitigni/Italia/bacca-bianca/moscato-giallo), [Moscato di Alessandria](/vitigni/Francia/bacca-bianca/muscat-di-alessandria) e Muscat Rouge de Madère (quest'ultimo non più coltivato).
 
 Sorprendentemente, il Moscato Rosa del Trentino è risultato essere identico al Muškat Ruža Porečki della Croazia (Maleti´c et al.1999). Questo potrebbe supportare la vecchia ipotesi che nel XIX secolo il Moscato Rosa del Trentino sia stato introdotto a Caldaro in Alto Adige attraverso la Dalmacija (Dalmazia).
 
