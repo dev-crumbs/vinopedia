@@ -79,7 +79,7 @@ export function tableFilter() {
   var input, filter, table, tr, td, cell, i, j;
   input = document.getElementById("myInput");
   filter = input.value.toUpperCase();
-  table = document.getElementById("sortMe");
+  table = document.querySelector(".sort");
   tr = table.getElementsByTagName("tr");
   for (i = 1; i < tr.length; i++) {
     // Hide the row initially.
