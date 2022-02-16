@@ -85,9 +85,10 @@ export function tableFilter() {
     // Hide the row initially.
     tr[i].style.display = "none";
   
-    td = tr[i].getElementsByTagName("td");
+    //td = tr[i].getElementsByTagName("td"); // OLD VERSION
+    td = tr[i].querySelectorAll('td:not([data-th="Voto Medio"])')
     for (var j = 0; j < td.length; j++) {
-      cell = tr[i].getElementsByTagName("td")[j];
+      cell = tr[i].querySelectorAll('td:not([data-th="Voto Medio"])')[j];
       if (cell) {
         if (cell.innerHTML.toUpperCase().indexOf(filter) > -1) {
           tr[i].style.display = "";
