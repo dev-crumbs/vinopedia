@@ -110,9 +110,9 @@ export function denominazioneTableFilter(){
         // Hide the row initially.
         tr[i].style.display = "none";
       
-        const td = tr[i].getElementsByTagName("td");
+        const td = tr[i].querySelectorAll('td:not([data-th="Voto Medio"])');
         for (var j = 0; j < td.length; j++) {
-          const cell = tr[i].getElementsByTagName("td")[j];
+          const cell = tr[i].querySelectorAll('td:not([data-th="Voto Medio"])')[j];
           if (cell) {
             if (cell.innerHTML.toUpperCase().indexOf(filter) > -1) {
               tr[i].style.display = "";
