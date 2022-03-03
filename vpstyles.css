@@ -38,7 +38,8 @@ table.denominazione-table th:nth-child(2) {text-align: left; cursor:pointer }
   table.denominazione-table td:nth-child(2),table.denominazione-table th:nth-child(2){
     position:sticky;
     background-color: white;
-    left:100px
+    left:100px;
+    max-width: 177px;
   }
   table.denominazione-table td:nth-child(3),table.denominazione-table th:nth-child(3){
     position:sticky;
