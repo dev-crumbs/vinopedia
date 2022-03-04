@@ -1,8 +1,8 @@
 ---
 title: Dindarella
-description: Rara varietà veneta dalla buccia scura che ben si adatta a stili di vino da uve secche.
+description: Rara varietà veneta dalla buccia scura che ben si adatta a stili di vino da uve appassite.
 published: true
-date: 2021-09-06T09:42:56.928Z
+date: 2022-03-04T21:11:24.893Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:42:36.905Z
@@ -23,4 +23,4 @@ Nel diciannovesimo secolo, Dindarella e Pelara erano considerate due varietà di
 - Le bucce spesse e l'apertura dei grappoli lo rendono resistente al marciume del grappolo della botrite e quindi ideale per l'appassimento e quindi per l'uso in vini da uve secche come l'Amarone.
 
 ## Diffusione geografica
-Un tempo diffusa in Valpolicella, Italia settentrionale, la Dindarella è ora scarsamente coltivata ma una piccola percentuale viene occasionalmente inclusa nelle miscele della Valpolicella, specialmente quelle per l'Amarone e il Recioto DOCG. Tedeschi include sempre circa l'1% di Dindarella nel loro Monte Olmi Amarone. È autorizzata nelle DOC Garda Orientale, Valdadige e Valpolicella. La varietà produce vini di colore rubino chiaro e leggermente strutturati ma notevolmente aromatici: floreali, fruttati e speziati. Le Cantine Aldegheri a Sant'Abrogio Valpolicella producono un Dindarella varietale, venduto come IGT Rosso Veronese, per il quale le uve vengono appassite per diversi mesi dopo la raccolta e poi subiscono una fermentazione molto lunga e lenta. C'erano solo 9 ha (22 acri) in Italia nel 2000. Brigaldara produce un Dindarella rosato.
+Un tempo diffusa in Valpolicella, Italia settentrionale, la Dindarella è ora scarsamente coltivata ma una piccola percentuale viene occasionalmente inclusa nelle miscele della Valpolicella, specialmente quelle per l'Amarone e il Recioto DOCG. Tedeschi include sempre circa l'1% di Dindarella nel suo Monte Olmi Amarone. È autorizzata nelle DOC Garda Orientale, Valdadige e Valpolicella. La varietà produce vini di colore rubino chiaro e leggermente strutturato ma notevolmente aromatici: floreali, fruttati e speziati. Le Cantine Aldegheri a Sant'Abrogio Valpolicella producono un Dindarella varietale, venduto come IGT Rosso Veronese, per il quale le uve vengono appassite per diversi mesi dopo la raccolta e poi subiscono una fermentazione molto lunga e lenta. C'erano solo 9 ha (22 acri) in Italia nel 2000. Brigaldara produce un Dindarella rosato.
