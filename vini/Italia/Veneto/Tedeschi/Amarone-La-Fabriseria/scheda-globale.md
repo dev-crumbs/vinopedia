@@ -11,7 +11,7 @@ dateCreated: 2022-01-27T15:21:34.303Z
 # Amarone La Fabriseria
 
 ## Caratteristiche
-- **Nome:** <span class="nome">Amarone Monte Sant Urbano</span>
+- **Nome:** <span class="nome">Amarone La Fabriseria</span>
 - **Tipologia:** Rosso fermo
 - **Denominazione:** <span class="denominazione">[Amarone della Valpolicella DOCG](/denominazioni/Italia/Veneto/DOCG/Amarone-della-Valpolicella) (Riserva)</span>
 - **Produttore:** <span class="cantina">[Tedeschi](/produttori/Italia/Veneto/Tedeschi)</span> 
