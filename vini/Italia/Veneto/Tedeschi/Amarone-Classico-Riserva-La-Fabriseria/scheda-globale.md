@@ -1,5 +1,5 @@
 ---
-title: Amarone La Fabriseria – Amarone della Valpolicella Riserva DOCG – Tedeschi – Veneto (IT) – 200-249€ – 5★
+title: Amarone Classico Riserva La Fabriseria – Amarone della Valpolicella Classico Riserva DOCG – Tedeschi – Veneto (IT) – 200-249€ – 5★
 description: Corvina 35% + Rondinella 30% + Corvinone 30% + Oseleta 5% | Agnello con porcini alla brace – Gulash
 published: true
 date: 2022-01-28T17:14:37.370Z
@@ -13,7 +13,7 @@ dateCreated: 2022-01-27T15:21:34.303Z
 ## Caratteristiche
 - **Nome:** <span class="nome">Amarone La Fabriseria</span>
 - **Tipologia:** Rosso fermo
-- **Denominazione:** <span class="denominazione">[Amarone della Valpolicella DOCG](/denominazioni/Italia/Veneto/DOCG/Amarone-della-Valpolicella) (Riserva)</span>
+- **Denominazione:** <span class="denominazione">[Amarone della Valpolicella DOCG](/denominazioni/Italia/Veneto/DOCG/Amarone-della-Valpolicella) (Classico, Riserva)</span>
 - **Produttore:** <span class="cantina">[Tedeschi](/produttori/Italia/Veneto/Tedeschi)</span> 
 - **Composizione:** 35% [Corvina](/vitigni/Italia/bacca-nera/corvina) + 30% [Rondinella](/vitigni/Italia/bacca-nera/rondinella) + 30% [Corvinone](/vitigni/Italia/bacca-nera/corvinone) + 5% [Oseleta](/vitigni/Italia/bacca-nera/oseleta)
 - **Affinamento:** 100 giorni di appassimento + 48 mesi in botte grande
@@ -28,7 +28,7 @@ dateCreated: 2022-01-27T15:21:34.303Z
 - Gulash
 
 ## Annate
-- Amarone La Fabriseria [2011](vini/Italia/Veneto/Tedeschi/Amarone-La-Fabriseria/2011) -- <span class="star-5"></span> -- 93/100
-- Amarone La Fabriseria [2015](vini/Italia/Veneto/Tedeschi/Amarone-La-Fabriseria/2015) -- <span class="star-5"></span> -- 94/100
+- Amarone Classico Riserva La Fabriseria [2011](vini/Italia/Veneto/Tedeschi/Amarone-Classico-Riserva-La-Fabriseria/2011) -- <span class="star-5"></span> -- 93/100
+- Amarone Classico Riserva La Fabriseria [2015](vini/Italia/Veneto/Tedeschi/Amarone-Classico-Riserva-La-Fabriseria/2015) -- <span class="star-5"></span> -- 94/100
 
 

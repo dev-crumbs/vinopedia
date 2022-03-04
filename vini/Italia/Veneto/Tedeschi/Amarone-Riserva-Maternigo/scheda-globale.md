@@ -1,5 +1,5 @@
 ---
-title: Amarone Maternigo Riserva – Amarone della Valpolicella Riserva DOCG – Tedeschi – Veneto (IT) – 125-150€ – 5★
+title: Amarone Riserva Maternigo – Amarone della Valpolicella Riserva DOCG – Tedeschi – Veneto (IT) – 125-150€ – 5★
 description: Corvina 40% + Rondinella 20% + Corvinone 40% | Brasato di lepre
 published: true
 date: 2022-01-28T17:14:37.370Z
@@ -8,10 +8,10 @@ editor: markdown
 dateCreated: 2022-01-27T15:21:34.303Z
 ---
 
-# Amarone Maternigo Riserva
+# Amarone Riserva Maternigo
 
 ## Caratteristiche
-- **Nome:** <span class="nome">Amarone Maternigo Riserva</span>
+- **Nome:** <span class="nome">Amarone Riserva Maternigo</span>
 - **Tipologia:** Rosso fermo
 - **Denominazione:** <span class="denominazione">[Amarone della Valpolicella DOCG](/denominazioni/Italia/Veneto/DOCG/Amarone-della-Valpolicella) (Riserva)</span>
 - **Produttore:** <span class="cantina">[Tedeschi](/produttori/Italia/Veneto/Tedeschi)</span> 
@@ -27,5 +27,5 @@ dateCreated: 2022-01-27T15:21:34.303Z
 - Brasato di lepre
 
 ## Annate
-- Amarone Maternigo Riserva [2016](vini/Italia/Veneto/Tedeschi/Amarone-Maternigo-Riserva/2016) -- <span class="star-5"></span> -- 95/100
+- Amarone Riserva Maternigo [2016](vini/Italia/Veneto/Tedeschi/Amarone-Riserva-Maternigo/2016) -- <span class="star-5"></span> -- 95/100
 
