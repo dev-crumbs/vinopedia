@@ -63,12 +63,20 @@ export function produttoreSummaryTable(){
         tdStar.style.color = "#252525"
       } 
     }
-      const firstTh = document.querySelector('.sort th:nth-child(1)');
-          firstTh.setAttribute("scope","col");
-          firstTh.classList.add("table__header");
-      const secondTh = document.querySelector('.sort th:nth-child(2)');
-          secondTh.setAttribute("scope","col");
-          secondTh.classList.add("table__header");
+    const firstTh = document.querySelector('.sort th:nth-child(1)');
+        firstTh.setAttribute("scope","col");
+        firstTh.classList.add("table__header");
+    const secondTh = document.querySelector('.sort th:nth-child(2)');
+        secondTh.setAttribute("scope","col");
+        secondTh.classList.add("table__header");
+    //hide sv cells on mobile
+    if (window.innerWidth < 600) {
+      for (const i of document.querySelectorAll("td")) {
+        if (i.textContent.includes("sv")) {
+          i.style.display = "none"
+        }
+      }
+    }  
   });
 }
 
