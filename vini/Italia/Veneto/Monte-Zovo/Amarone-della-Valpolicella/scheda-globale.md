@@ -3,7 +3,7 @@ title: Amarone della Valpolicella – Amarone della Valpolicella DOCG – Monte 
 description: Corvina 80% + Rondinella 10% + Corvinone 10% | Germano reale allo spiedo – Pecorino di fossa stagionato – Parmigiano reggiano 70 mesi
 published: true
 date: 2022-01-28T17:14:37.370Z
-tags: Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Prezzi | 70-74€, Vitigni | Corvina, rondinella, Alimento | formaggi, Alimento-dettagli | Pecorino di fossa stagionato, Vitigni | Corvinone, Germano reale allo spiedo, Parmigiano reggiano 70 mesi
+tags: Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Prezzi | 70-74€, Vitigni | Corvina, Vitigni | Rondinella, Alimento | formaggi, Alimento-dettagli | Pecorino di fossa stagionato, Vitigni | Corvinone, Germano reale allo spiedo, Parmigiano reggiano 70 mesi
 editor: markdown
 dateCreated: 2022-01-27T15:21:34.303Z
 ---

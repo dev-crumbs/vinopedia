@@ -3,7 +3,7 @@ title: Vignetoalto – Amarone della Valpolicella Classico DOCG – Tommaso Buss
 description: Corvina 40% + Rondinella 25% + Corvinone 30% | Terrina di lepre alle prugne
 published: true
 date: 2022-01-28T17:14:37.370Z
-tags: Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Prezzi | 175-199€, Vitigni | Corvina, rondinella, Vitigni | Corvinone, Vitigni | Molinara, Vitigni | Oseleta, Terrina di lepre alle prugne
+tags: Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Prezzi | 175-199€, Vitigni | Corvina, Vitigni | Rondinella, Vitigni | Corvinone, Vitigni | Molinara, Vitigni | Oseleta, Terrina di lepre alle prugne
 editor: markdown
 dateCreated: 2022-01-27T15:21:34.303Z
 ---

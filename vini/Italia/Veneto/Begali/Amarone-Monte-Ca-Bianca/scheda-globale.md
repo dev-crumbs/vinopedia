@@ -3,7 +3,7 @@ title: Monte Ca' Bianca – Amarone della Valpolicella DOCG – Begali – Venet
 description: Corvina 40% + Corvinone 35% + Rondinella 20% + Oseleta 5% | Stracotto di manzo – Brasato di manzo – Spezzatino di cervo al Ginepro – Cosciotto di capretto al rosmarino
 published: true
 date: 2022-01-15T22:17:16.730Z
-tags: Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Corvinone, Corvina, Oseleta, Prezzi | 55-59€, Rondinella, Alimento | manzo, Cottura | stracotto, Cottura | brasato,  Spezzatino di cervo al Ginepro, Cosciotto di capretto al rosmarino
+tags: Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Corvinone, Corvina, Oseleta, Prezzi | 55-59€, Vitigni | Rondinella, Alimento | manzo, Cottura | stracotto, Cottura | brasato,  Spezzatino di cervo al Ginepro, Cosciotto di capretto al rosmarino
 editor: markdown
 dateCreated: 2022-01-15T21:40:12.066Z
 ---

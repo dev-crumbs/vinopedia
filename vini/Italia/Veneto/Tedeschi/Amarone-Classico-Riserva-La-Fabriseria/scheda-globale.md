@@ -3,7 +3,7 @@ title: Amarone Classico Riserva La Fabriseria – Amarone della Valpolicella Cla
 description: Corvina 35% + Rondinella 30% + Corvinone 30% + Oseleta 5% | Agnello con porcini alla brace – Gulash
 published: true
 date: 2022-01-28T17:14:37.370Z
-tags: Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Prezzi | 200-249€, Vitigni | Corvina, rondinella, Vitigni | Corvinone, Vitigni | Molinara, Vitigni | Oseleta, Alimento | agnello, Cottura | alla brace, Aromatizzazione | ai porcini, Gulash
+tags: Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Prezzi | 200-249€, Vitigni | Corvina, Vitigni | Rondinella, Vitigni | Corvinone, Vitigni | Molinara, Vitigni | Oseleta, Alimento | agnello, Cottura | alla brace, Aromatizzazione | ai porcini, Gulash
 editor: markdown
 dateCreated: 2022-01-27T15:21:34.303Z
 ---

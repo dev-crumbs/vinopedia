@@ -3,7 +3,7 @@ title: Amarone della Valpolicella Classico – Amarone della Valpolicella Classi
 description: Corvina 45% + Corvinone 45% + Rondinella 10% | Controfiletto alle prugne – Controfiletto di cervo e mirtilli
 published: true
 date: 2022-01-28T17:14:37.370Z
-tags: Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Prezzi | 70-74€, Vitigni | Corvina, rondinella, Controfiletto di cervo e mirtilli, Vitigni | Corvinone, Controfiletto alle prugne
+tags: Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Prezzi | 70-74€, Vitigni | Corvina, Vitigni | Rondinella, Controfiletto di cervo e mirtilli, Vitigni | Corvinone, Controfiletto alle prugne
 editor: markdown
 dateCreated: 2022-01-27T15:21:34.303Z
 ---
