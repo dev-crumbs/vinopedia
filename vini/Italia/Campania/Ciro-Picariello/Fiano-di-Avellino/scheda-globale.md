@@ -3,7 +3,7 @@ title: Fiano di Avellino – Fiano di Avellino DOCG – Ciro Picariello – Camp
 description: Fiano 100% | Risotto con zucca provola e gamberi crudi – Chele di astice con asparagi – Ricciola scottata con ricci di mare
 published: true
 date: 2021-10-04T06:50:59.882Z
-tags: Vinificazione | bianco, campania, Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 5 stelle, Prezzi | 15-19€, fiano, risotto con zucca provola e gamberi crudi, Alimento | astice, Aromatizzazione | con asparagi, ricciola scottata
+tags: Vinificazione | bianco, Regione | Campania (it), Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 5 stelle, Prezzi | 15-19€, fiano, risotto con zucca provola e gamberi crudi, Alimento | astice, Aromatizzazione | con asparagi, ricciola scottata
 editor: markdown
 dateCreated: 2021-10-04T06:50:57.503Z
 ---

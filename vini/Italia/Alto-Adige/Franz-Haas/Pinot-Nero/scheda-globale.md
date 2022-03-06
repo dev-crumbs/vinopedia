@@ -3,7 +3,7 @@ title: Pinot Nero – Alto Adige DOC – Franz Haas – Alto-Adige (IT) – 20-2
 description: 100% Pinot Nero | Involtini di maiale e verza – Controfiletto al Cognac – Maialino da latte al forno 
 published: true
 date: 2021-10-01T19:55:26.461Z
-tags: Vinificazione | rosso, Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 4 stelle, Regione | Alto-Adige (IT), Prezzi | 20-24€, Alimento | maiale, Alimenti-dettagli | involtini, Cottura | al forno 
+tags: Vinificazione | rosso, Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 4 stelle, Regione | Alto-Adige (IT), Prezzi | 20-24€, Alimento | maiale, Alimento-dettagli | involtini, Cottura | al forno 
 editor: markdown
 dateCreated: 2021-09-02T14:32:47.834Z
 ---

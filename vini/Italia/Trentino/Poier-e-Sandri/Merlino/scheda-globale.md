@@ -3,7 +3,7 @@ title: Merlino – Vino generico – Poier e Sandri – Trentino (IT) – 20-24�
 description: Lagrein 75% + Brandy 25% | Torta Sacher – Tortino al cioccolato con cuore fondente – Cioccolato – Zelten – Torta foresta nera
 published: true
 date: 2021-10-01T20:15:00.254Z
-tags: Vinificazione | rosso, Vinificazione | varietale, Vinificazione | liquoroso, Regione | Trentino, Vitigni | Lagrein, Valutazioni | 4 stelle, Prezzi | 20-24€, Alimento | Torta Sacher, Alimento | Torta al cioccolato, Alimento | cioccolato, Alimento | Zelten, Alimento | Torta foresta nera
+tags: Vinificazione | rosso, Vinificazione | varietale, Vinificazione | liquoroso, Regione | Trentino (it), Vitigni | Lagrein, Valutazioni | 4 stelle, Prezzi | 20-24€, Alimento | Torta Sacher, Alimento | Torta al cioccolato, Alimento | cioccolato, Alimento | Zelten, Alimento | Torta foresta nera
 editor: markdown
 dateCreated: 2021-08-26T10:19:52.284Z
 ---
