@@ -3,7 +3,7 @@ title: Succo di Pietra – Savuto Rosso Superiore DOC – Antiche Vigne – Cala
 description: Magliocco dolce 100% | Falsomagro alla siciliana 
 published: true
 date: 2021-10-01T20:11:11.877Z
-tags: Vinificazione | rosso, Regione | Calabria (IT), Vinificazione | varietale, magliocco dolce, Vinificazione | fermo, Valutazioni | 5 stelle, Magliocco dolce, Falsomagro alla siciliana, Prezzi | 25-29€
+tags: Vinificazione | rosso, Regione | Calabria (IT), Vinificazione | varietale, magliocco dolce, Vinificazione | fermo, Valutazioni | 5 stelle, Magliocco dolce, Alimento | falsomagro alla siciliana, Prezzi | 25-29€
 editor: markdown
 dateCreated: 2021-10-01T09:52:58.839Z
 ---

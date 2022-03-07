@@ -5,6 +5,8 @@ import { searchLabel } from './it/js/mobile-nav-bottom.js';
 import { mobileNavBottom } from './it/js/mobile-nav-bottom.js';
 import { denominazioneSummaryTable } from './it/js/denominazione-summary-table.js';
 import { denominazioneTableFilter } from './it/js/table-filter.js';
+import { cantinaTableIn } from './it/js/cantina-table-in.js';
+
 
 window.addEventListener("load", function(){
   // custom label for search field
@@ -24,6 +26,12 @@ window.addEventListener("load", function(){
   // denominazione talbe
   if (window.location.href.indexOf("/denominazioni/") != -1){
     denominazioneSummaryTable()
+    denominazioneTableFilter()
+    setTimeout(tableSort, 1000) 
+  }
+  // cantina
+  if (window.location.href.indexOf("/cantina") != -1){
+    cantinaTableIn()
     denominazioneTableFilter()
     setTimeout(tableSort, 1000) 
   }

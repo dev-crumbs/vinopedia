@@ -128,437 +128,9 @@ dateCreated: 2022-01-10T01:14:16.018Z
 
 <h2>Tutti i vini <span id="totalevini"></span></h2>
 
-<input 
-  type="text"  
-  class="filterInput" id="filterInput" 
-  placeholder="Filtra per..." 
-  title="Filtra">
-<table class="cantina-table sort" id="sortMe">
-  <thead>
-    <tr>
-      <th>
-        <button class="table__header">Nome</button>
-      </th>
-      <th scope="col">
-        <button class="table__header">Cantina</button>
-      </th>
-      <th scope="col">
-        <button class="table__header">Vitigni</button>
-      </th>
-      <th scope="col">
-        <button class="table__header">Tipologia</button>
-      </th>
-      <th data-type="number" scope="col">
-        <button class="table__header">Anno</button>
-      </th>
-      <th scope="col"> 
-        <button class="table__header">Pos.</button>
-      </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td data-label="Nome">   Amarone della Valpolicella classico Campo Inferi </td>
-      <td data-label="Cantina">Brunelli - Veneto</td>
-      <td data-label="Vitigni">Corvina Corvinone Rondinella</td>
-      <td data-label="Tipologia">Rosso Fermo</td>
-      <td data-label="Anno">   2015</td>
-      <td data-label="Pos.">   Sxx</td>
-    </tr>
-    <tr>
-      <td data-label="Nome">   Valpolicella Superiore Maternigo </td>
-      <td data-label="Cantina">Tedeschi - Veneto</td>
-      <td data-label="Vitigni">Corvina Corvinone Rondinella</td>
-      <td data-label="Tipologia">Rosso Fermo</td>
-      <td data-label="Anno">   2016</td>
-      <td data-label="Pos.">   Sxx</td>
-    </tr>
-    <tr>
-      <td data-label="Nome">   Amarone Classico Capitel Monte Olmi Riserva </td>
-      <td data-label="Cantina">Tedeschi - Veneto</td>
-      <td data-label="Vitigni">Corvina Corvinone Rondinella</td>
-      <td data-label="Tipologia">Rosso Fermo</td>
-      <td data-label="Anno">   2013</td>
-      <td data-label="Pos.">   Sxx</td>
-    </tr>
-    <tr>
-      <td data-label="Nome">   Ben Ryè </td>
-      <td data-label="Cantina">Donnafugata - Sicilia</td>
-      <td data-label="Vitigni">Zibibbo</td>
-      <td data-label="Tipologia">Bianco Passito</td>
-      <td data-label="Anno">   2019</td>
-      <td data-label="Pos.">   Sxx</td>
-    </tr>
-    <tr>
-      <td data-label="Nome">   Achab </td>
-      <td data-label="Cantina">Luretta - Emilia</td>
-      <td data-label="Vitigni">Pinot Nero</td>
-      <td data-label="Tipologia">Rosso fermo</td>
-      <td data-label="Anno">   ?</td>
-      <td data-label="Pos.">   Sxx</td>
-    </tr>
-    <tr>
-      <td data-label="Nome">   Selin Dl'Amari</td>
-      <td data-label="Cantina">Luretta - Emilia</td>
-      <td data-label="Vitigni">Pinot Nero</td>
-      <td data-label="Tipologia">Spumante </td>
-      <td data-label="Anno">   ?</td>
-      <td data-label="Pos.">   Sxx</td>
-    </tr>    
-    <tr>
-      <td data-label="Nome">   I nari e le ballerine </td>
-      <td data-label="Cantina">Luretta - Emilia</td>
-      <td data-label="Vitigni">Cabernet sauvignon</td>
-      <td data-label="Tipologia">Bianco fermo </td>
-      <td data-label="Anno">   ?</td>
-      <td data-label="Pos.">   Sxx</td>
-    </tr>
-    <tr>
-      <td data-label="Nome">   Gutturnio l'ala del drago</td>
-      <td data-label="Cantina">Luretta - Emilia</td>
-      <td data-label="Vitigni">Barbera - Croatina</td>
-      <td data-label="Tipologia">Spumante </td>
-      <td data-label="Anno">   ?</td>
-      <td data-label="Pos.">   Sxx</td>
-    </tr>
-    <tr>
-      <td data-label="Nome">   Boccadirosa</td>
-      <td data-label="Cantina">Luretta - Emilia</td>
-      <td data-label="Vitigni">Malvasia di candia aromatica</td>
-      <td data-label="Tipologia">Bianco fermo</td>
-      <td data-label="Anno">   ?</td>
-      <td data-label="Pos.">   Sxx</td>
-    </tr>    
-    <tr>
-      <td data-label="Nome">   Luna selvatica</td>
-      <td data-label="Cantina">La Tosa - Emilia</td>
-      <td data-label="Vitigni">Cabernet Sauvignon</td>
-      <td data-label="Tipologia">Rosso fermo </td>
-      <td data-label="Anno">   ?</td>
-      <td data-label="Pos.">   Sxx</td>
-    </tr>            
-    <tr>
-      <td data-label="Nome">   Sorriso di cielo</td>
-      <td data-label="Cantina">La Tosa - Emilia</td>
-      <td data-label="Vitigni">Malvasia di candia aromatica</td>
-      <td data-label="Tipologia">Bianco fermo</td>
-      <td data-label="Anno">   ?</td>
-      <td data-label="Pos.">   Sxx</td>
-    </tr>    
-    <tr>
-      <td data-label="Nome">   Vespa bianco <span class="coravin">#2</span></td>
-      <td data-label="Cantina">Bastianich - Friuli</td>
-      <td data-label="Vitigni">Chardonnay - Sauvignon Blanc</td>
-      <td data-label="Tipologia">Bianco fermo</td>
-      <td data-label="Anno">   2017</td>
-      <td data-label="Pos.">   Sxx</td>
-    </tr>
-    <tr>
-      <td data-label="Nome">   Nascetta </td>
-      <td data-label="Cantina">Ettore Germano - Piemonte</td>
-      <td data-label="Vitigni">Nascetta</td>
-      <td data-label="Tipologia">Bianco fermo in anfora</td>
-      <td data-label="Anno">   2019</td>
-      <td data-label="Pos.">   Sxx</td>
-    </tr>
-    <tr>
-      <td data-label="Nome">   Amarone Classico Sant'Urbano </td>
-      <td data-label="Cantina">Speri - Veneto</td>
-      <td data-label="Vitigni">Amarone</td>
-      <td data-label="Tipologia">Rosso fermo</td>
-      <td data-label="Anno">   2017</td>
-      <td data-label="Pos.">   C4c</td>
-    </tr>
-    <tr>
-      <td data-label="Nome">   Vitalba </td>
-      <td data-label="Cantina">Tre monti - Romagna</td>
-      <td data-label="Vitigni">Albana 100%</td>
-      <td data-label="Tipologia">Bianco fermo in anfora</td>
-      <td data-label="Anno">   2019</td>
-      <td data-label="Pos.">   C6c</td>
-    </tr>
-    <tr>
-      <td data-label="Nome">   Nerimatti <span class="coravin">#</span></td>
-      <td data-label="Cantina">Paolo Leo - Puglia</td>
-      <td data-label="Vitigni">Negroamaro 85%</td>
-      <td data-label="Tipologia">Rosso fermo</td>
-      <td data-label="Anno">   2012</td>
-      <td data-label="Pos.">   C1a</td>
-    </tr>
-    <tr>
-      <td data-label="Nome">   Amarone Ca' Bianca <span class="coravin">#</span></td>
-      <td data-label="Cantina">Begali - Veneto</td>
-      <td data-label="Vitigni">Corvina 40%, Corvinone 35%, Rondinella 20%, Oseleta 5%</td>
-      <td data-label="Tipologia">Rosso fermo</td>
-      <td data-label="Anno">   2013</td>
-      <td data-label="Pos.">   C1b</td>
-    </tr>
-    <tr>
-      <td data-label="Nome">   Chiaromonte Riserva</td>
-      <td data-label="Cantina">Tenute Chiaromonte - Puglia</td>
-      <td data-label="Vitigni">Primitivo 100%</td>
-      <td data-label="Tipologia">Rosso fermo</td>      
-      <td data-label="Anno">   2013</td>
-      <td data-label="Pos.">   C1c</td>
-    </tr>
-    <tr>
-      <td data-label="Nome">   Barbera Vigna Scarrone</td>
-      <td data-label="Cantina">Vietti - Piemonte</td>
-      <td data-label="Vitigni">Barbera 100%</td>
-      <td data-label="Tipologia">Rosso fermo</td>
-      <td data-label="Anno">   2018</td>
-      <td data-label="Pos.">   C2a</td>
-    </tr>
-    <tr>
-      <td data-label="Nome">   Muro Sant'Angelo Contrada Barbatto</td>
-      <td data-label="Cantina">Tenute Chiaromonte - Puglia</td>
-      <td data-label="Vitigni">Primitivo 100%</td>
-      <td data-label="Tipologia">Rosso fermo</td>      
-      <td data-label="Anno">   2010</td>
-      <td data-label="Pos.">   C2b</td>
-    </tr>
-    <tr>
-      <td data-label="Nome">   Nebbiolo Perbacco</td>
-      <td data-label="Cantina">Vietti - Piemonte</td>
-      <td data-label="Vitigni">Nebbiolo 100%</td>
-      <td data-label="Tipologia">Rosso fermo</td>      
-      <td data-label="Anno">   2019</td>
-      <td data-label="Pos.">   C2c</td>
-    </tr>
-    <tr>
-      <td data-label="Nome">   Barbaresco</td>
-      <td data-label="Cantina">Rivetti - Piemonte</td>
-      <td data-label="Vitigni">Nebbiolo 100%</td>
-      <td data-label="Tipologia">Rosso fermo</td>      
-      <td data-label="Anno">   2015</td>
-      <td data-label="Pos.">   C3a</td>
-    </tr>
-    <tr>
-      <td data-label="Nome">   Cornalin</td>
-      <td data-label="Cantina">Le Clocher - Valle d'Aosta</td>
-      <td data-label="Vitigni">Cornalin 100%</td>
-      <td data-label="Tipologia">Rosso fermo</td>      
-      <td data-label="Anno">   2020</td>
-      <td data-label="Pos.">   C3b</td>
-    </tr>
-    <tr>
-      <td data-label="Nome">   Barolo</td>
-      <td data-label="Cantina">Ceretto - Piemonte</td>
-      <td data-label="Vitigni">Nebbiolo 100%</td>
-      <td data-label="Tipologia">Rosso fermo</td>      
-      <td data-label="Anno">   2016</td>
-      <td data-label="Pos.">   C3c</td>
-    </tr>
-    <tr>
-      <td data-label="Nome">   Chiaromonte Riserva</td>
-      <td data-label="Cantina">Tenute Chiaromonte - Puglia</td>
-      <td data-label="Vitigni">Primitivo 100%</td>
-      <td data-label="Tipologia">Rosso fermo</td>      
-      <td data-label="Anno">   2014</td>
-      <td data-label="Pos.">   C4a</td>
-    </tr>
-    <tr>
-      <td data-label="Nome">   Chiaromonte Rosè</td>
-      <td data-label="Cantina">Tenute Chiaromonte - Puglia</td>
-      <td data-label="Vitigni">Pinot Noir 90% - Primitivo 10%</td>
-      <td data-label="Tipologia">Rosato spumante</td>      
-      <td data-label="Anno">   2017</td>
-      <td data-label="Pos.">   C4b</td>
-    </tr>
-    <tr>
-      <td data-label="Nome">   Barolo Castiglione</td>
-      <td data-label="Cantina">Vietti - Piemonte</td>
-      <td data-label="Vitigni">Nebbiolo 100%</td>
-      <td data-label="Tipologia">Rosso fermo</td>      
-      <td data-label="Anno">   2017</td>
-      <td data-label="Pos.">   C5a </td>
-    </tr>
-    <tr>
-      <td data-label="Nome">   Millesimè 2013</td>
-      <td data-label="Cantina">Mumm - Champagne</td>
-      <td data-label="Vitigni">Pinot Noir 72% - Chardonnay 28%</td>
-      <td data-label="Tipologia">Bianco Champagne</td>      
-      <td data-label="Anno">   2013</td>
-      <td data-label="Pos.">   C5b</td>
-    </tr>
-    <tr>
-      <td data-label="Nome">   Barbaresco</td>
-      <td data-label="Cantina">Ceretto - Piemonte</td>
-      <td data-label="Vitigni">Nebbiolo 100%</td>
-      <td data-label="Tipologia">Rosso fermo</td>      
-      <td data-label="Anno">   2017</td>
-      <td data-label="Pos.">   C5c </td>
-    </tr>
-    <tr>
-      <td data-label="Nome">   Amarone Il Bosco</td>
-      <td data-label="Cantina">Cesari - Veneto</td>
-      <td data-label="Vitigni">Corvina 80% - Rondinella 20%</td>
-      <td data-label="Tipologia">Rosso fermo</td>      
-      <td data-label="Anno">   2015</td>
-      <td data-label="Pos.">   C6a</td>
-    </tr>
-    <tr>
-      <td data-label="Nome">   Muro Sant'Angelo Contrada Barbatto</td>
-      <td data-label="Cantina">Tenute Chiaromonte - Puglia</td>
-      <td data-label="Vitigni">Primitivo 100%</td>
-      <td data-label="Tipologia">Rosso fermo</td>      
-      <td data-label="Anno">   2017</td>
-      <td data-label="Pos.">   Sxx</td>
-    </tr>
-    <tr>
-      <td data-label="Nome">   Muro Sant'Angelo Contrada Barbatto x2</td>
-      <td data-label="Cantina">Tenute Chiaromonte - Puglia</td>
-      <td data-label="Vitigni">Primitivo 100%</td>
-      <td data-label="Tipologia">Rosso fermo</td>      
-      <td data-label="Anno">   2014</td>
-      <td data-label="Pos.">   Sxx</td>
-    </tr>
-    <tr>
-      <td data-label="Nome">   Maccone Rosso 17</td>
-      <td data-label="Cantina">Angiuli - Puglia</td>
-      <td data-label="Vitigni">Primitivo 100%</td>
-      <td data-label="Tipologia">Rosso fermo</td>      
-      <td data-label="Anno">   2019</td>
-      <td data-label="Pos.">   Sxx</td>
-    </tr>
-    <tr>
-      <td data-label="Nome">   Pouilly-Fumé Tonelum <span class="coravin">#</span></td>
-      <td data-label="Cantina">Caves de Pouilly sur Loire - Loire</td>
-      <td data-label="Vitigni">Sauvignon blanc 100%</td>
-      <td data-label="Tipologia">Bianco fermo</td>      
-      <td data-label="Anno">   2017</td>
-      <td data-label="Pos.">   Sxx</td>
-    </tr>
-    <tr>
-      <td data-label="Nome">   Maccone Primitivo</td>
-      <td data-label="Cantina">Angiuli - Puglia</td>
-      <td data-label="Vitigni">Primitivo 100%</td>
-      <td data-label="Tipologia">Rosso fermo</td>      
-      <td data-label="Anno">   2020</td>
-      <td data-label="Pos.">   Sxx</td>
-    </tr>
-    <tr>
-      <td data-label="Nome">   Primitivo Contrada Scappagnano</td>
-      <td data-label="Cantina">Tenute Chiaromonte - Puglia</td>
-      <td data-label="Vitigni">Primitivo 100%</td>
-      <td data-label="Tipologia">Rosso fermo</td>      
-      <td data-label="Anno">   2019</td>
-      <td data-label="Pos.">   Sxx</td>
-    </tr>
-    <tr>
-      <td data-label="Nome">   Schneeberger</td>
-      <td data-label="Cantina">Steiermark - Austria</td>
-      <td data-label="Vitigni">Zweigelt 100%</td>
-      <td data-label="Tipologia">Rosso fermo</td>      
-      <td data-label="Anno">   2017</td>
-      <td data-label="Pos.">   Sxx</td>
-    </tr>
-    <tr>
-      <td data-label="Nome">   Kimìa</td>
-      <td data-label="Cantina">Tenute Chiaromonte - Puglia</td>
-      <td data-label="Vitigni">Pinot Nero 100%</td>
-      <td data-label="Tipologia">Rosso fermo</td>      
-      <td data-label="Anno">   2021</td>
-      <td data-label="Pos.">   Sxx</td>
-    </tr>
-    <tr>
-      <td data-label="Nome">   Bianco</td>
-      <td data-label="Cantina">Cascina Fornace - Emilia</td>
-      <td data-label="Vitigni">?</td>
-      <td data-label="Tipologia">Bianco fermo</td>      
-      <td data-label="Anno">   ?</td>
-      <td data-label="Pos.">   Sxx</td>
-    </tr>
-    <tr>
-      <td data-label="Nome">   Bouzy Grand Cru</td>
-      <td data-label="Cantina">Herbert Beaufort - Champagne</td>
-      <td data-label="Vitigni">100%</td>
-      <td data-label="Tipologia">Bianco Champagne</td>      
-      <td data-label="Anno">   S.A.</td>
-      <td data-label="Pos.">   Sxx</td>
-    </tr>
-    <tr>
-      <td data-label="Nome">   Bouzy Grand Cru Millesime 2016</td>
-      <td data-label="Cantina">Herbert Beaufort - Champagne</td>
-      <td data-label="Vitigni">100%</td>
-      <td data-label="Tipologia">Bianco Champagne</td>      
-      <td data-label="Anno">   2016</td>
-      <td data-label="Pos.">   Sxx</td>
-    </tr>
-    <tr>
-      <td data-label="Nome">   Monfort Rosè</td>
-      <td data-label="Cantina">Cantine Monfort - Trentino</td>
-      <td data-label="Vitigni">100%</td>
-      <td data-label="Tipologia">Rosato spumante</td>      
-      <td data-label="Anno">   S.A.</td>
-      <td data-label="Pos.">   Fr</td>
-    </tr>
-    <tr>
-      <td data-label="Nome">   Aka</td>
-      <td data-label="Cantina">Produttori di Manduria - Puglia</td>
-      <td data-label="Vitigni">Primitivo 100%</td>
-      <td data-label="Tipologia">Rosato spumante</td>      
-      <td data-label="Anno">   2018</td>
-      <td data-label="Pos.">   Fr</td>
-    </tr>
-    <tr>
-      <td data-label="Nome">   Lambrusco Reggiano</td>
-      <td data-label="Cantina">Cantine Riunite - Emilia</td>
-      <td data-label="Vitigni">Lambrusco salamino 100%</td>
-      <td data-label="Tipologia">Rosso frizzante</td>      
-      <td data-label="Anno">   S.A.</td>
-      <td data-label="Pos.">   Sxx</td>
-    </tr>
-    <tr>
-      <td data-label="Nome">   Maccone Primitivo Rosato <span class="coravin">#</span></td>
-      <td data-label="Cantina">Angiuli - Puglia</td>
-      <td data-label="Vitigni">Primitivo 100%</td>
-      <td data-label="Tipologia">Rosato fermo</td>      
-      <td data-label="Anno">   2020</td>
-      <td data-label="Pos.">   Sxx</td>
-    </tr>
-    <tr>
-      <td data-label="Nome">   Sangue del Diavolo <span class="coravin">#</span></td>
-      <td data-label="Cantina">Ca' di Rajo - Veneto</td>
-      <td data-label="Vitigni">Raboso del piave 100%</td>
-      <td data-label="Tipologia">Rosso fermo</td>      
-      <td data-label="Anno">   2017</td>
-      <td data-label="Pos.">   Sxx</td>
-    </tr> 
-    <tr>
-      <td data-label="Nome">   Ribolla Gialla</td>
-      <td data-label="Cantina">Podversic</td>
-      <td data-label="Vitigni">Ribolla Gialla</td>
-      <td data-label="Tipologia">Bianco fermo</td>      
-      <td data-label="Anno">   2017</td>
-      <td data-label="Pos.">   Sxx</td>
-    </tr>  
-    <tr>
-      <td data-label="Nome">   Vitalba</td>
-      <td data-label="Cantina">Tremonti - Romagna</td>
-      <td data-label="Vitigni">Albana</td>
-      <td data-label="Tipologia">Bianco fermo in anfora</td>      
-      <td data-label="Anno">   201?</td>
-      <td data-label="Pos.">   Sxx</td>
-    </tr>  
-    <tr>
-      <td data-label="Nome">   Baby magnum</td>
-      <td data-label="Cantina">Marchesi di Ravarino - Emilia</td>
-      <td data-label="Vitigni">Lambrusco grasparossa</td>
-      <td data-label="Tipologia">Rosato frizzante</td>      
-      <td data-label="Anno">   2020</td>
-      <td data-label="Pos.">   Fr</td>
-    </tr>  
-    <tr>
-      <td data-label="Nome">   Amarone Sant'Urbano</td>
-      <td data-label="Cantina">Speri - Veneto</td>
-      <td data-label="Vitigni">Amarone</td>
-      <td data-label="Tipologia">Rosso fermo</td>      
-      <td data-label="Anno">   2017</td>
-      <td data-label="Pos.">   Sxx</td>
-    </tr>  
-  </tbody>
-</table>
+<div id="table-in-container">
+  <input type="text" class="filterInput" id="filterInput" placeholder="Filtra per nome" title="Filtra">
+</div>
 
 <h2>Non più in cantina</h2>
 
@@ -590,6 +162,24 @@ dateCreated: 2022-01-10T01:14:16.018Z
   </thead>
   <tbody>
     <tr>
+      <td data-label="Nome">   Vespa bianco </td>
+      <td data-label="Cantina">Bastianich - Friuli</td>
+      <td data-label="Vitigni">Chardonnay - Sauvignon Blanc</td>
+      <td data-label="Tipologia">Bianco fermo</td>
+      <td data-label="Anno">   2017</td>
+      <td data-label="Bevuto il"> 02/2013 </td>
+      <td data-label="Punteggio">89</td>
+    </tr>
+    <tr>
+      <td data-label="Nome">   Luna selvatica</td>
+      <td data-label="Cantina">La Tosa - Emilia</td>
+      <td data-label="Vitigni">Cabernet Sauvignon</td>
+      <td data-label="Tipologia">Rosso fermo </td>
+      <td data-label="Anno">   2018</td>
+      <td data-label="Bevuto il"> 03/2013 </td>
+      <td data-label="Punteggio">92</td>
+    </tr>    
+    <tr>
       <td data-label="Nome">   Amarone della Valpolicella classico</td>
       <td data-label="Cantina">Rubinelli-Vajol - Veneto</td>
       <td data-label="Vitigni">Corvina Corvinone Rondinella</td>
@@ -615,12 +205,13 @@ dateCreated: 2022-01-10T01:14:16.018Z
       <td data-label="Punteggio">92</td>
     </tr>
     <tr>
-      <td data-label="Nome">   Cupa <span class="coravin">#4</span></td>
+      <td data-label="Nome">   Cupa</td>
       <td data-label="Cantina">Pàstini - Puglia</td>
       <td data-label="Vitigni">Bianco d'Alessano 100%</td>
       <td data-label="Tipologia">Bianco fermo</td>      
       <td data-label="Anno">   2015</td>
-
+      <td data-label="Bevuto il"> 02/2022 </td>
+      <td data-label="Punteggio">85</td>
     </tr>
     <tr>
       <td data-label="Nome">   Baby Magnum </td>
