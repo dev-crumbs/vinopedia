@@ -32,7 +32,7 @@ export function cantinaTableIn(){
       i.classList.add("table__header");
     }
     //conteggio vini
-    const totaleVini = document.querySelectorAll('[data-label="Posizione"]').length;
+    const totaleVini = document.querySelectorAll('[data-th="Posizione"]').length;
     document.querySelector("#totalevini").innerText = totaleVini;
   });
 }
@@ -71,7 +71,7 @@ export function cantinaTableOut(){
       i.classList.add("table__header");
     }
     //conteggio vini
-    const totaleVini = document.querySelectorAll('[data-label="Posizione"]').length;
-    document.querySelector("#totalevini").innerText = totaleVini;
+    const totaleVini = document.querySelectorAll('[data-th="Posizione"]').length;
+    //document.querySelector("#totalevini").innerText = totaleVini;
   });
 }
