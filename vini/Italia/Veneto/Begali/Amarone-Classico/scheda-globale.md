@@ -11,7 +11,7 @@ dateCreated: 2022-01-15T21:40:12.066Z
 # Amarone Classico
 
 ## Caratteristiche
-- **Nome:** Monte Ca Bianca
+- **Nome:** Amarone Classico
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Amarone della Valpolicella DOCG](/denominazioni/Italia/Veneto/DOCG/Amarone-della-Valpolicella) (Classico -)
 - **Produttore:** [Begali](/produttori/Italia/Veneto/Begali) 

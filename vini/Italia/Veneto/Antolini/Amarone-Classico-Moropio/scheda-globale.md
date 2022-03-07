@@ -11,7 +11,7 @@ dateCreated: 2022-01-27T15:21:34.303Z
 # Amarone della Valpolicella Classico Moropio
 
 ## Caratteristiche
-- **Nome:** <span class="nome">Amarone della Valpolicella Classico Moropio</span>
+- **Nome:** <span class="nome">Amarone Classico Moropio</span>
 - **Tipologia:** Rosso fermo
 - **Denominazione:** <span class="denominazione">[Amarone della Valpolicella DOCG](/denominazioni/Italia/Veneto/DOCG/Amarone-della-Valpolicella) (Classico)</span>
 - **Produttore:** <span class="cantina">[Antolini](/produttori/Italia/Veneto/Antolini)</span> 

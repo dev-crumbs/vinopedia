@@ -11,7 +11,7 @@ dateCreated: 2022-01-15T21:40:12.066Z
 # Amarone Classico Riserva Monte Ca' Bianca
 
 ## Caratteristiche
-- **Nome:** Monte Ca Bianca
+- **Nome:** Amarone Classico Riserva Monte Ca Bianca
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Amarone della Valpolicella DOCG](/denominazioni/Italia/Veneto/DOCG/Amarone-della-Valpolicella) (Classico - Riserva)
 - **Produttore:** [Begali](/produttori/Italia/Veneto/Begali) 

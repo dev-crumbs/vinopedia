@@ -11,7 +11,7 @@ dateCreated: 2022-01-27T15:21:34.303Z
 # Amarone Classico
 
 ## Caratteristiche
-- **Nome:** <span class="nome">Amarone della Valpolicella Classico</span>
+- **Nome:** <span class="nome">Amarone Classico</span>
 - **Tipologia:** Rosso fermo
 - **Denominazione:** <span class="denominazione">[Amarone della Valpolicella DOCG](/denominazioni/Italia/Veneto/DOCG/Amarone-della-Valpolicella)</span> (classico)
 - **Produttore:** <span class="cantina">[Brunelli](/produttori/Italia/Veneto/Brunelli)</span> 

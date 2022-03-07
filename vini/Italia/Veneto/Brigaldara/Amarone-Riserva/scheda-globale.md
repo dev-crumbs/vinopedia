@@ -11,7 +11,7 @@ dateCreated: 2022-01-27T15:21:34.303Z
 # Amarone Riserva
 
 ## Caratteristiche
-- **Nome:** <span class="nome">Amarone della Valpolicella Riserva</span>
+- **Nome:** <span class="nome">Amarone Riserva</span>
 - **Tipologia:** Rosso fermo
 - **Denominazione:** <span class="denominazione">[Amarone della Valpolicella DOCG](/denominazioni/Italia/Veneto/DOCG/Amarone-della-Valpolicella)</span> (Riserva)
 - **Produttore:** <span class="cantina">[Brigaldara](/produttori/Italia/Veneto/Brigaldara)</span> 

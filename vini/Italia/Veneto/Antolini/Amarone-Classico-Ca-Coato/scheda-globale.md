@@ -11,7 +11,7 @@ dateCreated: 2022-01-27T15:21:34.303Z
 # Amarone della Valpolicella Classico Ca Coato
 
 ## Caratteristiche
-- **Nome:** <span class="nome">Amarone della Valpolicella Classico Ca Coato</span>
+- **Nome:** <span class="nome">Amarone Classico Ca Coato</span>
 - **Tipologia:** Rosso fermo
 - **Denominazione:** <span class="denominazione">[Amarone della Valpolicella DOCG](/denominazioni/Italia/Veneto/DOCG/Amarone-della-Valpolicella) (Classico)</span>
 - **Produttore:** <span class="cantina">[Antolini](/produttori/Italia/Veneto/Antolini)</span> 
