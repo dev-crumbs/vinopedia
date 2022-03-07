@@ -5,8 +5,8 @@ import { searchLabel } from './it/js/mobile-nav-bottom.js';
 import { mobileNavBottom } from './it/js/mobile-nav-bottom.js';
 import { denominazioneSummaryTable } from './it/js/denominazione-summary-table.js';
 import { denominazioneTableFilter } from './it/js/table-filter.js';
-import { cantinaTableIn } from './it/js/cantina-table-in.js';
-
+import { cantinaTableIn } from './it/js/cantina-table.js';
+import { cantinaTableOut } from './it/js/cantina-table.js';
 
 window.addEventListener("load", function(){
   // custom label for search field
@@ -32,6 +32,7 @@ window.addEventListener("load", function(){
   // cantina
   if (window.location.href.indexOf("/cantina") != -1){
     cantinaTableIn()
+    cantinaTableOut()
     denominazioneTableFilter()
     setTimeout(tableSort, 1000) 
   }

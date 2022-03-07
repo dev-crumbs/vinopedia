@@ -1,44 +1,44 @@
-Vino,Produttore,Regione,Vitigni,Tipologia,Anno,Posizione
-Amarone della Valpolicella Classico Campo Inferi,Brunelli,Veneto (IT),Corvina Corvinone Rondinella,Rosso fermo,2015,sp
-Valpolicella Superiore Maternigo,Tedeschi,Veneto (IT),Corvina Corvinone Rondinella,Rosso fermo,2016,sp
-Amarone Classico Riserva Capitel Monte Olmi,Tedeschi,Veneto (IT),Corvina Corvinone Rondinella,Rosso fermo,2013,sp
-Ben Ryé,Donnafugata,Sicilia (IT),Zibibbo,Bianco passito,2019,sp
-Achab,Luretta,Emilia (IT),Pinot Nero,Rosso fermo,?,sp
-Selin Dl Amari,Luretta,Emilia (IT),Pinot nero,Spumante metodo classico,?,sp
-"I Nani e Le Ballerine ",Luretta,Emilia (IT),Sauvignon blanc,Bianco fermo,?,sp
-Gutturnio L'Ala del Drago,Luretta,Emilia (IT),Barbera Croatina,Rosso fermo,?,sp
-Boccadirosa,Luretta,Emilia (IT),Malvasia di Candia Aromatica,Bianco fermo,?,sp
-Sorriso di Cielo,La Tosa,Emilia (IT),Malvasia di Candia Aromatica,Bianco fermo,?,sp
-Nascetta,Ettore Germano,Piemonte (IT),Nascetta,Bianco fermo in anfora,2019,sp
-Amarone Classico Sant'Urbano,Speri,Veneto (IT),Corvina Corvinone Rondinella,Rosso fermo,2017,C4c
-Vitalba,Tre monti,Romagna (IT),Albana,Bianco fermo in anfora,2019,C6c
-Nerimatti,Paolo leo,Puglia (IT),Negramaro,Rosso fermo,2012,C1a
-Amarone Ca Bianca,Begali,Veneto (IT),Corvina Corvinone Rondinella,Rosso fermo,2013,C1b
-Chiaromonte riserva,Chiaromonte,Puglia (IT),Primitivo,Rosso fermo,2013,C1c
-Barbera Vigna Scarrone,Vietti,Piemonte (IT),Barbera,Rosso fermo,2018,C2a
-Muro Sant Angelo Contrada Barbatto,Chiaromonte,Puglia (IT),Primitivo,Rosso fermo,2010,C2b
-Nebbiolo Perbacco,Vietti,Piemonte (IT),Nebbiolo,Rosso fermo,2019,C2c
-Barbaresco,Rivetti,Piemonte (IT),Nebbiolo,Rosso fermo,2015,C3a
-Cornalin,Le Clocher,Valle d Aosta (IT),Cornalin,Rosso fermo,2020,C3b
-Barolo,Ceretto,Piemonte (IT),Nebbiolo,Rosso fermo,2016,C3b
-Chiaromonte Riserva,Chiaromonte,Puglia (IT),Primitivo,Rosso fermo,2014,C4a
-Chiaromonte Rosè,Chiaromonte,Puglia (IT),Pinot nero Primitivo,Rosato spumante,2017,C4b
-Barolo Castiglione,Vietti,Piemonte (IT),Nebbiolo,Rosso fermo,2017,C5a
-Millesime,Mumm,Champagne (FR),Pinot nero Chardonnay,Bianco champagne,2013,C5b
-Barbaresco,Ceretto,Piemonte (IT),Nebbiolo,Rosso fermo,2017,C5c
-Amarone Il Bosco,Cesari,Veneto (IT),Corvina - Rondinella,Rosso fermo,2015,C6a
-Muro Sant Angelo Contrada Barbatto,Chiaromonte,Puglia (IT),Primitivo,Rosso fermo,2017,sp
-Muro Sant Angelo Contrada Barbatto,Chiaromonte,Puglia (IT),Primitivo,Rosso fermo,2014,sp
-Maccone Rosso 17,Angiuli,Puglia (IT),Primitivo,Rosso fermo,2019,sp
-Pouilly Fume Tonelum,Caves de Pouilly sur Loire,Loira (FR),Sauvignon blanc,Bianco fermo,2017,sp
-Maccone Primitivo,Angiuli,Puglia (IT),Primitivo,Rosso fermo,2019,sp
-Primitivo Contrada Scappagnano,Chiaromonte,Puglia (IT),Primitivo,Rosso fermo,2019,sp
-Schneeberger,Steiermark,Austria,"Zeigelt ",Rosso fermo,2017,sp
-Kimia,Chiaromonte,Puglia (IT),Pinot nero,Rosso fermo,2021,sp
-Bianco,Cascina Fornace,Emilia (IT),?,Bianco fermo,?,sp
-Bouzy Grand Cru,Herber Beaufort,Champagne (FR),?,Bianco champagne,sa,sp
-Bouzy Grand Cru 2016,Herber Beaufort,Champagne (FR),?,Bianco champagne,2016,sp
-Monfort Rose,Cantine Monfort,Trentino (IT),?,Rosato spumante,sa,sp
-Maccone Primitivo rosato,Angiuli,Puglia (IT),Primitivo,Rosato fermo,2020,sp
-Sangue del Diavolo,Ca di Rajo,Veneto (IT),Raboso del Piave,Rosso fermo,2017,sp
-Ribolla Gialla,Podversic,Friuli (IT),Ribolla Gialla,Bianco fermo in anfora,2017,sp
+Vino,Anno,Produttore,Regione,Vitigni,Tipologia,Posizione
+Achab,?,Luretta,Emilia (IT),Pinot Nero,Rosso fermo,sp
+Amarone Ca Bianca,2013,Begali,Veneto (IT),Corvina Corvinone Rondinella,Rosso fermo,C1b
+Amarone Classico Riserva Capitel Monte Olmi,2013,Tedeschi,Veneto (IT),Corvina Corvinone Rondinella,Rosso fermo,sp
+Amarone Classico Sant'Urbano,2017,Speri,Veneto (IT),Corvina Corvinone Rondinella,Rosso fermo,C4c
+Amarone della Valpolicella Classico Campo Inferi,2015,Brunelli,Veneto (IT),Corvina Corvinone Rondinella,Rosso fermo,sp
+Amarone Il Bosco,2015,Cesari,Veneto (IT),Corvina - Rondinella,Rosso fermo,C6a
+Barbaresco,2015,Rivetti,Piemonte (IT),Nebbiolo,Rosso fermo,C3a
+Barbaresco,2017,Ceretto,Piemonte (IT),Nebbiolo,Rosso fermo,C5c
+Barbera Vigna Scarrone,2018,Vietti,Piemonte (IT),Barbera,Rosso fermo,C2a
+Barolo,2016,Ceretto,Piemonte (IT),Nebbiolo,Rosso fermo,C3b
+Barolo Castiglione,2017,Vietti,Piemonte (IT),Nebbiolo,Rosso fermo,C5a
+Ben Ryé,2019,Donnafugata,Sicilia (IT),Zibibbo,Bianco passito,sp
+Bianco,?,Cascina Fornace,Emilia (IT),?,Bianco fermo,sp
+Boccadirosa,?,Luretta,Emilia (IT),Malvasia di Candia Aromatica,Bianco fermo,sp
+Bouzy Grand Cru,sa,Herber Beaufort,Champagne (FR),?,Bianco champagne,sp
+Bouzy Grand Cru 2016,2016,Herber Beaufort,Champagne (FR),?,Bianco champagne,sp
+Chiaromonte riserva,2013,Chiaromonte,Puglia (IT),Primitivo,Rosso fermo,C1c
+Chiaromonte Riserva,2014,Chiaromonte,Puglia (IT),Primitivo,Rosso fermo,C4a
+Chiaromonte Rosè,2017,Chiaromonte,Puglia (IT),Pinot nero Primitivo,Rosato spumante,C4b
+Cornalin,2020,Le Clocher,Valle d Aosta (IT),Cornalin,Rosso fermo,C3b
+Gutturnio L'Ala del Drago,?,Luretta,Emilia (IT),Barbera Croatina,Rosso fermo,sp
+"I Nani e Le Ballerine ",?,Luretta,Emilia (IT),Sauvignon blanc,Bianco fermo,sp
+Kimia,2021,Chiaromonte,Puglia (IT),Pinot nero,Rosso fermo,sp
+Maccone Primitivo,2019,Angiuli,Puglia (IT),Primitivo,Rosso fermo,sp
+Maccone Primitivo rosato,2020,Angiuli,Puglia (IT),Primitivo,Rosato fermo,sp
+Maccone Rosso 17,2019,Angiuli,Puglia (IT),Primitivo,Rosso fermo,sp
+Millesime,2013,Mumm,Champagne (FR),Pinot nero Chardonnay,Bianco champagne,C5b
+Monfort Rose,sa,Cantine Monfort,Trentino (IT),?,Rosato spumante,sp
+Muro Sant Angelo Contrada Barbatto,2010,Chiaromonte,Puglia (IT),Primitivo,Rosso fermo,C2b
+Muro Sant Angelo Contrada Barbatto,2017,Chiaromonte,Puglia (IT),Primitivo,Rosso fermo,sp
+Muro Sant Angelo Contrada Barbatto,2014,Chiaromonte,Puglia (IT),Primitivo,Rosso fermo,sp
+Nascetta,2019,Ettore Germano,Piemonte (IT),Nascetta,Bianco fermo in anfora,sp
+Nebbiolo Perbacco,2019,Vietti,Piemonte (IT),Nebbiolo,Rosso fermo,C2c
+Nerimatti,2012,Paolo leo,Puglia (IT),Negramaro,Rosso fermo,C1a
+Pouilly Fume Tonelum,2017,Caves de Pouilly sur Loire,Loira (FR),Sauvignon blanc,Bianco fermo,sp
+Primitivo Contrada Scappagnano,2019,Chiaromonte,Puglia (IT),Primitivo,Rosso fermo,sp
+Ribolla Gialla,2017,Podversic,Friuli (IT),Ribolla Gialla,Bianco fermo in anfora,sp
+Sangue del Diavolo,2017,Ca di Rajo,Veneto (IT),Raboso del Piave,Rosso fermo,sp
+Schneeberger,2017,Steiermark,Austria,"Zeigelt ",Rosso fermo,sp
+Selin Dl Amari,?,Luretta,Emilia (IT),Pinot nero,Spumante metodo classico,sp
+Sorriso di Cielo,?,La Tosa,Emilia (IT),Malvasia di Candia Aromatica,Bianco fermo,sp
+Valpolicella Superiore Maternigo,2016,Tedeschi,Veneto (IT),Corvina Corvinone Rondinella,Rosso fermo,sp
+Vitalba,2019,Tre monti,Romagna (IT),Albana,Bianco fermo in anfora,C6c

@@ -1,8 +1,4 @@
 export function tableSort(){
-  if (window.location.href.indexOf("/cantina") != -1){
-    const totaleVini = document.querySelectorAll('[data-label="Pos."]').length;
-    document.querySelector("#totalevini").innerText = totaleVini;
-  }
   const tableAll = document.querySelectorAll('.sort');
   tableAll.forEach(el =>{
     const headers = el.querySelectorAll('th');
