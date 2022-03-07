@@ -29,10 +29,10 @@ dateCreated: 2022-01-27T15:21:34.303Z
 - Bocconcini di cinghiale
 - Germano reale al forno con polenta
 ## Annate
-- Amarone Classico Riserva Capitel Monte Olmi [2010](vini/Italia/Veneto/Tedeschi/Amarone-Classico-Riserva-La-Fabriseria/2010) -- <span class="star-4"></span> -- 90/100
-- Amarone Classico Riserva Capitel Monte Olmi [2011](vini/Italia/Veneto/Tedeschi/Amarone-Classico-Riserva-La-Fabriseria/2011) -- <span class="star-3"></span> -- 88/100
-- Amarone Classico Riserva Capitel Monte Olmi [2012](vini/Italia/Veneto/Tedeschi/Amarone-Classico-Riserva-La-Fabriseria/2012) -- <span class="star-4"></span> -- 90/100
-- Amarone Classico Riserva Capitel Monte Olmi [2013](vini/Italia/Veneto/Tedeschi/Amarone-Classico-Riserva-La-Fabriseria/2013) -- <span class="star-4"></span> -- 90/100
-- Amarone Classico Riserva Capitel Monte Olmi [2015](vini/Italia/Veneto/Tedeschi/Amarone-Classico-Riserva-La-Fabriseria/2015) -- <span class="star-4"></span> -- 90/100
+- Amarone Classico Riserva Capitel Monte Olmi [2010](vini/Italia/Veneto/Tedeschi/Amarone-Classico-Riserva-Capitel-Monte-Olmi/2010) -- <span class="star-4"></span> -- 90/100
+- Amarone Classico Riserva Capitel Monte Olmi [2011](vini/Italia/Veneto/Tedeschi/Amarone-Classico-Riserva-Capitel-Monte-Olmi/2011) -- <span class="star-3"></span> -- 88/100
+- Amarone Classico Riserva Capitel Monte Olmi [2012](vini/Italia/Veneto/Tedeschi/Amarone-Classico-Riserva-Capitel-Monte-Olmi/2012) -- <span class="star-4"></span> -- 90/100
+- Amarone Classico Riserva Capitel Monte Olmi [2013](vini/Italia/Veneto/Tedeschi/Amarone-Classico-Riserva-Capitel-Monte-Olmi/2013) -- <span class="star-4"></span> -- 90/100
+- Amarone Classico Riserva Capitel Monte Olmi [2015](vini/Italia/Veneto/Tedeschi/Amarone-Classico-Riserva-Capitel-Monte-Olmi/2015) -- <span class="star-4"></span> -- 90/100
 
 

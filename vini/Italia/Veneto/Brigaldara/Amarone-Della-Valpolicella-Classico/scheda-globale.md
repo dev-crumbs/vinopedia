@@ -3,7 +3,7 @@ title: Amarone della Valpolicella Classico – Amarone della Valpolicella Classi
 description: Corvina 45% + Corvinone 45% + Rondinella 10% | Carré di cervo – Arrosto misto di cacciagione – Monte veronese stagionato
 published: true
 date: 2022-01-28T17:14:37.370Z
-tags: Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Prezzi | 35-39€, Vitigni | Corvina, Vitigni | Rondinella, Vitigni | Corvinone, Alimento | cervo, Alimento-dettagli | Carré, Alimento | formaggi, Alimento-dettagli | Monte Veronese stagionato
+tags: Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Prezzi | 35-39€, Vitigni | Corvina, Vitigni | Rondinella, Vitigni | Corvinone, Alimento | cervo, Alimento-dettagli | Carré, Alimento | Formaggi - Monte Veronese stagionato
 editor: markdown
 dateCreated: 2022-01-27T15:21:34.303Z
 ---
