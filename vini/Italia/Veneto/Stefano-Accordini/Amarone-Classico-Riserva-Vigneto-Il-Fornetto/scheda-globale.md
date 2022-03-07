@@ -28,11 +28,12 @@ dateCreated: 2022-01-27T15:21:34.303Z
 - Spiedo di beccacce 
 - Sella di capriolo ai mirtilli
 - Monte veronese stagionato
-- 
 ## Annate
 - Amarone Classico Riserva Vigneto Il Fornetto [2010](vini/Italia/Veneto/Stefano-Accordini/Amarone-Classico-Riserva-Vigneto-Il-Fornetto/2010) -- <span class="star-5"></span> -- 92/100
 - Amarone Classico Riserva Vigneto Il Fornetto [2011](vini/Italia/Veneto/Stefano-Accordini/Amarone-Classico-Riserva-Vigneto-Il-Fornetto/2011) -- <span class="star-4"></span> -- 89/100
 - Amarone Classico Riserva Vigneto Il Fornetto [2012](vini/Italia/Veneto/Stefano-Accordini/Amarone-Classico-Riserva-Vigneto-Il-Fornetto/2012) -- <span class="star-4"></span> -- 90/100
 - Amarone Classico Riserva Vigneto Il Fornetto [2015](vini/Italia/Veneto/Stefano-Accordini/Amarone-Classico-Riserva-Vigneto-Il-Fornetto/2015) -- <span class="star-5"></span> -- 91/100
 
+## Note
 
+La menzione aggiuntiva "Riserva" è stata aggiunta a partire dall'annata 2011.

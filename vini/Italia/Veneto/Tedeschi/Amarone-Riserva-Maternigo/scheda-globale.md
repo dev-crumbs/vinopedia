@@ -1,9 +1,9 @@
 ---
-title: Amarone Riserva Maternigo – Amarone della Valpolicella Riserva DOCG – Tedeschi – Veneto (IT) – 125-150€ – 5★
+title: Amarone Riserva Maternigo – Amarone della Valpolicella Riserva DOCG – Tedeschi – Veneto (IT) – 125-149€ – 5★
 description: Corvina 40% + Rondinella 20% + Corvinone 40% | Brasato di lepre
 published: true
 date: 2022-01-28T17:14:37.370Z
-tags: Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Prezzi | 125-150€, Vitigni | Corvina, Vitigni | Rondinella, Vitigni | Corvinone, Alimento | lepre, Cottura | brasato
+tags: Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Prezzi | 125-149€, Vitigni | Corvina, Vitigni | Rondinella, Vitigni | Corvinone, Alimento | lepre, Cottura | brasato
 editor: markdown
 dateCreated: 2022-01-27T15:21:34.303Z
 ---
@@ -18,7 +18,7 @@ dateCreated: 2022-01-27T15:21:34.303Z
 - **Composizione:** 40% [Corvina](/vitigni/Italia/bacca-nera/corvina) + 20% [Rondinella](/vitigni/Italia/bacca-nera/rondinella) + 40% [Corvinone](/vitigni/Italia/bacca-nera/corvinone)
 - **Affinamento:** 48 mesi in botte grande
 - **Alcol:** 17.5%
-- **Fascia di prezzo:** 125-150€
+- **Fascia di prezzo:** 125-149€
 {.grid-list}
 
 ## Possibili abbinamenti
