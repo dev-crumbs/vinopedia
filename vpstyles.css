@@ -377,6 +377,7 @@ table.summary-table td:nth-child(1n+4) {text-align: right;}
 .search-results-container .caption.grey--text {
   display: none
 }
+/*Hides language*/
 .v-list-item__action {
   display: none!important
 }
