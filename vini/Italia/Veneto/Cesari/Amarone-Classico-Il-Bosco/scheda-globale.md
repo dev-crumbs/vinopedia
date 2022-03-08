@@ -3,7 +3,7 @@ title: Amarone Classico Il Bosco – Amarone della Valpolicella Classico DOCG �
 description: Corvina 80% + Rondinella 20% | Germano all'Amarone – Agnello al forno con rosmarino – Spezzatino di cervo al Ginepro – Cosciotto di capretto al rosmarino
 published: true
 date: 2022-01-15T22:17:16.730Z
-tags: Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Corvina, Prezzi | 45-49€, Vitigni | Rondinella, Germano all'Amarone, Alimento | agnello, Cottura | al forno, Aromatizzazione | al rosmarino, Spezzatino di cervo al Ginepro, Cosciotto di capretto al rosmarino, Valutazioni | 3 stelle
+tags: Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Vitigni | Corvina, Prezzi | 45-49€, Vitigni | Rondinella,  Valutazioni | 3 stelle, Alimento | germano, Alimento | agnello, Alimento | cervo, Alimento | capretto, Cottura | al forno, Aromatizzazione | al rosmarino, Aromatizzazione | al vino, Aromatizzazione | al ginepro
 editor: markdown
 dateCreated: 2022-01-15T21:40:12.066Z
 ---

@@ -7,6 +7,7 @@ import { denominazioneSummaryTable } from './it/js/denominazione-summary-table.j
 import { denominazioneTableFilter } from './it/js/table-filter.js';
 import { cantinaTableIn } from './it/js/cantina-table.js';
 import { cantinaTableOut } from './it/js/cantina-table.js';
+import { firstWordBold } from './it/js/vitigni-first-word-bold.js';
 
 window.addEventListener("load", function(){
   // custom label for search field
@@ -35,5 +36,9 @@ window.addEventListener("load", function(){
     cantinaTableOut()
     denominazioneTableFilter()
     setTimeout(tableSort, 1000) 
+  }
+  // vitigni first word bold
+  if (window.location.href.indexOf("/vitigni/") != -1){
+    firstWordBold()
   }
 })

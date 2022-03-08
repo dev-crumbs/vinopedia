@@ -370,6 +370,11 @@ table.summary-table td:nth-child(1n+4) {text-align: right;}
     display: none!important
   }
 }
+/*first word bold description vitigni*/
+.description-bold {
+  font-weight: 900;
+}
+
 .v-list-item__subtitle.caption,
 .v-list-item__title {
   white-space: normal!important
