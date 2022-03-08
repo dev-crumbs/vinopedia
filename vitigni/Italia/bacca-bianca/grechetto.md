@@ -1,6 +1,6 @@
 ---
 title: Grechetto
-description: "Grechetto" è un sinonimo di "Grechetto di Orvieto"
+description: Vitigno | "Grechetto" è un sinonimo di "Grechetto di Orvieto"
 published: true
 date: 2021-09-07T05:19:22.078Z
 tags: 

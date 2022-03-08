@@ -1,6 +1,6 @@
 ---
 title: Roter Veltliner
-description: Antica varietà austriaca che produce un potente vino bianco.
+description: Vitigno | Antica varietà austriaca che produce un potente vino bianco.
 published: true
 date: 2021-09-06T15:06:54.178Z
 tags: 

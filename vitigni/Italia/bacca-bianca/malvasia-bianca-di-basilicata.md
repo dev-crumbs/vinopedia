@@ -1,6 +1,6 @@
 ---
 title: Malvasia bianca di Basilicata
-description: La malvasia esclusiva della Basilicata
+description: Vitigno | La malvasia esclusiva della Basilicata
 published: true
 date: 2021-09-06T14:49:07.797Z
 tags: 

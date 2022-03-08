@@ -1,6 +1,6 @@
 ---
 title: Enantio
-description: Nome ufficiale abbastanza recente per una varietà trentina un tempo chiamata Lambrusco a Foglia Frastagliata.
+description: Vitigno | Nome ufficiale abbastanza recente per una varietà trentina un tempo chiamata Lambrusco a Foglia Frastagliata.
 published: true
 date: 2021-09-06T15:35:12.567Z
 tags: 

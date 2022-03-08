@@ -1,6 +1,6 @@
 ---
 title: Greco Nero Di Verbicaro
-description: Un altro distinto Greco Nero calabrese
+description: Vitigno | Un altro distinto Greco Nero calabrese
 published: true
 date: 2021-09-06T14:51:31.361Z
 tags: 

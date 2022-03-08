@@ -1,6 +1,6 @@
 ---
 title: Gamay Noir
-description: Vitigno della Borgogna utilizzato principalmente per produrre vini da consumare giovani
+description: Vitigno | Vitigno della Borgogna utilizzato principalmente per produrre vini da consumare giovani
 published: true
 date: 2021-09-06T14:47:52.595Z
 tags: 

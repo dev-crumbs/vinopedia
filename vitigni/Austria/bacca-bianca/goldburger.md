@@ -1,6 +1,6 @@
 ---
 title: Goldburger
-description: Incrocio austriaco usato principalmente per vini dolci
+description: Vitigno | Incrocio austriaco usato principalmente per vini dolci
 published: true
 date: 2021-09-06T15:06:40.357Z
 tags: 

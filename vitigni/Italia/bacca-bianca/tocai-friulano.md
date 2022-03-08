@@ -1,6 +1,6 @@
 ---
 title: Tocai friulano
-description: "Tocai friulano" è un sinonimo per "Sauvignonasse"
+description: Vitigno | "Tocai friulano" è un sinonimo per "Sauvignonasse"
 published: true
 date: 2021-09-06T16:46:16.879Z
 tags: 

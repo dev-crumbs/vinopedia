@@ -1,6 +1,6 @@
 ---
 title: Durella
-description: Produce bianchi veneti acidi e di corpo debole.
+description: Vitigno | Produce bianchi veneti acidi e di corpo debole.
 published: true
 date: 2021-09-06T14:48:53.182Z
 tags: 

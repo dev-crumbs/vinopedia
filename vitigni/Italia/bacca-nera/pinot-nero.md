@@ -1,6 +1,6 @@
 ---
 title: Pinot nero
-description: "Pinot nero" è un sinonimo di "Pinot Noir".
+description: Vitigno | "Pinot nero" è un sinonimo di "Pinot Noir".
 published: true
 date: 2021-09-06T16:36:37.580Z
 tags: 

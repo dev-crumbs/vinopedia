@@ -1,6 +1,6 @@
 ---
 title: Petit Manseng
-description: Varietà di alta qualità che produce superbi vini dolci nel sud-ovest della Francia.
+description: Vitigno | Varietà di alta qualità che produce superbi vini dolci nel sud-ovest della Francia.
 published: true
 date: 2022-02-15T16:59:32.221Z
 tags: 

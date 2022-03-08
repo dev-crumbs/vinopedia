@@ -1,6 +1,6 @@
 ---
 title: Lambrusco Salamino
-description: La più diffusa delle varietà di Lambrusco, produce i vini più ricchi di corpo e sostanza.
+description: Vitigno | La più diffusa delle varietà di Lambrusco, produce i vini più ricchi di corpo e sostanza.
 published: true
 date: 2021-09-06T14:52:00.424Z
 tags: 

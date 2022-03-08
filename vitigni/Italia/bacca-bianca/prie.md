@@ -1,6 +1,6 @@
 ---
 title: Prié
-description: Varietà aostana molto importante con legami con la Spagna e la Svizzera.
+description: Vitigno | Varietà aostana molto importante con legami con la Spagna e la Svizzera.
 published: true
 date: 2022-01-14T19:42:44.956Z
 tags: vitigno

@@ -1,6 +1,6 @@
 ---
 title: Pignoletto
-description: Varietà leggera e rinfrescante abbastanza diffusa nelle colline bolognesi e in Umbria.
+description: Vitigno | Varietà leggera e rinfrescante abbastanza diffusa nelle colline bolognesi e in Umbria.
 published: true
 date: 2021-09-06T14:49:41.743Z
 tags: 

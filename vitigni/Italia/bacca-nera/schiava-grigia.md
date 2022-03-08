@@ -1,6 +1,6 @@
 ---
 title: Schiava grigia
-description: Membro del gruppo delle varietà di Schiava dell'Alto Adige con una particolare colorazione bluastra.
+description: Vitigno | Membro del gruppo delle varietà di Schiava dell'Alto Adige con una particolare colorazione bluastra.
 published: true
 date: 2022-01-11T13:53:46.585Z
 tags: vitigno

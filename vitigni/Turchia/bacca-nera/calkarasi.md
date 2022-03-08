@@ -1,6 +1,6 @@
 ---
 title: Çalkarasi
-description: Produce vini rossi e rosati leggeri e freschi nel sud-ovest della Turchia.
+description: Vitigno | Produce vini rossi e rosati leggeri e freschi nel sud-ovest della Turchia.
 published: true
 date: 2021-09-06T09:47:36.691Z
 tags: 

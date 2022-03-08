@@ -1,6 +1,6 @@
 ---
 title: Picolit
-description: Antico friulano che produce piccole quantità di vini dolci molto apprezzati
+description: Vitigno | Antico friulano che produce piccole quantità di vini dolci molto apprezzati
 published: true
 date: 2021-09-06T09:41:21.775Z
 tags: 

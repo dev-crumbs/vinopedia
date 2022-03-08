@@ -1,6 +1,6 @@
 ---
 title: Trebbiano spoletino
-description: Umbro salvato di recente capace di una qualità migliore, e più corpo, della maggior parte dei Trebbiano.
+description: Vitigno | Umbro salvato di recente capace di una qualità migliore, e più corpo, della maggior parte dei Trebbiano.
 published: true
 date: 2021-09-06T14:49:58.969Z
 tags: 

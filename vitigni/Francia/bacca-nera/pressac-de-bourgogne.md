@@ -1,6 +1,6 @@
 ---
 title: Pressac de Bourgogne
-description: "Pressac de Bourgogne" è un sinonimo.
+description: Vitigno | "Pressac de Bourgogne" è un sinonimo.
 published: true
 date: 2021-08-02T17:17:35.626Z
 tags: 

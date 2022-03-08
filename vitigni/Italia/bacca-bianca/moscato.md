@@ -1,6 +1,6 @@
 ---
 title: Moscato
-description: "Moscato" è un sinonimo di "Muscat"
+description: Vitigno | "Moscato" è un sinonimo di "Muscat"
 published: true
 date: 2021-09-06T17:15:15.500Z
 tags: 

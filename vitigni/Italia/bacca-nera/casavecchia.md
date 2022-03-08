@@ -1,6 +1,6 @@
 ---
 title: Casavecchia
-description: Antico vitigno autoctono della Campania, riscoperto in tempi recenti
+description: Vitigno | Antico vitigno autoctono della Campania, riscoperto in tempi recenti
 published: true
 date: 2021-09-06T14:50:47.805Z
 tags: 

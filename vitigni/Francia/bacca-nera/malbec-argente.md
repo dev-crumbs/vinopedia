@@ -1,6 +1,6 @@
 ---
 title: Malbec Argenté
-description: "Malbec Argenté" è un sinonimo.
+description: Vitigno | "Malbec Argenté" è un sinonimo.
 published: true
 date: 2021-09-04T12:56:14.073Z
 tags: 

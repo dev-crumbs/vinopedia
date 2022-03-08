@@ -1,6 +1,6 @@
 ---
 title: Landal
-description: Ibrido francese in calo di popolarità e resistente alle malattie.
+description: Vitigno | Ibrido francese in calo di popolarità e resistente alle malattie.
 published: true
 date: 2021-09-06T09:39:20.975Z
 tags: 

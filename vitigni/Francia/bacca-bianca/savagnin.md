@@ -1,6 +1,6 @@
 ---
 title: Savagnin
-description: Antica varietà dalle numerose mutazioni
+description: Vitigno | Antica varietà dalle numerose mutazioni
 published: true
 date: 2021-09-06T15:08:20.429Z
 tags: , bacca bianca

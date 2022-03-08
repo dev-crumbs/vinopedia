@@ -1,6 +1,6 @@
 ---
 title: Müller-Thurgau
-description: Prolifico vitigno tedesco diffuso in tutto il mondo che produce bianchi morbidi e semi-aromatici in sovrabbondanza
+description: Vitigno | Prolifico vitigno tedesco diffuso in tutto il mondo che produce bianchi morbidi e semi-aromatici in sovrabbondanza
 published: true
 date: 2021-09-06T14:54:05.874Z
 tags: 

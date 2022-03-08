@@ -1,6 +1,6 @@
 ---
 title: Chardonnay
-description: Varietà bianca internazionale molto popolare, versatile e ampiamente piantata, ugualmente capace di mediocrità estrema e di splendore regale.
+description: Vitigno | Varietà bianca internazionale molto popolare, versatile e ampiamente piantata, ugualmente capace di mediocrità estrema e di splendore regale.
 published: true
 date: 2021-09-06T15:07:44.012Z
 tags: 

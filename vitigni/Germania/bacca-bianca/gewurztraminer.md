@@ -1,6 +1,6 @@
 ---
 title: Gewürztraminer
-description: Uno dei vitigni più inebrianti e distintamente aromatici, con forti sapori di litchi e alti livelli di alcol.
+description: Vitigno | Uno dei vitigni più inebrianti e distintamente aromatici, con forti sapori di litchi e alti livelli di alcol.
 published: true
 date: 2021-09-06T09:39:51.780Z
 tags: 

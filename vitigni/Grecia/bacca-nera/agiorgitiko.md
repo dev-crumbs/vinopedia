@@ -1,6 +1,6 @@
 ---
 title: Agiorgitiko
-description: La varietà a bacca nera più piantata in Grecia, capace sia di grandi volumi che di alta qualità e di un'ampia gamma di stili.
+description: Vitigno | La varietà a bacca nera più piantata in Grecia, capace sia di grandi volumi che di alta qualità e di un'ampia gamma di stili.
 published: true
 date: 2021-09-06T14:48:33.458Z
 tags: 

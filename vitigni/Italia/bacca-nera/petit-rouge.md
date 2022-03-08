@@ -1,6 +1,6 @@
 ---
 title: Petit rouge
-description: Antico aostano dalla pelle scura che produce vini speziati e dal sapore di ribes rosso.
+description: Vitigno | Antico aostano dalla pelle scura che produce vini speziati e dal sapore di ribes rosso.
 published: true
 date: 2021-09-06T16:35:43.264Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Lambruschetto
-description: Varietà antica e molto localizzata che suscita interesse attuale in Piemonte
+description: Vitigno | Varietà antica e molto localizzata che suscita interesse attuale in Piemonte
 published: true
 date: 2021-09-06T14:51:42.991Z
 tags: 

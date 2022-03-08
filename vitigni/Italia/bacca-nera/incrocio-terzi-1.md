@@ -1,6 +1,6 @@
 ---
 title: Incrocio Terzi 1
-description: Incrocio lombardo minore che scompare nei blend
+description: Vitigno | Incrocio lombardo minore che scompare nei blend
 published: true
 date: 2021-09-06T09:43:30.773Z
 tags: 

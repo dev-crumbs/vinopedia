@@ -1,6 +1,6 @@
 ---
 title: Rimava
-description: Recente incrocio autorizzato in Slovacchia
+description: Vitigno | Recente incrocio autorizzato in Slovacchia
 published: true
 date: 2021-09-06T14:53:14.516Z
 tags: 

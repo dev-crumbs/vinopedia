@@ -1,6 +1,6 @@
 ---
 title: Mammolo
-description: Minore ma storicamente significativo profumato partner di assemblaggio del Sangiovese dell'Italia centrale, più importante sull'isola francese di Corsica, come Sciaccarello
+description: Vitigno | Minore ma storicamente significativo profumato partner di assemblaggio del Sangiovese dell'Italia centrale, più importante sull'isola francese di Corsica, come Sciaccarello
 published: true
 date: 2021-09-26T14:54:17.290Z
 tags: 

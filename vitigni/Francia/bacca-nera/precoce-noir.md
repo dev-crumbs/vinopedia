@@ -1,6 +1,6 @@
 ---
 title: Précoce Noir
-description: "Précoce Noir " è un sinonimo.
+description: Vitigno | "Précoce Noir " è un sinonimo.
 published: true
 date: 2021-08-02T17:16:37.359Z
 tags: 

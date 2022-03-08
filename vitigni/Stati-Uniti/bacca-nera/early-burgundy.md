@@ -1,6 +1,6 @@
 ---
 title: Early Burgundy
-description: "Early Burgundy" è un sinonimo.
+description: Vitigno | "Early Burgundy" è un sinonimo.
 published: true
 date: 2021-08-02T17:00:03.012Z
 tags: 

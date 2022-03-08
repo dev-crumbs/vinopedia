@@ -1,6 +1,6 @@
 ---
 title: Ugni Blanc
-description: "Ugni Blanc" è un sinonimo di "Trebbiano toscano"
+description: Vitigno | "Ugni Blanc" è un sinonimo di "Trebbiano toscano"
 published: true
 date: 2021-08-21T14:55:10.578Z
 tags: 

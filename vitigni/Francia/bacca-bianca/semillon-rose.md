@@ -1,6 +1,6 @@
 ---
 title: Sémillon Rose
-description: Mutazione di colore del Sémillon
+description: Vitigno | Mutazione di colore del Sémillon
 published: true
 date: 2021-09-06T15:08:25.989Z
 tags: 

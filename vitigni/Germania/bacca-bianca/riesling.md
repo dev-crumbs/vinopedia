@@ -1,6 +1,6 @@
 ---
 title: Riesling
-description: Una delle più grandi uve da vino bianco del mondo, capace di produrre vini particolarmente espressivi e longevi in tutte le gradazioni di dolcezza
+description: Vitigno | Una delle più grandi uve da vino bianco del mondo, capace di produrre vini particolarmente espressivi e longevi in tutte le gradazioni di dolcezza
 published: true
 date: 2021-09-30T15:48:35.797Z
 tags: 

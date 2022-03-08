@@ -1,6 +1,6 @@
 ---
 title: Schiava
-description: Famiglia di vitigni italiani della regione alpina
+description: Vitigno | Famiglia di vitigni italiani della regione alpina
 published: true
 date: 2022-01-11T13:22:50.430Z
 tags: vitigno

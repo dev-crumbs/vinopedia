@@ -1,6 +1,6 @@
 ---
 title: Lambrusco Maestri
-description: Uno dei Lambruschi minori, di Parma, che produce vini piuttosto rustici.
+description: Vitigno | Uno dei Lambruschi minori, di Parma, che produce vini piuttosto rustici.
 published: true
 date: 2021-09-06T14:51:51.795Z
 tags: 

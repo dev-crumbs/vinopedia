@@ -1,6 +1,6 @@
 ---
 title: Nitranka
-description: Incrocio slovacca autorizzata di recente e sempre più popolare.
+description: Vitigno | Incrocio slovacca autorizzata di recente e sempre più popolare.
 published: true
 date: 2021-09-06T14:53:46.622Z
 tags: 

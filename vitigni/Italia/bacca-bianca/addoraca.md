@@ -1,6 +1,6 @@
 ---
 title: Addoraca
-description: Bianco calabrese estremamente raro che contribuisce ad un altrettanto raro vino da dessert.
+description: Vitigno | Bianco calabrese estremamente raro che contribuisce ad un altrettanto raro vino da dessert.
 published: true
 date: 2021-09-06T14:48:35.985Z
 tags: 

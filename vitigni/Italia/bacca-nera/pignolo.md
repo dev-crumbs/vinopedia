@@ -1,6 +1,6 @@
 ---
 title: Pignolo
-description: Vitigno raro e salvato di recente che mostra un ottimo potenziale in Friuli.
+description: Vitigno | Vitigno raro e salvato di recente che mostra un ottimo potenziale in Friuli.
 published: true
 date: 2021-09-06T14:53:03.772Z
 tags: 

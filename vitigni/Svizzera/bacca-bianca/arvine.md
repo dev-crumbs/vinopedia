@@ -1,6 +1,6 @@
 ---
 title: Arvine
-description: Bianco italiano produttivo che si trova principalmente nel sud e si distingue solo raramente.
+description: Vitigno | Bianco italiano produttivo che si trova principalmente nel sud e si distingue solo raramente.
 published: true
 date: 2021-09-06T09:47:26.369Z
 tags: 

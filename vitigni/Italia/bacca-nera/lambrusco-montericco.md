@@ -1,6 +1,6 @@
 ---
 title: Lambrusco Montericco
-description: Varietà minore di Lambrusco
+description: Vitigno | Varietà minore di Lambrusco
 published: true
 date: 2021-09-06T09:44:08.197Z
 tags: 

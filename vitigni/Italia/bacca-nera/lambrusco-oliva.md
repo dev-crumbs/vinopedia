@@ -1,6 +1,6 @@
 ---
 title: Lambrusco Oliva
-description: Varietà di Lambrusco relativamente minore, occasionalmente amara
+description: Vitigno | Varietà di Lambrusco relativamente minore, occasionalmente amara
 published: true
 date: 2021-09-06T14:51:57.590Z
 tags: 

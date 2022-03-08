@@ -1,6 +1,6 @@
 ---
 title: Lambrusco di Santa Croce
-description: "Lambrusco di Santa Croce" è un sinonimo.
+description: Vitigno | "Lambrusco di Santa Croce" è un sinonimo.
 published: true
 date: 2021-09-06T16:41:47.269Z
 tags: 

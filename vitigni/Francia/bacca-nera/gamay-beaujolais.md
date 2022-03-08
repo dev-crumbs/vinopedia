@@ -1,6 +1,6 @@
 ---
 title: Gamay Beaujolais
-description: "Gamay Beaujolais" è un sinonimo.
+description: Vitigno | "Gamay Beaujolais" è un sinonimo.
 published: true
 date: 2021-08-02T17:02:16.557Z
 tags: 

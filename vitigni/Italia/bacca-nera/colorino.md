@@ -1,6 +1,6 @@
 ---
 title: Colorino
-description: "Colorino" è un sinonimo di "Colorino del Valdarno
+description: Vitigno | "Colorino" è un sinonimo di "Colorino del Valdarno
 published: true
 date: 2021-09-07T16:26:36.674Z
 tags: 

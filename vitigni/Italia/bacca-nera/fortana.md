@@ -1,6 +1,6 @@
 ---
 title: Fortana
-description: Rosso italiano a maturazione tardiva e declinante, apprezzato per le sue alte rese.
+description: Vitigno | Rosso italiano a maturazione tardiva e declinante, apprezzato per le sue alte rese.
 published: true
 date: 2022-01-09T08:51:25.344Z
 tags: vitigno

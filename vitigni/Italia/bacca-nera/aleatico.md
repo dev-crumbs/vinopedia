@@ -1,6 +1,6 @@
 ---
 title: Aleatico
-description: Rosso italiano insolitamente profumato e simile al moscato.
+description: Vitigno | Rosso italiano insolitamente profumato e simile al moscato.
 published: true
 date: 2021-09-06T14:50:31.090Z
 tags: 

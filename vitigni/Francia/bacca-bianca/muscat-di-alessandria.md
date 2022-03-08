@@ -1,6 +1,6 @@
 ---
 title: Moscato di Alessandria
-description: Varietà mediterranea dalla buccia chiara generalmente considerata inferiore al Muscat Blanc à Petits Grains, usata soprattutto per produrre vini molto dolci.
+description: Vitigno | Varietà mediterranea dalla buccia chiara generalmente considerata inferiore al Muscat Blanc à Petits Grains, usata soprattutto per produrre vini molto dolci.
 published: true
 date: 2021-09-06T15:07:52.745Z
 tags: 

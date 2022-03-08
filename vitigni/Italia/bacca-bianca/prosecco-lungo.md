@@ -1,6 +1,6 @@
 ---
 title: Prosecco lungo
-description: L'uva Prosecco più speziata e meno comune.
+description: Vitigno | L'uva Prosecco più speziata e meno comune.
 published: true
 date: 2021-09-24T15:17:14.228Z
 tags: 

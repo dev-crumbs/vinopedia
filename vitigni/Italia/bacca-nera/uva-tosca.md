@@ -1,6 +1,6 @@
 ---
 title: Uva Tosca
-description: Varietà emiliana minore, utilizzata prevalentemente in blend
+description: Vitigno | Varietà emiliana minore, utilizzata prevalentemente in blend
 published: true
 date: 2022-01-09T08:16:47.167Z
 tags: vitigno

@@ -1,6 +1,6 @@
 ---
 title: Freisa
-description: Leggero, fragrante, insolito parente del Nebbiolo, fatto in un'ampia gamma di stili, incluso lo spumante
+description: Vitigno | Leggero, fragrante, insolito parente del Nebbiolo, fatto in un'ampia gamma di stili, incluso lo spumante
 published: true
 date: 2021-09-06T14:51:20.326Z
 tags: 

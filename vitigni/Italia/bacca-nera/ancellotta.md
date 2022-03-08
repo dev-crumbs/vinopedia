@@ -1,6 +1,6 @@
 ---
 title: Ancellotta
-description: Utile ingrediente per blend dal colore intenso, apprezzato più per il colore, i tannini e l'acidità che per il suo sapore.
+description: Vitigno | Utile ingrediente per blend dal colore intenso, apprezzato più per il colore, i tannini e l'acidità che per il suo sapore.
 published: true
 date: 2021-09-06T14:50:33.542Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Malvasia del Lazio
-description: Fratello del Moscato di Amburgo, produce vini vinosi.
+description: Vitigno | Fratello del Moscato di Amburgo, produce vini vinosi.
 published: true
 date: 2021-09-06T14:49:19.234Z
 tags: 

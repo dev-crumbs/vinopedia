@@ -1,6 +1,6 @@
 ---
 title: Garnacha Roja
-description: Mutazione grigia della Garnacha, profumato e corposo.
+description: Vitigno | Mutazione grigia della Garnacha, profumato e corposo.
 published: true
 date: 2021-09-26T14:54:25.882Z
 tags: 

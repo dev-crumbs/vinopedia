@@ -1,6 +1,6 @@
 ---
 title: Dindarella
-description: Rara varietà veneta dalla buccia scura che ben si adatta a stili di vino da uve appassite.
+description: Vitigno | Rara varietà veneta dalla buccia scura che ben si adatta a stili di vino da uve appassite.
 published: true
 date: 2022-03-04T21:11:24.893Z
 tags: 

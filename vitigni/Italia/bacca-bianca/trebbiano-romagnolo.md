@@ -1,6 +1,6 @@
 ---
 title: Trebbiano romagnolo
-description: Il Trebbiano emiliano-romagnolo ampiamente coltivato ma non particolarmente distinto.
+description: Vitigno | Il Trebbiano emiliano-romagnolo ampiamente coltivato ma non particolarmente distinto.
 published: true
 date: 2021-09-06T14:49:56.171Z
 tags: 

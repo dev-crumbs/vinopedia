@@ -1,6 +1,6 @@
 ---
 title: Verdea
-description:  Antico bianco toscano, ora specialità lombarda, vinificato in diversi stili.
+description: Vitigno |  Antico bianco toscano, ora specialità lombarda, vinificato in diversi stili.
 published: true
 date: 2022-02-10T06:49:57.443Z
 tags: 

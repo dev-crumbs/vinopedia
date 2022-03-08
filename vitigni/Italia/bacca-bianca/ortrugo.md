@@ -1,6 +1,6 @@
 ---
 title: Ortrugo
-description: Vitigno emiliano spesso in blend con la Malvasia più aromatica.
+description: Vitigno | Vitigno emiliano spesso in blend con la Malvasia più aromatica.
 published: true
 date: 2021-09-06T14:49:38.714Z
 tags: 

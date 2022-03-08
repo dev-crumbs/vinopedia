@@ -1,6 +1,6 @@
 ---
 title: Trebbiano di Lugana
-description: "Trebbiano di Lugana" è un sinonimo di "Verdicchio bianco".
+description: Vitigno | "Trebbiano di Lugana" è un sinonimo di "Verdicchio bianco".
 published: true
 date: 2021-09-06T16:49:47.335Z
 tags: 

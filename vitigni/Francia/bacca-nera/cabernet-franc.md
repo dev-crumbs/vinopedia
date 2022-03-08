@@ -1,6 +1,6 @@
 ---
 title: Cabernet Franc
-description: Genitore fragrante e ben strutturato di Cabernet Sauvignon che brilla nella Loira e nei blend di Bordeaux.
+description: Vitigno | Genitore fragrante e ben strutturato di Cabernet Sauvignon che brilla nella Loira e nei blend di Bordeaux.
 published: true
 date: 2021-09-26T14:54:04.351Z
 tags: 

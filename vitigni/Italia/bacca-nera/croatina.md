@@ -1,6 +1,6 @@
 ---
 title: Croatina
-description: Una varietà fruttata a buccia scura coltivata in diverse aree dell'Italia settentrionale e usata sia da sola che in blend.
+description: Vitigno | Una varietà fruttata a buccia scura coltivata in diverse aree dell'Italia settentrionale e usata sia da sola che in blend.
 published: true
 date: 2021-09-06T14:51:08.646Z
 tags: 

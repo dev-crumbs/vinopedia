@@ -1,6 +1,6 @@
 ---
 title: Prunesta
-description: Vitigno calabrese poco noto, usato principalmente in blend
+description: Vitigno | Vitigno calabrese poco noto, usato principalmente in blend
 published: true
 date: 2021-09-06T14:53:09.609Z
 tags: 

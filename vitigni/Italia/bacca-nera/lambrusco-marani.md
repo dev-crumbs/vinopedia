@@ -1,6 +1,6 @@
 ---
 title: Lambrusco Marani
-description: Secondo vitigno più piantato tra i Lambruschi, produce vini molto colorati
+description: Vitigno | Secondo vitigno più piantato tra i Lambruschi, produce vini molto colorati
 published: true
 date: 2021-09-06T14:51:54.665Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Colorino del Valdarno
-description: Rara varietà toscana dalla pelle scura, spesso confusa con altre chiamate "Colorine". Particolarmente utile per aggiungere colore ai blend.
+description: Vitigno | Rara varietà toscana dalla pelle scura, spesso confusa con altre chiamate "Colorine". Particolarmente utile per aggiungere colore ai blend.
 published: true
 date: 2021-09-06T14:50:53.868Z
 tags: vitigno

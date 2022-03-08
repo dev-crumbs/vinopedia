@@ -1,6 +1,6 @@
 ---
 title: Fenile
-description:  Vitigno bianco minore della costiera almafitana nell'Italia meridionale.
+description: Vitigno |  Vitigno bianco minore della costiera almafitana nell'Italia meridionale.
 published: true
 date: 2021-09-07T17:55:19.221Z
 tags: 

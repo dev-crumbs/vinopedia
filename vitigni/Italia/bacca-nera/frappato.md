@@ -1,6 +1,6 @@
 ---
 title: Frappato
-description: Fruttato, fresco e floreale siciliano spesso in blend con Nero d'Avola.
+description: Vitigno | Fruttato, fresco e floreale siciliano spesso in blend con Nero d'Avola.
 published: true
 date: 2021-09-06T14:51:17.483Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Canaiolo nero
-description: Rosso morbidoe  corposo dell'Italia centrale, usato principalmente per completare il Sangiovese.
+description: Vitigno | Rosso morbidoe  corposo dell'Italia centrale, usato principalmente per completare il Sangiovese.
 published: true
 date: 2021-09-07T16:27:00.858Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Mantonico bianco
-description: Vitigno minore calabrese
+description: Vitigno | Vitigno minore calabrese
 published: true
 date: 2021-09-08T09:46:34.678Z
 tags: 

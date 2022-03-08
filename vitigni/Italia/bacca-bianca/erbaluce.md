@@ -1,6 +1,6 @@
 ---
 title: Erbaluce
-description: Varietà bianca minore piemontese, produce vini dolci caratteristici.
+description: Vitigno | Varietà bianca minore piemontese, produce vini dolci caratteristici.
 published: true
 date: 2021-09-28T14:25:16.834Z
 tags: 

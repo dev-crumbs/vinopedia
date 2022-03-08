@@ -1,6 +1,6 @@
 ---
 title: Ráthay
-description: Raro ibrido austriaco resistente alle malattie che produce vini da bere giovani.
+description: Vitigno | Raro ibrido austriaco resistente alle malattie che produce vini da bere giovani.
 published: true
 date: 2021-09-06T15:07:12.814Z
 tags: 

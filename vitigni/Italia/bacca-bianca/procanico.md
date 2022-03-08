@@ -1,6 +1,6 @@
 ---
 title: Procanico
-description: "Procanico" è un sinonimo di "Trebbiano toscano"
+description: Vitigno | "Procanico" è un sinonimo di "Trebbiano toscano"
 published: true
 date: 2021-09-06T17:03:19.513Z
 tags: 

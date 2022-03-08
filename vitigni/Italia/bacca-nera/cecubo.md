@@ -1,6 +1,6 @@
 ---
 title: Cecubo
-description: "Cecubo" è un sinonimo.
+description: Vitigno | "Cecubo" è un sinonimo.
 published: true
 date: 2021-09-06T14:59:16.614Z
 tags: 

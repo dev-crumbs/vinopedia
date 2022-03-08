@@ -1,6 +1,6 @@
 ---
 title: Alicante Henri Bouschet
-description: Produttivo, ampiamente diffuso, incrocio della Francia del sud in declino in Francia ma in crescita nel sud del Portogallo.
+description: Vitigno | Produttivo, ampiamente diffuso, incrocio della Francia del sud in declino in Francia ma in crescita nel sud del Portogallo.
 published: true
 date: 2022-01-31T17:07:49.823Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Malvasia Di Casorzo
-description: Rara varietà a bacca rossa usata per fare vini dolci e spumanti in Piemonte.
+description: Vitigno | Rara varietà a bacca rossa usata per fare vini dolci e spumanti in Piemonte.
 published: true
 date: 2021-09-06T14:49:24.865Z
 tags: 

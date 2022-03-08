@@ -1,6 +1,6 @@
 ---
 title: Magliocco dolce
-description: Ampiamente piantato in Calabria, il più comune dei due Magliocco
+description: Vitigno | Ampiamente piantato in Calabria, il più comune dei due Magliocco
 published: true
 date: 2022-02-01T12:01:34.613Z
 tags: vitigno

@@ -1,6 +1,6 @@
 ---
 title: Egiodiola
-description: Recente incrocio produttivo di Bordeaux che inizia a mostrare un certo potenziale in patria e all'estero. Abbastanza tannico.
+description: Vitigno | Recente incrocio produttivo di Bordeaux che inizia a mostrare un certo potenziale in patria e all'estero. Abbastanza tannico.
 published: true
 date: 2021-09-26T14:54:09.700Z
 tags: 

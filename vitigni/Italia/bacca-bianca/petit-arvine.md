@@ -1,6 +1,6 @@
 ---
 title: Petit arvine
-description: "Petit arvine è un sinonimo di "Arvine"
+description: Vitigno | "Petit arvine è un sinonimo di "Arvine"
 published: true
 date: 2021-09-06T17:07:47.858Z
 tags: 

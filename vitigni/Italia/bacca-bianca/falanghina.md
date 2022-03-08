@@ -1,6 +1,6 @@
 ---
 title: Falanghina
-description: "Falanghina è un sinonimo di "Falanghina flegrea" o "Falanghina beneventana"
+description: Vitigno | "Falanghina è un sinonimo di "Falanghina flegrea" o "Falanghina beneventana"
 published: true
 date: 2021-09-30T16:11:37.478Z
 tags: 

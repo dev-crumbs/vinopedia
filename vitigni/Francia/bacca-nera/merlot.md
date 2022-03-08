@@ -1,6 +1,6 @@
 ---
 title: Merlot
-description: Varietà "internazionale" diffusa in tutto il mondo. Famosa per i grappoli carnosi e per appartenere alla famiglia del Bordeaux.
+description: Vitigno | Varietà "internazionale" diffusa in tutto il mondo. Famosa per i grappoli carnosi e per appartenere alla famiglia del Bordeaux.
 published: true
 date: 2021-09-06T14:48:01.676Z
 tags: 

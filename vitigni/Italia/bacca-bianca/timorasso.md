@@ -1,6 +1,6 @@
 ---
 title: Timorasso
-description: Raro Piemontese di alta qualità recentemente oggetto di rinnovata popolarità.
+description: Vitigno | Raro Piemontese di alta qualità recentemente oggetto di rinnovata popolarità.
 published: true
 date: 2021-09-24T12:43:15.783Z
 tags: 

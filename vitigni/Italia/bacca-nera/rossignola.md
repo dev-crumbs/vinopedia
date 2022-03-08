@@ -1,6 +1,6 @@
 ---
 title: Rossignola
-description: Varietà minore e piuttosto aspra usata in misura limitata nei blend veneti
+description: Vitigno | Varietà minore e piuttosto aspra usata in misura limitata nei blend veneti
 published: true
 date: 2022-03-04T21:16:36.833Z
 tags: 

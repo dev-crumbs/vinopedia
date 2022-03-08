@@ -1,6 +1,6 @@
 ---
 title: Molinara
-description: Decisamente in terza posizione rispetto alla Corvina Veronese e alla Rondinella nei vini della Valpolicella
+description: Vitigno | Decisamente in terza posizione rispetto alla Corvina Veronese e alla Rondinella nei vini della Valpolicella
 published: true
 date: 2021-09-06T09:44:49.356Z
 tags: 

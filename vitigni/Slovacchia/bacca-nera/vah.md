@@ -1,6 +1,6 @@
 ---
 title: Váh
-description: Recente incrocio autorizzato per la coltivazione in Slovacchia, ha bisogno di un buon sito per prosperare.
+description: Vitigno | Recente incrocio autorizzato per la coltivazione in Slovacchia, ha bisogno di un buon sito per prosperare.
 published: true
 date: 2021-09-06T14:53:49.305Z
 tags: 

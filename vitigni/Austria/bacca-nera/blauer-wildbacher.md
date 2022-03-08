@@ -1,6 +1,6 @@
 ---
 title: Blauer Wildbacher
-description: Varietà in declino tipica del sud-est della Francia. Produce vini spiccatamente tannici
+description: Vitigno | Varietà in declino tipica del sud-est della Francia. Produce vini spiccatamente tannici
 published: true
 date: 2021-09-06T15:07:09.995Z
 tags: 

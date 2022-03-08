@@ -1,6 +1,6 @@
 ---
 title: Sciascinoso
-description: Raro vitigno campano che produce rossi chiari
+description: Vitigno | Raro vitigno campano che produce rossi chiari
 published: true
 date: 2021-09-06T14:53:29.022Z
 tags: 

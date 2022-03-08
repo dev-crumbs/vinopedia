@@ -1,6 +1,6 @@
 ---
 title: Aglianico del Vulture
-description: "Aglianico del Vulture" è un sinonimo di "Aglianico"
+description: Vitigno | "Aglianico del Vulture" è un sinonimo di "Aglianico"
 published: true
 date: 2021-08-23T07:44:26.649Z
 tags: 

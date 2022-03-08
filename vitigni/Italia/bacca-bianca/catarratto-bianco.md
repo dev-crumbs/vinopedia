@@ -1,6 +1,6 @@
 ---
 title: Catarratto bianco
-description: Ampiamente piantato e variamente chiamato bianco siciliano con potenziale di qualità nelle mani giuste.
+description: Vitigno | Ampiamente piantato e variamente chiamato bianco siciliano con potenziale di qualità nelle mani giuste.
 published: true
 date: 2021-09-06T14:48:44.587Z
 tags: 

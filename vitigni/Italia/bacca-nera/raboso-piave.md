@@ -1,6 +1,6 @@
 ---
 title: Raboso piave 
-description: Varietà veneta spesso tenace che necessita di una gestione attenta e di un lungo invecchiamento per produrre un vino di alta qualità. Genitore del Raboso Veronese.
+description: Vitigno | Varietà veneta spesso tenace che necessita di una gestione attenta e di un lungo invecchiamento per produrre un vino di alta qualità. Genitore del Raboso Veronese.
 published: true
 date: 2021-09-30T17:13:26.494Z
 tags: 

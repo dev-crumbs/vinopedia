@@ -1,6 +1,6 @@
 ---
 title: Schiava grossa
-description: La Schiava più comune, dal Tirolo. Ampiamente piantata in Germania come Trollinger. Anche un'uva da tavola.
+description: Vitigno | La Schiava più comune, dal Tirolo. Ampiamente piantata in Germania come Trollinger. Anche un'uva da tavola.
 published: true
 date: 2022-01-11T14:05:23.371Z
 tags: vitigno

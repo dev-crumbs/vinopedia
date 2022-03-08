@@ -1,6 +1,6 @@
 ---
 title: Corvina veronese
-description: Rosso brillante, fresco e profumato di ciliegia che si incontra più spesso in Valpolicella e Bardolino
+description: Vitigno | Rosso brillante, fresco e profumato di ciliegia che si incontra più spesso in Valpolicella e Bardolino
 published: true
 date: 2022-01-28T13:23:59.285Z
 tags: 

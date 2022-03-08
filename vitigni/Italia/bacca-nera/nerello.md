@@ -1,6 +1,6 @@
 ---
 title: Nerello
-description: "Nerello" è un sinonimo di "Nerello Mascalese".
+description: Vitigno | "Nerello" è un sinonimo di "Nerello Mascalese".
 published: true
 date: 2021-09-06T16:31:11.584Z
 tags: 

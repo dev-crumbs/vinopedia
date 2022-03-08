@@ -1,6 +1,6 @@
 ---
 title: Frühroter Veltliner
-description: Incrocio naturale tra Roter Veltliner e Silvaner
+description: Vitigno | Incrocio naturale tra Roter Veltliner e Silvaner
 published: true
 date: 2021-09-06T15:06:37.552Z
 tags: 

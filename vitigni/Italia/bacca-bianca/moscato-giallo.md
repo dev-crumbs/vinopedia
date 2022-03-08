@@ -1,6 +1,6 @@
 ---
 title: Moscato giallo
-description: Varietà di moscato dorato dell'Italia settentrionale che produce principalmente vini in stile passito.
+description: Vitigno | Varietà di moscato dorato dell'Italia settentrionale che produce principalmente vini in stile passito.
 published: true
 date: 2021-09-06T14:49:36.235Z
 tags: 

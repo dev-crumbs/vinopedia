@@ -1,6 +1,6 @@
 ---
 title: Malvasia puntinata
-description: "Malvasia puntinata" è un sinonimo di "Malvasia del Lazio"
+description: Vitigno | "Malvasia puntinata" è un sinonimo di "Malvasia del Lazio"
 published: true
 date: 2021-09-07T05:12:02.344Z
 tags: 

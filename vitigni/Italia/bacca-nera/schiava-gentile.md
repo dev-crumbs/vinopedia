@@ -1,6 +1,6 @@
 ---
 title: Schiava gentile
-description: Piccolo vitigno che produce rossi morbidi e fruttati in Alto Adige
+description: Vitigno | Piccolo vitigno che produce rossi morbidi e fruttati in Alto Adige
 published: true
 date: 2022-01-11T13:28:14.792Z
 tags: vitigno

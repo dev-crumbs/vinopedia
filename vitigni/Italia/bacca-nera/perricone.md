@@ -1,6 +1,6 @@
 ---
 title: Perricone
-description: Siciliano dalla pelle scura e relativamente tannico, spesso mescolato con Nero d'Avola.
+description: Vitigno | Siciliano dalla pelle scura e relativamente tannico, spesso mescolato con Nero d'Avola.
 published: true
 date: 2021-09-06T14:52:57.946Z
 tags: 

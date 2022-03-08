@@ -1,6 +1,6 @@
 ---
 title: Verdeca
-description: Vitigno utilizzato per la produzione di bianchi "leggeri" in Puglia e, con il nome "Lagorthi", in Grecia.
+description: Vitigno | Vitigno utilizzato per la produzione di bianchi "leggeri" in Puglia e, con il nome "Lagorthi", in Grecia.
 published: true
 date: 2021-09-06T16:37:35.548Z
 tags: 

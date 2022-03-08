@@ -1,6 +1,6 @@
 ---
 title: Riesling renano
-description: "Riesling renano è un sinonimo di "Riesling"
+description: Vitigno | "Riesling renano è un sinonimo di "Riesling"
 published: true
 date: 2021-09-06T16:50:50.596Z
 tags: 

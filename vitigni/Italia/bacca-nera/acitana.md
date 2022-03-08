@@ -1,6 +1,6 @@
 ---
 title: Acitana
-description: Rara varietà a buccia scura del nord-est della Sicilia, usata in blend.
+description: Vitigno | Rara varietà a buccia scura del nord-est della Sicilia, usata in blend.
 published: true
 date: 2021-09-06T14:50:19.659Z
 tags: 

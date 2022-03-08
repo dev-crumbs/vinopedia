@@ -1,6 +1,6 @@
 ---
 title: Sauvignonasse
-description: Varietà leggermente aromatica ora chiamata Friulano in Italia e per molto tempo confusa con il Sauvignon Blanc in Cile.
+description: Vitigno | Varietà leggermente aromatica ora chiamata Friulano in Italia e per molto tempo confusa con il Sauvignon Blanc in Cile.
 published: true
 date: 2021-09-06T15:08:11.496Z
 tags: 

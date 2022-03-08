@@ -1,6 +1,6 @@
 ---
 title: Prié Blanc
-description: "Prié Blanc" è un sinonimo di "Prié"
+description: Vitigno | "Prié Blanc" è un sinonimo di "Prié"
 published: true
 date: 2022-01-17T08:14:18.555Z
 tags: vitigno

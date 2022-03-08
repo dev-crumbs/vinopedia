@@ -1,6 +1,6 @@
 ---
 title: Favorita
-description: "Favorita" è un sinonimo di "Vermentino"
+description: Vitigno | "Favorita" è un sinonimo di "Vermentino"
 published: true
 date: 2021-09-24T12:43:38.158Z
 tags: 

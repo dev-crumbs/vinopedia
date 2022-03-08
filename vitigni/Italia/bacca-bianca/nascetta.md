@@ -1,6 +1,6 @@
 ---
 title: Nascetta
-description: Piemontese semi-aromatico, recentemente sempre più vinificato come varietale.
+description: Vitigno | Piemontese semi-aromatico, recentemente sempre più vinificato come varietale.
 published: true
 date: 2021-09-06T14:49:36.235Z
 tags: 

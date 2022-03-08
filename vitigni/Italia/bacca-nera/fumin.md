@@ -1,6 +1,6 @@
 ---
 title: Fumin
-description: Varietà a buccia scura dal colore intenso, antica e rustica, esclusiva della Valle d'Aosta.
+description: Vitigno | Varietà a buccia scura dal colore intenso, antica e rustica, esclusiva della Valle d'Aosta.
 published: true
 date: 2021-09-06T16:35:44.596Z
 tags: 

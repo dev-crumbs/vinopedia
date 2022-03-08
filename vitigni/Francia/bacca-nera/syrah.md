@@ -1,6 +1,6 @@
 ---
 title: Syrah
-description: Alternativa generalmente alla moda al Cabernet Sauvignon con un complesso e sorprendente background familiare.
+description: Vitigno | Alternativa generalmente alla moda al Cabernet Sauvignon con un complesso e sorprendente background familiare.
 published: true
 date: 2021-09-06T14:48:11.830Z
 tags: 

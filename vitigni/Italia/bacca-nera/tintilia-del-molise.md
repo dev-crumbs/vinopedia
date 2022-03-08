@@ -1,6 +1,6 @@
 ---
 title: Tintilia del Molise
-description: Varietà minore molisana fino a poco tempo fa confusa con Bovale Grande (cioè Mazuelo/Carignan)
+description: Vitigno | Varietà minore molisana fino a poco tempo fa confusa con Bovale Grande (cioè Mazuelo/Carignan)
 published: true
 date: 2021-09-26T14:54:20.213Z
 tags: 

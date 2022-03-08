@@ -1,6 +1,6 @@
 ---
 title: Pinot Noir
-description: Il clone più famoso del vitigno borgognone, produce vini per lo più delicati ma infinitamente variabili.
+description: Vitigno | Il clone più famoso del vitigno borgognone, produce vini per lo più delicati ma infinitamente variabili.
 published: true
 date: 2021-09-06T14:48:05.108Z
 tags: 

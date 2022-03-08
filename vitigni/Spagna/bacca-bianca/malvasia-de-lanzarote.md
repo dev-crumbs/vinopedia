@@ -1,6 +1,6 @@
 ---
 title: Malvasia Di Lanzarote
-description: Varietà identificata di recente che si trova sulle Islas Canarie, facilmente confondibile con altre Malvasie
+description: Vitigno | Varietà identificata di recente che si trova sulle Islas Canarie, facilmente confondibile con altre Malvasie
 published: true
 date: 2021-09-06T14:53:54.739Z
 tags: 

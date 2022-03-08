@@ -1,6 +1,6 @@
 ---
 title: Ribolla gialla
-description: Vitigno bianco antico del confine Italo-Sloveno.
+description: Vitigno | Vitigno bianco antico del confine Italo-Sloveno.
 published: true
 date: 2021-09-24T15:17:15.672Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Ughetta
-description: "Ughetta" è un sinonimo di "Vespolina"
+description: Vitigno | "Ughetta" è un sinonimo di "Vespolina"
 published: true
 date: 2021-09-06T16:42:33.337Z
 tags: 

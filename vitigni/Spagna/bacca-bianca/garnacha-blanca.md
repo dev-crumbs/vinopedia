@@ -1,6 +1,6 @@
 ---
 title: Garnacha Blanca
-description: Mutazione bianca della Garnacha, produce bianchi corposi.
+description: Vitigno | Mutazione bianca della Garnacha, produce bianchi corposi.
 published: true
 date: 2021-09-26T14:54:23.089Z
 tags: 

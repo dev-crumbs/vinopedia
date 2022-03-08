@@ -1,6 +1,6 @@
 ---
 title: Teroldego
-description: Specialità trentina ben collegata e ravvivata, la cui acidità necessita di una gestione attenta.
+description: Vitigno | Specialità trentina ben collegata e ravvivata, la cui acidità necessita di una gestione attenta.
 published: true
 date: 2022-01-11T14:16:51.742Z
 tags: vitigno

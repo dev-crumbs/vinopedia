@@ -1,6 +1,6 @@
 ---
 title: San Michele
-description: Oscuro incrocio di Conegliano la cui vera discendenza è stata rivelata solo recentemente.
+description: Vitigno | Oscuro incrocio di Conegliano la cui vera discendenza è stata rivelata solo recentemente.
 published: true
 date: 2021-09-06T14:53:20.048Z
 tags: 

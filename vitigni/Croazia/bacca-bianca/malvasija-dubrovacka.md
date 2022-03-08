@@ -1,6 +1,6 @@
 ---
 title: Malvasija Dubrovačka
-description: "Malvasija Dubrovačka" è un sinonimo di "Malvasia di Lipari
+description: Vitigno | "Malvasija Dubrovačka" è un sinonimo di "Malvasia di Lipari
 published: true
 date: 2021-08-19T09:38:08.779Z
 tags: 

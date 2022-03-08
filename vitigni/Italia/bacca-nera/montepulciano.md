@@ -1,6 +1,6 @@
 ---
 title: Montepulciano
-description: Produttivo, di colore intenso, con una struttura solida e un'ampia piantagione.
+description: Vitigno | Produttivo, di colore intenso, con una struttura solida e un'ampia piantagione.
 published: true
 date: 2021-09-06T14:52:28.984Z
 tags: 

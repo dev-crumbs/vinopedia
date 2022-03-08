@@ -1,6 +1,6 @@
 ---
 title: Ag Aldara
-description: Vitigno dell'Azerbaijan
+description: Vitigno | Vitigno dell'Azerbaijan
 published: true
 date: 2021-09-06T15:07:21.525Z
 tags: 

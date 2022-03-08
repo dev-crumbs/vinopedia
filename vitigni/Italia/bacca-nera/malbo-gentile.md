@@ -1,6 +1,6 @@
 ---
 title: Malbo gentile
-description: Varietà minore esclusiva di Modena.
+description: Vitigno | Varietà minore esclusiva di Modena.
 published: true
 date: 2022-01-09T08:53:48.770Z
 tags: vitigno

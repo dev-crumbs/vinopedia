@@ -1,6 +1,6 @@
 ---
 title: Brauner Veltliner
-description: Austriaco quasi estinto, non collegato al Roter Veltliner.
+description: Vitigno | Austriaco quasi estinto, non collegato al Roter Veltliner.
 published: true
 date: 2021-09-06T15:06:34.716Z
 tags: 

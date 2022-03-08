@@ -1,6 +1,6 @@
 ---
 title: Greco nero
-description: Un gruppo di vitigni calabresi diversi che condividono confusamente un nome
+description: Vitigno | Un gruppo di vitigni calabresi diversi che condividono confusamente un nome
 published: true
 date: 2021-09-06T14:51:34.206Z
 tags: 

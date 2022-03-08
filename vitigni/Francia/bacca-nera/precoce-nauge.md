@@ -1,6 +1,6 @@
 ---
 title: Précoce Naugé
-description: "Précoce Naugé" è un sinonimo.
+description: Vitigno | "Précoce Naugé" è un sinonimo.
 published: true
 date: 2021-08-02T17:15:14.064Z
 tags: 

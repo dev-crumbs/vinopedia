@@ -1,6 +1,6 @@
 ---
 title: Malvasia Fina
-description: Varietà portoghese di alta qualità che va sotto molti nomi, in particolare Boal su Madeira, e produce molti stili di vino.
+description: Vitigno | Varietà portoghese di alta qualità che va sotto molti nomi, in particolare Boal su Madeira, e produce molti stili di vino.
 published: true
 date: 2021-09-06T09:47:01.619Z
 tags: 

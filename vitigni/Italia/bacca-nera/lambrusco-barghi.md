@@ -1,6 +1,6 @@
 ---
 title: Lambrusco Barghi
-description: Varietà minore, riconosciuta di recente, utilizzata in blend nel Reggiano.
+description: Vitigno | Varietà minore, riconosciuta di recente, utilizzata in blend nel Reggiano.
 published: true
 date: 2021-09-06T14:51:45.868Z
 tags: 

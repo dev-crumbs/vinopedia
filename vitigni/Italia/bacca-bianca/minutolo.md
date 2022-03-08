@@ -1,6 +1,6 @@
 ---
 title: Minutolo
-description: Varietà opulenta originaria della puglia, un tempo conosciuta come Fiano Aromatico.
+description: Vitigno | Varietà opulenta originaria della puglia, un tempo conosciuta come Fiano Aromatico.
 published: true
 date: 2021-09-08T09:41:27.141Z
 tags: 

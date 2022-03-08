@@ -1,6 +1,6 @@
 ---
 title: Grechetto di Orvieto
-description: Caratteristico e versatile umbro
+description: Vitigno | Caratteristico e versatile umbro
 published: true
 date: 2021-09-06T14:48:59.016Z
 tags: 

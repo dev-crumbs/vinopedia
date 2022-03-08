@@ -1,6 +1,6 @@
 ---
 title: Bonarda piemontese
-description: Rosso italiano aromatico e ben colorato con grappoli piccoli e tannini morbidi.
+description: Vitigno | Rosso italiano aromatico e ben colorato con grappoli piccoli e tannini morbidi.
 published: true
 date: 2021-09-06T14:50:42.379Z
 tags: 

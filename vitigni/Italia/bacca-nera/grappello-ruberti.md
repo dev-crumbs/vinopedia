@@ -1,6 +1,6 @@
 ---
 title: Grappello ruberti
-description: "Grappello ruberti" è un sinonimo di "Lambrusco viadanese"
+description: Vitigno | "Grappello ruberti" è un sinonimo di "Lambrusco viadanese"
 published: true
 date: 2021-09-28T15:53:03.650Z
 tags: 

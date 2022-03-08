@@ -1,6 +1,6 @@
 ---
 title: Malvasia De Sitges
-description: "Malvasia De Sitges" è un sinonimo di "Malvasia Di Lipari".
+description: Vitigno | "Malvasia De Sitges" è un sinonimo di "Malvasia Di Lipari".
 published: true
 date: 2021-08-19T05:47:59.405Z
 tags: 

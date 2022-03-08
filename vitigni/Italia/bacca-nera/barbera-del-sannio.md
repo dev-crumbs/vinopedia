@@ -1,6 +1,6 @@
 ---
 title: Barbera del Sannio
-description: Varietà dell'Italia centrale sempre più ben fatta e non collegata alle Barbera più settentrionali.
+description: Vitigno | Varietà dell'Italia centrale sempre più ben fatta e non collegata alle Barbera più settentrionali.
 published: true
 date: 2021-09-06T09:42:17.400Z
 tags: 

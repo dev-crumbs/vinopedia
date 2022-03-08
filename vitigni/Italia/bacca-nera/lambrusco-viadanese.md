@@ -1,6 +1,6 @@
 ---
 title: Lambrusco Viadanese
-description: Varietà di Lambrusco minore ma di carattere
+description: Vitigno | Varietà di Lambrusco minore ma di carattere
 published: true
 date: 2021-09-06T14:52:03.245Z
 tags: 

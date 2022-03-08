@@ -1,6 +1,6 @@
 ---
 title: Soperga
-description: Raro incrocio di Conegliano la cui vera discendenza è stata rivelata solo recentemente.
+description: Vitigno | Raro incrocio di Conegliano la cui vera discendenza è stata rivelata solo recentemente.
 published: true
 date: 2021-09-06T14:53:32.074Z
 tags: 

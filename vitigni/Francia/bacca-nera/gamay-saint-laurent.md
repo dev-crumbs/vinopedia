@@ -1,6 +1,6 @@
 ---
 title: Gamay-Saint-Laurent
-description: "Gamay-Saint-Laurent" è un sinonimo.
+description: Vitigno | "Gamay-Saint-Laurent" è un sinonimo.
 published: true
 date: 2021-08-02T17:04:15.781Z
 tags: 

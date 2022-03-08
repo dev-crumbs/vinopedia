@@ -1,6 +1,6 @@
 ---
 title: Malvasia nera di Basilicata
-description: La meno comune delle due Malvasie a buccia scura dell'Italia meridionale
+description: Vitigno | La meno comune delle due Malvasie a buccia scura dell'Italia meridionale
 published: true
 date: 2021-09-06T14:52:14.656Z
 tags: 

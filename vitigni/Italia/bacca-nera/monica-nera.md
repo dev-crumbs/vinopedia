@@ -1,6 +1,6 @@
 ---
 title: Monica Nera
-description: Varietà a buccia scura generalmente poco distinta, ampiamente coltivata nell'isola italiana di Sardegna e prodotta in una varietà di stili.
+description: Vitigno | Varietà a buccia scura generalmente poco distinta, ampiamente coltivata nell'isola italiana di Sardegna e prodotta in una varietà di stili.
 published: true
 date: 2022-02-01T12:35:29.829Z
 tags: vitigno

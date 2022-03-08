@@ -1,6 +1,6 @@
 ---
 title: Riesling italico
-description: "Riesling italico" è un sinonimo di "Graševina"
+description: Vitigno | "Riesling italico" è un sinonimo di "Graševina"
 published: true
 date: 2021-09-06T17:00:18.265Z
 tags: 

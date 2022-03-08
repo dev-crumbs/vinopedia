@@ -1,6 +1,6 @@
 ---
 title: Garnacha
-description: Varietà spagnola antica dalle molteplici mutazioni di colore
+description: Vitigno | Varietà spagnola antica dalle molteplici mutazioni di colore
 published: true
 date: 2021-09-26T14:54:34.421Z
 tags: , bacca bianca

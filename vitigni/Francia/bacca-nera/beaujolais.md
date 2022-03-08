@@ -1,6 +1,6 @@
 ---
 title: Beaujolais
-description: "Beaujolais" è un sinonimo.
+description: Vitigno | "Beaujolais" è un sinonimo.
 published: true
 date: 2021-08-02T16:58:44.395Z
 tags: 

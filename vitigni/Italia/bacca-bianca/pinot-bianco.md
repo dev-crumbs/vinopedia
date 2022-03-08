@@ -1,6 +1,6 @@
 ---
 title: Pinot bianco
-description: "Pinot bianco" è un sinonimo di "Pinot blanc"
+description: Vitigno | "Pinot bianco" è un sinonimo di "Pinot blanc"
 published: true
 date: 2021-09-06T17:05:37.061Z
 tags: 

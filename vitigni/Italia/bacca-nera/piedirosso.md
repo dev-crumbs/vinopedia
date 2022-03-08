@@ -1,6 +1,6 @@
 ---
 title: Piedirosso
-description: Vitigno semi-aromatico utilizzato da solo o in blend con l'Aglianico per conferire maggiore freschezza al vino.
+description: Vitigno | Vitigno semi-aromatico utilizzato da solo o in blend con l'Aglianico per conferire maggiore freschezza al vino.
 published: true
 date: 2021-09-06T14:53:00.930Z
 tags: 

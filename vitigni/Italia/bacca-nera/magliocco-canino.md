@@ -1,6 +1,6 @@
 ---
 title: Magliocco canino
-description: Produce vini tannici. Utilizzato soprattutto in blend in Calabria.
+description: Vitigno | Produce vini tannici. Utilizzato soprattutto in blend in Calabria.
 published: true
 date: 2022-02-01T12:06:34.823Z
 tags: vitigno

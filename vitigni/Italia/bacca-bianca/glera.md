@@ -1,6 +1,6 @@
 ---
 title: Glera
-description: "Glera" è un sinonimo di "Prosecco"
+description: Vitigno | "Glera" è un sinonimo di "Prosecco"
 published: true
 date: 2021-09-24T15:10:38.105Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Inzolia
-description: Vitigno siciliano rigoglioso
+description: Vitigno | Vitigno siciliano rigoglioso
 published: true
 date: 2021-09-06T14:49:04.776Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Carmenère
-description: Produce vini profondamente colorati, a volte erbacei, in Cile molto più che nel suo nativo Bordeaux.
+description: Vitigno | Produce vini profondamente colorati, a volte erbacei, in Cile molto più che nel suo nativo Bordeaux.
 published: true
 date: 2022-01-15T22:13:10.468Z
 tags: vitigno

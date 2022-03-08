@@ -1,6 +1,6 @@
 ---
 title: Hron
-description: Recente ma promettente incrocio slovacco che produce rossi corposi e degni di invecchiamento.
+description: Vitigno | Recente ma promettente incrocio slovacco che produce rossi corposi e degni di invecchiamento.
 published: true
 date: 2021-09-06T14:53:43.740Z
 tags: 

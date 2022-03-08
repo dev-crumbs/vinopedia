@@ -1,6 +1,6 @@
 ---
 title: Garnacha Tinta
-description: Vitigno molto diffuso e longevo che produce rossi robusti e dolci e alcuni rosati di successo.
+description: Vitigno | Vitigno molto diffuso e longevo che produce rossi robusti e dolci e alcuni rosati di successo.
 published: true
 date: 2021-09-26T14:54:31.487Z
 tags: , italia, francia, spagna, sardegna

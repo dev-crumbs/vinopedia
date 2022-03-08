@@ -1,6 +1,6 @@
 ---
 title: Blauer portugieser
-description: Prolifica varietà austriaca di vino rosso che produce vini piuttosto scialbi e poco acidi.
+description: Vitigno | Prolifica varietà austriaca di vino rosso che produce vini piuttosto scialbi e poco acidi.
 published: true
 date: 2021-09-06T15:07:07.191Z
 tags: 

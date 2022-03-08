@@ -1,6 +1,6 @@
 ---
 title: Pinot Meunier
-description: Ingrediente per blend di spumanti e champagne di alta qualità
+description: Vitigno | Ingrediente per blend di spumanti e champagne di alta qualità
 published: true
 date: 2021-09-06T15:08:04.965Z
 tags: 

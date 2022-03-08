@@ -1,6 +1,6 @@
 ---
 title: Silvaner
-description: Varietà austriaca che produce vini relativamente neutri con una fermezza e una potenza impressionante in Germania e Alsazia.
+description: Vitigno | Varietà austriaca che produce vini relativamente neutri con una fermezza e una potenza impressionante in Germania e Alsazia.
 published: true
 date: 2021-09-06T14:48:24.097Z
 tags: 

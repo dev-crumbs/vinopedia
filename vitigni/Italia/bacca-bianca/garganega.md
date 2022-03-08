@@ -1,6 +1,6 @@
 ---
 title: Garganega
-description: Un bianco delicato strettamente associato al Soave il cui vigore e le cui rese necessitano di uno stretto controllo.
+description: Vitigno | Un bianco delicato strettamente associato al Soave il cui vigore e le cui rese necessitano di uno stretto controllo.
 published: true
 date: 2021-09-06T14:48:56.281Z
 tags: 

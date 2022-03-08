@@ -1,6 +1,6 @@
 ---
 title: Lambrusca di Alessandria
-description: Varietà adattabile ma minore dalla buccia scura coltivata in alcune parti del Piemonte, Italia nord-occidentale, e generalmente utilizzata in blend.
+description: Vitigno | Varietà adattabile ma minore dalla buccia scura coltivata in alcune parti del Piemonte, Italia nord-occidentale, e generalmente utilizzata in blend.
 published: true
 date: 2021-09-06T09:43:47.820Z
 tags: 

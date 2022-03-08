@@ -1,6 +1,6 @@
 ---
 title: Graciano
-description: Varietà a bassa resa, dal colore ricco e profumato, che mantiene l'acidità e sta riguadagnando il favore a Rioja
+description: Vitigno | Varietà a bassa resa, dal colore ricco e profumato, che mantiene l'acidità e sta riguadagnando il favore a Rioja
 published: true
 date: 2021-09-26T14:54:37.333Z
 tags: 

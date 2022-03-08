@@ -1,6 +1,6 @@
 ---
 title: Foglia tonda
-description: Rosso minore ma diffuso dell'Italia centrale, generalmente usato per sostenere il Sangiovese.
+description: Vitigno | Rosso minore ma diffuso dell'Italia centrale, generalmente usato per sostenere il Sangiovese.
 published: true
 date: 2022-01-09T09:03:20.802Z
 tags: vitigno

@@ -1,6 +1,6 @@
 ---
 title: Horozkarasi
-description: Varietà turca utilizzata più come uva da tavola che per il vino
+description: Vitigno | Varietà turca utilizzata più come uva da tavola che per il vino
 published: true
 date: 2021-09-06T14:54:08.872Z
 tags: 

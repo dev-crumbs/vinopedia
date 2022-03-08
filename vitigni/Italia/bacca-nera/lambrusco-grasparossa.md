@@ -1,6 +1,6 @@
 ---
 title: Lambrusco Grasparossa
-description: Produce un Lambrusco più pieno e tannico della maggior parte dei Lambruschi, sia secco che mediamente dolce.
+description: Vitigno | Produce un Lambrusco più pieno e tannico della maggior parte dei Lambruschi, sia secco che mediamente dolce.
 published: true
 date: 2021-09-06T09:43:57.268Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Nebbiera
-description: Incrocio minore dell'Italia settentrionale dalla pelle scura, la cui vera discendenza è stata rivelata solo di recente.
+description: Vitigno | Incrocio minore dell'Italia settentrionale dalla pelle scura, la cui vera discendenza è stata rivelata solo di recente.
 published: true
 date: 2021-09-06T14:52:31.764Z
 tags: 

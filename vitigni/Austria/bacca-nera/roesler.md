@@ -1,6 +1,6 @@
 ---
 title: Roesler
-description: Ibrido austriaco relativamente recente e molto colorato
+description: Vitigno | Ibrido austriaco relativamente recente e molto colorato
 published: true
 date: 2021-09-06T15:07:15.570Z
 tags: 

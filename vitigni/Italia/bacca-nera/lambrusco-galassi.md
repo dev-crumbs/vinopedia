@@ -1,6 +1,6 @@
 ---
 title: Lambrusco galassi
-description: "Lambrusco Galassi" è un sinonimo.
+description: Vitigno | "Lambrusco Galassi" è un sinonimo.
 published: true
 date: 2021-09-06T15:32:59.839Z
 tags: 

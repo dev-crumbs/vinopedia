@@ -1,6 +1,6 @@
 ---
 title: Nosiola
-description: Varietà del Trentino-Alto Adige apprezzata a lungo per il Vino Santo, che ora si fa conoscere anche per il suo caratteristico vino secco
+description: Vitigno | Varietà del Trentino-Alto Adige apprezzata a lungo per il Vino Santo, che ora si fa conoscere anche per il suo caratteristico vino secco
 published: true
 date: 2021-09-06T09:41:16.750Z
 tags: 

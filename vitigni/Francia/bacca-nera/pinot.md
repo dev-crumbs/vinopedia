@@ -1,6 +1,6 @@
 ---
 title: Pinot
-description: Una delle varietà più antiche al mondo, con più di 1000 cloni riconosciuti
+description: Vitigno | Una delle varietà più antiche al mondo, con più di 1000 cloni riconosciuti
 published: true
 date: 2021-09-06T14:48:08.474Z
 tags: , bacca bianca

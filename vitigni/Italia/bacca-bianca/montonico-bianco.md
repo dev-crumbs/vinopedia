@@ -1,6 +1,6 @@
 ---
 title: Montonico bianco
-description: Bianco minore dell'Italia meridionale usato principalmente in blend
+description: Vitigno | Bianco minore dell'Italia meridionale usato principalmente in blend
 published: true
 date: 2021-09-08T09:46:35.837Z
 tags: 

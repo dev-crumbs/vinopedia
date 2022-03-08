@@ -1,6 +1,6 @@
 ---
 title: Ripolo
-description: Produce bianchi da invecchiamento nella costa amalfitana
+description: Vitigno | Produce bianchi da invecchiamento nella costa amalfitana
 published: true
 date: 2021-09-30T15:52:56.275Z
 tags: 

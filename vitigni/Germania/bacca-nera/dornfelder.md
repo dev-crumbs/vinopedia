@@ -1,6 +1,6 @@
 ---
 title: Dornfelder
-description: Il più riuscito dei moderni incroci rossi tedeschi, che produce vini scuri e vellutati.
+description: Vitigno | Il più riuscito dei moderni incroci rossi tedeschi, che produce vini scuri e vellutati.
 published: true
 date: 2021-09-06T14:48:30.441Z
 tags: 

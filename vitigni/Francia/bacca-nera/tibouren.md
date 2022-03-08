@@ -1,6 +1,6 @@
 ---
 title: Tibouren
-description: Antica varietà che produce ottimi vini rosati in Provenza e rossi leggeri oltre il confine in Italia, in Liguria.
+description: Vitigno | Antica varietà che produce ottimi vini rosati in Provenza e rossi leggeri oltre il confine in Italia, in Liguria.
 published: true
 date: 2021-09-26T14:54:11.826Z
 tags: 

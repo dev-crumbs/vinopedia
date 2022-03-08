@@ -1,6 +1,6 @@
 ---
 title: Alicante
-description: "Alicante è un sinonimo di "Alicante Henri Bouschet"
+description: Vitigno | "Alicante è un sinonimo di "Alicante Henri Bouschet"
 published: true
 date: 2021-10-03T14:25:29.340Z
 tags: 

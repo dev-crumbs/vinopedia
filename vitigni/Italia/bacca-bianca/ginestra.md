@@ -1,6 +1,6 @@
 ---
 title: Ginestra
-description: Vitigno campano minore ma interessante e dalla spiccata acidità
+description: Vitigno | Vitigno campano minore ma interessante e dalla spiccata acidità
 published: true
 date: 2021-09-30T15:52:56.275Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Marzemino
-description: Fa rossi fruttati e profumati, spesso dolci o frizzanti o entrambi.
+description: Vitigno | Fa rossi fruttati e profumati, spesso dolci o frizzanti o entrambi.
 published: true
 date: 2021-09-06T14:52:26.205Z
 tags: 

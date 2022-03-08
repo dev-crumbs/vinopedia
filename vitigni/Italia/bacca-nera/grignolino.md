@@ -1,6 +1,6 @@
 ---
 title: Grignolino
-description: Vitigno dalla popolarità calante, distintamente pallido, leggero, specialità locale (antica) del Monferrato.
+description: Vitigno | Vitigno dalla popolarità calante, distintamente pallido, leggero, specialità locale (antica) del Monferrato.
 published: true
 date: 2021-09-06T09:43:28.173Z
 tags: 

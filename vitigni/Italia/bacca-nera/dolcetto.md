@@ -1,6 +1,6 @@
 ---
 title: Dolcetto
-description: Rosso piemontese dal colore profondo, con bassa acidità e notevole fragranza.
+description: Vitigno | Rosso piemontese dal colore profondo, con bassa acidità e notevole fragranza.
 published: true
 date: 2021-09-06T14:51:11.487Z
 tags: 

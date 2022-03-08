@@ -1,6 +1,6 @@
 ---
 title: Abrostine
-description: "Abrostine" è un sinonimo.
+description: Vitigno | "Abrostine" è un sinonimo.
 published: true
 date: 2021-09-04T12:25:33.339Z
 tags: 

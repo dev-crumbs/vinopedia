@@ -1,6 +1,6 @@
 ---
 title: Monica
-description: "Monica" è un sinonimo di "Monica nera"
+description: Vitigno | "Monica" è un sinonimo di "Monica nera"
 published: true
 date: 2022-02-01T12:37:15.504Z
 tags: 

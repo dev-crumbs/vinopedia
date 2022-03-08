@@ -1,6 +1,6 @@
 ---
 title: Bovale
-description: "Bovale" è un sinonimo di "Graciano"
+description: Vitigno | "Bovale" è un sinonimo di "Graciano"
 published: true
 date: 2021-09-06T14:56:17.349Z
 tags: 

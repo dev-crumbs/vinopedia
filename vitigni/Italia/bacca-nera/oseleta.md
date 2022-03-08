@@ -1,6 +1,6 @@
 ---
 title: Oseleta
-description: Ravvivato e piuttosto di moda nel paese della Valpolicella.
+description: Vitigno | Ravvivato e piuttosto di moda nel paese della Valpolicella.
 published: true
 date: 2021-09-06T09:45:35.617Z
 tags: 

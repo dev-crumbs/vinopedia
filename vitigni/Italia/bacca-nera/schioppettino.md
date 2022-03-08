@@ -1,6 +1,6 @@
 ---
 title: Schioppettino
-description: Friulano profumato e fruttato salvato negli anni '70 e ora fiorente.
+description: Vitigno | Friulano profumato e fruttato salvato negli anni '70 e ora fiorente.
 published: true
 date: 2021-09-24T14:52:53.232Z
 tags: 

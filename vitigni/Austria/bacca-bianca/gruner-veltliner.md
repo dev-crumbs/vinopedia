@@ -1,6 +1,6 @@
 ---
 title: Grüner Veltliner
-description: Varietà di vino bianco austriaco alla moda, versatile e di alta qualità
+description: Vitigno | Varietà di vino bianco austriaco alla moda, versatile e di alta qualità
 published: true
 date: 2021-09-06T15:06:43.238Z
 tags: 

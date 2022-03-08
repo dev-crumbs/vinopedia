@@ -1,6 +1,6 @@
 ---
 title: Trebbiano giallo
-description: Un altro Trebbiano, coltivato e utilizzato in blend principalmente intorno a Roma.
+description: Vitigno | Un altro Trebbiano, coltivato e utilizzato in blend principalmente intorno a Roma.
 published: true
 date: 2021-09-06T14:49:50.535Z
 tags: 

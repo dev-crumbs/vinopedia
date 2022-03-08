@@ -1,6 +1,6 @@
 ---
 title: Garnacha Peluda
-description: Downy-leaved variant of Garnacha Tinta.
+description: Vitigno | Downy-leaved variant of Garnacha Tinta.
 published: true
 date: 2021-09-26T14:54:28.559Z
 tags: 

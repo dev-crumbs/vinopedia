@@ -1,6 +1,6 @@
 ---
 title: Arneis
-description: Il profumato e corposo bianco secco d'autore del Piemonte
+description: Vitigno | Il profumato e corposo bianco secco d'autore del Piemonte
 published: true
 date: 2021-09-24T12:40:20.563Z
 tags: 

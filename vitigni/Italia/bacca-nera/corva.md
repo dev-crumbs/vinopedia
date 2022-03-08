@@ -1,6 +1,6 @@
 ---
 title: Corva
-description: Vecchia varietà a buccia scura praticamente estinta che sopravvive nel centro della città di Brescia
+description: Vitigno | Vecchia varietà a buccia scura praticamente estinta che sopravvive nel centro della città di Brescia
 published: true
 date: 2021-09-06T14:51:02.541Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Schiava lombarda
-description: La Schiava della Lombardia produce un rosso morbido e fruttato.
+description: Vitigno | La Schiava della Lombardia produce un rosso morbido e fruttato.
 published: true
 date: 2022-01-28T13:26:55.367Z
 tags: vitigno

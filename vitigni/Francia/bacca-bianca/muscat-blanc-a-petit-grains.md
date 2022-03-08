@@ -1,6 +1,6 @@
 ---
 title: Muscat Blanc à Petits Grains
-description: Il classico Moscato a bacche piccole molto diffuso in tutto il mondo.
+description: Vitigno | Il classico Moscato a bacche piccole molto diffuso in tutto il mondo.
 published: true
 date: 2021-09-06T15:07:49.780Z
 tags: 

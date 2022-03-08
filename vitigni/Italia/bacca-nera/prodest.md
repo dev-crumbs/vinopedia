@@ -1,6 +1,6 @@
 ---
 title: Prodest
-description: Incrocio di Conegliano; tentativo di Merlot più fresco
+description: Vitigno | Incrocio di Conegliano; tentativo di Merlot più fresco
 published: true
 date: 2021-09-06T14:53:06.784Z
 tags: 

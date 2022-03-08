@@ -1,6 +1,6 @@
 ---
 title: Vespolina
-description: Sorta di Nebbiolo minore a bassa resa, parente di Gattinara. Attualmente in declino.
+description: Vitigno | Sorta di Nebbiolo minore a bassa resa, parente di Gattinara. Attualmente in declino.
 published: true
 date: 2021-09-06T14:53:40.809Z
 tags: 

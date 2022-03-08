@@ -1,6 +1,6 @@
 ---
 title: Moscato Rosa del Trentino
-description: Vitigno minore a bacca nera dell'Italia settentrionale, produce vini dolci profumati alla rosa
+description: Vitigno | Vitigno minore a bacca nera dell'Italia settentrionale, produce vini dolci profumati alla rosa
 published: true
 date: 2022-02-15T17:01:46.234Z
 tags: 

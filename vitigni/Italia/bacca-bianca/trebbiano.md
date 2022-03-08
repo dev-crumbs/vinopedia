@@ -1,6 +1,6 @@
 ---
 title: Trebbiano
-description: Nome generico attribuito a diversi vitigni italiani non imparentati tra loro
+description: Vitigno | Nome generico attribuito a diversi vitigni italiani non imparentati tra loro
 published: true
 date: 2021-09-06T14:50:05.137Z
 tags: 

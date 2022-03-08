@@ -1,6 +1,6 @@
 ---
 title: Nebbiolo
-description: L'uva da vino più venerata del Piemonte, probabilmente d'Italia; varietà molto antica capace di produrre vini profumati, espressivi e di grande bellezza.
+description: Vitigno | L'uva da vino più venerata del Piemonte, probabilmente d'Italia; varietà molto antica capace di produrre vini profumati, espressivi e di grande bellezza.
 published: true
 date: 2021-09-20T02:04:25.551Z
 tags: 

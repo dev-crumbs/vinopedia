@@ -1,6 +1,6 @@
 ---
 title: Nigra
-description: Incrocio veneto minore, poco piantato e dalla pelle scura.
+description: Vitigno | Incrocio veneto minore, poco piantato e dalla pelle scura.
 published: true
 date: 2021-09-06T14:52:52.264Z
 tags: 

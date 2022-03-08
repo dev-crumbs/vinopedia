@@ -1,6 +1,6 @@
 ---
 title: Zibibbo
-description: "Zibibbo" è un sinonimo di "Moscato di Alessandria"
+description: Vitigno | "Zibibbo" è un sinonimo di "Moscato di Alessandria"
 published: true
 date: 2021-09-06T16:48:23.152Z
 tags: 

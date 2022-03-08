@@ -1,6 +1,6 @@
 ---
 title: Tocai
-description: "Tocai" è un sinonimo di "Sauvignonasse"
+description: Vitigno | "Tocai" è un sinonimo di "Sauvignonasse"
 published: true
 date: 2021-09-06T16:47:08.090Z
 tags: 

@@ -1,6 +1,6 @@
 ---
 title: Nocera
-description: Ingrediente di miscelazione minore in Calabria e Sicilia.
+description: Vitigno | Ingrediente di miscelazione minore in Calabria e Sicilia.
 published: true
 date: 2021-09-06T14:52:55.252Z
 tags: 

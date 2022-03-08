@@ -1,6 +1,6 @@
 ---
 title: Gaglioppo
-description: La caratteristica uva da vino rosso della Calabria
+description: Vitigno | La caratteristica uva da vino rosso della Calabria
 published: true
 date: 2021-09-06T14:51:25.771Z
 tags: 

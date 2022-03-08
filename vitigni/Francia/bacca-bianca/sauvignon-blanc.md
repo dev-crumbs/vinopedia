@@ -1,6 +1,6 @@
 ---
 title: Sauvignon Blanc
-description: Genitore del Cabernet Sauvignon che produce bianchi aromatici, saporiti e croccanti sempre più apprezzati in tutto il mondo
+description: Vitigno | Genitore del Cabernet Sauvignon che produce bianchi aromatici, saporiti e croccanti sempre più apprezzati in tutto il mondo
 published: true
 date: 2021-09-06T15:08:08.274Z
 tags: 

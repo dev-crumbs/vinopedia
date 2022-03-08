@@ -1,6 +1,6 @@
 ---
 title: Ederena
-description: Incrocio di Bordeaux in fase di sperimentazione in California.
+description: Vitigno | Incrocio di Bordeaux in fase di sperimentazione in California.
 published: true
 date: 2021-09-06T14:47:46.446Z
 tags: 

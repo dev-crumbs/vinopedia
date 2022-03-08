@@ -1,6 +1,6 @@
 ---
 title: Greco bianco di Novara
-description: "Greco bianco di Novara" è un sinonimo di "Erbaluce".
+description: Vitigno | "Greco bianco di Novara" è un sinonimo di "Erbaluce".
 published: true
 date: 2021-09-28T12:49:38.705Z
 tags: 
