@@ -1,6 +1,6 @@
 ---
 title: Cabernet Franc
-description: Genitore fragrante e ben strutturato di Cabernet Sauvignon che brilla nella Loira e nelle miscele di Bordeaux.
+description: Genitore fragrante e ben strutturato di Cabernet Sauvignon che brilla nella Loira e nei blend di Bordeaux.
 published: true
 date: 2021-09-26T14:54:04.351Z
 tags: 
@@ -89,13 +89,13 @@ Un'indagine condotta nel 2000 ha trovato 7.085 ha (17.507 acri) di Cabernet Fran
 
 ### Spagna
 
-In Spagna nel 2008 c'erano 736 ha (1.819 acri), per lo più in Castilla-La Mancha e Catalunya, usati principalmente per miscele bordolesi anche se ci sono alcuni esempi varietali catalani. Solo 21 ha (52 acri) sono stati registrati in Portogallo nel 2010.
+In Spagna nel 2008 c'erano 736 ha (1.819 acri), per lo più in Castilla-La Mancha e Catalunya, usati principalmente per blend bordolesi anche se ci sono alcuni esempi varietali catalani. Solo 21 ha (52 acri) sono stati registrati in Portogallo nel 2010.
 
 ### Europa orientale
 
 Il Cabernet Franc viene piantato in misura limitata in gran parte dell'Europa orientale ma è generalmente molto, molto meno popolare del Cabernet Sauvignon. Oltre il confine dal Friuli nella Slovenia occidentale, il Cabernet Franc tende ad essere mescolato con Cabernet Sauvignon, Merlot e, spesso, il locale [Refosco](/vitigni/bacca-nera/refosco), anche se le piantagioni totali nel 2009 erano solo 27 ha (67 acri) a Goriška Brda e 17 ha (42 acri) a Slovenska Istra.
 
-La Romania - terra del Cabernet - aveva solo 8 ha (20 acri) nel 2008, Krasnodar Krai nella Russia meridionale solo 20 ha (49 acri) nel 2009. Ci sono minuscole piantagioni in Serbia, Kosovo e forse Kazakistan. L'eccezione è l'Ungheria, che aveva un totale di 1.243 ha (3.072 acri) nel 2008, con maggior successo a Villány nel sud, dove alcuni dei migliori rossi del paese, sia i tagli bordolesi che i varietali, dipendono dal Cabernet Franc di gente come Malatinszky, Attila Gere con Weninger e Vylyan, ma è anche piantato più a nord ed est a Kunság e Szekszárd e a Eger ancora più a nord. Spesso in miscele bordolesi ma ha anche sempre più successo come varietale.
+La Romania - terra del Cabernet - aveva solo 8 ha (20 acri) nel 2008, Krasnodar Krai nella Russia meridionale solo 20 ha (49 acri) nel 2009. Ci sono minuscole piantagioni in Serbia, Kosovo e forse Kazakistan. L'eccezione è l'Ungheria, che aveva un totale di 1.243 ha (3.072 acri) nel 2008, con maggior successo a Villány nel sud, dove alcuni dei migliori rossi del paese, sia i tagli bordolesi che i varietali, dipendono dal Cabernet Franc di gente come Malatinszky, Attila Gere con Weninger e Vylyan, ma è anche piantato più a nord ed est a Kunság e Szekszárd e a Eger ancora più a nord. Spesso in blend bordolesi ma ha anche sempre più successo come varietale.
 
 Il Cabernet Franc è piantato in misura limitata in tutta la Grecia settentrionale, quasi sempre mescolato in vini regionali. Tuttavia, la denominazione Côtes de Meliton in Halkidikí richiede il 70% di LIMNIO e il 30% di Cabernet Sauvignon e/o Cabernet Franc. A Velventós, nella Makedonía occidentale, Yannis Voyatzis produce uno Tsapournako varietale, dimostrato dal profilo del DNA essere un clone di Cabernet Franc.
 
@@ -103,7 +103,7 @@ Nel Mediterraneo orientale, Cipro ha 267 ha (660 acri), Israele (dove Margalit f
 
 ### Stati Uniti
 
-Nella maggior parte degli Stati Uniti, il Cabernet Franc viene coltivato principalmente per fornire un ingrediente minore nelle miscele di Bordeaux, ma in Virginia, nello Stato di New York e in una certa misura nello Stato di Washington la varietà è apprezzata in quanto particolarmente adatta alle condizioni locali.
+Nella maggior parte degli Stati Uniti, il Cabernet Franc viene coltivato principalmente per fornire un ingrediente minore nei blend di Bordeaux, ma in Virginia, nello Stato di New York e in una certa misura nello Stato di Washington la varietà è apprezzata in quanto particolarmente adatta alle condizioni locali.
 
 La superficie totale di Cabernet Franc della California, 3.480 acri (1.408 ha) in terra nel 2009, è rimasta praticamente invariata da anni, anche se ci sono segni di un leggero aumento di interesse. La maggior parte viene coltivata nella Napa Valley e Sonoma, anche se Rusack coltiva il pregiato Anacapa nella Santa Ynez Valley molto più a sud. Vini eccezionali dominati dal Cabernet Franc provengono da Arietta, Crocker & Starr, Detert Family Vineyards, Favia, Lang & Reed e Viader nella Napa Valley e Pride Mountain e Raymond Burr nella Sonoma County.
 
@@ -117,11 +117,11 @@ La stagione di crescita relativamente breve del Canada significa che il Cabernet
 
 ### Sud America
 
-In Sud America, ci sono 301 ha (744 acri - il 3,6% delle viti piantate per il vino di qualità) in Uruguay. Il Brasile ha 352 ha (870 acri) in Rio Grande do Sul e, come altrove nel mondo, la maggior parte dei prodotti di queste viti sparisce nelle miscele di Bordeaux. L'Argentina aveva 622 ha (1.537 acri) nel 2008, principalmente a Mendoza (352 ha/870 acri) e in misura minore a San Juan (153 ha/378 acri). Doña Paula produce un'eccezionale versione varietale da Gualtallary a Mendoza. Il Cile è il primo coltivatore di Cabernet Franc in Sud America con 1.143 ha (2.824 acri). O Fournier ha prodotto un eccezionale varietale da vecchie viti a Maule.
+In Sud America, ci sono 301 ha (744 acri - il 3,6% delle viti piantate per il vino di qualità) in Uruguay. Il Brasile ha 352 ha (870 acri) in Rio Grande do Sul e, come altrove nel mondo, la maggior parte dei prodotti di queste viti sparisce nei blend di Bordeaux. L'Argentina aveva 622 ha (1.537 acri) nel 2008, principalmente a Mendoza (352 ha/870 acri) e in misura minore a San Juan (153 ha/378 acri). Doña Paula produce un'eccezionale versione varietale da Gualtallary a Mendoza. Il Cile è il primo coltivatore di Cabernet Franc in Sud America con 1.143 ha (2.824 acri). O Fournier ha prodotto un eccezionale varietale da vecchie viti a Maule.
 
 ### Oceania
 
-In Australia, i 693 ha (1.712 acri) della varietà sono usati principalmente come ingredienti minori nelle miscele di Bordeaux, anche se il numero di versioni varietali come il vincitore della medaglia d'oro di Redgate sta aumentando. Dall'altra parte del Tasman, la Nuova Zelanda ha 166 ha (410 acri).
+In Australia, i 693 ha (1.712 acri) della varietà sono usati principalmente come ingredienti minori nei blend di Bordeaux, anche se il numero di versioni varietali come il vincitore della medaglia d'oro di Redgate sta aumentando. Dall'altra parte del Tasman, la Nuova Zelanda ha 166 ha (410 acri).
 
 ### Cina
 

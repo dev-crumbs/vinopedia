@@ -73,7 +73,7 @@ In Germania, la varietà conosciuta come Grauburgunder, Grauer Burgunder o (occa
 
 In Svizzera, dove la maggior parte delle viti - conosciute come Malvoisie o Pinot Gris - sono nel Vallese, le piantagioni totali erano 216 ha (534 acri) nel 2009. La Malvoisie di Marie-Thérèse Chappaz da Fully nel Vallese è uno dei vini dolci più ricercati del paese. Yvon Cheseaux di Saillon nel Vallese è un altro produttore di successo di Malvoisie dolce.
 
-In Austria, la varietà può essere chiamata Grauer Burgunder o Pinot Gris e nel 2009 c'erano solo 222 ha (549 acri), in calo dai 293 ha (724 acri) del 1999. La maggior parte di queste vigne si trova nel Burgenland, dove è usato sia per vini varietali secchi che come componente di miscele dolci.
+In Austria, la varietà può essere chiamata Grauer Burgunder o Pinot Gris e nel 2009 c'erano solo 222 ha (549 acri), in calo dai 293 ha (724 acri) del 1999. La maggior parte di queste vigne si trova nel Burgenland, dove è usato sia per vini varietali secchi che come componente di blend dolci.
 
 In Ungheria gode del nome memorabile di Szürkebarát e nel 2008 c'erano 1.522 ha (3.761 acri), soprattutto a Mátra nel nord, anche se è più spesso associato a Badacsony a nord del lago Balaton a ovest. I migliori risultati sono prodotti su terreni più caldi e vulcanici. I vini tendono ad essere ricchi e a volte oleosi, con un'alta gradazione alcolica, un profumo inebriante e un po' di zucchero residuo, spesso invecchiati in grandi querce. Alcuni dei migliori esempi provengono da Dr Bussay a Zala, a sud-ovest del lago Balaton e vicino al confine croato. Altri produttori raccomandati sono Mihály Figura, Szakálvin e Szent Orbán.
 

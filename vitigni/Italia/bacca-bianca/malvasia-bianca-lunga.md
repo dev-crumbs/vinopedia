@@ -1,6 +1,6 @@
 ---
 title: Malvasia bianca lunga
-description: Varietà toscana neutra ampiamente distribuita, usata in miscele sia per vini secchi che per Vin Santo.
+description: Varietà toscana neutra ampiamente distribuita, usata in blend sia per vini secchi che per Vin Santo.
 published: true
 date: 2021-09-06T14:49:16.337Z
 tags: 

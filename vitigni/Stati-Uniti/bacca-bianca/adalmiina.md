@@ -39,6 +39,6 @@ Adalmiina è quindi un ibrido complesso di Vitis riparia, Vitis labrusca, Vitis 
 
 ## Caratteristiche enologiche e diffusione geografica
 
-L'Adalmiina viene coltivata in misura limitata in Québec, Canada, dove viene generalmente usata nelle miscele per compensare la sua bassa acidità. I produttori di tali vini da taglio includono Le Chat Botté, Coteau St-Paul, Domaine Mont Vézeau e Vignoble Le Nordet. I vini varietali non hanno sapore di volpe e non sono diversi dal Muscadet tranne che per la leggera mancanza di acidità, a volte anche con note minerali e di frutta tropicale.
+L'Adalmiina viene coltivata in misura limitata in Québec, Canada, dove viene generalmente usata nei blend per compensare la sua bassa acidità. I produttori di tali vini da taglio includono Le Chat Botté, Coteau St-Paul, Domaine Mont Vézeau e Vignoble Le Nordet. I vini varietali non hanno sapore di volpe e non sono diversi dal Muscadet tranne che per la leggera mancanza di acidità, a volte anche con note minerali e di frutta tropicale.
 
 Meeri Saario e pochi altri in Finlandia e negli Stati Baltici coltivano Adalmiina sotto plastica ma solo per la tavola.

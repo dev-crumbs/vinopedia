@@ -80,7 +80,7 @@ L'Argentina aveva 2.478 ha (6.123 acri) di Ugni Blanc nel 2008, principalmente a
 
 ### In Oceania
 
-L'Australia aveva 220 ha (544 acri) di Trebbiano nel 2008, principalmente ma non esclusivamente nella calda regione interna Riverina dove più spesso viene usato nelle miscele e occasionalmente dai distillatori.
+L'Australia aveva 220 ha (544 acri) di Trebbiano nel 2008, principalmente ma non esclusivamente nella calda regione interna Riverina dove più spesso viene usato nei blend e occasionalmente dai distillatori.
 
 ### In Sudafrica
 

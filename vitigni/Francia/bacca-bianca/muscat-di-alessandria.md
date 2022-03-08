@@ -83,7 +83,7 @@ La California aveva 3.391 acri (1.372 ha) piantati nel 2010, quasi tutti nella C
 
 ### In Oceania
 
-In Australia, dove è conosciuto come Muscat Gordo Blanco e occasionalmente Lexia, una contrazione peculiarmente australiana di Alexandria, c'erano 2.363 ha (5.839 acri) nel 2008. La sua importanza è limitata ai caldi vigneti irrigati dell'interno, dove può essere trasformato in vino o essiccato come uva passa, a seconda delle richieste prevalenti del mercato. In periodi di scarsità di vino bianco è stato usato per sfarinare le miscele commerciali.
+In Australia, dove è conosciuto come Muscat Gordo Blanco e occasionalmente Lexia, una contrazione peculiarmente australiana di Alexandria, c'erano 2.363 ha (5.839 acri) nel 2008. La sua importanza è limitata ai caldi vigneti irrigati dell'interno, dove può essere trasformato in vino o essiccato come uva passa, a seconda delle richieste prevalenti del mercato. In periodi di scarsità di vino bianco è stato usato per sfarinare i blend commerciali.
 
 ### In Sud America
 

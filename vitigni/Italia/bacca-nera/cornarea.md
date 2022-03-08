@@ -24,4 +24,4 @@ Cipriani et al. (2010) hanno recentemente suggerito attraverso l'analisi della p
 - Maturazione media
 
 ## Diffusione geografica
-In Italia sono stati segnalati solo 25 ha (62 acri) nel censimento agricolo del 2000. Viene piantato principalmente in Piemonte e generalmente usato per esaltare il colore nelle miscele.
+In Italia sono stati segnalati solo 25 ha (62 acri) nel censimento agricolo del 2000. Viene piantato principalmente in Piemonte e generalmente usato per esaltare il colore nei blend.

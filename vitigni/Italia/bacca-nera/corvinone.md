@@ -29,4 +29,4 @@ Corvinone è stato generalmente considerato una mutazione clonale di [Corvina Ve
 - Suscettibile alla peronospora
 
 ## Diffusione geografica
-In Valpolicella, nel Veneto italiano, il Corvinone può essere sostituito fino al 50% del 40-80% di [Corvina Veronese](/vitigni/bacca-nera/corvina-veronese) consentito nelle miscele per il Valpolicella DOC puro e per l'Amarone e il Recioto DOCG. Può anche far parte dell'assemblaggio nel Bardolino DOC e nel Bardolino Superiore DOCG. Non viene generalmente prodotto come vino varietale. C'erano 95 ha (235 acri) registrati nel censimento agricolo italiano del 2000.
+In Valpolicella, nel Veneto italiano, il Corvinone può essere sostituito fino al 50% del 40-80% di [Corvina Veronese](/vitigni/bacca-nera/corvina-veronese) consentito nei blend per il Valpolicella DOC puro e per l'Amarone e il Recioto DOCG. Può anche far parte dell'assemblaggio nel Bardolino DOC e nel Bardolino Superiore DOCG. Non viene generalmente prodotto come vino varietale. C'erano 95 ha (235 acri) registrati nel censimento agricolo italiano del 2000.

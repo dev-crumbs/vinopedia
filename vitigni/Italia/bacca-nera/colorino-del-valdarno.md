@@ -45,7 +45,7 @@ Alcuni rari vini varietali IGT sono prodotti in Toscana, ad esempio da Fattoria 
 
 ## Diffusione geografica
 
-Tradizionalmente usato in Toscana, Italia, per aggiungere colore a miscele dominate dal [Sangiovese](/vitigni/Italia/bacca-nera/sangiovese) come il Chianti o il Vino Nobile di Montepulciano (circa 5-10%), divenne particolarmente popolare a questo scopo negli anni '80 e '90 come alternativa locale all'aggiunta di [Cabernet Sauvignon](/vitigni/Francia/bacca-nera/cabernet-sauvignon). È autorizzato in tutta la Toscana tranne che nelle province di Massa-Carrara e Livorno. Si coltiva anche in Umbria, Marche, Lazio e Liguria.
+Tradizionalmente usato in Toscana, Italia, per aggiungere colore a blend dominate dal [Sangiovese](/vitigni/Italia/bacca-nera/sangiovese) come il Chianti o il Vino Nobile di Montepulciano (circa 5-10%), divenne particolarmente popolare a questo scopo negli anni '80 e '90 come alternativa locale all'aggiunta di [Cabernet Sauvignon](/vitigni/Francia/bacca-nera/cabernet-sauvignon). È autorizzato in tutta la Toscana tranne che nelle province di Massa-Carrara e Livorno. Si coltiva anche in Umbria, Marche, Lazio e Liguria.
 
 C'erano 436 ha (1.077 acri) registrati nel censimento agricolo italiano del 2000 - anche se non si sa a quale Colorino si riferiscano le statistiche
 

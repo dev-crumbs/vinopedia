@@ -28,4 +28,4 @@ Klosterneuburg 1189-9-77 era anche coinvolta nell'allevamento del fratellastro d
 - Buona resistenza generale alle malattie.
 
 ## Diffusione geografica
-Roesler produce rossi di colore intenso con tannini moderati, ben adatti all'invecchiamento in botte. Viene piantato in Austria su circa 137 ha (339 acri) e produttori come Vogl nel Weinviertel o Bründy a Wagram mescolano Roesler con [Ráthay](/vitigni/Austria/bacca-nera/rathay). Tschida produce un vino dolce TBA ad Apetlon sul lato ovest del Neusiedlersee. Anche Weingut zum Frohhof, l'unico produttore in Svizzera, usa Roesler in miscele.
+Roesler produce rossi di colore intenso con tannini moderati, ben adatti all'invecchiamento in botte. Viene piantato in Austria su circa 137 ha (339 acri) e produttori come Vogl nel Weinviertel o Bründy a Wagram mescolano Roesler con [Ráthay](/vitigni/Austria/bacca-nera/rathay). Tschida produce un vino dolce TBA ad Apetlon sul lato ovest del Neusiedlersee. Anche Weingut zum Frohhof, l'unico produttore in Svizzera, usa Roesler in blend.

@@ -27,5 +27,5 @@ Proveniente dalla Sardegna, la Barbera Sarda non è identica né alla [Barbera](
 - Maturazione tardiva
 
 ## Diffusione geografica
-La Barbera Sarda è coltivata solo in Sardegna, Italia, dove è raccomandata principalmente nelle province di Nuoro, Cagliari, Oristano e Sassari. È generalmente usato per rafforzare l'acidità nelle miscele. Gli ultimi anni del 2000 hanno visto l'inizio di un revival, ad esempio nel vino regionale Terresicci della Cantina di Dolianova (85% Barbera Sarda, 10% [Syrah](/vitigni/Italia/bacca-nera/syrah), 5% [Montepulciano](/vitigni/Italia/bacca-nera/montepulciano)).
+La Barbera Sarda è coltivata solo in Sardegna, Italia, dove è raccomandata principalmente nelle province di Nuoro, Cagliari, Oristano e Sassari. È generalmente usato per rafforzare l'acidità nei blend. Gli ultimi anni del 2000 hanno visto l'inizio di un revival, ad esempio nel vino regionale Terresicci della Cantina di Dolianova (85% Barbera Sarda, 10% [Syrah](/vitigni/Italia/bacca-nera/syrah), 5% [Montepulciano](/vitigni/Italia/bacca-nera/montepulciano)).
 

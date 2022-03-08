@@ -34,7 +34,7 @@ Nera
 
 ## Caratteristiche enologiche
 
-Sebbene possa essere utilizzato per fare rossi o rosati rispettabili ma leggeri, a volte viene usato come riempitivo in miscele poco costose o distillato per la produzione di raki. Kavaklidere produce diverse versioni di rosé (fermo, secco, frizzante e semidolce), Pamukkale, Erdoğuz e Küp, tra gli altri, producono rossi secchi. I vini sono tipicamente freschi e leggeri, dal sapore di frutta rossa con tannini morbidi.
+Sebbene possa essere utilizzato per fare rossi o rosati rispettabili ma leggeri, a volte viene usato come riempitivo in blend poco costose o distillato per la produzione di raki. Kavaklidere produce diverse versioni di rosé (fermo, secco, frizzante e semidolce), Pamukkale, Erdoğuz e Küp, tra gli altri, producono rossi secchi. I vini sono tipicamente freschi e leggeri, dal sapore di frutta rossa con tannini morbidi.
 
 ## Diffusione geografica
 Çalkarası si coltiva sulla penisola di Çal nella regione di Pamukkale, ad un'altezza di 600-850 m sul livello del mare nella provincia di Denizli nella Turchia sud-occidentale, dove il clima è moderato dalla vicinanza del Mediterraneo e i terreni sono generalmente argillosi e calcarei. Nel 2010 sono stati piantati 833 ha (2.058 acri). 
