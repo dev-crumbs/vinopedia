@@ -1,17 +1,17 @@
 ---
-title: Amarone della Valpolicella Classico – Amarone della Valpolicella Classico DOCG – David Sterza – Veneto (IT) – 30-34€ – 5★
+title: Amarone Classico – Amarone Classico DOCG – David Sterza – Veneto (IT) – 30-34€ – 5★
 description: Corvina 60% + Corvinone 20% + Oseleta 3% Rondinella 17% | Brasato di cinghiale con polenta – Tordi in salmì con polenta
 published: true
 date: 2022-01-28T17:14:37.370Z
-tags: Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Prezzi | 30-34€, Vitigni | Corvina, Vitigni | Rondinella, Vitigni | Corvinone, Vitigni | Oseleta, Brasato di cinghiale con polenta, Alimento | tordi, Aromatizzazione | in salmì, Aromatizzazione | con polenta
+tags: Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Prezzi | 30-34€, Vitigni | Corvina, Vitigni | Rondinella, Vitigni | Corvinone, Vitigni | Oseleta, Alimento | cinghiale, Cottura | brasato, Alimento | tordi, Aromatizzazione | in salmì, Aromatizzazione | con polenta
 editor: markdown
 dateCreated: 2022-01-27T15:21:34.303Z
 ---
 
-# Amarone della Valpolicella
+# Amarone Classico
 
 ## Caratteristiche
-- **Nome:** <span class="nome">Amarone della Valpolicella Classico</span>
+- **Nome:** <span class="nome">Amarone Classico</span>
 - **Tipologia:** Rosso fermo
 - **Denominazione:** <span class="denominazione">[Amarone della Valpolicella DOCG](/denominazioni/Italia/Veneto/DOCG/Amarone-della-Valpolicella) (Classico)</span>
 - **Produttore:** <span class="cantina">[David Sterza](/produttori/Italia/Veneto/David Sterza)</span> 
@@ -31,5 +31,5 @@ dateCreated: 2022-01-27T15:21:34.303Z
 
 ## Annate
 
-- Amarone della Valpolicella [2016](vini/Italia/Veneto/David Sterza/Amarone-della-Valpolicella/2016) -- <span class="star-5"></span> -- 93/100
-- Amarone della Valpolicella [2017](vini/Italia/Veneto/David Sterza/Amarone-della-Valpolicella/2017) -- <span class="star-5"></span> -- 91/100
+- Amarone Classico [2016](vini/Italia/Veneto/David-Sterza/Amarone-Classico/2016) -- <span class="star-5"></span> -- 93/100
+- Amarone Classico [2017](vini/Italia/Veneto/David-Sterza/Amarone-Classico/2017) -- <span class="star-5"></span> -- 91/100

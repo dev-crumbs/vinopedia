@@ -1,5 +1,5 @@
 ---
-title: Amarone della Valpolicella Classico – Amarone della Valpolicella Classico DOCG – Rubinelli-Vajol – Veneto (IT) – 50-54€ – 4★
+title: Amarone Classico – Amarone della Valpolicella Classico DOCG – Rubinelli-Vajol – Veneto (IT) – 50-54€ – 4★
 description: Corvina 40% + Rondinella 10% + Corvinone 40% + Molinara 5% + Oseleta 5% | Filetto di maiale lardellato – Cinghiale in dolceforte
 published: true
 date: 2022-01-28T17:14:37.370Z
@@ -8,12 +8,12 @@ editor: markdown
 dateCreated: 2022-01-27T15:21:34.303Z
 ---
 
-# Amarone della Valpolicella Classico
+# Amarone Classico
 
 ## Caratteristiche
-- **Nome:** <span class="nome">Amarone Della Valpolicella Classico</span>
+- **Nome:** <span class="nome">Amarone Classico</span>
 - **Tipologia:** Rosso fermo
-- **Denominazione:** <span class="denominazione">[Amarone della Valpolicella DOCG](/denominazioni/Italia/Veneto/DOCG/Amarone-della-Valpolicella) (Classico)</span>
+- **Denominazione:** <span class="denominazione">[Amarone della Valpolicella DOCG](/denominazioni/Italia/Veneto/DOCG/Amarone) (Classico)</span>
 - **Produttore:** <span class="cantina">[Rubinelli-Vajol](/produttori/Italia/Veneto/Rubinelli-Vajol)</span> 
 - **Composizione:** 40% [Corvina](/vitigni/Italia/bacca-nera/corvina) + 10% [Rondinella](/vitigni/Italia/bacca-nera/rondinella) + 40% [Corvinone](/vitigni/Italia/bacca-nera/corvinone) + 5% [Molinara](/vitigni/Italia/bacca-nera/molinara) + 5% [Oseleta](/vitigni/Italia/bacca-nera/oseleta)
 - **Affinamento:** 36-48 mesi in legno
@@ -28,7 +28,7 @@ dateCreated: 2022-01-27T15:21:34.303Z
 - Cinghiale in dolceforte
 
 ## Annate
-- Amarone della Valpolicella Classico [2013](vini/Italia/Veneto/Rubinelli-Vajol/Amarone-della-Valpolicella-Classico/2013) -- <span class="star-4"></span> -- 90/100
-- Amarone della Valpolicella Classico [2015](vini/Italia/Veneto/Rubinelli-Vajol/Amarone-della-Valpolicella-Classico/2015) -- <span class="star-4"></span> -- 90/100
+- Amarone Classico [2013](vini/Italia/Veneto/Rubinelli-Vajol/Amarone-Classico/2013) -- <span class="star-4"></span> -- 90/100
+- Amarone Classico [2015](vini/Italia/Veneto/Rubinelli-Vajol/Amarone-Classico/2015) -- <span class="star-4"></span> -- 90/100
 
 
