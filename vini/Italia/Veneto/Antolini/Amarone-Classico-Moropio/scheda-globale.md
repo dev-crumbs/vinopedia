@@ -3,7 +3,7 @@ title: Amarone della Valpolicella Classico Moropio – Amarone della Valpolicell
 description: Corvina + Corvinone + Molinara + Rondinella | Brasato al vino – Pernice alla ghiotta – Coscia d'oca con semi di sesamo – Capriolo in tecia con funghi e polenta
 published: true
 date: 2022-01-28T17:14:37.370Z
-tags: Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Prezzi | 40-44€, Vitigni | Corvina, Vitigni | Rondinella, Vitigni | Corvinone, Vitigni | Molinara, Valutazioni | 4 stelle, Alimento | manzo, Alimento | pernice, Alimento | oca, Alimento | capriolo, Aromatizzazione | al vino, Aromatizzazione | alla ghiotta, Aromatizzazione | al sesamo, Aromatizzazione | con funghi e polenta, Cottura | in tecia
+tags: Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Prezzi | 40-44€, Vitigni | Corvina, Vitigni | Rondinella, Vitigni | Corvinone, Vitigni | Molinara, Valutazioni | 4 stelle, Alimento | manzo, Alimento | pernice, Alimento | oca, Alimento | capriolo, Aromatizzazione | al vino, Aromatizzazione | alla ghiotta, Aromatizzazione | al sesamo, Aromatizzazione | con funghi, Aromatizzazione | con polenta, Cottura | in tecia
 editor: markdown
 dateCreated: 2022-01-27T15:21:34.303Z
 ---

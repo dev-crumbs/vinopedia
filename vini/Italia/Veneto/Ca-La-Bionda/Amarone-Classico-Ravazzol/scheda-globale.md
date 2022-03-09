@@ -3,7 +3,7 @@ title: Amarone Classico Ravazzol – Amarone della Valpolicella Classico DOCG �
 description: Corvina + Corvinone + Rondinella + Molinara | Rotolo di faraona ripieno ai finferli – Oca in umido
 published: true
 date: 2022-01-28T17:14:37.370Z
-tags: Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Valutazioni | 5 stelle, Prezzi | 65-69€, Vitigni | Corvina, Vitigni | Rondinella, Vitigni | Corvinone, Alimento | faraona, Alimento | oca, Cottura | in umido, Aromatizzazione | ai finferli
+tags: Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Valutazioni | 5 stelle, Prezzi | 65-69€, Vitigni | Corvina, Vitigni | Rondinella, Vitigni | Corvinone, Alimento | faraona, Alimento | oca, Cottura | in umido, Aromatizzazione | con funghi
 editor: markdown
 dateCreated: 2022-01-27T15:21:34.303Z
 ---

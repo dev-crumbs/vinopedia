@@ -3,7 +3,7 @@ title: Amarone Riserva Pian Di Mezzo – Amarone della Valpolicella Riserva DOCG
 description: Corvina + Corvinone + Rondinella + Oseleta | Cinghiale arrosto con castagne
 published: true
 date: 2022-01-28T17:14:37.370Z
-tags: Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Valutazioni | 4 stelle, Prezzi | 50-54€, Vitigni | Corvina, Vitigni | Rondinella, Vitigni | Corvinone, Alimento | cinghiale,Aromatizzazione | con castagne, Cottura | arrosto
+tags: Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Valutazioni | 4 stelle, Prezzi | 50-54€, Vitigni | Corvina, Vitigni | Rondinella, Vitigni | Corvinone, Alimento | cinghiale, Aromatizzazione | con castagne, Cottura | arrosto
 editor: markdown
 dateCreated: 2022-01-27T15:21:34.303Z
 ---

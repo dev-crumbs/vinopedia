@@ -27,4 +27,4 @@ dateCreated: 2022-01-15T21:40:12.066Z
 - Germano reale al forno
 
 ## Annate
-- Amarone [2017](vini/Italia/Veneto/La Collina-Dei-Ciliegi/Amarone/2017) -- <span class="star-4"></span> -- 90/100
+- Amarone [2017](vini/Italia/Veneto/La-Collina-Dei-Ciliegi/Amarone/2017) -- <span class="star-4"></span> -- 90/100

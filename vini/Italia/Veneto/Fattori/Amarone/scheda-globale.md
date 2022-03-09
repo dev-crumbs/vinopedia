@@ -3,7 +3,7 @@ title: Amarone – Amarone della Valpolicella DOCG – Fattori – Veneto (IT) �
 description: Corvina + Corvinone + Rondinella + Altre | Germano reale in salsa all'amarone – Guanciale di manzo stufato – Manzo brasato con funghi – Controfiletto di bue alla brace
 published: true
 date: 2022-01-28T17:14:37.370Z
-tags: Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Prezzi | 60-64€, Valutazioni | 4 stelle, Vitigni | Corvina, Vitigni | Rondinella, Vitigni | Corvinone, Alimento | germano, Aromatizzazione | al vino, Alimento | manzo, Cottura | stufato, Cottura | brasato, Aromatizzazione | ai funghi, Alimento | bue, Cottura | alla brace
+tags: Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Prezzi | 60-64€, Valutazioni | 4 stelle, Vitigni | Corvina, Vitigni | Rondinella, Vitigni | Corvinone, Alimento | germano, Aromatizzazione | al vino, Alimento | manzo, Cottura | stufato, Cottura | brasato, Aromatizzazione | con funghi, Alimento | bue, Cottura | alla brace
 editor: markdown
 dateCreated: 2022-01-27T15:21:34.303Z
 ---

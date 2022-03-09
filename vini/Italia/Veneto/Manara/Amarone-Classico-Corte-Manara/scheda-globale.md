@@ -3,7 +3,7 @@ title: Amarone Classico Corte Manara – Amarone della Valpolicella Classico DOC
 description: Corvina + Corvinone + Rondinella + Altre | Monte veronese stagionato – Terrina di faraona con salsa alle mandorle – Gulash al ginepro – Civet di capriolo ai funghi
 published: true
 date: 2022-01-15T22:17:16.730Z
-tags: Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Vitigni | Corvina, Vitigni | Rondinella, Vitigni | Corvinone, Prezzi | 25-29€, Valutazioni | 3 stelle, Alimento | capriolo, Alimento | Formaggi - Monte veronese stagionato, Alimento | faraona, Alimento | gulash, Aromatizzazione | alle mandorle, Aromatizzazione | al ginepro, Aromatizzazione | ai funghi 
+tags: Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Vitigni | Corvina, Vitigni | Rondinella, Vitigni | Corvinone, Prezzi | 25-29€, Valutazioni | 3 stelle, Alimento | capriolo, Alimento | Formaggi - Monte veronese stagionato, Alimento | faraona, Alimento | gulash, Aromatizzazione | alle mandorle, Aromatizzazione | al ginepro, Aromatizzazione | con funghi 
 editor: markdown
 dateCreated: 2022-01-15T21:40:12.066Z
 ---
