@@ -1,5 +1,5 @@
 ---
-title: Barbaresco Angelo – Barbaresco  DOCG – Albino Rocca – Piemonte (IT) – 70-74€ – 3★-5★
+title: Barbaresco Angelo – Barbaresco DOCG – Albino Rocca – Piemonte (IT) – 70-74€ – 3★-5★
 description: Nebbiolo 100% | Capretto al forno – Filetto di manzo all'aceto balsamico e miele – Fagiano in salsa di porcini – Filetti di fagiano all'arancia
 published: true
 date: 2021-10-01T19:59:15.183Z

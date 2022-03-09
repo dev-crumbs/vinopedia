@@ -1,5 +1,5 @@
 ---
-title: Barbaresco Riserva Rabajà – Barbaresco Rabajà Riserva DOCG – Produttori del Barbaresco – Piemonte (IT) – 45-49€ – 3★-5★
+title: Barbaresco Rabajà Riserva – Barbaresco Rabajà Riserva DOCG – Produttori del Barbaresco – Piemonte (IT) – 45-49€ – 3★-5★
 description: Nebbiolo 100% | Fagiano in umido – Testun stagionato – spalla d'agnello – Fagiano alla carbonara
 published: true
 date: 2021-10-01T20:13:45.958Z
@@ -32,8 +32,8 @@ dateCreated: 2021-08-23T12:22:31.894Z
 - Fagiano alla carbonara
 
 ## Annate
-- Barbaresco Riserva Rabajà [2011](vini/Italia/Piemonte/Produttori-del-Barbaresco/Barbaresco-Rabaja/2011) -- <span class="star-3"></span> -- 88/100
-- Barbaresco Riserva Rabajà [2013](vini/Italia/Piemonte/Produttori-del-Barbaresco/Barbaresco-Rabaja/2013) -- <span class="star-4"></span> -- 90/100
-- Barbaresco Riserva Rabajà [2014](vini/Italia/Piemonte/Produttori-del-Barbaresco/Barbaresco-Rabaja/2014) -- <span class="star-4"></span> -- 89/100
-- Barbaresco Riserva Rabajà [2015](vini/Italia/Piemonte/Produttori-del-Barbaresco/Barbaresco-Rabaja/2015) -- <span class="star-5"></span> -- 93/100
-- Barbaresco Riserva Rabajà [2016](vini/Italia/Piemonte/Produttori-del-Barbaresco/Barbaresco-Rabaja/2016) -- <span class="star-5"></span> -- 96/100
+- Barbaresco Rabajà Riserva [2011](vini/Italia/Piemonte/Produttori-del-Barbaresco/Barbaresco-Rabaja-Riserva/2011) -- <span class="star-3"></span> -- 88/100
+- Barbaresco Rabajà Riserva [2013](vini/Italia/Piemonte/Produttori-del-Barbaresco/Barbaresco-Rabaja-Riserva/2013) -- <span class="star-4"></span> -- 90/100
+- Barbaresco Rabajà Riserva [2014](vini/Italia/Piemonte/Produttori-del-Barbaresco/Barbaresco-Rabaja-Riserva/2014) -- <span class="star-4"></span> -- 89/100
+- Barbaresco Rabajà Riserva [2015](vini/Italia/Piemonte/Produttori-del-Barbaresco/Barbaresco-Rabaja-Riserva/2015) -- <span class="star-5"></span> -- 93/100
+- Barbaresco Rabajà Riserva [2016](vini/Italia/Piemonte/Produttori-del-Barbaresco/Barbaresco-Rabaja-Riserva/2016) -- <span class="star-5"></span> -- 96/100

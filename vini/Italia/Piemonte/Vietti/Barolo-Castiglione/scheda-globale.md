@@ -13,7 +13,7 @@ dateCreated: 2021-09-24T14:29:28.450Z
 ## Caratteristiche
 - **Nome:** Barolo Castiglione
 - **Tipologia:** Rosso fermo
-- **Denominazione:** [Barolo DOCG](/denominazioni/Italia/Piemonte/DOCG/Barolo)
+- **Denominazione:** [Barolo DOCG](/denominazioni/Italia/Piemonte/DOCG/Barolo) (Castiglione)
 - **Produttore:** [Vietti](/produttori/Italia/Piemonte/Vietti)
 - **Composizione:** 100% [Nebbiolo](/vitigni/Italia/bacca-nera/nebbiolo)
 - **Affinamento:** 30 mesi in botte grande e piccola

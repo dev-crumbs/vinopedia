@@ -1,5 +1,5 @@
 ---
-title: Barbaresco Albesani Santo Stefano Riserva  – Barbaresco Albesani DOCG – Castello di Neive – Piemonte (IT) – 55-59€ – 5★
+title: Barbaresco Albesani Santo Stefano Riserva  – Barbaresco Albesani Riserva DOCG – Castello di Neive – Piemonte (IT) – 55-59€ – 5★
 description: Nebbiolo 100% | Tajarin al tartugo bianco – Faraona ripiena in salsa tartufata – Filetto in crosta – Vitellone alla Cavour – Filetto all'aceto balsamico
 published: true
 date: 2021-10-01T19:59:15.183Z

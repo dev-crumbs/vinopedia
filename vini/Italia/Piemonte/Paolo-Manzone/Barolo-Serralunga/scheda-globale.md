@@ -13,7 +13,7 @@ dateCreated: 2021-09-24T12:31:24.453Z
 ## Caratteristiche
 - **Nome:** Barolo Serralunga
 - **Tipologia:** Rosso fermo
-- **Denominazione:** [Barolo DOCG](/denominazioni/Italia/Piemonte/DOCG/Barolo)
+- **Denominazione:** [Barolo DOCG](/denominazioni/Italia/Piemonte/DOCG/Barolo) (Serralunga)
 - **Produttore:** [Paolo Manzone](/produttori/Italia/Piemonte/Paolo-Manzone)
 - **Composizione:** 100% [Nebbiolo](/vitigni/Italia/bacca-nera/nebbiolo)
 - **Affinamento:** 24 mesi in botte grande

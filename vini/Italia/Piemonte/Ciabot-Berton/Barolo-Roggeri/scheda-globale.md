@@ -1,5 +1,5 @@
 ---
-title: Barolo Roggeri – Barolo DOCG – Ciabot Berton – Piemonte (IT) – 40-44€ – 3★
+title: Barolo Roggeri – Barolo Roggeri DOCG – Ciabot Berton – Piemonte (IT) – 40-44€ – 3★
 description: Nebbiolo 100% | Beccacce al ginepro – Filetto al porto – Medaglioni alla villeroy – Coniglio al ginepro
 published: true
 date: 2021-10-01T19:58:59.048Z
@@ -13,7 +13,7 @@ dateCreated: 2021-09-24T12:31:04.121Z
 ## Caratteristiche
 - **Nome:** Barolo Roggeri
 - **Tipologia:** Rosso fermo
-- **Denominazione:** [Barolo DOCG](/denominazioni/Italia/Piemonte/DOCG/Barolo)
+- **Denominazione:** [Barolo DOCG](/denominazioni/Italia/Piemonte/DOCG/Barolo) (Roggeri)
 - **Produttore:** [Ciabot Berton](/produttori/Italia/Piemonte/Ciabot-Berton)
 - **Composizione:** 100% [Nebbiolo](/vitigni/Italia/bacca-nera/nebbiolo)
 - **Affinamento:** 24 mesi in botte grande

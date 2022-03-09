@@ -1,5 +1,5 @@
 ---
-title: Barbaresco Serraboella Riserva – Barbaresco Riserva DOCG – Massimo Rivetti – Piemonte (IT) – 50-54€ – 3★-4★
+title: Barbaresco Serraboella Riserva – Barbaresco Serraboella Riserva DOCG – Massimo Rivetti – Piemonte (IT) – 50-54€ – 3★-4★
 description: Nebbiolo 100% | Pernice in crosta – Camoscio alle amarene
 published: true
 date: 2021-10-01T20:13:40.693Z
