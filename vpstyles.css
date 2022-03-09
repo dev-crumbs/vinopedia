@@ -386,7 +386,7 @@ table.summary-table td:nth-child(1n+4) {text-align: right;}
 .v-list-item__action {
   display: none!important
 }
-.v-avatar.v-list-item__avatar.rounded-0.v-avatar--tile {
+.search-results .v-avatar.v-list-item__avatar.rounded-0.v-avatar--tile {
   display: none
 }
 .pa-5 {
