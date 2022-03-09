@@ -1,5 +1,5 @@
 ---
-title: Amarone Classico Monte Sant'Urbano – Amarone della Valpolicella Classico DOCG – Speri – Veneto (IT) – 65-69€ – 4★-5★
+title: Amarone Classico Sant'Urbano – Amarone della Valpolicella Classico DOCG – Speri – Veneto (IT) – 65-69€ – 4★-5★
 description: Corvina 65% + Rondinella 25% + Corvinone 5% + Molinara 5% | Fagiano allo spiedo – Capretto al forno – Petto d'anatra con salsa al cioccolato – Anatra in umido – Braciola di cervo in salsa di ribes
 published: true
 date: 2022-01-30T10:15:38.884Z
@@ -8,10 +8,10 @@ editor: markdown
 dateCreated: 2022-01-27T15:21:34.303Z
 ---
 
-# Amarone Classico Monte Sant'Urbano
+# Amarone Classico Sant'Urbano
 
 ## Caratteristiche
-- **Nome:** <span class="nome">Amarone Classico Monte Sant Urbano</span>
+- **Nome:** <span class="nome">Amarone Classico Sant Urbano</span>
 - **Tipologia:** Rosso fermo
 - **Denominazione:** <span class="denominazione">[Amarone della Valpolicella DOCG](/denominazioni/Italia/Veneto/DOCG/Amarone-della-Valpolicella) (Classico)</span>
 - **Produttore:** <span class="cantina">[Speri](/produttori/Italia/Veneto/Speri)</span> 
@@ -34,11 +34,11 @@ dateCreated: 2022-01-27T15:21:34.303Z
 - Braciola di cervo in salsa di ribes
 
 ## Annate
-- Amarone Classico Monte Sant'Urbano [2012](/vini/Italia/Veneto/Speri/Amarone-Classico-Monte-Sant-Urbano/2012) -- <span class="star-5"></span> -- 94/100
-- Amarone Classico Monte Sant'Urbano [2013](/vini/Italia/Veneto/Speri/Amarone-Classico-Monte-Sant-Urbano/2013) -- <span class="star-4"></span> -- 90/100
-- Amarone Classico Monte Sant'Urbano [2015](/vini/Italia/Veneto/Speri/Amarone-Classico-Monte-Sant-Urbano/2015) -- <span class="star-5"></span> -- 92/100
-- Amarone Classico Monte Sant'Urbano [2016](/vini/Italia/Veneto/Speri/Amarone-Classico-Monte-Sant-Urbano/2016) -- <span class="star-5"></span> -- 93/100
-- Amarone Classico Monte Sant'Urbano [2017](/vini/Italia/Veneto/Speri/Amarone-Classico-Monte-Sant-Urbano/2017) -- <span class="star-5"></span> -- 92/100
+- Amarone Classico Sant'Urbano [2012](/vini/Italia/Veneto/Speri/Amarone-Classico-Sant-Urbano/2012) -- <span class="star-5"></span> -- 94/100
+- Amarone Classico Sant'Urbano [2013](/vini/Italia/Veneto/Speri/Amarone-Classico-Sant-Urbano/2013) -- <span class="star-4"></span> -- 90/100
+- Amarone Classico Sant'Urbano [2015](/vini/Italia/Veneto/Speri/Amarone-Classico-Sant-Urbano/2015) -- <span class="star-5"></span> -- 92/100
+- Amarone Classico Sant'Urbano [2016](/vini/Italia/Veneto/Speri/Amarone-Classico-Sant-Urbano/2016) -- <span class="star-5"></span> -- 93/100
+- Amarone Classico Sant'Urbano [2017](/vini/Italia/Veneto/Speri/Amarone-Classico-Sant-Urbano/2017) -- <span class="star-5"></span> -- 92/100
 
 
 ## Confronto annate
