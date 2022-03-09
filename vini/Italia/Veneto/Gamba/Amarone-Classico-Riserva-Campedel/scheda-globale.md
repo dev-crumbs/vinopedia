@@ -3,7 +3,7 @@ title: Amarone Classico Riserva Campedel – Amarone della Valpolicella Classico
 description: Corvina + Corvinone + Rondinella + Oseleta | Germano reale al forno in salsa all'Amarone – Stracotto di manzetta con polenta – Stracotto di musso all'Amarone – Brasato di lepre 
 published: true
 date: 2022-01-15T22:17:16.730Z
-tags: Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Vitigni | Corvina, Vitigno | Rondinella, Vitigno | Corvinone, Vitigno | Oseleta, Prezzi | 100-124€, Valutazioni | 5 stelle, Alimento | germano, Cottura | al forno, Aromatizzazione | al vino, Alimento | manzo, Cottura | stracotto, Aromatizzazione | con polenta, Alimento | asino, Alimento | lepre
+tags: Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Vitigni | Corvina, Vitigni | Rondinella, Vitigni | Corvinone, Vitigni | Oseleta, Prezzi | 100-124€, Valutazioni | 5 stelle, Alimento | germano, Cottura | al forno, Aromatizzazione | al vino, Alimento | manzo, Cottura | stracotto, Aromatizzazione | con polenta, Alimento | asino, Alimento | lepre
 editor: markdown
 dateCreated: 2022-01-15T21:40:12.066Z
 ---

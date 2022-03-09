@@ -3,7 +3,7 @@ title: Amarone Classico Le Quare – Amarone della Valpolicella Classico DOCG �
 description: Corvina + Corvinone + Rondinella + Oseleta | Tagliata di cavallo all'aceto balsamico – Controfiletto in crosta – Imbriago stagionato – Cervo in salmì 
 published: true
 date: 2022-01-15T22:17:16.730Z
-tags: Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Vitigni | Corvina, Vitigno | Rondinella, Vitigno | Corvinone, Vitigno | Oseleta, Prezzi | 35-39€, Valutazioni | 4 stelle, Alimento | cavallo, Alimento | manzo, Alimento | Formaggi - Imbriago stagionato, Alimento | cervo, Aromatizzazione | in salmì, Aromatizzazione | all'aceto balsamico, Aromatizzazione | in crosta
+tags: Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Vitigni | Corvina, Vitigni | Rondinella, Vitigni | Corvinone, Vitigni | Oseleta, Prezzi | 35-39€, Valutazioni | 4 stelle, Alimento | cavallo, Alimento | manzo, Alimento | Formaggi - Imbriago stagionato, Alimento | cervo, Aromatizzazione | in salmì, Aromatizzazione | all'aceto balsamico, Aromatizzazione | in crosta
 editor: markdown
 dateCreated: 2022-01-15T21:40:12.066Z
 ---

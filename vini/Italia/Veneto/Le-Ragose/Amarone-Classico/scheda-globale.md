@@ -3,7 +3,7 @@ title: Amarone Classico – Amarone della Valpolicella Classico DOCG – Le Rago
 description: Corvina + Corvinone + Rondinella + Altre | Guanciale di manzo in umido con polenta – Cinchiale in umido – Stracotto di cinghiale al ginepro
 published: true
 date: 2022-01-15T22:17:16.730Z
-tags: Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Vitigni | Corvina, Vitigno | Rondinella, Vitigno | Corvinone, Prezzi | 40-44€, Valutazioni | 4 stelle, Alimento | manzo, Alimento | cinghiale, Aromatizzazione | con polenta, Aromatizzazione | al ginepro, Cottura | in umido, Cottura | stracotto 
+tags: Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Vitigni | Corvina, Vitigni | Rondinella, Vitigni | Corvinone, Prezzi | 40-44€, Valutazioni | 4 stelle, Alimento | manzo, Alimento | cinghiale, Aromatizzazione | con polenta, Aromatizzazione | al ginepro, Cottura | in umido, Cottura | stracotto 
 editor: markdown
 dateCreated: 2022-01-15T21:40:12.066Z
 ---

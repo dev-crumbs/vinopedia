@@ -3,7 +3,7 @@ title: Amarone Classico Marta Galli – Amarone della Valpolicella Classico DOCG
 description: Corvina + Corvinone + Rondinella + Altre | Lepre in salmì
 published: true
 date: 2022-01-15T22:17:16.730Z
-tags: Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Vitigni | Corvina, Vitigno | Rondinella, Vitigno | Corvinone, Prezzi | 45-49€, Valutazioni | 4 stelle, Alimento | lepre, Aromatizzazione | in salmì
+tags: Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Vitigni | Corvina, Vitigni | Rondinella, Vitigni | Corvinone, Prezzi | 45-49€, Valutazioni | 4 stelle, Alimento | lepre, Aromatizzazione | in salmì
 editor: markdown
 dateCreated: 2022-01-15T21:40:12.066Z
 ---

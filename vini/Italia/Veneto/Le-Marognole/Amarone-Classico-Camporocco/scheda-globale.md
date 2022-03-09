@@ -3,7 +3,7 @@ title: Amarone Classico Camporocco – Amarone della Valpolicella Classico DOCG 
 description: Corvina + Corvinone + Rondinella | Filetto di manzo in crosta alle erbe – Controfiletto di bue – Guanciale in umido
 published: true
 date: 2022-01-15T22:17:16.730Z
-tags: Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Vitigni | Corvina, Vitigno | Rondinella, Vitigno | Corvinone, Prezzi | 35-39€, Valutazioni | 3 stelle, Alimento | manzo, Alimento | maiale, Alimento | bue, Aromatizzazione | in crosta, Aromatizzazione | alle erbe, Cottura | in umido
+tags: Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Vitigni | Corvina, Vitigni | Rondinella, Vitigni | Corvinone, Prezzi | 35-39€, Valutazioni | 3 stelle, Alimento | manzo, Alimento | maiale, Alimento | bue, Aromatizzazione | in crosta, Aromatizzazione | alle erbe, Cottura | in umido
 editor: markdown
 dateCreated: 2022-01-15T21:40:12.066Z
 ---

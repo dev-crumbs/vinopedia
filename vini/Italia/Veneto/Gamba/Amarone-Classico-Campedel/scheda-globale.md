@@ -3,7 +3,7 @@ title: Amarone Classico Campedel – Amarone della Valpolicella Classico DOCG �
 description: Corvina + Corvinone + Rondinella + Croatina | Stracotto di manzo con le spugnole – Guancialino brasato e purè – Braciola di cervo con salsa al ribes – Gulash di cervo 
 published: true
 date: 2022-01-15T22:17:16.730Z
-tags: Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Vitigni | Corvina, Vitigno | Rondinella, Vitigno | Corvinone, Vitigno | Croatina, Prezzi | 55-59€, Valutazioni | 4 stelle, Alimento | manzo, Alimento | maiale, Alimento | cervo, Alimento | gulash, Cottura | brasato, Cottura | stracotto, Aromatizzazione | con funghi, Aromatizzazione | con purè, Aromatizzazione | al ribes
+tags: Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Vitigni | Corvina, Vitigni | Rondinella, Vitigni | Corvinone, Vitigni | Croatina, Prezzi | 55-59€, Valutazioni | 4 stelle, Alimento | manzo, Alimento | maiale, Alimento | cervo, Alimento | gulash, Cottura | brasato, Cottura | stracotto, Aromatizzazione | con funghi, Aromatizzazione | con purè, Aromatizzazione | al ribes
 editor: markdown
 dateCreated: 2022-01-15T21:40:12.066Z
 ---
