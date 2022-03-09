@@ -3,7 +3,7 @@ title: Gutturnio Superiore – Gutturnio Superiore DOC – Luretta – Emilia (I
 description: Barbera 60% + Croatina 40% | Spezzatino di manzo con cipolline e rabarbaro
 published: true
 date: 2021-10-01T20:11:51.188Z
-tags: Vinificazione | rosso, Regione | Emilia (IT), Vinificazione | blend, Vinificazione | fermo, Valutazioni | 3 stelle, Vitigni | Barbera, Vitigni | Croatina, Prezzi | 10-14€, Alimento | manzo, Alimento-dettagli | spezzatino, Aromatizzazione | cipolline e rabarbaro
+tags: Vinificazione | rosso, Regione | Emilia (IT), Vinificazione | blend, Vinificazione | fermo, Valutazioni | 3 stelle, Vitigni | Barbera, Vitigni | Croatina, Prezzi | 10-14€, Alimento | manzo, Aromatizzazione | cipolline e rabarbaro
 editor: markdown
 dateCreated: 2021-09-02T14:33:13.149Z
 ---

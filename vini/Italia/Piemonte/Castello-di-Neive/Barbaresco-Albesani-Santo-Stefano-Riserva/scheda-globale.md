@@ -3,7 +3,7 @@ title: Barbaresco Albesani Santo Stefano Riserva  – Barbaresco Albesani DOCG �
 description: Nebbiolo 100% | Tajarin al tartugo bianco – Faraona ripiena in salsa tartufata – Filetto in crosta – Vitellone alla Cavour – Filetto all'aceto balsamico
 published: true
 date: 2021-10-01T19:59:15.183Z
-tags: Regione | Piemonte (IT), Vinificazione | rosso, Vinificazione | varietale, Vitigni | Nebbiolo, Valutazioni | 5 stelle, Alimento | pasta, Alimento-dettagli | Tajarin, Aromatizzazione | al tartufo bianco, Alimento | faraona, Aromatizzazione | ripiena, Aromatizzazione | in salsa tartufata, Alimento | manzo, Alimento-dettagli | filetto, Aromatizzazione | in crosta, Alimento-dettagli | filetto, Aromatizzazione | all'aceto balsamico, Alimento | vitello, Cottura | alla Cavour, Prezzi | 55-59€
+tags: Regione | Piemonte (IT), Vinificazione | rosso, Vinificazione | varietale, Vitigni | Nebbiolo, Valutazioni | 5 stelle, Alimento | pasta, Aromatizzazione | al tartufo bianco, Alimento | faraona, Aromatizzazione | ripiena, Aromatizzazione | in salsa tartufata, Alimento | manzo, Aromatizzazione | in crosta, Aromatizzazione | all'aceto balsamico, Alimento | vitello, Cottura | alla Cavour, Prezzi | 55-59€
 editor: markdown
 dateCreated: 2021-09-24T12:31:16.342Z
 ---

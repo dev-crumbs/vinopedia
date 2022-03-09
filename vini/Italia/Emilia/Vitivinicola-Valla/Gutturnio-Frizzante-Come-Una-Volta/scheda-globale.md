@@ -3,7 +3,7 @@ title: Gutturnio Frizzante Come Una Volta – Gutturnio DOC – Vitivinicola Val
 description: Barbera 60% + Croatina 40% | Salsiccia alla griglia
 published: true
 date: 2021-10-01T20:11:51.188Z
-tags: Vinificazione | rosso, Regione | Emilia (IT), Vinificazione | blend, Vinificazione | frizzante, Vinificazione | Metodo ancestrale, Valutazioni | 3 stelle, Vitigni | Barbera, Vitigni | Croatina, Prezzi | 5-9€, Alimento | maiale, Alimento-dettagli | salsiccia, Cottura | alla griglia
+tags: Vinificazione | rosso, Regione | Emilia (IT), Vinificazione | blend, Vinificazione | frizzante, Vinificazione | Metodo ancestrale, Valutazioni | 3 stelle, Vitigni | Barbera, Vitigni | Croatina, Prezzi | 5-9€, Alimento | maiale, Cottura | alla griglia
 editor: markdown
 dateCreated: 2021-09-02T14:33:13.149Z
 ---

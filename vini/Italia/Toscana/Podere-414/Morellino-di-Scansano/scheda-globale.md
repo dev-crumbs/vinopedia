@@ -3,7 +3,7 @@ title: Morellino di Scansano – Morellino di Scansano DOCG – Podere 414 – T
 description: Sangiovese 85% + Altri 15% | Fiorentina alla brace – Cinghiale alla maremmana – Agnello a scottadito – Cinghiale alle erbe – Pecorino stagionato – Stridoli al ragù
 published: true
 date: 2021-10-04T06:51:28.811Z
-tags: Vinificazione | rosso, Vinificazione | blend, Regione | Toscana (IT), Vitigni | Sangiovese, Vinificazione | fermo, Valutazioni | 5 stelle, Vitigni | Syrah,fiorentina alla brace, colorino, Prezzi | 15-19€, ciliegiolo, Vitigni | Alicante, cinghiale alla maremmana, Alimento | agnello, Cottura | a scottadito, cinghiale alle erbe, Alimento | formaggi, Alimento-dettagli | Pecorino stagionato, Stridoli al ragù
+tags: Vinificazione | rosso, Vinificazione | blend, Regione | Toscana (IT), Vitigni | Sangiovese, Vinificazione | fermo, Valutazioni | 5 stelle, Vitigni | Syrah,fiorentina alla brace, colorino, Prezzi | 15-19€, ciliegiolo, Vitigni | Alicante, cinghiale alla maremmana, Alimento | agnello, Cottura | a scottadito, cinghiale alle erbe, Alimento | formaggi,  Stridoli al ragù
 editor: markdown
 dateCreated: 2021-10-04T06:51:26.317Z
 ---

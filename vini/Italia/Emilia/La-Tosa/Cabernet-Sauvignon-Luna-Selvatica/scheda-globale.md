@@ -3,7 +3,7 @@ title: Cabernet Sauvignon Luna Selvatica – Colli Piacentini DOC – La Tosa �
 description: Cabernet Sauvignon  90% + Merlot 10% | Filetto tartufo bianco – Spezzatino di capriolo – Stracotto di cervo ai mirtilli – Fagiano alle ciliegie – Cinghiale alla cacciatora
 published: true
 date: 2021-10-01T20:11:48.495Z
-tags: Vinificazione | rosso, Vinificazione | blend, Regione | Emilia (IT), Vinificazione | fermo, Valutazioni | 5 stelle, Vitigni | Cabernet Sauvignon, Vitigni | Merlot, Alimento | manzo, Alimento-dettagli | filetto, Aromatizzazione | tartufo bianco, Alimento | capriolo, Cottura | spezzatino, Alimento | cervo, Cottura | stracotto, Aromatizzazione | ai mirtilli, Alimento | fagiano, Aromatizzazione | alle ciliegie, Alimento | cinghiale, Aromatizzazione | alla cacciatora, Prezzi | 20-24€
+tags: Vinificazione | rosso, Vinificazione | blend, Regione | Emilia (IT), Vinificazione | fermo, Valutazioni | 5 stelle, Vitigni | Cabernet Sauvignon, Vitigni | Merlot, Alimento | manzo, Aromatizzazione | tartufo bianco, Alimento | capriolo, Cottura | spezzatino, Alimento | cervo, Cottura | stracotto, Aromatizzazione | ai mirtilli, Alimento | fagiano, Aromatizzazione | alle ciliegie, Alimento | cinghiale, Aromatizzazione | alla cacciatora, Prezzi | 20-24€
 editor: markdown
 dateCreated: 2021-09-03T21:02:59.390Z
 ---

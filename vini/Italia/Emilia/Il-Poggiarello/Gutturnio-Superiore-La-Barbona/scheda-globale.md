@@ -3,7 +3,7 @@ title: Gutturnio Superiore La Barbona – Gutturnio Superiore DOC – Il Poggiar
 description: Barbera 55% + Croatina 45% | Faraona ripiena di castagne – Arrosto al latte – Petto d'anatra
 published: true
 date: 2021-10-01T20:11:51.188Z
-tags: Vinificazione | rosso, Regione | Emilia (IT), Vinificazione | blend, Vinificazione | fermo, Valutazioni | 4 stelle, Vitigni | Barbera, Vitigni | Croatina, Prezzi | 15-19€, Alimento | faraona, Aromatizzazione | ripiena di castagne, Alimento | maiale, Cottura | arrosto, Aromatizzazione | al latte, Alimento | anatra, Alimento-dettagli | petto
+tags: Vinificazione | rosso, Regione | Emilia (IT), Vinificazione | blend, Vinificazione | fermo, Valutazioni | 4 stelle, Vitigni | Barbera, Vitigni | Croatina, Prezzi | 15-19€, Alimento | faraona, Aromatizzazione | ripiena di castagne, Alimento | maiale, Cottura | arrosto, Aromatizzazione | al latte, Alimento | anatra, 
 editor: markdown
 dateCreated: 2021-09-02T14:33:13.149Z
 ---

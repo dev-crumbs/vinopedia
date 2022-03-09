@@ -3,7 +3,7 @@ title: Barbaresco Angelo – Barbaresco  DOCG – Albino Rocca – Piemonte (IT)
 description: Nebbiolo 100% | Capretto al forno – Filetto di manzo all'aceto balsamico e miele – Fagiano in salsa di porcini – Filetti di fagiano all'arancia
 published: true
 date: 2021-10-01T19:59:15.183Z
-tags: Regione | Piemonte (IT), Vinificazione | rosso, Vinificazione | varietale, Vitigni | Nebbiolo, Valutazioni | 5 stelle, Alimento | capretto, Alimento | manzo, Alimento | fagiano, Cottura | al forno, Alimento-dettagli | filetto, Aromatizzazione | all'aceto balsamico, Aromatizzazione | ai porcini, Aromatizzazione | all'arancia, Prezzi | 70-74€
+tags: Regione | Piemonte (IT), Vinificazione | rosso, Vinificazione | varietale, Vitigni | Nebbiolo, Valutazioni | 5 stelle, Alimento | capretto, Alimento | manzo, Alimento | fagiano, Cottura | al forno, Aromatizzazione | all'aceto balsamico, Aromatizzazione | ai porcini, Aromatizzazione | all'arancia, Prezzi | 70-74€
 editor: markdown
 dateCreated: 2021-09-24T12:31:16.342Z
 ---

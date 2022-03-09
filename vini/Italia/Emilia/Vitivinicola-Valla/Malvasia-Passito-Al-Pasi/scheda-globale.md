@@ -3,7 +3,7 @@ title: Malvasia Passito Al Pasì – Emilia IGT – Vitivinicola Valla – Emili
 description: Malvasia aromatica di Candia 100% | Erborinato di capra
 published: true
 date: 2021-10-01T20:11:51.188Z
-tags: Vinificazione | bianco, Regione | Emilia (IT), Vinificazione | varietale, Vinificazione | passito, Valutazioni | 3 stelle, Vitigni | Malvasia di Candia aromatica, Prezzi | 20-24€, Alimento | formaggi, Alimento-dettagli | formaggi erborinati
+tags: Vinificazione | bianco, Regione | Emilia (IT), Vinificazione | varietale, Vinificazione | passito, Valutazioni | 3 stelle, Vitigni | Malvasia di Candia aromatica, Prezzi | 20-24€, Alimento | formaggi, 
 editor: markdown
 dateCreated: 2021-09-02T14:33:13.149Z
 ---

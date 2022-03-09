@@ -3,7 +3,7 @@ title: Amarone – Amarone della Valpolicella DOCG – Pietro Zardini – Veneto
 description: Corvinone 40% + Corvina 30% + Rondinella 20% + Molinara 10% | Agnello al forno – Filetto di bue al roquefort
 published: true
 date: 2022-01-28T17:14:37.370Z
-tags: Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Prezzi | 35-39€, Vitigni | Corvina, Vitigni | Rondinella, Vitigni | Corvinone, Valutazioni | 3 stelle, Alimento | agnello, Cottura | al forno, Alimento | bue, Alimento-dettagli | filetto, Aromatizzazione | al roquefort
+tags: Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Prezzi | 35-39€, Vitigni | Corvina, Vitigni | Rondinella, Vitigni | Corvinone, Valutazioni | 3 stelle, Alimento | agnello, Cottura | al forno, Alimento | bue, Aromatizzazione | al roquefort
 editor: markdown
 dateCreated: 2022-01-27T15:21:34.303Z
 ---

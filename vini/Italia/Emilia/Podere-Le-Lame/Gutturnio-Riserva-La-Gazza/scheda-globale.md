@@ -3,7 +3,7 @@ title: Gutturnio Riserva La Gazza – Gutturnio Riserva DOC – Podere Le Lame �
 description: Barbera 55% + Croatina 45% | Guancia di manzo brasata con tartufo 
 published: true
 date: 2021-10-01T20:11:51.188Z
-tags: Vinificazione | rosso, Regione | Emilia (IT), Vinificazione | blend, Vinificazione | fermo, Valutazioni | 3 stelle, Vitigni | Barbera, Vitigni | Croatina, Prezzi | 15-19€, Alimento | manzo, Alimento-dettagli | guancia, Aromatizzazione | al tartufo, Cottura | brasato
+tags: Vinificazione | rosso, Regione | Emilia (IT), Vinificazione | blend, Vinificazione | fermo, Valutazioni | 3 stelle, Vitigni | Barbera, Vitigni | Croatina, Prezzi | 15-19€, Alimento | manzo, Aromatizzazione | al tartufo, Cottura | brasato
 editor: markdown
 dateCreated: 2021-09-02T14:33:13.149Z
 ---

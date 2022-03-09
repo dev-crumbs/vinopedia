@@ -3,7 +3,7 @@ title: Gutturnio Farosa Riserva – Gutturnio Riserva DOC – Marengoni – Emil
 description: Barbera 60% + Croatina 40% | Aspic di pollo peperoni e mirto – Piccione in civet – Tagliata al rosmarino
 published: true
 date: 2021-10-01T20:11:51.188Z
-tags: Vinificazione | rosso, Regione | Emilia (IT), Vinificazione | blend, Vinificazione | fermo, Valutazioni | 3 stelle, Vitigni | Barbera, Vitigni | Croatina, Prezzi | 15-19€, Alimento | pollo, Cottura | aspic, Aromatizzazione | peperoni e mirto, Alimento | piccione, Cottura | in civet, Alimento | manzo, Alimento-dettagli | tagliata, Aromatizzazione | al rosmarino
+tags: Vinificazione | rosso, Regione | Emilia (IT), Vinificazione | blend, Vinificazione | fermo, Valutazioni | 3 stelle, Vitigni | Barbera, Vitigni | Croatina, Prezzi | 15-19€, Alimento | pollo, Cottura | aspic, Aromatizzazione | peperoni e mirto, Alimento | piccione, Cottura | in civet, Alimento | manzo, Aromatizzazione | al rosmarino
 editor: markdown
 dateCreated: 2021-09-02T14:33:13.149Z
 ---

@@ -3,7 +3,7 @@ title: Pignoletto Superiore – Colli Bolognesi Classico Pignoletto DOCG – Fat
 description: Grechetto gentile 100% | Tagliatelle verdi all'ortica con ragù di coniglio e noce moscata – Cannelloni ricotta e spinaci – Pomodori ripieni tonno e basilico – Coniglio al forno con patate
 published: true
 date: 2021-10-01T20:11:45.882Z
-tags: Regione | Emilia (IT), Vinificazione | bianco, Vinificazione | varietale, Vinificazione | fermo, Vitigni | Grechetto gentile, Alimento | pasta, Alimento-dettagli | tagliatelle verdi all'ortica, Aromatizzazione | ragù di coniglio, Alimento | Pomodori ripieni, Aromatizzazione | tonno e basilico, Alimento | coniglio, Cottura | al forno, Aromatizzazione | con patate, Valutazioni | 3 stelle, Prezzi | 10-14€
+tags: Regione | Emilia (IT), Vinificazione | bianco, Vinificazione | varietale, Vinificazione | fermo, Vitigni | Grechetto gentile, Alimento | pasta, Aromatizzazione | ragù di coniglio, Alimento | Pomodori ripieni, Aromatizzazione | tonno e basilico, Alimento | coniglio, Cottura | al forno, Aromatizzazione | con patate, Valutazioni | 3 stelle, Prezzi | 10-14€
 editor: markdown
 dateCreated: 2021-08-31T15:46:06.033Z
 ---

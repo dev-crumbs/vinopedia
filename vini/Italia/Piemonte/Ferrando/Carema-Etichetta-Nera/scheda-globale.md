@@ -3,7 +3,7 @@ title: Carema Etichetta Nera – Carema DOC – Ferrando – Piemonte (IT) – 4
 description: Nebbiolo 100% | Cappone ripieno – Costine di agnello alla brace – Filetto al pepe verde – Bocconcini di manzo e funghi
 published: true
 date: 2021-10-01T19:59:01.655Z
-tags: Vinificazione | rosso, Vinificazione | varietale, Regione | Piemonte (IT), filetto al pepe verde, Vitigni | Nebbiolo, Valutazioni | 5 stelle, didattico, cappone ripieno, Alimento | agnello, Alimento-dettagli | costine, Cottura | alla brace, Alimento | formaggi, Alimento-dettagli | Testun stagionato, Bocconcini di manzo e funghi, Prezzi | 45-49€
+tags: Vinificazione | rosso, Vinificazione | varietale, Regione | Piemonte (IT), filetto al pepe verde, Vitigni | Nebbiolo, Valutazioni | 5 stelle, didattico, cappone ripieno, Alimento | agnello, Cottura | alla brace, Alimento | formaggi,  Bocconcini di manzo e funghi, Prezzi | 45-49€
 editor: markdown
 dateCreated: 2021-09-03T21:03:40.400Z
 ---

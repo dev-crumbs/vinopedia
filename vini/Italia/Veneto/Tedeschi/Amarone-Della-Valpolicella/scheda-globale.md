@@ -3,7 +3,7 @@ title: Amarone della Valpolicella – Amarone della Valpolicella DOCG – Tedesc
 description: Corvina 30% + Corvinone 30% + Rondinella 30%  + Altre | Pappardelle al capriolo
 published: true
 date: 2022-01-28T17:14:37.370Z
-tags: Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Prezzi | 50-55€, Vitigni | Corvina, Vitigni | Rondinella, Vitigni | Corvinone, Valutazioni | 3 stelle, Alimento | pasta, Alimento-dettagli | pappardelle, Aromatizzazione | al capriolo
+tags: Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Prezzi | 50-55€, Vitigni | Corvina, Vitigni | Rondinella, Vitigni | Corvinone, Valutazioni | 3 stelle, Alimento | pasta, Aromatizzazione | al capriolo
 editor: markdown
 dateCreated: 2022-01-27T15:21:34.303Z
 ---

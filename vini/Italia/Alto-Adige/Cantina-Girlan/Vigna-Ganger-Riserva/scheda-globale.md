@@ -3,7 +3,7 @@ title: Vigna Ganger Riserva – Alto Adige DOC – Cantina Girlan – Alto-Adige
 description: 100% Pinot Nero | Medaglioni di vitello al tartufo – Sella d'agnello alle erbe aromatiche – Scamone di vitello arrosto alla senape – Piccione con marroni glassati 
 published: true
 date: 2021-10-01T19:55:26.461Z
-tags: Vinificazione | rosso, Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 5 stelle, Regione | Alto-Adige (IT), Alimento | vitello, Alimento-dettagli | noce, Aromatizzazione | al tartufo, Cottura | arrosto, Aromatizzazione | alla senape, Alimento | agnello, Alimento-dettagli | sella, Aromatizzazione | alle erbe aromatiche, Piccione con marroni glassati, Prezzi | 125-149€
+tags: Vinificazione | rosso, Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 5 stelle, Regione | Alto-Adige (IT), Alimento | vitello, Aromatizzazione | al tartufo, Cottura | arrosto, Aromatizzazione | alla senape, Alimento | agnello, Aromatizzazione | alle erbe aromatiche, Piccione con marroni glassati, Prezzi | 125-149€
 editor: markdown
 dateCreated: 2021-09-02T14:32:47.834Z
 ---

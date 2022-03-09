@@ -3,7 +3,7 @@ title: Pratobianco – Emilia IGT – Torre Fornello – Emilia (IT) – 10-14�
 description: Malvasia aromatica di Candia 40% + Sauvignon 40% + Chardonnay 20% | Seppie ripiene alla griglia – Tagliolini al ragù di pesce con profumo di limone
 published: true
 date: 2021-10-01T20:11:51.188Z
-tags: Vinificazione | bianco, Regione | Emilia (IT), Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 3 stelle, Vitigni | Malvasia di Candia aromatica, Vitigni | Sauvignon blanc, Vitigni | Chardonnay, Alimento | Seppie, Cottura | alla griglia, Prezzi | 10-14€, Alimento | pasta, Alimento-dettagli | tagliolini, Aromatizzazione | al ragù di pesce
+tags: Vinificazione | bianco, Regione | Emilia (IT), Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 3 stelle, Vitigni | Malvasia di Candia aromatica, Vitigni | Sauvignon blanc, Vitigni | Chardonnay, Alimento | Seppie, Cottura | alla griglia, Prezzi | 10-14€, Alimento | pasta, Aromatizzazione | al ragù di pesce
 editor: markdown
 dateCreated: 2021-09-02T14:33:13.149Z
 ---

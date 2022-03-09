@@ -3,7 +3,7 @@ title: Amarone Classico Riserva Leone Zardini – Amarone della Valpolicella Cla
 description: Corvinone 40% + Corvina 30% + Rondinella 20% + Altre | Germano reale al forno – Filetto con salsa tartufata – Anatra al forno con amarene – Gulash
 published: true
 date: 2022-01-28T17:14:37.370Z
-tags: Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Prezzi | 35-39€, Vitigni | Corvina, Vitigni | Rondinella, Vitigni | Corvinone, Valutazioni | 5 stelle, Alimento | germano, Cottura | al forno, Alimento | manzo, Alimento-dettagli | filetto, Aromatizzazione | in salsa tartufata, Alimento | anatra, Aromatizzazione | con amarene, Alimento | Gulash
+tags: Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Prezzi | 35-39€, Vitigni | Corvina, Vitigni | Rondinella, Vitigni | Corvinone, Valutazioni | 5 stelle, Alimento | germano, Cottura | al forno, Alimento | manzo, Aromatizzazione | in salsa tartufata, Alimento | anatra, Aromatizzazione | con amarene, Alimento | Gulash
 editor: markdown
 dateCreated: 2022-01-27T15:21:34.303Z
 ---

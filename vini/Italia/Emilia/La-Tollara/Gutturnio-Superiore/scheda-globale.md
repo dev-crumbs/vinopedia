@@ -3,7 +3,7 @@ title: Gutturnio Superiore – Gutturnio Superiore DOC – La Tollara – Emilia
 description: Barbera 65% + Croatina 35%  | Pisarei e fasoi – Tagliatelle al ragù
 published: true
 date: 2021-10-01T20:11:51.188Z
-tags: Vinificazione | rosso, Regione | Emilia (IT), Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 3 stelle, Vitigni | Barbera, Vitigni | Croatina, Prezzi | 10-14€, Alimento | Pisarei e fasoi, Alimento | pasta, Alimento-dettagli | tagliatelle, Aromatizzazione | al ragù
+tags: Vinificazione | rosso, Regione | Emilia (IT), Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 3 stelle, Vitigni | Barbera, Vitigni | Croatina, Prezzi | 10-14€, Alimento | Pisarei e fasoi, Alimento | pasta, Aromatizzazione | al ragù
 editor: markdown
 dateCreated: 2021-09-02T14:33:13.149Z
 ---

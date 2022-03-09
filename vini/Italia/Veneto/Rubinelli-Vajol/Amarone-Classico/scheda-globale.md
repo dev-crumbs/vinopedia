@@ -3,7 +3,7 @@ title: Amarone Classico – Amarone della Valpolicella Classico DOCG – Rubinel
 description: Corvina 40% + Rondinella 10% + Corvinone 40% + Molinara 5% + Oseleta 5% | Filetto di maiale lardellato – Cinghiale in dolceforte
 published: true
 date: 2022-01-28T17:14:37.370Z
-tags: Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Prezzi | 50-54€, Valutazioni | 4 stelle, Vitigni | Corvina, Vitigni | Rondinella, Vitigni | Corvinone, Vitigni | Molinara, Vitigni | Oseleta, Alimento | maiale, Alimento-dettagli | filetto, Aromatizzazione | lardellato, Alimento | cinghiale, Aromatizzazione | in dolceforte
+tags: Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Prezzi | 50-54€, Valutazioni | 4 stelle, Vitigni | Corvina, Vitigni | Rondinella, Vitigni | Corvinone, Vitigni | Molinara, Vitigni | Oseleta, Alimento | maiale, Aromatizzazione | lardellato, Alimento | cinghiale, Aromatizzazione | in dolceforte
 editor: markdown
 dateCreated: 2022-01-27T15:21:34.303Z
 ---

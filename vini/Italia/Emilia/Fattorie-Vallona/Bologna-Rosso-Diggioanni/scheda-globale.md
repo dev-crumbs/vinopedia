@@ -3,7 +3,7 @@ title: Bologna Rosso Diggioanni – Colli Bolognesi DOC – Fattorie Vallona –
 description: Cabernet Sauvignon 50% + Merlot 50% | Cosciotto di capriolo al forno
 published: true
 date: 2021-10-01T20:11:56.684Z
-tags: Regione | Emilia (IT), Vinificazione | rosso, Vinificazione | blend, Vinificazione | fermo, Valutazioni | 3 stelle, Vitigni | Cabernet Sauvignon, Vitigni | merlot, Prezzi | 15-18€, Alimento | capriolo, Alimento-dettagli | coscia, Cottura | al forno
+tags: Regione | Emilia (IT), Vinificazione | rosso, Vinificazione | blend, Vinificazione | fermo, Valutazioni | 3 stelle, Vitigni | Cabernet Sauvignon, Vitigni | merlot, Prezzi | 15-18€, Alimento | capriolo, Cottura | al forno
 editor: markdown
 dateCreated: 2021-09-07T16:16:38.527Z
 ---

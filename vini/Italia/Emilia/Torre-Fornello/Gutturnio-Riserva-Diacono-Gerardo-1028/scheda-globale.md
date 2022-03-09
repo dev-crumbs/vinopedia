@@ -3,7 +3,7 @@ title: Gutturnio Riserva Diacono Gerardo 1028 – Gutturnio Classico DOC – Tor
 description: Barbera 65% + Croatina 35% | Spezzatino di cinghiale al ginepro – Spezzatino in umido con polenta – Stracotto di asino
 published: true
 date: 2021-10-01T20:11:51.188Z
-tags: Vinificazione | rosso, Regione | Emilia (IT), Vinificazione | blend, Vinificazione | fermo, Valutazioni | 4 stelle, Vitigni | Barbera, Vitigni | Croatina, Prezzi | 15-19€, Alimento | cinghiale, Cottura | spezzatino, Aromatizzazione | al ginepro, Alimento | Manzo, Alimento-dettagli | spezzatino, Cottura | in umido, Aromatizzazione | con polenta, Alimento | asino, Cottura | stracotto 
+tags: Vinificazione | rosso, Regione | Emilia (IT), Vinificazione | blend, Vinificazione | fermo, Valutazioni | 4 stelle, Vitigni | Barbera, Vitigni | Croatina, Prezzi | 15-19€, Alimento | cinghiale, Cottura | spezzatino, Aromatizzazione | al ginepro, Alimento | Manzo, Cottura | in umido, Aromatizzazione | con polenta, Alimento | asino, Cottura | stracotto 
 editor: markdown
 dateCreated: 2021-09-02T14:33:13.149Z
 ---

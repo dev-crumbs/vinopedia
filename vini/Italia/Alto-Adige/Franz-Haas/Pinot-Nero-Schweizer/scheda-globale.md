@@ -3,7 +3,7 @@ title: Pinot Nero Schweizer – Alto Adige DOC – Franz Haas – Alto-Adige (IT
 description: 100% Pinot Nero | Scaloppine di vitello – Costoletta di vitello con cipolle funghi e patate – Petto di pollo in crosta di sesamo
 published: true
 date: 2021-10-01T19:55:26.461Z
-tags: Vinificazione | rosso, Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 4 stelle, Regione | Alto-Adige (IT), Prezzi | 35-39€, Alimento | vitello, Cottura | scaloppine, Alimento-dettagli | costolette, Aromatizzazione | cipolle funghi e patate, Alimento | pollo, Aromatizzazione | in crosta di sesamo
+tags: Vinificazione | rosso, Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 4 stelle, Regione | Alto-Adige (IT), Prezzi | 35-39€, Alimento | vitello, Cottura | scaloppine, Aromatizzazione | cipolle funghi e patate, Alimento | pollo, Aromatizzazione | in crosta di sesamo
 editor: markdown
 dateCreated: 2021-09-02T14:32:47.834Z
 ---

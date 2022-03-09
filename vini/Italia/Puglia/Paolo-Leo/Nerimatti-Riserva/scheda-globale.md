@@ -3,7 +3,7 @@ title: Nerimatti Riserva – Salice Salentino DOC – Paolo Leo – Puglia (IT) 
 description: Negroamaro 100% | Medaglioni di vitello su fonduta di pecorino – Tagliata con rosti di patate – Brasato di cervo ai mirtilli – Caserecce salsiccia funghi e caciocavallo – Filetto con castagne e salsa di prugne
 published: true
 date: 2021-10-01T20:13:58.700Z
-tags: Vinificazione | rosso, Regione | Puglia (IT), Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 5 stelle, negroamaro, Prezzi | 10-14€, Alimento | vitello, Alimento-dettagli | medaglioni, Aromatizzazione | con fonduta di pecorino, tagliata con rosti di patate, brasato di cervo ai mirtilli, filetto con castagne e salsa di prugne
+tags: Vinificazione | rosso, Regione | Puglia (IT), Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 5 stelle, negroamaro, Prezzi | 10-14€, Alimento | vitello, Aromatizzazione | con fonduta di pecorino, tagliata con rosti di patate, brasato di cervo ai mirtilli, filetto con castagne e salsa di prugne
 editor: markdown
 dateCreated: 2021-09-30T08:13:44.856Z
 ---

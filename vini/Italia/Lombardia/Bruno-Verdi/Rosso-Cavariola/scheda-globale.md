@@ -3,7 +3,7 @@ title: Rosso Cavariola – Oltrepò Pavese Riserva DOC – Bruno Verdi – Lomba
 description: Croatina 55% + Barbera 25% + Ughetta 10% + Uva rara 10% | Spezzatino di manzo ai porcini – Piccione arrosto con salsa ai mirtilli – Spalla d'agnello stufata con taccole – Stinco di manzo stracotto allo scalogno e rosmarino – Agnello al forno
 published: true
 date: 2021-10-01T19:57:51.633Z
-tags: Vinificazione | rosso, Vinificazione | blend, lombardia, Vinificazione | fermo, Valutazioni | 5 stelle, Vitigni | Barbera, croatina, ughetta, uva rara, spezzatino di manzo ai porcini, piccione arrosto con salsa ai mirtilli, Alimento | agnello, Alimento-dettagli | spalla, Cottura | stufato, Aromatizzazione | con taccole, stinco di manzo stracotto allo scalogno e rosmarino, Cottura | al forno, Prezzi | 25-29€
+tags: Vinificazione | rosso, Vinificazione | blend, lombardia, Vinificazione | fermo, Valutazioni | 5 stelle, Vitigni | Barbera, croatina, ughetta, uva rara, spezzatino di manzo ai porcini, piccione arrosto con salsa ai mirtilli, Alimento | agnello, Cottura | stufato, Aromatizzazione | con taccole, stinco di manzo stracotto allo scalogno e rosmarino, Cottura | al forno, Prezzi | 25-29€
 editor: markdown
 dateCreated: 2021-09-04T16:07:47.756Z
 ---

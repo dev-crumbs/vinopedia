@@ -3,7 +3,7 @@ title: Gutturnio Frizzante Il Garrito – Gutturnio DOC – Casa Benna – Emili
 description: Barbera 60% + Croatina 40% | Pennette al ragù di anatra – Piccola di cavallo – Lombo di maiale  con friggione – Salsiccia alla griglia – Pappardelle alla lepre
 published: true
 date: 2021-10-01T20:11:51.188Z
-tags: Vinificazione | rosso, Regione | Emilia (IT), Vinificazione | blend, Vinificazione | frizzante, Valutazioni | 3 stelle, Vitigni | Barbera, Vitigni | Croatina, Prezzi | 5-9€, Alimento | pasta, Alimento-dettagli | penne, Aromatizzazione | al ragù di anatra, Alimento | cavallo, Cottura | piccola, Alimento | maiale, Alimento-dettagli | lombo, Aromatizzazione | con friggione, Alimento-dettagli | salsiccia, Cottura | alla griglia, Alimento-dettagli | pappardelle, Aromatizzazione | alla lepre 
+tags: Vinificazione | rosso, Regione | Emilia (IT), Vinificazione | blend, Vinificazione | frizzante, Valutazioni | 3 stelle, Vitigni | Barbera, Vitigni | Croatina, Prezzi | 5-9€, Alimento | pasta, Aromatizzazione | al ragù di anatra, Alimento | cavallo, Cottura | piccola, Alimento | maiale, Aromatizzazione | con friggione, Cottura | alla griglia, Aromatizzazione | alla lepre 
 editor: markdown
 dateCreated: 2021-09-02T14:33:13.149Z
 ---

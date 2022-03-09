@@ -3,7 +3,7 @@ title: Valpolicella Classico Superiore La Fabriseria – Valpolicella Classico S
 description: Corvina 40% + Rondinella 15% + Corvinone 40% + Oseleta 5% | Rotolo di tacchino alle castagne – Cosciotto d'agnello con funghi porcini
 published: true
 date: 2022-01-28T17:14:37.370Z
-tags: Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Prezzi | 35-39€, Vitigni | Corvina, Vitigni | Rondinella, Vitigni | Corvinone, Vitigni | Molinara, Vitigni | Oseleta, Valutazioni | 3 stelle, Alimento | tacchino, Aromatizzazione | alle castagne, Alimento | agnello, Alimento-dettagli | cosciotto, Aromatizzazione | ai funghi porcini
+tags: Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Prezzi | 35-39€, Vitigni | Corvina, Vitigni | Rondinella, Vitigni | Corvinone, Vitigni | Molinara, Vitigni | Oseleta, Valutazioni | 3 stelle, Alimento | tacchino, Aromatizzazione | alle castagne, Alimento | agnello, Aromatizzazione | ai funghi porcini
 editor: markdown
 dateCreated: 2022-01-27T15:21:34.303Z
 ---

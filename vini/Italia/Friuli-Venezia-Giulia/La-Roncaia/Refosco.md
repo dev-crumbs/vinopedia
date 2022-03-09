@@ -3,7 +3,7 @@ title: Refosco – Friuli Colli Orientali DOC – La Roncaia – Friuli Venezia 
 description: Refosco 100% | Arista di maiale lardellata al forno – Stinco di maiale al forno – Tagliata di Angus
 published: true
 date: 2022-01-15T21:25:52.618Z
-tags: Vinificazione | rosso, Vinificazione | varietale, friuli venezia giulia, Vinificazione | fermo, stinco di maiale al forno, Valutazioni | 3 stelle, Prezzi | 35-39€, refosco, Alimento | maiale, Alimento-dettagli | arista, Aromatizzazione | lardellata, Cottura | al forno, tagliata
+tags: Vinificazione | rosso, Vinificazione | varietale, friuli venezia giulia, Vinificazione | fermo, stinco di maiale al forno, Valutazioni | 3 stelle, Prezzi | 35-39€, refosco, Alimento | maiale, Aromatizzazione | lardellata, Cottura | al forno, tagliata
 editor: markdown
 dateCreated: 2022-01-15T21:25:52.618Z
 ---

@@ -3,7 +3,7 @@ title: Pinot Nero Burgum Novum Riserva – Alto Adige DOC – Castelfeder – Al
 description: 100% Pinot Nero | Petto d'anatra in salsa di ribes – Coda di bue brasata – Filetto di vitello al tartufo – Lombata d'agnello al crescione 
 published: true
 date: 2021-10-01T19:55:26.461Z
-tags: Vinificazione | rosso, Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 5 stelle, Regione | Alto-Adige (IT), Alimento | anatra, Alimento-dettagli | petto, Aromatizzazione | in salsa di ribes, Coda di bue brasata, Alimento | vitello, Alimento-dettagli | filetto, Aromatizzazione | al tartufo, Alimento | agnello, Alimento-dettagli | lombata, Aromatizzazione | al crescione, Prezzi | 30-34€
+tags: Vinificazione | rosso, Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 5 stelle, Regione | Alto-Adige (IT), Alimento | anatra, Aromatizzazione | in salsa di ribes, Coda di bue brasata, Alimento | vitello, Aromatizzazione | al tartufo, Alimento | agnello, Aromatizzazione | al crescione, Prezzi | 30-34€
 editor: markdown
 dateCreated: 2021-09-02T14:32:47.834Z
 ---

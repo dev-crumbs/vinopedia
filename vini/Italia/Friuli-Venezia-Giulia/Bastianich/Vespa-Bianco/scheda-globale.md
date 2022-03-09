@@ -3,7 +3,7 @@ title: Vespa Bianco – Venezia Giulia IGT – Bastianich – Friuli Venezia Giu
 description: Sauvignon blanc 50% + Chardonnay 50% | Filetto di tonno in crosta di pistacchi – Pennette granseola e zafferato – Anatra selvativa ripiena al forno – Pesce spada al salmoriglio 
 published: true
 date: 2021-10-01T20:11:59.260Z
-tags: Vinificazione | bianco, Vinificazione | blend, Vitigni | Chardonnay, Vitigni | Sauvignon blanc, Regione | Friuli Venezia Giulia, Vinificazione | fermo, Valutazioni | 4 stelle, Alimento | tonno, Alimento-dettagli | filetto, Aromatizzazione | in crosta di pistacchi, Alimento | pasta, Alimento-dettagli | penne, Aromatizzazione | granseola e zafferano, Alimento | anatra, Cottura | al forno, Aromatizzazione | ripiena, Alimento | pesce spada, Aromatizzazione | al salmoriglio, Prezzi | 25-29€
+tags: Vinificazione | bianco, Vinificazione | blend, Vitigni | Chardonnay, Vitigni | Sauvignon blanc, Regione | Friuli Venezia Giulia, Vinificazione | fermo, Valutazioni | 4 stelle, Alimento | tonno, Aromatizzazione | in crosta di pistacchi, Alimento | pasta, Aromatizzazione | granseola e zafferano, Alimento | anatra, Cottura | al forno, Aromatizzazione | ripiena, Alimento | pesce spada, Aromatizzazione | al salmoriglio, Prezzi | 25-29€
 editor: markdown
 dateCreated: 2021-08-29T16:15:14.887Z
 ---

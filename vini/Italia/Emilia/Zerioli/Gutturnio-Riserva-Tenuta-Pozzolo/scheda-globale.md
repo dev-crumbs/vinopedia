@@ -3,7 +3,7 @@ title: Gutturnio Riserva Tenuta Pozzolo – Gutturnio Riserva DOC – Zerioli �
 description: Barbera 60% + Croatina 40% | Pappardelle con ragù di cinghiale
 published: true
 date: 2021-10-01T20:11:51.188Z
-tags: Vinificazione | rosso, Regione | Emilia (IT), Vinificazione | blend, Vinificazione | fermo, Valutazioni | 4 stelle, Vitigni | Barbera, Vitigni | Croatina, Prezzi | 10-14€, Alimento | pasta, Alimento-dettagli | pappardelle, Aromatizzazione | al ragù di cinchiale
+tags: Vinificazione | rosso, Regione | Emilia (IT), Vinificazione | blend, Vinificazione | fermo, Valutazioni | 4 stelle, Vitigni | Barbera, Vitigni | Croatina, Prezzi | 10-14€, Alimento | pasta, Aromatizzazione | al ragù di cinchiale
 editor: markdown
 dateCreated: 2021-09-02T14:33:13.149Z
 ---
