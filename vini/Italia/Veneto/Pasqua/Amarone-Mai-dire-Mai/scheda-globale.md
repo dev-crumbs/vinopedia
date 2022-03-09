@@ -1,5 +1,5 @@
 ---
-title: Mai dire mai – Amarone della Valpolicella DOCG – Pasqua – Veneto (IT) – 70-74€ – 5★
+title: Amarone Mai dire mai – Amarone della Valpolicella DOCG – Pasqua – Veneto (IT) – 70-74€ – 5★
 description: Corvina 65% + Rondinella 10% + Corvinone 15% + Oseleta 10% | Carré di maiale ai funghi
 published: true
 date: 2022-01-28T17:14:37.370Z
@@ -8,10 +8,10 @@ editor: markdown
 dateCreated: 2022-01-27T15:21:34.303Z
 ---
 
-# Mai dire mai
+# Amarone Mai dire mai
 
 ## Caratteristiche
-- **Nome:** <span class="nome">Mai dire mai</span>
+- **Nome:** <span class="nome">Amarone Mai dire mai</span>
 - **Tipologia:** Rosso fermo
 - **Denominazione:** <span class="denominazione">[Amarone della Valpolicella DOCG](/denominazioni/Italia/Veneto/DOCG/Amarone-della-Valpolicella)</span>
 - **Produttore:** <span class="cantina">[Pasqua](/produttori/Italia/Veneto/Pasqua)</span> 
@@ -27,5 +27,5 @@ dateCreated: 2022-01-27T15:21:34.303Z
 - Carré di maiale ai funghi
 
 ## Annate
-- Pasqua [2013](vini/Italia/Veneto/Pasqua/Mai-dire-Mai/2013) -- <span class="star-5"></span> -- 93/100
+- Amarone Mai dire Mai [2013](vini/Italia/Veneto/Pasqua/Amarone-Mai-dire-Mai/2013) -- <span class="star-5"></span> -- 93/100
 

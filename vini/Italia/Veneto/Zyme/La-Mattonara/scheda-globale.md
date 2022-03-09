@@ -1,5 +1,5 @@
 ---
-title: La Mattonara – Amarone della Valpolicella Riserva DOCG – Zymé – Veneto (IT) – 200-249€ – 5★
+title: Amarone Riserva La Mattonara – Amarone della Valpolicella Riserva DOCG – Zymé – Veneto (IT) – 200-249€ – 5★
 description: Corvina 40% + Corvinone 40% + Rondinella 15% + altre | Sella di lepre – Filetto di manzo ai porcini – Controfiletto di cervo
 published: true
 date: 2022-01-28T17:14:37.370Z
@@ -8,10 +8,10 @@ editor: markdown
 dateCreated: 2022-01-27T15:21:34.303Z
 ---
 
-# La Mattonara
+# Amarone Riserva La Mattonara
 
 ## Caratteristiche
-- **Nome:** <span class="nome">La Mattonara</span>
+- **Nome:** <span class="nome">Amarone Riserva La Mattonara</span>
 - **Tipologia:** Rosso fermo
 - **Denominazione:** <span class="denominazione">[Amarone della Valpolicella DOCG](/denominazioni/Italia/Veneto/DOCG/Amarone-della-Valpolicella) (Riserva)</span>
 - **Produttore:** <span class="cantina">[Zymé](/produttori/Italia/Veneto/Zyme)</span> 
@@ -29,8 +29,8 @@ dateCreated: 2022-01-27T15:21:34.303Z
 - Controfiletto di cervo
 
 ## Annate
-- La Mattonara [2004](vini/Italia/Veneto/Zyme/La-Mattonara/2004) -- <span class="star-5"></span> -- 94/100
-- La Mattonara [2006](vini/Italia/Veneto/Zyme/La-Mattonara/2006) -- <span class="star-5"></span> -- 94/100
-- La Mattonara [2008](vini/Italia/Veneto/Zyme/La-Mattonara/2008) -- <span class="star-5"></span> -- 94/100
+- Amarone Riserva La Mattonara [2004](vini/Italia/Veneto/Zyme/Amarone-Riserva-La-Mattonara/2004) -- <span class="star-5"></span> -- 94/100
+- Amarone Riserva La Mattonara [2006](vini/Italia/Veneto/Zyme/Amarone-Riserva-La-Mattonara/2006) -- <span class="star-5"></span> -- 94/100
+- Amarone Riserva La Mattonara [2008](vini/Italia/Veneto/Zyme/Amarone-Riserva-La-Mattonara/2008) -- <span class="star-5"></span> -- 94/100
 
 

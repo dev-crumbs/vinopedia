@@ -1,5 +1,5 @@
 ---
-title: Amarone della Valpolicella Classico – Amarone della Valpolicella Classico DOCG – Secondo Marco – Veneto (IT) – 70-74€ – 5★
+title: Amarone Classico – Amarone della Valpolicella Classico DOCG – Secondo Marco – Veneto (IT) – 70-74€ – 5★
 description: Corvina 45% + Corvinone 45% + Rondinella 10% | Controfiletto alle prugne – Controfiletto di cervo e mirtilli
 published: true
 date: 2022-01-28T17:14:37.370Z
@@ -8,10 +8,10 @@ editor: markdown
 dateCreated: 2022-01-27T15:21:34.303Z
 ---
 
-# Amarone della Valpolicella
+# Amarone Classico
 
 ## Caratteristiche
-- **Nome:** <span class="nome">Amarone della Valpolicella Classico</span>
+- **Nome:** <span class="nome">Amarone Classico</span>
 - **Tipologia:** Rosso fermo
 - **Denominazione:** <span class="denominazione">[Amarone della Valpolicella DOCG](/denominazioni/Italia/Veneto/DOCG/Amarone-della-Valpolicella) (Classico)</span>
 - **Produttore:** <span class="cantina">[Secondo Marco](/produttori/Italia/Veneto/Secondo-Marco)</span> 
@@ -31,5 +31,5 @@ dateCreated: 2022-01-27T15:21:34.303Z
 - Controfiletto di cervo e mirtilli
 
 ## Annate
-- Amarone della Valpolicella [2012](vini/Italia/Veneto/Secondo-Marco/Amarone-della-Valpolicella/2012) -- <span class="star-5"></span> -- 94/100
-- Amarone della Valpolicella [2013](vini/Italia/Veneto/Secondo-Marco/Amarone-della-Valpolicella/2013) -- <span class="star-5"></span> -- 93/100
+- Amarone Classico[2012](vini/Italia/Veneto/Secondo-Marco/Amarone-Classico/2012) -- <span class="star-5"></span> -- 94/100
+- Amarone Classico[2013](vini/Italia/Veneto/Secondo-Marco/Amarone-Classico/2013) -- <span class="star-5"></span> -- 93/100
