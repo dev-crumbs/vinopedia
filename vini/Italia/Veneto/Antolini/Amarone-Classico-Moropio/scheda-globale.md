@@ -1,5 +1,5 @@
 ---
-title: Amarone della Valpolicella Classico Moropio – Amarone della Valpolicella Classico DOCG – Antolini – Veneto (IT) – 40-44€ – 3★-4★
+title: Amarone Classico Moropio – Amarone della Valpolicella Classico DOCG – Antolini – Veneto (IT) – 40-44€ – 3★-4★
 description: Corvina + Corvinone + Molinara + Rondinella | Brasato al vino – Pernice alla ghiotta – Coscia d'oca con semi di sesamo – Capriolo in tecia con funghi e polenta
 published: true
 date: 2022-01-28T17:14:37.370Z
@@ -8,7 +8,7 @@ editor: markdown
 dateCreated: 2022-01-27T15:21:34.303Z
 ---
 
-# Amarone della Valpolicella Classico Moropio
+# Amarone Classico Moropio
 
 ## Caratteristiche
 - **Nome:** <span class="nome">Amarone Classico Moropio</span>
