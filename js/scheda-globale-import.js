@@ -13,6 +13,7 @@ export function schedaGlobaleImport() {
       const produttoreCSV = csv.filter(function(d) {return d.Nome == headlineFull[0] && d.Entry === "1"})[0].Produttore;
       const composizioneCSV = csv.filter(function(d) {return d.Nome == headlineFull[0] && d.Entry === "1"})[0].Composizione;
       const composizioneArray = composizioneCSV.split(' – ')    
+      let composizioneLength = composizioneArray.length; //must be let for the condition to work
       const affinamentoCSV = csv.filter(function(d) {return d.Nome == headlineFull[0] && d.Entry === "1"})[0].Affinamento;
       const alcolCSV = csv.filter(function(d) {return d.Nome == headlineFull[0] && d.Entry === "1"})[0].Alcol;
       const prezzoCSV = csv.filter(function(d) {return d.Nome == headlineFull[0] && d.Entry === "1"})[0].Prezzo;
@@ -29,7 +30,11 @@ export function schedaGlobaleImport() {
       d3.select('.caratteristiche li:nth-child(3)').append().html(` <a href="/denominazioni/${nazioneCSV}/${regioneCSV}/${classificazioneCSV}-${denominazioneCSV.replaceAll(' ', '-')}">${denominazioneCSV} ${classificazioneCSV}</a> (${menzioniCSV})`)
       d3.select('.caratteristiche li:nth-child(4)').append().html(` <a href="/produttori/${nazioneCSV}/${regioneCSV}/${produttoreCSV.replaceAll(' ', '-')}">${produttoreCSV}</a>`)
       for (const i of composizioneArray) {
-        d3.select('.caratteristiche li:nth-child(5)').append().html(` <a href="/vitigno/${nazioneCSV}/${i.replaceAll(' ', '-').toLowerCase()}">${i}</a> -`)
+        if (!--composizioneLength){
+          d3.select('.caratteristiche li:nth-child(5)').append().html(` <a href="/vitigno/${nazioneCSV}/${i.replaceAll(' ', '-').toLowerCase()}">${i}</a>`)          
+        } else {
+          d3.select('.caratteristiche li:nth-child(5)').append().html(` <a href="/vitigno/${nazioneCSV}/${i.replaceAll(' ', '-').toLowerCase()}">${i}</a> -`)
+        }
       }
       d3.select('.caratteristiche li:nth-child(6)').append().text(" " + affinamentoCSV)
       d3.select('.caratteristiche li:nth-child(7)').append().text(" " + alcolCSV)
