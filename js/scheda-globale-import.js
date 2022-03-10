@@ -4,17 +4,19 @@ export function schedaGlobaleImport() {
   d3.text(`../../../../listone.csv`).then(function(data) {
       const csv = d3.csvParse(data);
       const nomeCSV = csv.filter(function(d) {return d.Nome == headlineFull[0] && d.Entry === "1"})[0].Nome;
+      const regioneCSV = csv.filter(function(d) {return d.Nome == headlineFull[0] && d.Entry === "1"})[0].Regione;
       const tipoCSV = csv.filter(function(d) {return d.Nome == headlineFull[0] && d.Entry === "1"})[0].Tipologia;
       const denominazioneCSV = csv.filter(function(d) {return d.Nome == headlineFull[0] && d.Entry === "1"})[0].Denominazione;
       const classificazioneCSV = csv.filter(function(d) {return d.Nome == headlineFull[0] && d.Entry === "1"})[0].Classificazione;
       const produttoreCSV = csv.filter(function(d) {return d.Nome == headlineFull[0] && d.Entry === "1"})[0].Produttore;
+      const punteggioMedioCSV = csv.filter(function(d) {return d.Nome == headlineFull[0] && d.Entry === "1"})[0].punteggioMedio;
       const composizioneCSV = csv.filter(function(d) {return d.Nome == headlineFull[0] && d.Entry === "1"})[0].Composizione;    
       const affinamentoCSV = csv.filter(function(d) {return d.Nome == headlineFull[0] && d.Entry === "1"})[0].Affinamento;
       const alcolCSV = csv.filter(function(d) {return d.Nome == headlineFull[0] && d.Entry === "1"})[0].Alcol;
       const prezzoCSV = csv.filter(function(d) {return d.Nome == headlineFull[0] && d.Entry === "1"})[0].Prezzo;
       const abbinamentoCSV = csv.filter(function(d) {return d.Nome == headlineFull[0] && d.Entry === "1"})[0].Abbinamento;
       const abbinamentoArray = abbinamentoCSV.split(' – ')
-      //const annateCSV = csv.filter(function(d) {return d.Nome == headlineFull[0] && d.Entry === "1"})[0].Prezzo;
+      const annateCSVArray = csv.filter(function(d) {return d.Nome == headlineFull[0] && d.Entry === "2"})
 
       d3.select('h1').append().text(nomeCSV)
       d3.select('.caratteristiche li:nth-child(1)').append().text(" " + nomeCSV)
@@ -28,6 +30,8 @@ export function schedaGlobaleImport() {
       for (const i of abbinamentoArray) {
         d3.select('.abbinamento').append("li").text(i)
       }
-      //d3.select('.annate').append().text(" " + annateCSV)
+      for (const i of annateCSV) {
+        d3.select('.annate').append("li").html(`${nomeCSV} <a href="vini/Italia/${regioneCSV}/${produttoreCSV.replaceAll(' ', '-')}/${nomeCSVArray.replaceAll(' ', '-')}/${i.Anno}">${i.Anno}</a> -- /100`)
+      }
   });
 }
