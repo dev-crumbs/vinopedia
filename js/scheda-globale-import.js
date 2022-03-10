@@ -29,7 +29,7 @@ export function schedaGlobaleImport() {
       d3.select('.caratteristiche li:nth-child(3)').append().html(` <a href="/denominazioni/${nazioneCSV}/${regioneCSV}/${classificazioneCSV}-${denominazioneCSV.replaceAll(' ', '-')}">${denominazioneCSV} ${classificazioneCSV}</a> (${menzioniCSV})`)
       d3.select('.caratteristiche li:nth-child(4)').append().html(` <a href="/produttori/${nazioneCSV}/${regioneCSV}/${produttoreCSV.replaceAll(' ', '-')}">${produttoreCSV}</a>`)
       for (const i of composizioneArray) {
-        d3.select('.caratteristiche li:nth-child(5)').append().html(` <a href="/vitigno/${nazioneCSV}/${i.replaceAll(' ', '-').toLowerCase()}">${i}</a>`)
+        d3.select('.caratteristiche li:nth-child(5)').append().html(` <a href="/vitigno/${nazioneCSV}/${i.replaceAll(' ', '-').toLowerCase()}">${i}</a> -`)
       }
       d3.select('.caratteristiche li:nth-child(6)').append().text(" " + affinamentoCSV)
       d3.select('.caratteristiche li:nth-child(7)').append().text(" " + alcolCSV)
