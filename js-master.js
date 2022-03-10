@@ -8,6 +8,7 @@ import { denominazioneTableFilter } from './it/js/table-filter.js';
 import { cantinaTableIn } from './it/js/cantina-table.js';
 import { cantinaTableOut } from './it/js/cantina-table.js';
 import { firstWordBold } from './it/js/vitigni-first-word-bold.js';
+import { schedaGlobaleImport } from './it/js/scheda-globale-import.js';
 
 window.addEventListener("load", function(){
   // custom label for search field
