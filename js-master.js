@@ -42,4 +42,8 @@ window.addEventListener("load", function(){
   if (window.location.href.indexOf("/vitigni/") != -1){
     firstWordBold()
   }
+  // scheda globale import csv
+  if (window.location.href.indexOf("/vini/") != -1){
+    schedaGlobaleImport()
+  }
 })
