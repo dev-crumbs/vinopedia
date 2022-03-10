@@ -31,7 +31,7 @@ export function schedaGlobaleImport() {
         d3.select('.abbinamento').append("li").text(i)
       }
       for (const i of annateCSVArray) {
-        d3.select('.annate').append("li").html(`${nomeCSV} <a href="vini/Italia/${regioneCSV}/${produttoreCSV.replaceAll(' ', '-')}/${nomeCSVArray.replaceAll(' ', '-')}/${i.Anno}">${i.Anno}</a> -- /100`)
+        d3.select('.annate').append("li").html(`${nomeCSV} <a href="vini/Italia/${regioneCSV}/${produttoreCSV.replaceAll(' ', '-')}/${nomeCSV.replaceAll(' ', '-')}/${i.Anno}">${i.Anno}</a> -- /100`)
       }
   });
 }
