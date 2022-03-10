@@ -11,8 +11,6 @@ export function schedaGlobaleImport() {
       const menzioniCSV = csv.filter(function(d) {return d.Nome == headlineFull[0] && d.Entry === "1"})[0].Menzioni;
       const classificazioneCSV = csv.filter(function(d) {return d.Nome == headlineFull[0] && d.Entry === "1"})[0].Classificazione;
       const produttoreCSV = csv.filter(function(d) {return d.Nome == headlineFull[0] && d.Entry === "1"})[0].Produttore;
-      const valutazioneCSV = csv.filter(function(d) {return d.Nome == headlineFull[0] && d.Entry === "1"})[0].Valutazione;
-      const punteggioMedioCSV = csv.filter(function(d) {return d.Nome == headlineFull[0] && d.Entry === "1"})[0].punteggioMedio;
       const composizioneCSV = csv.filter(function(d) {return d.Nome == headlineFull[0] && d.Entry === "1"})[0].Composizione;
       const composizioneArray = composizioneCSV.split(' – ')    
       const affinamentoCSV = csv.filter(function(d) {return d.Nome == headlineFull[0] && d.Entry === "1"})[0].Affinamento;
@@ -20,15 +18,18 @@ export function schedaGlobaleImport() {
       const prezzoCSV = csv.filter(function(d) {return d.Nome == headlineFull[0] && d.Entry === "1"})[0].Prezzo;
       const abbinamentoCSV = csv.filter(function(d) {return d.Nome == headlineFull[0] && d.Entry === "1"})[0].Abbinamento;
       const abbinamentoArray = abbinamentoCSV.split(' – ')
+      //singola annata
       const annateCSVArray = csv.filter(function(d) {return d.Nome == headlineFull[0] && d.Entry === "2"})
+      const valutazioneCSV = csv.filter(function(d) {return d.Nome == headlineFull[0] && d.Entry === "2"})[0].Valutazione;
+      const punteggioMedioCSV = csv.filter(function(d) {return d.Nome == headlineFull[0] && d.Entry === "2"})[0].PunteggioMedio;
 
       d3.select('h1').append().text(nomeCSV)
       d3.select('.caratteristiche li:nth-child(1)').append().text(" " + nomeCSV)
       d3.select('.caratteristiche li:nth-child(2)').append().text(" " + tipoCSV)
-      d3.select('.caratteristiche li:nth-child(3)').append().html(`<a href="/denominazioni/${nazioneCSV}/${regioneCSV}/${classificazioneCSV}-${denominazioneCSV.replaceAll(' ', '-')}">${denominazioneCSV} ${classificazioneCSV}</a> (${menzioniCSV})`)
-      d3.select('.caratteristiche li:nth-child(4)').append().html(`<a href="/produttori/${nazioneCSV}/${regioneCSV}/${produttoreCSV.replaceAll(' ', '-')}">${produttoreCSV}</a>`)
-      for (const i of abbinamentoArray) {
-        d3.select('.caratteristiche li:nth-child(5)').append().html(`<a href="/vitigno/${nazioneCSV}/${i.replaceAll(' ', '-').toLowerCase()}">${i}</a>`)
+      d3.select('.caratteristiche li:nth-child(3)').append().html(` <a href="/denominazioni/${nazioneCSV}/${regioneCSV}/${classificazioneCSV}-${denominazioneCSV.replaceAll(' ', '-')}">${denominazioneCSV} ${classificazioneCSV}</a> (${menzioniCSV})`)
+      d3.select('.caratteristiche li:nth-child(4)').append().html(` <a href="/produttori/${nazioneCSV}/${regioneCSV}/${produttoreCSV.replaceAll(' ', '-')}">${produttoreCSV}</a>`)
+      for (const i of composizioneArray) {
+        d3.select('.caratteristiche li:nth-child(5)').append().html(` <a href="/vitigno/${nazioneCSV}/${i.replaceAll(' ', '-').toLowerCase()}">${i}</a>`)
       }
       d3.select('.caratteristiche li:nth-child(6)').append().text(" " + affinamentoCSV)
       d3.select('.caratteristiche li:nth-child(7)').append().text(" " + alcolCSV)
