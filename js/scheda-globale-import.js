@@ -1,5 +1,5 @@
 export function schedaGlobaleImport(){
-  d3.text(`../listone.csv`).then( function(data) {
+  d3.text(`../../../../listone.csv`).then( function(data) {
     var csv = d3.csvParse(data);
     
     /*

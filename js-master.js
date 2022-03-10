@@ -16,7 +16,6 @@ window.addEventListener("load", function(){
   //mobile navigation bottom
   if (window.innerWidth < 959) {
     let headers = document.querySelectorAll("div.contents > div > h2.toc-header");
-    console.log(headers);
     mobileNavBottom();
   }
   // produttore table and sort/filter tools
