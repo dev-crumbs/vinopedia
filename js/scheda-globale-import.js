@@ -30,7 +30,7 @@ export function schedaGlobaleImport() {
       for (const i of abbinamentoArray) {
         d3.select('.abbinamento').append("li").text(i)
       }
-      for (const i of annateCSV) {
+      for (const i of annateCSVArray) {
         d3.select('.annate').append("li").html(`${nomeCSV} <a href="vini/Italia/${regioneCSV}/${produttoreCSV.replaceAll(' ', '-')}/${nomeCSVArray.replaceAll(' ', '-')}/${i.Anno}">${i.Anno}</a> -- /100`)
       }
   });
