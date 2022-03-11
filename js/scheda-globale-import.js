@@ -1,5 +1,5 @@
 export function schedaGlobaleImport() {
-  const tempCheck = document.querySelector(".nome")
+  const tempCheck = document.querySelector(".caratteristiche")
   if (tempCheck == null){return;}
   //page headline input
   const headlineFull = document.querySelector(".headline").innerText.split(' – ')
@@ -39,13 +39,13 @@ export function schedaGlobaleImport() {
         }
       }
       d3.select('.caratteristiche li:nth-child(6)').append().text(" " + affinamentoCSV)
-      d3.select('.caratteristiche li:nth-child(7)').append().text(" " + alcolCSV)
-      d3.select('.caratteristiche li:nth-child(8)').append().text(" " + prezzoCSV)
+      d3.select('.caratteristiche li:nth-child(7)').append().text(" " + alcolCSV + "%") 
+      d3.select('.caratteristiche li:nth-child(8)').append().text(" " + prezzoCSV + "€")
       for (const i of abbinamentoArray) {
         d3.select('.abbinamento').append("li").text(i)
       }
       for (const i of annateCSVArray) {
-        d3.select('.annate').append("li").html(`${nomeCSV} <a href="/vini/${nazioneCSV}/${regioneCSV}/${produttoreCSV.replaceAll(' ', '-')}/${nomeCSV.replaceAll(' ', '-')}/${i.Anno}">${i.Anno}</a> -- <span class="${valutazioneCSV}"></span> -- ${punteggioMedioCSV}/100`)
+        d3.select('.annate').append("li").html(`${nomeCSV} <a href="/vini/${nazioneCSV}/${regioneCSV}/${produttoreCSV.replaceAll(' ', '-')}/${nomeCSV.replaceAll(' ', '-')}/${i.Anno}">${i.Anno}</a> -- <span class="${i.Valutazione}"></span> -- ${i.PunteggioMedio}/100`)
       }
   });
 }
