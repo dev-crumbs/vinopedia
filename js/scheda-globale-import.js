@@ -1,4 +1,5 @@
 export function schedaGlobaleImport() {
+  if (document.querySelector(".nome").length == 0){return;} 
   //page headline input
   const headlineFull = document.querySelector(".headline").innerText.split(' – ')
   d3.text(`../../../../listone.csv`).then(function(data) {
