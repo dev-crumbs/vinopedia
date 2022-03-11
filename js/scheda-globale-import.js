@@ -1,5 +1,6 @@
 export function schedaGlobaleImport() {
-  if (document.querySelector(".nome").length == 0){return;} 
+  const tempCheck = document.querySelector(".nome")
+  if (tempCheck == null){return;}
   //page headline input
   const headlineFull = document.querySelector(".headline").innerText.split(' – ')
   d3.text(`../../../../listone.csv`).then(function(data) {
@@ -28,7 +29,7 @@ export function schedaGlobaleImport() {
       d3.select('h1').append().text(nomeCSV)
       d3.select('.caratteristiche li:nth-child(1)').append().text(" " + nomeCSV)
       d3.select('.caratteristiche li:nth-child(2)').append().text(" " + tipoCSV)
-      d3.select('.caratteristiche li:nth-child(3)').append().html(` <a href="/denominazioni/${nazioneCSV}/${regioneCSV}/${classificazioneCSV}-${denominazioneCSV.replaceAll(' ', '-')}">${denominazioneCSV} ${classificazioneCSV}</a> | ${menzioniCSV}`)
+      d3.select('.caratteristiche li:nth-child(3)').append().html(` <a href="/denominazioni/${nazioneCSV}/${regioneCSV}/${classificazioneCSV}-${denominazioneCSV.replaceAll(' ', '-')}">${denominazioneCSV} ${classificazioneCSV}</a> (${menzioniCSV})`)
       d3.select('.caratteristiche li:nth-child(4)').append().html(` <a href="/produttori/${nazioneCSV}/${regioneCSV}/${produttoreCSV.replaceAll(' ', '-')}">${produttoreCSV}</a>`)
       for (const i of composizioneArray) {
         if (!--composizioneLength){
@@ -38,8 +39,8 @@ export function schedaGlobaleImport() {
         }
       }
       d3.select('.caratteristiche li:nth-child(6)').append().text(" " + affinamentoCSV)
-      d3.select('.caratteristiche li:nth-child(7)').append().text(" " + alcolCSV + "%")
-      d3.select('.caratteristiche li:nth-child(8)').append().text(" " + prezzoCSV + "€")
+      d3.select('.caratteristiche li:nth-child(7)').append().text(" " + alcolCSV)
+      d3.select('.caratteristiche li:nth-child(8)').append().text(" " + prezzoCSV)
       for (const i of abbinamentoArray) {
         d3.select('.abbinamento').append("li").text(i)
       }
