@@ -5,26 +5,26 @@ export function schedaGlobaleImport() {
   const headlineFull = document.querySelector(".headline").innerText.split(' – ')
   d3.text(`../../../../listone.csv`).then(function(data) {
       const csv = d3.csvParse(data);
-      const nomeCSV = csv.filter(function(d) {return d.Nome == headlineFull[0] && d.Entry === "1"})[0].Nome;
-      const regioneCSV = csv.filter(function(d) {return d.Nome == headlineFull[0] && d.Entry === "1"})[0].Regione;
-      const nazioneCSV = csv.filter(function(d) {return d.Nome == headlineFull[0] && d.Entry === "1"})[0].Nazione;
-      const tipoCSV = csv.filter(function(d) {return d.Nome == headlineFull[0] && d.Entry === "1"})[0].Tipologia;
-      const denominazioneCSV = csv.filter(function(d) {return d.Nome == headlineFull[0] && d.Entry === "1"})[0].Denominazione;
-      const menzioniCSV = csv.filter(function(d) {return d.Nome == headlineFull[0] && d.Entry === "1"})[0].Menzioni;
-      const classificazioneCSV = csv.filter(function(d) {return d.Nome == headlineFull[0] && d.Entry === "1"})[0].Classificazione;
-      const produttoreCSV = csv.filter(function(d) {return d.Nome == headlineFull[0] && d.Entry === "1"})[0].Produttore;
-      const composizioneCSV = csv.filter(function(d) {return d.Nome == headlineFull[0] && d.Entry === "1"})[0].Composizione;
+      const nomeCSV = csv.filter(function(d) {return d.Nome == headlineFull[0] && d.Produttore == headlineFull[2] && d.Entry === "1"})[0].Nome;
+      const regioneCSV = csv.filter(function(d) {return d.Nome == headlineFull[0] && d.Produttore == headlineFull[2] && d.Entry === "1"})[0].Regione;
+      const nazioneCSV = csv.filter(function(d) {return d.Nome == headlineFull[0] && d.Produttore == headlineFull[2] && d.Entry === "1"})[0].Nazione;
+      const tipoCSV = csv.filter(function(d) {return d.Nome == headlineFull[0] && d.Produttore == headlineFull[2] && d.Entry === "1"})[0].Tipologia;
+      const denominazioneCSV = csv.filter(function(d) {return d.Nome == headlineFull[0] && d.Produttore == headlineFull[2] && d.Entry === "1"})[0].Denominazione;
+      const menzioniCSV = csv.filter(function(d) {return d.Nome == headlineFull[0] && d.Produttore == headlineFull[2] && d.Entry === "1"})[0].Menzioni;
+      const classificazioneCSV = csv.filter(function(d) {return d.Nome == headlineFull[0] && d.Produttore == headlineFull[2] && d.Entry === "1"})[0].Classificazione;
+      const produttoreCSV = csv.filter(function(d) {return d.Nome == headlineFull[0] && d.Produttore == headlineFull[2] && d.Entry === "1"})[0].Produttore;
+      const composizioneCSV = csv.filter(function(d) {return d.Nome == headlineFull[0] && d.Produttore == headlineFull[2] && d.Entry === "1"})[0].Composizione;
       const composizioneArray = composizioneCSV.split(' – ')    
       let composizioneLength = composizioneArray.length; //must be let for the condition to work
-      const affinamentoCSV = csv.filter(function(d) {return d.Nome == headlineFull[0] && d.Entry === "1"})[0].Affinamento;
-      const alcolCSV = csv.filter(function(d) {return d.Nome == headlineFull[0] && d.Entry === "1"})[0].Alcol;
-      const prezzoCSV = csv.filter(function(d) {return d.Nome == headlineFull[0] && d.Entry === "1"})[0].Prezzo;
-      const abbinamentoCSV = csv.filter(function(d) {return d.Nome == headlineFull[0] && d.Entry === "1"})[0].Abbinamento;
+      const affinamentoCSV = csv.filter(function(d) {return d.Nome == headlineFull[0] && d.Produttore == headlineFull[2] && d.Entry === "1"})[0].Affinamento;
+      const alcolCSV = csv.filter(function(d) {return d.Nome == headlineFull[0] && d.Produttore == headlineFull[2] && d.Entry === "1"})[0].Alcol;
+      const prezzoCSV = csv.filter(function(d) {return d.Nome == headlineFull[0] && d.Produttore == headlineFull[2] && d.Entry === "1"})[0].Prezzo;
+      const abbinamentoCSV = csv.filter(function(d) {return d.Nome == headlineFull[0] && d.Produttore == headlineFull[2] && d.Entry === "1"})[0].Abbinamento;
       const abbinamentoArray = abbinamentoCSV.split(' – ')
       //singola annata
-      const annateCSVArray = csv.filter(function(d) {return d.Nome == headlineFull[0] && d.Entry === "2"})
-      const valutazioneCSV = csv.filter(function(d) {return d.Nome == headlineFull[0] && d.Entry === "2"})[0].Valutazione;
-      const punteggioMedioCSV = csv.filter(function(d) {return d.Nome == headlineFull[0] && d.Entry === "2"})[0].PunteggioMedio;
+      const annateCSVArray = csv.filter(function(d) {return d.Nome == headlineFull[0] && d.Produttore == headlineFull[2] && d.Entry === "2"})
+      const valutazioneCSV = csv.filter(function(d) {return d.Nome == headlineFull[0] && d.Produttore == headlineFull[2] && d.Entry === "2"})[0].Valutazione;
+      const punteggioMedioCSV = csv.filter(function(d) {return d.Nome == headlineFull[0] && d.Produttore == headlineFull[2] && d.Entry === "2"})[0].PunteggioMedio;
 
       d3.select('h1').append().text(nomeCSV)
       d3.select('.caratteristiche li:nth-child(1)').append().text(" " + nomeCSV)
