@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:32:47.834Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Alto Adige DOC](/denominazioni/Italia/Alto-Adige/DOC/Alto-Adige)
 - **Produttore:** [Ignaz Niedrist](/produttori/Italia/Alto-Adige/Ignaz-Niedrist) 
-- **Composizione:** [Pinot Nero](/vitigni/Francia/bacca-nera/pinot-nero)
+- **Composizione:** [Pinot Nero](/vitigni/Francia/pinot-nero)
 - **Affinamento:** 12 mesi in barrique
 - **Alcol:** 14%
 - **Fascia di prezzo:** 30-34€

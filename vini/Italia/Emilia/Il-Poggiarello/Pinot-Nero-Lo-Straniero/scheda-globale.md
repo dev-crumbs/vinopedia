@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 - **Tipologia:** Rosato fermo
 - **Denominazione:** [Emilia IGT](/denominazioni/Italia/Emilia/IGT/Emilia)
 - **Produttore:** [Il Poggiarello](/produttori/Italia/Emilia/Il-Poggiarello) 
-- **Composizione:** 95% [Pinot Nero](/vitigni/Francia/bacca-nera/pinot-nero) + altre varietà
+- **Composizione:** 95% [Pinot Nero](/vitigni/Francia/pinot-nero) + altre varietà
 - **Affinamento:** 6 mesi in acciaio + 12 in botte
 - **Alcol:** 13.5%
 - **Fascia di prezzo:** 10-14€

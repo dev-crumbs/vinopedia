@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Emilia IGT](/denominazioni/Italia/Emilia/IGT-Emilia)
 - **Produttore:** [Torre Fornello](/produttori/Italia/Emilia/Torre-Fornello) 
-- **Composizione:** 100% [Pinot nero](/vitigni/Francia/bacca-nera/pinot-nero)
+- **Composizione:** 100% [Pinot nero](/vitigni/Francia/pinot-nero)
 - **Affinamento:** 12 mesi in acciaio + 12 mesi in botte
 - **Alcol:** 14%
 - **Fascia di prezzo:** 10-14€

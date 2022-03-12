@@ -15,7 +15,7 @@ dateCreated: 2021-09-18T16:29:55.153Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Toscana IGT](/denominazioni/Italia/Toscana/IGT/Toscana)
 - **Produttore:** [Le Macchiole](/produttori/Italia/Toscana/Le-Macchiole) 
-- **Composizione:** [Cabernet franc](/vitigni/Francia/bacca-nera/cabernet-franc)
+- **Composizione:** [Cabernet franc](/vitigni/Francia/cabernet-franc)
 - **Affinamento:** 3 mesi in cemento + 18 mesi in barrique + 19 mesi in bottiglia
 - **Alcol:** 14.5%
 - **Fascia di prezzo:** 90-94€

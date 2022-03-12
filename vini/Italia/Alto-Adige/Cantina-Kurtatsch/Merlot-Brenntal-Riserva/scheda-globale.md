@@ -15,7 +15,7 @@ dateCreated: 2021-08-27T17:49:36.458Z
 - **Tipologia:** Rosso fermo 
 - **Denominazione:** [Alto Adige DOC](/denominazioni/Italia/Alto-Adige/DOC/Alto-Adige)
 - **Produttore:** [Cantina Kurtatsch](/produttori/Italia/Alto-Adite/Cantina-Kurtatsch) 
-- **Composizione:** 100% [Merlot](/vitigni/Francia/bacca-nera/merlot)
+- **Composizione:** 100% [Merlot](/vitigni/Francia/merlot)
 - **Affinamento:** 15 mesi in barrique
 - **Alcol:** 14%
 - **Fascia di prezzo:** 30-34€

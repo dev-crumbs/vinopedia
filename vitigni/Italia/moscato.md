@@ -10,4 +10,4 @@ dateCreated: 2021-09-06T17:12:50.588Z
 
 # Moscato
 
-"Moscato" è un sinonimo utilizzato in Italia per il vitigno [Muscat](/vitigni/Francia/bacca-bianca/muscat).
+"Moscato" è un sinonimo utilizzato in Italia per il vitigno [Muscat](/vitigni/Francia/muscat).

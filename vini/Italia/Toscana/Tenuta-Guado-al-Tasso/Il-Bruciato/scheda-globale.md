@@ -15,7 +15,7 @@ dateCreated: 2021-09-18T16:29:55.153Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Bolgheri DOC](/denominazioni/Italia/Toscana/DOC/Bolgheri)
 - **Produttore:** [Tenuta Guado al Tasso](/produttori/Italia/Toscana/Tenuta-Guado-al-Tasso) 
-- **Composizione:**[^1] [Merlot](/vitigni/Francia/bacca-nera/merlot) + [Cabernet sauvignon](/vitigni/Francia/bacca-nera/cabernet-sauvignon) + [Syrah](/vitigni/Francia/bacca-nera/syrah) 
+- **Composizione:**[^1] [Merlot](/vitigni/Francia/merlot) + [Cabernet sauvignon](/vitigni/Francia/cabernet-sauvignon) + [Syrah](/vitigni/Francia/syrah) 
 - **Affinamento:** 10 mesi in barrique
 - **Alcol:** 14%
 - **Fascia di prezzo:** 20-24€

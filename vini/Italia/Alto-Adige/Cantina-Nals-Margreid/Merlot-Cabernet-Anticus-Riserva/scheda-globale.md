@@ -15,7 +15,7 @@ dateCreated: 2021-08-27T17:49:36.458Z
 - **Tipologia:** Rosso fermo 
 - **Denominazione:** [Alto Adige DOC](/denominazioni/Italia/Alto-Adige/DOC/Alto-Adige)
 - **Produttore:** [Cantina Nals Margreid](/produttori/Italia/Alto-Adite/Cantina-Nals-Margreid) 
-- **Composizione:** 80% [Merlot](/vitigni/Francia/bacca-nera/merlot) + 20% [Cabernet Sauvignon](/vitigni/Francia/bacca-nera/cabernet-sauvignon)
+- **Composizione:** 80% [Merlot](/vitigni/Francia/merlot) + 20% [Cabernet Sauvignon](/vitigni/Francia/cabernet-sauvignon)
 - **Affinamento:** 20 mesi in barrique + 12 mesi in bottiglia
 - **Alcol:** 14%
 - **Fascia di prezzo:** 35-39€

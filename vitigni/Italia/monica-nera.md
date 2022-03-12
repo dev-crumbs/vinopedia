@@ -27,7 +27,7 @@ Come molte altre varietà sarde, si dice che Monica Nera provenga dalla Spagna. 
 
 ### Altre Ipotesi
 
-Si pensava che Monica Nera fosse imparentata con [Listan Prieto](/vitigni/Spagna/bacca-nera/listan-prieto), la varietà chiamata Mission in California, País in Cile e Criolla Chica in Argentina, solo perché Monica è un sinonimo di Criolla, ma l'analisi del DNA lo smentisce.
+Si pensava che Monica Nera fosse imparentata con [Listan Prieto](/vitigni/Spagna/listan-prieto), la varietà chiamata Mission in California, País in Cile e Criolla Chica in Argentina, solo perché Monica è un sinonimo di Criolla, ma l'analisi del DNA lo smentisce.
 
 
 ## Caratteristiche viticole
@@ -36,4 +36,4 @@ Si pensava che Monica Nera fosse imparentata con [Listan Prieto](/vitigni/Spagna
 
 ## Diffusione geografica
 
-Il Monica Nera è coltivato in tutta la Sardegna, Italia, per i vini varietali nelle DOC Monica di Sardegna (secco e fermo o frizzante) e Monica di Cagliari (secco, dolce o liquoroso), o usato in blend con [Graciano](/vitigni/Spagna/bacca-nera/graciano) (Bovale Sardo) e [Garnacha](/vitigni/Spagna/bacca-nera/garnacha) (Cannonau) nella DOC Mandrolisai e in misura minore nella DOC Campidano di Terralba. Il censimento agricolo italiano ha registrato nel 2000 un totale di 2.909 ha (7.199 acri). A meno che le rese non siano mantenute basse, i vini sono generalmente poco distinti e da bere presto. I produttori raccomandati sono Argiolas, Ferruccio Deiana, Alberto Loi, Santadi e Sardus Pater.
+Il Monica Nera è coltivato in tutta la Sardegna, Italia, per i vini varietali nelle DOC Monica di Sardegna (secco e fermo o frizzante) e Monica di Cagliari (secco, dolce o liquoroso), o usato in blend con [Graciano](/vitigni/Spagna/graciano) (Bovale Sardo) e [Garnacha](/vitigni/Spagna/garnacha) (Cannonau) nella DOC Mandrolisai e in misura minore nella DOC Campidano di Terralba. Il censimento agricolo italiano ha registrato nel 2000 un totale di 2.909 ha (7.199 acri). A meno che le rese non siano mantenute basse, i vini sono generalmente poco distinti e da bere presto. I produttori raccomandati sono Argiolas, Ferruccio Deiana, Alberto Loi, Santadi e Sardus Pater.

@@ -15,7 +15,7 @@ dateCreated: 2021-09-28T20:44:23.406Z
 - **Tipologia:** bianco fermo
 - **Denominazione:** [Salento IGT](/denominazioni/Italia/Puglia/IGT/Salento)
 - **Produttore:** [Candido](/produttori/Italia/Puglia/Candido) 
-- **Composizione:** 100% [Chardonnay](/vitigni/Francia/bacca-bianca/chardonnay)
+- **Composizione:** 100% [Chardonnay](/vitigni/Francia/chardonnay)
 - **Affinamento:** 6 mesi in botti di rovere
 - **Alcol:** 12%
 - **Fascia di prezzo:** 10-14€

@@ -15,7 +15,7 @@ dateCreated: 2021-09-03T21:03:21.131Z
 - **Tipologia:** Bianco spumante metodo classico
 - **Denominazione:** [Alto-Adige DOC](/denominazioni/Italia/Alto-Adige/DOC/Alto-Adige)
 - **Produttore:** [Lorenz Martini](/produttori/Italia/Alto-Adige/Lorenz-Martini) 
-- **Composizione:** 50% [Pinot bianco](/vitigni/Italia/pinot-bianco) + 25% [Chardonnay](/vitigni/Francia/bacca-bianca/chardonnay) + 25% [Pinot nero](/vitigni/Italia/pinot-nero)
+- **Composizione:** 50% [Pinot bianco](/vitigni/Italia/pinot-bianco) + 25% [Chardonnay](/vitigni/Francia/chardonnay) + 25% [Pinot nero](/vitigni/Italia/pinot-nero)
 - **Alcol:** 13.5%
 - **Fascia di prezzo:** 65-69€
 

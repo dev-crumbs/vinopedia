@@ -10,4 +10,4 @@ dateCreated: 2022-01-31T17:10:54.439Z
 
 # Granaccia
 
-"Granaccia" è un sinonimo utilizzato in Italia per riferirsi al vitigno [Alicante Henri Bouschet](/vitigni/Francia/bacca-nera/alicante-henri-bouschet)
+"Granaccia" è un sinonimo utilizzato in Italia per riferirsi al vitigno [Alicante Henri Bouschet](/vitigni/Francia/alicante-henri-bouschet)

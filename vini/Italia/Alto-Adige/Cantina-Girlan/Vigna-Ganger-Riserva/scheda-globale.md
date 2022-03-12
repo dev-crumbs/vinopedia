@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:32:47.834Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Alto Adige DOC](/denominazioni/Italia/Alto-Adige/DOC/Alto-Adige)
 - **Produttore:** [Cantina-Girlan](/produttori/Italia/Alto-Adige/Cantina-Girlan) 
-- **Composizione:** [Pinot Nero](/vitigni/Francia/bacca-nera/pinot-nero)
+- **Composizione:** [Pinot Nero](/vitigni/Francia/pinot-nero)
 - **Affinamento:** 18 mesi in barrique + 18 mesi in botte grande
 - **Alcol:** 14.5%
 - **Fascia di prezzo:** 125-149€

@@ -15,7 +15,7 @@ dateCreated: 2021-08-12T08:47:39.689Z
 - **Tipologia:** Rosato spumante metodo classico
 - **Denominazione:** [Trento DOC](/denominazioni/Trentino/DOC/Trento)
 - **Produttore:** Cantine Monfort 
-- **Composizione:** 50% [Pinot Noir](/vitigni/Francia/bacca-nera/pinot-noir) - 50% [Chardonnay](/vitigni/Francia/bacca-bianca/chardonnay)
+- **Composizione:** 50% [Pinot Noir](/vitigni/Francia/pinot-noir) - 50% [Chardonnay](/vitigni/Francia/chardonnay)
 - **Fascia di prezzo:** 25-29€
 
 {.grid-list}

@@ -64,7 +64,7 @@ Nel 2000 c'erano 42.456 ha (104.911 acri) di questo particolare Trebbiano comune
 
 In Croazia c'erano 337 ha (833 acri) nel 2009 mentre la Bulgaria aveva 1.388 ha (3.430 acri).
 
-In Grecia, la maggior parte delle piantagioni si trova a Thessalía (72 ha/178 acri nel 2007) ma a Dráma, nel nord-est della Grecia, Nico Lazaridi produce un Trebbiano secco, a vendemmia tardiva, invecchiato in quercia, ne mischia un po' con il suo [Sauvignon Blanc](/vitigni/Francia/bacca-bianca/sauvignon-blanc) e sta sperimentando un vino varietale leggermente frizzante.
+In Grecia, la maggior parte delle piantagioni si trova a Thessalía (72 ha/178 acri nel 2007) ma a Dráma, nel nord-est della Grecia, Nico Lazaridi produce un Trebbiano secco, a vendemmia tardiva, invecchiato in quercia, ne mischia un po' con il suo [Sauvignon Blanc](/vitigni/Francia/sauvignon-blanc) e sta sperimentando un vino varietale leggermente frizzante.
 
 Sebbene ci siano state alcune piantagioni sperimentali in Russia alla fine degli anni '90 (da parte di agronomi che avevano visitato la Francia ed erano stati ispirati dalle sue alte rese), principalmente nella penisola di Taman tra il Mar Nero e il Mar d'Azov, la varietà si è dimostrata non sufficientemente resistente al freddo e circa due terzi dei circa 150 ettari (370 acri) sono stati sradicati. I circa 60 ettari (150 acri) che rimangono vengono usati, opportunamente, per fare vini base per il brandy.
 

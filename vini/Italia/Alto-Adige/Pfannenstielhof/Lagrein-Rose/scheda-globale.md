@@ -15,7 +15,7 @@ dateCreated: 2021-09-30T08:13:14.399Z
 - **Tipologia:** Rosato fermo 
 - **Denominazione:** [Vigneti delle Dolomiti IGT](/denominazioni/Italia/Alto-Adige/IGT/Vigneti-delle-Dolomiti)
 - **Produttore:** [Pfannenstielhof](/produttori/Italia/Alto-Adige/Pfannenstielhof) 
-- **Composizione:** 100% [Lagrein Rose](/vitigni/Germania/bacca-nera/lagrein)
+- **Composizione:** 100% [Lagrein Rose](/vitigni/Germania/lagrein)
 - **Affinamento:** 6 mesi in acciaio
 - **Alcol:** 14%
 - **Fascia di prezzo:** 10-14€

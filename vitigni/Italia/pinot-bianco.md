@@ -9,4 +9,4 @@ dateCreated: 2021-09-06T17:05:34.580Z
 ---
 
 # Pinot Bianco
-"Pinot Bianco" è un sinonimo utilizzato in Italia per il vitigno [Pinot Blanc](/vitigni/Francia/bacca-bianca/pinot-blanc)
+"Pinot Bianco" è un sinonimo utilizzato in Italia per il vitigno [Pinot Blanc](/vitigni/Francia/pinot-blanc)

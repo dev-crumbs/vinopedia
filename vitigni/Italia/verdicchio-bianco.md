@@ -55,7 +55,7 @@ Come Peverella, la varietà è ancora piantata in misura molto limitata in Trent
 
 Sotto il nome di Trebbiano Valtenesi (di nuovo, non menzionato nel censimento), la varietà si trova raramente ma Comincioli a Puegnago sul Garda miscela il 60% di Trebbiano Valtenesi con il 40% di [Erbamat](/vitigni/bacca-bianca/erbamat) per produrre il loro Perlì IGT Garda bianco secco.
 
-Piuttosto curiosamente, Peverella salta fuori nel Rio Grande do Sul del Brasile, dove c'erano 20 ha (49 acri) nel 2007. Questo è probabilmente dovuto all'arrivo di numerose famiglie trentine in Brasile alla fine del XIX secolo. Il profilo del DNA ha recentemente confermato che questa Peverella brasiliana è identica al Verdicchio Bianco (Leão et al. 2009). Salvati & Sirena producono un vino varietale a Bento Gonçalves. Spunta anche nelle Sierra Foothills in California, dove Avanguardia la fonde con Friulano ([Sauvignonasse](/vitigni/Francia/bacca-bianca/sauvignonasse)) e altre varietà italiane nella loro miscela Selvatico.
+Piuttosto curiosamente, Peverella salta fuori nel Rio Grande do Sul del Brasile, dove c'erano 20 ha (49 acri) nel 2007. Questo è probabilmente dovuto all'arrivo di numerose famiglie trentine in Brasile alla fine del XIX secolo. Il profilo del DNA ha recentemente confermato che questa Peverella brasiliana è identica al Verdicchio Bianco (Leão et al. 2009). Salvati & Sirena producono un vino varietale a Bento Gonçalves. Spunta anche nelle Sierra Foothills in California, dove Avanguardia la fonde con Friulano ([Sauvignonasse](/vitigni/Francia/sauvignonasse)) e altre varietà italiane nella loro miscela Selvatico.
 
 ## Caratteristiche enologiche
 

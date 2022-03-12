@@ -15,7 +15,7 @@ dateCreated: 2021-08-25T13:28:13.571Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Friuli Colli Orientali DOC](/denominazioni/Italia/Friuli-Venezia-Giulia/DOC/Friuli-Colli-Orientali) (Riserva)
 - **Produttore:** [Scubla](/produttori/Italia/Friuli-Venezia-Giulia/Scubla) 
-- **Composizione:** 70% [Pinot bianco](/vitigni/Italia/pinot-bianco) + 20% [Tocai friulano](/vitigni/Italia/tocai-friulano) + 10% [Riesling renano](/vitigni/Germania/bacca-bianca/riesling-renano)
+- **Composizione:** 70% [Pinot bianco](/vitigni/Italia/pinot-bianco) + 20% [Tocai friulano](/vitigni/Italia/tocai-friulano) + 10% [Riesling renano](/vitigni/Germania/riesling-renano)
 - **Affinamento:** 8 mesi in rovere francese + 10 mesi in acciaio
 - **Alcol:** 14%
 - **Fascia di prezzo:** 20-24€
@@ -41,6 +41,6 @@ dateCreated: 2021-08-25T13:28:13.571Z
 
 
 ## Note
-Nonostante il divieto dell'Unione Europea di utilizzare il nome "Tocai", come sinonimo del [Sauvignonasse](/vitigni/Francia/bacca-bianca/sauvignonasse) il produttore indica il secondo dei tre vitigni che compongono il blend come "Tocai friulano" sul proprio sito e sulla scheda tecnica.  
+Nonostante il divieto dell'Unione Europea di utilizzare il nome "Tocai", come sinonimo del [Sauvignonasse](/vitigni/Francia/sauvignonasse) il produttore indica il secondo dei tre vitigni che compongono il blend come "Tocai friulano" sul proprio sito e sulla scheda tecnica.  
 
 

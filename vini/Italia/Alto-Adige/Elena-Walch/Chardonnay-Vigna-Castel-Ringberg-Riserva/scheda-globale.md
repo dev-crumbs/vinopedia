@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:32:47.834Z
 - **Tipologia:** Bianco fermo 
 - **Denominazione:** [Alto Adige DOC](/denominazioni/Italia/Alto-Adige/DOC/Alto-Adige)
 - **Produttore:** [Elena Walch](/produttori/Italia/Alto-Adige/Elena-Walch) 
-- **Composizione:** 100% [Chardonnay](/vitigni/Francia/bacca-bianca/Chardonnay)
+- **Composizione:** 100% [Chardonnay](/vitigni/Francia/Chardonnay)
 - **Affinamento:** 10 mesi in barrique di rovere
 - **Alcol:** 13.5%
 - **Fascia di prezzo:** 35-39€

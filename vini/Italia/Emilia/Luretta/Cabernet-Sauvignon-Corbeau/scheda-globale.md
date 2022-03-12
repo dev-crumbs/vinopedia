@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Colli Piacentini DOC](/denominazioni/Italia/Emilia/DOC-Colli-Piacentini)
 - **Produttore:** [Luretta](/produttori/Italia/Emilia/Luretta) 
-- **Composizione:** 100% [Cabernet Sauvignon](/vitigni/Francia/bacca-nera/cabernet-sauvignon)
+- **Composizione:** 100% [Cabernet Sauvignon](/vitigni/Francia/cabernet-sauvignon)
 - **Affinamento:** 12 mesi in tonneau
 - **Alcol:** 15%
 - **Fascia di prezzo:** 30-34€

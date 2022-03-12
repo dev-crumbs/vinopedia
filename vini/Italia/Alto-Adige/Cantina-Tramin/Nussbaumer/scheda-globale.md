@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:32:47.834Z
 - **Tipologia:** Bianco fermo 
 - **Denominazione:** [Alto Adige DOC](/denominazioni/Italia/Alto-Adige/DOC/Alto-Adige)
 - **Produttore:** [Cantina Tramin](/produttori/Italia/Alto-Adige/Cantina-Tramin) 
-- **Composizione:** 100% [Gewurztraminer](/vitigni/Germania/bacca-bianca/gewurztraminer)
+- **Composizione:** 100% [Gewurztraminer](/vitigni/Germania/gewurztraminer)
 - **Affinamento:** 11 mesi in acciaio
 - **Alcol:** 15%
 - **Fascia di prezzo:** 25-29€

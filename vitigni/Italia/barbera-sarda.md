@@ -18,10 +18,10 @@ Nera
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Barbera](/vitigni/bacca-nera/barbera), [Mazuelo](/vitigni/Spagna/bacca-nera/mazuelo)
+[Barbera](/vitigni/bacca-nera/barbera), [Mazuelo](/vitigni/Spagna/mazuelo)
 
 ## Origini e parentele
-Proveniente dalla Sardegna, la Barbera Sarda non è identica né alla [Barbera](/vitigni/bacca-nera/barbera) né al [Mazuelo](/vitigni/Spagna/bacca-nera/mazuelo) (Carignan), come è stato suggerito. Alcuni autori la considerano una discendenza della Barbera piemontese, ma questo non è ancora stato provato dal profilo del DNA.
+Proveniente dalla Sardegna, la Barbera Sarda non è identica né alla [Barbera](/vitigni/bacca-nera/barbera) né al [Mazuelo](/vitigni/Spagna/mazuelo) (Carignan), come è stato suggerito. Alcuni autori la considerano una discendenza della Barbera piemontese, ma questo non è ancora stato provato dal profilo del DNA.
 
 ## Caratteristiche viticole
 - Maturazione tardiva

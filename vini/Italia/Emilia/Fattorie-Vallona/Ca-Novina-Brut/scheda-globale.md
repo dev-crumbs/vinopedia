@@ -15,7 +15,7 @@ dateCreated: 2021-08-31T15:46:06.033Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Colli Bolognesi Classico Pignoletto DOCG](/denominazioni/Italia/Emilia/DOCG/Colli-Bolognesi-Classico-Pignoletto)
 - **Produttore:** [Fattorie Vallona](/produttori/Italia/Emilia/Fattorie-Vallona) 
-- **Composizione:** 50% [Grechetto gentile](/vitigni/Italia/grechetto-gentile) + 50% [Chardonnay](/vitigni/Francia/bacca-bianca/chardonnay)
+- **Composizione:** 50% [Grechetto gentile](/vitigni/Italia/grechetto-gentile) + 50% [Chardonnay](/vitigni/Francia/chardonnay)
 - **Affinamento:** 6 mesi in acciaio
 - **Alcol:** 12.5%
 - **Fascia di prezzo:** 15-20€

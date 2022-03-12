@@ -15,7 +15,7 @@ dateCreated: 2021-08-29T16:15:14.887Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Venezia Giulia IGT](/denominazioni/Italia/Friuli-Venezia-Giulia/IGT/Venezia-Giulia)
 - **Produttore:** [Bastianich](/produttori/Italia/Friuli-Venezia-Giulia/Bastianich) 
-- **Composizione:** 50% [Sauvignon Blanc](/vitigni/Francia/bacca-bianca/sauvignon-blanc) + 50% [Chardonnay](/vitigni/Francia/bacca-bianca/chardonnay)
+- **Composizione:** 50% [Sauvignon Blanc](/vitigni/Francia/sauvignon-blanc) + 50% [Chardonnay](/vitigni/Francia/chardonnay)
 - **Affinamento:** 12 in botte grande e acciaio
 - **Alcol:** 13.5%
 - **Fascia di prezzo:** 25-29€

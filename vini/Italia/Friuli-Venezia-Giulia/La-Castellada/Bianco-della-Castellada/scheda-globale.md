@@ -15,7 +15,7 @@ dateCreated: 2021-08-29T16:15:14.887Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Collio DOC](/denominazioni/Italia/Friuli-Venezia-Giulia/DOC/Collio)
 - **Produttore:** [La Castellada](/produttori/Italia/Friuli-Venezia-Giulia/La-Castellada) 
-- **Composizione:** 50% [Pinot grigio](/vitigni/Italia/pinot-grigio) + 30% [Chardonnay](/vitigni/Francia/bacca-bianca/chardonnay) + 20% [Sauvignon Blanc](/vitigni/Francia/bacca-bianca/sauvignon-blanc)
+- **Composizione:** 50% [Pinot grigio](/vitigni/Italia/pinot-grigio) + 30% [Chardonnay](/vitigni/Francia/chardonnay) + 20% [Sauvignon Blanc](/vitigni/Francia/sauvignon-blanc)
 - **Affinamento:** 12 mesi in barrique di rovere + 24 mesi in acciaio + 12 mesi in bottiglia
 - **Alcol:** 14%
 - **Fascia di prezzo:** 25-29€

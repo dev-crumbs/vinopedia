@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Colli Piacentini DOC](/denominazioni/Italia/Emilia/DOC-Colli-Piacentini)
 - **Produttore:** [Luretta](/produttori/Italia/Emilia/Luretta) 
-- **Composizione:** 100% [Pinot nero](/vitigni/Francia/bacca-nera/pinot-nero)
+- **Composizione:** 100% [Pinot nero](/vitigni/Francia/pinot-nero)
 - **Affinamento:** 9 mesi in botte
 - **Alcol:** 13.5%
 - **Fascia di prezzo:** 25-29€

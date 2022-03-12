@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Colli Piacentini DOC](/denominazioni/Italia/Emilia/DOC-Colli-Piacentini)
 - **Produttore:** [Luretta](/produttori/Italia/Emilia/Luretta) 
-- **Composizione:** 100% [Sauvignon-Blanc](/vitigni/Francia/bacca-bianca/sauvignon-blanc)
+- **Composizione:** 100% [Sauvignon-Blanc](/vitigni/Francia/sauvignon-blanc)
 - **Affinamento:** 9 mesi in acciaio
 - **Alcol:** 13%
 - **Fascia di prezzo:** 15-19€

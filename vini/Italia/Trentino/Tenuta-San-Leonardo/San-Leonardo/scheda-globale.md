@@ -15,7 +15,7 @@ dateCreated: 2021-09-07T09:47:22.370Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Vigneti delle Dolomiti IGT](/denominazioni/Italia/Trentino/IGT/Vigneti-delle-Dolomiti)
 - **Produttore:** [Tenuta San Leonardo](/produttori/Italia/Trentino/Tenuta-San-Leonardo) 
-- **Composizione:** 60% [Cabernet Sauvignon](/vitigni/Francia/bacca-bianca/cabernet-sauvignon) + 30% [Carmènere](/vitigni/Francia/bacca-nera/carmenere.md) + 10% [Merlot](/vitigni/Francia/bacca-nera/merlot)
+- **Composizione:** 60% [Cabernet Sauvignon](/vitigni/Francia/cabernet-sauvignon) + 30% [Carmènere](/vitigni/Francia/carmenere.md) + 10% [Merlot](/vitigni/Francia/merlot)
 - **Affinamento:** 24 mesi in barrique + 2 anni in bottiglia 
 - **Alcol:** 13%
 - **Fascia di prezzo:** 50-54€

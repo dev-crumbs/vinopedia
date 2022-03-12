@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:32:47.834Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Alto Adige DOC](/denominazioni/Italia/Alto-Adige/DOC/Alto-Adige)
 - **Produttore:** [Franz Haas](/produttori/Italia/Alto-Adige/Franz-Haas) 
-- **Composizione:** [Pinot Nero](/vitigni/Francia/bacca-nera/pinot-nero)
+- **Composizione:** [Pinot Nero](/vitigni/Francia/pinot-nero)
 - **Affinamento:** 12 mesi in botte
 - **Alcol:** 13.5%
 - **Fascia di prezzo:** 20-24€

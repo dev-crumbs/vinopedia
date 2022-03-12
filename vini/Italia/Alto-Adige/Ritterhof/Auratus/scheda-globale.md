@@ -15,7 +15,7 @@ dateCreated: 2022-01-20T13:47:28.772Z
 - **Tipologia:** Bianco fermo 
 - **Denominazione:** [Alto Adige DOC](/denominazioni/Italia/Alto-Adige/DOC/Alto-Adige)
 - **Produttore:** [Ritterhof](/produttori/Italia/Alto-Adige/Ritterhof) 
-- **Composizione:** 100% [Gewurztraminer](/vitigni/Germania/bacca-bianca/gewurztraminer)
+- **Composizione:** 100% [Gewurztraminer](/vitigni/Germania/gewurztraminer)
 - **Affinamento:** 7 mesi in acciaio
 - **Alcol:** 14.5%
 - **Fascia di prezzo:** 20-24€

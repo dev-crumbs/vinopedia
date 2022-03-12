@@ -15,7 +15,7 @@ dateCreated: 2021-10-04T06:51:26.317Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Morellino di Scansano DOCG](/denominazioni/Italia/Toscana/DOCG/Morellino-di-Scansano) 
 - **Produttore:** [Podere 414](/produttori/Italia/Toscana/Podere-414) 
-- **Composizione:** 85% [Sangiovese](/vitigni/Italia/sangiovese) + 5% [Ciliegiolo](/vitigni/Italia/ciliegiolo) + 5% [Alicante](/vitigni/Francia/bacca-nera/alicante) + 3% [Colorino](/vitigni/Italia/colorino) + 2% [Syrah](/vitigni/Francia/bacca-nera/syrah) 
+- **Composizione:** 85% [Sangiovese](/vitigni/Italia/sangiovese) + 5% [Ciliegiolo](/vitigni/Italia/ciliegiolo) + 5% [Alicante](/vitigni/Francia/alicante) + 3% [Colorino](/vitigni/Italia/colorino) + 2% [Syrah](/vitigni/Francia/syrah) 
 - **Affinamento:** 10 mesi in tonneau
 - **Alcol:** 14.5%
 - **Fascia di prezzo:** 15-19€

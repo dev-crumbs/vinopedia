@@ -15,7 +15,7 @@ dateCreated: 2021-09-03T21:02:22.379Z
 - **Tipologia:** Bianco fermo 
 - **Denominazione:** [Alto Adige DOC](/denominazioni/Italia/Alto-Adige/DOC/Alto-Adige)
 - **Produttore:** [Tenuta Kornell](/produttori/Italia/Alto-Adige/Tenuta Kornell) 
-- **Composizione:** 100% [Sauvignon Blanc](/vitigni/Francia/bacca-bianca/sauvignon-blanc)
+- **Composizione:** 100% [Sauvignon Blanc](/vitigni/Francia/sauvignon-blanc)
 - **Affinamento:** 6 mesi in acciaio
 - **Alcol:** 13.5%
 - **Fascia di prezzo:** 25-29€

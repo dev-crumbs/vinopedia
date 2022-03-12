@@ -15,7 +15,7 @@ dateCreated: 2021-09-30T08:13:18.301Z
 - **Tipologia:** Bianco fermo 
 - **Denominazione:** [Alto Adige DOC](/denominazioni/Italia/Alto-Adige/DOC/Alto-Adige) (Valle Isarco)
 - **Produttore:** [Stratterhof](/produttori/Italia/Alto-Adige/Stratterhof) 
-- **Composizione:** 100% [Kerner](/vitigni/Germania/bacca-bianca/kerner)
+- **Composizione:** 100% [Kerner](/vitigni/Germania/kerner)
 - **Affinamento:** 7 mesi in acciaio
 - **Alcol:** 14%
 - **Fascia di prezzo:** 10-14€

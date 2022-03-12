@@ -15,7 +15,7 @@ dateCreated: 2021-08-31T15:46:06.033Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Alto-Adige DOC](/denominazioni/Italia/Alto-Adige/DOC/Alto-Adige) (Val Venosta)
 - **Produttore:** [Castel Juval Unterortl](/produttori/Italia/Alto-Adige/Castel-Juval-Unterortl) 
-- **Composizione:** 100% [Riesling](/vitigni/Germania/bacca-bianca/riesling)
+- **Composizione:** 100% [Riesling](/vitigni/Germania/riesling)
 - **Affinamento:** 7 mesi in acciaio + 1 anno in bottiglia
 - **Alcol:** 13.5%
 - **Fascia di prezzo:** 30-34€

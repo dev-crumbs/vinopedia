@@ -15,7 +15,7 @@ dateCreated: 2021-09-18T16:29:55.153Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Bolgheri DOC](/denominazioni/Italia/Toscana/DOC/Bolgheri)
 - **Produttore:** [Le Macchiole](/produttori/Italia/Toscana/Le Macchiole) 
-- **Composizione:**[^1] [Merlot](/vitigni/Francia/bacca-nera/merlot) + [Cabernet sauvignon](/vitigni/Francia/bacca-nera/cabernet-sauvignon) + [Cabernet franc](/vitigni/Francia/bacca-nera/cabernet-franc) + [Syrah](/vitigni/Francia/bacca-nera/syrah) 
+- **Composizione:**[^1] [Merlot](/vitigni/Francia/merlot) + [Cabernet sauvignon](/vitigni/Francia/cabernet-sauvignon) + [Cabernet franc](/vitigni/Francia/cabernet-franc) + [Syrah](/vitigni/Francia/syrah) 
 - **Affinamento:** 11 mesi in barrique + 3 mesi in bottiglia
 - **Alcol:** 14%
 - **Fascia di prezzo:** 20-24€

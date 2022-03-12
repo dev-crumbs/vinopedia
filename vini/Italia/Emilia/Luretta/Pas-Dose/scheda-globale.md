@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 - **Tipologia:** Bianco spumante metodo classico
 - **Denominazione:** [Colli Piacentini DOC](/denominazioni/Italia/Vino-Generico)
 - **Produttore:** [Luretta](/produttori/Italia/Emilia/Luretta) 
-- **Composizione:** 60% [Pinot Nero](/vitigni/Francia/bacca-nera/Pinot-Nero) + 40% [Chardonnay](/vitigni/Francia/bacca-italia/Chardonnay)
+- **Composizione:** 60% [Pinot Nero](/vitigni/Francia/Pinot-Nero) + 40% [Chardonnay](/vitigni/Francia/bacca-italia/Chardonnay)
 - **Alcol:** 13%
 - **Fascia di prezzo:** 15-19€
 {.grid-list}

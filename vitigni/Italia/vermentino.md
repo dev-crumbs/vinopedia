@@ -55,7 +55,7 @@ In Sardegna, il Vermentino è la varietà bianca più importante, specialmente i
 
 Viene piantato in misura minore a Massa-Carrara in Toscana e in Puglia, Umbria e Lazio. In Toscana, il Vermentino sta prosperando grazie al crescente interesse per le varietà autoctone. Compare nelle ricette di diversi Vin Santo e può essere prodotto come varietale in una serie di DOC tra cui Bolgheri, Colline Lucchese e Montecucco.
 
-Con il nome Favorita, è stata tradizionalmente piantata - in passato sia come uva da tavola che da vino ma oggi quasi esclusivamente come uva da vino - nelle regioni di Alba e soprattutto Roero in Piemonte, nel nord-ovest dell'Italia. Dagli anni '90, la Favorita è stata lentamente sostituita dal più alla moda [Arneis](/vitigni/bacca-bianca/arneis) nel Roero e dal [Chardonnay](/vitigni/Francia/bacca-bianca/chardonnay) nelle Langhe, anche se alcuni bei vini aromatici vengono ancora prodotti da produttori come Gianni Gagliardo.
+Con il nome Favorita, è stata tradizionalmente piantata - in passato sia come uva da tavola che da vino ma oggi quasi esclusivamente come uva da vino - nelle regioni di Alba e soprattutto Roero in Piemonte, nel nord-ovest dell'Italia. Dagli anni '90, la Favorita è stata lentamente sostituita dal più alla moda [Arneis](/vitigni/bacca-bianca/arneis) nel Roero e dal [Chardonnay](/vitigni/Francia/chardonnay) nelle Langhe, anche se alcuni bei vini aromatici vengono ancora prodotti da produttori come Gianni Gagliardo.
 
 ### A Malta
 

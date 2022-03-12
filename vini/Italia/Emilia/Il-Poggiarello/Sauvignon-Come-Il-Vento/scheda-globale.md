@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Emilia IGT](/denominazioni/Italia/Emilia/IGT/Emilia) 
 - **Produttore:** [Il Poggiarello](/produttori/Italia/Emilia/Il-Poggiarello) 
-- **Composizione:** 100% [Sauvignon Blanc](/vitigni/Francia/bacca-bianca/sauvignon-blanc)
+- **Composizione:** 100% [Sauvignon Blanc](/vitigni/Francia/sauvignon-blanc)
 - **Affinamento:** --
 - **Alcol:** 13.5%
 - **Fascia di prezzo:** 10-14€

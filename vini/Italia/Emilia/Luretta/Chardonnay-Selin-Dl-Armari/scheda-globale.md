@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Colli Piacentini DOC](/denominazioni/Italia/Emilia/DOC-Colli-Piacentini)
 - **Produttore:** [Luretta](/produttori/Italia/Emilia/Luretta) 
-- **Composizione:** 100% [Chardonnay](/vitigni/Francia/bacca-bianca/chardonnay)
+- **Composizione:** 100% [Chardonnay](/vitigni/Francia/chardonnay)
 - **Affinamento:** 9 mesi in botte grande
 - **Alcol:** 14%
 - **Fascia di prezzo:** 15-19€

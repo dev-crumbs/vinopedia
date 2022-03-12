@@ -15,7 +15,7 @@ dateCreated: 2021-08-27T17:49:36.458Z
 - **Tipologia:** Rosso fermo 
 - **Denominazione:** [Alto Adige DOC](/denominazioni/Italia/Alto-Adige/DOC/Alto-Adige)
 - **Produttore:** [Tiefenbrunner](/produttori/Italia/Alto-Adite/Cantina-Bolzano) 
-- **Composizione:** 100% [Cabernet Sauvignon](/vitigni/Francia/bacca-nera/cabernet-sauvignon)
+- **Composizione:** 100% [Cabernet Sauvignon](/vitigni/Francia/cabernet-sauvignon)
 - **Affinamento:** 12 mesi in barrique + 24 mesi in bottiglia
 - **Alcol:** 14%
 - **Fascia di prezzo:** 80-84€

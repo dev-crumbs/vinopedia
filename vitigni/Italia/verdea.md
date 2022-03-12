@@ -37,7 +37,7 @@ Sorprendentemente, la profilazione del DNA ha rivelato che una varietà a bacca 
 
 La Verdea è coltivata principalmente in Lombardia nel nord Italia, in particolare nella zona di San Colombano al Lambro, tra le città di Milano e Piacenza, e anche più a sud nella provincia di Piacenza in Emilia-Romagna e nella provincia di Pisa in Toscana. Fino agli anni '40 la Verdea era usata insieme alla Malvasia Bianca (generalmente [Malvasia bianca lunga](/vitigni/Italia/malvasia-bianca-lunga)), al [Besgano bianco](/vitigni/Italia/besgano-bianco) e al Pizzutello (non più coltivato) per produrre Vino Santo nella Val Trebbia tra le città di Genova e Piacenza e nella Val Nure vicino a Piacenza. C'erano 152 ha (376 acri) in Italia nel 2000 (anche se alcuni di questi possono essere coltivati per la tavola).
 
-I Panizzari fanno uno dei pochissimi vini varietali secchi, freschi e delicati e classificati come IGT Colline del Milanese. Nettare dei Santi produce non solo un vino secco fermo (compreso il 10% di [Riesling](/vitigni/Germania/bacca-bianca/riesling) ma anche un vino dolce da dessert in stile passito e un fizz secco. Il Verdea della Cantina Pietrasanta comprende anche il 15% di Riesling.
+I Panizzari fanno uno dei pochissimi vini varietali secchi, freschi e delicati e classificati come IGT Colline del Milanese. Nettare dei Santi produce non solo un vino secco fermo (compreso il 10% di [Riesling](/vitigni/Germania/riesling) ma anche un vino dolce da dessert in stile passito e un fizz secco. Il Verdea della Cantina Pietrasanta comprende anche il 15% di Riesling.
 
 
 

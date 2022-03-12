@@ -15,7 +15,7 @@ dateCreated: 2022-01-24T12:15:09.595Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** <span class="denominazione">[Toscana IGT](/denominazioni/Italia/Toscana/IGT/Toscana)</span>
 - **Produttore:** <span class="cantina">[Baracchi](/produttori/Italia/Toscana/Baracchi)</span> 
-- **Composizione:** [Cabernet sauvignon](/vitigni/Francia/bacca-nera/cabernet-sauvignon) + [Syrah](/vitigni/Francia/bacca-nera/syrah) 
+- **Composizione:** [Cabernet sauvignon](/vitigni/Francia/cabernet-sauvignon) + [Syrah](/vitigni/Francia/syrah) 
 - **Affinamento:** 18 mesi in barrique + 8 mesi in bottiglia
 - **Alcol:** 15%
 - **Fascia di prezzo:** 35-39€

@@ -9,4 +9,4 @@ dateCreated: 2021-09-06T14:43:26.171Z
 ---
 
 # Carignano
-"Carignano" è un sinonimo utilizzato in Italia per il vitigno [Mazuelo](/vitigni/Spagna/bacca-nera/mazuelo).
+"Carignano" è un sinonimo utilizzato in Italia per il vitigno [Mazuelo](/vitigni/Spagna/mazuelo).

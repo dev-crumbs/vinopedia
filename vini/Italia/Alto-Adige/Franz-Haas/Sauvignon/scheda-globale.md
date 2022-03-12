@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:32:47.834Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Alto Adige DOC](/denominazioni/Italia/Alto-Adige/DOC-Alto-Adige)
 - **Produttore:** [Franz Haas](/produttori/Italia/Alto-Adige/Franz-Haas) 
-- **Composizione:** [Sauvignon Blanc](/vitigni/Francia/bacca-bianca/sauvignon-blanc)
+- **Composizione:** [Sauvignon Blanc](/vitigni/Francia/sauvignon-blanc)
 - **Affinamento:** 9 mesi in acciaio + 6 mesi in botte
 - **Alcol:** 13%
 - **Fascia di prezzo:** 20-24€

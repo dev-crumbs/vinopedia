@@ -24,7 +24,7 @@ Caccarella, Greco (Roero in Piemonte), Malvasia Bianca (California), Malvasia Gr
 
 
 ## Origini e parentele
-Questo membro dell'eterogeneo gruppo di varietà noto come Malvasia Qualcosa potrebbe essere stato menzionato vicino a Torino nel 1606 dall'agronomo e polimaco Croce, con il nome di Malvasia. Era ampiamente coltivata in Piemonte, Italia nord-occidentale, fino a quando non fu sostituita da [Muscat Blanc À Petits Grains](/vitigni/Francia/bacca-bianca/muscat-blanc-a-petit-grains) (conosciuto lì come Moscato Bianco) dopo che l'oidio devastò i vigneti alla fine del XIX secolo (Schneider, Mannizi e Cravero 2004).
+Questo membro dell'eterogeneo gruppo di varietà noto come Malvasia Qualcosa potrebbe essere stato menzionato vicino a Torino nel 1606 dall'agronomo e polimaco Croce, con il nome di Malvasia. Era ampiamente coltivata in Piemonte, Italia nord-occidentale, fino a quando non fu sostituita da [Muscat Blanc À Petits Grains](/vitigni/Francia/muscat-blanc-a-petit-grains) (conosciuto lì come Moscato Bianco) dopo che l'oidio devastò i vigneti alla fine del XIX secolo (Schneider, Mannizi e Cravero 2004).
 
 ## Caratteristiche viticole
 

@@ -15,7 +15,7 @@ dateCreated: 2022-02-04T12:07:33.439Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Colli Bolognesi DOC](/denominazioni/Italia/Emilia/DOC/Colli-Bolognesi)
 - **Produttore:** [Fattorie Vallona](/produttori/Italia/Emilia/Fattorie-Vallona) 
-- **Composizione:** [Sauvignon blanc](/vitigni/Francia/bacca-bianca/sauvignon-blanc) + [Chardonnay](/vitigni/Francia/bacca-bianca/chardonnay) + [Chardonnay](/vitigni/Francia/bacca-bianca/petit-manseng)
+- **Composizione:** [Sauvignon blanc](/vitigni/Francia/sauvignon-blanc) + [Chardonnay](/vitigni/Francia/chardonnay) + [Chardonnay](/vitigni/Francia/petit-manseng)
 - **Affinamento:** 6 mesi in acciaio sui lieviti
 - **Alcol:** 13.5%
 - **Fascia di prezzo:** 10-14€

@@ -15,7 +15,7 @@ dateCreated: 2021-09-08T09:21:10.164Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Marche IGT](/denominazioni/Italia/Marche/IGT/Marche)
 - **Produttore:** [Umani Ronchi](/produttori/Italia/Marche/Umani-Ronchi) 
-- **Composizione:** 50% [Cabernet Sauvignon](/vitigni/Francia/bacca-nera/cabernet-sauvignon) + 40% [Montepulciano](/vitigni/Italia/montepulciano) + 10% [Merlot](/vitigni/Francia/bacca-nera/merlot)
+- **Composizione:** 50% [Cabernet Sauvignon](/vitigni/Francia/cabernet-sauvignon) + 40% [Montepulciano](/vitigni/Italia/montepulciano) + 10% [Merlot](/vitigni/Francia/merlot)
 - **Affinamento:** 14 mesi in barrique di primo e secondo passaggio + 12 mesi in bottiglia
 - **Alcol:** 14%
 - **Fascia di prezzo:** 25-29€

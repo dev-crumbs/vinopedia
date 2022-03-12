@@ -15,7 +15,7 @@ dateCreated: 2022-01-31T15:04:08.732Z
 - **Tipologia:** Bianco spumante metodo classico
 - **Denominazione:** [Alto Adige DOC](/denominazioni/Alto-Adige/DOC/Alto-Adige)
 - **Produttore:** Arunda 
-- **Composizione:**  50% [Chardonnay](/vitigni/Francia/bacca-bianca/chardonnay) + 50% [Pinot Noir](/vitigni/Francia/bacca-nera/pinot-noir)
+- **Composizione:**  50% [Chardonnay](/vitigni/Francia/chardonnay) + 50% [Pinot Noir](/vitigni/Francia/pinot-noir)
 - **Fascia di prezzo:** 25-29€
 
 {.grid-list}

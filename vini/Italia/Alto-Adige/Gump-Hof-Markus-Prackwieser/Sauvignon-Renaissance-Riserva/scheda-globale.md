@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:32:47.834Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Alto Adige DOC](/denominazioni/Italia/Alto-Adige/DOC/Alto-Adige)
 - **Produttore:** [Gump Hof - Markus Prackwieser](/produttori/Italia/Alto-Adige/Gump-Hof-Markus-Prackwieser) 
-- **Composizione:** [Sauvignon blanc](/vitigni/Francia/bacca-bianca/sauvignon-blanc)
+- **Composizione:** [Sauvignon blanc](/vitigni/Francia/sauvignon-blanc)
 - **Affinamento:** 12 mesi in acciaio e tonneau
 - **Alcol:** 14%
 - **Fascia di prezzo:** 30-34€

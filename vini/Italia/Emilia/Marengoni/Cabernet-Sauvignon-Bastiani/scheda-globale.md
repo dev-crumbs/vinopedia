@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Colli Piacentini DOC](/denominazioni/Italia/Emilia/DOC-Colli-Piacentini) (Riserva)
 - **Produttore:** [Marengoni](/produttori/Italia/Emilia/Marengoni) 
-- **Composizione:** 100% [Cabernet Sauvignon](/vitigni/Francia/bacca-nera/cabernet-sauvignon)
+- **Composizione:** 100% [Cabernet Sauvignon](/vitigni/Francia/cabernet-sauvignon)
 - **Affinamento:** 3 anni in botte
 - **Alcol:** 14.5%
 - **Fascia di prezzo:** 20-24€

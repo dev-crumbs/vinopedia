@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:32:47.834Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Alto Adige DOC](/denominazioni/Italia/Alto-Adige/DOC-Alto-Adige)
 - **Produttore:** [Franz Haas](/produttori/Italia/Alto-Adige/Franz-Haas) 
-- **Composizione:** [Pinot Bianco Lepus Blanc](/vitigni/Francia/bacca-bianca/pinot-bianco)
+- **Composizione:** [Pinot Bianco Lepus Blanc](/vitigni/Francia/pinot-bianco)
 - **Affinamento:** 4 mesi sui lieviti in botte
 - **Alcol:** 13%
 - **Fascia di prezzo:** 20-24€

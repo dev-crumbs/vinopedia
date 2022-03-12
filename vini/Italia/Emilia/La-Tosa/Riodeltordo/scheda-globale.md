@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Emilia IGT](/denominazioni/Italia/Emilia/IGT/Emilia)
 - **Produttore:** [La Tosa](/produttori/Italia/Emilia/La-Tosa) 
-- **Composizione:** 60% [Malvasia aromatica di Candia](/vitigni/Italia/malvasia-di-candia-aromatica) + 20% [Sauvignon blanc](/vitigni/Francia/bacca-bianca/sauvignon-blanc) + 20% [Trebbiano](/vitigni/Italia/trebbiano)
+- **Composizione:** 60% [Malvasia aromatica di Candia](/vitigni/Italia/malvasia-di-candia-aromatica) + 20% [Sauvignon blanc](/vitigni/Francia/sauvignon-blanc) + 20% [Trebbiano](/vitigni/Italia/trebbiano)
 - **Affinamento:** 5 mesi in acciaio
 - **Alcol:** 11.5%
 - **Fascia di prezzo:** 5-9€

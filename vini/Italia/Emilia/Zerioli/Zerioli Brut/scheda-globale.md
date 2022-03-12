@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 - **Tipologia:** Bianco spumante metodo classico
 - **Denominazione:** [Vino Generico](/denominazioni/Italia/Vino-generico)
 - **Produttore:** [Zerioli](/produttori/Italia/Emilia/Zerioli) 
-- **Composizione:** 100% [Pinot nero](/vitigni/Francia/bacca-nera/pinot-nero)
+- **Composizione:** 100% [Pinot nero](/vitigni/Francia/pinot-nero)
 - **Alcol:** 12%
 - **Fascia di prezzo:** 15-19€
 {.grid-list}

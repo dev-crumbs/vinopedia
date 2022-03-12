@@ -15,7 +15,7 @@ dateCreated: 2021-09-30T08:13:14.399Z
 - **Tipologia:** Rosso fermo 
 - **Denominazione:** [Alto Adige DOC](/denominazioni/Italia/Alto-Adige/DOC/Alto-Adige)
 - **Produttore:** [Tenuta Waldgries](/produttori/Italia/Alto-Adige/Tenuta-Waldgries) 
-- **Composizione:** 100% [Lagrein](/vitigni/Germania/bacca-nera/lagrein)
+- **Composizione:** 100% [Lagrein](/vitigni/Germania/lagrein)
 - **Affinamento:** 12 mesi in barrique
 - **Alcol:** 13.5%
 - **Fascia di prezzo:** 35-39€

@@ -15,7 +15,7 @@ dateCreated: 2021-09-18T16:45:15.826Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Toscana IGT](/denominazioni/Italia/Toscana/IGT/Toscana)
 - **Produttore:** [Capannelle](/produttori/Italia/Toscana/Capannelle) 
-- **Composizione:** 50% [Merlot](/vitigni/Francia/bacca-nera/merlot) + 50% [Sangiovese](/vitigni/Italia/sangiovese)  
+- **Composizione:** 50% [Merlot](/vitigni/Francia/merlot) + 50% [Sangiovese](/vitigni/Italia/sangiovese)  
 - **Affinamento:** 24 mesi in barrique + 1 anno in bottiglia
 - **Alcol:** 14%
 - **Fascia di prezzo:** 100-124€

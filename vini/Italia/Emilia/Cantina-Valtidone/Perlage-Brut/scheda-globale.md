@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 - **Tipologia:** Bianco spumante metodo classico
 - **Denominazione:** [Vino Generico](/denominazioni/Italia/Vino-generico)
 - **Produttore:** [Cantina Valtidone](/produttori/Italia/Emilia/Cantina-Valtidone) 
-- **Composizione:** 80% [Chardonnay](/vitigni/Francia/bacca-bianca/chardonnay) + 20% [Pinot nero](/vitigni/Francia/bacca-nera/pinot-nero)
+- **Composizione:** 80% [Chardonnay](/vitigni/Francia/chardonnay) + 20% [Pinot nero](/vitigni/Francia/pinot-nero)
 - **Alcol:** 12%
 - **Fascia di prezzo:** 25-29€
 {.grid-list}

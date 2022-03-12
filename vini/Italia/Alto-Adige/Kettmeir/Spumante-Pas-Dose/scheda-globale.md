@@ -15,7 +15,7 @@ dateCreated: 2021-08-12T08:47:39.689Z
 - **Tipologia:** Bianco spumante metodo classico
 - **Denominazione:** [Alto Adige DOC](/denominazioni/Alto-Adige/DOC/Alto Adige)
 - **Produttore:** Kettmeir 
-- **Composizione:**  50% [Chardonnay](/vitigni/Francia/bacca-bianca/chardonnay) + 50% [Pinot bianco](/vitigni/Francia/bacca-bianca/pinot-bianco) + 50% [Pinot Noir](/vitigni/Francia/bacca-nera/pinot-noir)
+- **Composizione:**  50% [Chardonnay](/vitigni/Francia/chardonnay) + 50% [Pinot bianco](/vitigni/Francia/pinot-bianco) + 50% [Pinot Noir](/vitigni/Francia/pinot-noir)
 - **Fascia di prezzo:** 25-29€
 
 {.grid-list}

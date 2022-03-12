@@ -15,7 +15,7 @@ dateCreated: 2021-09-01T10:17:11.077Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Valle d'Aosta DOC](/denominazioni/Italia/Valle-d-Aosta/DOC/Valle-d-Aosta) 
 - **Produttore:** [Les Cretes](/produttori/Italia/Valle-d-Aosta/Les-Cretes) 
-- **Composizione:** 100% [Chardonnay](/vitigni/Francia/bacca-bianca/chardonnay) 
+- **Composizione:** 100% [Chardonnay](/vitigni/Francia/chardonnay) 
 - **Affinamento:** 12 mesi in barrique
 - **Alcol:** 14.5%
 - **Fascia di prezzo:** 40-44€

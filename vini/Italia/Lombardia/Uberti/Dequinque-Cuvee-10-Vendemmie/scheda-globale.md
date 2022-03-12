@@ -15,7 +15,7 @@ dateCreated: 2021-09-03T21:03:21.131Z
 - **Tipologia:** Bianco spumante metodo classico
 - **Denominazione:** [Franciacorta DOCG](/denominazioni/Italia/Lombardia/DOCG/Franciacorta)
 - **Produttore:** [Uberti](/produttori/Italia/Lombardia/Ca-del-Bosco) 
-- **Composizione:** 100% [Chardonnay](/vitigni/Francia/bacca-bianca/chardonnay)
+- **Composizione:** 100% [Chardonnay](/vitigni/Francia/chardonnay)
 - **Alcol:** 13%
 - **Fascia di prezzo:** 175-199€
 

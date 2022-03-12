@@ -15,7 +15,7 @@ dateCreated: 2021-09-03T21:03:57.435Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Toscana IGT](/denominazioni/Italia/Toscana/IGT/Toscana)
 - **Produttore:** [Biondi Santi](/produttori/Italia/Toscana/Castello-di-Ama) 
-- **Composizione:** 100% [Merlot](/vitigni/Francia/bacca-nera/merlot)
+- **Composizione:** 100% [Merlot](/vitigni/Francia/merlot)
 - **Affinamento:** 15 mesi in barrique + 12 mesi in bottiglia
 - **Alcol:** 13.5%
 - **Fascia di prezzo:** 150-174€

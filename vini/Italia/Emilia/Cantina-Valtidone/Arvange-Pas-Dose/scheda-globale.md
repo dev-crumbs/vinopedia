@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Vino Generico](/denominazioni/Italia/Vino-generico)
 - **Produttore:** [Cantina Valtidone](/produttori/Italia/Emilia/Torre-Fornello) 
-- **Composizione:** 95% [Pinot nero](/vitigni/Francia/bacca-nera/pinot-nero) + 5% [Chardonnay](/vitigni/Francia/bacca-bianca/chardonnay)
+- **Composizione:** 95% [Pinot nero](/vitigni/Francia/pinot-nero) + 5% [Chardonnay](/vitigni/Francia/chardonnay)
 - **Alcol:** 12%
 - **Fascia di prezzo:** 35-39€
 {.grid-list}

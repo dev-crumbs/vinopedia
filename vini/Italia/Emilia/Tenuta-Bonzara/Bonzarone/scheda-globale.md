@@ -15,7 +15,7 @@ dateCreated: 2021-09-07T16:16:38.527Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Colli Bolognesi DOC](/denominazioni/Italia/Emilia/DOC/Colli-Bolognesi) 
 - **Produttore:** [Tenuta Bonzara](/produttori/Italia/Emilia/Tenuta-Bonzara) 
-- **Composizione:** 100% [Cabernet Sauvignon](/vitigni/Francia/bacca-nera/cabernet-sauvignon)
+- **Composizione:** 100% [Cabernet Sauvignon](/vitigni/Francia/cabernet-sauvignon)
 - **Affinamento:** 12 mesi in barrique di rovere francese + 18 mesi in bottiglia
 - **Alcol:** 14%
 - **Fascia di prezzo:** 25-29€

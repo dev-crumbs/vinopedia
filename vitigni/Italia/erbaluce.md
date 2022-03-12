@@ -28,7 +28,7 @@ La prima menzione dell'Erbaluce appare in Croce (1606) con il nome di Elbalus, f
 
 ### Altre Ipotesi
 
-Secondo studi sul DNA, Erbaluce potrebbe essere morfologicamente e geneticamente vicino a [Clairette](/vitigni/Francia/bacca-bianca/clairette), che ha un'etimologia simile ('chiaro, luminoso') (Labra et al. 2001). Questa relazione deve ancora essere confermata.
+Secondo studi sul DNA, Erbaluce potrebbe essere morfologicamente e geneticamente vicino a [Clairette](/vitigni/Francia/clairette), che ha un'etimologia simile ('chiaro, luminoso') (Labra et al. 2001). Questa relazione deve ancora essere confermata.
 
 ## Caratteristiche Viticole
 

@@ -9,4 +9,4 @@ dateCreated: 2021-09-06T16:37:31.525Z
 ---
 
 # Primitivo
-"Primitivo" è un sinonimo utilizzato in Italia per il vitigno [Tribidrag](/vitigni/Croazia/bacca-nera/tribidrag)
+"Primitivo" è un sinonimo utilizzato in Italia per il vitigno [Tribidrag](/vitigni/Croazia/tribidrag)

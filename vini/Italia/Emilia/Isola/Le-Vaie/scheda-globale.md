@@ -15,7 +15,7 @@ dateCreated: 2021-08-31T15:46:06.033Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Colli Bolognesi DOC](/denominazioni/Italia/Emilia/DOC/Colli-Bolognesi)
 - **Produttore:** [Isola](/produttori/Italia/Emilia/Isola) 
-- **Composizione:** 100% [Riesling](/vitigni/Germania/bacca-bianca/riesling)
+- **Composizione:** 100% [Riesling](/vitigni/Germania/riesling)
 - **Affinamento:** 6 mesi sui lieviti
 - **Alcol:** 12%
 - **Fascia di prezzo:** 10-14€

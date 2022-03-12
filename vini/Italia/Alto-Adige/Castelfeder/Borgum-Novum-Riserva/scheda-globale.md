@@ -15,7 +15,7 @@ dateCreated: 2022-01-29T12:00:31.230Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Alto Adige DOC](/denominazioni/Italia/Alto-Adige/DOC/Alto-Adige)
 - **Produttore:** [Castelfeder](/produttori/Italia/Alto-Adige/Castelfeder) 
-- **Composizione:** [Pinot Nero](/vitigni/Francia/bacca-nera/pinot-nero)
+- **Composizione:** [Pinot Nero](/vitigni/Francia/pinot-nero)
 - **Affinamento:** 24 mesi in barrique + 12 mesi in bottiglia
 - **Alcol:** 14%
 - **Fascia di prezzo:** 30-34€

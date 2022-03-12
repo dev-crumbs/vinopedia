@@ -10,4 +10,4 @@ dateCreated: 2021-09-06T16:50:47.910Z
 
 # Riesling renano
 
-"Riesling renano" è un sinonimo utilizzato in Italia per il vitigno [Riesling](/vitigni/Germania/bacca-bianca/riesling).
+"Riesling renano" è un sinonimo utilizzato in Italia per il vitigno [Riesling](/vitigni/Germania/riesling).

@@ -15,7 +15,7 @@ dateCreated: 2021-09-30T08:13:53.379Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Colli del Trasimeno DOC](/denominazioni/Italia/Umbria/DOC/Colli-del-Trasimeno)
 - **Produttore:** [Duca della Corgna](/produttori/Italia/Piemonte/Duca-della-Corgna)
-- **Composizione:** 100% [Gamay](/vitigni/Francia/bacca-nera/Gamay)
+- **Composizione:** 100% [Gamay](/vitigni/Francia/Gamay)
 - **Affinamento:** 12 mesi in barrique
 - **Alcol:** 15%
 - **Fascia di prezzo:** 10-14€

@@ -15,7 +15,7 @@ dateCreated: 2022-01-24T12:15:09.595Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** <span class="denominazione">[Toscana IGT](/denominazioni/Italia/Toscana/IGT/Toscana)</span>
 - **Produttore:** <span class="cantina">[Moris](/produttori/Italia/Toscana/Moris)</span> 
-- **Composizione:** 75% [Sangiovese](/vitigni/Italia/sangiovese) + 20% [Cabernet sauvignon](/vitigni/Francia/bacca-nera/cabernet-sauvignon) + 5% [Syrah](/vitigni/Francia/bacca-nera/syrah) 
+- **Composizione:** 75% [Sangiovese](/vitigni/Italia/sangiovese) + 20% [Cabernet sauvignon](/vitigni/Francia/cabernet-sauvignon) + 5% [Syrah](/vitigni/Francia/syrah) 
 - **Affinamento:** 12 mesi in barrique + 8 mesi in bottiglia
 - **Alcol:** 14%
 - **Fascia di prezzo:** 30-34€

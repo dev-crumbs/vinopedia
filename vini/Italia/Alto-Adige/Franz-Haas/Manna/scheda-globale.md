@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:32:47.834Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Vigneti delle Dolomiti IGT](/denominazioni/Italia/Alto-Adige/IGT-Vigneti-Delle-Dolomiti)
 - **Produttore:** [Franz Haas](/produttori/Italia/Alto-Adige/Franz-Haas) 
-- **Composizione:** 40% [Riesling](/vitigni/Germania/bacca-bianca/riesling) + 20% [Chardonnay](/vitigni/Francia/bacca-bianca/chardonnay) + 15% [Getwurztraminer](/vitigni/Germania/bacca-nera/gewurztraminer) + 15% [Kerner](/vitigni/Germania/bacca-bianca/kerner) + 10% [Sauvignon blanc](/vitigni/Francia/bacca-bianca/sauvignon-blanc) 
+- **Composizione:** 40% [Riesling](/vitigni/Germania/riesling) + 20% [Chardonnay](/vitigni/Francia/chardonnay) + 15% [Getwurztraminer](/vitigni/Germania/gewurztraminer) + 15% [Kerner](/vitigni/Germania/kerner) + 10% [Sauvignon blanc](/vitigni/Francia/sauvignon-blanc) 
 - **Affinamento:** 10 mesi in acciaio + 5 mesi in botte grande e piccola
 - **Alcol:** 13%
 - **Fascia di prezzo:** 20-24€

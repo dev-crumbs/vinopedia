@@ -15,7 +15,7 @@ dateCreated: 2021-08-29T06:14:45.767Z
 - **Tipologia:** Bianco fermo 
 - **Denominazione:** [Alto Adige DOC](/denominazioni/Italia/Alto-Adige/DOC/Alto-Adige) (Terlano)
 - **Produttore:** [Cantina Terlano](/produttori/Italia/Alto-Adige/Cantina-Terlano) 
-- **Composizione:**[^1] 75% [Pinot bianco](/vitigni/Francia/bacca-bianca/pinot-bianco) + 22% [Chardonnay](/vitigni/Francia/bacca-bianca/chardonnay) + 3% [Sauvignon blanc](/vitigni/Francia/bacca-bianca/sauvignon-blanc)
+- **Composizione:**[^1] 75% [Pinot bianco](/vitigni/Francia/pinot-bianco) + 22% [Chardonnay](/vitigni/Francia/chardonnay) + 3% [Sauvignon blanc](/vitigni/Francia/sauvignon-blanc)
 - **Affinamento:** 10 anni sui lieviti in botte grande
 - **Alcol:** 13.5%
 - **Fascia di prezzo:** 100-124€

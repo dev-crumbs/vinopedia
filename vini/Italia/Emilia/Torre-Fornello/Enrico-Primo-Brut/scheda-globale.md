@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Vino Generico](/denominazioni/Italia/Vino-generico)
 - **Produttore:** [Torre Fornello](/produttori/Italia/Emilia/Torre-Fornello) 
-- **Composizione:** 100% [Chardonnay](/vitigni/Francia/bacca-bianca/chardonnay)
+- **Composizione:** 100% [Chardonnay](/vitigni/Francia/chardonnay)
 - **Alcol:** 12.5%
 - **Fascia di prezzo:** 15-19€
 {.grid-list}

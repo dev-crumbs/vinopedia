@@ -30,7 +30,7 @@ Il nome Arvino, uno dei sinonimi più antichi di Magliocco Dolce, deriva molto p
 Non ci sono prove di un legame genetico tra il Magliocco Dolce e i moderni vitigni greci (Vouillamoz).
 
 ## Caratteristiche viticole
-- Esistono diverse varianti clonali di questa varietà (come per il [Savagnin](/vitigni/Francia/bacca-bianca/savagnin), per esempio) 
+- Esistono diverse varianti clonali di questa varietà (come per il [Savagnin](/vitigni/Francia/savagnin), per esempio) 
 - Alto contenuto di tannini negli acini.
 
 

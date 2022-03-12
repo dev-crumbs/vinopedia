@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 - **Tipologia:** Rosè spumante metodo classico
 - **Denominazione:** [Colli Piacentini DOC](/denominazioni/Italia/Vino-Generico)
 - **Produttore:** [Luretta](/produttori/Italia/Emilia/Luretta) 
-- **Composizione:** 100% [Pinot Nero](/vitigni/Francia/bacca-nera/Pinot-Nero)
+- **Composizione:** 100% [Pinot Nero](/vitigni/Francia/Pinot-Nero)
 - **Alcol:** 13.5%
 - **Fascia di prezzo:** 15-19€
 {.grid-list}

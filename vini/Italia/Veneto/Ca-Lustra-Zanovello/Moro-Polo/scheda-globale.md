@@ -15,7 +15,7 @@ dateCreated: 2022-01-15T21:40:12.066Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Colli Euganei DOC](/denominazioni/Italia/Veneto/DOC/Colli-Euganei)
 - **Produttore:** [Ca' Lustra Zanovello](/produttori/Italia/Veneto/Ca-Lustra-Zanovello) 
-- **Composizione:** 60% [Merlot](/vitigni/Francia/bacca-nera/merlot) + 20% [Cabernet Sauvignon](/vitigni/Francia/bacca-nera/cabernet-franc) = 20% [Carmenere](/vitigni/Francia/bacca-nera/carmenere)
+- **Composizione:** 60% [Merlot](/vitigni/Francia/merlot) + 20% [Cabernet Sauvignon](/vitigni/Francia/cabernet-franc) = 20% [Carmenere](/vitigni/Francia/carmenere)
 - **Affinamento:** 30 mesi in botte grande + 6 mesi in cemento 
 - **Alcol:** 14.5%
 - **Fascia di prezzo:** 10-14€

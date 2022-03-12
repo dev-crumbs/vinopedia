@@ -15,7 +15,7 @@ dateCreated: 2021-08-31T15:46:16.788Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Lazio IGT](/denominazioni/Italia/Lazio/IGT/Lazio)
 - **Produttore:** [San Giovenale](/produttori/Italia/Lazio/San-Giovenale) 
-- **Composizione:** 100% [Cabernet Franc](/vitigni/Francia/bacca-nera/cabernet-franc)
+- **Composizione:** 100% [Cabernet Franc](/vitigni/Francia/cabernet-franc)
 - **Affinamento:** 30 mesi barrique di rovere
 - **Alcol:** 15%
 - **Fascia di prezzo:** 80-84€

@@ -15,7 +15,7 @@ dateCreated: 2021-09-07T16:16:38.527Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Colli Bolognesi DOC](/denominazioni/Italia/Emilia/DOC/Colli-Bolognesi) 
 - **Produttore:** [Fattorie Vallona](/produttori/Italia/Emilia/Fattorie-Vallona) 
-- **C-mposizione:** 100% [Merlot](/vitigni/Francia/bacca-nera/merlot)
+- **C-mposizione:** 100% [Merlot](/vitigni/Francia/merlot)
 - **Affinamento:** 2 anni in botte grande + 12 mesi in bottiglia
 - **Alcol:** 14.5%
 - **Fascia di prezzo:** 15-19€

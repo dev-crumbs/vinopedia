@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:32:47.834Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Vigneti delle Dolomiti IGT](/denominazioni/Italia/Alto-Adige/IGT-Vigneti-Delle-Dolomiti)
 - **Produttore:** [Franz Haas](/produttori/Italia/Alto-Adige/Franz-Haas) 
-- **Composizione:** [Petit Manseng](/vitigni/Francia/bacca-bianca/petit-manseng)
+- **Composizione:** [Petit Manseng](/vitigni/Francia/petit-manseng)
 - **Affinamento:** 5 mesi in acciaio + 3 mesi in legno
 - **Alcol:** 14.5%
 - **Fascia di prezzo:** 20-24€
