@@ -1,11 +1,11 @@
 ---
 title: Cannonau
-description: Vitigno | "Cannonau" è un sinonimo di "Garnacha"
+description: "Cannonau" è un sinonimo di "Garnacha"
 published: true
-date: 2021-09-06T14:57:24.910Z
+date: 2022-03-12T09:00:03.275Z
 tags: 
 editor: markdown
-dateCreated: 2021-09-06T14:57:22.252Z
+dateCreated: 2022-03-12T09:00:03.275Z
 ---
 
 # Cannonau
