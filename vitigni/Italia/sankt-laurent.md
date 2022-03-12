@@ -19,12 +19,12 @@ Laurenzitraube (Austria), Lorenztraube (Austria), Saint Laurent (Germania), Sain
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Pinot Noir](/vitigni/pinot-noir), Pinot Saint-Laurent
+[Pinot Noir](/vitigni/Francia/pinot-noir), Pinot Saint-Laurent
 
 ## Origini e parentele
 Sankt Laurent è molto probabilmente originario dell'Austria, dove viene coltivato almeno dal XIX secolo. Il suo nome non ha niente a che vedere con nessuno dei numerosi villaggi che si chiamano Saint-Laurent in Francia ma probabilmente deriva dal suo antico sinonimo austriaco Laurenzitraube, che a sua volta si riferisce a San Laurentius, patrono dei cuochi, la cui festa cade il 10 agosto, quando la varietà inizia a maturare. Secondo Regner (2000b; 2007), Sankt Laurent potrebbe essere una progenie di una varietà ancora sconosciuta che è geneticamente vicina a PINOT. Tuttavia, questa ipotesi è dubbia perché il profilo del DNA di Sankt Laurent è geneticamente distante da Pinot e Regner forse confonde Sankt Laurent con Pinot Saint-Laurent, due varietà ben distinte. Contrariamente alla credenza comune, Pinot Saint-Laurent (che non è in produzione commerciale) non è un sinonimo di Sankt Laurent, né ha niente a che fare con Pinot (Vouillamoz).
 
-Sankt Laurent è stato usato per allevare diverse varietà, alcune delle quali sono coltivate per la produzione commerciale di vino: [André](/vitigni/andre), [Dunaj](/vitigni/dunaj), [Rondo](/vitigni/rondo) e [Zweigelt](/vitigni/zweigelt).
+Sankt Laurent è stato usato per allevare diverse varietà, alcune delle quali sono coltivate per la produzione commerciale di vino: [André](/vitigni/andre), [Dunaj](/vitigni/dunaj), [Rondo](/vitigni/rondo) e [Zweigelt](/vitigni/Austria/zweigelt).
 
 ### Altre ipotesi
 
@@ -43,13 +43,13 @@ Gli ampelografi hanno proposto ipotesi controverse sulle origini di Sankt Lauren
 I 669 ettari (1.653 acri) di Saint Laurent non menzionati in Germania erano, nel 2008, in gran parte nel Pfalz e nel Rheinhessen. La varietà era quasi scomparsa negli anni '60 ma ora sta godendo di una sorta di ritorno grazie soprattutto agli sforzi del consulente viticolo Fritz Klein, che ha propagato la varietà dalle ultime viti rimaste, e alla perseveranza del viticoltore di Pfalz Karlheinz Kleinmann, che ha fatto una campagna per la sua inclusione nel registro ufficiale delle varietà. I produttori raccomandati includono Knipser, Philip Kuhn e Bernhart nel Pfalz; Gutzler e Wagner-Stempel nel Rheinhessen e Fischer nel Baden.
 
 ### In Austria
-Le piantagioni nella presunta patria della varietà in Austria sono quasi raddoppiate negli ultimi nove anni, in linea con l'espansione generale della produzione di vino rosso, raggiungendo 795 ha (1.964 acri) nel 2008. La maggior parte delle piantagioni si trova a sud ed est di Vienna nel Neusiedlersee del Burgenland e nella Thermenregion e ad ovest della capitale nel Weinviertel. Nonostante gli svantaggi viticoli descritti sopra, la sua qualità potenziale e il fatto che possa essere coltivato in una gamma più ampia di siti rispetto al [Pinot Noir](/vitigni/pinot-noir) e che maturi prima, spiega la sua crescente popolarità. I produttori raccomandati includono Gernot e Heike Heinrich, Leo Hillinger, Pimpel, Schloss Halbturn, Steinklammer e Zantho.
+Le piantagioni nella presunta patria della varietà in Austria sono quasi raddoppiate negli ultimi nove anni, in linea con l'espansione generale della produzione di vino rosso, raggiungendo 795 ha (1.964 acri) nel 2008. La maggior parte delle piantagioni si trova a sud ed est di Vienna nel Neusiedlersee del Burgenland e nella Thermenregion e ad ovest della capitale nel Weinviertel. Nonostante gli svantaggi viticoli descritti sopra, la sua qualità potenziale e il fatto che possa essere coltivato in una gamma più ampia di siti rispetto al [Pinot Noir](/vitigni/Francia/pinot-noir) e che maturi prima, spiega la sua crescente popolarità. I produttori raccomandati includono Gernot e Heike Heinrich, Leo Hillinger, Pimpel, Schloss Halbturn, Steinklammer e Zantho.
 
 Ma la varietà è ancora più ampiamente piantata a nord e a est dell'Austria. Con il nome Svatovavřinecké (ha perso la sua sacralità durante l'era comunista ed era conosciuta semplicemente come Vavřinecké), è la varietà a pelle scura più coltivata nella Repubblica Ceca, piantata principalmente a Morava nel sud est, con un totale di 1.482 (3.662 acri) nel 2008. I produttori raccomandati includono Patria a Kobylí, Michlovský a Rakvice, Stapleton-Springer e Jedlička & Novak a Bořetice e ZD a Němčičky.
 
 ### In Slovacchia
 
-Più ad est, in Slovacchia, dove cambiano solo gli accenti su Svätovavrinecké, c'erano 1.408 ha (3.479 acri) nel 2009, il 7% dell'area coltivata a vigneto, rendendola la seconda varietà rossa più piantata dopo BLAUFRÄNKISCH. La maggior parte dei vini sono varietali ma occasionalmente viene miscelato con [Blauer Portugieser](/vitigni/blauer-portugieser) (sotto il nome Modrý Portugal).
+Più ad est, in Slovacchia, dove cambiano solo gli accenti su Svätovavrinecké, c'erano 1.408 ha (3.479 acri) nel 2009, il 7% dell'area coltivata a vigneto, rendendola la seconda varietà rossa più piantata dopo BLAUFRÄNKISCH. La maggior parte dei vini sono varietali ma occasionalmente viene miscelato con [Blauer Portugieser](/vitigni/Austria/blauer-portugieser) (sotto il nome Modrý Portugal).
 
 ## Caratteristiche enologiche
-Sankt Laurent produce vini in diversi paesi dell'Europa centrale che sono generalmente aromatici, di colore profondo e vellutati ma ben strutturati con tannini fini e sapori di amarena, a volte paragonati ad una versione potente del [Pinot Noir](/vitigni/pinot-noir). I vini migliori si adattano bene all'invecchiamento.
+Sankt Laurent produce vini in diversi paesi dell'Europa centrale che sono generalmente aromatici, di colore profondo e vellutati ma ben strutturati con tannini fini e sapori di amarena, a volte paragonati ad una versione potente del [Pinot Noir](/vitigni/Francia/pinot-noir). I vini migliori si adattano bene all'invecchiamento.

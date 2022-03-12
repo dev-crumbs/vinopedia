@@ -19,7 +19,7 @@ Bonarda del Monferrato, Bonarda dell'Astigiano, Bonarda di Chieri
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Croatina](/vitigni/croatina) (Oltrepò Pavese), [Douce Noire](/vitigni/douce-noir) (Conosciuta Come Bonarda In Argentina), [Durasa](/vitigni/durasa) (Novara), [Neretta Cuneese](/vitigni/neretta-cuneese) (Cuneo), [Neretto Duro](/vitigni/neretto-duro) (Torino), [Refosco Dal Peduncolo Rosso](/vitigni/refosco-dal-peduncolo-rosso) (Roero), [Uva Rara](/vitigni/uva-rara) (Novara)
+[Croatina](/vitigni/Italia/croatina) (Oltrepò Pavese), [Douce Noire](/vitigni/douce-noir) (Conosciuta Come Bonarda In Argentina), [Durasa](/vitigni/durasa) (Novara), [Neretta Cuneese](/vitigni/neretta-cuneese) (Cuneo), [Neretto Duro](/vitigni/neretto-duro) (Torino), [Refosco Dal Peduncolo Rosso](/vitigni/Italia/refosco-dal-peduncolo-rosso) (Roero), [Uva Rara](/vitigni/Italia/uva-rara) (Novara)
 
 ## Origini e parentele
 Bonarda è un nome fuorviante applicato ad almeno sei varietà distinte nell'Italia settentrionale (vedi sopra). In Piemonte nell'Italia nord-occidentale, Bonarda Piemontese fu menzionata per la prima volta da Nuvolone Pergamo (1787-98), Conte di Scandaluzza, che si riferisce alla sua presenza nelle colline torinesi. Per dettagli sulla Bonarda comunemente piantata in Argentina, si veda [Douce Noire](/vitigni/douce-noir).

@@ -14,7 +14,7 @@ dateCreated: 2021-09-06T09:44:03.988Z
 Nera
 
 ## Origini e parentele
-Il Lambrusco Montericco, menzionato per la prima volta alla fine del XIX secolo, prende il nome dal piccolo villaggio di Montericco. L'analisi di parentela del DNA ha suggerito una possibile relazione genitore-figlio tra Lambrusco Montericco e [Uva Tosca](/vitigni/uva-tosca) (Boccacci et al. 2005).
+Il Lambrusco Montericco, menzionato per la prima volta alla fine del XIX secolo, prende il nome dal piccolo villaggio di Montericco. L'analisi di parentela del DNA ha suggerito una possibile relazione genitore-figlio tra Lambrusco Montericco e [Uva Tosca](/vitigni/Italia/uva-tosca) (Boccacci et al. 2005).
 
 ## Caratteristiche viticole
 - Rese elevate, maturazione tardiva

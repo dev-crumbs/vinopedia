@@ -15,7 +15,7 @@ Nera
 
 ## Sinonimi
 [Agreste](/vitigni/agreste), [Auxerrois](/vitigni/auxerrois), [Bouyssales](/vitigni/bouissales), [Cagors](/vitigni/cagors), [Cahors](/vitigni/cahors),
-[Coq Rouge](/vitigni/coq-rouge), [Cor de Cors](/vitigni/cor-de-cors), [Cos](/vitigni/cos), [Côt](/vitigni/cot), [Cots](/vitigni/cots), [Estrangey](/vitigni/estrangey), [Lutkens](/vitigni/lutkens), [Malbec](/vitigni/malbec), [Malbech](/vitigni/malbech), [Mancin](/vitigni/mancin), [Nuar de Presac](/vitigni/nuar-de-presac), [Pied de Perdrix](/vitigni/pied-de-perdrix), [Pressac](/vitigni/pressac), [Prunelat](/vitigni/prunelat), [Quercy](/vitigni/quercy)
+[Coq Rouge](/vitigni/coq-rouge), [Cor de Cors](/vitigni/cor-de-cors), [Cos](/vitigni/cos), [Côt](/vitigni/Francia/cot), [Cots](/vitigni/Francia/cots), [Estrangey](/vitigni/estrangey), [Lutkens](/vitigni/lutkens), [Malbec](/vitigni/malbec), [Malbech](/vitigni/malbech), [Mancin](/vitigni/mancin), [Nuar de Presac](/vitigni/nuar-de-presac), [Pied de Perdrix](/vitigni/pied-de-perdrix), [Pressac](/vitigni/pressac), [Prunelat](/vitigni/prunelat), [Quercy](/vitigni/quercy)
 
 ## Omonimi
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica

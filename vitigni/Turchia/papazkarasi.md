@@ -20,7 +20,7 @@ Papaskara, Papaz Karası
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Adakarasi](/vitigni/adakarasi) (Denizli), [Horozkarasi](/vitigni/horozkarasi) (Kilis), [Kalecik Karasi](/vitigni/kalecik-karasi) (Ankara), [Horozkarasi](/vitigni/horozkaarasi) (Kilis)
+[Adakarasi](/vitigni/Turchia/adakarasi) (Denizli), [Horozkarasi](/vitigni/Turchia/horozkarasi) (Kilis), [Kalecik Karasi](/vitigni/Turchia/kalecik-karasi) (Ankara), [Horozkarasi](/vitigni/Turchia/horozkaarasi) (Kilis)
 
 ## Origini e parentele
 Papazkarasi, letteralmente "nero del prete", probabilmente prende il nome dai numerosi monasteri bizantini sull'isola turca di Avşa nel Mar di Marmara, dove si suppone sia nato.

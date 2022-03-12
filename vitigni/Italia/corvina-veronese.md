@@ -19,7 +19,7 @@ Nera
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-Corbina, [Corva](/vitigni/corva) , [Corvinone](/vitigni/Italia/corvinone)
+Corbina, [Corva](/vitigni/Italia/corva) , [Corvinone](/vitigni/Italia/corvinone)
 
 ## Origini e parentele
 
@@ -29,7 +29,7 @@ Il nome Corvini apparve nel 1627 tra i vini di Verona e una Corvina fu trovata n
 
 La Corvina Veronese è stata a lungo ritenuta identica alla Corbina, un'antica e quasi dimenticata varietà del Friuli-Venezia Giulia, salvata e inclusa nel registro nazionale delle varietà nel 2007, sebbene non sia stato ancora prodotto alcun vino commerciale. Tuttavia, studi morfologici e molecolari hanno dimostrato che Corbina e Corvina Veronese sono varietà distinte e non correlate (Cancellier et al. 2007). Allo stesso modo, [Corvinone](/vitigni/Italia/corvinone) è stata generalmente considerata una mutazione clonale di Corvina Veronese ma i profili ampelografici, isoenzimatici e del DNA hanno dimostrato che sono varietà distinte (Cancellier e Angelini 1993), anche se potrebbero essere geneticamente correlate.
 
-Il gruppo genetico della Corvina Veronese comprende [Dindarella](/vitigni/Italia/dindarella), [Garganega](/vitigni/Italia/garganega), [Oseleta](/vitigni/Italia/oseleta) e [Rondinella](/vitigni/Italia/rondinella) (Vantini et al. 2003). L'analisi di parentela a sessanta marcatori del DNA ha fornito prove che la Corvina Veronese ha relazioni genitore-figlia con almeno due cultivar dell'Italia settentrionale: [Refosco Dal Peduncolo Rosso](/vitigni/refosco-dal-peduncolo-rosso) e Rondinella (Grando et al. 2006). Poiché Refosco dal Peduncolo Rosso è una progenie di [Marzemino](/vitigni/Italia/marzemino) (Grando et al. 2006), Corvina Veronese deve essere una progenie di Refosco dal Peduncolo Rosso e un genitore di Rondinella (vedi il diagramma del pedigree di Refosco dal Peduncolo Rosso). Di conseguenza, Corvina Veronese è anche un nipote di Marzemino.
+Il gruppo genetico della Corvina Veronese comprende [Dindarella](/vitigni/Italia/dindarella), [Garganega](/vitigni/Italia/garganega), [Oseleta](/vitigni/Italia/oseleta) e [Rondinella](/vitigni/Italia/rondinella) (Vantini et al. 2003). L'analisi di parentela a sessanta marcatori del DNA ha fornito prove che la Corvina Veronese ha relazioni genitore-figlia con almeno due cultivar dell'Italia settentrionale: [Refosco Dal Peduncolo Rosso](/vitigni/Italia/refosco-dal-peduncolo-rosso) e Rondinella (Grando et al. 2006). Poiché Refosco dal Peduncolo Rosso è una progenie di [Marzemino](/vitigni/Italia/marzemino) (Grando et al. 2006), Corvina Veronese deve essere una progenie di Refosco dal Peduncolo Rosso e un genitore di Rondinella (vedi il diagramma del pedigree di Refosco dal Peduncolo Rosso). Di conseguenza, Corvina Veronese è anche un nipote di Marzemino.
 
 ## Caratteristiche Viticole
 
@@ -45,4 +45,4 @@ La Corvina Veronese viene miscelata in Veneto, Italia nord-occidentale, con la s
 
 Freeman Vineyards nella regione di Hilltops nel New South Wales ha fatto da pioniere a questa varietà in Australia. Hanno 4 ha (10 acri) piantati e la mescolano con la [Rondinella](/vitigni/Italia/rondinella) per fare un vino stile Amarone.
 
-In vigneti ad alta quota a Tupungato, Mendoza, Argentina, il produttore veneto Masi fa un vino di stile simile da Corvina Veronese e [Cot](/vitigni/cot) (Malbec).
+In vigneti ad alta quota a Tupungato, Mendoza, Argentina, il produttore veneto Masi fa un vino di stile simile da Corvina Veronese e [Cot](/vitigni/Francia/cot) (Malbec).

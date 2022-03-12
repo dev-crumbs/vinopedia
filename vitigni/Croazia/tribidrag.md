@@ -14,8 +14,8 @@ dateCreated: 2021-09-06T09:35:25.456Z
 Nera
 
 ## Sinonimi
-[Kaštelanski](/vitigni/kastelanski), [Kratošija](/vitigni/kratošija), [Morellone](/vitigni/morellone), [Pribidrag](/vitigni/pribidrag), [Primaticcio](/vitigni/primaticcio),
-[Primitivo](/vitigni/Italia/primitivo), [Uva di Corato](/vitigni/uva-di-corato), [Zagarese](/vitigni/zagarese), [Zinfandel](/vitigni/Croazia/tribidrag)
+[Kaštelanski](/vitigni/kastelanski), [Kratošija](/vitigni/kratošija), [Morellone](/vitigni/morellone), [Pribidrag](/vitigni/pribidrag), [Primaticcio](/vitigni/Italia/primaticcio),
+[Primitivo](/vitigni/Italia/primitivo), [Uva di Corato](/vitigni/Italia/uva-di-corato), [Zagarese](/vitigni/Italia/zagarese), [Zinfandel](/vitigni/Croazia/tribidrag)
 
 ## Omonimi
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica

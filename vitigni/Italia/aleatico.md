@@ -20,7 +20,7 @@ Aleaticu (Corsica), Halápi (Ungheria), Moscatello Nero, Moscato Nero, Vernaccia
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Aglianico](/vitigni/Italia/aglianico), [Ciliegiolo](/vitigni/ciliegiolo), [Liatiko](/vitigni/liatiko), [Moscato Di Scanzo](/vitigni/moscato-di-scanzo), [Moscato Di Hamburg](/vitigni/moscato-di-hamburg) (sotto il nome Moscato Nero)
+[Aglianico](/vitigni/Italia/aglianico), [Ciliegiolo](/vitigni/Italia/ciliegiolo), [Liatiko](/vitigni/liatiko), [Moscato Di Scanzo](/vitigni/Italia/moscato-di-scanzo), [Moscato Di Hamburg](/vitigni/Italia/moscato-di-hamburg) (sotto il nome Moscato Nero)
 
 ## Origini e parentele
 Originario della Toscana in Italia, da cui si è diffuso nell'Italia meridionale. Il nome Aleatico potrebbe derivare da "Luglio", il mese in cui la bacca matura.

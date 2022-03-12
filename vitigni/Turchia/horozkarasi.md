@@ -20,7 +20,7 @@ Horoz Karası
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Adakarasi](/vitigni/adakarasi) (Denizli), [Çalkarasi](/vitigni/calkarasi) (Kilis), [Kalecik Karasi](/vitigni/kalecik-karasi) (Ankara), [Papazkarasi](/vitigni/papazkarasi) (Avşa)
+[Adakarasi](/vitigni/Turchia/adakarasi) (Denizli), [Çalkarasi](/vitigni/Turchia/calkarasi) (Kilis), [Kalecik Karasi](/vitigni/Turchia/kalecik-karasi) (Ankara), [Papazkarasi](/vitigni/Turchia/papazkarasi) (Avşa)
 
 ## Origini e parentele
 Horozkarası, letteralmente 'gallo nero', è molto probabilmente originario della provincia di Kilis vicino a Gaziantep nella Turchia sudorientale, vicino al confine con la Siria.

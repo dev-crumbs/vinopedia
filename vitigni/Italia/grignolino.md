@@ -16,7 +16,7 @@ Nera
 Barbesino, Barbisino, Berbesino
 
 ## Origini e parentele
-Un documento del 7 novembre 1249 registra il fatto che la chiesa di Sant'Evasio (a Casale Monferrato in Piemonte) prestò un pezzo di terra a un certo Guglielmo Crova a condizione che fosse piantato 'bonis vitibus berbexinis' ('con buone viti di berbexinis'; Nada Patrone 1988). Anche se alcuni autori hanno identificato Berbexinis con [Barbera](/vitigni/barbera), la maggior parte degli ampelografi concorda sul fatto che Berbexinis fosse in realtà Grignolino, perché Berbesino è ancora usato come sinonimo di Grignolino nella zona del Monferrato. È quindi molto probabile che questo documento sia la prima menzione di Grignolino.
+Un documento del 7 novembre 1249 registra il fatto che la chiesa di Sant'Evasio (a Casale Monferrato in Piemonte) prestò un pezzo di terra a un certo Guglielmo Crova a condizione che fosse piantato 'bonis vitibus berbexinis' ('con buone viti di berbexinis'; Nada Patrone 1988). Anche se alcuni autori hanno identificato Berbexinis con [Barbera](/vitigni/Italia/barbera), la maggior parte degli ampelografi concorda sul fatto che Berbexinis fosse in realtà Grignolino, perché Berbesino è ancora usato come sinonimo di Grignolino nella zona del Monferrato. È quindi molto probabile che questo documento sia la prima menzione di Grignolino.
 
 Anche se c'è qualche dubbio che Grignolino e Berbesino siano la stessa cosa, allora Grignolino ha ancora credenziali medievali, menzionato ad Almese in provincia di Torino nel 1337-8 in un documento dell'abbazia di San Giusto di Susa, che si riferisce alla produzione di 'sextarios XII vini albi tam muscatelli quam grignolerii' (Comba e Dal Verme 1990).
 

@@ -20,7 +20,7 @@ Blanc Fumé o Blanc Fumet (Sancerre e Pouilly nella Loira), Fié o Fiers (per Sa
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Ahumat](/vitigni/ahumat), [Sauvignonasse](/vitigni/Francia/sauvignonasse), [Savagnin Blanc](/vitigni/savagnin-blanc), [Silvaner](/vitigni/silvaner), [Spergola](/vitigni/spergola)
+[Ahumat](/vitigni/ahumat), [Sauvignonasse](/vitigni/Francia/sauvignonasse), [Savagnin Blanc](/vitigni/Francia/savagnin-blanc), [Silvaner](/vitigni/Germania/silvaner), [Spergola](/vitigni/Italia/spergola)
 
 ## Origini e parentele
 Contrariamente alla credenza comune, è improbabile che il Sauvignon Blanc provenga dalla zona di Bordeaux, dove fu menzionato per la prima volta tra il 1710 e il 1720 a Margaux:
@@ -33,27 +33,27 @@ Invece è più probabile che abbia avuto origine dalla Val de Loire in Francia, 
 
 Con il nome di Sauvignon Fumé o Blanc Fumé, fu menzionato per la prima volta nel 1783-4 a Sancerre e Pouilly nel dipartimento dello Cher nella Francia centrale, dove si è conquistato negli ultimi due secoli. L'analisi della parentela del DNA supporta anche un'origine Val de Loire per il Sauvignon Blanc per le ragioni descritte di seguito.
 
-Il Sauvignon Blanc ha una relazione di parentela con Savagning (Regner 1999), il che spiega perché le due varietà sono state talvolta confuse. Poiché Savagnin è menzionato molto prima nella letteratura, sarebbe logicamente il genitore e Sauvignon Blanc la progenie, essendo l'altro genitore sconosciuto. Questo rende il Sauvignon Blanc un fratellastro degli altri figli del Savagnin ([Aubin Blanc](/vitigni/aubin-blanc), [Béquinol Noir](/vitigni/bequinol-noir), [Grüner Veltliner](/vitigni/gruner-veltiler), [Petit Manseng](/vitigni/petit-manseng), [Petit Meslier](/vitigni/petit-meslier), [Räuschling](/vitigni/rauschling), [Rotgipfler](/vitigni/rotgipfler), [Silvaner](/vitigni/silvaner), [Teinturier](/vitigni/teinturier), [Verdelho](/vitigni/verdelho)) e un nipote del [Pinot](/vitigni/Francia/pinot). Poiché Savagnin molto probabilmente proviene dal nord-est della Francia e non è mai stato menzionato nella Francia occidentale, Sauvignon Blanc è probabilmente nato da qualche parte nel mezzo.
+Il Sauvignon Blanc ha una relazione di parentela con Savagning (Regner 1999), il che spiega perché le due varietà sono state talvolta confuse. Poiché Savagnin è menzionato molto prima nella letteratura, sarebbe logicamente il genitore e Sauvignon Blanc la progenie, essendo l'altro genitore sconosciuto. Questo rende il Sauvignon Blanc un fratellastro degli altri figli del Savagnin ([Aubin Blanc](/vitigni/aubin-blanc), [Béquinol Noir](/vitigni/bequinol-noir), [Grüner Veltliner](/vitigni/Austria/gruner-veltiler), [Petit Manseng](/vitigni/Francia/petit-manseng), [Petit Meslier](/vitigni/Francia/petit-meslier), [Räuschling](/vitigni/rauschling), [Rotgipfler](/vitigni/Austria/rotgipfler), [Silvaner](/vitigni/Germania/silvaner), [Teinturier](/vitigni/teinturier), [Verdelho](/vitigni/verdelho)) e un nipote del [Pinot](/vitigni/Francia/pinot). Poiché Savagnin molto probabilmente proviene dal nord-est della Francia e non è mai stato menzionato nella Francia occidentale, Sauvignon Blanc è probabilmente nato da qualche parte nel mezzo.
 
 Le analisi statistiche dei profili del DNA suggeriscono che il Sauvignon Blanc è un fratello di Chenin Blanc (Vouillamoz), la varietà più importante della Val de Loire, così come un fratello di [Trosseau](/vitigni/trosseau) (analizzato con il nome Merenzao in Santana et al. 2010), una vecchia varietà della Jura nella Francia orientale. Di conseguenza, i legami genetici e storici supportano fortemente un'origine della Loira anche per il Sauvignon Blanc.
 
 Inoltre, il Sauvignon Blanc appartiene al gruppo ampelografico Messile, insieme a 
-[Béquinol Noir](/vitigni/bequinol-noir), [Chenin Blanc](/vitigni/chenin-blanc), [Menu Pineau](/vitigni/menu-pineau), [Petit Meslier](/vitigni/petit-meslier), [Meslier Saint-François](/vitigni/meslier-saint-francois), [Pineau D'Aunis](/vitigni/pineau-d-aunis), tutte varietà tipiche del nord della Francia, il che rafforza il caso di un'origine loira per il Sauvignon Blanc. Da lì il Sauvignon Blanc si è diffuso nella Gironda, dove si è incrociato spontaneamente con [Cabernet Franc](/vitigni/Francia/cabernet-franc) per produrre [Cabernet Sauvignon](/vitigni/Francia/cabernet-sauvignon) (Bowers e Meredith 1997).
+[Béquinol Noir](/vitigni/bequinol-noir), [Chenin Blanc](/vitigni/chenin-blanc), [Menu Pineau](/vitigni/menu-pineau), [Petit Meslier](/vitigni/Francia/petit-meslier), [Meslier Saint-François](/vitigni/meslier-saint-francois), [Pineau D'Aunis](/vitigni/Francia/pineau-d-aunis), tutte varietà tipiche del nord della Francia, il che rafforza il caso di un'origine loira per il Sauvignon Blanc. Da lì il Sauvignon Blanc si è diffuso nella Gironda, dove si è incrociato spontaneamente con [Cabernet Franc](/vitigni/Francia/cabernet-franc) per produrre [Cabernet Sauvignon](/vitigni/Francia/cabernet-sauvignon) (Bowers e Meredith 1997).
 
 Questa origine della Loira è supportata anche dall'etimologia del nome Sauvignon, che probabilmente deriva dal francese sauvage, che significa 'selvaggio', perché la forma delle foglie del Sauvignon Blanc è simile a quella della vite selvatica. Questa origine ed etimologia sono supportate dai vecchi sinonimi Fié o Fiers (nella Loira e nelle valli di Vienne), che vengono dal latino ferus, che significa 'selvaggio' (Rézeau 1997). Va notato che la vite selvatica Vitis vinifera subsp. silvestris è ancora presente nella Loira, mentre non è mai stata osservata nella Gironda (Arnold et al. 1998).
 
-Recenti studi sul DNA hanno suggerito che Sauvignon Blanc e [Sèmillon](/vitigni/semillon) sono geneticamente molto vicini (Jahnke et al. 2009) ma una relazione genitore-figlio può essere respinta (Vouillamoz).
+Recenti studi sul DNA hanno suggerito che Sauvignon Blanc e [Sèmillon](/vitigni/Francia/semillon) sono geneticamente molto vicini (Jahnke et al. 2009) ma una relazione genitore-figlio può essere respinta (Vouillamoz).
 
 Sono state osservate almeno due mutazioni di colore del Sauvignon Blanc: Sauvignon Gris, chiamato anche Fié, Fiers, Surin Gris o Sauvignon Rose, e Sauvignon Rouge, entrambi coltivati in misura molto limitata nel Val de Loire.
 
 Il Sauvignon Blanc è stato usato per allevare 
-[ARRILOBA](/vitigni/arrilloba), [Incrocio Bruni 54](/vitigni/incrocio-bruni-54), [Sirmium](/vitigni/sirmium).
+[ARRILOBA](/vitigni/arrilloba), [Incrocio Bruni 54](/vitigni/Italia/incrocio-bruni-54), [Sirmium](/vitigni/sirmium).
 
 ### Altre ipotesi
 
 Secondo Lavignac (2001), il nome Sauvignon potrebbe derivare da un nome di luogo gallo-romano come Sauvagnon nel Béarn, a sua volta derivato da un nome personale, ad esempio Salvinius, Silvinius o Salvanius.
 
-Il genetista austriaco dell'uva Ferdinand Regner (1999) ha affermato che l'analisi della parentela del DNA ha fornito la prova che il Sauvignon Blanc è un incrocio [Chenin blanc](/vitigni/chenin-blanc) × [Savagnin](/vitigni/savagnin), ma questa parentela può essere respinta da un'analisi più dettagliata di sessanta marcatori del DNA che mostra diciotto discrepanze (Vouillamoz).
+Il genetista austriaco dell'uva Ferdinand Regner (1999) ha affermato che l'analisi della parentela del DNA ha fornito la prova che il Sauvignon Blanc è un incrocio [Chenin blanc](/vitigni/chenin-blanc) × [Savagnin](/vitigni/Francia/savagnin), ma questa parentela può essere respinta da un'analisi più dettagliata di sessanta marcatori del DNA che mostra diciotto discrepanze (Vouillamoz).
 
 ## Caratteristiche viticole
 

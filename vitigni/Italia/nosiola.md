@@ -20,7 +20,7 @@ Groppello Bianco, Nosellara, Nosiola Gentile, Nusiola, Spargelen (Alto Adige)
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Durella](/vitigni/durella)  (Veneto)
+[Durella](/vitigni/Italia/durella)  (Veneto)
 
 
 ## Origini e Parentele

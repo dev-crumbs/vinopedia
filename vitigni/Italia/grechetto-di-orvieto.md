@@ -20,13 +20,13 @@ Grechetto, Grechetto Bianco, Grechetto Spoletino
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Maceratino](/vitigni/maceratino) (Marche), [Pignoletto](/vitigni/pignoletto)  (conosciuto anche come Grechetto di Todi)
+[Maceratino](/vitigni/Italia/maceratino) (Marche), [Pignoletto](/vitigni/Italia/pignoletto)  (conosciuto anche come Grechetto di Todi)
 
 
 ## Origini e parentele
 I nomi Greco e Grechetto sono stati dati a diverse varietà distinte dell'Italia meridionale usate per produrre vini dolci, con più di un cenno agli stili tradizionali di vino dolce dell'antica Grecia (Costacurta et al. 2004), ma ciò non è necessariamente un'indicazione che queste varietà siano di origine greca.
 
-Studi ampelografici e sul DNA hanno stabilito che Grechetto di Orvieto e Grechetto di Todi, un sinonimo di [Pignoletto](/vitigni/pignoletto) , sono due varietà distinte (Filippetti et al. 1999). Inoltre, studi di parentela hanno suggerito una relazione genitore-figlio tra di loro (Costacurta et al. 2004), il che potrebbe spiegare perché in precedenza erano considerati variazioni clonali della stessa varietà.
+Studi ampelografici e sul DNA hanno stabilito che Grechetto di Orvieto e Grechetto di Todi, un sinonimo di [Pignoletto](/vitigni/Italia/pignoletto) , sono due varietà distinte (Filippetti et al. 1999). Inoltre, studi di parentela hanno suggerito una relazione genitore-figlio tra di loro (Costacurta et al. 2004), il che potrebbe spiegare perché in precedenza erano considerati variazioni clonali della stessa varietà.
 
 ## Caratteristiche viticole
 

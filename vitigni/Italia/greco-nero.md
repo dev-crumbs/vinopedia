@@ -20,7 +20,7 @@ Il nome Greco Nero è stato usato in Calabria, Italia meridionale, per diverse v
 
 - Greco Nero trovato nella zona di Cirò, identico ad un vitigno noto come Nerello trovato vicino a Lamezia Terme
 - Greco trovato a Scilla, identico a [Castiglione](/vitigni/castiglione)
-- Greco Nero trovato nel Lametino, identico a [Magliocco Dolce](/vitigni/magliocco-dolce)
+- Greco Nero trovato nel Lametino, identico a [Magliocco Dolce](/vitigni/Italia/magliocco-dolce)
 
 - Greco Nero trovato a Verbicaro e Scalea
 - Greco Nero trovato a Sibari nella Calabria nord-orientale.

@@ -19,7 +19,7 @@ Anrè (Acqui), Caruét (Monferrato Casalese), Croetto (Alessandria), Crova (Pine
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Cesar](/vitigni/cesar), [Corva](/vitigni/corva)
+[Cesar](/vitigni/cesar), [Corva](/vitigni/Italia/corva)
 
 ## Origini e parentele
 Il Lambrusco (a volte "la Lambrusca") di Alessandria proviene molto probabilmente - e logicamente - dalla provincia di Alessandria in Piemonte. Fu menzionata per la prima volta da Nuvolone Pergamo, Conte di Scandaluzza (1787-98), con il nome Crovet, coltivata nelle colline di Casale e nella provincia di Asti. Alcuni anni dopo, Acerbi (1825) descrive cinque distinte 'Lambrusche', due delle quali sono chiamate 'Crouet' e sono simili alla Lambrusca di Alessandria (Torello Marinoni et al. 2006). La prima occorrenza del nome Lambrusca di Alessandria fu nel 1879 in Ampelografia italiana.
@@ -37,5 +37,5 @@ A volte è stato suggerito che la Lambrusca di Alessandria sia identica alla var
 - Buona resistenza alla peronospora e al marciume del grappolo della botrite.
 
 ## Diffusione geografica
-Il Lambrusco di Alessandria è stata storicamente coltivato nella provincia di Alessandria in Piemonte, Italia, ma anche nelle province di Asti e, in misura minore, di Cuneo. È stato poi introdotto nella provincia di Torino (nelle regioni di Pinerolo, Val Chisone, Val Germanasca, Ivrea e Val di Susa) dopo la fillossera (Schneider e Mannini 2006) ed è autorizzato in tutto il Piemonte, dove di solito viene miscelato con [Dolcetto](/vitigni/dolcetto), [Barbera](/vitigni/barbera), [Freisa](/vitigni/freisa), [Bonarda Piemontese](/vitigni/bonarda-piemontese). È specificatamente menzionato come possibile componente di assemblaggio nei Colli Tortonesi DOC (rosso e rosato). C'erano 900 ha (2.224 acri) di Lambrusca di Alessandria in Italia nel 2000, secondo il censimento agricolo. Non è utilizzato come varietale.
+Il Lambrusco di Alessandria è stata storicamente coltivato nella provincia di Alessandria in Piemonte, Italia, ma anche nelle province di Asti e, in misura minore, di Cuneo. È stato poi introdotto nella provincia di Torino (nelle regioni di Pinerolo, Val Chisone, Val Germanasca, Ivrea e Val di Susa) dopo la fillossera (Schneider e Mannini 2006) ed è autorizzato in tutto il Piemonte, dove di solito viene miscelato con [Dolcetto](/vitigni/Italia/dolcetto), [Barbera](/vitigni/Italia/barbera), [Freisa](/vitigni/Italia/freisa), [Bonarda Piemontese](/vitigni/Italia/bonarda-piemontese). È specificatamente menzionato come possibile componente di assemblaggio nei Colli Tortonesi DOC (rosso e rosato). C'erano 900 ha (2.224 acri) di Lambrusca di Alessandria in Italia nel 2000, secondo il censimento agricolo. Non è utilizzato come varietale.
 

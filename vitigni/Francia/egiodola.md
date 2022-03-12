@@ -14,7 +14,7 @@ dateCreated: 2021-09-06T09:37:05.370Z
 Nera
 
 ## Origini e parentele
-Egiodola è stata presentata come un incrocio di [Fer](/vitigni/baccaa-nera/fer) e [Abouriou](/vitigni/Francia/abouriou) ottenuto nel 1954 da Pierre Marcel Durquéty all'INRA (Institut National de la Recherche Agronomique) di Bordeaux, nel sud-ovest della Francia. In realtà una recente analisi della parentela del DNA all'INRA di Montpellier l'ha corretta in un incrocio Abouriou × [Negramoll](/vitigni/negramoll) (con il nome Tinta da Madeira). Il nome Egiodola è una contrazione di due parole basche, egiazko odola, che significa 'sangue vero' (Rézeau 1997).
+Egiodola è stata presentata come un incrocio di [Fer](/vitigni/baccaa-nera/fer) e [Abouriou](/vitigni/Francia/abouriou) ottenuto nel 1954 da Pierre Marcel Durquéty all'INRA (Institut National de la Recherche Agronomique) di Bordeaux, nel sud-ovest della Francia. In realtà una recente analisi della parentela del DNA all'INRA di Montpellier l'ha corretta in un incrocio Abouriou × [Negramoll](/vitigni/Italia/negramoll) (con il nome Tinta da Madeira). Il nome Egiodola è una contrazione di due parole basche, egiazko odola, che significa 'sangue vero' (Rézeau 1997).
 
 ## Caratteristiche viticole
 
@@ -30,7 +30,7 @@ L'Egiodola è stata raccomandata in quasi tutti i dipartimenti viticoli della Fr
 
 A Jumilla, nel sud-est della Spagna, Casa de la Ermita ha piantato alcune viti di Egiodola nel suo vigneto sperimentale.
 
-In Svizzera, La Toveyre a Chardonne in Vaud produce un oscuro blend di Malbec ([Cot](/vitigni/cot)), [Caladoc](/vitigni/caladoc), [Marselan](/vitigni/marselan), [Arinarnoa](/vitigni/), Egiodola, [Ederena](/vitigni/ederena), [Carminoir](/vitigni/), chiamato semplicemente Numéro 2.
+In Svizzera, La Toveyre a Chardonne in Vaud produce un oscuro blend di Malbec ([Cot](/vitigni/Francia/cot)), [Caladoc](/vitigni/caladoc), [Marselan](/vitigni/marselan), [Arinarnoa](/vitigni/), Egiodola, [Ederena](/vitigni/ederena), [Carminoir](/vitigni/), chiamato semplicemente Numéro 2.
 
 Il Brasile aveva 56 ettari nello stato di Rio Grande do Sul nel 2007, dove produttori come Cave de Pedra e Pizzato nella regione vinicola Vale dos Vinhedos, vicino alla città di Bento Gonçalves, fanno vini varietali.
 

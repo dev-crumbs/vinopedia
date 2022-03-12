@@ -20,12 +20,12 @@ Brynšt (Repubblica Ceca), Edler Weiss o Weissedler (Alsazia), Formentin (Ungher
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Albarín Blanco](/vitigni/albarin-blanco) (Asturie), [Alvarinho](/vitigni/alvarinho)  (Come Albariño in Rías Baixas in Galizia, Spagna Nord-Occidentale, Così Come In Australia), [Chardonnay](/vitigni/Francia/chardonnay) (Possibile Sinonimo Di Clevner In Alsazia), [Gringet](/vitigni/gringet) (Principalmente Ad Ayze Nell'Alta Savoia), [Melon](/vitigni/melon) (Chiamato Savagnin Jaune A Lons-Le-Saunier Nel Giura), [Pinot Blanc](/vitigni/pinot-blanc) (Ancora Chiamato Clevner O Klävner In Alsazia E Nel Baden-Württemberg Tedesco), [Sauvignon Blanc](/vitigni/Francia/sauvignon-blanc)
+[Albarín Blanco](/vitigni/Italia/albarin-blanco) (Asturie), [Alvarinho](/vitigni/alvarinho)  (Come Albariño in Rías Baixas in Galizia, Spagna Nord-Occidentale, Così Come In Australia), [Chardonnay](/vitigni/Francia/chardonnay) (Possibile Sinonimo Di Clevner In Alsazia), [Gringet](/vitigni/gringet) (Principalmente Ad Ayze Nell'Alta Savoia), [Melon](/vitigni/melon) (Chiamato Savagnin Jaune A Lons-Le-Saunier Nel Giura), [Pinot Blanc](/vitigni/Francia/pinot-blanc) (Ancora Chiamato Clevner O Klävner In Alsazia E Nel Baden-Württemberg Tedesco), [Sauvignon Blanc](/vitigni/Francia/sauvignon-blanc)
 
 
 ## Origini e parentele
 
-Il Savagnin blanc è una delle mutazione del [Savagnin](/vitigni/savagnin)
+Il Savagnin blanc è una delle mutazione del [Savagnin](/vitigni/Francia/savagnin)
 
 ### Savagnin Blanc In Francia 
 
@@ -39,7 +39,7 @@ Krämer (2006) ritiene che il Savagnin sia originario della Germania sud-occiden
 #### Sinonimi Pre-Savagnin Blanc 
 Prima che diventasse noto come Savagnin Blanc, questa varietà era principalmente conosciuta sotto diversi vecchi sinonimi, ma tutti erano fonte di confusione con altri vitigni ed è spesso impossibile determinare quali varietà erano designate nei vecchi documenti:
 
-- Fromenteau (o Fourmenteau o Fourmentans) nel Jura nel nord della Francia, anche un sinonimo di [Pinot Gris](/vitigni/pinot-gris) in Champagne-Ardenne, Lorena e Île-de-France e per [Roussanne](/vitigni/roussanne) in Isère (il nome si riferisce al colore della bacca, che è simile al grano, froment in francese)
+- Fromenteau (o Fourmenteau o Fourmentans) nel Jura nel nord della Francia, anche un sinonimo di [Pinot Gris](/vitigni/Francia/pinot-gris) in Champagne-Ardenne, Lorena e Île-de-France e per [Roussanne](/vitigni/roussanne) in Isère (il nome si riferisce al colore della bacca, che è simile al grano, froment in francese)
 - Gentil Blanc o Blanc Gentil in Alsazia, anche sinonimo di Chardonnay e Pinot Blanc (Galet 1990)
 - Plant d'Arbois, anche un sinonimo di Poulsard Blanc (vedi POULSARD), mentre Arbois era anche un nome usato per [Menu Pineau](/vitigni/menu-pineau)
 - Klevner in Alsazia, anche un sinonimo di Pinot Blanc

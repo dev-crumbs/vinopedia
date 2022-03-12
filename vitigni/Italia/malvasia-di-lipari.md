@@ -20,7 +20,7 @@ Greco Bianco di Gerace o Greco di Gerace (Calabria in Italia), Malmsey (Madeira)
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Greco](/vitigni/Italia/greco) (Campania), [Greco Bianco](/vitigni/Italia/greco-bianco) (Calabria), [Malvasia Bianca Di Candia](/vitigni/Italia/malvasia-bianca-di-candia) , [Malvasia Bianca Di Piemonte](/vitigni/Italia/malvasia-bianca-di-piemonte) , [Malvasia Di Lanzarote](/vitigni/malvasia-de-lanzarote) 
+[Greco](/vitigni/Italia/greco) (Campania), [Greco Bianco](/vitigni/Italia/greco-bianco) (Calabria), [Malvasia Bianca Di Candia](/vitigni/Italia/malvasia-bianca-di-candia) , [Malvasia Bianca Di Piemonte](/vitigni/Italia/malvasia-bianca-di-piemonte) , [Malvasia Di Lanzarote](/vitigni/Spagna/malvasia-de-lanzarote) 
 
 ## Origini e parentele
 
@@ -48,7 +48,7 @@ Greco Bianco di Gerace, coltivato principalmente nei villaggi di Bianco e Casign
 
 Malvasia di Sardegna, usata per produrre vini secchi e dolci, talvolta fortificati (e, in tal caso, invecchiati per almeno due anni), nelle DOC Malvasia di Cagliari e Malvasia di Bosa. I produttori includono Battista Colombu, Fratelli Porcu e Silattari.
 
-La Malvasia Cândida è stata introdotta a Madeira, in Portogallo, nel XV secolo ed è stata usata per produrre Malmsey o Malvasia, il più dolce dei vini dell'isola, anche se oggi ne rimane molto poco (4 ha/10 acri nel 2010) e la [Malvasia Branca De São Jorge](/vitigni/malvasia-branca-de-sao-jorge) è la varietà dominante per tali vini. Si trova anche in misura minore in regioni del continente portoghese come Beiras, Trás-os-Montes, il Tejo e Lisboa (solo 1 ha/2,5 acri nel 2010).
+La Malvasia Cândida è stata introdotta a Madeira, in Portogallo, nel XV secolo ed è stata usata per produrre Malmsey o Malvasia, il più dolce dei vini dell'isola, anche se oggi ne rimane molto poco (4 ha/10 acri nel 2010) e la [Malvasia Branca De São Jorge](/vitigni/Italia/malvasia-branca-de-sao-jorge) è la varietà dominante per tali vini. Si trova anche in misura minore in regioni del continente portoghese come Beiras, Trás-os-Montes, il Tejo e Lisboa (solo 1 ha/2,5 acri nel 2010).
 
 La Malvasía de Sitges sopravvive su 2,5 ha (6 acri) in Catalunya, nel nord-est della Spagna. Viene imbottigliata come vino passito aromatico, fresco e dolce all'interno della DO Penedès dall'Hospital Sant Joan Baptista e si trova anche molto occasionalmente nella DO Catalunya. Può anche essere usata per aggiungere profumo e freschezza a bianchi secchi più neutri.
 

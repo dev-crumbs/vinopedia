@@ -18,7 +18,8 @@ Cruinon
 ## Omonimi
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
-Corbina, [Corvina Veronese](/vitigni/Italia/corvina-veronese)
+
+Corvina, [Corvina Veronese](/vitigni/Italia/corvina-veronese)
 
 ## Origini e parentele
 Corvinone è stato generalmente considerato una mutazione clonale di [Corvina Veronese](/vitigni/Italia/corvina-veronese), ma i profili ampelografici, isoenzimatici e del DNA hanno dimostrato che sono varietà distinte (Cancellier e Angelini 1993), anche se potrebbero essere geneticamente correlate.

@@ -17,7 +17,7 @@ Nera
 Weinsberg S 341
 
 ## Origini e parentele
-È un incrocio [Helfensteiner](/vitigni/helfensteiner) e [Heroldrebe](/vitigni/heroldrebe) allevato nel 1956 da August Herold nel centro di ricerca Weinsberg nel Baden-Württemberg, Germania meridionale. Il suo pedigree esteso è quindi: [Pinot Noir Precoce](/vitigni/Francia/pinot-noir-precoce), [Schiava grossa](/vitigni/Italia/schiava-grossa), ([Blaure portugieser](/vitigni/Austria/blauer-portugieser), [Blaufränkisch](/vitigni/Austria/blaufrankisch). Prende il nome da Immanuel August Ludwig Dornfeld (1796-1869), uno dei fondatori della scuola di viticoltura di Weinsberg, è stato usato per allevare [Acolon](/vitigni/acolon), [Cabernet Dorio](/vitigni/Francia/cabernet-dorio), [Cabernet Dorsa](/vitigni/Francia/cabernet-dorsa) e [Monarch](/vitigni/monarch)
+È un incrocio [Helfensteiner](/vitigni/helfensteiner) e [Heroldrebe](/vitigni/heroldrebe) allevato nel 1956 da August Herold nel centro di ricerca Weinsberg nel Baden-Württemberg, Germania meridionale. Il suo pedigree esteso è quindi: [Pinot Noir Precoce](/vitigni/Francia/pinot-noir-precoce), [Schiava grossa](/vitigni/Italia/schiava-grossa), ([Blaure portugieser](/vitigni/Austria/blauer-portugieser), [Blaufränkisch](/vitigni/Austria/blaufrankisch). Prende il nome da Immanuel August Ludwig Dornfeld (1796-1869), uno dei fondatori della scuola di viticoltura di Weinsberg, è stato usato per allevare [Acolon](/vitigni/Austria/acolon), [Cabernet Dorio](/vitigni/Francia/cabernet-dorio), [Cabernet Dorsa](/vitigni/Francia/cabernet-dorsa) e [Monarch](/vitigni/monarch)
 
 ## Caratteristiche viticole
 

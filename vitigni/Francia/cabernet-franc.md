@@ -20,7 +20,7 @@ Achéria (Basque Country, mainly in Irouléguy), Ardounet (Béarn), Bidure (Grav
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Ardonnet](/vitigni/ardonnet) (Béarn, No Longer Cultivated), [Arrouya](/vitigni/arrouya) (Pyrénées), [Béquignol Noir](/vitigni/bequignol-noir) (Dissay In The Vienne), [Cabernet Sauvignon](/vitigni/caberbent-sauvignon), [Carmenère](/vitigni/carmenere), [Gros Cabernet](/vitigni/gros-cabernet) (Médoc, No Longer Cultivated), [Hondarribi Beltza](/vitigni/hondarribi-bletza) (País Vasco In Spain)
+[Ardonnet](/vitigni/ardonnet) (Béarn, No Longer Cultivated), [Arrouya](/vitigni/arrouya) (Pyrénées), [Béquignol Noir](/vitigni/bequignol-noir) (Dissay In The Vienne), [Cabernet Sauvignon](/vitigni/cabernet-sauvignon), [Carmenère](/vitigni/Francia/carmenere), [Gros Cabernet](/vitigni/gros-cabernet) (Médoc, No Longer Cultivated), [Hondarribi Beltza](/vitigni/hondarribi-bletza) (País Vasco In Spain)
 
 ## Origini e parentele
 Il Cabernet Franc è senza dubbio una delle varietà più importanti ed antiche della regione di Bordeaux. Tuttavia, recenti studi genetici e storici indicano il País Vasco spagnolo (Paesi Baschi) come luogo d'origine:
@@ -43,13 +43,13 @@ Infine, la prima menzione dell'ortografia moderna Cabernet non appare fino a Roz
 L'etimologia di Cabernet è stata oggetto di molte speculazioni. L'ipotesi più convincente si basa sul latino carbon, che significa 'nero', in riferimento al colore scuro delle bacche; carbonet divenne carbenet e la metatesi (un'inversione di consonanti) diede cabernet (Rézeau 1997). Tuttavia, il nome Cabernet e i suoi vecchi sinonimi (Bidure, Breton, Cabrunet, Carmenet, Véron o Vidure) venivano spesso dati a diverse varietà distinte, come dimostrano le seguenti voci in una lista di vitigni stabilita nel 1859 da Henry-Xavier Bouchereau (1863), allora proprietario di Château Carbonnieux, dove aveva costruito una collezione di 1.242 vitigni dalla Francia e oltre:
 
 - Carmenet-Sauvignon o Cabernet-Sauvignon, il moderno [Cabernet Sauvignon](/vitigni/Francia/cabernet-sauvignon)
-- Carmenère, il moderno [Carmenère](/vitigni/carmenere)
+- Carmenère, il moderno [Carmenère](/vitigni/Francia/carmenere)
 - Gros Cabernet, forse corrispondente a Cabernet Franc ma è anche il nome di una varietà distinta ma non più coltivata
 - Petit Cabernet, corrispondente a Cabernet Sauvignon
 
 Di conseguenza, Cabernet Franc, Cabernet Sauvignon e Carmenère venivano spesso confusi fino alla fine del XIX secolo. Tuttavia, i riferimenti più antichi si riferivano molto probabilmente a Cabernet Franc poiché è stato stabilito dall'analisi genetica che Cabernet Franc è un genitore di Cabernet Sauvignon (Bowers e Meredith 1997), Carmenère e Merlot (Boursiquot et al. 2009). È anche probabile che i genitori di una varietà così antica come il Cabernet Franc siano scomparsi da tempo, rendendola orfana. La frequente confusione tra queste varietà e le parentele scoperte sono coerenti con il gruppo ampelografico Carmenet (vedi p XXVII).
 
-Il Cabernet Franc è stato usato per allevare [Cabernet Moravia](/vitigni/Francia/cabernet-moravia) nella Repubblica Ceca e [Iincrocio Terzi 1](/vitigni/incrocio-terzi-1) in Italia.
+Il Cabernet Franc è stato usato per allevare [Cabernet Moravia](/vitigni/Francia/cabernet-moravia) nella Repubblica Ceca e [Iincrocio Terzi 1](/vitigni/Italia/incrocio-terzi-1) in Italia.
 
 ### Altre ipotesi
 
@@ -93,7 +93,7 @@ In Spagna nel 2008 c'erano 736 ha (1.819 acri), per lo più in Castilla-La Manch
 
 ### Europa orientale
 
-Il Cabernet Franc viene piantato in misura limitata in gran parte dell'Europa orientale ma è generalmente molto, molto meno popolare del Cabernet Sauvignon. Oltre il confine dal Friuli nella Slovenia occidentale, il Cabernet Franc tende ad essere mescolato con Cabernet Sauvignon, Merlot e, spesso, il locale [Refosco](/vitigni/refosco), anche se le piantagioni totali nel 2009 erano solo 27 ha (67 acri) a Goriška Brda e 17 ha (42 acri) a Slovenska Istra.
+Il Cabernet Franc viene piantato in misura limitata in gran parte dell'Europa orientale ma è generalmente molto, molto meno popolare del Cabernet Sauvignon. Oltre il confine dal Friuli nella Slovenia occidentale, il Cabernet Franc tende ad essere mescolato con Cabernet Sauvignon, Merlot e, spesso, il locale [Refosco](/vitigni/Italia/refosco), anche se le piantagioni totali nel 2009 erano solo 27 ha (67 acri) a Goriška Brda e 17 ha (42 acri) a Slovenska Istra.
 
 La Romania - terra del Cabernet - aveva solo 8 ha (20 acri) nel 2008, Krasnodar Krai nella Russia meridionale solo 20 ha (49 acri) nel 2009. Ci sono minuscole piantagioni in Serbia, Kosovo e forse Kazakistan. L'eccezione è l'Ungheria, che aveva un totale di 1.243 ha (3.072 acri) nel 2008, con maggior successo a Villány nel sud, dove alcuni dei migliori rossi del paese, sia i tagli bordolesi che i varietali, dipendono dal Cabernet Franc di gente come Malatinszky, Attila Gere con Weninger e Vylyan, ma è anche piantato più a nord ed est a Kunság e Szekszárd e a Eger ancora più a nord. Spesso in blend bordolesi ma ha anche sempre più successo come varietale.
 

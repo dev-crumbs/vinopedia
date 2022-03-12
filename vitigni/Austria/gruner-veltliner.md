@@ -18,11 +18,11 @@ Grauer Veltliner (Austria), Grün Muskateller (Austria), Veltliner (Alto Adige),
 
 
 ## Origini e parentele
-La prima menzione del Grüner Veltliner risale al XVIII secolo. Nonostante il nome, il Grüner Veltliner non ha alcun legame con la Valtellina. Un recente profilo del DNA ha inaspettatamente scoperto la discendenza del Grüner Veltliner: è un incrocio naturale tra Traminer ([Savagnin](/vitigni/savagnin)) e, molto probabilmente, un oscuro vitigno trovato a St Georgen am Leithagebirge vicino a Eisenstadt (Regner 2007). Questo vecchio vitigno ha un profilo DNA unico ed è attualmente l'unico sopravvissuto conosciuto di questa varietà. Una volta si chiamava Grün Muskateller a St Georgen, ma per evitare confusione con il gruppo eterogeneo denominato [Muscat](/vitigni/muscat), è stato chiamato semplicemente 'St Georgener'. La vite, attaccata da vandali nel febbraio 2011 e ora monumento naturale protetto, è attualmente in fase di propagazione e il primo vino dovrebbe essere prodotto tra qualche anno.
+La prima menzione del Grüner Veltliner risale al XVIII secolo. Nonostante il nome, il Grüner Veltliner non ha alcun legame con la Valtellina. Un recente profilo del DNA ha inaspettatamente scoperto la discendenza del Grüner Veltliner: è un incrocio naturale tra Traminer ([Savagnin](/vitigni/Francia/savagnin)) e, molto probabilmente, un oscuro vitigno trovato a St Georgen am Leithagebirge vicino a Eisenstadt (Regner 2007). Questo vecchio vitigno ha un profilo DNA unico ed è attualmente l'unico sopravvissuto conosciuto di questa varietà. Una volta si chiamava Grün Muskateller a St Georgen, ma per evitare confusione con il gruppo eterogeneo denominato [Muscat](/vitigni/Francia/muscat), è stato chiamato semplicemente 'St Georgener'. La vite, attaccata da vandali nel febbraio 2011 e ora monumento naturale protetto, è attualmente in fase di propagazione e il primo vino dovrebbe essere prodotto tra qualche anno.
 
 Andando più indietro nell'albero genealogico, Grüner Veltliner è un nipote o un fratellastro di PINOT, perché SAVAGNIN e Pinot hanno un rapporto genitori-figli.
 
-Data la sua parentela, Grüner Veltliner non appartiene alla famiglia 'Veltliner', che comprende [Roter Veltliner](/vitigni/fruhroter-veltliner), [Frühroter Veltliner](/vitigni/fruhroter-veltliner), [Neuburger](/vitigni/neuburger) e [Rotgipfler](/vitigni/rotgipfler) (Sefc, Regner et al. 1998), anche se è un fratellastro di Rotgipfler (hanno [Savagnin](/vitigni/savagnin) come genitore comune).
+Data la sua parentela, Grüner Veltliner non appartiene alla famiglia 'Veltliner', che comprende [Roter Veltliner](/vitigni/Austria/fruhroter-veltliner), [Frühroter Veltliner](/vitigni/Austria/fruhroter-veltliner), [Neuburger](/vitigni/Austria/neuburger) e [Rotgipfler](/vitigni/Austria/rotgipfler) (Sefc, Regner et al. 1998), anche se è un fratellastro di Rotgipfler (hanno [Savagnin](/vitigni/Francia/savagnin) come genitore comune).
 
 Il profilo del DNA ha dimostrato che, contrariamente alla credenza comune, Grauer Veltliner (o Veltliner Grau) non è una varietà distinta ma solo una mutazione di colore di Grüner Veltiner, con bacche grigiastre (Regner et al. 1996).
 
@@ -34,7 +34,7 @@ Il profilo del DNA ha dimostrato che, contrariamente alla credenza comune, Graue
 
 ## Diffusione geografica
 
-Le piantagioni di Grüner Veltliner in Francia sono finora strettamente sperimentali ma l'Italia ha una piccola area dove cresce la varietà. Praticamente qualsiasi vitigno chiamato Veltliner in alto nella Valle Isarco dell'Alto Adige nell'estremo nord del paese è Grüner Veltliner, che lì ha quasi completamente sostituito il non correlato [Frühroter Veltliner](/vitigni/fruhroter-veltliner).
+Le piantagioni di Grüner Veltliner in Francia sono finora strettamente sperimentali ma l'Italia ha una piccola area dove cresce la varietà. Praticamente qualsiasi vitigno chiamato Veltliner in alto nella Valle Isarco dell'Alto Adige nell'estremo nord del paese è Grüner Veltliner, che lì ha quasi completamente sostituito il non correlato [Frühroter Veltliner](/vitigni/Austria/fruhroter-veltliner).
 
 In Germania, lo storico Hansenwein di Plochingen (alla periferia di Stoccarda) è fatto con Grüner Veltliner, e non, come a volte viene suggerito, con il vero Hans o Hansen Rot, una vecchia varietà che non è più in coltivazione.
 

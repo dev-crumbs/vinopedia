@@ -19,7 +19,7 @@ Albana Nera (Emilia-Romagna), Brunellone (Grosseto), Canaiolo Romano (Pistoia), 
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Aglianico](/vitigni/Italia/aglianico), [Aglianicone](/vitigni/Italia/aglianicone), [Aleatico](/vitigni/aleatico), [Doux D'Henry](/vitigni/doux-d-henry) (Piemonte), [Sangiovese](/vitigni/Italia/sangiovese) (Emilia-Romagna)
+[Aglianico](/vitigni/Italia/aglianico), [Aglianicone](/vitigni/Italia/aglianicone), [Aleatico](/vitigni/Italia/aleatico), [Doux D'Henry](/vitigni/doux-d-henry) (Piemonte), [Sangiovese](/vitigni/Italia/sangiovese) (Emilia-Romagna)
 
 ## Origini e parentele
 Probabilmente la prima menzione del Ciliegiolo si trova nel trattato di Soderini (1600) sulle varietà coltivate intorno a Firenze in Toscana, Italia, in cui un Ciriegiuolo Dolce è descritto come un'uva con grappoli lunghi, bacche grandi e un sapore dolce (dolce) e fragrante, meglio se coltivato su terreni caldi. Questa descrizione corrisponde ragionevolmente al moderno Ciliegiolo. Il nome Ciliegiolo (italiano per 'piccola ciliegia') deriva dall'aroma di ciliegia degli acini.
@@ -30,9 +30,9 @@ Ciliegiolo è stato spesso scambiato con [Aglianico](/vitigni/Italia/aglianico),
 
 In uno studio condotto nel 2006 all'Università di Bologna, tre accessioni denominate Albana Nera in Emilia-Romagna (nelle regioni di Imola, Riolo Terme e Ravenna) si sono rivelate identiche al Ciliegiolo, sebbene quest'ultimo non sia imparentato con l'[Albana](/vitigni/Italia/albana) bianca. Più recentemente, diversi sinonimi inaspettati di Ciliegiolo sono stati trovati tramite la profilazione del DNA di viti trovate in Toscana (Di Vecchi Staraz, This et al. 2007): Brunellone, Mazzèse, Riminese Nero e Sangiovese Polveroso. Quest'ultimo sinonimo fuorviante potrebbe spiegare perché Ciliegiolo e [Sangiovese](/vitigni/Italia/sangiovese) sono spesso erroneamente considerati identici in Emilia-Romagna.
 
-Con l'analisi di parentela del DNA, Crespan et al. (2002) hanno scoperto una relazione genitore-figlio tra Ciliegiolo e [Sangiovese](/vitigni/Italia/sangiovese). Vouillamoz, Imazio et al. (2004) hanno poi dimostrato che il Sangiovese è una progenie naturale di Ciliegiolo e [Calabrese di Montenuovo](/vitigni/calabrese-di-montenuovo) (vedi [Sangiovese](/vitigni/Italia/sangiovese) per dettagli).
+Con l'analisi di parentela del DNA, Crespan et al. (2002) hanno scoperto una relazione genitore-figlio tra Ciliegiolo e [Sangiovese](/vitigni/Italia/sangiovese). Vouillamoz, Imazio et al. (2004) hanno poi dimostrato che il Sangiovese è una progenie naturale di Ciliegiolo e [Calabrese di Montenuovo](/vitigni/Italia/calabrese-di-montenuovo) (vedi [Sangiovese](/vitigni/Italia/sangiovese) per dettagli).
 
-Recenti studi di parentela del DNA hanno suggerito che il Ciliegiolo potrebbe essere un incrocio naturale tra [Sangiovese](/vitigni/Italia/sangiovese) e [Muscat Rouge de Madère](/vitigni/muscat-rouge-de-madere), alias Moscato Violetto (Di Vecchi Staraz, This et al. 2007; Cipriani et al. 2010), quest'ultimo un possibile incrocio naturale di [Mammolo](/vitigni/ammolo) e [Muscat Blanc à Petits Grains](/vitigni/Francia/muscat-blanc-a-petit-grains), ma questo non si adatta alla parentela del Sangiovese (Vouillamoz, Monaco et al. 2007), e poiché la parentela proposta ha mostrato alcune discrepanze nel DNA, avrebbe bisogno di ulteriori indagini.
+Recenti studi di parentela del DNA hanno suggerito che il Ciliegiolo potrebbe essere un incrocio naturale tra [Sangiovese](/vitigni/Italia/sangiovese) e [Muscat Rouge de Madère](/vitigni/Francia/muscat-rouge-de-madere), alias Moscato Violetto (Di Vecchi Staraz, This et al. 2007; Cipriani et al. 2010), quest'ultimo un possibile incrocio naturale di [Mammolo](/vitigni/ammolo) e [Muscat Blanc à Petits Grains](/vitigni/Francia/muscat-blanc-a-petit-grains), ma questo non si adatta alla parentela del Sangiovese (Vouillamoz, Monaco et al. 2007), e poiché la parentela proposta ha mostrato alcune discrepanze nel DNA, avrebbe bisogno di ulteriori indagini.
 
 ### Altre Ipotesi
 

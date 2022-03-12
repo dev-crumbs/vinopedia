@@ -17,11 +17,11 @@ Nera
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Aglianico](/vitigni/aglianico), [Pignola Valtellinese](/vitigni/pignola-valtellinese)
+[Aglianico](/vitigni/Italia/aglianico), [Pignola Valtellinese](/vitigni/Italia/pignola-valtellinese)
 
 Origini e Parentele
 
-Come "Pignola" o "Pignolo",  prende il nome dalla parola italiana "pigna", a causa della forma dei suoi grappoli. È molto probabile che provenga dalle colline di Buttrio e Rosazzo in Friuli, dove si dice sia conosciuto fin dal XVII secolo. Il profilo del DNA ha dimostrato che la [Pignola Valtellinese](/vitigni/pignola-valtellinese) e il Pignolo del Friuli sono completamente distinti (Fossati et al. 2001; Salmaso et al. 2008).
+Come "Pignola" o "Pignolo",  prende il nome dalla parola italiana "pigna", a causa della forma dei suoi grappoli. È molto probabile che provenga dalle colline di Buttrio e Rosazzo in Friuli, dove si dice sia conosciuto fin dal XVII secolo. Il profilo del DNA ha dimostrato che la [Pignola Valtellinese](/vitigni/Italia/pignola-valtellinese) e il Pignolo del Friuli sono completamente distinti (Fossati et al. 2001; Salmaso et al. 2008).
 
 ## Caratteristiche Viticole
 
@@ -31,7 +31,7 @@ Come "Pignola" o "Pignolo",  prende il nome dalla parola italiana "pigna", a cau
 
 ## Diffusione geografica
 
-Come [Schioppettino](/vitigni/schioppettino) e [Tazzelenghe](/vitigni/tazzelenghe), il Pignolo era quasi scomparso all'inizio del ventesimo secolo dopo che il Friuli fu colpito dalla fillossera. Fu salvato negli anni '70 da un vigneto nell'abbazia di Rosazzo, dove un intero filare di viti di Pignolo vecchie e non innestate era miracolosamente sopravvissuto. Il Pignolo viene usato sia in blend che per vini varietali nei Colli Orientali del Friuli DOC (in particolare a Prepotto, Albana, Rosazzo, Buttrio e Premariacco). Nel 2000 c'erano solo 20 ha (49 acri) in Italia ma il totale è sicuramente aumentato.
+Come [Schioppettino](/vitigni/Italia/schioppettino) e [Tazzelenghe](/vitigni/tazzelenghe), il Pignolo era quasi scomparso all'inizio del ventesimo secolo dopo che il Friuli fu colpito dalla fillossera. Fu salvato negli anni '70 da un vigneto nell'abbazia di Rosazzo, dove un intero filare di viti di Pignolo vecchie e non innestate era miracolosamente sopravvissuto. Il Pignolo viene usato sia in blend che per vini varietali nei Colli Orientali del Friuli DOC (in particolare a Prepotto, Albana, Rosazzo, Buttrio e Premariacco). Nel 2000 c'erano solo 20 ha (49 acri) in Italia ma il totale è sicuramente aumentato.
 
 I vini varietali hanno acidità fresca e tannini fermi ma setosi, con sapori di frutta che vanno dai piccoli frutti rossi alle prugne mature, sviluppando note di liquirizia con il tempo. Si adattano bene all'invecchiamento in rovere. Girolamo Dorigo fu il primo a piantare il Pignolo nel 1973 usando talee da quelle viti centenarie originali. Altri produttori di questo vino raro sono Castello di Buttrio, Giorgio Colutta, Dario e Luciano Ermacora, Adriano Gigante, Moschioni, Petrucco, Paolo Rodaro, Ronco delle Betulle e Le Vigne di Zamò.
 

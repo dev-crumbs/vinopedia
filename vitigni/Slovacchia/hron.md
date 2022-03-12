@@ -18,7 +18,7 @@ Nera
 CAAB 3/22
 
 ## Origini e parentele
-Hron, che prende il nome da un affluente del Dunaj (Danubio), è un incrocio tra [Castets](/vitigni/castets) e [Abouriou](/vitigni/abouriou) ottenuto nel 1976 da Dorota Pospíšilová presso il centro di ricerca di enologia e viticoltura VSSVVM a Modra, Slovacchia. È fratello di [Nitranka](/vitigni/nitranka)  [Rimava](/vitigni/rimava) e [Váh](/vitigni/vah) ed è stata autorizzata nel 2011.
+Hron, che prende il nome da un affluente del Dunaj (Danubio), è un incrocio tra [Castets](/vitigni/castets) e [Abouriou](/vitigni/abouriou) ottenuto nel 1976 da Dorota Pospíšilová presso il centro di ricerca di enologia e viticoltura VSSVVM a Modra, Slovacchia. È fratello di [Nitranka](/vitigni/Slovacchia/nitranka)  [Rimava](/vitigni/Slovacchia/rimava) e [Váh](/vitigni/Slovacchia/vah) ed è stata autorizzata nel 2011.
 
 ## Caratteristiche Viticole
 
@@ -29,4 +29,4 @@ Hron, che prende il nome da un affluente del Dunaj (Danubio), è un incrocio tra
 
 ## Diffusione geografica
 
-Hron non è ancora ampiamente coltivato (5 ha/12 acri nel 2011) ma sembra promettente, in particolare nelle regioni vinicole di Južnoslovenská e Malokarpatská nel sud-ovest della Slovacchia, per rossi di alta qualità, dal colore profondo, corposi e degni di invecchiamento, con qualche somiglianza con il [Cabernet Sauvignon](/vitigni/cabernet-sauvignon). I produttori di vini varietali includono Chateau Modra e Karol Braniš.
+Hron non è ancora ampiamente coltivato (5 ha/12 acri nel 2011) ma sembra promettente, in particolare nelle regioni vinicole di Južnoslovenská e Malokarpatská nel sud-ovest della Slovacchia, per rossi di alta qualità, dal colore profondo, corposi e degni di invecchiamento, con qualche somiglianza con il [Cabernet Sauvignon](/vitigni/Francia/cabernet-sauvignon). I produttori di vini varietali includono Chateau Modra e Karol Braniš.

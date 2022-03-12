@@ -35,7 +35,7 @@ Il profilo del DNA ha dimostrato che Freisa e [Nebbiolo](/vitigni/Italia/nebbiol
 ## Diffusione geografica
 La Freisa viene coltivata in varie regioni del Piemonte nell'Italia nord-occidentale, in particolare nelle province di Asti, Torino e Cuneo e nelle regioni alpine, comprese le zone subalpine. Ad est del Piemonte, ci sono piantagioni sparse di Freisa nella provincia di Vicenza in Veneto. Il censimento agricolo italiano del 2000 registra piantagioni totali di 1.453 ha (3.590 acri).
 
-È ammesso come componente minore in varie DOC a dominanza [Nebbiolo](/vitigni/Italia/nebbiolo), [Barbera](/vitigni/barbera) O [Grignolino](/vitigni/grignolino) e come parte dell'assemblaggio in un'ampia gamma di DOC del Piemonte. Ha anche diverse DOC che portano il suo nome, ad esempio Freisa d'Asti e Freisa di Chieri.
+È ammesso come componente minore in varie DOC a dominanza [Nebbiolo](/vitigni/Italia/nebbiolo), [Barbera](/vitigni/Italia/barbera) O [Grignolino](/vitigni/grignolino) e come parte dell'assemblaggio in un'ampia gamma di DOC del Piemonte. Ha anche diverse DOC che portano il suo nome, ad esempio Freisa d'Asti e Freisa di Chieri.
 
 Freisa è stato imbottigliato da aziende come Bonny Doon e Viansa in California.
 

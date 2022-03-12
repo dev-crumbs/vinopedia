@@ -20,7 +20,7 @@ Angelica (Trentino), Boschera o Boschera Bianca, Lugana (province di Brescia e V
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Maceratino](/vitigni/maceratino), [Perera](/vitigni/perera) (talvolta chiamato Pevarise in Veneto), [Trebbiano Romagnolo](/vitigni/Italia/trebbiano-romagnolo), [Verdeca](/vitigni/verdeca) (Puglia), [Verdelho](/vitigni/verdelho) (Sicilia)
+[Maceratino](/vitigni/Italia/maceratino), [Perera](/vitigni/perera) (talvolta chiamato Pevarise in Veneto), [Trebbiano Romagnolo](/vitigni/Italia/trebbiano-romagnolo), [Verdeca](/vitigni/verdeca) (Puglia), [Verdelho](/vitigni/verdelho) (Sicilia)
 
 
 ## Origini e parentele
@@ -32,9 +32,9 @@ Più recentemente, studi sul DNA all'Università di Milano hanno dimostrato che 
 
 In modo simile e più sorprendente, il profiling del DNA ha dimostrato che la Peverella, un'antica varietà tradizionalmente coltivata in Trentino (Trento, Lavis, Salorno, Faedo e Val di Cembra) nonché in Alto Adige con il nome Pfefferer, è identica al Verdicchio Bianco (Stella Grando e José Vouillamoz, dati non pubblicati). Era quasi scomparso dopo la peste della fillossera alla fine del XIX secolo ed è stato recentemente salvato dall'estinzione dallo sforzo congiunto del centro di ricerca di San Michele all'Adige e dell'ampelografo dilettante Gianpaolo Girardi.
 
-Inoltre, il confronto del DNA ha suggerito una stretta relazione tra Verdicchio Bianco e [Maceratino](/vitigni/maceratino) (Filippetti, Silvestroni, Thomas e Intrieri 2001). Infine, va notato che il Verdicchio rosato, per il quale Di Vecchi Staraz, This et al. (2007) hanno trovato una relazione genitore-figlia con MAMMOLO, è stato dimostrato dal DNA profiling di essere distinto dal vero Verdicchio Bianco (Vouillamoz).
+Inoltre, il confronto del DNA ha suggerito una stretta relazione tra Verdicchio Bianco e [Maceratino](/vitigni/Italia/maceratino) (Filippetti, Silvestroni, Thomas e Intrieri 2001). Infine, va notato che il Verdicchio rosato, per il quale Di Vecchi Staraz, This et al. (2007) hanno trovato una relazione genitore-figlia con MAMMOLO, è stato dimostrato dal DNA profiling di essere distinto dal vero Verdicchio Bianco (Vouillamoz).
 
-Il Verdicchio Bianco è stato usato per allevare [Incrocio Bruni 54](/vitigni/incrocio-bruni-54).
+Il Verdicchio Bianco è stato usato per allevare [Incrocio Bruni 54](/vitigni/Italia/incrocio-bruni-54).
 
 ### Altre ipotesi
 

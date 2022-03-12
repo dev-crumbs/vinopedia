@@ -18,7 +18,7 @@ Grappello Maestri, Lambrusco di Spagna
 ## Origini e parentele
 Già menzionato alla fine del XIX secolo, il Lambrusco Maestri proviene probabilmente dal piccolo villaggio di Villa Maestri nel comune di San Pancrazio in provincia di Parma.
 
-L'analisi di parentela del DNA ha suggerito una possibile relazione genitore-figlio tra Lambrusco Maestri e [Fortana](/vitigni/fortana) (Boccacci et al. 2005).
+L'analisi di parentela del DNA ha suggerito una possibile relazione genitore-figlio tra Lambrusco Maestri e [Fortana](/vitigni/Italia/fortana) (Boccacci et al. 2005).
  
 
 ## Caratteristiche viticole

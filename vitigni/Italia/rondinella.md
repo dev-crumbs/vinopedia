@@ -14,7 +14,7 @@ dateCreated: 2021-09-06T09:45:57.113Z
 Nera
 
 ## Origini e parentele
-La prima menzione di Rondinella risale al 1882 e questa storia relativamente breve può spiegare perché non ha sinonimi comuni. L'analisi di parentela del DNA ha fornito prove che Rondinella è figlia di [Corvina Veronese](/vitigni/Italia/corvina-veronese) e di un'altra varietà sconosciuta, forse estinta (Grando et al. 2006). Questo la rende una nipote di [Refosco Dal Peduncolo Rosso](/vitigni/refosco-dal-peduncolo-rosso) (vedi quella voce per il diagramma del pedigree). Il suo nome potrebbe derivare dall'italiano rondini, che significa 'rondini', in riferimento al colore delle bacche, che è simile a quello delle piume delle rondini.
+La prima menzione di Rondinella risale al 1882 e questa storia relativamente breve può spiegare perché non ha sinonimi comuni. L'analisi di parentela del DNA ha fornito prove che Rondinella è figlia di [Corvina Veronese](/vitigni/Italia/corvina-veronese) e di un'altra varietà sconosciuta, forse estinta (Grando et al. 2006). Questo la rende una nipote di [Refosco Dal Peduncolo Rosso](/vitigni/Italia/refosco-dal-peduncolo-rosso) (vedi quella voce per il diagramma del pedigree). Il suo nome potrebbe derivare dall'italiano rondini, che significa 'rondini', in riferimento al colore delle bacche, che è simile a quello delle piume delle rondini.
 
 ## Caratteristiche viticole
 - Rese molto alte, maturazione da media a tardiva

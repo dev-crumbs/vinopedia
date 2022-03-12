@@ -17,7 +17,7 @@ Nera
 Prunesta Nera
 
 ## Origini e parentele
-Il nome Prunesta potrebbe derivare dall'italiano bruma, che significa 'nebbia', riferendosi alla fioritura che copre le bacche, simile all'etimologia suggerita per [Nebbiolo](/vitigni/nebbiolo). Galet (2000) ha proposto che Bermestia Bianca potrebbe essere la mutazione bianca di Prunesta Nera ma il confronto dei loro profili DNA dimostra che sono varietà distinte (Vouillamoz).
+Il nome Prunesta potrebbe derivare dall'italiano bruma, che significa 'nebbia', riferendosi alla fioritura che copre le bacche, simile all'etimologia suggerita per [Nebbiolo](/vitigni/Italia/nebbiolo). Galet (2000) ha proposto che Bermestia Bianca potrebbe essere la mutazione bianca di Prunesta Nera ma il confronto dei loro profili DNA dimostra che sono varietà distinte (Vouillamoz).
 
 Confusamente, un'uva da tavola coltivata in Puglia viene anche chiamata Prunesta (o Prugesta Pugliese) anche se è una varietà diversa.
 

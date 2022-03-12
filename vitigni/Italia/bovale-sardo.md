@@ -9,4 +9,4 @@ dateCreated: 2021-09-06T14:55:34.070Z
 ---
 
 # Bovale sardo
-"Bovale sardo" è un sinonimo utilizzato in Italia per il vitigno [Graciano](/vitigni/graciano).
+"Bovale sardo" è un sinonimo utilizzato in Italia per il vitigno [Graciano](/vitigni/Spagna/graciano).

@@ -18,7 +18,7 @@ Nera
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Freisa](/vitigni/freisa)
+[Freisa](/vitigni/Italia/freisa)
 
 
 ## Origini e Parentela
@@ -29,7 +29,7 @@ Studi sul DNA hanno stabilito che il Fumin è un genitore dell'oscura varietà v
 
 ### Altre Ipotesi
 
-È stato suggerito che il Fumin potrebbe essere identico al [Freisa](/vitigni/freisa) ma questa ipotesi, già respinta da alcuni ampelografi (Gatta 1838; Dalmasso e Reggio 1963), è stata fermamente smentita dalla profilazione del DNA (Vouillamoz).
+È stato suggerito che il Fumin potrebbe essere identico al [Freisa](/vitigni/Italia/freisa) ma questa ipotesi, già respinta da alcuni ampelografi (Gatta 1838; Dalmasso e Reggio 1963), è stata fermamente smentita dalla profilazione del DNA (Vouillamoz).
 
 ## Caratteristiche Viticole
 

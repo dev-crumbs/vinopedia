@@ -28,7 +28,7 @@ Secondo Cazeaux-Cazalet (1901), questa varietà fu trovata in un bosco nella reg
 
 Dal 1882, Castets fu riconosciuta per la sua resistenza alla peronospora e fu ampiamente diffusa dal dottor Guilbert in tutta l'Aquitania e nel centro e nel sud della Francia. Secondo Lavignac (2001), Castets appartiene al gruppo ampelografico Carmenet (vedi p XXVII), che comprende anche FER, e spiega perché sono stati spesso confusi, e localizza il suo luogo di nascita nei Pyrénées-Atlantiques piuttosto che nella Gironda, dove è praticamente scomparsa.
 
-Castets è stata incrociata con [Abouriou](/vitigni/Francia/abouriou) e altre varietà negli anni '70 per generare diverse nuove varietà in Slovacchia, di cui, [Hron](/vitigni/hron), [Nitranka](/vitigni/nitranka], [Rimava](/vitigni/rimava), [Rudava](/vitigni/rudava), [Torysa](/vitigni/torysa) e [Váh](/vitigni/vah) sono attualmente coltivate commercialmente.
+Castets è stata incrociata con [Abouriou](/vitigni/Francia/abouriou) e altre varietà negli anni '70 per generare diverse nuove varietà in Slovacchia, di cui, [Hron](/vitigni/Slovacchia/hron), [Nitranka](/vitigni/Slovacchia/nitranka], [Rimava](/vitigni/Slovacchia/rimava), [Rudava](/vitigni/rudava), [Torysa](/vitigni/torysa) e [Váh](/vitigni/Slovacchia/vah) sono attualmente coltivate commercialmente.
 
 ### Altre ipotesi
 È stato suggerito che Nicouleau non ha trovato questa varietà a Saint-Macaire ma l'ha introdotta dai Pirenei.
@@ -41,7 +41,7 @@ Castets è stata incrociata con [Abouriou](/vitigni/Francia/abouriou) e altre va
 - Bacche piccole
 
 ## Diffusione geografica
-La varietà è autorizzata nei dipartimenti Aude e Cantal della Francia, specificatamente per l'inclusione come ingrediente opzionale minore nei vini rossi e rosati di Vins d'Estaing a nord di Rodez, mescolati con varietà come [Fer](/vitigni/fer), [Gamay Noir](/vitigni/gamay-noir), ecc. È autorizzata inoltre nella denominazione "Palette" intorno ad Aix-en-Provence (con [Cinsaut](/vitigni/cinsaut), [Grenache/Garnacha](/vitigni/Spagna/garnacha), [Mourvèdre/MONASTRELL](/vitigni/monastrell), ecc.) ma nel 2008 in Francia era rimasto meno di un ettaro. Sembra che non esistano vini varietali ma Château Simone include Castets nella sua Palette rossa.
+La varietà è autorizzata nei dipartimenti Aude e Cantal della Francia, specificatamente per l'inclusione come ingrediente opzionale minore nei vini rossi e rosati di Vins d'Estaing a nord di Rodez, mescolati con varietà come [Fer](/vitigni/fer), [Gamay Noir](/vitigni/Francia/gamay-noir), ecc. È autorizzata inoltre nella denominazione "Palette" intorno ad Aix-en-Provence (con [Cinsaut](/vitigni/cinsaut), [Grenache/Garnacha](/vitigni/Spagna/garnacha), [Mourvèdre/MONASTRELL](/vitigni/Spagna/monastrell), ecc.) ma nel 2008 in Francia era rimasto meno di un ettaro. Sembra che non esistano vini varietali ma Château Simone include Castets nella sua Palette rossa.
 
 Castets è stato recentemente identificato in un vecchio vigneto nella Russian River Valley, California.
 

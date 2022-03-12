@@ -14,10 +14,10 @@ dateCreated: 2021-09-06T09:35:51.318Z
 Bianca
 
 ## Sinonimi
-Questi sono fondamentalmente traduzioni di Muscat, piuttosto che sinonimi, poiché il nome Muscat è usato per molteplici varietà diverse, come spiegato di seguito: Meski (Tunisia), Misket (Bulgaria), Moscatel (Spagna e Portogallo), [Moscato](/vitigni/Italia/moscato) o [Moscatello](/vitigni/moscatello) (Italia), Moschato o Moschoudia (Grecia), Muskat (Germania), Muskateller (Germania), Muskatoly o Muskotály (Ungheria)
+Questi sono fondamentalmente traduzioni di Muscat, piuttosto che sinonimi, poiché il nome Muscat è usato per molteplici varietà diverse, come spiegato di seguito: Meski (Tunisia), Misket (Bulgaria), Moscatel (Spagna e Portogallo), [Moscato](/vitigni/Italia/moscato) o [Moscatello](/vitigni/Italia/moscatello) (Italia), Moschato o Moschoudia (Grecia), Muskat (Germania), Muskateller (Germania), Muskatoly o Muskotály (Ungheria)
 
 ## Origini e parentele
-Il nome Muscat, o Muscat Something, in varie lingue, è dato a più di 200 varietà distinte e spesso non correlate, a bacca bianca, rosata o nera, coltivate in molte regioni vinicole diverse. Queste varietà sono usate come uva da tavola e/o da vino e tutte hanno in comune un sapore di moscato più o meno caratteristico. Tuttavia, questo sapore può apparire per mutazione anche in altre varietà (per esempio Chasselas Musqué (vedi [Chasselas](/vitigni/chasselas)), [Gewürztraminer](/vitigni/gewurztraminer), ecc.) quindi non è necessariamente una caratteristica distintiva per le varietà con Muscat nel loro nome.
+Il nome Muscat, o Muscat Something, in varie lingue, è dato a più di 200 varietà distinte e spesso non correlate, a bacca bianca, rosata o nera, coltivate in molte regioni vinicole diverse. Queste varietà sono usate come uva da tavola e/o da vino e tutte hanno in comune un sapore di moscato più o meno caratteristico. Tuttavia, questo sapore può apparire per mutazione anche in altre varietà (per esempio Chasselas Musqué (vedi [Chasselas](/vitigni/chasselas)), [Gewürztraminer](/vitigni/Germania/gewurztraminer), ecc.) quindi non è necessariamente una caratteristica distintiva per le varietà con Muscat nel loro nome.
 
 Il nome Muscat deriva molto probabilmente dall'aroma muschiato prodotto da una ghiandola del cervo muschiato maschio dell'Asia meridionale che veniva usato nel quinto secolo d.C. per produrre un profumo raro. La parola persiana muchk divenne moskos in greco, muscus in latino, musc in francese e musk in inglese.
 

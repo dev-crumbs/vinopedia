@@ -38,7 +38,7 @@ Il nome "Piedirosso" deriva dal tipico colore rosso dei gambi durante il periodo
 Dal censimento del 2000 risultano 2500 acri totali in Italia.
 
 ## Caratteristiche enologiche
-Spesso utilizzato in blend con l'[Aglianico](/vitigni/aglianico), a cui aggiunge sentori aromatici e freschezza, oppure con il [Sciascinoso](/vitigni/sciascinoso)
+Spesso utilizzato in blend con l'[Aglianico](/vitigni/Italia/aglianico), a cui aggiunge sentori aromatici e freschezza, oppure con il [Sciascinoso](/vitigni/Italia/sciascinoso)
 
 
 ## Denominazioni

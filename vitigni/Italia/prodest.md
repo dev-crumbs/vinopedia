@@ -16,10 +16,10 @@ Nera
 Incrocio Cosmo 109
 
 ## Origini e parentele
-Prodest è un incrocio di [Merlot](/vitigni/merlot) e [Barbera](/vitigni/barbera) ottenuto negli anni '60 da Italo Cosmo presso il centro di ricerca di Conegliano in Veneto, Italia settentrionale, con lo scopo di aumentare l'acidità del Merlot. È un fratello di [Nigra](/vitigni/nigra).
+Prodest è un incrocio di [Merlot](/vitigni/Francia/merlot) e [Barbera](/vitigni/Italia/barbera) ottenuto negli anni '60 da Italo Cosmo presso il centro di ricerca di Conegliano in Veneto, Italia settentrionale, con lo scopo di aumentare l'acidità del Merlot. È un fratello di [Nigra](/vitigni/Italia/nigra).
 
 ## Caratteristiche viticole
 - Offre una certa resistenza alle principali malattie fungine. Vigoroso, a media maturazione.
 
 ## Diffusione geografica
-Alcuni ettari sono coltivati intorno a Conegliano e Pieve di Soligo nella provincia di Treviso in Veneto, Italia, dove è stato proposto come sostituto del [Merlot](/vitigni/merlot). Il censimento agricolo italiano del 2000 registra solo 14 ha (35 acri). I vini tendono ad essere erbacei e leggermente fruttati, corposi, tannici e con una buona capacità d'invecchiamento ma è improbabile che il suo nome prenda piede nei mercati di lingua inglese.
+Alcuni ettari sono coltivati intorno a Conegliano e Pieve di Soligo nella provincia di Treviso in Veneto, Italia, dove è stato proposto come sostituto del [Merlot](/vitigni/Francia/merlot). Il censimento agricolo italiano del 2000 registra solo 14 ha (35 acri). I vini tendono ad essere erbacei e leggermente fruttati, corposi, tannici e con una buona capacità d'invecchiamento ma è improbabile che il suo nome prenda piede nei mercati di lingua inglese.

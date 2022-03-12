@@ -20,11 +20,11 @@ Greco di Velletri, Trebbiano dei Castelli (Castelli Romani), Trebbiano di Spagna
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Greco](/vitigni/Italia/greco) (Campania), [Rossetto](/vitigni/rossetto) (Lazio), [Trebbiano Modenese](/vitigni/Italia/trebbiano-modenese)
+[Greco](/vitigni/Italia/greco) (Campania), [Rossetto](/vitigni/Italia/rossetto) (Lazio), [Trebbiano Modenese](/vitigni/Italia/trebbiano-modenese)
 
 
 ## Origini e parentele
-Il Trebbiano Giallo fu descritto per la prima volta da Acerbi (1825) e fu poi identificato con il Trebbiano di Spagna, una varietà coltivata nella provincia di Modena, dove viene usato per produrre un vino base per l'aceto balsamico. È stato spesso - erroneamente - suggerito che ci sia una somiglianza tra [Rossetto](/vitigni/rossetto) e Trebbiano Giallo.
+Il Trebbiano Giallo fu descritto per la prima volta da Acerbi (1825) e fu poi identificato con il Trebbiano di Spagna, una varietà coltivata nella provincia di Modena, dove viene usato per produrre un vino base per l'aceto balsamico. È stato spesso - erroneamente - suggerito che ci sia una somiglianza tra [Rossetto](/vitigni/Italia/rossetto) e Trebbiano Giallo.
 
 ## Caratteristiche viticole
 

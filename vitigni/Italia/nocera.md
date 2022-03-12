@@ -19,7 +19,7 @@ Nera
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Cot](/vitigni/cot), [Gamay noir](/vitigni/gamay-noir)
+[Cot](/vitigni/Francia/cot), [Gamay noir](/vitigni/Francia/gamay-noir)
 
 ## Origini e parentele
 Nocera è una varietà antica, presumibilmente proveniente dalla provincia di Messina in Sicilia e introdotta in Calabria già nel 1726, anche se non si sa se fosse la vera Nocera o [Magliocco Dolce], data la frequente confusione tra le due (Schneider, Raimondi, De Santis e Cavallo 2008).
@@ -35,4 +35,4 @@ Nocera viene talvolta identificata con Mamertinum e Zancle, due vini menzionati 
 ## Diffusione geografica
 In Sicilia, Italia, è consigliato nelle province di Siracusa e Messina, e in Calabria in tutte le province tranne Cosenza. Era ampiamente coltivato nella provincia di Messina nel XIX secolo, soprattutto nella zona di Milazzo, dove ancora oggi prosperano vecchie viti. La sua coltivazione iniziò a diminuire dopo la Seconda Guerra Mondiale e oggi le piantagioni sono molto limitate - 30 ha (74 acri) in Sicilia e nell'Italia meridionale nel 2000, secondo il censimento agricolo.
 
-In Sicilia, il Nocera gioca una parte minore negli assemblaggi per le DOC Faro e Mamertino di Milazzo, mescolato con [Nerello Mascalese](/vitigni/nerello-mascalese) e [Nerello Cappuccio](/vitigni/nerello-cappuccio) nella prima e con [Nero D'Avola](/vitigni/nero-d-avola) nella seconda. In Calabria, il Nocera viene coltivato principalmente intorno ai comuni di Longobardi e Amantea, e può contribuire all'assemblaggio nelle DOC di Bivongi (fino al 30%, con [Greco Nero](/vitigni/greco-nero) e/o Nero d'Avola, ecc.) e Sant'Anna di Isola Capo Rizzuto (40-60% con [Gaglioppo](/vitigni/gaglioppo), Nerello Mascalese, ecc.).
+In Sicilia, il Nocera gioca una parte minore negli assemblaggi per le DOC Faro e Mamertino di Milazzo, mescolato con [Nerello Mascalese](/vitigni/Italia/nerello-mascalese) e [Nerello Cappuccio](/vitigni/Italia/nerello-cappuccio) nella prima e con [Nero D'Avola](/vitigni/Italia/nero-d-avola) nella seconda. In Calabria, il Nocera viene coltivato principalmente intorno ai comuni di Longobardi e Amantea, e può contribuire all'assemblaggio nelle DOC di Bivongi (fino al 30%, con [Greco Nero](/vitigni/Italia/greco-nero) e/o Nero d'Avola, ecc.) e Sant'Anna di Isola Capo Rizzuto (40-60% con [Gaglioppo](/vitigni/Italia/gaglioppo), Nerello Mascalese, ecc.).

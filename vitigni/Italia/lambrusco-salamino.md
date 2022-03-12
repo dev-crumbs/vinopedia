@@ -28,4 +28,4 @@ Il Lambrusco Salamino è coltivato nelle province di Modena e Reggio Emilia (in 
 
 ## Caratteristiche enologiche
 
-Oltre ad essere il principale costituente del Lambrusco Salamino di Santa Croce DOC (minimo 90% miscelato con fino al 10% di [Ancelotta](/vitigni/ancelotta) e della versione Lambrusco Salamino del Reggiano DOC (minimo 85%), il Lambrusco Salamino gioca un ruolo importante nel Lambrusco di Sorbara DOC e in diverse altre DOC come Lambrusco Mantovano, Colli di Scandiano e di Canossa e Reggiano. I vini possono essere secchi o dolci, intensamente colorati con aromi fruttati.
+Oltre ad essere il principale costituente del Lambrusco Salamino di Santa Croce DOC (minimo 90% miscelato con fino al 10% di [Ancelotta](/vitigni/Italia/ancelotta) e della versione Lambrusco Salamino del Reggiano DOC (minimo 85%), il Lambrusco Salamino gioca un ruolo importante nel Lambrusco di Sorbara DOC e in diverse altre DOC come Lambrusco Mantovano, Colli di Scandiano e di Canossa e Reggiano. I vini possono essere secchi o dolci, intensamente colorati con aromi fruttati.

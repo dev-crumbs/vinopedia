@@ -19,7 +19,7 @@ Auvernat Blanc (Orléanais in northern France), Beli Pinot (Slovenia), Burgunder
 ## Omonimi
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
-[Auxerrois](/vitigni/auxerrois), [Chardonnay](/vitigni/Francia/chardonnay) (Burgundy), [Knipperlé](/vitigni/knipperle) [Melon](/vitigni/melon), [Pignoletto](/vitigni/pignoletto), [Savagnin Blanc](/vitigni/savagnin-blanc) (called Clevner or Klävner in Alsace in France and in Baden-Württemberg in Germany)
+[Auxerrois](/vitigni/auxerrois), [Chardonnay](/vitigni/Francia/chardonnay) (Burgundy), [Knipperlé](/vitigni/knipperle) [Melon](/vitigni/melon), [Pignoletto](/vitigni/Italia/pignoletto), [Savagnin Blanc](/vitigni/Francia/savagnin-blanc) (called Clevner or Klävner in Alsace in France and in Baden-Württemberg in Germany)
 
 
 
@@ -60,7 +60,7 @@ La varietà è probabilmente più rispettata in Germania, dove c'erano 3.731 ha 
 
 ### Nel resto d'Europa
 
-Come Weissburgunder, la varietà fa la maggior parte dei suoi vini più ricchi in Austria, nel Burgenland, dove soccombe facilmente alla muffa nobile ed è tradizionalmente mescolata con il Welschriesling ([Graševina](/vitigni/grasevina)), piuttosto croccante, per produrre Trockenbeerenauslesen sontuosi, anche se abbastanza precoci. Prieler e Willi Opitz fanno anche versioni secche con una precisione ammirevole. Come vitigno bianco secco, il Weissburgunder è associato a un profumo di mandorla, un alcol medio-alto e una capacità di invecchiare. Viene coltivato in tutto il paese, con un totale di 1.995 ettari piantati nel 2010, specialmente nel Niederösterreich (Bassa Austria) e nella Steiermark (Stiria).
+Come Weissburgunder, la varietà fa la maggior parte dei suoi vini più ricchi in Austria, nel Burgenland, dove soccombe facilmente alla muffa nobile ed è tradizionalmente mescolata con il Welschriesling ([Graševina](/vitigni/Croazia/grasevina)), piuttosto croccante, per produrre Trockenbeerenauslesen sontuosi, anche se abbastanza precoci. Prieler e Willi Opitz fanno anche versioni secche con una precisione ammirevole. Come vitigno bianco secco, il Weissburgunder è associato a un profumo di mandorla, un alcol medio-alto e una capacità di invecchiare. Viene coltivato in tutto il paese, con un totale di 1.995 ettari piantati nel 2010, specialmente nel Niederösterreich (Bassa Austria) e nella Steiermark (Stiria).
 
 La Svizzera coltiva solo 105 ha (259 acri) di Pinot Bianco, soprattutto nel Vallese, Vaud e Grigioni, ma la Weingut Bad Osterfingen a Sciaffusa fa una notevole eccezione.
 
