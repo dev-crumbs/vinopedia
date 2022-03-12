@@ -14,16 +14,16 @@ dateCreated: 2021-09-06T09:40:56.270Z
 Bianca
 
 ## Sinonimi
-Alvino Verde, [Lagorthi](/vitigni/bacca-bianca/lagorthi) (Grecia), Verdera, Verdicchio Femmina, Verdisco Bianco, Verdone, Vino Verde
+Alvino Verde, [Lagorthi](/vitigni/lagorthi) (Grecia), Verdera, Verdicchio Femmina, Verdisco Bianco, Verdone, Vino Verde
 
 ## Omonimi
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Alvarinho](/vitigni/bacca-bianca/alvarinho), [Verdea](/vitigni/bacca-bianca/verdea), [Verdicchio bianco](/vitigni/Italia/verdicchio-bianco)
+[Alvarinho](/vitigni/alvarinho), [Verdea](/vitigni/verdea), [Verdicchio bianco](/vitigni/Italia/verdicchio-bianco)
 
 ## Origini e parentele
-La Verdeca è una varietà tradizionale della Puglia, in Italia meridionale. Il profilo del DNA ha stabilito che la [Plavina](/vitigni/bacca-bianca/plavina), ampiamente piantata in Croazia, è un incrocio tra Verdeca e [Primitivo](/vitigni/Italia/primitivo) (Lacombe et al. 2007). Questa parentela suggerirebbe che Verdeca potrebbe avere origine in Croazia, dove però non esiste menzione a livello storico. L'analisi genetica ha anche dimostrato, sorprendentemente, che la Verdeca è identico al Lagorthi (Vouillamoz), una varietà greca di Kalávrita nelle montagne Aigiáleia nel Pelopónnisos, dove viene ancora coltivata in misura molto limitata, così come nelle isole Ionie. Quindi è anche possibile che il Verdeca sia stato portato dalla Grecia in Puglia.
+La Verdeca è una varietà tradizionale della Puglia, in Italia meridionale. Il profilo del DNA ha stabilito che la [Plavina](/vitigni/plavina), ampiamente piantata in Croazia, è un incrocio tra Verdeca e [Primitivo](/vitigni/Italia/primitivo) (Lacombe et al. 2007). Questa parentela suggerirebbe che Verdeca potrebbe avere origine in Croazia, dove però non esiste menzione a livello storico. L'analisi genetica ha anche dimostrato, sorprendentemente, che la Verdeca è identico al Lagorthi (Vouillamoz), una varietà greca di Kalávrita nelle montagne Aigiáleia nel Pelopónnisos, dove viene ancora coltivata in misura molto limitata, così come nelle isole Ionie. Quindi è anche possibile che il Verdeca sia stato portato dalla Grecia in Puglia.
 
 ## Caratteristiche viticole
 

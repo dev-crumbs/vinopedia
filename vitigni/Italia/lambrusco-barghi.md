@@ -19,14 +19,14 @@ Lambrusco Bardi, Lambrusco Corbelli, Lambrusco di Rivalta
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Marzemino](/vitigni/bacca-nera/marzemino)
+[Marzemino](/vitigni/marzemino)
 
 ## Origini e parentele
 Il Lambrusco Barghi proviene probabilmente dalla provincia di Reggio Emilia, dove è chiamato anche Lambrusco Corbelli o Lambrusco di Rivalta perché fino agli anni '60 era ampiamente coltivato nelle proprietà Castelnuovo di Sotto e Rivalta del Conte Corbelli.
 
 ### Altre ipotesi
 
-È stata suggerita un'origine toscana. Alcuni hanno considerato il Lambrusco Barghi identico, o strettamente imparentato, con il [Marzemino](/vitigni/bacca-nera/marzemino) ma il profilo del DNA ha smentito questa teoria (Boccacci et al. 2005).
+È stata suggerita un'origine toscana. Alcuni hanno considerato il Lambrusco Barghi identico, o strettamente imparentato, con il [Marzemino](/vitigni/marzemino) ma il profilo del DNA ha smentito questa teoria (Boccacci et al. 2005).
 
 ## Caratteristiche viticole
 - Alto rendimento 

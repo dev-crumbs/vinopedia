@@ -20,12 +20,12 @@ Ada Karasi
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Çalkarasi](/vitigni/bacca-nera/calkarasi) (Denizli), [Horozkarasi](/vitigni/bacca-nera/horozkarasi) (Kilis), [Kalecik Karasi](/vitigni/bacca-nera/kalecik-karasi) (Ankara), [Papazkarasi](/vitigni/bacca-nera/papazkarasi) (Avşa)
+[Çalkarasi](/vitigni/calkarasi) (Denizli), [Horozkarasi](/vitigni/horozkarasi) (Kilis), [Kalecik Karasi](/vitigni/kalecik-karasi) (Ankara), [Papazkarasi](/vitigni/papazkarasi) (Avşa)
 
 ## Origini e parentele
 Adakarası, letteralmente 'nero delle isole', molto probabilmente ha origine dall'isola turca di Avşa nel Mar di Marmara.
 
-Sebbene abbiano aree di coltivazione ben distinte, Adakarası, [Çalkarasi](/vitigni/bacca-nera/calkarasi), [Horozkarasi](/vitigni/bacca-nera/horozkarasi), [Kalecik Karasi](/vitigni/bacca-nera/kalecik-karasi) e [Papazkarasi](/vitigni/bacca-nera/papazkarasi) sono spesso ritenute un'unica varietà. Tuttavia, ad oggi non esistono prove ampelografiche convincenti e l'analisi del DNA ha dimostrato che Adakarası e Horozkarası, almeno, sono distinti (Vouillamoz).
+Sebbene abbiano aree di coltivazione ben distinte, Adakarası, [Çalkarasi](/vitigni/calkarasi), [Horozkarasi](/vitigni/horozkarasi), [Kalecik Karasi](/vitigni/kalecik-karasi) e [Papazkarasi](/vitigni/papazkarasi) sono spesso ritenute un'unica varietà. Tuttavia, ad oggi non esistono prove ampelografiche convincenti e l'analisi del DNA ha dimostrato che Adakarası e Horozkarası, almeno, sono distinti (Vouillamoz).
 
 
 ## Caratteristiche viticole

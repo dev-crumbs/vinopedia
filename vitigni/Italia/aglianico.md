@@ -20,7 +20,7 @@ Aglianco di Puglia, Aglianica, Aglianichella, Aglianichello (Napoli in Campania)
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Aglianico di Galluccio](/vitigni/Italia/aglianico-di-galluccio), [Aglianicone](/vitigni/Italia/aglianicone), [Aleatico](/vitigni/bacca-nera/aleatico), [Ciliegiolo](/vitigni/bacca-nera/ciliegiolo), [Pignolo](/vitigni/Italia/pignolo), [Tronto](/vitigni/bacca-nera/tronto)
+[Aglianico di Galluccio](/vitigni/Italia/aglianico-di-galluccio), [Aglianicone](/vitigni/Italia/aglianicone), [Aleatico](/vitigni/aleatico), [Ciliegiolo](/vitigni/ciliegiolo), [Pignolo](/vitigni/Italia/pignolo), [Tronto](/vitigni/tronto)
 
 ## Origini e parentele
 Sulla base di una discutibile etimologia greca, molti autori hanno suggerito che l'Aglianico fu introdotto dai Greci quando colonizzarono la costa tirrenica (settimo e sesto secolo a.C.).

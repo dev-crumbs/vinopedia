@@ -20,11 +20,11 @@ Colore, Colorino
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Abrusco](/vitigni/bacca-nera/abrusco), [Canaiolo Nero](/vitigni/bacca-nera/canaiolo-nero), [Colorino Americano](/vitigni/bacca-nera/colorino-americano), [Colorino di Lucca](/vitigni/bacca-nera/colorino-di-lucca), [Colorino di Pisa](/vitigni/bacca-nera/colorino-di-pisa)
+[Abrusco](/vitigni/abrusco), [Canaiolo Nero](/vitigni/canaiolo-nero), [Colorino Americano](/vitigni/colorino-americano), [Colorino di Lucca](/vitigni/colorino-di-lucca), [Colorino di Pisa](/vitigni/colorino-di-pisa)
 
 ## Origini e parentela
 
-Il nome Colorino deriva dal colore blu scuro delle bacche ed è stato dato a varietà come [Abrusco](/vitigni/bacca-nera/abrusco), [Ancelotta](/vitigni/bacca-nera/ancelotta) e [Canaiolo nero](/vitigni/bacca-nera/canaiolo-nero), tutte con profili DNA distinti (Vignani et al. 2008).
+Il nome Colorino deriva dal colore blu scuro delle bacche ed è stato dato a varietà come [Abrusco](/vitigni/abrusco), [Ancelotta](/vitigni/ancelotta) e [Canaiolo nero](/vitigni/canaiolo-nero), tutte con profili DNA distinti (Vignani et al. 2008).
 
 In Toscana vengono tradizionalmente distinti quattro tipi di Colorino: Colorino Americano, Colorino del Valdarno, Colorino di Lucca e Colorino di Pisa. Analisi ampelografiche e genetiche hanno stabilito che i quattro tipi corrispondono a quattro varietà distinte, con il Colorino Americano che è il più distante geneticamente (Sensi et al. 1996; Vignani et al. 2008). Il Colorino del Valdarno è il più diffuso. Inoltre, non si può escludere una relazione genitore-figlio tra Colorino di Lucca e Colorino di Pisa (Vouillamoz).
 

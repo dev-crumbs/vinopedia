@@ -20,12 +20,12 @@ Brynšt (Repubblica Ceca), Edler Weiss o Weissedler (Alsazia), Formentin (Ungher
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Albarín Blanco](/vitigni/bacca-bianca/albarin-blanco) (Asturie), [Alvarinho](/vitigni/bacca-bianca/alvarinho)  (Come Albariño in Rías Baixas in Galizia, Spagna Nord-Occidentale, Così Come In Australia), [Chardonnay](/vitigni/Francia/chardonnay) (Possibile Sinonimo Di Clevner In Alsazia), [Gringet](/vitigni/bacca-bianca/gringet) (Principalmente Ad Ayze Nell'Alta Savoia), [Melon](/vitigni/bacca-bianca/melon) (Chiamato Savagnin Jaune A Lons-Le-Saunier Nel Giura), [Pinot Blanc](/vitigni/bacca-bianca/pinot-blanc) (Ancora Chiamato Clevner O Klävner In Alsazia E Nel Baden-Württemberg Tedesco), [Sauvignon Blanc](/vitigni/Francia/sauvignon-blanc)
+[Albarín Blanco](/vitigni/albarin-blanco) (Asturie), [Alvarinho](/vitigni/alvarinho)  (Come Albariño in Rías Baixas in Galizia, Spagna Nord-Occidentale, Così Come In Australia), [Chardonnay](/vitigni/Francia/chardonnay) (Possibile Sinonimo Di Clevner In Alsazia), [Gringet](/vitigni/gringet) (Principalmente Ad Ayze Nell'Alta Savoia), [Melon](/vitigni/melon) (Chiamato Savagnin Jaune A Lons-Le-Saunier Nel Giura), [Pinot Blanc](/vitigni/pinot-blanc) (Ancora Chiamato Clevner O Klävner In Alsazia E Nel Baden-Württemberg Tedesco), [Sauvignon Blanc](/vitigni/Francia/sauvignon-blanc)
 
 
 ## Origini e parentele
 
-Il Savagnin blanc è una delle mutazione del [Savagnin](/vitigni/bacca-bianca/savagnin)
+Il Savagnin blanc è una delle mutazione del [Savagnin](/vitigni/savagnin)
 
 ### Savagnin Blanc In Francia 
 
@@ -39,11 +39,11 @@ Krämer (2006) ritiene che il Savagnin sia originario della Germania sud-occiden
 #### Sinonimi Pre-Savagnin Blanc 
 Prima che diventasse noto come Savagnin Blanc, questa varietà era principalmente conosciuta sotto diversi vecchi sinonimi, ma tutti erano fonte di confusione con altri vitigni ed è spesso impossibile determinare quali varietà erano designate nei vecchi documenti:
 
-- Fromenteau (o Fourmenteau o Fourmentans) nel Jura nel nord della Francia, anche un sinonimo di [Pinot Gris](/vitigni/bacca-bianca/pinot-gris) in Champagne-Ardenne, Lorena e Île-de-France e per [Roussanne](/vitigni/bacca-bianca/roussanne) in Isère (il nome si riferisce al colore della bacca, che è simile al grano, froment in francese)
+- Fromenteau (o Fourmenteau o Fourmentans) nel Jura nel nord della Francia, anche un sinonimo di [Pinot Gris](/vitigni/pinot-gris) in Champagne-Ardenne, Lorena e Île-de-France e per [Roussanne](/vitigni/roussanne) in Isère (il nome si riferisce al colore della bacca, che è simile al grano, froment in francese)
 - Gentil Blanc o Blanc Gentil in Alsazia, anche sinonimo di Chardonnay e Pinot Blanc (Galet 1990)
-- Plant d'Arbois, anche un sinonimo di Poulsard Blanc (vedi POULSARD), mentre Arbois era anche un nome usato per [Menu Pineau](/vitigni/bacca-bianca/menu-pineau)
+- Plant d'Arbois, anche un sinonimo di Poulsard Blanc (vedi POULSARD), mentre Arbois era anche un nome usato per [Menu Pineau](/vitigni/menu-pineau)
 - Klevner in Alsazia, anche un sinonimo di Pinot Blanc
-- Edeltraube (letteralmente "uva nobile"), ma Edelwein era anche un sinonimo di [Chasselas](/vitigni/bacca-bianca/chasselas).
+- Edeltraube (letteralmente "uva nobile"), ma Edelwein era anche un sinonimo di [Chasselas](/vitigni/chasselas).
 
 #### Traminer Nel Südtirol/Trentino-Alto Adige 
 La prima occorrenza del nome Traminer per un vino fu 'vini de Traminne' ('vini di Tramin/Termeno') in un documento sui prezzi del vino emesso il 17 settembre 1242 a Bolzano nel Südtirol/Trentino-Alto Adige nel nord Italia (Krämer 2006). I vini di 'Termeno' furono menzionati in molti documenti successivi, per esempio 'wein guets Traminner' ('buon vino di Termeno') nel Tirolo nel 1362, 'Termeno' al Consiglio di Costanza nel 1414, 'Traminer' a Strasburgo nel 1450, 'Tramynner' sempre a Strasburgo nel 1514, 'Traminer' a Basilea nel 1532, 'Traminer Wein' in Tirolo nel 1558 (Sprandel 1998; Krämer 2006). Tuttavia, c'era spesso confusione tra i vini del villaggio di Tramin/Termeno nel Südtirol e il vitigno che era chiamato Traminer in Germania - un tentativo deliberato di sfruttare la fama che i vini di Tramin avevano a quel tempo. Infatti, la varietà Savagnin non esisteva nel Südtirol prima del XIX secolo, e i vini Traminer erano fatti da diverse varietà distinte ([Muscat Blanc À Petits Grains] e Weisser Lagrein tra le più antiche), ma certamente non dal Savagnin Blanc (Krämer 2006).

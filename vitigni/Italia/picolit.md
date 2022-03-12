@@ -20,11 +20,11 @@ Pikolit
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-Balafánt (Ungheria), [Kéknyelű](/vitigni/bacca-bianca/keknyelu) (Ungheria)
+Balafánt (Ungheria), [Kéknyelű](/vitigni/keknyelu) (Ungheria)
 
 ## Origini e Parentele
 
-La prima menzione di Picolit appare nel 1682 in una lista di vini per la festa di nozze di Alvise Contarini, il Doge di Venezia. I vini Picolit divennero famosi in tutta Europa nel XVIII secolo quando il Conte Fabio Asquini iniziò ad esportare alle corti di Francia, Olanda, Austria, Inghilterra e Russia le poche migliaia di bottiglie prodotte dai suoi vigneti a Fagagna vicino a Udine. Fu un trionfo di marketing, con i vini imbottigliati in vetro di Murano fatto a mano e venduti ad un prezzo molto più alto di qualsiasi altro vino friulano a quel tempo. A quanto pare piaceva anche al Papa. Asquini lasciò anche note dettagliate su come veniva prodotto il vino, anche se nessuno raccolse il testimone fino al ventesimo secolo (vedi sotto). Questa fama ha spinto alcuni a identificare le varietà ungheresi Balafánt, oggi quasi estinte, e [Kéknyelű](/vitigni/bacca-bianca/keknyelu) con Picolit, ma ciò può essere respinto dal confronto dei loro profili DNA (Jahnke et al. 2007; Varga et al. 2008; Galbács et al. 2009; Crespan et al. 2011).
+La prima menzione di Picolit appare nel 1682 in una lista di vini per la festa di nozze di Alvise Contarini, il Doge di Venezia. I vini Picolit divennero famosi in tutta Europa nel XVIII secolo quando il Conte Fabio Asquini iniziò ad esportare alle corti di Francia, Olanda, Austria, Inghilterra e Russia le poche migliaia di bottiglie prodotte dai suoi vigneti a Fagagna vicino a Udine. Fu un trionfo di marketing, con i vini imbottigliati in vetro di Murano fatto a mano e venduti ad un prezzo molto più alto di qualsiasi altro vino friulano a quel tempo. A quanto pare piaceva anche al Papa. Asquini lasciò anche note dettagliate su come veniva prodotto il vino, anche se nessuno raccolse il testimone fino al ventesimo secolo (vedi sotto). Questa fama ha spinto alcuni a identificare le varietà ungheresi Balafánt, oggi quasi estinte, e [Kéknyelű](/vitigni/keknyelu) con Picolit, ma ciò può essere respinto dal confronto dei loro profili DNA (Jahnke et al. 2007; Varga et al. 2008; Galbács et al. 2009; Crespan et al. 2011).
 
 Il nome Picolit potrebbe derivare dalle dimensioni ridotte degli ammassi (piccolo è italiano per 'piccolo'), o dal dialetto locale pecol, che significa 'cima di una collina', il posto migliore per il Picolit a raccolta tardiva.
 
@@ -37,7 +37,7 @@ Come molte varietà antiche, si dice che il Picolit sia stato coltivato fin dall
 ## Caratteristiche Viticole
 
 - Vigoroso ma a bassa resa perché i fiori di Picolit spesso producono polline sterile, rendendo difficile la coltivazione e producendo grappoli sciolti con pochi acini 
-- Deve essere piantato insieme ad altre varietà come [Verduzzo Friulano](/vitigni/bacca-bianca/verduzzo-friulano) per migliorare l'allegagione delle bacche 
+- Deve essere piantato insieme ad altre varietà come [Verduzzo Friulano](/vitigni/verduzzo-friulano) per migliorare l'allegagione delle bacche 
 - Anche se matura alla fine di settembre o all'inizio di ottobre, di solito si raccoglie molto più tardi
 
 ## Diffusione geografica

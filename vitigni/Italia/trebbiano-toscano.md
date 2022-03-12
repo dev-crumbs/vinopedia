@@ -14,13 +14,13 @@ dateCreated: 2021-09-06T09:40:48.251Z
 Bianca
 
 ## Sinonimi
-Armeno (Francia), Bianca di Poviglio (Reggio Emilia), Douradinha (Vinho Verde in Portogallo), Morterille Blanche (Francia), Procanico (Umbria), Regrat (Germania), Rogoznička (Croazia), Rossola Brandisca (Corsica in Francia), Roussan (Francia), Saint-Émilion (Charente in Francia), St Emilion (USA), Šijaka (Croazia), Tália o Thalia (Portogallo), [Ugni Blanc](/vitigni/bacca-bianca/ugni-blanc) (Francia, Bulgaria, Croazia, Uruguay, ecc. )
+Armeno (Francia), Bianca di Poviglio (Reggio Emilia), Douradinha (Vinho Verde in Portogallo), Morterille Blanche (Francia), Procanico (Umbria), Regrat (Germania), Rogoznička (Croazia), Rossola Brandisca (Corsica in Francia), Roussan (Francia), Saint-Émilion (Charente in Francia), St Emilion (USA), Šijaka (Croazia), Tália o Thalia (Portogallo), [Ugni Blanc](/vitigni/ugni-blanc) (Francia, Bulgaria, Croazia, Uruguay, ecc. )
 
 ## Omonimi
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Albanella](/vitigni/bacca-bianca/albanella) (Marche), [Biancame](/vitigni/bacca-bianca/biancame) (Marche), Blanc Aube (Gironda in Francia, non più coltivato), [Coda Di Volpe Bianca](/vitigni/Italia/coda-di-volpe-bianca) (Campania), [Damaschino](/vitigni/bacca-bianca/damaschino) (Australia), [Erbaluce](/vitigni/bacca-bianca/erbaluce) (Piemonte), [Fernão Pires] (Portogallo), [Maceratino](/vitigni/bacca-bianca/maceratino) (Marche), [Passerina] (costa Adriatica), [Sémillon](/vitigni/bacca-bianca/semillon), [Trbljan](/vitigni/bacca-bianca/trbljan) (Croazia), [Trebbiano Spoletino](/vitigni/Italia/trebbiano-spoletino) (Umbria)
+[Albanella](/vitigni/albanella) (Marche), [Biancame](/vitigni/biancame) (Marche), Blanc Aube (Gironda in Francia, non più coltivato), [Coda Di Volpe Bianca](/vitigni/Italia/coda-di-volpe-bianca) (Campania), [Damaschino](/vitigni/damaschino) (Australia), [Erbaluce](/vitigni/erbaluce) (Piemonte), [Fernão Pires] (Portogallo), [Maceratino](/vitigni/maceratino) (Marche), [Passerina] (costa Adriatica), [Sémillon](/vitigni/semillon), [Trbljan](/vitigni/trbljan) (Croazia), [Trebbiano Spoletino](/vitigni/Italia/trebbiano-spoletino) (Umbria)
 
 
 ## Origini e parentele
@@ -28,13 +28,13 @@ Come suggerisce il nome, il Trebbiano Toscano è conosciuto in Toscana, Italia c
 
 Si dice che il Trebbiano Toscano sia stato esportato in Francia nel XIV secolo durante il periodo in cui il papato risiedeva ad Avignone. In Francia gli fu dato il nome di Ugni Blanc, menzionato per la prima volta come 'uniers' a Pernes nel Vaucluse nel 1514 (Rézeau 1997). Infatti l'Ugni Blanc fu coltivato prima in Provenza, poi nel Languedoc e più tardi nella Charente e nella Charente-Maritime, dove trovò il suo posto preferito. Il nome Ugni in realtà deriva dal dialetto provenzale uni, che significa 'uva precoce', che a sua volta potrebbe derivare dal greco eugenia, che significa 'di origine nobile' (Rézeau 1997).
 
-Il profilo del DNA ha trovato un altro sinonimo insospettato di Trebbiano Toscano: Bianca di Poviglio, una varietà bianca minore di Poviglio nella provincia di Reggio Emilia in Emilia-Romagna (Boccacci et al. 2005). L'analisi del DNA ha anche dimostrato che ALIONZA potrebbe essere strettamente legato al Trebbiano Toscano (Filippetti, Silvestroni, Thomas e Intrieri 2001). Indagini più recenti hanno rivelato una probabile relazione genitore-figlio tra Trebbiano Toscano e l'uva di Soave [Garganega](/vitigni/Italia/garganega), un'altra varietà italiana molto antica (Di Vecchi Staraz, This et al. 2007; Crespan, Calò et al. 2008), che indica l'origine italiana del Trebbiano Toscano. Poiché Garganega ha anche rapporti di parentela con altre otto varietà ([Albana](/vitigni/Italia/albana), [Catarratto Bianco](/vitigni/bacca-bianca/catarratto-bianco), [Malvasia Bianca Di Candia](/vitigni/Italia/malvasia-bianca-di-candia), [Dorona Di Venezia](/vitigni/Italia/dorona-di-venezia), [Marzemina Bianca](/vitigni/bacca-bianca/marzemina-bianca), [Montonico Bianco](/vitigni/bacca-bianca/montonico-bianco), [Mostosa](/vitigni/bacca-bianca/mostosa) e [Susumaniello](/vitigni/bacca-nera/susumaniello), Trebbiano Toscano è o loro fratellastro o loro nonno (vedi Garganega per il diagramma del pedigree).
+Il profilo del DNA ha trovato un altro sinonimo insospettato di Trebbiano Toscano: Bianca di Poviglio, una varietà bianca minore di Poviglio nella provincia di Reggio Emilia in Emilia-Romagna (Boccacci et al. 2005). L'analisi del DNA ha anche dimostrato che ALIONZA potrebbe essere strettamente legato al Trebbiano Toscano (Filippetti, Silvestroni, Thomas e Intrieri 2001). Indagini più recenti hanno rivelato una probabile relazione genitore-figlio tra Trebbiano Toscano e l'uva di Soave [Garganega](/vitigni/Italia/garganega), un'altra varietà italiana molto antica (Di Vecchi Staraz, This et al. 2007; Crespan, Calò et al. 2008), che indica l'origine italiana del Trebbiano Toscano. Poiché Garganega ha anche rapporti di parentela con altre otto varietà ([Albana](/vitigni/Italia/albana), [Catarratto Bianco](/vitigni/catarratto-bianco), [Malvasia Bianca Di Candia](/vitigni/Italia/malvasia-bianca-di-candia), [Dorona Di Venezia](/vitigni/Italia/dorona-di-venezia), [Marzemina Bianca](/vitigni/marzemina-bianca), [Montonico Bianco](/vitigni/montonico-bianco), [Mostosa](/vitigni/mostosa) e [Susumaniello](/vitigni/susumaniello), Trebbiano Toscano è o loro fratellastro o loro nonno (vedi Garganega per il diagramma del pedigree).
 
-Un'altra relazione genitore-figlio, tra Trebbiano Toscano e [Passerina](/vitigni/bacca-bianca/passerina), coltivata sulla costa adriatica e con la quale il Trebbiano viene talvolta confuso, è stata a lungo sospettata ma non è ancora stata testata dal profilo del DNA.
+Un'altra relazione genitore-figlio, tra Trebbiano Toscano e [Passerina](/vitigni/passerina), coltivata sulla costa adriatica e con la quale il Trebbiano viene talvolta confuso, è stata a lungo sospettata ma non è ancora stata testata dal profilo del DNA.
 
-Sebbene Ugni Blanc sia talvolta conosciuto come Clairette Ronde nel Rodano, non è imparentato con [Clairette](/vitigni/bacca-bianca/clairette).
+Sebbene Ugni Blanc sia talvolta conosciuto come Clairette Ronde nel Rodano, non è imparentato con [Clairette](/vitigni/clairette).
 
-Il Trebbiano Toscano è stato usato per allevare [Chenel](/vitigni/bacca-bianca/chenel), [Folignan](/vitigni/bacca-bianca/folignan), [Fubiano](/vitigni/bacca-bianca/fubiano), [Manzoni Rosa](/vitigni/bacca-bianca/manzoni-rosa), [Nouvelle](/vitigni/bacca-bianca/nouvelle) e [Vidal](/vitigni/bacca-bianca/vidal).
+Il Trebbiano Toscano è stato usato per allevare [Chenel](/vitigni/chenel), [Folignan](/vitigni/folignan), [Fubiano](/vitigni/fubiano), [Manzoni Rosa](/vitigni/manzoni-rosa), [Nouvelle](/vitigni/nouvelle) e [Vidal](/vitigni/vidal).
 
 ## Caratteristiche viticole
 
@@ -45,7 +45,7 @@ Il Trebbiano Toscano è stato usato per allevare [Chenel](/vitigni/bacca-bianca/
 
 ## Diffusione geografica
 
-Il Trebbiano Toscano è ampiamente piantato in tutto il mondo e probabilmente produce più vino di qualsiasi altra varietà piantata (l'[Airén](/vitigni/bacca-bianca/airen) spagnolo copre molto più terreno ma ha rese molto più basse e viene usato sostanzialmente per il brandy). È di gran lunga il più diffuso dell'eterogeneo gruppo di varietà con Trebbiano nel nome e il secondo bianco più piantato in Italia dopo il [Catarratto Bianco](/vitigni/bacca-bianca/catarratto-bianco) ma è molto meno comune sulle etichette rispetto a varietà più interessanti. 
+Il Trebbiano Toscano è ampiamente piantato in tutto il mondo e probabilmente produce più vino di qualsiasi altra varietà piantata (l'[Airén](/vitigni/airen) spagnolo copre molto più terreno ma ha rese molto più basse e viene usato sostanzialmente per il brandy). È di gran lunga il più diffuso dell'eterogeneo gruppo di varietà con Trebbiano nel nome e il secondo bianco più piantato in Italia dopo il [Catarratto Bianco](/vitigni/catarratto-bianco) ma è molto meno comune sulle etichette rispetto a varietà più interessanti. 
 
 ### In Francia
 
@@ -58,7 +58,7 @@ Nel 2000 c'erano 42.456 ha (104.911 acri) di questo particolare Trebbiano comune
 
 ### In Spagna
 
-[Airén](/vitigni/bacca-bianca/airen) svolge le funzioni di Trebbiano in Spagna ma il Portogallo aveva 390 ha (964 acri) di Tália nel 2010. La maggior parte è piantata nel Tejo e il vino che ne risulta non è certo entusiasmante.
+[Airén](/vitigni/airen) svolge le funzioni di Trebbiano in Spagna ma il Portogallo aveva 390 ha (964 acri) di Tália nel 2010. La maggior parte è piantata nel Tejo e il vino che ne risulta non è certo entusiasmante.
 
 ### Nel resto d'Europa
 

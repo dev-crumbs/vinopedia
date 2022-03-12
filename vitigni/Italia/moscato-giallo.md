@@ -20,10 +20,10 @@ Fior d'Arancio (Padova), Goldenmuskateller o Goldmuskateller (Bolzano), Moscatel
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Muscat Blanc À Petits Grains](/vitigni/Francia/muscat-blanc-a-petit-grains) (Moscato Bianco in Sicilia), [Muscat Fleur D'Oranger](/vitigni/bacca-bianca/muscat-fleur-d-oranger) (Colli Euganei)
+[Muscat Blanc À Petits Grains](/vitigni/Francia/muscat-blanc-a-petit-grains) (Moscato Bianco in Sicilia), [Muscat Fleur D'Oranger](/vitigni/muscat-fleur-d-oranger) (Colli Euganei)
 
 ## Origini e parentele
-L'analisi di parentela del DNA ha rivelato che il Moscato Giallo ha una relazione di parentela con [Muscat Blanc À Petits Grains](/vitigni/Francia/muscat-blanc-a-petit-grains) (Moscato Bianco; Crespan e Milani 2001) ed è quindi un fratellastro o un nipote di almeno altre cinque varietà che hanno relazioni di parentela con Muscat Blanc à Petits Grains: [Aleatico](/vitigni/bacca-nera/aleatico) (Moscatello Nero), [Moscato Di Scanzo](/vitigni/Italia/moscato-di-scanzo), [Moscato Rosa](/vitigni/Italia/moscato-rosa) Del Trentino, [Moscato Di Alexandria](/vitigni/Italia/moscato-di-alessandria) e il non più coltivato [Muscat Rouge de Madère](/vitigni/bacca-nera/muscat-rouge-de-madere). È più probabile che le origini del Moscato Giallo siano nell'Italia settentrionale che nel Medio Oriente.
+L'analisi di parentela del DNA ha rivelato che il Moscato Giallo ha una relazione di parentela con [Muscat Blanc À Petits Grains](/vitigni/Francia/muscat-blanc-a-petit-grains) (Moscato Bianco; Crespan e Milani 2001) ed è quindi un fratellastro o un nipote di almeno altre cinque varietà che hanno relazioni di parentela con Muscat Blanc à Petits Grains: [Aleatico](/vitigni/aleatico) (Moscatello Nero), [Moscato Di Scanzo](/vitigni/Italia/moscato-di-scanzo), [Moscato Rosa](/vitigni/Italia/moscato-rosa) Del Trentino, [Moscato Di Alexandria](/vitigni/Italia/moscato-di-alessandria) e il non più coltivato [Muscat Rouge de Madère](/vitigni/muscat-rouge-de-madere). È più probabile che le origini del Moscato Giallo siano nell'Italia settentrionale che nel Medio Oriente.
 
 ### Altre Ipotesi
 

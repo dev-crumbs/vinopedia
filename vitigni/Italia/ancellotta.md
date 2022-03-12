@@ -20,7 +20,7 @@ Ancellotta di Massenzatico o Lancellotta
 
 Dall'Emilia-Romagna nell'Italia centro-settentrionale. Il suo nome potrebbe derivare dalla famiglia Lancellotti di Modena (XIV-XV secolo), responsabile della diffusione di questa varietà.
 
-Ancellotta è stata usata per allevare [Galotta](/vitigni/bacca-nera/galotta).
+Ancellotta è stata usata per allevare [Galotta](/vitigni/galotta).
 
 ## Caratteristiche Viticole
 

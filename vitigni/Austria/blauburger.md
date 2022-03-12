@@ -20,7 +20,7 @@ Nera
 Blauburgunder (nome tedesco per [Pinot Noir](/vitigni/Francia/pinot-noir))
 
 ## Origini e parentele
-Un incrocio di [Blauer Portugieser](/vitigni/Austria/blauer-portugieser) e [Blaufränkisch](/vitigni/Austria/blaufrankisch) allevato nel 1923 da Fritz Zweigelt nel centro di ricerca Klosterneuburg a ovest di Vienna, rendendo Blauburger un nipote di [Gouais Blanc](/vitigni/bacca-bianca/gouais-blanc). Fu usato per allevare [Ráthay](/vitigni/Austria/rathay).
+Un incrocio di [Blauer Portugieser](/vitigni/Austria/blauer-portugieser) e [Blaufränkisch](/vitigni/Austria/blaufrankisch) allevato nel 1923 da Fritz Zweigelt nel centro di ricerca Klosterneuburg a ovest di Vienna, rendendo Blauburger un nipote di [Gouais Blanc](/vitigni/gouais-blanc). Fu usato per allevare [Ráthay](/vitigni/Austria/rathay).
 
 ## Caratteristiche viticole
 - Maturazione da precoce a media

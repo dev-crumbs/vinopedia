@@ -9,4 +9,4 @@ dateCreated: 2021-08-09T18:13:37.861Z
 ---
 
 # Abrostine
-"Abrostine" è un sinonimo utilizzato per il vitigno [Abrusco](/vitigni/bacca-nera/abrusco)
+"Abrostine" è un sinonimo utilizzato per il vitigno [Abrusco](/vitigni/abrusco)

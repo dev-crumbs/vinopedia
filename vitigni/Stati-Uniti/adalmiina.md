@@ -21,12 +21,12 @@ Aldemina, ES 6-16-30
 Un ibrido tra Elmer Swenson 2-3-17 e Elmer Swenson 35 creato verso la metà degli anni '80 dal coltivatore Elmer Swenson a Osceola, Wisconsin, USA, in cui:
 
 - Elmer Swenson 2-3-17 è un ibrido tra Elmer Swenson 283 e Elmer Swenson 193
-- Elmer Swenson 283 è un ibrido tra Elmer Swenson 114 e [Seyval Blanc](/vitigni/bacca-bianca/seyval-blanc)
-- Elmer Swenson 193 è un ibrido tra Minnesota 78 e Seneca (vedere [Brianna](/vitigni/bacca-bianca/brianna) per il pedigree completo di Minnesota 78)
-- Seneca è un ibrido tra [Luglienga](/vitigni/bacca-bianca/luglienga) e Ontario (vedere [Cayuga White](/vitigni/bacca-bianca/cayuga-white) per il pedigree di Ontario)
+- Elmer Swenson 283 è un ibrido tra Elmer Swenson 114 e [Seyval Blanc](/vitigni/seyval-blanc)
+- Elmer Swenson 193 è un ibrido tra Minnesota 78 e Seneca (vedere [Brianna](/vitigni/brianna) per il pedigree completo di Minnesota 78)
+- Seneca è un ibrido tra [Luglienga](/vitigni/luglienga) e Ontario (vedere [Cayuga White](/vitigni/cayuga-white) per il pedigree di Ontario)
 - Elmer Swenson 35 è un tra ibrido Minnesota 78 e Dunkirk
-- Dunkirk è un ibrido tra Brighton e Jefferson (vedere [Brianna](/vitigni/bacca-bianca/brianna) per il pedigree di Brighton)
-- Jefferson è un ibrido tra [Concord](/vitigni/bacca-bianca/concord) e Iona (vedere [Moore's Diamond](/vitigni/bacca-bianca/moore-diamond) per il pedigree di Iona).
+- Dunkirk è un ibrido tra Brighton e Jefferson (vedere [Brianna](/vitigni/brianna) per il pedigree di Brighton)
+- Jefferson è un ibrido tra [Concord](/vitigni/concord) e Iona (vedere [Moore's Diamond](/vitigni/moore-diamond) per il pedigree di Iona).
 
 Adalmiina è quindi un ibrido complesso di Vitis riparia, Vitis labrusca, Vitis vinifera, Vitis lincecumii e Vitis rupestris. Nel 1997 la varietà fu inviata a Meeri Saario, un orticoltore allora all'Università di Helsinki, che la chiamò Adalmiina e iniziò a diffonderla insieme a diverse altre varietà Swenson.
 

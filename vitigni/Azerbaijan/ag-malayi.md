@@ -16,7 +16,7 @@ Bianca
 
 ## Origini E Parentela
 
-L'Ag Malayi è locale della Repubblica Autonoma di Nakhchivan, un'exclave dell'Azerbaijan che confina con Armenia, Iran e Turchia. Non sembra essere una mutazione di colore di [Areni](/vitigni/bacca-nera/areni), chiamata Malayi in questa regione.
+L'Ag Malayi è locale della Repubblica Autonoma di Nakhchivan, un'exclave dell'Azerbaijan che confina con Armenia, Iran e Turchia. Non sembra essere una mutazione di colore di [Areni](/vitigni/areni), chiamata Malayi in questa regione.
 
 ## Caratteristiche Viticole
 

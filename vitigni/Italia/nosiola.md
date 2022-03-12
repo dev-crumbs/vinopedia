@@ -20,12 +20,12 @@ Groppello Bianco, Nosellara, Nosiola Gentile, Nusiola, Spargelen (Alto Adige)
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Durella](/vitigni/bacca-bianca/durella)  (Veneto)
+[Durella](/vitigni/durella)  (Veneto)
 
 
 ## Origini e Parentele
 
-Insieme a [Groppello Di Revò](/vitigni/bacca-bianca/groppello-di-revo), Nosiola si dice tradizionalmente che sia una discendente della Raetica, l'uva da vino bianco più diffusa nell'Italia settentrionale in epoca romana. L'analisi di parentela del DNA ha stabilito che sia Groppello di Revò che Nosiola hanno una relazione genitore-figlia con [Rèze](/vitigni/bacca-bianca/reze), un'antica varietà del Vallese nelle Alpi svizzere, il cui nome deriva molto probabilmente da Raetica (Vouillamoz, Schneider e Grando 2007). Rèze fu menzionata per la prima volta nel 1313, mentre sia Nosiola che Groppello di Revò appaiono nel XIX secolo. È quindi logico considerare Rèze come un genitore di Nosiola e Groppello di Revò, il che spiega perché Nosiola è talvolta chiamata Groppello Bianco. Anche se ora si trova solo in Trentino nell'Italia settentrionale, un tempo veniva coltivato anche in Alto Adige con il nome di Spargelen, quindi entrambe le regioni potrebbero essere il suo luogo d'origine.
+Insieme a [Groppello Di Revò](/vitigni/groppello-di-revo), Nosiola si dice tradizionalmente che sia una discendente della Raetica, l'uva da vino bianco più diffusa nell'Italia settentrionale in epoca romana. L'analisi di parentela del DNA ha stabilito che sia Groppello di Revò che Nosiola hanno una relazione genitore-figlia con [Rèze](/vitigni/reze), un'antica varietà del Vallese nelle Alpi svizzere, il cui nome deriva molto probabilmente da Raetica (Vouillamoz, Schneider e Grando 2007). Rèze fu menzionata per la prima volta nel 1313, mentre sia Nosiola che Groppello di Revò appaiono nel XIX secolo. È quindi logico considerare Rèze come un genitore di Nosiola e Groppello di Revò, il che spiega perché Nosiola è talvolta chiamata Groppello Bianco. Anche se ora si trova solo in Trentino nell'Italia settentrionale, un tempo veniva coltivato anche in Alto Adige con il nome di Spargelen, quindi entrambe le regioni potrebbero essere il suo luogo d'origine.
 
 Il nome Nosiola deriva molto probabilmente dall'italiano nocciola, che significa 'nocciola', probabilmente riferendosi al sapore di nocciola tostata del vino o, più improbabilmente, dato che le bacche non diventano marroni, al colore delle bacche mature. Un'etimologia alternativa e molto meno convincente si basa sul dialetto locale ociolet, che significa 'piccolo occhio', forse riferendosi ad una varietà settecentesca non identificata chiamata Uva dall'Occhio Bianca, che si suppone abbia dato ciaret e poi nosiolet per 'contaminazione fonetica' (Giavedoni e Gily 2005).
 

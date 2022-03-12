@@ -18,7 +18,7 @@ Klosterneuburg 16-8, Orangeriesling
 
 
 ## Origini e parentele
-Un incrocio di [Graševina](/vitigni/bacca-bianca/grasevina) (sotto il nome di Welschriesling) e [Orangetraube](/vitigni/bacca-bianca-orangetraube) ottenuto da Fritz Zweigelt nel 1922 nel centro di ricerca di Klosterneuburg in Austria.
+Un incrocio di [Graševina](/vitigni/grasevina) (sotto il nome di Welschriesling) e [Orangetraube](/vitigni-orangetraube) ottenuto da Fritz Zweigelt nel 1922 nel centro di ricerca di Klosterneuburg in Austria.
 
 ## Caratteristiche viticole
 

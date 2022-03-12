@@ -17,4 +17,4 @@ nera
 
 Il Muscat Rouge de Madère è un vitigno di origine italiana non coltivato per fini commerciali. 
 
-È nato dall'incrocio di [Muscat à petit grains](/vitigni/bacca-bianca/muscat-a-petit-grains) e [Mammolo](/vitigni/bcca-nera/mammolo) ed è a sua volte genitore del [Ciliegiolo](/vitigni/bacca-nera/ciliegiolo) e del [Muscat bouschet](/vitigni/bacca-nera/muscat-bouschet).
+È nato dall'incrocio di [Muscat à petit grains](/vitigni/muscat-a-petit-grains) e [Mammolo](/vitigni/bcca-nera/mammolo) ed è a sua volte genitore del [Ciliegiolo](/vitigni/ciliegiolo) e del [Muscat bouschet](/vitigni/muscat-bouschet).

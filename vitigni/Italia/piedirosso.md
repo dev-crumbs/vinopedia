@@ -13,7 +13,7 @@ dateCreated: 2021-09-06T09:45:39.349Z
 ## Colore Bacca
 Nera
 ## Sinonimi
-[Palombina](/vitigni/bacca-nera/palombina), [Palumbina](/vitigni/bacca-nera/palumbina), [Palumbo](/vitigni/bacca-nera/palumbo), [Palummina](/vitigni/bacca-nera/palummina), [Per'e](/vitigni/bacca-nera/per'e), [Palummo](/vitigni/bacca-nera/palummo), [Streppa Verde](/vitigni/bacca-nera/streppa-verde)
+[Palombina](/vitigni/palombina), [Palumbina](/vitigni/palumbina), [Palumbo](/vitigni/palumbo), [Palummina](/vitigni/palummina), [Per'e](/vitigni/per'e), [Palummo](/vitigni/palummo), [Streppa Verde](/vitigni/streppa-verde)
 ## Omonimi
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
@@ -38,7 +38,7 @@ Il nome "Piedirosso" deriva dal tipico colore rosso dei gambi durante il periodo
 Dal censimento del 2000 risultano 2500 acri totali in Italia.
 
 ## Caratteristiche enologiche
-Spesso utilizzato in blend con l'[Aglianico](/vitigni/bacca-nera/aglianico), a cui aggiunge sentori aromatici e freschezza, oppure con il [Sciascinoso](/vitigni/bacca-nera/sciascinoso)
+Spesso utilizzato in blend con l'[Aglianico](/vitigni/aglianico), a cui aggiunge sentori aromatici e freschezza, oppure con il [Sciascinoso](/vitigni/sciascinoso)
 
 
 ## Denominazioni

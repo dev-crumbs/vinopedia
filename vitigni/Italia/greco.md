@@ -20,11 +20,11 @@ Asprinio (Caserta), Greco del Vesuvio (Napoli), Greco della Torre, Greco di Napo
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Graševina](/vitigni/bacca-bianca/grasevina) , [Greco Bianco](/vitigni/Italia/greco-bianco), [Guardavalle](/vitigni/bacca-bianca/guardavalle) (Sotto Il Nome Greco Bianco Di Cirò), [Maceratino](/vitigni/bacca-bianca/maceratino) (Marche), [Malvasia Di Lipari](/vitigni/Italia/malvasia-di-lipari) (sotto i nomi Greco Bianco di Gerace o Greco di Bianco), [Rossetto](/vitigni/bacca-bianca/rossetto), [Trebbiano Giallo](/vitigni/Italia/trebbiano-giallo) (Lazio)
+[Graševina](/vitigni/grasevina) , [Greco Bianco](/vitigni/Italia/greco-bianco), [Guardavalle](/vitigni/guardavalle) (Sotto Il Nome Greco Bianco Di Cirò), [Maceratino](/vitigni/maceratino) (Marche), [Malvasia Di Lipari](/vitigni/Italia/malvasia-di-lipari) (sotto i nomi Greco Bianco di Gerace o Greco di Bianco), [Rossetto](/vitigni/rossetto), [Trebbiano Giallo](/vitigni/Italia/trebbiano-giallo) (Lazio)
 
 
 ## Origini e parentele
-Il nome Greco è stato applicato a molte varietà usate per fare vini dolci come quelli dell'Antica Grecia (Costacurta et al. 2004) ma ciò non indica necessariamente che queste varietà siano di origine greca. Greco è distinto da [Greco Bianco](/vitigni/Italia/greco-bianco) in Calabria e anche da diverse altre varietà note come Greco Something (Costacurta et al. 2004). Il profilo del DNA ha dimostrato recentemente che Greco, o Greco di Tufo, è inaspettatamente identico ad Asprinio, già menzionato nel XVII secolo, ed è geneticamente vicino ad [Aleatico](/vitigni/bacca-nera/aleatico) (Costantini et al. 2005).
+Il nome Greco è stato applicato a molte varietà usate per fare vini dolci come quelli dell'Antica Grecia (Costacurta et al. 2004) ma ciò non indica necessariamente che queste varietà siano di origine greca. Greco è distinto da [Greco Bianco](/vitigni/Italia/greco-bianco) in Calabria e anche da diverse altre varietà note come Greco Something (Costacurta et al. 2004). Il profilo del DNA ha dimostrato recentemente che Greco, o Greco di Tufo, è inaspettatamente identico ad Asprinio, già menzionato nel XVII secolo, ed è geneticamente vicino ad [Aleatico](/vitigni/aleatico) (Costantini et al. 2005).
 
 ### Altre Ipotesi
 

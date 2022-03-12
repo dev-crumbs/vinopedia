@@ -20,12 +20,12 @@ Clevener o Clevner (Baden-Württemberg in Germania), Fromenteau Rouge o Froment�
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Kövidinka](/vitigni/bacca-bianca/kovidinka), [Pinot Gris](/vitigni/bacca-bianca/pinot-gris) (chiamato Kleiner Traminer nel Rheingau, Fromenteau in Champagne e Lorena)
+[Kövidinka](/vitigni/kovidinka), [Pinot Gris](/vitigni/pinot-gris) (chiamato Kleiner Traminer nel Rheingau, Fromenteau in Champagne e Lorena)
 
 
 ## Origini e parentele
 
-Il Savagnin blanc è una delle mutazione del [Savagnin](/vitigni/bacca-bianca/savagnin)
+Il Savagnin blanc è una delle mutazione del [Savagnin](/vitigni/savagnin)
 
 In Francia, il nome Savagnin Rose non appare fino al 1868 quando viene menzionato da Pulliat (Rézeau 1997): "Savagnin rose. Diffère du precedent [Savagnin vert] par la couleur rose de son grain" ("Savagnin rose. Si differenzia dal precedente [Savagnin vert] per il colore rosa della bacca"). In Germania, questa mutazione di colore esisteva probabilmente molto prima di questa data, come suggerito dalla menzione del 1483 del Frennsch (versione bianca) e del Traminer (versione rossa) della stessa uva (vedi sopra), ma, secondo Galet (1990), in Germania il nome Traminer potrebbe riferirsi al Savagnin Blanc così come al Savagnin Rose, e il Traminer Rot o Rother Traminer potrebbe riferirsi al Savagnin Rose così come al Gewürztraminer, rendendo difficile essere sicuri dei riferimenti storici a questa mutazione rosa-berlina. Di conseguenza, la prima apparizione più plausibile del Savagnin Rose nella letteratura potrebbe essere la menzione di Bauhin (1650) di Rotfrenschen nel Württemberg.
 

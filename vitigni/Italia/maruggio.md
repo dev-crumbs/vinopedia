@@ -14,7 +14,7 @@ dateCreated: 2021-09-06T09:39:58.649Z
 Bianca
 
 ## Sinonimi
-[Maresco](/vitigni/bacca-bianca/Maresco)
+[Maresco](/vitigni/Maresco)
 
 
 ## Origini

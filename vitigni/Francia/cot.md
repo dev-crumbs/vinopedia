@@ -14,14 +14,14 @@ dateCreated: 2021-09-06T09:36:56.958Z
 Nera
 
 ## Sinonimi
-[Agreste](/vitigni/bacca-nera/agreste), [Auxerrois](/vitigni/bacca-nera/auxerrois), [Bouyssales](/vitigni/bacca-nera/bouissales), [Cagors](/vitigni/bacca-nera/cagors), [Cahors](/vitigni/bacca-nera/cahors),
-[Coq Rouge](/vitigni/bacca-nera/coq-rouge), [Cor de Cors](/vitigni/bacca-nera/cor-de-cors), [Cos](/vitigni/bacca-nera/cos), [Côt](/vitigni/bacca-nera/cot), [Cots](/vitigni/bacca-nera/cots), [Estrangey](/vitigni/bacca-nera/estrangey), [Lutkens](/vitigni/bacca-nera/lutkens), [Malbec](/vitigni/bacca-nera/malbec), [Malbech](/vitigni/bacca-nera/malbech), [Mancin](/vitigni/bacca-nera/mancin), [Nuar de Presac](/vitigni/bacca-nera/nuar-de-presac), [Pied de Perdrix](/vitigni/bacca-nera/pied-de-perdrix), [Pressac](/vitigni/bacca-nera/pressac), [Prunelat](/vitigni/bacca-nera/prunelat), [Quercy](/vitigni/bacca-nera/quercy)
+[Agreste](/vitigni/agreste), [Auxerrois](/vitigni/auxerrois), [Bouyssales](/vitigni/bouissales), [Cagors](/vitigni/cagors), [Cahors](/vitigni/cahors),
+[Coq Rouge](/vitigni/coq-rouge), [Cor de Cors](/vitigni/cor-de-cors), [Cos](/vitigni/cos), [Côt](/vitigni/cot), [Cots](/vitigni/cots), [Estrangey](/vitigni/estrangey), [Lutkens](/vitigni/lutkens), [Malbec](/vitigni/malbec), [Malbech](/vitigni/malbech), [Mancin](/vitigni/mancin), [Nuar de Presac](/vitigni/nuar-de-presac), [Pied de Perdrix](/vitigni/pied-de-perdrix), [Pressac](/vitigni/pressac), [Prunelat](/vitigni/prunelat), [Quercy](/vitigni/quercy)
 
 ## Omonimi
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Abouriou](/vitigni/Francia/abouriou), [Bouchales](/vitigni/bacca-nera/bouchales), [Canari Noir](/vitigni/bacca-nera/canari-noir), [Menoir](/vitigni/bacca-nera/menoir), [Négrette](/vitigni/bacca-nera/negrette), [Prunelard](/vitigni/bacca-nera/prunelard)
+[Abouriou](/vitigni/Francia/abouriou), [Bouchales](/vitigni/bouchales), [Canari Noir](/vitigni/canari-noir), [Menoir](/vitigni/menoir), [Négrette](/vitigni/negrette), [Prunelard](/vitigni/prunelard)
 
 ## Origini e parentele
 Il Cot è un vitigno originaria della zona di Cahors, nella provincia di Quercy (Francia), corrispondente agli attuali dipartimenti di Lot e Tarn-et-Garonne. 
@@ -30,7 +30,7 @@ Nonostante i primi riferimenti scritti disponibili utilizzano il sinonimo "Noir 
 
 La numerosità dei sinonimi e la loro distribuzione geografica suggerisce che il Cot sia sempre stato un vitigno molto diffuso e caratterizzato da una notevole varietà di cloni.
 
-Il Cot è nato da un incrocio naturale tra il [Prunelard](/vitigni/bacca-nera/prunelard) e il [Magdeleine Noire des Charentes](/vitigni/bacca-nera/magdalene-noir-des-charentes). In seguito a incrocio naturale con il [Folle Blanche](/vitigni/bacca-bianca/folle-blanche) ha dato origine al [Juran¢on noir](/vitigni/bacca-nera/jurancon-noir).
+Il Cot è nato da un incrocio naturale tra il [Prunelard](/vitigni/prunelard) e il [Magdeleine Noire des Charentes](/vitigni/magdalene-noir-des-charentes). In seguito a incrocio naturale con il [Folle Blanche](/vitigni/folle-blanche) ha dato origine al [Juran¢on noir](/vitigni/jurancon-noir).
 
 ## Caratteristiche viticole
 - pianta vigorosa

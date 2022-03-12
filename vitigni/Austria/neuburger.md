@@ -18,9 +18,9 @@ Brubler, Neuburské (Repubblica Ceca e Slovacchia)
 
 
 ## Origini e parentele
-Si è pensato a lungo che Neuburger fosse un incrocio tra [Pinot Blanc](/vitigni/bacca-bianca/pinot-blanc) e [Silvaner](/vitigni/bacca-bianca/silvaner), ma il profilo del DNA ha dimostrato che è un incrocio naturale tra [Roter Veltliner](/vitigni/bacca-bianca/roter-veltliner) e Silvaner (Sefc et al. 1997) che probabilmente è avvenuto in Austria. Neuburger è quindi un fratello di [Frühroter Veltliner](/vitigni/bacca-bianca/fruhroter-veltliner), perché hanno gli stessi genitori, un fratellastro di [Rotgipfler](/vitigni/bacca-bianca/rotgipfler) e [Zierfandler](/vitigni/bacca-bianca/zierfandler), perché hanno Roter Veltliner come genitore comune, e un nipote di [Savagnin](/vitigni/bacca-bianca/savagnin).
+Si è pensato a lungo che Neuburger fosse un incrocio tra [Pinot Blanc](/vitigni/pinot-blanc) e [Silvaner](/vitigni/silvaner), ma il profilo del DNA ha dimostrato che è un incrocio naturale tra [Roter Veltliner](/vitigni/roter-veltliner) e Silvaner (Sefc et al. 1997) che probabilmente è avvenuto in Austria. Neuburger è quindi un fratello di [Frühroter Veltliner](/vitigni/fruhroter-veltliner), perché hanno gli stessi genitori, un fratellastro di [Rotgipfler](/vitigni/rotgipfler) e [Zierfandler](/vitigni/zierfandler), perché hanno Roter Veltliner come genitore comune, e un nipote di [Savagnin](/vitigni/savagnin).
 
-La tradizione vuole che negli anni 1860 fu trovato un fascio di viti sulla riva del Donau (Danubio) a Oberarnsdorf nella Wachau dai viticoltori Christoph Ferstl e Franz Marchendl, che produssero il primo vino nel 1872. In seguito fu piantato sull'altra sponda del fiume a Spitz, in una località chiamata Burg, da dove si suppone abbia preso il nome. Neuburger fu usato per allevare la varietà ceca [Aurelius](/vitigni/bacca-bianca/aurelius).
+La tradizione vuole che negli anni 1860 fu trovato un fascio di viti sulla riva del Donau (Danubio) a Oberarnsdorf nella Wachau dai viticoltori Christoph Ferstl e Franz Marchendl, che produssero il primo vino nel 1872. In seguito fu piantato sull'altra sponda del fiume a Spitz, in una località chiamata Burg, da dove si suppone abbia preso il nome. Neuburger fu usato per allevare la varietà ceca [Aurelius](/vitigni/aurelius).
 
 ## Caratteristiche viticole
 

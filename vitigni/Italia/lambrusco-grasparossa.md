@@ -26,4 +26,4 @@ Il Lambrusco Grasparossa è diffuso in tutta la provincia di Reggio Emilia nella
 
 
 ## Caratteristiche enologiche
-I vini, che sono profondamente colorati, fruttati e più tannici della maggior parte delle varietà di Lambrusco, con una buona acidità, possono essere secchi o semidolci. Il Lambrusco Grasparossa tende ad essere più corposo e ad avere un alcool maggiore rispetto, per esempio, al Lambrusco di Sorbara. Buoni esempi di vini varietali sono prodotti da Corte Manzini, Gavioli Antica Cantina (semidolce, in blend con il 10% di [Malbo Gentile](/vitigni/bacca-nera/malbo-gentile)), l'Azienda Agricola Moro di Rinaldini Rinaldo e Villa di Corlo.
+I vini, che sono profondamente colorati, fruttati e più tannici della maggior parte delle varietà di Lambrusco, con una buona acidità, possono essere secchi o semidolci. Il Lambrusco Grasparossa tende ad essere più corposo e ad avere un alcool maggiore rispetto, per esempio, al Lambrusco di Sorbara. Buoni esempi di vini varietali sono prodotti da Corte Manzini, Gavioli Antica Cantina (semidolce, in blend con il 10% di [Malbo Gentile](/vitigni/malbo-gentile)), l'Azienda Agricola Moro di Rinaldini Rinaldo e Villa di Corlo.

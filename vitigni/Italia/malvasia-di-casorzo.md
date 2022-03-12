@@ -30,7 +30,7 @@ Un recente profilo del DNA ha rivelato una probabile relazione genitore-figlio t
 - Maturazione da media a tardiva.
 
 ## Diffusione geografica
-La Malvasia di Casorzo viene coltivata in Piemonte, Italia nord-occidentale, nelle province di Asti (in particolare a Casorzo d'Asti e Grazzano Badoglio) e Alessandria (ad Altavilla Monferrato, Olivola, Ottiglio e Vignale Monferrato), e probabilmente anche in Emilia-Romagna. La DOC Casorzo o Malvasia di Casorzo richiede un minimo del 90% di questa varietà, che può essere miscelata con [Freisa](/vitigni/bacca-nera/freisa), [Grignolino](/vitigni/bacca-nera/grignolino), [Barbera](/vitigni/bacca-nera/barbera) o altre varietà locali.
+La Malvasia di Casorzo viene coltivata in Piemonte, Italia nord-occidentale, nelle province di Asti (in particolare a Casorzo d'Asti e Grazzano Badoglio) e Alessandria (ad Altavilla Monferrato, Olivola, Ottiglio e Vignale Monferrato), e probabilmente anche in Emilia-Romagna. La DOC Casorzo o Malvasia di Casorzo richiede un minimo del 90% di questa varietà, che può essere miscelata con [Freisa](/vitigni/freisa), [Grignolino](/vitigni/grignolino), [Barbera](/vitigni/barbera) o altre varietà locali.
 
 Le piantagioni totali in Italia nel 2000 ammontavano a 107 ha (264 acri).
 

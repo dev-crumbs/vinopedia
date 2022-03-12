@@ -19,7 +19,7 @@ Africano, Angolano, Montepulciano Cordisco, Montepulciano Spargolo, Morellone (T
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Pugnitello](/vitigni/bacca-nera/pugnitello), [Sangiovese](/vitigni/Italia/sangiovese) (sotto il nome di Montepulciano Primaticcio)
+[Pugnitello](/vitigni/pugnitello), [Sangiovese](/vitigni/Italia/sangiovese) (sotto il nome di Montepulciano Primaticcio)
 
 ## Origini e parentele
 Anche se il nome di questa varietà si riferisce alla regione di Montepulciano nella provincia di Siena in Toscana, è più probabile che la sua origine sia in Abruzzo nell'Italia centrale, forse nella zona di Torre de' Passeri. Poiché il [Sangiovese](/vitigni/Italia/sangiovese) è ampiamente coltivato nella zona di Montepulciano in Toscana, Montepulciano è stato spesso considerato un sinonimo di Sangiovese ma questo è contraddetto da osservazioni ampelografiche e dal profilo del DNA (Vouillamoz).

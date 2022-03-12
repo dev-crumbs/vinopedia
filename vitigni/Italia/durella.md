@@ -25,7 +25,7 @@ Cagnina (Vicenza), Caina, Durella Gentile (La Spezia in Liguria e Massa-Carrara 
 
 ## Origini e Parentele
 
-La Durella proviene dalla zona dei Monti Lessini nelle province di Verona e Vicenza nella regione Veneto dell'Italia nord-orientale. La sua prima menzione si trova in Acerbi (1825), come uva coltivata nella provincia di Vicenza e nell'Oltrepò Pavese. Il suo nome potrebbe riferirsi allo spessore della buccia degli acini. La Durella è stata spesso confusa con la NOSIOLA del Trentino ma studi ampelografici (Giavedoni e Gily 2005) e del DNA (Vouillamoz) hanno dimostrato che sono varietà distinte. Recenti analisi di parentela del DNA hanno suggerito che Durella è un possibile genitore di [Bianchetta Trevigiana](/vitigni/bacca-bianca/bianchetta-trevigiana) di Treviso in Veneto (Cipriani et al. 2010).
+La Durella proviene dalla zona dei Monti Lessini nelle province di Verona e Vicenza nella regione Veneto dell'Italia nord-orientale. La sua prima menzione si trova in Acerbi (1825), come uva coltivata nella provincia di Vicenza e nell'Oltrepò Pavese. Il suo nome potrebbe riferirsi allo spessore della buccia degli acini. La Durella è stata spesso confusa con la NOSIOLA del Trentino ma studi ampelografici (Giavedoni e Gily 2005) e del DNA (Vouillamoz) hanno dimostrato che sono varietà distinte. Recenti analisi di parentela del DNA hanno suggerito che Durella è un possibile genitore di [Bianchetta Trevigiana](/vitigni/bianchetta-trevigiana) di Treviso in Veneto (Cipriani et al. 2010).
 
 ### Altre Ipotesi
 

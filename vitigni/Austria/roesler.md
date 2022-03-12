@@ -18,8 +18,8 @@ Un ibrido di [Zweigelt](vitigni/bacca-nera/zweigelt) e Klosterneuburg 1189-9-77 
 
 - Klosterneuburg 1189-9-77 è un ibrido di Seyve-Villard 18-402 e [Blaufränkisch](/vitigni/Austria/blaufrankisch)
 - Seyve-Villard 18-402 è un ibrido di Seibel 7162 e Seyve-Villard 12-308
-- Seibel 7162 è un ibrido di [Plantet](/vitigni/bacca-nera/plantet) e Seibel 5163 (vedi [Prior](/vitigni/bacca-nera/prior) per il pedigree completo di Seibel 5163)
-- Seyve-Villard 12-308 è un ibrido di Seibel 6468 e Subéreux (vedere [Brianna](/vitigni/bacca-bianca/brianna) per il pedigree completo di Seibel 6468 e [Prior](/vitigni/bacca-nera/prior) per il pedigree completo di Subéreux).
+- Seibel 7162 è un ibrido di [Plantet](/vitigni/plantet) e Seibel 5163 (vedi [Prior](/vitigni/prior) per il pedigree completo di Seibel 5163)
+- Seyve-Villard 12-308 è un ibrido di Seibel 6468 e Subéreux (vedere [Brianna](/vitigni/brianna) per il pedigree completo di Seibel 6468 e [Prior](/vitigni/prior) per il pedigree completo di Subéreux).
 
 Klosterneuburg 1189-9-77 era anche coinvolta nell'allevamento del fratellastro di Roesler, [Ráthay](/vitigni/Austria/rathay).  Roesler prende il nome da Leonhard Roesler (1839-1910), ex direttore di Klosterneuburg.
 

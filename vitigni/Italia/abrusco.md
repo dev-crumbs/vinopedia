@@ -19,7 +19,7 @@ Abrostalo, Abrostine, Abrostino, Abrusco Nero, Abrusio, Colore or Colorino
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Colorino del Valdarno](/vitigni/bacca-nera/colorino-del-valdarno), [Muscat Rouge de Madère](/vitigni/bacca-nera/muscat-rouge-de-madere)
+[Colorino del Valdarno](/vitigni/colorino-del-valdarno), [Muscat Rouge de Madère](/vitigni/muscat-rouge-de-madere)
 
 ## Origini e parentele
 

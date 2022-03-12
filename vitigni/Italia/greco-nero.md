@@ -19,8 +19,8 @@ Nome collettivo per diverse varietà
 Il nome Greco Nero è stato usato in Calabria, Italia meridionale, per diverse varietà distinte che differiscono per morfologia e distribuzione. Recenti studi ampelografici e sul DNA hanno individuato almeno cinque diverse varietà a bacca nera chiamate Greco Nero in Calabria (Schneider, Raimondi, Grando et al. 2008):
 
 - Greco Nero trovato nella zona di Cirò, identico ad un vitigno noto come Nerello trovato vicino a Lamezia Terme
-- Greco trovato a Scilla, identico a [Castiglione](/vitigni/bacca-nera/castiglione)
-- Greco Nero trovato nel Lametino, identico a [Magliocco Dolce](/vitigni/bacca-nera/magliocco-dolce)
+- Greco trovato a Scilla, identico a [Castiglione](/vitigni/castiglione)
+- Greco Nero trovato nel Lametino, identico a [Magliocco Dolce](/vitigni/magliocco-dolce)
 
 - Greco Nero trovato a Verbicaro e Scalea
 - Greco Nero trovato a Sibari nella Calabria nord-orientale.

@@ -18,7 +18,7 @@ Dišeči Traminec (Slovenia), Gentil Aromatique o Gentil Rose Aromatique (Jura),
 
 
 ## Origini e parentele
-Si pensa che il Gewürztraminer sia una mutazione aromatica del [Savagnin Rose](/vitigni/bacca-bianca/savagnin-rose) (Galet 2000).
+Si pensa che il Gewürztraminer sia una mutazione aromatica del [Savagnin Rose](/vitigni/savagnin-rose) (Galet 2000).
 
 ###  Riferimenti Storici
 
@@ -32,14 +32,14 @@ Questa menzione suggerisce fortemente che la mutazione è avvenuta in questa zon
 
 ## Caratteristiche viticole
 
-- Simile al [Savagnin Rose](/vitigni/bacca-bianca/savagning-rose)  
+- Simile al [Savagnin Rose](/vitigni/savagning-rose)  
 - Particolarmente incline alle malattie virali, anche se la stazione viticola di Colmar ha sviluppato diversi cloni esenti da virus (ad esempio 47, 48 e 643).
 
 ## Caratteristiche enologiche
 
 Il Gewürztraminer è diventato di gran lunga la variante più piantata del Traminer (Savagnin Blanc). Le uve sono certamente notevoli alla raccolta per il loro colore variegato ma incontrovertibilmente rosa, che si traduce in vini dorati molto profondi, a volte con una leggera sfumatura ramata. I Gewürztraminer raggiungono anche livelli di alcol più alti della maggior parte dei vini bianchi, con più del 14% che non è affatto raro, mentre l'acidità può essere piuttosto bassa. Per questo motivo la varietà non è adatta a climi molto caldi. La fermentazione malolattica è quasi invariabilmente soppressa per il Gewürztraminer e bisogna fare in modo di evitare l'ossidazione.
 
-Se tutto va bene, il risultato è un vino di colore oro intenso, corposo, con una spina dorsale sostanziale e aromi concentrati e inebrianti di litchi e petali di rosa, il cui livello di acidità li preserva mentre questi aromi si sviluppano. In un'annata minore o in un clima troppo caldo, il risultato è rispettivamente o un vino precoce e neutro o un vino oppressivamente oleoso e flaccido che può facilmente avere un sapore amaro. Esempi molto intensi e degni di invecchiamento, ottenuti da viti a bassa resa o raccolte tardivamente, possono sviluppare sapori che ricordano il grasso della pancetta, mentre alcuni degli esempi meno intensi possono ricevere un aroma surrogato attraverso una piccola percentuale di [Muscat](/vitigni/bacca-bianca/muscat) nel blend. L'aroma caratteristico del Gewürztraminer è spesso definito "speziato" dagli assaggiatori di vino semplicemente perché Gewürz significa "spezia", non perché ricorda una spezia particolare.
+Se tutto va bene, il risultato è un vino di colore oro intenso, corposo, con una spina dorsale sostanziale e aromi concentrati e inebrianti di litchi e petali di rosa, il cui livello di acidità li preserva mentre questi aromi si sviluppano. In un'annata minore o in un clima troppo caldo, il risultato è rispettivamente o un vino precoce e neutro o un vino oppressivamente oleoso e flaccido che può facilmente avere un sapore amaro. Esempi molto intensi e degni di invecchiamento, ottenuti da viti a bassa resa o raccolte tardivamente, possono sviluppare sapori che ricordano il grasso della pancetta, mentre alcuni degli esempi meno intensi possono ricevere un aroma surrogato attraverso una piccola percentuale di [Muscat](/vitigni/muscat) nel blend. L'aroma caratteristico del Gewürztraminer è spesso definito "speziato" dagli assaggiatori di vino semplicemente perché Gewürz significa "spezia", non perché ricorda una spezia particolare.
 
 ## Diffusione geografica
 

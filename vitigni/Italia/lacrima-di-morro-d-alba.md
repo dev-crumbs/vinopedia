@@ -17,7 +17,7 @@ Lacrima
 
 ## Origini e parentele
 
-Il nome "Lacrima" fu probabilmente dato a questa varietà perché quando le bacche sono completamente mature, trasudano piccole gocce di succo. Tuttavia, diverse varietà distinte in varie regioni dell'Italia centrale e meridionale (Campania, Marche, Toscana, Umbria, Puglia, ecc.) hanno ricevuto nomi basati su Lacrima. Nelle Marche, Lacrima è una varietà locale della regione di Morro d'Alba menzionata già nel XVIII secolo. Studi sul DNA suggeriscono una stretta relazione tra Lacrima di Morro d'Alba e [Aleatico](/vitigni/bacca-nera/aleatico) (Filippetti, Silvestroni, Thomas e Intrieri 2001).
+Il nome "Lacrima" fu probabilmente dato a questa varietà perché quando le bacche sono completamente mature, trasudano piccole gocce di succo. Tuttavia, diverse varietà distinte in varie regioni dell'Italia centrale e meridionale (Campania, Marche, Toscana, Umbria, Puglia, ecc.) hanno ricevuto nomi basati su Lacrima. Nelle Marche, Lacrima è una varietà locale della regione di Morro d'Alba menzionata già nel XVIII secolo. Studi sul DNA suggeriscono una stretta relazione tra Lacrima di Morro d'Alba e [Aleatico](/vitigni/aleatico) (Filippetti, Silvestroni, Thomas e Intrieri 2001).
 
 L'uva da tavola Lacrima di Maria non è imparentata con Lacrima.
 
@@ -33,4 +33,4 @@ Oltre ad essere la varietà dominante nella Lacrima di Morro d'Alba, la varietà
 
 Il censimento agricolo italiano del 2000 ha registrato 722 ha (1.784 acri) di Lacrima ma questo è fuorviante perché include varietà diverse dalla Lacrima di Morro d'Alba.
 
-Questa varietà è ben distinta dal Lacryma Christi del Vesuvio DOC in Campania, che è fatto da [Piedirosso](/vitigni/bacca-nera/piedirosso) (minimo 80%) talvolta mescolato con [Sciascinoso](/vitigni/bacca-nera/sciascinoso) e/o [Aglianico](/vitigni/Italia/aglianico).
+Questa varietà è ben distinta dal Lacryma Christi del Vesuvio DOC in Campania, che è fatto da [Piedirosso](/vitigni/piedirosso) (minimo 80%) talvolta mescolato con [Sciascinoso](/vitigni/sciascinoso) e/o [Aglianico](/vitigni/Italia/aglianico).

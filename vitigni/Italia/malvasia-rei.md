@@ -10,4 +10,4 @@ dateCreated: 2021-08-19T09:35:18.061Z
 
 # Malvasia Rei
 
-"Malvasia Rei" è un sinonimo utilizzato per il vitigno [Palomino fino](/vitigni/bacca-nera/palomino-fino)
+"Malvasia Rei" è un sinonimo utilizzato per il vitigno [Palomino fino](/vitigni/palomino-fino)

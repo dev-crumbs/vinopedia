@@ -9,4 +9,4 @@ dateCreated: 2021-09-06T14:57:22.252Z
 ---
 
 # Cannonau
-"Cannonau" è un sinonimo utilizzato in Sardegna (Italia) per il vitigno [Garnacha](/vitigni/bacca-nera/Garnacha).
+"Cannonau" è un sinonimo utilizzato in Sardegna (Italia) per il vitigno [Garnacha](/vitigni/Garnacha).

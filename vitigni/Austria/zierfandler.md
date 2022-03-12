@@ -18,7 +18,7 @@ Cirfandli (Ungheria), Gumpoldskirchner (Austria), Roter Zierfandler, Rubiner, Sp
 
 
 ## Origini e parentele
-L'analisi della parentela del DNA ha suggerito che Zierfandler potrebbe essere un incrocio naturale tra [Roter Veltliner](/vitigni/bacca-bianca/roter-veltliner) e un parente di [Savagnin](/vitigni/bacca-bianca/savagnin) che ebbe luogo vicino a Gumpoldskirchen in Niederösterreich (Bassa Austria; Regner 2000a; vedi [Pinot](/vitigni/Francia/pinot)). La sua presunta parentela con [Silvaner](/vitigni/bacca-bianca/silvaner), che a volte veniva chiamato Grüner Zierfandler o Zierfandl, non è confermata dall'analisi del DNA (Vouillamoz).
+L'analisi della parentela del DNA ha suggerito che Zierfandler potrebbe essere un incrocio naturale tra [Roter Veltliner](/vitigni/roter-veltliner) e un parente di [Savagnin](/vitigni/savagnin) che ebbe luogo vicino a Gumpoldskirchen in Niederösterreich (Bassa Austria; Regner 2000a; vedi [Pinot](/vitigni/Francia/pinot)). La sua presunta parentela con [Silvaner](/vitigni/silvaner), che a volte veniva chiamato Grüner Zierfandler o Zierfandl, non è confermata dall'analisi del DNA (Vouillamoz).
 ## Caratteristiche viticole
 
 - Grappoli grandi e compatti di piccoli acini con un colore rosa-verdastro
@@ -32,4 +32,4 @@ C'erano 18 ha (44 acri) di Cirfandli in Ungheria nel 2008, quasi tutti nella reg
 
 ## Caratteristiche enologiche
 
-I vini sono potenti e di grande estratto con sapori di arancia, pesca, miele e spezie e un aroma dorato, a volte leggermente oleoso. La stragrande maggioranza dei 102 ettari dell'Austria si trova nella Thermenregion, in particolare intorno alla città di Gumpoldskirchen, dove viene generalmente miscelato con l'altra varietà locale, il [Rotgipfler](/vitigni/bacca-bianca/rotgipfler), sebbene ci siano alcuni ettari a Wagram. Non miscelato, ha abbastanza acidità per fare vini dolci di lunga durata - a differenza del suo partner di miscelazione. I produttori consigliati sono Leo Aumann, Biegler, Johanneshof Reinisch, Stadlmann e Harald Zierer.
+I vini sono potenti e di grande estratto con sapori di arancia, pesca, miele e spezie e un aroma dorato, a volte leggermente oleoso. La stragrande maggioranza dei 102 ettari dell'Austria si trova nella Thermenregion, in particolare intorno alla città di Gumpoldskirchen, dove viene generalmente miscelato con l'altra varietà locale, il [Rotgipfler](/vitigni/rotgipfler), sebbene ci siano alcuni ettari a Wagram. Non miscelato, ha abbastanza acidità per fare vini dolci di lunga durata - a differenza del suo partner di miscelazione. I produttori consigliati sono Leo Aumann, Biegler, Johanneshof Reinisch, Stadlmann e Harald Zierer.

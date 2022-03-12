@@ -20,7 +20,7 @@ Broblanc (Valle d'Aosta), Cargnola (Valle d'Aosta), Cornalin d'Aoste, Cornalino,
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Petit Rouge](/vitigni/Italia/petit-rouge) (Valle d'Aosta), [Rouge Du Pays](/vitigni/bacca-nera/rouge-du-pays) (Vallese in Svizzera).
+[Petit Rouge](/vitigni/Italia/petit-rouge) (Valle d'Aosta), [Rouge Du Pays](/vitigni/rouge-du-pays) (Vallese in Svizzera).
 
 
 ## Origini e Parentela

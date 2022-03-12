@@ -18,7 +18,7 @@ Bidure (Graves), Bordeaux (Switzerland), Bordo (Romania), Bouchet or Bouchet Sau
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Cabernet Franc](/vitigni/Francia/cabernet-franc), [Carmenère](/vitigni/bacca-nera/carmenere)
+[Cabernet Franc](/vitigni/Francia/cabernet-franc), [Carmenère](/vitigni/carmenere)
 
 
 ## Origini e parentela
@@ -33,22 +33,22 @@ Fino alla fine del XIX secolo è possibile che il Cabernet Sauvignon sia stato c
 
 La discendenza del Cabernet Sauvignon è stata fortuitamente scoperta da Carole Meredith e dal suo studente di dottorato John Bowers all'Università della California a Davis nel 1996. Mentre stavano generando una banca dati per i profili del DNA dei vitigni più importanti della loro collezione, Bowers, nato a Napa Valley, notò che il profilo del DNA del Cabernet Sauvignon era perfettamente coerente con il suo essere figlio di [Cabernet Franc](/vitigni/Francia/cabernet-franc) e [Sauvignon Blanc](/vitigni/Francia/sauvignon-blanc) (Bowers e Meredith 1997). Era la prima volta che qualcuno identificava i genitori di una varietà classica di uva da vino e fu una grande sorpresa per il mondo del vino. Sebbene gli ampelografi avessero già notato molte somiglianze morfologiche tra i due Cabernet, e sebbene il Cabernet Sauvignon apparentemente avesse ottenuto il suo nome perché il suo legno e le sue foglie assomigliano a quelle del Sauvignon Blanc (Rézeau 1997), questa parentela era totalmente inaspettata, anche perché nessuno aveva mai pensato che una varietà a bacca nera potesse avere un genitore a bacca bianca. Gagnaire (1872) scrisse a lungo in difesa di questa impossibilità.
 
-L'incrocio che diede vita al Cabernet Sauvignon fu molto probabilmente spontaneo e avvenne da qualche parte nella Gironda prima della metà del XVIII secolo. Poiché anche il [Merlot](/vitigni/Francia/merlot) è una progenie del [Cabernet Franc](/vitigni/Francia/cabernet-franc), il Cabernet Sauvignon e il Merlot risultano essere fratellastri. La maggior parte di queste varietà appartiene al gruppo ampelografico Carmenet. Inoltre, un'analisi probabilistica dei dati del DNA ha dimostrato che [Sauvignon Blanc](/vitigni/Francia/sauvignon-blanc) e [Chenin Blanc](/vitigni/bacca-bianca/chenin-blanc) sono fratelli - la prole di [Savagnin](/vitigni/bacca-bianca/savagnin) e un genitore sconosciuto (Vouillamoz). Questo fa del Cabernet Sauvignon un nipote di Chenin Blanc della Loira e un nipote di Savagnin della Francia nord-orientale.
+L'incrocio che diede vita al Cabernet Sauvignon fu molto probabilmente spontaneo e avvenne da qualche parte nella Gironda prima della metà del XVIII secolo. Poiché anche il [Merlot](/vitigni/Francia/merlot) è una progenie del [Cabernet Franc](/vitigni/Francia/cabernet-franc), il Cabernet Sauvignon e il Merlot risultano essere fratellastri. La maggior parte di queste varietà appartiene al gruppo ampelografico Carmenet. Inoltre, un'analisi probabilistica dei dati del DNA ha dimostrato che [Sauvignon Blanc](/vitigni/Francia/sauvignon-blanc) e [Chenin Blanc](/vitigni/chenin-blanc) sono fratelli - la prole di [Savagnin](/vitigni/savagnin) e un genitore sconosciuto (Vouillamoz). Questo fa del Cabernet Sauvignon un nipote di Chenin Blanc della Loira e un nipote di Savagnin della Francia nord-orientale.
 
 Una mutazione rosa bronzo di Cabernet Sauvignon è stata osservata nel 1977 nel vigneto di Clegett Wines a Langhorne Creek in South Australia ed è stata registrata con il nome Malian. Nel 1991 una di quelle viti produsse bacche bianche, ora registrate come Shalistin. Clegett produce una versione dolce e una secca di Shalistin.
 
 Il Cabernet Sauvignon è stato usato per allevare numerose varietà in tutto il mondo, alcune delle quali coltivate per la vinificazione commerciale. I seguenti sono quindi tutti fratellastri:
 
-- Australia: [Cienna](/vitigni/bacca-nera/cienna) e [Tyrian](/vitigni/bacca-nera/tyrian)
-- Bulgaria: [Ruen](/vitigni/bacca-nera/ruen)
-- Francia: [Arinarnoa](/vitigni/bacca-nera/arinarnoa), [Ekigaïna](/vitigni/bacca-nera/ekigaina) e [Marselan](/vitigni/bacca-nera/marselan)
+- Australia: [Cienna](/vitigni/cienna) e [Tyrian](/vitigni/tyrian)
+- Bulgaria: [Ruen](/vitigni/ruen)
+- Francia: [Arinarnoa](/vitigni/arinarnoa), [Ekigaïna](/vitigni/ekigaina) e [Marselan](/vitigni/marselan)
 - Germania: [Cabernet Carbon](/vitigni/Francia/cabernet-carbon), [Cabernet Carol](/vitigni/Francia/cabernet-carbon), [Cabernet Cortis](/vitigni/Francia/cabernet-cortis), [Cabernet Cubin](/vitigni/Francia/cabernet-cubin), [Cabernet Dorio](/vitigni/Francia/cabernet-dorio), [Cabernet Dorsa](/vitigni/Francia/cabernet-dorsa), [Cabernet Mitos](/vitigni/Francia/cabernet-mitos)
-- Italia: [Incrocio Manzoni 2.15](/vitigni/bacca-nera/incrocio-manzoni)
-- Serbia: [Probus](/vitigni/bacca-nera/probus)
-- Romania: [Arcas](/vitigni/bacca-nera/arcas)
-- Svizzera: [Cabernet Blanc](/vitigni/Francia/cabernet-blanc), [Cabernet Colonjes](/vitigni/Francia/cabernet-colonjes), [Cabernet Jura](/vitigni/Francia/cabernet-jura), [Cabertin](/vitigni/bacca-nera/cabertin), [Carminoir](/vitigni/bacca-nera/carminoir), [Pinotin](/vitigni/Francia/pinotin), [Riesel](/vitigni/bacca-nera/riesel) e [Vb 91-26-4]](/vitigni/bacca-nera/vb-91-26-4)
+- Italia: [Incrocio Manzoni 2.15](/vitigni/incrocio-manzoni)
+- Serbia: [Probus](/vitigni/probus)
+- Romania: [Arcas](/vitigni/arcas)
+- Svizzera: [Cabernet Blanc](/vitigni/Francia/cabernet-blanc), [Cabernet Colonjes](/vitigni/Francia/cabernet-colonjes), [Cabernet Jura](/vitigni/Francia/cabernet-jura), [Cabertin](/vitigni/cabertin), [Carminoir](/vitigni/carminoir), [Pinotin](/vitigni/Francia/pinotin), [Riesel](/vitigni/riesel) e [Vb 91-26-4]](/vitigni/vb-91-26-4)
 - Ucraina: Odessky Cherny E Rubinovy Magaracha
-- Stati Uniti: [Carmine](/vitigni/bacca-nera/carmine) e [Ruby Cabernet](/vitigni/bacca-nera/ruby-cabernet).
+- Stati Uniti: [Carmine](/vitigni/carmine) e [Ruby Cabernet](/vitigni/ruby-cabernet).
 
 ### Altre ipotesi
 
@@ -56,7 +56,7 @@ Poiché la parola sauvignon deriva dal francese sauvage ('selvaggio'), si è sos
 
 Come il Cabernet Franc, il Cabernet Sauvignon, uno dei cui primi sinonimi era Bidure, è stato considerato un discendente dalla Biturica dell'epoca romana, ma questa teoria può essere respinta ora che si conosce la sua discendenza. Supponendo che la Biturica fosse identica o simile alla Balisca, un'altra varietà menzionata da Plinio il Vecchio e Columella e presumibilmente coltivata in Spagna con il nome di Cocolubis, alcuni autori hanno suggerito che il Cabernet Sauvignon sia stato introdotto dalla Spagna.
 
-Un recente studio ha creato un certo scalpore sostenendo che il Cabernet Sauvignon fosse di origine greca, essendo il suo antenato l'oscuro vitigno greco Volitsa ([Volitsa Mavri](/vitigni/bacca-nera/volitsa-mavri); Lambert-Gocs 2007). Basandosi sulle vaghe descrizioni date da Plinio il Vecchio e Columella, l'autore ha concluso che la moderna Volitsa del Pelopónnisos (Peloponneso), presumibilmente identica ad una varietà chiamata VLOSH in Albania, è anche identica all'antica Balisca ed è quindi un antenato diretto del Cabernet Sauvignon, da cui l'ipotesi di origine greca per la nobile varietà bordolese. Tuttavia, il profilo del DNA è categorico: non esiste una parentela diretta, né una stretta somiglianza genetica, tra Volitsa e Cabernet Sauvignon (Vouillamoz).
+Un recente studio ha creato un certo scalpore sostenendo che il Cabernet Sauvignon fosse di origine greca, essendo il suo antenato l'oscuro vitigno greco Volitsa ([Volitsa Mavri](/vitigni/volitsa-mavri); Lambert-Gocs 2007). Basandosi sulle vaghe descrizioni date da Plinio il Vecchio e Columella, l'autore ha concluso che la moderna Volitsa del Pelopónnisos (Peloponneso), presumibilmente identica ad una varietà chiamata VLOSH in Albania, è anche identica all'antica Balisca ed è quindi un antenato diretto del Cabernet Sauvignon, da cui l'ipotesi di origine greca per la nobile varietà bordolese. Tuttavia, il profilo del DNA è categorico: non esiste una parentela diretta, né una stretta somiglianza genetica, tra Volitsa e Cabernet Sauvignon (Vouillamoz).
 
 ## Caratteristiche viticole
 
@@ -72,7 +72,7 @@ Un recente studio ha creato un certo scalpore sostenendo che il Cabernet Sauvign
 
 In Francia, il Cabernet Sauvignon era la quarta varietà di vino rosso più piantata dopo MERLOT, Grenache ([Garnacha](/vitigni/Spagna/garnacha)) e [Syrah](/vitigni/Italia/syrah) nel 2009, con un totale di 56.386 ha (139.333 acri). Nella grande regione di Bordeaux, è stato un povero secondo al Merlot, molto più facile da maturare: 26.790 ha (66.200 acri) contro i 69.053 (170.634 acri) del Merlot.
 
-In tutta la Francia sud-occidentale, è una delle varietà principali nelle denominazioni ai margini di Bordeaux come Buzet, Bergerac e Côtes de Duras e anche a Irouléguy sul confine spagnolo occidentale. È una varietà supplementare in appellazioni come Béarn, Madiran, Côtes de Saint-Mont, Tursan, Marcillac, Gaillac e Fronton (aggiungendo struttura a [Nègrette](/vitigni/bacca-nera/negrette) nelle ultime due).
+In tutta la Francia sud-occidentale, è una delle varietà principali nelle denominazioni ai margini di Bordeaux come Buzet, Bergerac e Côtes de Duras e anche a Irouléguy sul confine spagnolo occidentale. È una varietà supplementare in appellazioni come Béarn, Madiran, Côtes de Saint-Mont, Tursan, Marcillac, Gaillac e Fronton (aggiungendo struttura a [Nègrette](/vitigni/negrette) nelle ultime due).
 
 È la quinta varietà più piantata in Languedoc-Roussillon, con un totale di 18.722 ha (46.263 acri) nel 2009, principalmente in Languedoc. Sebbene sia un ingrediente ammesso in denominazioni come Cabardès e Malepère, viene usato principalmente per vini varietali. Forse il più famoso è Mas de Daumas Gassac, dove il Cabernet Sauvignon è stato piantato su consiglio nientemeno che del defunto enologo di Bordeaux Émile Peynaud. Con la vicina Grange des Pères, questi sono due dei vini di maggior successo a base di Cabernet Sauvignon del Languedoc, ma troppo spesso gli esempi meno ambiziosi mancano di convinzione e concentrazione, forse a causa di rese eccessive o cloni di scarsa qualità.
 
@@ -90,7 +90,7 @@ Il più recente censimento ufficiale della viticoltura italiana, nel 2000, ha tr
 
 Anche il Cabernet Sauvignon fu introdotto in misura limitata in Spagna a metà del XIX secolo dal Marchese di Riscal a Rioja e da Eloy Lecanda di Vega Santa Cecilia (poi Vega Sicilia) a Ribera del Duero. Ma è stata la sua diffusione da parte di Miguel Torres, Jr, e Jean León negli anni '60 a Penedès che ha incoraggiato i produttori di vino spagnoli a valutare così tanto questo intruso francese. Un Torres, Mas La Plana Cabernet Sauvignon 1970, andò notevolmente bene in una replica del 1979 del famoso Giudizio di Parigi del 1976, un confronto alla cieca tra i migliori vini francesi e quelli che li emulavano altrove.
 
-Nel 2008 il Cabernet Sauvignon era la quarta varietà di vino rosso più piantata in Spagna, il suo totale di 19.430 ha (48.013 acri) è un aumento considerevole rispetto ai 10.000 ha (24.710 acri) nel terreno nel 2004. È particolarmente popolare nelle DO settentrionali come Navarra e Somontano e in La Mancha, ma è diventato un ingrediente minore significativo con [Tempranillo](/vitigni/bacca-nera/tempranillo) in Ribera del Duero, e il Cabernet Sauvignon varietale si può trovare in tutto il paese, anche nei nuovi vigneti ad alta quota dell'Andalusia. Molti di coloro che hanno piantato nuovi vigneti in Spagna sembrano vedere il Cabernet Sauvignon come un accessorio essenziale per la sofisticazione, anche se solo nel Penedès ha molto successo. Anche in Catalunya lo si può trovare in alcuni blend del Priorat.
+Nel 2008 il Cabernet Sauvignon era la quarta varietà di vino rosso più piantata in Spagna, il suo totale di 19.430 ha (48.013 acri) è un aumento considerevole rispetto ai 10.000 ha (24.710 acri) nel terreno nel 2004. È particolarmente popolare nelle DO settentrionali come Navarra e Somontano e in La Mancha, ma è diventato un ingrediente minore significativo con [Tempranillo](/vitigni/tempranillo) in Ribera del Duero, e il Cabernet Sauvignon varietale si può trovare in tutto il paese, anche nei nuovi vigneti ad alta quota dell'Andalusia. Molti di coloro che hanno piantato nuovi vigneti in Spagna sembrano vedere il Cabernet Sauvignon come un accessorio essenziale per la sofisticazione, anche se solo nel Penedès ha molto successo. Anche in Catalunya lo si può trovare in alcuni blend del Priorat.
 
 ### Portogallo
 
@@ -116,7 +116,7 @@ Il clima pannonico più caldo dell'Ungheria è molto più adatto a questa matura
 
 ### Austria
 
-Dall'altra parte del confine in Austria, i 519 ettari di Cabernet Sauvignon (1.282 acri) ne fanno il terzo vitigno da vino rosso più piantato nel 2007, ma è molto meno importante del [Blaufränkisch](/vitigni/Austria/blaufrankisch) E Dello [Zweigelt](/vitigni/bacca-nera/zweigelt) e viene generalmente usato come ingrediente in un blend, o cuvée. Le piantagioni sono principalmente nel Burgenland, in particolare a Neusiedlersee (151 ha/373 acri), dove la superficie è quasi raddoppiata dal 1999. Anche in Svizzera i tagli bordolesi completamente maturi, e i tagli con varietà svizzere indigene, sono diventati più diffusi grazie al riscaldamento globale, non solo in Ticino ma nei cantoni svizzeri di lingua francese, ad esempio a Genève, dove Domaine des Balisiers produce la sua cuvée Comte de Penay in anfore.
+Dall'altra parte del confine in Austria, i 519 ettari di Cabernet Sauvignon (1.282 acri) ne fanno il terzo vitigno da vino rosso più piantato nel 2007, ma è molto meno importante del [Blaufränkisch](/vitigni/Austria/blaufrankisch) E Dello [Zweigelt](/vitigni/zweigelt) e viene generalmente usato come ingrediente in un blend, o cuvée. Le piantagioni sono principalmente nel Burgenland, in particolare a Neusiedlersee (151 ha/373 acri), dove la superficie è quasi raddoppiata dal 1999. Anche in Svizzera i tagli bordolesi completamente maturi, e i tagli con varietà svizzere indigene, sono diventati più diffusi grazie al riscaldamento globale, non solo in Ticino ma nei cantoni svizzeri di lingua francese, ad esempio a Genève, dove Domaine des Balisiers produce la sua cuvée Comte de Penay in anfore.
 
 ### Grecia
 
@@ -152,7 +152,7 @@ In Argentina, Malbec (COT) e Bonarda (DOUCE NOIRE) sono molto più importanti de
 
 Il Brasile aveva 1.868 ha (4.616 acri) di Cabernet Sauvignon nel 2007, ma può essere difficile farlo maturare completamente nelle tradizionali regioni umide, anche se Lidio Carraro, Miolo e Salton hanno fatto tutti esempi meritevoli.
 
-[Tannat](/vitigni/bacca-nera/tannat) e persino [Merlot](/vitigni/Francia/merlot) sono più importanti in Uruguay, che aveva 731 ha (1.806 acri) di Cabernet Sauvignon nel 2008.
+[Tannat](/vitigni/tannat) e persino [Merlot](/vitigni/Francia/merlot) sono più importanti in Uruguay, che aveva 731 ha (1.806 acri) di Cabernet Sauvignon nel 2008.
 
 ### Oceania
 

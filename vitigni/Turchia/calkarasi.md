@@ -20,7 +20,7 @@ Nera
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Adakarasi](/vitigni/bacca-nera/adakarasi) (Denizli), [Horozkarasi](/vitigni/bacca-nera/horozkarasi) (Kilis), [Kalecik Karasi](/vitigni/bacca-nera/kalecik-karasi) (Ankara), [Papazkarasi](/vitigni/bacca-nera/papazkarasi) (Avşa)
+[Adakarasi](/vitigni/adakarasi) (Denizli), [Horozkarasi](/vitigni/horozkarasi) (Kilis), [Kalecik Karasi](/vitigni/kalecik-karasi) (Ankara), [Papazkarasi](/vitigni/papazkarasi) (Avşa)
 
 ## Origini e parentele
 Çalkarası (che significa 'nero di Çal') proviene dal distretto di Çal della provincia di Denizli, nella Turchia occidentale.

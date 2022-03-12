@@ -22,7 +22,7 @@ Schilcher (Steiermark/Stiria), Wildbacher (Italia), Wildbacher Blau
 Wildbacher Spätblau
 
 ## Origini e parentele
-Blauer Wildbacher è un'antica varietà tradizionale che prende il nome dal piccolo villaggio di Wildbach a sud di Graz nell'Austria sudorientale. Il nome Wildbacher va maneggiato con cautela: in un recente studio sul DNA, la Blauer Wildbacher, più diffusa e a maturazione precoce, e la Wildbacher Spätblau, quasi estinta e a maturazione tardiva, sono risultate avere profili DNA distinti, oltre ad avere probabilmente una relazione genitore-figlio (Meneghetti et al. 2009). Ulteriori analisi di parentela hanno anche suggerito che Blauer Wildbacher ha una relazione genitore-figlia con [Gouais Blanc](/vitigni/bacca-bianca/gouais-blanc), il secondo genitore essendo presumibilmente una vite selvatica estinta (Meneghetti et al. 2009).
+Blauer Wildbacher è un'antica varietà tradizionale che prende il nome dal piccolo villaggio di Wildbach a sud di Graz nell'Austria sudorientale. Il nome Wildbacher va maneggiato con cautela: in un recente studio sul DNA, la Blauer Wildbacher, più diffusa e a maturazione precoce, e la Wildbacher Spätblau, quasi estinta e a maturazione tardiva, sono risultate avere profili DNA distinti, oltre ad avere probabilmente una relazione genitore-figlio (Meneghetti et al. 2009). Ulteriori analisi di parentela hanno anche suggerito che Blauer Wildbacher ha una relazione genitore-figlia con [Gouais Blanc](/vitigni/gouais-blanc), il secondo genitore essendo presumibilmente una vite selvatica estinta (Meneghetti et al. 2009).
 
 ### Altre ipotesi
 

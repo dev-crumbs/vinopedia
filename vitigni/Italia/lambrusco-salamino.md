@@ -13,7 +13,7 @@ dateCreated: 2021-09-06T09:44:11.064Z
 ## Bacca
 Nera
 ## Sinonimi
-[Lambrusco Galassi](/vitigni/bacca-nera/lambrusco-galassi) (tipo a foglia rossa, vedi sotto), [Lambrusco di Santa Croce](/vitigni/bacca-nera/lambrusco-di-santa-croce)
+[Lambrusco Galassi](/vitigni/lambrusco-galassi) (tipo a foglia rossa, vedi sotto), [Lambrusco di Santa Croce](/vitigni/lambrusco-di-santa-croce)
 
 ## Origini e parentele
 Il Lambrusco Salamino prende il nome dalla forma cilindrica dei suoi grappoli, che ricorda un piccolo salame. Molto probabilmente è originario del comune di Santa Croce di Carpi nella provincia di Modena in Emilia-Romagna.
@@ -28,4 +28,4 @@ Il Lambrusco Salamino è coltivato nelle province di Modena e Reggio Emilia (in 
 
 ## Caratteristiche enologiche
 
-Oltre ad essere il principale costituente del Lambrusco Salamino di Santa Croce DOC (minimo 90% miscelato con fino al 10% di [Ancelotta](/vitigni/bacca-nera/ancelotta) e della versione Lambrusco Salamino del Reggiano DOC (minimo 85%), il Lambrusco Salamino gioca un ruolo importante nel Lambrusco di Sorbara DOC e in diverse altre DOC come Lambrusco Mantovano, Colli di Scandiano e di Canossa e Reggiano. I vini possono essere secchi o dolci, intensamente colorati con aromi fruttati.
+Oltre ad essere il principale costituente del Lambrusco Salamino di Santa Croce DOC (minimo 90% miscelato con fino al 10% di [Ancelotta](/vitigni/ancelotta) e della versione Lambrusco Salamino del Reggiano DOC (minimo 85%), il Lambrusco Salamino gioca un ruolo importante nel Lambrusco di Sorbara DOC e in diverse altre DOC come Lambrusco Mantovano, Colli di Scandiano e di Canossa e Reggiano. I vini possono essere secchi o dolci, intensamente colorati con aromi fruttati.

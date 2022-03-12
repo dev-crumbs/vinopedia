@@ -24,7 +24,7 @@ Autrichien, Badner, Early Burgundy (Napa Valley in California), Modrý Portugal 
 ## Origini e parentele
 Nonostante il nome, è improbabile che il Blauer Portugieser sia di origine portoghese. Grauer Portugieser (bacche grigie) e Grüner Portugieser (bacche verdi) non possono essere distinti attraverso il profilo del DNA e rappresentano semplicemente mutazioni di colore del Blauer Portugieser (Sefc, Steinkellner et al. 1998). L'esistenza in Austria di mutazioni di colore e numerosi sinonimi tende a favorire questo paese come origine geografica.
 
-Rapporti d'allevamento e analisi di parentela hanno mostrato che Grauer Portugieser e [Frühroter Veltliner](/vitigni/Austria/fruhroter-veltliner) sono i genitori di [Jubiläumsrebe](/vitigni/Austria/jubilaumsrebe) (Sefc, Steinkellner et al. 1998). Blauer Portugieser era un genitore in diversi altri incroci che oggi sono relativamente importanti: [Blauburger](/vitigni/Austria/blaufrankisch/vitigni/Austria/blauburger), [Dakapo](/vitigni/Germania/dakapo), [Domina](/vitigni/bacca-nera/domina), [Heroldrebe](/vitigni/bacca-nera/heroldrebe), [Portan](/vitigni/bacca-nera/portan) e [Segalin](/vitigni/bacca-nera/segalin).
+Rapporti d'allevamento e analisi di parentela hanno mostrato che Grauer Portugieser e [Frühroter Veltliner](/vitigni/Austria/fruhroter-veltliner) sono i genitori di [Jubiläumsrebe](/vitigni/Austria/jubilaumsrebe) (Sefc, Steinkellner et al. 1998). Blauer Portugieser era un genitore in diversi altri incroci che oggi sono relativamente importanti: [Blauburger](/vitigni/Austria/blaufrankisch/vitigni/Austria/blauburger), [Dakapo](/vitigni/Germania/dakapo), [Domina](/vitigni/domina), [Heroldrebe](/vitigni/heroldrebe), [Portan](/vitigni/portan) e [Segalin](/vitigni/segalin).
 
 ### Altre ipotesi
 

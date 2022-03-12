@@ -9,4 +9,4 @@ dateCreated: 2021-09-06T14:56:14.722Z
 ---
 
 # Bovale
-"Bovale" è un sinonimo utilizzato in Italia per il vitigno [Graciano](/vitigni/bacca-nera/graciano).
+"Bovale" è un sinonimo utilizzato in Italia per il vitigno [Graciano](/vitigni/graciano).

@@ -20,11 +20,11 @@ Málaga (Tacoronte-Acentejo su Tenerife), Malvasía (Lanzarote, Gran Canaria e V
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Malvasia Bianca Lunga](/vitigni/bacca-bianca/malvasia-bianca-lunga) (Italia), [Malvasia Di Lipari](/vitigni/bacca-bianca/malvasia-di-lipari) (o Malvasía de Sitges sulle Isole Canarie)
+[Malvasia Bianca Lunga](/vitigni/malvasia-bianca-lunga) (Italia), [Malvasia Di Lipari](/vitigni/malvasia-di-lipari) (o Malvasía de Sitges sulle Isole Canarie)
 
 
 ## Origini e parentele
-Questa varietà si trova sulle Islas Canarias con il nome ambiguo di Malvasía ma poiché ha un'impronta digitale del DNA unica (Rodríguez-Torres et al. 2009), è stata battezzata Malvasía de Lanzarote. L'analisi della parentela del DNA di Rodríguez-Torres et al. (2009) ha suggerito che Malvasía de Lanzarote potrebbe essere un incrocio naturale e locale tra Malvasia Di Lipari, coltivata sulle Islas Canarias con i nomi Malvasía de Sitges e Malvasía de la Palma, e il locale [Marmajuelo](/vitigni/bacca-bianca/marmajuelo).
+Questa varietà si trova sulle Islas Canarias con il nome ambiguo di Malvasía ma poiché ha un'impronta digitale del DNA unica (Rodríguez-Torres et al. 2009), è stata battezzata Malvasía de Lanzarote. L'analisi della parentela del DNA di Rodríguez-Torres et al. (2009) ha suggerito che Malvasía de Lanzarote potrebbe essere un incrocio naturale e locale tra Malvasia Di Lipari, coltivata sulle Islas Canarias con i nomi Malvasía de Sitges e Malvasía de la Palma, e il locale [Marmajuelo](/vitigni/marmajuelo).
 
 ## Diffusione geografica
 
