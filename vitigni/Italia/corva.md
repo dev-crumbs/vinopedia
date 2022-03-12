@@ -17,10 +17,10 @@ Nera
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Corvina Veronese](/vitigni/corvina-veronese), [Lambrusca Di Alessandria](/vitigni/Italia/lambrusco-di-alessandria) (Pinerolese)
+[Corvina Veronese](/vitigni/Italia/corvina-veronese), [Lambrusca Di Alessandria](/vitigni/Italia/lambrusco-di-alessandria) (Pinerolese)
 
 ## Origini e parentele
-Vecchia varietà della provincia di Brescia in Lombardia, Italia settentrionale, dove un tempo era ampiamente coltivata. A causa dei nomi simili, Corva è stata confusa con [Corvina Veronese](/vitigni/corvina-veronese) e [Lambrusca Di Alessandria](/vitigni/Italia/lambrusco-di-alessandria), conosciuta come Corva nel Pinerolese, ma ha un profilo DNA distinto e unico (Vouillamoz).
+Vecchia varietà della provincia di Brescia in Lombardia, Italia settentrionale, dove un tempo era ampiamente coltivata. A causa dei nomi simili, Corva è stata confusa con [Corvina Veronese](/vitigni/Italia/corvina-veronese) e [Lambrusca Di Alessandria](/vitigni/Italia/lambrusco-di-alessandria), conosciuta come Corva nel Pinerolese, ma ha un profilo DNA distinto e unico (Vouillamoz).
 
 ## Caratteristiche viticole
 - Maturazione da media a tardiva

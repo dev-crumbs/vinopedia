@@ -26,4 +26,4 @@ Il Lambrusco Oliva, menzionato per la prima volta nel 1886 (Gozzi et al. 2002), 
 Il Lambrusco Oliva è stato aggiunto al registro nazionale dei vitigni in Italia nel dicembre 2000 ed è ora ufficialmente accettato per la coltivazione nelle province di Modena e Reggio Emilia in Emilia-Romagna. 
 
 ## Caratteristiche enologiche
-Ancora fiorente nei vecchi vigneti di queste zone, viene generalmente miscelato con [Lambrusco Marani](/vitigni/lambrusco-marani) e [Lambrusco Salamino](/vitigni/lambrusco-salamino) per produrre vini dal colore intenso, spesso dolci o frizzanti, che possono essere amari se sovraestratti. È autorizzato come parte minore della miscela nelle versioni Lambrusco e Rosso del Reggiano DOC.
+Ancora fiorente nei vecchi vigneti di queste zone, viene generalmente miscelato con [Lambrusco Marani](/vitigni/Italia/lambrusco-marani) e [Lambrusco Salamino](/vitigni/Italia/lambrusco-salamino) per produrre vini dal colore intenso, spesso dolci o frizzanti, che possono essere amari se sovraestratti. È autorizzato come parte minore della miscela nelle versioni Lambrusco e Rosso del Reggiano DOC.

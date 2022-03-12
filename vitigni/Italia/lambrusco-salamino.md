@@ -13,7 +13,7 @@ dateCreated: 2021-09-06T09:44:11.064Z
 ## Bacca
 Nera
 ## Sinonimi
-[Lambrusco Galassi](/vitigni/lambrusco-galassi) (tipo a foglia rossa, vedi sotto), [Lambrusco di Santa Croce](/vitigni/lambrusco-di-santa-croce)
+[Lambrusco Galassi](/vitigni/Italia/lambrusco-galassi) (tipo a foglia rossa, vedi sotto), [Lambrusco di Santa Croce](/vitigni/Italia/lambrusco-di-santa-croce)
 
 ## Origini e parentele
 Il Lambrusco Salamino prende il nome dalla forma cilindrica dei suoi grappoli, che ricorda un piccolo salame. Molto probabilmente è originario del comune di Santa Croce di Carpi nella provincia di Modena in Emilia-Romagna.

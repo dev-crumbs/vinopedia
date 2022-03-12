@@ -43,7 +43,7 @@ Le descrizioni convenzionali del Sangiovese, basate sul lavoro pionieristico del
 
 Alcuni autori ritengono che il Sangiovese sia stato coltivato dagli Etruschi e sia stato addomesticato da uve selvatiche. Tuttavia, non è stato trovato alcun legame genetico tra il Sangiovese e le uve selvatiche della Toscana (Di Vecchi Staraz et al. 2004).
 
-Di Vecchi Staraz, This et al. (2007) suggeriscono, sulla base di trentotto marcatori del DNA, che il [Ciliegiolo](/vitigni/ciliegiolo) è un incrocio tra il Sangiovese e il (non più coltivato) Muscat Rouge de Madère, e che quest'ultimo è in effetti un possibile incrocio tra [Mammolo](/vitigni/bacca-rossa/mammolo) e [Muscat Blanc À Petits Grains](/vitigni/muscat-blanc-a-petit-grains). Tuttavia, questo è contestato per diversi motivi:
+Di Vecchi Staraz, This et al. (2007) suggeriscono, sulla base di trentotto marcatori del DNA, che il [Ciliegiolo](/vitigni/ciliegiolo) è un incrocio tra il Sangiovese e il (non più coltivato) Muscat Rouge de Madère, e che quest'ultimo è in effetti un possibile incrocio tra [Mammolo](/vitigni/Italia/mammolo) e [Muscat Blanc À Petits Grains](/vitigni/muscat-blanc-a-petit-grains). Tuttavia, questo è contestato per diversi motivi:
 
 - Si pensa che il [Muscat Rouge de Madère](/vitigni/muscat-rouge-de-madere) sia di origine portoghese e veniva coltivato solo a Madeira, nel Douro e Lisboa e in Sudafrica (Salomon e Salomon 1902b).
 - Il Muscat Rouge de Madère non ha una storia di coltivazione in Italia.

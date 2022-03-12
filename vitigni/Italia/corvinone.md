@@ -18,10 +18,10 @@ Cruinon
 ## Omonimi
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
-Corbina, [Corvina Veronese](/vitigni/corvina-veronese)
+Corbina, [Corvina Veronese](/vitigni/Italia/corvina-veronese)
 
 ## Origini e parentele
-Corvinone è stato generalmente considerato una mutazione clonale di [Corvina Veronese](/vitigni/corvina-veronese), ma i profili ampelografici, isoenzimatici e del DNA hanno dimostrato che sono varietà distinte (Cancellier e Angelini 1993), anche se potrebbero essere geneticamente correlate.
+Corvinone è stato generalmente considerato una mutazione clonale di [Corvina Veronese](/vitigni/Italia/corvina-veronese), ma i profili ampelografici, isoenzimatici e del DNA hanno dimostrato che sono varietà distinte (Cancellier e Angelini 1993), anche se potrebbero essere geneticamente correlate.
 
 ## Caratteristiche viticole
 - Maturazione tardiva e vigorosa
@@ -29,4 +29,4 @@ Corvinone è stato generalmente considerato una mutazione clonale di [Corvina Ve
 - Suscettibile alla peronospora
 
 ## Diffusione geografica
-In Valpolicella, nel Veneto italiano, il Corvinone può essere sostituito fino al 50% del 40-80% di [Corvina Veronese](/vitigni/corvina-veronese) consentito nei blend per il Valpolicella DOC puro e per l'Amarone e il Recioto DOCG. Può anche far parte dell'assemblaggio nel Bardolino DOC e nel Bardolino Superiore DOCG. Non viene generalmente prodotto come vino varietale. C'erano 95 ha (235 acri) registrati nel censimento agricolo italiano del 2000.
+In Valpolicella, nel Veneto italiano, il Corvinone può essere sostituito fino al 50% del 40-80% di [Corvina Veronese](/vitigni/Italia/corvina-veronese) consentito nei blend per il Valpolicella DOC puro e per l'Amarone e il Recioto DOCG. Può anche far parte dell'assemblaggio nel Bardolino DOC e nel Bardolino Superiore DOCG. Non viene generalmente prodotto come vino varietale. C'erano 95 ha (235 acri) registrati nel censimento agricolo italiano del 2000.

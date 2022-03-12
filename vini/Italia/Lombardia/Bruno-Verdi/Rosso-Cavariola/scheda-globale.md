@@ -15,7 +15,7 @@ dateCreated: 2021-09-04T16:07:47.756Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Oltrepò Pavese DOC](/denominazioni/Italia/Lombardia/DOC/Oltrepo-Pavese) (Riserva)
 - **Produttore:** [Bruno Verdi](/produttori/Italia/Lombardia/Bruno-Verdi) 
-- **Composizione:** 55% [Croatina](/vitigni/bacca-rossa/croatina) + [Barbera](/vitigni/bacca-rossa/barbera) 25% + [Ughetta](/vitigni/bacca-rossa/ughetta) 10% + [Uva rara](/vitigni/bacca-rossa/uva-rara) 10%
+- **Composizione:** 55% [Croatina](/vitigni/Italia/croatina) + [Barbera](/vitigni/Italia/barbera) 25% + [Ughetta](/vitigni/Italia/ughetta) 10% + [Uva rara](/vitigni/Italia/uva-rara) 10%
 - **Affinamento:** 22 mesi in barrique + 8 mesi in cemento
 - **Alcol:** 13%
 - **Fascia di prezzo:** 25-29€

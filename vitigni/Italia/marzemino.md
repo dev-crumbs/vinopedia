@@ -19,7 +19,7 @@ Balsamina, Barzemin, Berzamino, Marzemina Cenerenta, Marzemina Nera, Marzemino C
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Lambrusco Barghi](/vitigni/lambrusco-barghi), [Merzifon Karasi](/vitigni/merzifon-karasi) , [Pavana](/vitigni/pavana) 
+[Lambrusco Barghi](/vitigni/Italia/lambrusco-barghi), [Merzifon Karasi](/vitigni/merzifon-karasi) , [Pavana](/vitigni/pavana) 
 
 ## Origini e parentele
 Il Marzemino è una varietà molto antica dell'Italia settentrionale, citata in Lando (1553) come raccomandata per il Veneto. Si suppone che da lì si sia diffuso in Trentino, Friuli, Lombardia ed Emilia-Romagna (Giavedoni e Gily 2005). Tuttavia, il suo vino fu menzionato per la prima volta in relazione ad un famoso banchetto tenuto il 6 giugno 1409 a Cividale (Friuli) in onore di Papa Gregorio XII, in cui furono serviti i seguenti vini: Ribolla di Rosazzo, Verduzzo di Faedis, Ramandolo di Torlano, Refosco di Albana e Marzemino di Gradiscutta (Peterlunger et al. 2004), un piccolo paese vicino a Varmo in provincia di Udine.
