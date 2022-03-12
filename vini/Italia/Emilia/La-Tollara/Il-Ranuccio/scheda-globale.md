@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Vino generico](/denominazioni/Italia/Vino-generico)
 - **Produttore:** [La Tollara](/produttori/Italia/Emilia/La-Tollara) 
-- **Composizione:** 80% [Malvasia di Candia aromatica](/vitigni/Italia/bacca-bianca/malvasia-di-candia-aromatica) + 20% [Ortrugo](/vitigni/Italia/bacca-bianca/ortrugo)
+- **Composizione:** 80% [Malvasia di Candia aromatica](/vitigni/Italia/malvasia-di-candia-aromatica) + 20% [Ortrugo](/vitigni/Italia/ortrugo)
 - **Affinamento:** acciaio
 - **Alcol:** 12%
 - **Fascia di prezzo:** 10-14€

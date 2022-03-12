@@ -15,7 +15,7 @@ dateCreated: 2021-10-04T06:51:03.801Z
 - **Tipologia:** Bianco fermo 
 - **Denominazione:** [Campi Flegrei DOC](/denominazioni/Italia/Campania/DOC/Campi-Flegrei) (Riserva) 
 - **Produttore:** [La Sibilla](/produttori/Italia/Campania/La Sibilla) 
-- **Composizione:** 100% [Falanghina](/vitigni/Italia/bacca-bianca/Falanghina)
+- **Composizione:** 100% [Falanghina](/vitigni/Italia/Falanghina)
 - **Affinamento:** 6 mesi in acciaio + 12 mesi in bottiglia
 - **Alcol:** 13%
 - **Fascia di prezzo:** 15-19€

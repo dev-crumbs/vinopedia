@@ -15,7 +15,7 @@ dateCreated: 2021-08-25T13:28:17.509Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Frascati Superiore DOCG](/denominazioni/Italia/Lazio/DOCG/Frascati-Superiore) (Riserva)
 - **Produttore:** [Merumalia](/produttori/Italia/Lazio/Merumalia) 
-- **Composizione:** 70% [Malvasia puntinata](/vitigni/Italia/bacca-bianca/malvasia-puntinata) + 20% [Greco](/vitigni/Italia/bacca-bianca/greco) + 10% [Bombino bianco](/vitigni/Italia/bacca-bianca/bombino-bianco)
+- **Composizione:** 70% [Malvasia puntinata](/vitigni/Italia/malvasia-puntinata) + 20% [Greco](/vitigni/Italia/greco) + 10% [Bombino bianco](/vitigni/Italia/bombino-bianco)
 - **Affinamento:** 6 mesi sui lieviti in acciaio
 - **Alcol:** 14%
 - **Fascia di prezzo:** 15-19€

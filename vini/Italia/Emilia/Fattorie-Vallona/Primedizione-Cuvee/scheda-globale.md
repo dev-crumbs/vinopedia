@@ -15,7 +15,7 @@ dateCreated: 2021-08-31T15:46:06.033Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Emilia IGT](/denominazioni/Italia/Emilia/IGT/Colli-Bolognesi)
 - **Produttore:** [Fattorie Vallona](/produttori/Italia/Emilia/Fattorie-Vallona) 
-- **Composizione:**[^1] 50% [Grechetto gentile](/vitigni/Italia/bacca-bianca/grechetto-gentile) + altre varietà
+- **Composizione:**[^1] 50% [Grechetto gentile](/vitigni/Italia/grechetto-gentile) + altre varietà
 - **Affinamento:** solo acciaio
 - **Alcol:** 13.5%
 - **Fascia di prezzo:** 10-14€

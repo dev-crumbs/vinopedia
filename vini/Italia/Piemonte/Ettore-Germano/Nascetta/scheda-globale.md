@@ -15,7 +15,7 @@ dateCreated: 2021-10-04T06:51:07.853Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Langhe DOC](/denominazioni/Italia/Piemonte/DOC/Langhe) (Nascetta)
 - **Produttore:** [Ettore Germano](/produttori/Italia/Piemonte/Ettore-Germano)
-- **Composizione:** 100% [Nascetta](/vitigni/Italia/bacca-bianca/nascetta)
+- **Composizione:** 100% [Nascetta](/vitigni/Italia/nascetta)
 - **Vinificazione:** macerazione sulle bucce
 - **Affinamento:** 6 mesi in anfora
 - **Alcol:** 14.5%

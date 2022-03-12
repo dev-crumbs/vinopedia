@@ -15,7 +15,7 @@ dateCreated: 2021-09-18T16:29:59.606Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Ciliegiolo di Narni IGT](/denominazioni/Italia/Umbria/IGT/Ciliegiolo-di-Narni) 
 - **Produttore:** [Leonardo Bussoletti](/produttori/Italia/Umbria/Leonardo-Bussoletti) 
-- **Composizione:** 100% [Ciliegiolo](/vitigni/Italia/bacca-nera/ciliegiolo) 
+- **Composizione:** 100% [Ciliegiolo](/vitigni/Italia/ciliegiolo) 
 - **Affinamento:** 24 mesi in botte grandi 
 - **Alcol:** 14.5%
 - **Fascia di prezzo:** 20-24€

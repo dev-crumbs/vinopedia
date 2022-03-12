@@ -15,7 +15,7 @@ dateCreated: 2021-08-18T10:27:11.126Z
 - **Tipologia:** Rosso frizzante
 - **Denominazione:** [Lambrusco Grasparossa di Castelvetro DOC](/denominazioni/Italia/Emilia/DOC/Lambrusco-Grasparossa-di-Castelvetro) 
 - **Produttore:** [Zanasi](/produttori/Italia/Emilia/Zanasi) 
-- **Composizione:** 100% [Lambrusco Grasparossa](/vitigni/Italia/bacca-nera/lambrusco-grasparossa)
+- **Composizione:** 100% [Lambrusco Grasparossa](/vitigni/Italia/lambrusco-grasparossa)
 - **Affinamento:** 3 mesi in autoclave
 - **Alcol:** 11.5%
 - **Fascia di prezzo:** 10-14€

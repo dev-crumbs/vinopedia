@@ -15,7 +15,7 @@ dateCreated: 2021-08-29T16:15:50.982Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Etna DOC](/denominazioni/Italia/Sicilia/DOC/Etna) (Rosso Riserva)
 - **Produttore:** [Cantine Nicosia](/produttori/Italia/Sicilia/Cantine-Nicosia) 
-- **Composizione:** 90% [Nerello mascalese](/vitigni/Italia/bacca-nera/nerello-mascalese) + 10% [Nerello cappuccio](/vitigni/Italia/bacca-nera/nerello-cappuccio)
+- **Composizione:** 90% [Nerello mascalese](/vitigni/Italia/nerello-mascalese) + 10% [Nerello cappuccio](/vitigni/Italia/nerello-cappuccio)
 - **Affinamento:** 24 mesi in barrique di rovere
 - **Alcol:** 13.5%
 - **Fascia di prezzo:** 30-34€

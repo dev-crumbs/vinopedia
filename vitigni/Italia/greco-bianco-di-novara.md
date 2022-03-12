@@ -10,4 +10,4 @@ dateCreated: 2021-09-07T05:17:43.430Z
 
 # Greco bianco di Novara
 
-"Greco bianco di Novara" è un sinonimo per il vitigno [Erbaluce](/vitigni/Italia/bacca-bianca/erbaluce).
+"Greco bianco di Novara" è un sinonimo per il vitigno [Erbaluce](/vitigni/Italia/erbaluce).

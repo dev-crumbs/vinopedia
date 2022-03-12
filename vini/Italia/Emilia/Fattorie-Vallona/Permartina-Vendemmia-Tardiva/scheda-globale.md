@@ -15,7 +15,7 @@ dateCreated: 2021-08-31T15:46:06.033Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Colli Bolognesi DOC](/denominazioni/Italia/Emilia/DOC/Colli-Bolognesi)
 - **Produttore:** [Fattorie Vallona](/produttori/Italia/Emilia/Fattorie-Vallona) 
-- **Composizione:** 80% [Grechetto gentile](/vitigni/Italia/bacca-bianca/grechetto-gentile) + 20% [Riesling](/vitigni/Germania/bacca-bianca/riesling)
+- **Composizione:** 80% [Grechetto gentile](/vitigni/Italia/grechetto-gentile) + 20% [Riesling](/vitigni/Germania/bacca-bianca/riesling)
 - **Affinamento:** 24 mesi in acciaio + 24 mesi in barrique + 12 mesi in bottiglia
 - **Alcol:** 14%
 - **Fascia di prezzo:** 10-14€

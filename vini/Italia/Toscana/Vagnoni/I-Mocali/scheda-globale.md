@@ -15,7 +15,7 @@ dateCreated: 2021-10-04T06:51:30.103Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Vernaccia di San Gimignano DOCG](/denominazioni/Italia/Toscana/DOCG/Vernaccia-di-San-Gimignano) (Riserva)
 - **Produttore:** [Vagnoni](/produttori/Italia/Toscana/Vagnoni) 
-- **Composizione:** 100% [Vernaccia di San Gimignano](/vitigni/Italia/bacca-bianca/vernaccia-di-san-gimignano)
+- **Composizione:** 100% [Vernaccia di San Gimignano](/vitigni/Italia/vernaccia-di-san-gimignano)
 - **Affinamento:** 12 mesi barrique 
 - **Alcol:** 13.5%
 - **Fascia di prezzo:** 15-19€

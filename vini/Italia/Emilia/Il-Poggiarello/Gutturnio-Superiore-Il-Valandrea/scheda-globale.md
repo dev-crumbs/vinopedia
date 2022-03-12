@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Gutturnio DOC](/denominazioni/Italia/Emilia/DOC-Gutturnio) (Superiore)
 - **Produttore:** [Il Poggiarello](/produttori/Italia/Emilia/Il-Poggiarello) 
-- **Composizione:** 55% [Barbera](/vitigni/Italia/bacca-nera/barbera) + 45% [Croatina](/vitigni/Italia/bacca-nera/croatina)
+- **Composizione:** 55% [Barbera](/vitigni/Italia/barbera) + 45% [Croatina](/vitigni/Italia/croatina)
 - **Affinamento:** 6 mesi in acciaio
 - **Alcol:** 14%
 - **Fascia di prezzo:** 10-14€

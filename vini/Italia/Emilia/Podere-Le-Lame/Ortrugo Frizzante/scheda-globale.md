@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 - **Tipologia:** Bianco frizzante
 - **Denominazione:** [Ortrugo dei Colli Piacentini DOC](/denominazioni/Italia/Emilia/DOC-Colli-Piacentini)
 - **Produttore:** [Podere Le Lame](/produttori/Italia/Emilia/Podere-Le-Lame) 
-- **Composizione:** 100% [Ortrugo](/vitigni/Italia/bacca-bianca/ortrugo)
+- **Composizione:** 100% [Ortrugo](/vitigni/Italia/ortrugo)
 - **Affinamento:** 3 mesi in acciaio
 - **Alcol:** 11%
 - **Fascia di prezzo:** 5-9€

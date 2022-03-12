@@ -15,7 +15,7 @@ dateCreated: 2021-08-26T10:19:45.262Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Romagna Sangiovese DOC](/denominazioni/Italia/Romagna/DOC/Romagna-Sangiovese) (Superiore - Riserva)
 - **Produttore:** [Drei-Donà](/produttori/Italia/Romagna/Drei-Dona) 
-- **Composizione:** 100% [Sangiovese](/vitigni/Italia/bacca-nera/sangiovese)
+- **Composizione:** 100% [Sangiovese](/vitigni/Italia/sangiovese)
 - **Affinamento:** 18 mesi in barrique + 10 in bottiglia
 - **Alcol:** 13.5%
 - **Fascia di prezzo:** 30-34€ (annate "storiche" possono avere prezzi molto lontani dal range)

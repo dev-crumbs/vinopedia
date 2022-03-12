@@ -15,7 +15,7 @@ dateCreated: 2021-09-24T12:30:47.391Z
 - **Tipologia:** Bianco spumante metodo classico
 - **Denominazione:** [Vino generico](/denominazioni/Italia/Vino-Generico) 
 - **Produttore:** [La Piotta](/produttori/Italia/Lombardia/La-Piotta) 
-- **Composizione:** 100% [Pinot nero](/vitigni/Italia/bacca-nera/pinot-nero)
+- **Composizione:** 100% [Pinot nero](/vitigni/Italia/pinot-nero)
 - **Alcol:** 12.5%
 - **Fascia di prezzo:** 75-79€
 

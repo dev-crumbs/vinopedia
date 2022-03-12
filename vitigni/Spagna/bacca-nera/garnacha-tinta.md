@@ -39,7 +39,7 @@ Vedi [Garnacha](/vitigni/Spagna/bacca-nera/garnacha)
 
 ## Diffusione geografica
 
-La Garnacha Tinta è uno dei vitigni più piantati al mondo, anche perché può prosperare in climi caldi e secchi - quindi è probabile che mantenga questa posizione in un mondo che sta vivendo il cambiamento climatico e dove la siccità sembra un fenomeno sempre più comune. Considerando quanto è comune la varietà, è notevole che le parole Garnacha e Grenache non si vedano più spesso sulle etichette, anche se la varietà viene spesso utilizzata in blend, in particolare con [Syrah](/vitigni/Italia/bacca-nera/syrah) (Shiraz) e Mourvèdre ([Monastrell](/vitigni/bacca-nera/monastrell)) - così spesso che 'GSM' è diventato un nome consolidato per tale miscela.
+La Garnacha Tinta è uno dei vitigni più piantati al mondo, anche perché può prosperare in climi caldi e secchi - quindi è probabile che mantenga questa posizione in un mondo che sta vivendo il cambiamento climatico e dove la siccità sembra un fenomeno sempre più comune. Considerando quanto è comune la varietà, è notevole che le parole Garnacha e Grenache non si vedano più spesso sulle etichette, anche se la varietà viene spesso utilizzata in blend, in particolare con [Syrah](/vitigni/Italia/syrah) (Shiraz) e Mourvèdre ([Monastrell](/vitigni/bacca-nera/monastrell)) - così spesso che 'GSM' è diventato un nome consolidato per tale miscela.
 
 ### In Francia
 

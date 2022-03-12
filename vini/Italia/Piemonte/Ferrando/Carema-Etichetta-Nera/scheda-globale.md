@@ -15,7 +15,7 @@ dateCreated: 2021-09-03T21:03:40.400Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Carema DOC](/denominazioni/Italia/Piemonte/DOC/Carema) 
 - **Produttore:** [Ferrando](/produttori/Italia/Piemonte/Ferrando)
-- **Composizione:** 100% [Nebbiolo](/vitigni/Italia/bacca-nera/nebbiolo)
+- **Composizione:** 100% [Nebbiolo](/vitigni/Italia/nebbiolo)
 - **Affinamento:** 36 mesi in barrique 
 - **Alcol:** 14%
 - **Fascia di prezzo:** 45-49€

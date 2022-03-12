@@ -15,7 +15,7 @@ dateCreated: 2021-09-03T21:02:40.319Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Cirò DOC](/denominazioni/Italia/Calabria/DOC/Ciro) (classico, superiore, riserva)
 - **Produttore:** [Santa Venere](/produttori/Italia/Calabria/Santa-Venere)
-- **Composizione:** 100% [Gaglioppo](/vitigni/Italia/bacca-nera/gaglioppo)
+- **Composizione:** 100% [Gaglioppo](/vitigni/Italia/gaglioppo)
 - **Affinamento:** 12 mesi in botte di rovere + 6 mesi in bottiglia
 - **Alcol:** 14%
 - **Fascia di prezzo:** 20-24€

@@ -15,7 +15,7 @@ dateCreated: 2021-10-04T06:51:15.940Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Albana DOCG](/denominazioni/Italia/Romagna/DOCG/Albana)
 - **Produttore:** [Ancarani](/produttori/Italia/Romagna/Ancarani) 
-- **Composizione:** 100% [Albana](/vitigni/Italia/bacca-bianca/albana)
+- **Composizione:** 100% [Albana](/vitigni/Italia/albana)
 - **Affinamento:** 18 mesi in cemento
 - **Alcol:** 13.5%
 - **Fascia di prezzo:** 20-24€

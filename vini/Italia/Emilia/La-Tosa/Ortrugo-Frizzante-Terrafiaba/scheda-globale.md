@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 - **Tipologia:** Bianco frizzante
 - **Denominazione:** [Ortrugo dei Colli Piacentini DOC](/denominazioni/Italia/Emilia/DOC-Colli-Piacentini)
 - **Produttore:** [La Tosa](/produttori/Italia/Emilia/La-Tosa) 
-- **Composizione:** 90% [Ortrugo](/vitigni/Italia/bacca-bianca/ortrugo) + 10% 100% [Trebbiano romagnolo](/vitigni/Italia/bacca-bianca/trebbiano-romagnolo)
+- **Composizione:** 90% [Ortrugo](/vitigni/Italia/ortrugo) + 10% 100% [Trebbiano romagnolo](/vitigni/Italia/trebbiano-romagnolo)
 - **Affinamento:** 4 mesi in acciaio
 - **Alcol:** 11.5%
 - **Fascia di prezzo:** 5-9€

@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:34:35.864Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Carignano del Sulcis DOC](/denominazioni/Italia/Sardegna/DOC/Carignano-del-Sulcis) (Riserva)
 - **Produttore:** [Mesa](/produttori/Italia/Sardegna/Mesa) 
-- **Composizione:** 100% [Carignano](/vitigni/Italia/bacca-nera/carignano)
+- **Composizione:** 100% [Carignano](/vitigni/Italia/carignano)
 - **Affinamento:** 10 mesi in tonneau + 3 mesi in cemento
 - **Alcol:** 14%
 - **Fascia di prezzo:** 25-29€

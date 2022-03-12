@@ -15,7 +15,7 @@ dateCreated: 2022-01-27T15:21:34.303Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** <span class="denominazione">[Amarone della Valpolicella DOCG](/denominazioni/Italia/Veneto/DOCG/Amarone-della-Valpolicella)</span>  (Classico)
 - **Produttore:** <span class="cantina">[Ca' La Bionda](/produttori/Italia/Veneto/Ca-La-Bionda)</span> 
-- **Composizione:** [Corvina](/vitigni/Italia/bacca-nera/corvina) + [Corvinone](/vitigni/Italia/bacca-nera/corvinone) + [Rondinella](/vitigni/Italia/bacca-nera/rondinella) + [Molinara](/vitigni/Italia/bacca-nera/molinara)
+- **Composizione:** [Corvina](/vitigni/Italia/corvina) + [Corvinone](/vitigni/Italia/corvinone) + [Rondinella](/vitigni/Italia/rondinella) + [Molinara](/vitigni/Italia/molinara)
 - **Affinamento:** 36-42 mesi in botte
 - **Alcol:** 16%
 - **Fascia di prezzo:** 65-69€

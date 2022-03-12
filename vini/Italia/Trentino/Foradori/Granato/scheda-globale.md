@@ -15,7 +15,7 @@ dateCreated: 2021-09-07T19:43:43.029Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Vigneti delle Dolomiti IGT](/denominazioni/Italia/Trentino/IGT/Vigneti-delle-Dolomiti)
 - **Produttore:** [Foradori](/produttori/Italia/Trentino/Foradori) 
-- **Composizione:** 100% [Teroldego](/vitigni/Italia/bacca-nera/teroldego)
+- **Composizione:** 100% [Teroldego](/vitigni/Italia/teroldego)
 - **Affinamento:** 15 mesi in botte di rovere da 30 ettolitri + 20 mesi in bottiglia 
 - **Alcol:** 12.5%
 - **Fascia di prezzo:** 45-49€

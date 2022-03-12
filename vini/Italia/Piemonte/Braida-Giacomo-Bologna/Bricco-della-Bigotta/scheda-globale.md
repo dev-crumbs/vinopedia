@@ -15,7 +15,7 @@ dateCreated: 2021-10-04T06:51:07.853Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Barbera d'Asti DOCG](/denominazioni/Italia/Piemonte/DOCG/Barbera-d-Asti) 
 - **Produttore:** [Braida Giacomo Bologna](/produttori/Italia/Piemonte/Braida-Giacomo-Bologna)
-- **Composizione:** 100% [Barbera](/vitigni/Italia/bacca-nera/barbera)
+- **Composizione:** 100% [Barbera](/vitigni/Italia/barbera)
 - **Affinamento:** 18 mesi in barrique
 - **Alcol:** 14.5%
 - **Fascia di prezzo:** 50-54€

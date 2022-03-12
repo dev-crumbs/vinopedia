@@ -15,7 +15,7 @@ dateCreated: 2021-08-22T21:27:45.497Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Aglianico del Taburno DOCG](/denominazioni/Italia/Campania/DOCG/Aglianico-del-Taburno) (Riserva)
 - **Produttore:** Fontanavecchia
-- **Composizione:** 100% [Aglianico](/vitigni/Italia/bacca-nera/aglianico)
+- **Composizione:** 100% [Aglianico](/vitigni/Italia/aglianico)
 - **Affinamento:** 36 mesi in acciaio + 12 mesi in barrique
 - **Alcol:** 14.5%
 - **Fascia di prezzo:** 15-19€

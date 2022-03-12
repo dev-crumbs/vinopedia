@@ -15,7 +15,7 @@ dateCreated: 2021-09-24T14:29:13.125Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Langhe DOC](/denominazioni/Italia/Piemonte/DOC/Langhe)
 - **Produttore:** [Ceretto](/produttori/Italia/Piemonte/Ceretto)
-- **Composizione:** 100% [Arneis](/vitigni/Italia/bacca-bianca/arneis)
+- **Composizione:** 100% [Arneis](/vitigni/Italia/arneis)
 - **Affinamento:** - 
 - **Alcol:** 13%
 - **Fascia di prezzo:** 15-19€

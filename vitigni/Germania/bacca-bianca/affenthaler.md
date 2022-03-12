@@ -17,7 +17,7 @@ Nera
 Blauer Affenthaler, Kleiner Trollinger, Säuerlicher Burgunder
 
 ## Origini e parentele
-Affenthaler è un'antica varietà di Affental vicino a Baden-Baden nel Baden-Württemberg, Germania meridionale, recentemente recuperata da due vecchie viti scoperte a Kaisersbach e Steinheim nel 2004. Affenthaler fu menzionato per la prima volta da Johann Michael Sommer nel 1791 (Krämer 2006). Veniva coltivato lungo il Neckar, a Enztal, Remstal e Hohenlohe, insieme a [Blaufränkisch](/vitigni/Austria/bacca-nera/blaufrankisch) (aka Limberger) e [Schiava grossa](/vitigni/Italia/bacca-nera/schiava-grossa) (aka Trollinger). Probabilmente è per questo che Affenthaler a volte viene chiamato Kleiner Trollinger.
+Affenthaler è un'antica varietà di Affental vicino a Baden-Baden nel Baden-Württemberg, Germania meridionale, recentemente recuperata da due vecchie viti scoperte a Kaisersbach e Steinheim nel 2004. Affenthaler fu menzionato per la prima volta da Johann Michael Sommer nel 1791 (Krämer 2006). Veniva coltivato lungo il Neckar, a Enztal, Remstal e Hohenlohe, insieme a [Blaufränkisch](/vitigni/Austria/bacca-nera/blaufrankisch) (aka Limberger) e [Schiava grossa](/vitigni/Italia/schiava-grossa) (aka Trollinger). Probabilmente è per questo che Affenthaler a volte viene chiamato Kleiner Trollinger.
 
 Sebbene sia anche chiamato Säuerlicher Burgunder (che significa 'Pinot acido'), l'analisi di parentela del DNA ha dimostrato che Affenthaler non è imparentato con PINOT, ma ha una relazione genitore-figlia con [Gouais Blanc](/vitigni/bacca-bianca/gouais-blanc) (Boursiquot et al. 2004). Data l'ascendenza di Gouais Blanc, Affenthaler è molto probabilmente un incrocio naturale tra Gouais Blanc e un'altra varietà sconosciuta (forse estinta).
 

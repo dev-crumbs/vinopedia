@@ -20,7 +20,7 @@ Terbiàn Moscatlè (Modena), Terbianella, Trebbiano Comune, Trebbiano di Collina
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Trebbiano Giallo](/vitigni/Italia/bacca-bianca/trebbiano-giallo), [Trebbiano Romagnolo](/vitigni/Italia/bacca-bianca/trebbiano-romagnolo)
+[Trebbiano Giallo](/vitigni/Italia/trebbiano-giallo), [Trebbiano Romagnolo](/vitigni/Italia/trebbiano-romagnolo)
 
 ## Caratteristiche viticole
 

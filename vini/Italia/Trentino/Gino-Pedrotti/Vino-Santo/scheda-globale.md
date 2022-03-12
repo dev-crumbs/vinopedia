@@ -15,7 +15,7 @@ dateCreated: 2021-08-31T18:33:45.773Z
 - **Tipologia:** Bianco passito
 - **Denominazione:** [Trentino DOC](/denominazioni/Italia/Trentino/DOC/Trentino)
 - **Produttore:** [Gino Pedrotti](/produttori/Italia/Trentino/Gino-Pedrotti) 
-- **Composizione:** 100% [Nosiola](/vitigni/Italia/bacca-bianca/nosiola)
+- **Composizione:** 100% [Nosiola](/vitigni/Italia/nosiola)
 - **Affinamento:** 6 mesi di appassimento su graticci + 5 anni in acciaio sui lieviti + 5 anni in barrique sui lieviti
 - **Alcol:** 12%
 - **Fascia di prezzo:** 35-39€

@@ -15,7 +15,7 @@ dateCreated: 2021-09-30T08:13:57.364Z
 - **Tipologia:** Rosato fermo
 - **Denominazione:** [Bardolino Chiaretto DOC](/denominazioni/Italia/Veneto/DOC/Bardolino-Chiaretto)
 - **Produttore:** [Giovanna Tantini](/produttori/Italia/Veneto/Giovanna-Tantini) 
-- **Composizione:** 80% [Corvina](/vitigni/Italia/bacca-nera/corvina) + 15% [Rondinella](/vitigni/Italia/bacca-nera/rondinella) + 5% [Rondinella](/vitigni/Italia/bacca-nera/molinara)
+- **Composizione:** 80% [Corvina](/vitigni/Italia/corvina) + 15% [Rondinella](/vitigni/Italia/rondinella) + 5% [Rondinella](/vitigni/Italia/molinara)
 - **Affinamento:** 6 mesi in acciaio
 - **Alcol:** 12.5%
 - **Fascia di prezzo:** 10-14€

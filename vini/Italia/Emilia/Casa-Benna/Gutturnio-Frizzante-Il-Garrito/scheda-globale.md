@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 - **Tipologia:** Rosso frizzante
 - **Denominazione:** [Gutturnio DOC](/denominazioni/Italia/Emilia/DOC-Gutturnio)
 - **Produttore:** [Casa Benna](/produttori/Italia/Emilia/Casa-Benna) 
-- **Composizione:** 60% [Barbera](/vitigni/Italia/bacca-nera/barbera) + 40% [Croatina](/vitigni/Italia/bacca-nera/croatina)
+- **Composizione:** 60% [Barbera](/vitigni/Italia/barbera) + 40% [Croatina](/vitigni/Italia/croatina)
 - **Affinamento:** 3 mesi in acciaio
 - **Alcol:** 13%
 - **Fascia di prezzo:** 5-9€

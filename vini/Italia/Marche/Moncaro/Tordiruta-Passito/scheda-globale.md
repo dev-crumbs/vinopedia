@@ -15,7 +15,7 @@ dateCreated: 2021-09-01T10:16:55.566Z
 - **Tipologia:** Bianco passito
 - **Denominazione:** [Verdicchio dei Castelli di Jesi DOC](/denominazioni/Italia/Marche/DOC/Verdicchio-dei-Castelli-di-Jesi)
 - **Produttore:** [Moncaro](/produttori/Italia/Marche/Moncaro) 
-- **Composizione:** 100% [Verdicchio](/vitigni/Italia/bacca-bianca/verdicchio)
+- **Composizione:** 100% [Verdicchio](/vitigni/Italia/verdicchio)
 - **Fascia di prezzo:** 30-34€
 {.grid-list}
 

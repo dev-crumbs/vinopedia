@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Vino generico](/denominazioni/Italia/Vino-generico)
 - **Produttore:** [La Tollara](/produttori/Italia/Emilia/La-Tollara) 
-- **Composizione:** 100% [Croatina](/vitigni/Italia/bacca-nera/croatina)
+- **Composizione:** 100% [Croatina](/vitigni/Italia/croatina)
 - **Vinificazione:** 60 giorni di appassimento in fruttaio
 - **Affinamento:** 24 mesi in botte grande
 - **Alcol:** 15.5%

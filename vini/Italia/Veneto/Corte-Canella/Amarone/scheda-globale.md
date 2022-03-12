@@ -15,7 +15,7 @@ dateCreated: 2022-01-15T21:40:12.066Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Amarone della Valpolicella DOCG](/denominazioni/Italia/Veneto/DOCG/Amarone-della-Valpolicella)
 - **Produttore:** [Corte Canella](/produttori/Italia/Veneto/Corte-Canella) 
-- **Composizione:** [Corvina](/vitigni/Italia/bacca-nera/corvina) + [Corvinone](/vitigni/Italia/bacca-nera/corvinone) + [Rondinella](/vitigni/Italia/bacca-nera/rondinella) + [Croatina](/vitigni/Italia/bacca-nera/croatina)
+- **Composizione:** [Corvina](/vitigni/Italia/corvina) + [Corvinone](/vitigni/Italia/corvinone) + [Rondinella](/vitigni/Italia/rondinella) + [Croatina](/vitigni/Italia/croatina)
 - **Affinamento:** 36 mesi in botte
 - **Alcol:** 17.5%
 - **Fascia di prezzo:** 65-69€

@@ -15,7 +15,7 @@ dateCreated: 2022-01-27T15:21:34.303Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** <span class="denominazione">[Veneto IGT](/denominazioni/Italia/Veneto/IGT/Veneto)</span>
 - **Produttore:** <span class="cantina">[Pietro Zardini](/produttori/Italia/Veneto/Pietro-Zardini)</span> 
-- **Composizione:** 70% [Corvina](/vitigni/Italia/bacca-nera/corvina) + [Molinara](/vitigni/Italia/bacca-nera/molinara) 20% + 5% [Rondinella](/vitigni/Italia/bacca-nera/rondinella) + 5% [Rossignola](/vitigni/Italia/bacca-nera/rossignola)
+- **Composizione:** 70% [Corvina](/vitigni/Italia/corvina) + [Molinara](/vitigni/Italia/molinara) 20% + 5% [Rondinella](/vitigni/Italia/rondinella) + 5% [Rossignola](/vitigni/Italia/rossignola)
 - **Affinamento:** 24 mesi in botte grande
 - **Alcol:** 15%
 - **Fascia di prezzo:** 15-19€

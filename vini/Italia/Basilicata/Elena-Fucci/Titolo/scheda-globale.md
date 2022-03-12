@@ -15,7 +15,7 @@ dateCreated: 2021-09-30T08:13:22.567Z
 - **Tipologia:** Rosso fermo 
 - **Denominazione:** [Aglianico del Vulture DOC](/denominazioni/Italia/Basilicata/DOC/Aglianico-del-Vulture)
 - **Produttore:** [Elena Fucci](/produttori/Italia/Basilicata/Elena-Fucci) 
-- **Composizione:** 100% [Aglianico del Vulture](/vitigni/Italia/bacca-nera/aglianico-del-vulture)
+- **Composizione:** 100% [Aglianico del Vulture](/vitigni/Italia/aglianico-del-vulture)
 - **Affinamento:** 12 mesi in barrique e 12 mesi in bottiglia
 - **Alcol:** 14%
 - **Fascia di prezzo:** 30-34€

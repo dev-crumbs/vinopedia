@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Vino generico](/denominazioni/Italia/Vino-generico) 
 - **Produttore:** [La Pergola](/produttori/Italia/Emilia/La-Pergola) 
-- **Composizione:** 100% [Croatina](/vitigni/Italia/bacca-nera/croatina)
+- **Composizione:** 100% [Croatina](/vitigni/Italia/croatina)
 - **Affinamento:** 36 mesi in botte 
 - **Alcol:** 14.5%
 - **Fascia di prezzo:** 15-19€

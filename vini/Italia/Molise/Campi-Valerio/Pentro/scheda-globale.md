@@ -15,7 +15,7 @@ dateCreated: 2021-08-26T20:26:44.724Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Pentro DOC](/denominazioni/Italia/Molise/DOC/Pentro) 
 - **Produttore:** [Campi Valerio](/produttori/Italia/Molise/Campi-Valerio) 
-- **Composizione:** 75% [Montepulciano](/vitigni/Italia/bacca-nera/montepulciano) + 25% [Tintilia](/vitigni/Italia/bacca-nera/tintilia-del-molise)
+- **Composizione:** 75% [Montepulciano](/vitigni/Italia/montepulciano) + 25% [Tintilia](/vitigni/Italia/tintilia-del-molise)
 - **Affinamento:** 24 mesi in barrique + 36 mesi in bottiglia
 - **Alcol:** 14.5%
 - **Fascia di prezzo:** 100-124€

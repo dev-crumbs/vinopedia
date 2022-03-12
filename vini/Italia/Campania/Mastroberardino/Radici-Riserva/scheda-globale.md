@@ -15,7 +15,7 @@ dateCreated: 2021-09-03T21:02:52.418Z
 - **Tipologia:** Rosso fermo 
 - **Denominazione:** [Taurasi DOCG](/denominazioni/Italia/Campania/DOCG/Taurasi) (Riserva) 
 - **Produttore:** [Mastroberardino](/produttori/Italia/Campania/Mastroberardino) 
-- **Composizione:** 100% [Aglianico](/vitigni/Italia/bacca-nera/aglianico)
+- **Composizione:** 100% [Aglianico](/vitigni/Italia/aglianico)
 - **Affinamento:** 30 mesi in barrique + 40 mesi in bottiglia
 - **Alcol:** 13%
 - **Fascia di prezzo:** 35-39€

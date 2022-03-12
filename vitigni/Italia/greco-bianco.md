@@ -17,15 +17,15 @@ bianca
 Greco Bianco di Cosenza, Greco Bianco di Rogliano, Pecorello Bianco
 
 ## Omonimi
-[Greco](/vitigni/Italia/bacca-bianca/greco), [Guardavalle](/vitigni/Italia/bacca-bianca/guardavalle) (conosciuto anche come Greco Bianco di Cirò), [Maceratino](/vitigni/Italia/bacca-bianca/maceratino) (Marche), [Malvasia di lipari](/vitigni/Italia/bacca-bianca/malvasia-di-lipari) (conosciuto anche come Greco Bianco di Gerace o Greco di Gerace), [Rossetto](/vitigni/Italia/bacca-bianca/rossetto)
+[Greco](/vitigni/Italia/greco), [Guardavalle](/vitigni/Italia/guardavalle) (conosciuto anche come Greco Bianco di Cirò), [Maceratino](/vitigni/Italia/maceratino) (Marche), [Malvasia di lipari](/vitigni/Italia/malvasia-di-lipari) (conosciuto anche come Greco Bianco di Gerace o Greco di Gerace), [Rossetto](/vitigni/Italia/rossetto)
 
 ## Origini e parentele
 
-I nomi Greco e Grechetto sono stati dati a diverse varietà distinte dell'Italia meridionale utilizzate per produrre vini dolci, probabilmente solo con riferimento agli stili tradizionali di vino dolce dell'antica Grecia (Costacurta et al. 2004) piuttosto che perché sono di origine greca. Il Greco Bianco è distinto dal GRECO in Campania e dal Greco di Bianco, che prende il nome da un villaggio costiero calabrese che un tempo faceva parte del villaggio di Gerace (da cui il sinonimo), che è stato dimostrato essere identico alla [Malvasia di Lipari](/vitigni/Italia/bacca-bianca/malvasia-di-lipari) (Crespan, Cabello et al. 2006). È anche distinto dal Greco Bianco di Cirò, che è identico a [Guardavalle](/vitigni/Italia/bacca-bianca/guardavalle) (Costacurta et al. 2004). Anche il Pecorello Bianco di Calabria è stato recentemente trovato identico al Greco Bianco (Schneider, Raimondi, Grando et al. 2008).
+I nomi Greco e Grechetto sono stati dati a diverse varietà distinte dell'Italia meridionale utilizzate per produrre vini dolci, probabilmente solo con riferimento agli stili tradizionali di vino dolce dell'antica Grecia (Costacurta et al. 2004) piuttosto che perché sono di origine greca. Il Greco Bianco è distinto dal GRECO in Campania e dal Greco di Bianco, che prende il nome da un villaggio costiero calabrese che un tempo faceva parte del villaggio di Gerace (da cui il sinonimo), che è stato dimostrato essere identico alla [Malvasia di Lipari](/vitigni/Italia/malvasia-di-lipari) (Crespan, Cabello et al. 2006). È anche distinto dal Greco Bianco di Cirò, che è identico a [Guardavalle](/vitigni/Italia/guardavalle) (Costacurta et al. 2004). Anche il Pecorello Bianco di Calabria è stato recentemente trovato identico al Greco Bianco (Schneider, Raimondi, Grando et al. 2008).
 
 ## Altre ipotesi
 
-Come per il [Greco](/vitigni/Italia/bacca-bianca/greco), è stato suggerito che il Greco Bianco sia stato introdotto dai Greci nell'ottavo o settimo secolo a.C.
+Come per il [Greco](/vitigni/Italia/greco), è stato suggerito che il Greco Bianco sia stato introdotto dai Greci nell'ottavo o settimo secolo a.C.
 
 ## Diffusione geografica
 

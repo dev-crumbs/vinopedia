@@ -15,7 +15,7 @@ dateCreated: 2021-09-28T20:44:27.577Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Teroldego Rotaliano DOC](/denominazioni/Italia/Trentino/DOC/Vigneti-delle-Dolomiti)
 - **Produttore:** [Luigi Zanini](/produttori/Italia/Trentino/Luigi Zanini) 
-- **Composizione:** 100% [Teroldego](/vitigni/Italia/bacca-nera/teroldego)
+- **Composizione:** 100% [Teroldego](/vitigni/Italia/teroldego)
 - **Affinamento:** 12 mesi in barrique 
 - **Alcol:** 13.5%
 - **Fascia di prezzo:** 10-14€

@@ -15,7 +15,7 @@ dateCreated: 2021-09-07T15:36:11.646Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Chianti Classico DOCG](/denominazioni/Italia/Toscana/DOCG/Chianti-Classico) (Gran selezione, Riserva)
 - **Produttore:** [Castello Monsanto](/produttori/Italia/Toscana/Castello-Monsanto) 
-- **Composizione:** 90% [Sangiovese](/vitigni/Italia/bacca-nera/sangiovese) + 5% [Canaiolo](/vitigni/Italia/bacca-nera/canaiolo) + 5% [Colorino](/vitigni/Italia/bacca-nera/colorino)[^1] 
+- **Composizione:** 90% [Sangiovese](/vitigni/Italia/sangiovese) + 5% [Canaiolo](/vitigni/Italia/canaiolo) + 5% [Colorino](/vitigni/Italia/colorino)[^1] 
 - **Affinamento:** 18 mesi in botti di rovere + 24 mesi in bottiglia
 - **Alcol:** 14%
 - **Fascia di prezzo:** 55-59€

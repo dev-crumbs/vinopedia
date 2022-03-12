@@ -15,7 +15,7 @@ dateCreated: 2021-09-24T12:31:16.342Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Barbaresco DOCG](/denominazioni/Italia/Piemonte/DOCG/Barbaresco) (Albesani)
 - **Produttore:** [Castello di Neive](/produttori/Italia/Piemonte/Castello-di-Neive)
-- **Composizione:** 100% [Nebbiolo](/vitigni/Italia/bacca-nera/nebbiolo)
+- **Composizione:** 100% [Nebbiolo](/vitigni/Italia/nebbiolo)
 - **Affinamento:** 12 mesi in botte grande
 - **Alcol:** 14.5%
 - **Fascia di prezzo:** 55-59€

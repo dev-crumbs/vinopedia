@@ -15,7 +15,7 @@ dateCreated: 2021-10-04T06:51:07.853Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Barbera d'Alba DOC](/denominazioni/Italia/Piemonte/DOC/Barbera-d-Alba) (superiore)
 - **Produttore:** [Manzone](/produttori/Italia/Piemonte/Manzone)
-- **Composizione:** 100% [Barbera](/vitigni/Italia/bacca-nera/barbera)
+- **Composizione:** 100% [Barbera](/vitigni/Italia/barbera)
 - **Affinamento:** 2 anni in
 - **Alcol:** 14.5%
 - **Fascia di prezzo:** 25-29€

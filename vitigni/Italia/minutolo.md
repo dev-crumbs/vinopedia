@@ -20,7 +20,7 @@ Fiano Aromatico, Fiano della Valle d’Itria, Fiano di Puglia, Fiano di Salento,
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Fiano](/vitigni/Italia/bacca-bianca/fiano)
+[Fiano](/vitigni/Italia/fiano)
 
 
 ## Origini e parentele
@@ -38,6 +38,6 @@ Il Minutolo, una specialità della Puglia, Italia meridionale, fu salvato dall'o
 
 ## Caratteristiche enologiche
 
-Il Minutolo è autorizzato in tutta la Puglia e viene usato principalmente in blend nelle DOC Locorotondo e Martina/Martina Franca. Torrevento produce uno di questi blend utilizzando uve del vigneto di Carparelli. Stanno proliferando versioni varietali come il Ramone de I Pastini e il Magia di Feudi di San Marzano. I vini, se vinificati con cura in modo da mantenere la freschezza, tendono ad essere intensamente vinosi, ricordando un po' il [Moscato di Alessandria](/vitigni/Italia/bacca-bianca/moscato-di-alessandria), con sapori floreali, di agrumi o di frutta bianca ed erbe.
+Il Minutolo è autorizzato in tutta la Puglia e viene usato principalmente in blend nelle DOC Locorotondo e Martina/Martina Franca. Torrevento produce uno di questi blend utilizzando uve del vigneto di Carparelli. Stanno proliferando versioni varietali come il Ramone de I Pastini e il Magia di Feudi di San Marzano. I vini, se vinificati con cura in modo da mantenere la freschezza, tendono ad essere intensamente vinosi, ricordando un po' il [Moscato di Alessandria](/vitigni/Italia/moscato-di-alessandria), con sapori floreali, di agrumi o di frutta bianca ed erbe.
 
 

@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 - **Tipologia:** Bianco passito
 - **Denominazione:** [Emilia IGT](/denominazioni/Italia/Emilia/IGT/Emilia)
 - **Produttore:** [La Tosa](/produttori/Italia/Emilia/La-Tosa) 
-- **Composizione:** 100% [Malvasia aromatica di Candia](/vitigni/Italia/bacca-bianca/malvasia-di-candia-aromatica)
+- **Composizione:** 100% [Malvasia aromatica di Candia](/vitigni/Italia/malvasia-di-candia-aromatica)
 - **Affinamento:** 5 mesi in acciaio
 - **Alcol:** 12%
 - **Fascia di prezzo:** 25-29€

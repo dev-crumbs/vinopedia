@@ -15,7 +15,7 @@ dateCreated: 2021-10-01T09:53:23.581Z
 - **Tipologia:** Rosato fermo
 - **Denominazione:** [Bardolino DOC](/denominazioni/Italia/Veneto/DOC/Bardolino) (Chiaretto)
 - **Produttore:** [Le Fraghe](/produttori/Italia/Veneto/Le-Fraghe) 
-- **Composizione:** 80% [Corvina](/vitigni/Italia/bacca-nera/corvina) + 20% [Rondinella](/vitigni/Italia/bacca-nera/rondinella)
+- **Composizione:** 80% [Corvina](/vitigni/Italia/corvina) + 20% [Rondinella](/vitigni/Italia/rondinella)
 - **Affinamento:** solo acciaio
 - **Alcol:** 12.5%
 - **Fascia di prezzo:** 10-14€

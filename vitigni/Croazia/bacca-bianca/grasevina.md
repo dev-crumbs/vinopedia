@@ -20,7 +20,7 @@ Borba (Ribera del Guadiana in Spagna), Graševina Bijela (Croazia), Riesling ita
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Aligoté](/vitigni/bacca-bianca/aligote), [Greco](/vitigni/Italia/bacca-bianca/greco), [Petit Meslier](/vitigni/bacca-bianca/petit-meslier), [Pignoletto](/vitigni/bacca-bianca/pignoletto), [Riesling](/vitigni/Germania/bacca-bianca/riesling)
+[Aligoté](/vitigni/bacca-bianca/aligote), [Greco](/vitigni/Italia/greco), [Petit Meslier](/vitigni/bacca-bianca/petit-meslier), [Pignoletto](/vitigni/bacca-bianca/pignoletto), [Riesling](/vitigni/Germania/bacca-bianca/riesling)
 
 
 ## Origini e parentele
@@ -39,7 +39,7 @@ Graševina è stata usata (sotto diversi sinonimi) per allevare diverse varietà
 
 ### Altre Ipotesi
 
-L'ampelografo Ludwig von Babo (1843-4) suggerì che la Graševina (sotto il nome di Wälschriesling) fu introdotta a Heidelberg in Germania dalla regione dello Champagne, dove la identificò provvisoriamente con [Aligoté](/vitigni/bacca-bianca/aligote) o [Petit Meslier](/vitigni/bacca-bianca/petit-meslier). Tuttavia, la Graševina non è imparentata con quelle varietà e non è mai stata coltivata in Francia. I nomi Welsch, Laški e Vlašsk´y preceduti o seguiti da Riesling in diverse lingue significano tutti presumibilmente 'dalla Valacchia' (una regione storica della Romania), suggerendo un'origine rumena. Tuttavia, questo è dubbio perché i romeni stessi lo chiamano Riesling italiano e i loro vicini ungheresi lo hanno semplicemente tradotto (olasz significa 'italiano'). Per alcuni autori, il nome Riesling Italico suggerisce un'origine italiana per questa varietà, ed è stata proposta una somiglianza con [Greco](/vitigni/Italia/bacca-bianca/greco) (aka Greco di Tufo) perché entrambi presumibilmente assomigliano alla Vitis aminea gemella romana (Giavedoni e Gily 2005). Il profilo del DNA, tuttavia, respinge chiaramente qualsiasi legame genetico tra Graševina e Greco.
+L'ampelografo Ludwig von Babo (1843-4) suggerì che la Graševina (sotto il nome di Wälschriesling) fu introdotta a Heidelberg in Germania dalla regione dello Champagne, dove la identificò provvisoriamente con [Aligoté](/vitigni/bacca-bianca/aligote) o [Petit Meslier](/vitigni/bacca-bianca/petit-meslier). Tuttavia, la Graševina non è imparentata con quelle varietà e non è mai stata coltivata in Francia. I nomi Welsch, Laški e Vlašsk´y preceduti o seguiti da Riesling in diverse lingue significano tutti presumibilmente 'dalla Valacchia' (una regione storica della Romania), suggerendo un'origine rumena. Tuttavia, questo è dubbio perché i romeni stessi lo chiamano Riesling italiano e i loro vicini ungheresi lo hanno semplicemente tradotto (olasz significa 'italiano'). Per alcuni autori, il nome Riesling Italico suggerisce un'origine italiana per questa varietà, ed è stata proposta una somiglianza con [Greco](/vitigni/Italia/greco) (aka Greco di Tufo) perché entrambi presumibilmente assomigliano alla Vitis aminea gemella romana (Giavedoni e Gily 2005). Il profilo del DNA, tuttavia, respinge chiaramente qualsiasi legame genetico tra Graševina e Greco.
 
 ## Caratteristiche viticole
 

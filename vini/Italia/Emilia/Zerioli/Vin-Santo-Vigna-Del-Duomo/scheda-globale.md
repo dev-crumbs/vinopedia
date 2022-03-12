@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 - **Tipologia:** Bianco passito
 - **Denominazione:** [Colli Piacentini DOC](/denominazioni/Italia/Emilia/DOC-Colli-Piacentini)
 - **Produttore:** [Zerioli](/produttori/Italia/Emilia/Zerioli) 
-- **Composizione:** 100% [Malvasia di Candia aromatica](/vitigni/Italia/bacca-bianca/malvasia-di-candia-aromatica)
+- **Composizione:** 100% [Malvasia di Candia aromatica](/vitigni/Italia/malvasia-di-candia-aromatica)
 - **Affinamento:** 60 mesi in barrique + 30 mesi in bottiglia
 - **Alcol:** 13.5%
 - **Fascia di prezzo:** 20-24€

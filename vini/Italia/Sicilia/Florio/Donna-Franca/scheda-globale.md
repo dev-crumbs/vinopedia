@@ -15,7 +15,7 @@ dateCreated: 2021-09-08T07:39:57.694Z
 - **Tipologia:** Bianco liquoroso
 - **Denominazione:** [Marsala DOC](/denominazioni/Italia/Sicilia/DOC/Marsala) (Superiore riserva, Semisecco, Ambra)
 - **Produttore:** [Florio](/produttori/Italia/Sicilia/Florio) 
-- **Composizione:** 100% [Grillo](/vitigni/Italia/bacca-nera/grillo)
+- **Composizione:** 100% [Grillo](/vitigni/Italia/grillo)
 - **Affinamento:** 15 anni in carati di rovere + 12 mesi in bottiglia
 - **Alcol:** 19%
 - **Fascia di prezzo:** 35-39€

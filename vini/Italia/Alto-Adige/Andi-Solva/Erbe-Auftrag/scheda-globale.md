@@ -15,7 +15,7 @@ dateCreated: 2021-08-29T16:14:45.767Z
 - **Tipologia:** Rosso fermo 
 - **Denominazione:** [Alto Adige DOC](/denominazioni/Italia/Alto-Adige/DOC/Alto-Adige) (Lago di Caldaro)
 - **Produttore:** [Andi Solva](/produttori/Italia/Alto-Adige/Andi Solva) 
-- **Composizione:** 92% [Schiava](/vitigni/Italia/bacca-nera/schiava) + 8% [Lagrein](/vitigni/Italia/bacca-nera/lagrein)
+- **Composizione:** 92% [Schiava](/vitigni/Italia/schiava) + 8% [Lagrein](/vitigni/Italia/lagrein)
 - **Affinamento:** vendemmia tardiva, 22 mesi in legno
 - **Alcol:** 14%
 - **Fascia di prezzo:** 25-29€

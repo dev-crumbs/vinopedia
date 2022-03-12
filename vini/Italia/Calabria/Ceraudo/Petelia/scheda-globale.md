@@ -15,7 +15,7 @@ dateCreated: 2021-09-08T09:21:00.113Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Val di Neto IGT](/denominazioni/Italia/Calabria/IGT/Val-di-Neto)
 - **Produttore:** [Ceraudo](/produttori/Italia/Calabria/Ceraudo)
-- **Composizione:** 50% [Greco bianco](/vitigni/Italia/bacca-bianca/greco-bianco) + 50% [Mantonico bianco](/vitigni/Italia/bacca-bianca/mantonico-bianco) 
+- **Composizione:** 50% [Greco bianco](/vitigni/Italia/greco-bianco) + 50% [Mantonico bianco](/vitigni/Italia/mantonico-bianco) 
 - **Affinamento:** 8 mesi in acciaio + 1 mese sui lieviti
 - **Alcol:** 13.5%
 - **Fascia di prezzo:** 10-14€

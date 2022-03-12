@@ -15,7 +15,7 @@ dateCreated: 2021-09-30T08:13:22.567Z
 - **Tipologia:** Rosso fermo 
 - **Denominazione:** [Aglianico del Vulture DOC](/denominazioni/Italia/Basilicata/DOC/Aglianico-del-Vulture)
 - **Produttore:** [Cantina di Venosa](/produttori/Italia/Basilicata/Cantina-di-Venosa) 
-- **Composizione:** 100% [Aglianico del Vulture](/vitigni/Italia/bacca-nera/aglianico-del-vulture)
+- **Composizione:** 100% [Aglianico del Vulture](/vitigni/Italia/aglianico-del-vulture)
 - **Affinamento:** 9 mesi in barrique
 - **Alcol:** 14%
 - **Fascia di prezzo:** 10-14€

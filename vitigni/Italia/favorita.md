@@ -10,4 +10,4 @@ dateCreated: 2021-09-24T12:43:35.456Z
 
 # Favorita
 
-"Favorita" è un sinonimo utilizzato nella zona del Roero (Piemonte - Italia) per il vitigno [Vermentino](/vitigni/Italia/bacca-bianca/vermentino).
+"Favorita" è un sinonimo utilizzato nella zona del Roero (Piemonte - Italia) per il vitigno [Vermentino](/vitigni/Italia/vermentino).

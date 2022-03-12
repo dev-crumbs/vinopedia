@@ -15,7 +15,7 @@ dateCreated: 2022-01-27T15:21:34.303Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** <span class="denominazione">[Valpolicella DOC](/denominazioni/Italia/Veneto/DOC/Valpolicella)</span> (Ripasso, Superiore)
 - **Produttore:** <span class="cantina">[Pietro Zardini](/produttori/Italia/Veneto/Pietro-Zardini)</span> 
-- **Composizione:** 50% [Corvina](/vitigni/Italia/bacca-nera/corvina) + 40% [Corvinone](/vitigni/Italia/bacca-nera/corvinone) + 10% [Rondinella](/vitigni/Italia/bacca-nera/rondinella)
+- **Composizione:** 50% [Corvina](/vitigni/Italia/corvina) + 40% [Corvinone](/vitigni/Italia/corvinone) + 10% [Rondinella](/vitigni/Italia/rondinella)
 - **Affinamento:** 24 mesi in botte grande
 - **Alcol:** 14%
 - **Fascia di prezzo:** 15-19€

@@ -20,7 +20,7 @@ Caccarella, Greco (Roero in Piemonte), Malvasia Bianca (California), Malvasia Gr
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Malvasia Bianca Di Candia](/vitigni/Italia/bacca-bianca/malvasia-bianca-di-candia), [Malvasia Bianca Lunga](/vitigni/Italia/bacca-bianca/malvasia-bianca-lunga), [Malvasia Del Lazio](/vitigni/Italia/bacca-bianca/malvasia-del-lazio), [Malvasia Di Lipari](/vitigni/Italia/bacca-bianca/malvasia-di-lipari)
+[Malvasia Bianca Di Candia](/vitigni/Italia/malvasia-bianca-di-candia), [Malvasia Bianca Lunga](/vitigni/Italia/malvasia-bianca-lunga), [Malvasia Del Lazio](/vitigni/Italia/malvasia-del-lazio), [Malvasia Di Lipari](/vitigni/Italia/malvasia-di-lipari)
 
 
 ## Origini e parentele

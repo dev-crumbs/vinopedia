@@ -20,7 +20,7 @@ Cagnina (Vicenza), Caina, Durella Gentile (La Spezia in Liguria e Massa-Carrara 
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Nosiola](/vitigni/Italia/bacca-bianca/nosiola)
+[Nosiola](/vitigni/Italia/nosiola)
 
 
 ## Origini e Parentele

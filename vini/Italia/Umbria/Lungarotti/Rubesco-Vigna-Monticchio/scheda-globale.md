@@ -15,7 +15,7 @@ dateCreated: 2021-09-18T16:29:59.606Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Torgiano Rosso Riserva DOCG](/denominazioni/Italia/Umbria/DOCG/Torgiano-Rosso-Riserva) 
 - **Produttore:** [Lungarotti](/produttori/Italia/Umbria/Lungarotti) 
-- **Composizione:** 100% [Sangiovese](/vitigni/Italia/bacca-nera/sangiovese) 
+- **Composizione:** 100% [Sangiovese](/vitigni/Italia/sangiovese) 
 - **Affinamento:** 12 mesi in barrique e botti grandi + 4 anni in bottiglia 
 - **Alcol:** 14.5%
 - **Fascia di prezzo:** 30-34€

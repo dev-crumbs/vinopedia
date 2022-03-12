@@ -15,7 +15,7 @@ Una Volta
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Gutturnio DOC](/denominazioni/Italia/Emilia/DOC-Gutturnio) (Riserva)
 - **Produttore:** [Zerioli](/produttori/Italia/Emilia/Zerioli) 
-- **Composizione:** [Barbera](/vitigni/Italia/bacca-nera/barbera) + 40% [Croatina](/vitigni/Italia/bacca-nera/croatina)
+- **Composizione:** [Barbera](/vitigni/Italia/barbera) + 40% [Croatina](/vitigni/Italia/croatina)
 - **Affinamento:** 12 mesi in acciaio + 6 mesi in barrique + 12 mesi in bottiglia
 - **Alcol:** 13%
 - **Fascia di prezzo:** 10-14€

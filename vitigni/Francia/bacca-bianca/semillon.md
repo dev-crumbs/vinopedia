@@ -20,7 +20,7 @@ Barnawartha Pinot (Australia), Blanc Doux (Francia), Chevrier (Francia), Greengr
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Colombard](/vitigni/bacca-bianca/colombard), [Crouchen](/vitigni/bacca-bianca/crouchen) (Australia), [Malvasia Fina](/vitigni/bacca-bianca/malvasia-fina) (Douro in Portogallo), [Palomino Fino](/vitigni/bacca-bianca/palomino-fino) (Fréjus nella Francia meridionale), [Sercial](/vitigni/bacca-bianca/sercial) (Sémillon è stato talvolta chiamato Sercial in Australia), [Spergola](/vitigni/bacca-bianca/spergola), [Trebbiano Toscano](/vitigni/Italia/bacca-bianca/trebbiano-toscano) (Ugni Blanc, il nome Charentais per Trebbiano Toscano, è anche conosciuto come Saint-Émilion)
+[Colombard](/vitigni/bacca-bianca/colombard), [Crouchen](/vitigni/bacca-bianca/crouchen) (Australia), [Malvasia Fina](/vitigni/bacca-bianca/malvasia-fina) (Douro in Portogallo), [Palomino Fino](/vitigni/bacca-bianca/palomino-fino) (Fréjus nella Francia meridionale), [Sercial](/vitigni/bacca-bianca/sercial) (Sémillon è stato talvolta chiamato Sercial in Australia), [Spergola](/vitigni/bacca-bianca/spergola), [Trebbiano Toscano](/vitigni/Italia/trebbiano-toscano) (Ugni Blanc, il nome Charentais per Trebbiano Toscano, è anche conosciuto come Saint-Émilion)
 
 
 ## Origini e parentele

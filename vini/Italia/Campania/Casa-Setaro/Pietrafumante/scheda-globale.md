@@ -15,7 +15,7 @@ dateCreated: 2021-09-03T21:03:21.131Z
 - **Tipologia:** Bianco spumante metodo classico
 - **Denominazione:** [Vino generico](/denominazioni/Italia/Vino-Generico)
 - **Produttore:** [Casa Setaro](/produttori/Italia/Campania/Casa-Setaro) 
-- **Composizione:** 50% [Caprettone]100v-bianco) + 25% [Pinot nero](/vitigni/Italia/bacca-nera/pinot-nero)
+- **Composizione:** 50% [Caprettone]100v-bianco) + 25% [Pinot nero](/vitigni/Italia/pinot-nero)
 - **Alcol:** 12.5%
 - **Fascia di prezzo:** 20-24€
 

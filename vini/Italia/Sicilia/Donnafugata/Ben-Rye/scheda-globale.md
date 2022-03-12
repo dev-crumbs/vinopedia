@@ -15,7 +15,7 @@ dateCreated: 2021-10-01T09:53:17.140Z
 - **Tipologia:** bianco passito
 - **Denominazione:** [Passito di Pantelleria DOC](/denominazioni/Italia/Sicilia/DOC/PAssito-di-Pantelleria)
 - **Produttore:** [Donnafugata](/produttori/Italia/Sicilia/Donnafugata) 
-- **Composizione:** 100% [Zibibbo](/vitigni/Italia/bacca-bianca/zibibbo)
+- **Composizione:** 100% [Zibibbo](/vitigni/Italia/zibibbo)
 - **Vinificazione:** uva appassita aggiunta
 - **Affinamento:** 8 mesi in acciaio + 12 in bottiglia
 - **Alcol:** 14.5%

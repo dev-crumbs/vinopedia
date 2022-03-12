@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Colli Piacentini DOC](/denominazioni/Italia/Emilia/DOC-Colli-Piacentini)
 - **Produttore:** [Mossi 1558](/produttori/Italia/Emilia/Mossi-1558) 
-- **Composizione:** 100% [Malvasia aromatica di Candia](/vitigni/Italia/bacca-bianca/malvasia-di-candia-aromatica)
+- **Composizione:** 100% [Malvasia aromatica di Candia](/vitigni/Italia/malvasia-di-candia-aromatica)
 - **Affinamento:** -
 - **Alcol:** 13%
 - **Fascia di prezzo:** 10-14€

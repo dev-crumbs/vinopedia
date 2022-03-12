@@ -15,7 +15,7 @@ dateCreated: 2021-09-30T08:13:49.149Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Spoleto DOC](/denominazioni/Italia/Umbria/DOC/Spoleto)
 - **Produttore:** [Antonelli San Marco](/produttori/Italia/Umbria/Antonelli-San-Marco) 
-- **Composizione:** 100% [Trebbiano Spoletino](/vitigni/Italia/bacca-bianca/trebbiano-spoletino)
+- **Composizione:** 100% [Trebbiano Spoletino](/vitigni/Italia/trebbiano-spoletino)
 - **Affinamento:** 6 mesi in botte grande 
 - **Alcol:** 13.5%
 - **Fascia di prezzo:** 10-14€

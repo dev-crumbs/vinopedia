@@ -15,7 +15,7 @@ dateCreated: 2021-09-07T19:33:33.339Z
 - **Tipologia:** Bianco spumante metodo classico
 - **Denominazione:** [Franciacorta DOCG](/denominazioni/Italia/Lombardia/DOCG/Franciacorta) (Riserva)
 - **Produttore:** [Castello Bonomi](/produttori/Italia/Lombardia/Castello-Bonomi) 
-- **Composizione:** 100% [Pinot nero](/vitigni/Italia/bacca-nera/pinot-nero)
+- **Composizione:** 100% [Pinot nero](/vitigni/Italia/pinot-nero)
 - **Alcol:** 13%
 - **Fascia di prezzo:** 75-79€
 

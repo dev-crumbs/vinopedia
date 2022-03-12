@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 - **Tipologia:** Bianco frizzante
 - **Denominazione:** [Ortrugo dei Colli Piacentini DOC](/denominazioni/Italia/Emilia/DOC-Colli-Piacentini)
 - **Produttore:** [Marengoni](/produttori/Italia/Emilia/Marengoni) 
-- **Composizione:** 100% [Ortrugo](/vitigni/Italia/bacca-bianca/ortrugo)
+- **Composizione:** 100% [Ortrugo](/vitigni/Italia/ortrugo)
 - **Affinamento:** 4 mesi in acciaio
 - **Alcol:** 12.5%
 - **Fascia di prezzo:** 5-9€

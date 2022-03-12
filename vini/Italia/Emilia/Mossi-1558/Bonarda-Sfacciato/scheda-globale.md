@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Colli Piacentini DOC](/denominazioni/Italia/Emilia/DOC-Colli-Piacentini)
 - **Produttore:** [Mossi 1558](/produttori/Italia/Emilia/Mossi-1558) 
-- **Composizione:** 100% [Croatina](/vitigni/Italia/bacca-nera/croatina)
+- **Composizione:** 100% [Croatina](/vitigni/Italia/croatina)
 - **Affinamento:** 8 mesi in acciaio
 - **Alcol:** 13.5%
 - **Fascia di prezzo:** 5-9€

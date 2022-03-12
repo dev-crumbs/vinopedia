@@ -15,7 +15,7 @@ dateCreated: 2021-10-01T17:43:19.742Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Puglia IGT](/denominazioni/Italia/Puglia/IGT/Puglia)
 - **Produttore:** [Donato Angiuli](/produttori/Italia/Puglia/Donato-Angiuli) 
-- **Composizione:** 100% [Moscato bianco](/vitigni/Italia/bacca-bianca/moscato-bianco)
+- **Composizione:** 100% [Moscato bianco](/vitigni/Italia/moscato-bianco)
 - **Affinamento:** 4 mesi in acciaio
 - **Alcol:** 13.5%
 - **Fascia di prezzo:** 15-19€

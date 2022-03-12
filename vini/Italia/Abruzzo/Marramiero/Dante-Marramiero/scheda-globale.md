@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:32:35.010Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Montepulciano d'Abruzzo DOC](/denominazioni/Italia/Abruzzo/DOC/Montepulciano-d-Abruzzo) 
 - **Produttore:** [Marramiero](/produttori/Italia/Abruzzo/Marramiero) 
-- **Composizione:** 100% [Montepulciano](/vitigni/Italia/bacca-nera/montepulciano)
+- **Composizione:** 100% [Montepulciano](/vitigni/Italia/montepulciano)
 - **Affinamento:** 24 mesi in barrique + 6 anni in bottiglia
 - **Alcol:** 14.5%
 - **Fascia di prezzo:** 125-149€

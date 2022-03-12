@@ -15,7 +15,7 @@ dateCreated: 2021-10-04T06:51:11.718Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Gavi DOCG](/denominazioni/Italia/Piemonte/DOCG/Gavi) (Rovereto)
 - **Produttore:** [Nicola Bargaglio](/produttori/Italia/Piemonte/Nicola-Bargaglio)
-- **Composizione:** 100% [Cortese](/vitigni/Italia/bacca-bianca/cortese)
+- **Composizione:** 100% [Cortese](/vitigni/Italia/cortese)
 - **Affinamento:** 5 mesi in acciaio sui lieviti 
 - **Alcol:** 13%
 - **Fascia di prezzo:** 15-19€

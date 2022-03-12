@@ -15,7 +15,7 @@ dateCreated: 2021-09-03T21:03:25.179Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Valtellina Superiore DOCG](/denominazioni/Italia/Lombardia/DOCG/Valtellina-Superiore) (Valgella)
 - **Produttore:** [Fay](/produttori/Italia/Lombardia/Fay) 
-- **Composizione:** 100% [Nebbiolo](/vitigni/Italia/bacca-nera/nebbiolo)
+- **Composizione:** 100% [Nebbiolo](/vitigni/Italia/nebbiolo)
 - **Affinamento:** 12 mesi in tonneau di rovere di primo e secondo passaggio
 - **Alcol:** 13.5%
 - **Fascia di prezzo:** 25-29€

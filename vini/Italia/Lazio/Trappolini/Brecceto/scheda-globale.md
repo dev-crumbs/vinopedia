@@ -15,7 +15,7 @@ dateCreated: 2021-09-07T15:36:07.573Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Lazio IGT](/denominazioni/Italia/Lazio/IGT/Lazio)
 - **Produttore:** [Trappolini](/produttori/Italia/Lazio/Trappolini) 
-- **Composizione:** 100% [Grechetto](/vitigni/Italia/bacca-bianca/grechetto)
+- **Composizione:** 100% [Grechetto](/vitigni/Italia/grechetto)
 - **Affinamento:** 6 mesi in barrique sui lieviti
 - **Alcol:** 13.5%
 - **Fascia di prezzo:** 15-19€

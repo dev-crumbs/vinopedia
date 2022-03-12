@@ -15,7 +15,7 @@ dateCreated: 2022-01-15T21:40:12.066Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Amarone della Valpolicella DOCG](/denominazioni/Italia/Veneto/DOCG/Amarone-della-Valpolicella) (Classico)
 - **Produttore:** [Gamba](/produttori/Italia/Veneto/Gamba) 
-- **Composizione:** [Corvina](/vitigni/Italia/bacca-nera/corvina) + [Corvinone](/vitigni/Italia/bacca-nera/corvinone) + [Rondinella](/vitigni/Italia/bacca-nera/rondinella) + [Croatina](/vitigni/Italia/bacca-nera/croatina)
+- **Composizione:** [Corvina](/vitigni/Italia/corvina) + [Corvinone](/vitigni/Italia/corvinone) + [Rondinella](/vitigni/Italia/rondinella) + [Croatina](/vitigni/Italia/croatina)
 - **Affinamento:** 120 giorni di appassimento + 30-36 mesi in barrique o botte grande 
 - **Alcol:** 16%
 - **Fascia di prezzo:** 55-59€

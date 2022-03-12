@@ -15,7 +15,7 @@ dateCreated: 2021-09-03T21:02:59.390Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Gutturnio DOC](/denominazioni/Italia/Emilia/DOC-Gutturnio) (Superiore)
 - **Produttore:** [La Tosa](/produttori/Italia/Emilia/La-Tosa) 
-- **Composizione:** 60% [Barbera](/vitigni/Italia/bacca-nera/barbera) + 40% [Croatina](/vitigni/Italia/bacca-nera/croatina)
+- **Composizione:** 60% [Barbera](/vitigni/Italia/barbera) + 40% [Croatina](/vitigni/Italia/croatina)
 - **Affinamento:** 8 mesi in barrique usate + 9 mesi in bottiglia
 - **Alcol:** 14.5%
 - **Fascia di prezzo:** 15-19€

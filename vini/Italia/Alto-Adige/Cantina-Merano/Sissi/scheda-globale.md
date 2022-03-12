@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:32:47.834Z
 - **Tipologia:** Bianco passito
 - **Denominazione:** [Alto Adige DOC](/denominazioni/Italia/Alto-Adige/DOC/Alto-Adige)
 - **Produttore:** [Cantina Merano](/produttori/Italia/Alto-Adige/Cantina-Merano) 
-- **Composizione:** [Moscato giallo](/vitigni/Italia/bacca-bianca/moscato-giallo.md) 100% [Gewurztraminer](/vitigni/Germania/bacca-bianca/gewurztraminer)
+- **Composizione:** [Moscato giallo](/vitigni/Italia/moscato-giallo.md) 100% [Gewurztraminer](/vitigni/Germania/bacca-bianca/gewurztraminer)
 - **Affinamento:** 12 mesi in acciaio e botti di rovere
 - **Alcol:** 12%
 - **Fascia di prezzo:** 30-34€

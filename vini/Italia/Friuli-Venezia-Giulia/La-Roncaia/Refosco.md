@@ -15,7 +15,7 @@ dateCreated: 2022-01-15T21:25:52.618Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Friuli Colli Orientali](/denominazioni/Italia/Friuli-Venezia-Giulia/DOC/Friuli-Colli-Orientali) 
 - **Produttore:** [La Roncaia](/produttori/Italia/Friuli-Venezia-Giulia/La-Roncaia) 
-- **Composizione:** 100% [Refosco](/vitigni/Italia/bacca-nera/refosco-dal-peduncolo-rosso)
+- **Composizione:** 100% [Refosco](/vitigni/Italia/refosco-dal-peduncolo-rosso)
 - **Vinificazione:** uve parzialmente appassite
 - **Affinamento:** 18 mesi in barrique 
 - **Alcol:** 14.5%

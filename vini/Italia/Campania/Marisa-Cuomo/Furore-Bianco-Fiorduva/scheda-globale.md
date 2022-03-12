@@ -15,7 +15,7 @@ dateCreated: 2021-09-07T16:41:56.457Z
 - **Tipologia:** Bianco fermo 
 - **Denominazione:** [Costa d'Amalfi DOC](/denominazioni/Italia/Campania/DOC/Costa-d-Amalfi)
 - **Produttore:** [Marisa Cuomo](/produttori/Italia/Campania/Marisa-Cuomo) 
-- **Composizione:** 40% [Ripolo](/vitigni/Italia/bacca-bianca/Ripolo) + 30% [Fenile](/vitigni/Italia/bacca-bianca/fenile) + 30% [Ginestra](/vitigni/Italia/bacca-bianca/ginestra)
+- **Composizione:** 40% [Ripolo](/vitigni/Italia/Ripolo) + 30% [Fenile](/vitigni/Italia/fenile) + 30% [Ginestra](/vitigni/Italia/ginestra)
 - **Affinamento:** 6 mesi in barrique di rovere + 12 mesi in bottiglia
 - **Alcol:** 14%
 - **Fascia di prezzo:** 40-44€

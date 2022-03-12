@@ -15,7 +15,7 @@ dateCreated: 2021-08-22T21:27:45.497Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Aglianico del Taburno DOCG](/denominazioni/Italia/Campania/DOCG/Aglianico-del-Taburno) (Riserva)
 - **Produttore:** [Fattoria la Rivolta](/produttori/Italia/Campania/Fattoria-la-Rivolta) 
-- **Composizione:** 100% [Aglianico](/vitigni/Italia/bacca-nera/aglianico)
+- **Composizione:** 100% [Aglianico](/vitigni/Italia/aglianico)
 - **Affinamento:** 18 mesi barrique + 18 mesi in bottiglia
 - **Alcol:** 14.5%
 - **Fascia di prezzo:** 30-34€

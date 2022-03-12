@@ -15,7 +15,7 @@ dateCreated: 2021-08-29T16:14:41.774Z
 - **Tipologia:** Bianco fermo 
 - **Denominazione:** [Alto Adige DOC](/denominazioni/Italia/Alto-Adige/DOC/Alto-Adige) (Terlano, Riserva)
 - **Produttore:** [Cantina Terlano](/produttori/Italia/Alto-Adige/Cantina-Terlano) 
-- **Composizione:** 100% [Pinot bianco](/vitigni/Italia/bacca-bianca/pinot-bianco)
+- **Composizione:** 100% [Pinot bianco](/vitigni/Italia/pinot-bianco)
 - **Affinamento:** 12 mesi in botte grande di rovere
 - **Alcol:** 14%
 - **Fascia di prezzo:** 25-29€

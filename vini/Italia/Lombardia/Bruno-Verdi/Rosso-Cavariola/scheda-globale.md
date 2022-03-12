@@ -39,4 +39,4 @@ dateCreated: 2021-09-04T16:07:47.756Z
 
 ## Note
 
-Il produttore utilizza il sinonimo ["Ughetta"](/vitigni/Italia/bacca-nera/ughetta) per indicare il vitigno [Vespolina](/vitigni/Italia/bacca-nera/vespolina) 
+Il produttore utilizza il sinonimo ["Ughetta"](/vitigni/Italia/ughetta) per indicare il vitigno [Vespolina](/vitigni/Italia/vespolina) 

@@ -15,7 +15,7 @@ dateCreated: 2021-09-24T12:31:20.447Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Barolo DOCG](/denominazioni/Italia/Piemonte/DOCG/Barolo)
 - **Produttore:** [Massimo Rivetti](/produttori/Italia/Piemonte/Massimo-Rivetti)
-- **Composizione:** 100% [Nebbiolo](/vitigni/Italia/bacca-nera/nebbiolo)
+- **Composizione:** 100% [Nebbiolo](/vitigni/Italia/nebbiolo)
 - **Affinamento:** 24 mesi in botte grande
 - **Alcol:** 14%
 - **Fascia di prezzo:** 30-34€

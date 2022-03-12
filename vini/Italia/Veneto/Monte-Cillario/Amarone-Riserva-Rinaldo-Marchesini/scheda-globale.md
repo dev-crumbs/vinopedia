@@ -15,7 +15,7 @@ dateCreated: 2022-01-27T15:21:34.303Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** <span class="denominazione">[Amarone della Valpolicella DOCG](/denominazioni/Italia/Veneto/DOCG/Amarone-della-Valpolicella)</span> (Riserva)
 - **Produttore:** <span class="cantina">[Monte Cillario](/produttori/Italia/Veneto/Monte-Cillario)</span> 
-- **Composizione:** [Corvina](/vitigni/Italia/bacca-nera/corvina) + [Rondinella](/vitigni/Italia/bacca-nera/rondinella) + [Corvinone](/vitigni/Italia/bacca-nera/corvinone) + Altre
+- **Composizione:** [Corvina](/vitigni/Italia/corvina) + [Rondinella](/vitigni/Italia/rondinella) + [Corvinone](/vitigni/Italia/corvinone) + Altre
 - **Affinamento:** 48 mesi in botte
 - **Alcol:** 16%
 - **Fascia di prezzo:** 55-59€

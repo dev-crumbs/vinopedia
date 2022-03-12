@@ -15,7 +15,7 @@ dateCreated: 2021-09-08T09:21:10.164Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Rosso Piceno DOC](/denominazioni/Italia/Marche/DOC/Rosso-Piceno)
 - **Produttore:** [Velenosi](/produttori/Italia/Marche/Velenosi) 
-- **Composizione:** 70% [Montepulciano](/vitigni/Italia/bacca-nera/montepulciano) + 30% [Sangiovese](/vitigni/Italia/bacca-nera/sangiovese)
+- **Composizione:** 70% [Montepulciano](/vitigni/Italia/montepulciano) + 30% [Sangiovese](/vitigni/Italia/sangiovese)
 - **Affinamento:** 18 mesi in barrique
 - **Alcol:** 14%
 - **Fascia di prezzo:** 30-34€

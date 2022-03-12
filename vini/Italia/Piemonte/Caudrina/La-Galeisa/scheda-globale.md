@@ -15,7 +15,7 @@ dateCreated: 2021-10-01T09:53:10.670Z
 - **Tipologia:** Bianco frizzante dolce
 - **Denominazione:** [Moscato d'Asti DOCG](/denominazioni/Italia/Piemonte/DOCG/Moscato-d-Asti)
 - **Produttore:** [Caudrina](/produttori/Italia/Piemonte/Caudrina)
-- **Composizione:** 100% [Moscato bianco](/vitigni/Italia/bacca-bianca/moscato-bianco)
+- **Composizione:** 100% [Moscato bianco](/vitigni/Italia/moscato-bianco)
 - **Affinamento:** --
 - **Alcol:** 5.5%
 - **Fascia di prezzo:** 10-14€

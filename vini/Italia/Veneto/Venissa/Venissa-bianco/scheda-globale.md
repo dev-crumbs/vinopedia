@@ -15,7 +15,7 @@ dateCreated: 2021-08-26T20:27:21.296Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Veneto IGT](/denominazioni/Italia/Veneto/IGT/Veneto) 
 - **Produttore:** [Venissa](/produttori/Italia/Venissa/Venissa) 
-- **Composizione:** 100% [Dorona](/vitigni/Italia/bacca-bianca/dorona) 
+- **Composizione:** 100% [Dorona](/vitigni/Italia/dorona) 
 - **Affinamento:** 36 mesi in cemento 
 - **Alcol:** 13%
 - **Fascia di prezzo:** 175-199€

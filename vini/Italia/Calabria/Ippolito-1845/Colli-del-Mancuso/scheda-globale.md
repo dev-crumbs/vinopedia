@@ -15,7 +15,7 @@ dateCreated: 2021-10-01T09:52:58.839Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Cirò DOC](/denominazioni/Italia/Calabria/DOC/Ciro) (classico superiore riserva)
 - **Produttore:** [Ippolito 1845](/produttori/Italia/Calabria/Ippolito-1845)
-- **Composizione:** 100% [Gaglioppo](/vitigni/Italia/bacca-nera/gaglioppo)
+- **Composizione:** 100% [Gaglioppo](/vitigni/Italia/gaglioppo)
 - **Affinamento:** 24 mesi in botte grande (500 litri)
 - **Alcol:** 14.5%
 - **Fascia di prezzo:** 10-14€

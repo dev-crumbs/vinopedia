@@ -15,7 +15,7 @@ dateCreated: 2021-09-03T21:02:48.129Z
 - **Tipologia:** Rosso fermo 
 - **Denominazione:** [Aversa Asprinio DOC](/denominazioni/Italia/Campania/DOC/Aversa-Asprinio)
 - **Produttore:** [I Borboni](/produttori/Italia/Campania/I-Borboni) 
-- **Composizione:** 100% [Asprinio](/vitigni/Italia/bacca-bianca/asprinio)
+- **Composizione:** 100% [Asprinio](/vitigni/Italia/asprinio)
 - **Affinamento:** 12 mesi sui lieviti in acciaio + 6 mesi in bottiglia
 - **Alcol:** 12.5%
 - **Fascia di prezzo:** 10-14€

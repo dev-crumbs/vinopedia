@@ -15,7 +15,7 @@ dateCreated: 2021-09-28T15:49:47.183Z
 - **Tipologia:** Rosato fermo
 - **Denominazione:** [Salento IGT](/denominazioni/Italia/Puglia/IGT/Salento)
 - **Produttore:** [Cantele](/produttori/Italia/Puglia/Cantele) 
-- **Composizione:** 100% [Negroamaro](/vitigni/Italia/bacca-nera/negroamaro)
+- **Composizione:** 100% [Negroamaro](/vitigni/Italia/negroamaro)
 - **Affinamento:** 5 mesi in acciaio
 - **Alcol:** 13.5%
 - **Fascia di prezzo:** 10-14€

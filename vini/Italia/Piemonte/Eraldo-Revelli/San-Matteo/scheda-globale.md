@@ -15,7 +15,7 @@ dateCreated: 2021-10-04T06:51:07.853Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Dogliani Superiore DOCG](/denominazioni/Italia/Piemonte/DOCG/Dogliani) (Superiore) 
 - **Produttore:** [Eraldo Revelli](/produttori/Italia/Piemonte/Eraldo-Revelli)
-- **Composizione:** 100% [Dolcetto](/vitigni/Italia/bacca-nera/dolcetto)
+- **Composizione:** 100% [Dolcetto](/vitigni/Italia/dolcetto)
 - **Affinamento:** 12 mesi in botte grande
 - **Alcol:** 14.5%
 - **Fascia di prezzo:** 15-19€

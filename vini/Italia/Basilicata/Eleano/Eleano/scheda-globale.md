@@ -15,7 +15,7 @@ dateCreated: 2021-08-23T07:36:55.405Z
 - **Tipologia:** Rosso fermo 
 - **Denominazione:** [Aglianico del Vulture Superiore DOCG](/denominazioni/Italia/Basilicata/DOCG/Aglianico-del-Vulture-Superiore)
 - **Produttore:** [Eleano](/produttori/Italia/Basilicata/Eleano) 
-- **Composizione:** 100% [Aglianico del Vulture](/vitigni/Italia/bacca-nera/aglianico-del-vulture)
+- **Composizione:** 100% [Aglianico del Vulture](/vitigni/Italia/aglianico-del-vulture)
 - **Affinamento:** 24 mesi in barrique + 12 mesi in bottiglia
 - **Alcol:** 14.5%
 - **Fascia di prezzo:** 30-34€

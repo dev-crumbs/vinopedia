@@ -15,7 +15,7 @@ dateCreated: 2021-08-18T10:27:11.126Z
 - **Tipologia:** Rosso frizzante
 - **Denominazione:** <span class="denominazione">Lambrusco Reggiano DOC</span> 
 - **Produttore:** <span class="cantina">Medici Ermete</span> 
-- **Composizione:** 100% [Lambrusco Salamino](/vitigni/Italia/bacca-nera/lambrusco-salamino)
+- **Composizione:** 100% [Lambrusco Salamino](/vitigni/Italia/lambrusco-salamino)
 - **Affinamento:** 6 mesi in acciaio
 - **Alcol:** 11.5%
 - **Fascia di prezzo:** 5-9€

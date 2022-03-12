@@ -15,7 +15,7 @@ dateCreated: 2021-09-30T08:13:22.567Z
 - **Tipologia:** Rosso fermo 
 - **Denominazione:** [Aglianico del Vulture DOCG](/denominazioni/Italia/Basilicata/DOCG/Aglianico-del-Vulture-Superiore)
 - **Produttore:** [Cantine del Notaio](/produttori/Italia/Basilicata/Cantine-del-Notaio) 
-- **Composizione:** 100% [Aglianico del Vulture](/vitigni/Italia/bacca-nera/aglianico-del-vulture)
+- **Composizione:** 100% [Aglianico del Vulture](/vitigni/Italia/aglianico-del-vulture)
 - **Affinamento:** 12 mesi barrique
 - **Alcol:** 14%
 - **Fascia di prezzo:** 30-34€

@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:34:18.751Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Gioia del Colle DOC](/denominazioni/Italia/Puglia/DOC/Gioia-del-Colle)
 - **Produttore:** [Polvanera](/produttori/Italia/Puglia/Polvanera) 
-- **Composizione:** 100% [Primitivo](/vitigni/Italia/bacca-nera/primitivo)
+- **Composizione:** 100% [Primitivo](/vitigni/Italia/primitivo)
 - **Affinamento:** 24 mesi in acciaio + 12 in bottiglia
 - **Alcol:** 16.5%
 - **Fascia di prezzo:** 30-34€

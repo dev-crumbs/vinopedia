@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Colli Piacentini DOC](/denominazioni/Italia/Emilia/DOC-Colli-Piacentini)
 - **Produttore:** [Cantine-Campana](/produttori/Italia/Emilia/Cantine-Campana) 
-- **Composizione:** 100% [Barbera](/vitigni/Italia/bacca-nera/barbera)
+- **Composizione:** 100% [Barbera](/vitigni/Italia/barbera)
 - **Affinamento:** 6 mesi in acciaio
 - **Alcol:** 14%
 - **Fascia di prezzo:** 10-14€

@@ -20,7 +20,7 @@ Angelica (Trentino), Boschera o Boschera Bianca, Lugana (province di Brescia e V
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Maceratino](/vitigni/bacca-bianca/maceratino), [Perera](/vitigni/bacca-bianca/perera) (talvolta chiamato Pevarise in Veneto), [Trebbiano Romagnolo](/vitigni/Italia/bacca-bianca/trebbiano-romagnolo), [Verdeca](/vitigni/bacca-bianca/verdeca) (Puglia), [Verdelho](/vitigni/bacca-bianca/verdelho) (Sicilia)
+[Maceratino](/vitigni/bacca-bianca/maceratino), [Perera](/vitigni/bacca-bianca/perera) (talvolta chiamato Pevarise in Veneto), [Trebbiano Romagnolo](/vitigni/Italia/trebbiano-romagnolo), [Verdeca](/vitigni/bacca-bianca/verdeca) (Puglia), [Verdelho](/vitigni/bacca-bianca/verdelho) (Sicilia)
 
 
 ## Origini e parentele
@@ -28,7 +28,7 @@ Il Verdicchio Bianco è una varietà estremamente diffusa e probabilmente molto 
 
 Sebbene il Verdicchio sia stato coltivato nelle Marche per secoli, secondo Pollini (2007), originariamente proveniva dal Veneto e fu molto probabilmente introdotto nelle Marche nel XV secolo, quando i contadini si spostarono verso sud per ripopolare la regione devastata dalla peste. Infatti, i primi studi ampelografici ed enzimatici hanno stabilito che il Trebbiano di Soave, ampiamente piantato nelle province di Brescia (Lombardia) e Verona (Veneto), è identico al Verdicchio Bianco (Calò, Costacurta et al. 1991), il che è stato successivamente confermato dal DNA profiling (Labra et al. 2001).
 
-Più recentemente, studi sul DNA all'Università di Milano hanno dimostrato che il Verdicchio Bianco è identico ad altre due varietà dell'eterogeneo gruppo [Trebbiano](/vitigni/Italia/bacca-bianca/trebbiano): Trebbiano Valtenesi, una varietà locale e in via di estinzione della regione del Lago di Garda in provincia di Brescia (Lombardia), e Trebbiano di Lugana, coltivato nelle province di Brescia e Verona (Ghidoni et al. 2008).
+Più recentemente, studi sul DNA all'Università di Milano hanno dimostrato che il Verdicchio Bianco è identico ad altre due varietà dell'eterogeneo gruppo [Trebbiano](/vitigni/Italia/trebbiano): Trebbiano Valtenesi, una varietà locale e in via di estinzione della regione del Lago di Garda in provincia di Brescia (Lombardia), e Trebbiano di Lugana, coltivato nelle province di Brescia e Verona (Ghidoni et al. 2008).
 
 In modo simile e più sorprendente, il profiling del DNA ha dimostrato che la Peverella, un'antica varietà tradizionalmente coltivata in Trentino (Trento, Lavis, Salorno, Faedo e Val di Cembra) nonché in Alto Adige con il nome Pfefferer, è identica al Verdicchio Bianco (Stella Grando e José Vouillamoz, dati non pubblicati). Era quasi scomparso dopo la peste della fillossera alla fine del XIX secolo ed è stato recentemente salvato dall'estinzione dallo sforzo congiunto del centro di ricerca di San Michele all'Adige e dell'ampelografo dilettante Gianpaolo Girardi.
 
@@ -49,7 +49,7 @@ Come per molti altri vitigni, alcuni autori hanno suggerito che il Verdicchio Bi
 
 Con il nome Verdicchio Bianco, la sua principale area di coltivazione sono le Marche nell'Italia centrale orientale, dove è meglio conosciuto come vino varietale nelle DOC del Verdicchio dei Castelli di Jesi, ad ovest di Ancona a 30 km (20 miglia) dall'Adriatico, e il molto più piccolo Verdicchio di Matelica, su terreni più collinari più all'interno e vicino al confine con l'Umbria. Nella meno conosciuta Esino DOC è richiesto un minimo del 50% di Verdicchio. Più a sud, nella provincia di Ascoli Piceno, può avere un ruolo minore nel Falerio dei Colli Ascolani DOC. La varietà è raccomandata in Abruzzo, Umbria e Lazio e autorizzata in Toscana e Sardegna. C'erano 3.561 ha (8.799 acri) in Italia nel 2000. 
 
-Più a nord nel Veneto, sotto il nome di Trebbiano di Soave, aggiunge profumo per completare il profilo d'acciaio del [Garganega](/vitigni/Italia/bacca-bianca/garganega) in tutte le forme di Soave, compreso il dolce Recioto di Soave. Pieropan è uno dei migliori produttori ad includere la varietà nei suoi Soave. Il censimento registra 1.802 ha (4.453 acri) di Trebbiano di Soave nel 2000. Più ad ovest, il clima più caldo produce vini corposi e profumati di vero interesse sotto forma di Trebbiano di Lugana (non elencato separatamente nel censimento), principalmente nell'omonimo Lugana DOC a sud del Lago di Garda. Zenato e Cà dei Frati sono buoni esempi.
+Più a nord nel Veneto, sotto il nome di Trebbiano di Soave, aggiunge profumo per completare il profilo d'acciaio del [Garganega](/vitigni/Italia/garganega) in tutte le forme di Soave, compreso il dolce Recioto di Soave. Pieropan è uno dei migliori produttori ad includere la varietà nei suoi Soave. Il censimento registra 1.802 ha (4.453 acri) di Trebbiano di Soave nel 2000. Più ad ovest, il clima più caldo produce vini corposi e profumati di vero interesse sotto forma di Trebbiano di Lugana (non elencato separatamente nel censimento), principalmente nell'omonimo Lugana DOC a sud del Lago di Garda. Zenato e Cà dei Frati sono buoni esempi.
 
 Come Peverella, la varietà è ancora piantata in misura molto limitata in Trentino, ad esempio da Francesco Poli, la cui Massenza Bianco è una miscela di NOSIOLA e Peverella.
 

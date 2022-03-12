@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 - **Tipologia:** Bianco passito
 - **Denominazione:** [Colli Bolognesi DOC](/denominazioni/Italia/Emilia/DOC/Colli-Bolognesi)
 - **Produttore:** [La Conchiglia](/produttori/Italia/Emilia/La-Conchiglia) 
-- **Composizione:** 100% [Malvasia aromatica di Candia](/vitigni/Italia/bacca-bianca/malvasia-di-candia-aromatica)
+- **Composizione:** 100% [Malvasia aromatica di Candia](/vitigni/Italia/malvasia-di-candia-aromatica)
 - **Vinificazione:** vendemmia tardiva, appassimento 15gg al sole e 2 mesi all'ombra
 - **Affinamento:** --
 - **Alcol:** 14.5%

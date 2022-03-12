@@ -21,11 +21,11 @@ Falanghina Pigna Piccola, Falernina (Caserto), Uva Falerna (Caserto)
 {.is-info}
 
 
-[Falanghina beneventana](/vitigni/Italia/bacca-bianca/falanghina-beneventana)
+[Falanghina beneventana](/vitigni/Italia/falanghina-beneventana)
 
 ## Origini e parentele
 
-Citata per la prima volta nel 1666 in un poema (Canto VII) in dialetto napoletano di Giulio Cesare Cortese, la Falanghina è una delle varietà più antiche e diffuse della Campania. Il nome Falanghina potrebbe derivare dal latino falangae, i pali che sostengono le viti. Fino a poco tempo fa si pensava che la Falanghina dei Campi Flegrei e quella di Benevento in Campania fossero la stessa cosa, anche se gli ampelografi avevano notato alcune differenze morfologiche. Grazie al DNA profiling, Costantini et al. (2005) hanno scoperto che la Falanghina Flegrea, la cultivar bianca più diffusa nella provincia di Napoli, e la [Falanghina beneventana](/vitigni/Italia/bacca-bianca/falanghina-beneventana), più limitata e recentemente riscoperta nella provincia di Benevento, sono due varietà distinte. Il confronto genetico ha inoltre suggerito che la Falanghina Flegrea è strettamente legata alla [Suppezza](/vitigni/Italia/bacca-bianca/suppezza), mentre la Falanghina Beneventana è strettamente legata alla [Biancolella](/vitigni/Italia/bacca-bianca/biancolella).
+Citata per la prima volta nel 1666 in un poema (Canto VII) in dialetto napoletano di Giulio Cesare Cortese, la Falanghina è una delle varietà più antiche e diffuse della Campania. Il nome Falanghina potrebbe derivare dal latino falangae, i pali che sostengono le viti. Fino a poco tempo fa si pensava che la Falanghina dei Campi Flegrei e quella di Benevento in Campania fossero la stessa cosa, anche se gli ampelografi avevano notato alcune differenze morfologiche. Grazie al DNA profiling, Costantini et al. (2005) hanno scoperto che la Falanghina Flegrea, la cultivar bianca più diffusa nella provincia di Napoli, e la [Falanghina beneventana](/vitigni/Italia/falanghina-beneventana), più limitata e recentemente riscoperta nella provincia di Benevento, sono due varietà distinte. Il confronto genetico ha inoltre suggerito che la Falanghina Flegrea è strettamente legata alla [Suppezza](/vitigni/Italia/suppezza), mentre la Falanghina Beneventana è strettamente legata alla [Biancolella](/vitigni/Italia/biancolella).
 
 ### Altre ipotesi
 

@@ -15,7 +15,7 @@ dateCreated: 2021-09-03T21:02:44.317Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Calabria IGT](/denominazioni/Italia/Calabria/IGT/Calabria)
 - **Produttore:** [Terre del Gufo](/produttori/Italia/Calabria/Terre-del-Gufo)
-- **Composizione:** 100% [Syrah](/vitigni/Italia/bacca-nera/syrah)
+- **Composizione:** 100% [Syrah](/vitigni/Italia/syrah)
 - **Affinamento:** 12 mesi tra barrique e tonneau di rovere + 12 mesi in bottiglia
 - **Alcol:** 14%
 - **Fascia di prezzo:** 25-29€

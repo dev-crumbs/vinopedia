@@ -15,7 +15,7 @@ dateCreated: 2021-08-31T15:46:53.719Z
 - **Tipologia:** Bianco passito
 - **Denominazione:** [Colli Euganei DOCG](/denominazioni/Italia/Veneto/DOCG/Colli-Euganei) 
 - **Produttore:** [Cà Lustra Zanovello](/produttori/Italia/Veneto/Ca-Lustra-Zanovello) 
-- **Composizione:** 100% [Moscato giallo](/vitigni/Italia/bacca-bianca/moscato-giallo) 
+- **Composizione:** 100% [Moscato giallo](/vitigni/Italia/moscato-giallo) 
 - **Affinamento:** 4 mesi appassimento in fruttaio + fermentazione in botte grande + sosta 12 mesi in legno 
 - **Alcol:** 13.5%
 - **Fascia di prezzo:** 20-24€

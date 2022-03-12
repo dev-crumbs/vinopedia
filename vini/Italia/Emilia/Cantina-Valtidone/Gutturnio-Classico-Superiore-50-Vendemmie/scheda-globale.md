@@ -15,7 +15,7 @@ Una Volta
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Gutturnio DOC](/denominazioni/Italia/Emilia/DOC-Gutturnio) (classico, superiore)
 - **Produttore:** [Cantina Valtidone](/produttori/Italia/Emilia/Cantina-Valtidone) 
-- **Composizione:** 55% [Barbera](/vitigni/Italia/bacca-nera/barbera) + [Croatina](/vitigni/Italia/bacca-nera/croatina)
+- **Composizione:** 55% [Barbera](/vitigni/Italia/barbera) + [Croatina](/vitigni/Italia/croatina)
 - **Affinamento:** 6 mesi in acciaio + 2 mesi in bottiglia
 - **Alcol:** 13%
 - **Fascia di prezzo:** 5-9€

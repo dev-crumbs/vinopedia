@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Colli Piacentini DOC](/denominazioni/Italia/Emilia/DOC-Colli-Piacentini) (Riserva)
 - **Produttore:** [Marengoni](/produttori/Italia/Emilia/Marengoni) 
-- **Composizione:** 100% [Barbera](/vitigni/Italia/bacca-nera/barbera)
+- **Composizione:** 100% [Barbera](/vitigni/Italia/barbera)
 - **Affinamento:** ?
 - **Alcol:** 13.5%
 - **Fascia di prezzo:** 10-14€

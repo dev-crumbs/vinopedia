@@ -15,7 +15,7 @@ dateCreated: 2021-09-30T12:52:55.306Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Erbaluce di Caluso DOCG](/denominazioni/Italia/Piemonte/DOCG/Erbaluce-di-Caluso)
 - **Produttore:** [Benito Favaro](/produttori/Italia/Piemonte/Benito-Favaro)
-- **Composizione:** 100% [Erbaluce](/vitigni/Italia/bacca-bianca/erbaluce)
+- **Composizione:** 100% [Erbaluce](/vitigni/Italia/erbaluce)
 - **Affinamento:** 4 mesi in acciaio sui lieviti + 18 in bottiglia
 - **Alcol:** 13%
 - **Fascia di prezzo:** 10-14€

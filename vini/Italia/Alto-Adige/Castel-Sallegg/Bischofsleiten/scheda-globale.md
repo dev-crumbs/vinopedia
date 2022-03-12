@@ -15,7 +15,7 @@ dateCreated: 2022-01-20T14:10:08.034Z
 - **Tipologia:** Rosso fermo 
 - **Denominazione:** [Alto Adige DOC](/denominazioni/Italia/Alto-Adige/DOC/Alto-Adige)
 - **Produttore:** [Castel Sallegg](/produttori/Italia/Alto-Adite/Castel-Sallegg) 
-- **Composizione:** 100% [Schiava](/vitigni/Italia/bacca-nera/schiava)
+- **Composizione:** 100% [Schiava](/vitigni/Italia/schiava)
 - **Affinamento:** 4 mesi in acciaio
 - **Alcol:** 13%
 - **Fascia di prezzo:** 10-14€

@@ -15,7 +15,7 @@ dateCreated: 2021-09-08T10:52:13.791Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Romagna Sangiovese DOC](/denominazioni/Italia/Romagna/DOC/Romagna-Sangiovese) (Riserva - Predappio)
 - **Produttore:** [Fattoria Nicolucci](/produttori/Italia/Romagna/Fattoria-Nicolucci) 
-- **Composizione:** 100% [Sangiovese](/vitigni/Italia/bacca-nera/sangiovese)
+- **Composizione:** 100% [Sangiovese](/vitigni/Italia/sangiovese)
 - **Affinamento:** 24 mesi in botte grande + 3 mesi in bottiglia
 - **Alcol:** 14%
 - **Fascia di prezzo:** 30-34€

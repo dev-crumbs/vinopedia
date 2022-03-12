@@ -10,4 +10,4 @@ dateCreated: 2021-09-06T16:48:20.461Z
 
 # Zibibbo
 
-"Zibibbo" è un sinonimo utilizzato in Italia per il vitigno [moscato di alessandria](/vitigni/Italia/bacca-bianca/moscato-di-alessandria).
+"Zibibbo" è un sinonimo utilizzato in Italia per il vitigno [moscato di alessandria](/vitigni/Italia/moscato-di-alessandria).

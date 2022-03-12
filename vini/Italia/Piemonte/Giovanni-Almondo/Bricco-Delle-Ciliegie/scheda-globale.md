@@ -15,7 +15,7 @@ dateCreated: 2021-09-24T12:31:07.720Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Roero DOCG](/denominazioni/Italia/Piemonte/DOCG/Roero)
 - **Produttore:** [Giovanni Almondo](/produttori/Italia/Piemonte/Giovanni-Almondo)
-- **Composizione:** 100% [Arneis](/vitigni/Italia/bacca-bianca/arneis)
+- **Composizione:** 100% [Arneis](/vitigni/Italia/arneis)
 - **Affinamento:** 8 mesi in acciaio 
 - **Alcol:** 13%
 - **Fascia di prezzo:** 20-24€

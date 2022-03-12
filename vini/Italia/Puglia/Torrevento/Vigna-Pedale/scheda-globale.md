@@ -15,7 +15,7 @@ dateCreated: 2021-09-03T21:03:49.690Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Castel del Monte Nero di Troia Riserva DOCG](/denominazioni/Italia/Puglia/DOCG/Castel-del-Monte-Nero-di-Troia-Riserva)
 - **Produttore:** [Torrevento](/produttori/Italia/Puglia/Torrevento) 
-- **Composizione:** 100% [Nero di Troia](/vitigni/Italia/bacca-nera/nero-di-troia)
+- **Composizione:** 100% [Nero di Troia](/vitigni/Italia/nero-di-troia)
 - **Affinamento:** 8 mesi in acciaio + 12 mesi in botte di rovere francese da 50 ettolitri
 - **Alcol:** 13%
 - **Fascia di prezzo:** 10-14€

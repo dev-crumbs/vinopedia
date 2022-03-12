@@ -15,7 +15,7 @@ dateCreated: 2021-09-04T13:09:32.172Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Trebbiano d'Abruzzo DOC](/denominazioni/Italia/Abruzzo/DOC/Trebbiano-d-Abruzzo) 
 - **Produttore:** [Valle Reale](/produttori/Italia/Abruzzo/Valle-Reale) 
-- **Composizione:** 100% [Trebbiano d'Abruzzo](/vitigni/Italia/bacca-bianca/trebbiano-d-abruzzo)
+- **Composizione:** 100% [Trebbiano d'Abruzzo](/vitigni/Italia/trebbiano-d-abruzzo)
 - **Affinamento:** 18 mesi sui lieviti in acciaio
 - **Alcol:** 12.5%
 - **Fascia di prezzo:** 35-39€

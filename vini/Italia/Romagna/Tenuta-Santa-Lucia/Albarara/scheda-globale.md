@@ -15,7 +15,7 @@ dateCreated: 2021-09-07T06:15:26.688Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Albana DOCG](/denominazioni/Italia/Romagna/DOCG/Albana)
 - **Produttore:** [Tenuta Santa Lucia](/produttori/Italia/Romagna/Tenuta-Santa-Lucia) 
-- **Composizione:** 100% [Albana](/vitigni/Italia/bacca-bianca/albana)
+- **Composizione:** 100% [Albana](/vitigni/Italia/albana)
 - **Affinamento:** 1 anno in acciaio sulle fecce + 6 mesi in bottiglia
 - **Alcol:** 15%
 - **Fascia di prezzo:** 10-14€

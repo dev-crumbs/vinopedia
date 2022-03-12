@@ -15,7 +15,7 @@ dateCreated: 2022-01-27T15:21:34.303Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** <span class="denominazione">[Amarone della Valpolicella DOCG](/denominazioni/Italia/Veneto/DOCG/Amarone-della-Valpolicella) (Classico)</span>
 - **Produttore:** <span class="cantina">[Stefano Accordini](/produttori/Italia/Veneto/Stefano Accordini)</span> 
-- **Composizione:** [Corvina](/vitigni/Italia/bacca-nera/corvina) + [Rondinella](/vitigni/Italia/bacca-nera/rondinella)
+- **Composizione:** [Corvina](/vitigni/Italia/corvina) + [Rondinella](/vitigni/Italia/rondinella)
 - **Affinamento:** 24 mesi in botte
 - **Alcol:** 16.5%
 - **Fascia di prezzo:** 35-39€

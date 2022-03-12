@@ -15,7 +15,7 @@ dateCreated: 2021-08-26T20:26:44.724Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Tintilia del Molise DOC](/denominazioni/Italia/Molise/DOC/Tintilia-del-Molise) 
 - **Produttore:** [Cantine Salvatore](/produttori/Italia/Molise/Cantine-Salvatore) 
-- **Composizione:** 100% [Tintilia del Molise](/vitigni/Italia/bacca-nera/tintilia-del-molise)
+- **Composizione:** 100% [Tintilia del Molise](/vitigni/Italia/tintilia-del-molise)
 - **Affinamento:** 18 mesi in acciaio
 - **Alcol:** 14%
 - **Fascia di prezzo:** 15-19€

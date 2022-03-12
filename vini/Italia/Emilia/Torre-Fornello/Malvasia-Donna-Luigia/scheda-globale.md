@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Colli Piacentini DOC](/denominazioni/Italia/Emilia/DOC-Colli-Piacentini)
 - **Produttore:** [Torre Fornello](/produttori/Italia/Emilia/Torre-Fornello) 
-- **Composizione:** 100% [Malvasia aromatica di Candia](/vitigni/Italia/bacca-bianca/malvasia-di-candia-aromatica)
+- **Composizione:** 100% [Malvasia aromatica di Candia](/vitigni/Italia/malvasia-di-candia-aromatica)
 - **Affinamento:** 9 mesi in acciaio + 9 mesi in botte
 - **Alcol:** 13.5%
 - **Fascia di prezzo:** 15-19€

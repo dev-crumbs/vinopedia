@@ -15,7 +15,7 @@ dateCreated: 2021-08-26T10:14:28.661Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Montepulciano d'Abruzzo DOC](/denominazioni/Italia/Abruzzo/DOC/Montepulciano-d-Abruzzo) 
 - **Produttore:** [Torre dei Beati](/produttori/Italia/Abruzzo/Torre-dei-Beati) 
-- **Composizione:** 100% [Montepulciano](/vitigni/Italia/bacca-nera/montepulciano)
+- **Composizione:** 100% [Montepulciano](/vitigni/Italia/montepulciano)
 - **Affinamento:** 20 mesi in barrique
 - **Alcol:** 14.5%
 - **Fascia di prezzo:** 25-29€

@@ -15,7 +15,7 @@ dateCreated: 2021-09-30T08:13:22.567Z
 - **Tipologia:** Rosso fermo 
 - **Denominazione:** [Aglianico del Vulture DOCG](/denominazioni/Italia/Basilicata/DOCG/Aglianico-del-Vulture-Superiore)
 - **Produttore:** [Grifalco](/produttori/Italia/Basilicata/Grifalco) 
-- **Composizione:** 100% [Aglianico del Vulture](/vitigni/Italia/bacca-nera/aglianico-del-vulture)
+- **Composizione:** 100% [Aglianico del Vulture](/vitigni/Italia/aglianico-del-vulture)
 - **Affinamento:** 18 mesi in botte grande
 - **Alcol:** 13.5%
 - **Fascia di prezzo:** 25-29€

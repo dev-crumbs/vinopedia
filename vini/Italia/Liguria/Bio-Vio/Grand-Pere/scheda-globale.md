@@ -15,7 +15,7 @@ dateCreated: 2021-08-26T10:19:41.335Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Riviera Ligure di Ponente DOC](/denominazioni/Italia/Liguria/DOC/Riviera-Ligure-di-Ponente) 
 - **Produttore:** [Bio Vio](/produttori/Italia/Liguria/Bio-Vio) 
-- **Composizione:** 100% [Pigato](/vitigni/Italia/bacca-bianca/pigato)
+- **Composizione:** 100% [Pigato](/vitigni/Italia/pigato)
 - **Affinamento:** 1 settimana in acciaio sulle bucce + 10 mesi in tonneau
 - **Alcol:** 13.5%
 - **Fascia di prezzo:** 30-34€

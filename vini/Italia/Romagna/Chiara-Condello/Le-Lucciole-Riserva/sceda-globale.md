@@ -15,7 +15,7 @@ dateCreated: 2021-08-26T10:19:45.262Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Romagna Sangiovese DOC](/denominazioni/Italia/Romagna/DOC/Romagna-Sangiovese) (Superiore - Riserva - Predappio)
 - **Produttore:** [Chiara Condello](/produttori/Italia/Romagna/Chiara-Condello) 
-- **Composizione:** 100% [Sangiovese](/vitigni/Italia/bacca-nera/sangiovese)
+- **Composizione:** 100% [Sangiovese](/vitigni/Italia/sangiovese)
 - **Affinamento:** 24 mesi in botte grande + 12 mesi in bottiglia
 - **Alcol:** 14%
 - **Fascia di prezzo:** 50-54€ 

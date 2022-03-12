@@ -15,7 +15,7 @@ dateCreated: 2021-09-07T06:15:26.688Z
 - **Tipologia:** Orange wine
 - **Denominazione:** [Albana DOCG](/denominazioni/Italia/Romagna/DOCG/Albana)
 - **Produttore:** [Tre monti](/produttori/Italia/Romagna/Tre-Monti) 
-- **Composizione:** 100% [Albana](/vitigni/Italia/bacca-bianca/albana)
+- **Composizione:** 100% [Albana](/vitigni/Italia/albana)
 - **Affinamento:** 90 giorni in anfora + 10 mesi sui lieviti + 2 mesi in bottiglia
 - **Alcol:** 14.5%
 - **Fascia di prezzo:** 15-19€

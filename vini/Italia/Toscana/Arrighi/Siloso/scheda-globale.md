@@ -15,7 +15,7 @@ dateCreated: 2021-08-29T16:15:54.980Z
 - **Tipologia:** Rosso passito
 - **Denominazione:** [Aleatico passito Elba DOCG](/denominazioni/Italia/Toscana/DOCG/Aleatico-passito-Elba) (Riserva)
 - **Produttore:** [Arrighi](/produttori/Italia/Toscana/Arrighi) 
-- **Composizione:** 100% [Aleatico](/vitigni/Italia/bacca-nera/aleatico)
+- **Composizione:** 100% [Aleatico](/vitigni/Italia/aleatico)
 - **Affinamento:** 7 mesi in acciaio
 - **Alcol:** 13%
 - **Fascia di prezzo:** 25-29€ (annate "storiche" possono avere prezzi molto lontani dal range)

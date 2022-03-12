@@ -15,7 +15,7 @@ dateCreated: 2022-01-27T15:21:34.303Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** <span class="denominazione">[Amarone della Valpolicella DOCG](/denominazioni/Italia/Veneto/DOCG/Amarone-della-Valpolicella) (Classico)</span>
 - **Produttore:** <span class="cantina">[Speri](/produttori/Italia/Veneto/Speri)</span> 
-- **Composizione:** 65% [Corvina](/vitigni/Italia/bacca-nera/corvina) + 25% [Rondinella](/vitigni/Italia/bacca-nera/rondinella) + 5% [Corvinone](/vitigni/Italia/bacca-nera/corvinone) + 5% [Molinara](/vitigni/Italia/bacca-nera/molinara)
+- **Composizione:** 65% [Corvina](/vitigni/Italia/corvina) + 25% [Rondinella](/vitigni/Italia/rondinella) + 5% [Corvinone](/vitigni/Italia/corvinone) + 5% [Molinara](/vitigni/Italia/molinara)
 - **Affinamento:** 40 mesi in tonneau e botte grande
 - **Alcol:** 15%
 - **Fascia di prezzo:** 65-69€

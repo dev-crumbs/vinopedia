@@ -15,7 +15,7 @@ dateCreated: 2021-08-29T16:15:14.887Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Venezia Giulia IGT](/denominazioni/Italia/Friuli-Venezia-Giulia/IGT/Venezia-Giulia)
 - **Produttore:** [Borgo San Daniele](/produttori/Italia/Friuli-Venezia-Giulia/Borgo-San-Daniele) 
-- **Composizione:** 40% [Sauvignon Blanc](/vitigni/Francia/bacca-bianca/sauvignon-blanc) + 20% [Chardonnay](/vitigni/Francia/bacca-bianca/chardonnay) + 20% [Pinot bianco](/vitigni/Francia/bacca-bianca/pinot-bianco) + 20% [Friulano](/vitigni/Italia/bacca-bianca/friulano)
+- **Composizione:** 40% [Sauvignon Blanc](/vitigni/Francia/bacca-bianca/sauvignon-blanc) + 20% [Chardonnay](/vitigni/Francia/bacca-bianca/chardonnay) + 20% [Pinot bianco](/vitigni/Francia/bacca-bianca/pinot-bianco) + 20% [Friulano](/vitigni/Italia/friulano)
 - **Affinamento:** 12 in botte grande di cui 10 sui lieviti
 - **Alcol:** 14%
 - **Fascia di prezzo:** 20-24€

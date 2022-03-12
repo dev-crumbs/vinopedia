@@ -10,4 +10,4 @@ dateCreated: 2021-09-06T17:03:16.849Z
 
 # Procanico
 
-"Procanico" è un sinonimo utilizzato per il vitigno [Trebbiano toscano](/vitigni/Italia/bacca-bianca/trebbiano-toscano).
+"Procanico" è un sinonimo utilizzato per il vitigno [Trebbiano toscano](/vitigni/Italia/trebbiano-toscano).

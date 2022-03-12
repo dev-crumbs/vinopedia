@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 - **Tipologia:** Bianco passito
 - **Denominazione:** [Vino generico](/denominazioni/Italia/Vino-generico) 
 - **Produttore:** [La Pergola](/produttori/Italia/Emilia/La-Pergola) 
-- **Composizione:** 100% [Verdea](/vitigni/Italia/bacca-bianca/verdea)
+- **Composizione:** 100% [Verdea](/vitigni/Italia/verdea)
 - **Affinamento:** 48 mesi in botte 
 - **Alcol:** 13%
 - **Fascia di prezzo:** 20-24€

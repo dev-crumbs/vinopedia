@@ -15,7 +15,7 @@ dateCreated: 2021-09-18T16:30:04.076Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Valle d'Aosta DOC](/denominazioni/Italia/Valle-d-Aosta/DOC/Valle-d-Aosta) 
 - **Produttore:** [Feudo San Maurizio](/produttori/Italia/Valle-d-Aosta/Feudo-San-Maurizio) 
-- **Composizione:** 100% [Vuillermin](/vitigni/Italia/bacca-nera/vuillermin) 
+- **Composizione:** 100% [Vuillermin](/vitigni/Italia/vuillermin) 
 - **Affinamento:** 12 mesi in botte di rovere grande
 - **Alcol:** 13%
 - **Fascia di prezzo:** 20-24€

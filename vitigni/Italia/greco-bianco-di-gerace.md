@@ -10,4 +10,4 @@ dateCreated: 2021-09-07T05:18:34.767Z
 
 # Greco bianco di Gerace
 
-"Greco bianco di Gerace" è un sinonimo per il vitigno [Malvasia di Lipari](/vitigni/Italia/bacca-bianca/malvasia-di-lipari).
+"Greco bianco di Gerace" è un sinonimo per il vitigno [Malvasia di Lipari](/vitigni/Italia/malvasia-di-lipari).

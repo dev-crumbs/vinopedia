@@ -15,7 +15,7 @@ dateCreated: 2021-09-07T12:33:51.262Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Sicilia DOC](/denominazioni/Italia/Sicilia/DOC/Sicilia)
 - **Produttore:** [Baglio del Cristo](/produttori/Italia/Sicilia/Baglio-del-Cristo) 
-- **Composizione:** 100% [Nero d'Avola](/vitigni/Italia/bacca-nera/nero-d-avola)
+- **Composizione:** 100% [Nero d'Avola](/vitigni/Italia/nero-d-avola)
 - **Affinamento:** 14 mesi in barrique + 12 in bottiglia
 - **Alcol:** 14%
 - **Fascia di prezzo:** 20-24€

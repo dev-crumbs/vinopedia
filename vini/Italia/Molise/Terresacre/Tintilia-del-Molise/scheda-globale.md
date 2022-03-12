@@ -15,7 +15,7 @@ dateCreated: 2021-09-08T14:09:00.807Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Tintilia del Molise DOC](/denominazioni/Italia/Molise/DOC/Tintilia-del-Molise) 
 - **Produttore:** [Terresacre](/produttori/Italia/Molise/Terresacre) 
-- **Composizione:** 100% [Tintilia del Molise](/vitigni/Italia/bacca-nera/tintilia-del-molise)
+- **Composizione:** 100% [Tintilia del Molise](/vitigni/Italia/tintilia-del-molise)
 - **Affinamento:** 12 mesi in barrique
 - **Alcol:** 14%
 - **Fascia di prezzo:** 20-24€

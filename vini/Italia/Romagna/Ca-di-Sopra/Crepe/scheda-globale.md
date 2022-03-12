@@ -15,7 +15,7 @@ dateCreated: 2021-09-28T15:49:51.490Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Romagna Sangiovese DOC](/denominazioni/Italia/Romagna/DOC/Romagna-Sangiovese) (Superiore)
 - **Produttore:** [Cà di Sopra](/produttori/Italia/Romagna/Ca-di-Sopra) 
-- **Composizione:** 100% [Sangiovese](/vitigni/Italia/bacca-nera/sangiovese)
+- **Composizione:** 100% [Sangiovese](/vitigni/Italia/sangiovese)
 - **Affinamento:** 7 mesi in cemento + 4 mesi in bottiglia
 - **Alcol:** 13.5%
 - **Fascia di prezzo:** 10-14€

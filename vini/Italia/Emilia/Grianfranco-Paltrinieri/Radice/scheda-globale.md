@@ -15,7 +15,7 @@ dateCreated: 2021-08-25T13:27:56.103Z
 - **Tipologia:** Rosato spumante metodo ancestrale
 - **Denominazione:** [Lambrusco di Sorbara DOC](/denominazioni/Italia/Emilia/DOC/Lambrusco-di-Sorbara)
 - **Produttore:** [Gianfranco Paltrinieri](/produttori/Italia/Emilia/Gianfranco-Paltrinieri) 
-- **Composizione:** 100% [Lambrusco di Sorbara](/vitigni/Italia/bacca-nera/lambrusco-di-sorbara)
+- **Composizione:** 100% [Lambrusco di Sorbara](/vitigni/Italia/lambrusco-di-sorbara)
 - **Alcol:** 11%
 - **Fascia di prezzo:** 10-14€
 

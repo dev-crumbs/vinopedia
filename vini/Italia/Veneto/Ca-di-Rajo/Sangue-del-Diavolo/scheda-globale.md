@@ -15,7 +15,7 @@ dateCreated: 2022-01-15T21:12:01.561Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Piave Raboso DOC](/denominazioni/Italia/Veneto/DOC/Piave-Raboso)
 - **Produttore:** [Cecchetto](/produttori/Italia/Veneto/Cecchetto) 
-- **Composizione:** 100% [Raboso Piave](/vitigni/Italia/bacca-nera/raboso-piave) 
+- **Composizione:** 100% [Raboso Piave](/vitigni/Italia/raboso-piave) 
 - **Vinificazione:** 90% uve sovramature in pianta + 10% uve appassite in fruttaio
 - **Affinamento:** 24 mesi in botti grande + 12 mesi in barrique
 - **Alcol:** 14%

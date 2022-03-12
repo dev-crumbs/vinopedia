@@ -15,7 +15,7 @@ dateCreated: 2022-01-27T15:21:34.303Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** <span class="denominazione">[Amarone della Valpolicella DOCG](/denominazioni/Italia/Veneto/DOCG/Amarone-della-Valpolicella) (Classico, Riserva)</span>
 - **Produttore:** <span class="cantina">[Pietro Zardini](/produttori/Italia/Veneto/Pietro-Zardini)</span> 
-- **Composizione:** 30% [Corvina](/vitigni/Italia/bacca-nera/corvina) + 30% [Rondinella](/vitigni/Italia/bacca-nera/rondinella) + 30% [Corvinone](/vitigni/Italia/bacca-nera/corvinone) + Altri
+- **Composizione:** 30% [Corvina](/vitigni/Italia/corvina) + 30% [Rondinella](/vitigni/Italia/rondinella) + 30% [Corvinone](/vitigni/Italia/corvinone) + Altri
 - **Affinamento:** 48 mesi in barrique
 - **Alcol:** 16%
 - **Fascia di prezzo:** 35-39€

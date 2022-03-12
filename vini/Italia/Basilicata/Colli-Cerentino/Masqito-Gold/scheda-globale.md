@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:32:54.829Z
 - **Tipologia:** Rosso fermo 
 - **Denominazione:** [Aglianico del Vulture Superiore DOCG](/denominazioni/Italia/Basilicata/DOCG/Aglianico-del-Vulture-Superiore)
 - **Produttore:** [Colli Cerentino](/produttori/Italia/Basilicata/Colli-Cerentino) 
-- **Composizione:** 100% [Aglianico del Vulture](/vitigni/Italia/bacca-nera/aglianico-del-vulture)
+- **Composizione:** 100% [Aglianico del Vulture](/vitigni/Italia/aglianico-del-vulture)
 - **Affinamento:** 36 mesi in barrique
 - **Alcol:** 14.5%
 - **Fascia di prezzo:** 45-49€

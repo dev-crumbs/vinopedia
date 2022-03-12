@@ -15,7 +15,7 @@ dateCreated: 2021-10-01T09:52:58.839Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Savuto Rosso DOC](/denominazioni/Italia/Calabria/DOC/Savuto-Rosso) (superiore)
 - **Produttore:** [Antiche Vigne](/produttori/Italia/Calabria/Antiche-Vigne)
-- **Composizione:** 100% [Magliocco dolce](/vitigni/Italia/bacca-nera/magliocco-dolce)
+- **Composizione:** 100% [Magliocco dolce](/vitigni/Italia/magliocco-dolce)
 - **Affinamento:** 50 mesi botte
 - **Alcol:** 14%
 - **Fascia di prezzo:** 25-29€

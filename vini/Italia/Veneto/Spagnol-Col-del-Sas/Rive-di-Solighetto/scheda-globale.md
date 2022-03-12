@@ -15,7 +15,7 @@ dateCreated: 2021-09-30T08:14:01.373Z
 - **Tipologia:** Bianco spumante metodo martinotti brut
 - **Denominazione:** [Conegliano Valdobbiadene Prosecco DOCG](/denominazioni/Veneto/DOCG/Conegliano-Valdobbiadene-Prosecco) (Superiore)
 - **Produttore:** Spagnol Col del Sol 
-- **Composizione:** 100% [Glera](/vitigni/Italia/bacca-bianca/glera) 
+- **Composizione:** 100% [Glera](/vitigni/Italia/glera) 
 - **Fascia di prezzo:** 10-14€
 
 {.grid-list}

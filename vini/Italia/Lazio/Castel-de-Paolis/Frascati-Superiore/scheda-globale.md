@@ -15,7 +15,7 @@ dateCreated: 2021-10-01T17:43:12.241Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Frascati Superiore DOCG](/denominazioni/Italia/Lazio/DOCG/Frascati-Superiore)
 - **Produttore:** [Castel de Paolis](/produttori/Italia/Lazio/Castel-de-Paolis) 
-- **Composizione:** 70% [Malvasia puntinata](/vitigni/Italia/bacca-bianca/malvasia-puntinata) + 30% altre varietà
+- **Composizione:** 70% [Malvasia puntinata](/vitigni/Italia/malvasia-puntinata) + 30% altre varietà
 - **Affinamento:** 6 mesi in acciaio sui lieviti
 - **Alcol:** 14%
 - **Fascia di prezzo:** 15-19€

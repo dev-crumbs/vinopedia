@@ -15,7 +15,7 @@ dateCreated: 2021-09-30T12:52:51.032Z
 - **Tipologia:** Bianco fermo 
 - **Denominazione:** [Campi Flegrei DOC](/denominazioni/Italia/Campania/DOC/Campi-Flegrei) (Riserva) 
 - **Produttore:** [Contrada Salandra](/produttori/Italia/Campania/Contrada Salandra) 
-- **Composizione:** 100% [Falanghina](/vitigni/Italia/bacca-bianca/Falanghina)
+- **Composizione:** 100% [Falanghina](/vitigni/Italia/Falanghina)
 - **Affinamento:** 9 mesi in acciaio + 12 mesi in bottiglia
 - **Alcol:** 13%
 - **Fascia di prezzo:** 10-14€

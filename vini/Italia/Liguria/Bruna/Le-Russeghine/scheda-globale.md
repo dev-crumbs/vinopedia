@@ -15,7 +15,7 @@ dateCreated: 2021-09-08T10:52:06.764Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Riviera Ligure di Ponente DOC](/denominazioni/Italia/Liguria/DOC/Riviera-Ligure-di-Ponente) 
 - **Produttore:** [Bruna](/produttori/Italia/Liguria/Bruna) 
-- **Composizione:** 100% [Pigato](/vitigni/Italia/bacca-bianca/pigato)
+- **Composizione:** 100% [Pigato](/vitigni/Italia/pigato)
 - **Affinamento:** 8 mesi in botte grande
 - **Alcol:** 13.5%
 - **Fascia di prezzo:** 15-19€

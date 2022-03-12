@@ -15,7 +15,7 @@ dateCreated: 2021-08-31T15:46:49.712Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Sicilia DOC](/denominazioni/Italia/Sicilia/DOC/Sicilia)
 - **Produttore:** [Donnafugata](/produttori/Italia/Sicilia/Donnafugata) 
-- **Composizione:** 80% [Nero d'Avola](/vitigni/Italia/bacca-nera/nero-d-avola) + altre varietà
+- **Composizione:** 80% [Nero d'Avola](/vitigni/Italia/nero-d-avola) + altre varietà
 - **Affinamento:** 14 mesi in barrique + 20 mesi in bottiglia
 - **Alcol:** 13.5%
 - **Fascia di prezzo:** 55-59€

@@ -15,7 +15,7 @@ dateCreated: 2021-09-30T08:13:33.751Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Verdicchio di Matelica DOC](/denominazioni/Italia/Marche/DOC/Verdicchio-di-Matelica)
 - **Produttore:** [Cantine Mecella](/produttori/Italia/Marche/Cantine-Mecella) 
-- **Composizione:** 100% [Verdicchio](/vitigni/Italia/bacca-bianca/verdicchio)
+- **Composizione:** 100% [Verdicchio](/vitigni/Italia/verdicchio)
 - **Affinamento:** 8 mesi in acciaio + 4 in legno
 - **Alcol:** 13.5%
 - **Fascia di prezzo:** 10-14€

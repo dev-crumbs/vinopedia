@@ -15,7 +15,7 @@ dateCreated: 2021-09-07T14:45:31.356Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Boca DOC](/denominazioni/Italia/Piemonte/DOC/Boca) 
 - **Produttore:** [Le Piane](/produttori/Italia/Piemonte/Le-Piane)
-- **Composizione:** 85% [Nebbiolo](/vitigni/Italia/bacca-nera/nebbiolo) + 15% [Vespolina](/vitigni/Italia/bacca-nera/vespolina)
+- **Composizione:** 85% [Nebbiolo](/vitigni/Italia/nebbiolo) + 15% [Vespolina](/vitigni/Italia/vespolina)
 - **Affinamento:** 40 giorni di macerazione in acciaio + 48 mesi in botte grande di rovere di Slavonia + 12 mesi in bottiglia
 - **Alcol:** 14%
 - **Fascia di prezzo:** 55-59€

@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Emilia IGT](/denominazioni/Italia/Emilia/IGT/Emilia) 
 - **Produttore:** [Il Poggiarello](/produttori/Italia/Emilia/Il-Poggiarello) 
-- **Composizione:** 100% [Malvasia di Candia aromatica](/vitigni/Italia/bacca-bianca/malvasia-di-candia-aromatica)
+- **Composizione:** 100% [Malvasia di Candia aromatica](/vitigni/Italia/malvasia-di-candia-aromatica)
 - **Affinamento:** --
 - **Alcol:** 13.5%
 - **Fascia di prezzo:** 10-14€

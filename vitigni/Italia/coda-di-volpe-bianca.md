@@ -22,13 +22,13 @@ Durante, Falerno, Guarnaccia Bianca (Calabria)
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Caprettone](/vitigni/Italia/bacca-bianca/caprettone), [Coda di pecora](/vitigni/Italia/bacca-bianca/coda-di-pecora), [Codivarta](/vitigni/Italia/bacca-bianca/codivarta), [Pallagrello bianco](/vitigni/Italia/bacca-bianca/pallagrello-bianco), [Trebbiano toscano](/vitigni/Italia/bacca-bianca/trebbiano-toscano)
+[Caprettone](/vitigni/Italia/caprettone), [Coda di pecora](/vitigni/Italia/coda-di-pecora), [Codivarta](/vitigni/Italia/codivarta), [Pallagrello bianco](/vitigni/Italia/pallagrello-bianco), [Trebbiano toscano](/vitigni/Italia/trebbiano-toscano)
 
 ## Origini e parentele
 
 La prima menzione di Coda di Volpe Bianca dalla Campania risale a Giovan Battista della Porta (1592). Il sinonimo Falerno è probabilmente venuto fuori perché Coda di Volpe Bianca è pensato da alcuni per aver prodotto il famoso vino Falerno in epoca romana.
 
-Coda di Volpe Bianca, che significa "coda di volpe bianca", è stata talvolta considerata identica a [Caprettone](/vitigni/Italia/bacca-bianca/caprettone), [Coda di pecora](/vitigni/Italia/bacca-bianca/coda-di-pecora), [Codivarta](/vitigni/Italia/bacca-bianca/codivarta), [Pallagrello bianco](/vitigni/Italia/bacca-bianca/pallagrello-bianco), [Trebbiano toscano](/vitigni/Italia/bacca-bianca/trebbiano-toscano). Attente osservazioni ampelografiche e recenti analisi del DNA hanno dimostrato che sono tutte cultivar distinte e non correlate, e che Coda di Volpe Bianca potrebbe essere strettamente correlata a Nerella e Uva Rosa, due oscure e non commercialmente coltivate varietà campane campionate nella regione di Napoli (Costantini et al. 2005). L'epiteto Bianca è utile per distinguerla dalla Coda di Volpe Nera, sinonimo di [Pallagrello nero](/vitigni/Italia/bacca-nera/pallagrello-nero).
+Coda di Volpe Bianca, che significa "coda di volpe bianca", è stata talvolta considerata identica a [Caprettone](/vitigni/Italia/caprettone), [Coda di pecora](/vitigni/Italia/coda-di-pecora), [Codivarta](/vitigni/Italia/codivarta), [Pallagrello bianco](/vitigni/Italia/pallagrello-bianco), [Trebbiano toscano](/vitigni/Italia/trebbiano-toscano). Attente osservazioni ampelografiche e recenti analisi del DNA hanno dimostrato che sono tutte cultivar distinte e non correlate, e che Coda di Volpe Bianca potrebbe essere strettamente correlata a Nerella e Uva Rosa, due oscure e non commercialmente coltivate varietà campane campionate nella regione di Napoli (Costantini et al. 2005). L'epiteto Bianca è utile per distinguerla dalla Coda di Volpe Nera, sinonimo di [Pallagrello nero](/vitigni/Italia/pallagrello-nero).
 
 
 ## Caratteristiche viticole

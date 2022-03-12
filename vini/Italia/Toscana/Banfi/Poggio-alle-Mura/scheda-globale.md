@@ -15,7 +15,7 @@ dateCreated: 2021-08-29T16:15:54.980Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Brunello di Montalcino DOCG](/denominazioni/Italia/Toscana/DOCG/Brunello-di-Montalcino) (Riserva)
 - **Produttore:** [Banfi](/produttori/Italia/Toscana/Banfi) 
-- **Composizione:** 100% [Sangiovese](/vitigni/Italia/bacca-nera/sangiovese)
+- **Composizione:** 100% [Sangiovese](/vitigni/Italia/sangiovese)
 - **Affinamento:** 30 in barrique e botti da 60 e 90 ettolitri
 - **Alcol:** 14%
 - **Fascia di prezzo:** 65-69€ (annate "storiche" possono avere prezzi molto lontani dal range)

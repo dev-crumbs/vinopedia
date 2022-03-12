@@ -15,7 +15,7 @@ dateCreated: 2022-01-20T14:06:41.997Z
 - **Tipologia:** Rosso dolce
 - **Denominazione:** [Alto Adige DOC](/denominazioni/Italia/Alto-Adige/DOC/Alto-Adige)
 - **Produttore:** [Castel Sallegg](/produttori/Italia/Alto-Adite/Castel-Sallegg) 
-- **Composizione:** 100% [Moscato Rosa](/vitigni/Italia/bacca-nera/moscato-rosa)
+- **Composizione:** 100% [Moscato Rosa](/vitigni/Italia/moscato-rosa)
 - **Affinamento:** appassimento in pianta + 1 anno in acciaio
 - **Alcol:** 13%
 - **Fascia di prezzo:** 35-39€

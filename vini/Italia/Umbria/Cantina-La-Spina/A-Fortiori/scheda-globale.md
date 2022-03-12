@@ -15,7 +15,7 @@ dateCreated: 2021-09-24T14:29:42.326Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Umbria IGT](/denominazioni/Italia/Umbria/IGT/Umbria)
 - **Produttore:** [Cantina La Spina](/produttori/Italia/Piemonte/Cantina-La-Spina)
-- **Composizione:** 100% [Nebbiolo](/vitigni/Italia/bacca-nera/nebbiolo)
+- **Composizione:** 100% [Nebbiolo](/vitigni/Italia/nebbiolo)
 - **Affinamento:** 12 mesi in barrique (tronçais) + 12 mesi in bottiglia
 - **Alcol:** 14%
 - **Fascia di prezzo:** 20-24€

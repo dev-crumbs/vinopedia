@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:34:55.182Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Toscana IGT](/denominazioni/Italia/Toscana/IGT/Toscana)
 - **Produttore:** [Riecine](/produttori/Italia/Toscana/Riecine) 
-- **Composizione:** 100% [Sangiovese](/vitigni/Italia/bacca-nera/sangiovese)
+- **Composizione:** 100% [Sangiovese](/vitigni/Italia/sangiovese)
 - **Affinamento:** 36 mesi in uova di cemento + 6 mesi in bottiglia
 - **Alcol:** 13.5%
 - **Fascia di prezzo:** 60-64€

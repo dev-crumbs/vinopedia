@@ -15,7 +15,7 @@ dateCreated: 2021-08-29T16:15:50.982Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Contea di Sclafani DOC](/denominazioni/Italia/Sicilia/DOC/Contea-di-Sclafani)
 - **Produttore:** [Tasca d'Almerita](/produttori/Italia/Sicilia/Tasca-d-Almerita) 
-- **Composizione:** 47% [Perricone](/vitigni/Italia/bacca-nera/perricone) + 57% [Nero d'Avola](/vitigni/Italia/bacca-nera/nero-d-avola)
+- **Composizione:** 47% [Perricone](/vitigni/Italia/perricone) + 57% [Nero d'Avola](/vitigni/Italia/nero-d-avola)
 - **Affinamento:** 18 mesi in barrique
 - **Alcol:** 13%
 - **Fascia di prezzo:** 45-49€

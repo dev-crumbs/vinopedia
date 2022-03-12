@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 - **Tipologia:** Bianco passito
 - **Denominazione:** [Colli Piacentini DOC](/denominazioni/Italia/Emilia/DOC-Colli-Piacentini)
 - **Produttore:** [Cantina Valtidone](/produttori/Italia/Emilia/Cantina-Valtidone) 
-- **Composizione:** 100% [Malvasia aromatica di Candia](/vitigni/Italia/bacca-bianca/malvasia-di-candia-aromatica)
+- **Composizione:** 100% [Malvasia aromatica di Candia](/vitigni/Italia/malvasia-di-candia-aromatica)
 - **Affinamento:** 12 mesi in botte
 - **Alcol:** 13%
 - **Fascia di prezzo:** 20-24€

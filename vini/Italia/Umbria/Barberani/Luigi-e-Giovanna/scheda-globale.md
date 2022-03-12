@@ -15,7 +15,7 @@ dateCreated: 2021-08-26T10:19:56.238Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Orvieto DOC](/denominazioni/Italia/Umbria/DOC/Orvieto) (Classico Superiore)
 - **Produttore:** [Barberani](/produttori/Italia/Umbria/Barberani) 
-- **Composizione:** 90% [Grechetto](/vitigni/Italia/bacca-bianca/grechetto) + 90% [Procanico](/vitigni/Italia/bacca-bianca/trebbiano-toscano)
+- **Composizione:** 90% [Grechetto](/vitigni/Italia/grechetto) + 90% [Procanico](/vitigni/Italia/trebbiano-toscano)
 - **Affinamento:** 12 mesi in botte grande 
 - **Alcol:** 12.5%
 - **Fascia di prezzo:** 40-44€
@@ -39,4 +39,4 @@ dateCreated: 2021-08-26T10:19:56.238Z
 - Luigi e Giovanna [2018](vini/Italia/Umbria/Barberani/Luigi-e-Giovanna/2018) -- <span class="star-3"></span> -- 88/100
 
 ## Note
-Il produttore dichira due sinonimi come nomi dei vitigni che compongono il blend: "[Grechetto](/vitigni/Italia/bacca-bianca/grechetto)" invece di "[Grechetto di Orvieto](/vitigni/Italia/bacca-bianca/grechetto-di-orvieto)" e "[Procanico](/vitigni/Italia/bacca-bianca/procanico)" invece di "[Trebbiano toscano](/vitigni/Italia/bacca-bianca/trebbiano-toscano)"
+Il produttore dichira due sinonimi come nomi dei vitigni che compongono il blend: "[Grechetto](/vitigni/Italia/grechetto)" invece di "[Grechetto di Orvieto](/vitigni/Italia/grechetto-di-orvieto)" e "[Procanico](/vitigni/Italia/procanico)" invece di "[Trebbiano toscano](/vitigni/Italia/trebbiano-toscano)"

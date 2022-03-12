@@ -15,7 +15,7 @@ dateCreated: 2021-09-07T14:15:08.703Z
 - **Tipologia:** Rosso passito
 - **Denominazione:** [Isola dei Nuraghi IGT](/denominazioni/Italia/Sardegna/IGT/Isola-dei-Nuraghi)
 - **Produttore:** [Argiolas](/produttori/Italia/Sardegna/Argiolas) 
-- **Composizione:** 100% [Cannonau](/vitigni/Italia/bacca-nera/cannonau) -- alcune annate possono contenere fino al 5% di [Malvasia nera](/vitigni/Italia/bacca-nera/malvasia-nera)
+- **Composizione:** 100% [Cannonau](/vitigni/Italia/cannonau) -- alcune annate possono contenere fino al 5% di [Malvasia nera](/vitigni/Italia/malvasia-nera)
 - **Affinamento:** Appassimento in pianta + 12 mesi in barrique di secondo passaggio
 - **Alcol:** 15%
 - **Fascia di prezzo:** 25-29€

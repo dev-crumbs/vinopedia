@@ -18,7 +18,7 @@ Weinsberg S 2530
 
 ## Origini e Parentele
 
-Incrocio di [Schiava Grossa](/vitigni/Italia/bacca-nera/schiava-grossa) e [Riesling](/vitigni/Germania/bacca-bianca/riesling) allevato da August Herold presso il centro di ricerca Weinsberg nel Baden-Württemberg, nel sud della Germania, nel 1929, che prende il nome dal medico del Württemberg del XIX secolo e scrittore di canzoni da bere Justinius Kerner, che raccomandava ai suoi pazienti di bere un bicchiere di vino come migliore medicina naturale. La paternità è stata confermata dal profilo del DNA (Grando e Frisinghelli 1998). Kerner e [Rotberger](/vitigni/Germania/bacca-bianca/rotberger) sono fratelli e Kerner è stato usato per allevare [Juwel](/vitigni/Germania/bacca-bianca/juwel).
+Incrocio di [Schiava Grossa](/vitigni/Italia/schiava-grossa) e [Riesling](/vitigni/Germania/bacca-bianca/riesling) allevato da August Herold presso il centro di ricerca Weinsberg nel Baden-Württemberg, nel sud della Germania, nel 1929, che prende il nome dal medico del Württemberg del XIX secolo e scrittore di canzoni da bere Justinius Kerner, che raccomandava ai suoi pazienti di bere un bicchiere di vino come migliore medicina naturale. La paternità è stata confermata dal profilo del DNA (Grando e Frisinghelli 1998). Kerner e [Rotberger](/vitigni/Germania/bacca-bianca/rotberger) sono fratelli e Kerner è stato usato per allevare [Juwel](/vitigni/Germania/bacca-bianca/juwel).
 
 ## Caratteristiche Viticole
 

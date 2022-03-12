@@ -15,7 +15,7 @@ Nera
 
 ## Sinonimi
 [Kaštelanski](/vitigni/bacca-nera/kastelanski), [Kratošija](/vitigni/bacca-nera/kratošija), [Morellone](/vitigni/bacca-nera/morellone), [Pribidrag](/vitigni/bacca-nera/pribidrag), [Primaticcio](/vitigni/bacca-nera/primaticcio),
-[Primitivo](/vitigni/Italia/bacca-nera/primitivo), [Uva di Corato](/vitigni/bacca-nera/uva-di-corato), [Zagarese](/vitigni/bacca-nera/zagarese), [Zinfandel](/vitigni/Croazia/bacca-nera/tribidrag)
+[Primitivo](/vitigni/Italia/primitivo), [Uva di Corato](/vitigni/bacca-nera/uva-di-corato), [Zagarese](/vitigni/bacca-nera/zagarese), [Zinfandel](/vitigni/Croazia/bacca-nera/tribidrag)
 
 ## Omonimi
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica

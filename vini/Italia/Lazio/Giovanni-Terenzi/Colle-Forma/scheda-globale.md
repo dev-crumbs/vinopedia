@@ -15,7 +15,7 @@ dateCreated: 2021-09-30T08:13:26.825Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Cesanese del piglio DOCG](/denominazioni/Italia/Lazio/DOCG/Cesanese-del-piglio) (Superiore)
 - **Produttore:** [Giovanni Terenzi](/produttori/Italia/Lazio/Giovanni-Terenzi) 
-- **Composizione:** 100% [Cesanese d'Affile](/vitigni/Italia/bacca-nera/cesanese-d-affile)
+- **Composizione:** 100% [Cesanese d'Affile](/vitigni/Italia/cesanese-d-affile)
 - **Affinamento:** 12 mesi in botte grande + 12 mesi in bottiglia
 - **Alcol:** 14.5%
 - **Fascia di prezzo:** 10-14€

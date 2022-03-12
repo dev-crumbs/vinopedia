@@ -15,7 +15,7 @@ dateCreated: 2022-01-27T15:21:34.303Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** <span class="denominazione">[Amarone della Valpolicella DOCG](/denominazioni/Italia/Veneto/DOCG/Amarone-della-Valpolicella)</span>
 - **Produttore:** <span class="cantina">[Pasqua](/produttori/Italia/Veneto/Pasqua)</span> 
-- **Composizione:** 65% [Corvina](/vitigni/Italia/bacca-nera/corvina) + 10% [Rondinella](/vitigni/Italia/bacca-nera/rondinella) + 15% [Corvinone](/vitigni/Italia/bacca-nera/corvinone) + 10% [Oseleta](/vitigni/Italia/bacca-nera/oseleta)
+- **Composizione:** 65% [Corvina](/vitigni/Italia/corvina) + 10% [Rondinella](/vitigni/Italia/rondinella) + 15% [Corvinone](/vitigni/Italia/corvinone) + 10% [Oseleta](/vitigni/Italia/oseleta)
 - **Affinamento:** 24 mesi in barrique e tonneau
 - **Alcol:** 16.5%
 - **Fascia di prezzo:** 70-74€

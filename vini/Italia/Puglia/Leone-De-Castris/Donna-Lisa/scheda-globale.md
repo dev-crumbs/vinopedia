@@ -15,7 +15,7 @@ dateCreated: 2021-10-01T17:43:19.742Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Puglia IGT](/denominazioni/Italia/Puglia/IGT/Puglia)
 - **Produttore:** [Leone De Castris](/produttori/Italia/Puglia/Leone-De-Castris) 
-- **Composizione:** 100% [Malvasia bianca](/vitigni/Italia/bacca-bianca/Malvasia-bianca)
+- **Composizione:** 100% [Malvasia bianca](/vitigni/Italia/Malvasia-bianca)
 - **Affinamento:** 6 mesi in acciaio
 - **Alcol:** 13%
 - **Fascia di prezzo:** 15-19€

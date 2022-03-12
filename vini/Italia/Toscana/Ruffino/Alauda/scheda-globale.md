@@ -15,7 +15,7 @@ dateCreated: 2021-09-18T16:45:15.826Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Toscana IGT](/denominazioni/Italia/Toscana/IGT/Toscana)
 - **Produttore:** [Ruffino](/produttori/Italia/Toscana/Ruffino) 
-- **Composizione:** 47% [Cabernet Franc](/vitigni/Francia/bacca-nera/cabernet-franc) + 43% [Merlot](/vitigni/Francia/bacca-nera/merlot) + 10% [Colorino](/vitigni/Italia/bacca-nera/colorino.md)
+- **Composizione:** 47% [Cabernet Franc](/vitigni/Francia/bacca-nera/cabernet-franc) + 43% [Merlot](/vitigni/Francia/bacca-nera/merlot) + 10% [Colorino](/vitigni/Italia/colorino.md)
 - **Affinamento:** 24 mesi in barrique + 6 mesi in bottiglia
 - **Fascia di prezzo:** 95-99€
 {.grid-list}

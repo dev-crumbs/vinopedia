@@ -10,4 +10,4 @@ dateCreated: 2021-08-19T09:38:06.344Z
 
 # Malvasija Dubrovačka
 
-"Malvasija Dubrovačka" è un sinonimo per "[Malvasia di Lipari](/vitigni/Italia/bacca-bianca/malvasia-di-lipari)"
+"Malvasija Dubrovačka" è un sinonimo per "[Malvasia di Lipari](/vitigni/Italia/malvasia-di-lipari)"

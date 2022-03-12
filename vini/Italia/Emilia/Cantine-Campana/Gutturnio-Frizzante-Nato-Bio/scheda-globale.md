@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Gutturnio DOC](/denominazioni/Italia/Emilia/DOC-Gutturnio) (Frizzante)
 - **Produttore:** [Cantine Camapna](/produttori/Italia/Emilia/Cantine-Camapna) 
-- **Composizione:** 60% [Barbera](/vitigni/Italia/bacca-nera/barbera) + 40% [Croatina](/vitigni/Italia/bacca-nera/croatina)
+- **Composizione:** 60% [Barbera](/vitigni/Italia/barbera) + 40% [Croatina](/vitigni/Italia/croatina)
 - **Affinamento:** 6 mesi in acciaio
 - **Alcol:** 14%
 - **Fascia di prezzo:** 10-14€

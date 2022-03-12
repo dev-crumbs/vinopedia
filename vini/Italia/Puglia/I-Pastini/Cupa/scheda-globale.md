@@ -15,7 +15,7 @@ dateCreated: 2021-10-01T17:43:19.742Z
 - **Tipologia:** bianco fermo
 - **Denominazione:** [Valle d'Itria IGT](/denominazioni/Italia/Puglia/IGT/Valle-d-Itria)
 - **Produttore:** [I Pastini](/produttori/Italia/Puglia/I-Pastini) 
-- **Composizione:** 100% [Bianco d'Alessano](/vitigni/Italia/bacca-bianca/bianco-d-alessano)
+- **Composizione:** 100% [Bianco d'Alessano](/vitigni/Italia/bianco-d-alessano)
 - **Affinamento:** in acciaio
 - **Alcol:** 12%
 - **Fascia di prezzo:** 5-9€

@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Gutturnio DOC](/denominazioni/Italia/Emilia/DOC-Gutturnio) (Superiore)
 - **Produttore:** [Luretta](/produttori/Italia/Emilia/Luretta) 
-- **Composizione:** 60% [Barbera](/vitigni/Francia/bacca-nera/cabernet-sauvignon) + 30% [Barbera](/vitigni/Italia/bacca-nera/barbera) + 30% [Croatina](/vitigni/Italia/bacca-nera/croatina)
+- **Composizione:** 60% [Barbera](/vitigni/Francia/bacca-nera/cabernet-sauvignon) + 30% [Barbera](/vitigni/Italia/barbera) + 30% [Croatina](/vitigni/Italia/croatina)
 - **Affinamento:** 18 mesi in barrique
 - **Alcol:** 14%
 - **Fascia di prezzo:** 15-19€

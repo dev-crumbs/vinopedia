@@ -10,4 +10,4 @@ dateCreated: 2021-09-07T05:19:19.488Z
 
 # Grechetto
 
-"Grechetto" è un sinonimo utilizzato per il vitigno [Grechetto di orvieto](/vitigni/Italia/bacca-bianca/grechetto-di-orvieto).
+"Grechetto" è un sinonimo utilizzato per il vitigno [Grechetto di orvieto](/vitigni/Italia/grechetto-di-orvieto).

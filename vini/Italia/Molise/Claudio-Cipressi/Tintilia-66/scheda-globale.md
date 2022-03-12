@@ -15,7 +15,7 @@ dateCreated: 2021-09-07T12:38:58.050Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Tintilia del Molise DOC](/denominazioni/Italia/Molise/DOC/Tintilia-del-Molise) 
 - **Produttore:** [Claudio Cipressi](/produttori/Italia/Molise/Claudio-Cipressi) 
-- **Composizione:** 100% [Tintilia del Molise](/vitigni/Italia/bacca-nera/tintilia-del-molise)
+- **Composizione:** 100% [Tintilia del Molise](/vitigni/Italia/tintilia-del-molise)
 - **Affinamento:** 36 mesi in botte di rovere francese + 9 mesi in bottiglia
 - **Alcol:** 14.5%
 - **Fascia di prezzo:** 45-49€

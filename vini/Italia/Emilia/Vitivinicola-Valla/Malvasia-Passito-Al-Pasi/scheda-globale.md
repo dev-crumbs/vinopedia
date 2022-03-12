@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 - **Tipologia:** Bianco passito
 - **Denominazione:** [Emilia IGT](/denominazioni/Italia/Emilia/IGT/Emilia)
 - **Produttore:** [Vitivinicola Valla](/produttori/Italia/Emilia/Vitivinicola-Valla) 
-- **Composizione:** 100% [Malvasia aromatica di Candia](/vitigni/Italia/bacca-bianca/malvasia-di-candia-aromatica)
+- **Composizione:** 100% [Malvasia aromatica di Candia](/vitigni/Italia/malvasia-di-candia-aromatica)
 - **Affinamento:** 12 mesi in acciaio
 - **Alcol:** 12.5%
 - **Fascia di prezzo:** 20-24€

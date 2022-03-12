@@ -15,7 +15,7 @@ dateCreated: 2021-09-28T15:49:35.114Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Lamezia DOC](/denominazioni/Italia/Calabria/DOC/Lamezia)
 - **Produttore:** [Statti](/produttori/Italia/Calabria/Statti)
-- **Composizione:** 50% [Greco bianco](/vitigni/Italia/bacca-bianca/greco-bianco) + 50% [Mantonico bianco](/vitigni/Italia/bacca-bianca/mantonico-bianco) 
+- **Composizione:** 50% [Greco bianco](/vitigni/Italia/greco-bianco) + 50% [Mantonico bianco](/vitigni/Italia/mantonico-bianco) 
 - **Affinamento:** solo acciaio
 - **Alcol:** 12.5%
 - **Fascia di prezzo:** 10-14€

@@ -15,7 +15,7 @@ dateCreated: 2021-09-01T10:16:55.566Z
 - **Tipologia:** Bianco spumante
 - **Denominazione:** [Verdicchio dei Castelli di Jesi DOC](/denominazioni/Italia/Marche/DOC/Verdicchio-dei-Castelli-di-Jesi)
 - **Produttore:** [Garofoli](/produttori/Italia/Marche/Garofoli) 
-- **Composizione:** 100% [Verdicchio](/vitigni/Italia/bacca-bianca/verdicchio)
+- **Composizione:** 100% [Verdicchio](/vitigni/Italia/verdicchio)
 - **Fascia di prezzo:** 15-19€
 - 
 ### Spumantizzazione

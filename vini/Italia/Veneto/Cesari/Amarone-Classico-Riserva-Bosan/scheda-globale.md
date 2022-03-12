@@ -15,7 +15,7 @@ dateCreated: 2022-01-15T21:40:12.066Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Amarone della Valpolicella DOCG](/denominazioni/Italia/Veneto/DOCG/Amarone-della-Valpolicella) (Classico - Riserva)
 - **Produttore:** [Cesari](/produttori/Italia/Veneto/Cesari) 
-- **Composizione:** [Corvina](/vitigni/Italia/bacca-nera/corvina) + [Rondinella](/vitigni/Italia/bacca-nera/rondinella)
+- **Composizione:** [Corvina](/vitigni/Italia/corvina) + [Rondinella](/vitigni/Italia/rondinella)
 - **Affinamento:** 18-36 mesi in botte grande e barrique + 15 mesi in bottiglia
 - **Alcol:** 15.5%
 - **Fascia di prezzo:** 60-64€

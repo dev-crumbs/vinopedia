@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 - **Tipologia:** Bianco frizzante
 - **Denominazione:** [Ortrugo dei Colli Piacentini DOC](/denominazioni/Italia/Emilia/DOC/Ortrugo-dei-Colli-Piacentini) (Frizzante)
 - **Produttore:** [Casa Benna](/produttori/Italia/Emilia/Casa-Benna) 
-- **Composizione:** 92% [Ortrugo](/vitigni/Italia/bacca-bianca/ortrugo) + 8% [Trebbiano romagnolo](/vitigni/Italia/bacca-bianca/trebbiano-romagnolo)
+- **Composizione:** 92% [Ortrugo](/vitigni/Italia/ortrugo) + 8% [Trebbiano romagnolo](/vitigni/Italia/trebbiano-romagnolo)
 - **Affinamento:** 3 mesi in acciaio
 - **Alcol:** 11.5%
 - **Fascia di prezzo:** 5-9€

@@ -15,7 +15,7 @@ dateCreated: 2021-09-24T14:29:38.062Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Rubicone IGT](/denominazioni/Italia/Romagna/IGT/Rubicone)
 - **Produttore:** [Villa Venti](/produttori/Italia/Romagna/Villa-Venti) 
-- **Composizione:** 100% [Centesimino](/vitigni/Italia/bacca-nera/centesimino)
+- **Composizione:** 100% [Centesimino](/vitigni/Italia/centesimino)
 - **Affinamento:** 6 mesi in anfora
 - **Alcol:** 12.5%
 - **Fascia di prezzo:** 20-24€ 

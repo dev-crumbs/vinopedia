@@ -15,7 +15,7 @@ dateCreated: 2021-09-24T12:30:51.383Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Langhe DOC](/denominazioni/Italia/Piemonte/DOC/Langhe) 
 - **Produttore:** [Carlo Giacosa](/produttori/Italia/Piemonte/Carlo-Giacosa)
-- **Composizione:** 100% [Nebbiolo](/vitigni/Italia/bacca-nera/nebbiolo)
+- **Composizione:** 100% [Nebbiolo](/vitigni/Italia/nebbiolo)
 - **Affinamento:** 1 anno in botte + 3 mesi in acciaio 
 - **Alcol:** 14.5%
 - **Fascia di prezzo:** 15-19€

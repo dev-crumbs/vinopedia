@@ -15,7 +15,7 @@ dateCreated: 2021-08-24T11:31:20.502Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Castel del Monte Rosso Riserva DOCG](/denominazioni/Italia/Puglia/DOCG/Castel-del-Monte-Rosso-Riserva)
 - **Produttore:** [Rivera](/produttori/Italia/Puglia/Rivera) 
-- **Composizione:** 100% [Nero di Troia](/vitigni/Italia/bacca-nera/nero-di-troia)
+- **Composizione:** 100% [Nero di Troia](/vitigni/Italia/nero-di-troia)
 - **Affinamento:** 14 mesi in barrique di rovere francese
 - **Alcol:** 14%
 - **Fascia di prezzo:** 25-29€

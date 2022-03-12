@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Gutturnio DOC](/denominazioni/Italia/Emilia/DOC-Gutturnio) (Classico, Superiore)
 - **Produttore:** [Casa Benna](/produttori/Italia/Emilia/Casa-Benna) 
-- **Composizione:** 68% [Barbera](/vitigni/Italia/bacca-nera/barbera) + 32% [Croatina](/vitigni/Italia/bacca-nera/croatina)
+- **Composizione:** 68% [Barbera](/vitigni/Italia/barbera) + 32% [Croatina](/vitigni/Italia/croatina)
 - **Affinamento:** 18 mesi in acciaio
 - **Alcol:** 14%
 - **Fascia di prezzo:** 5-9€

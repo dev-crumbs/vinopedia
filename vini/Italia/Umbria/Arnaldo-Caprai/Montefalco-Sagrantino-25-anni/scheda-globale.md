@@ -15,7 +15,7 @@ dateCreated: 2021-09-07T05:50:04.082Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Montefalco Sagrantino DOCG](/denominazioni/Italia/Umbria/DOCG/Montefalco-Sagrantino) 
 - **Produttore:** [Arnaldo Caprai](/produttori/Italia/Umbria/Arnaldo-Caprai) 
-- **Composizione:** 100% [Sagrantino](/vitigni/Italia/bacca-nera/sagrantino) 
+- **Composizione:** 100% [Sagrantino](/vitigni/Italia/sagrantino) 
 - **Affinamento:** 24 mesi in barrique nuove 
 - **Alcol:** 14.5%
 - **Fascia di prezzo:** 50-54€

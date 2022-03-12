@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:32:47.834Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Vigneti delle Dolomiti IGT](/denominazioni/Italia/Alto-Adige/IGT-Vigneti-Delle-Dolomiti)
 - **Produttore:** [Franz Haas](/produttori/Italia/Alto-Adige/Franz-Haas) 
-- **Composizione:** [Moscato Giallo](/vitigni/Italia/bacca-bianca/moscato-giallo)
+- **Composizione:** [Moscato Giallo](/vitigni/Italia/moscato-giallo)
 - **Affinamento:** 4 mesi in acciaio
 - **Alcol:** 12%
 - **Fascia di prezzo:** 20-24€

@@ -15,7 +15,7 @@ dateCreated: 2022-02-07T08:45:16.067Z
 - **Tipologia:** Rosso liquoroso
 - **Denominazione:** [Vino generico](/denominazioni/Italia/Vino-Generico)
 - **Produttore:** [Pojer e Sandri](/produttori/Italia/Trentino/Pojer-e-Sandri) 
-- **Composizione:** 75% [Lagrein](/vitigni/Italia/bacca-bianca/lagrein) + Brandy 25%
+- **Composizione:** 75% [Lagrein](/vitigni/Italia/lagrein) + Brandy 25%
 - **Affinamento:** 10 mesi in fusti da Brandy
 - **Alcol:** 20%
 - **Fascia di prezzo:**[^1] 20-24€

@@ -15,7 +15,7 @@ dateCreated: 2021-09-03T21:03:21.131Z
 - **Tipologia:** Bianco spumante metodo classico
 - **Denominazione:** [Franciacorta DOCG](/denominazioni/Italia/Lombardia/DOCG/Franciacorta) (Riserva)
 - **Produttore:** [Cà del Bosco](/produttori/Italia/Lombardia/Ca-del-Bosco) 
-- **Composizione:** 50% [Chardonnay](/vitigni/Francia/bacca-bianca/chardonnay) + 25% [Pinot bianco](/vitigni/Italia/bacca-bianca/pinot-bianco) + 25% [Pinot nero](/vitigni/Italia/bacca-nera/pinot-nero)
+- **Composizione:** 50% [Chardonnay](/vitigni/Francia/bacca-bianca/chardonnay) + 25% [Pinot bianco](/vitigni/Italia/pinot-bianco) + 25% [Pinot nero](/vitigni/Italia/pinot-nero)
 - **Alcol:** 12.5%
 - **Fascia di prezzo:** 75-79€
 

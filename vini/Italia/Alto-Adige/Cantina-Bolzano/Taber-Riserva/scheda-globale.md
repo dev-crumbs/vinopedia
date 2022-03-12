@@ -15,7 +15,7 @@ dateCreated: 2021-08-27T17:49:36.458Z
 - **Tipologia:** Rosso fermo 
 - **Denominazione:** [Alto Adige DOC](/denominazioni/Italia/Alto-Adige/DOC/Alto-Adige)
 - **Produttore:** [Cantina Bolzano](/produttori/Italia/Alto-Adite/Cantina-Bolzano) 
-- **Composizione:** 100% [Lagrein](/vitigni/Italia/bacca-nera/lagrein)
+- **Composizione:** 100% [Lagrein](/vitigni/Italia/lagrein)
 - **Affinamento:** 10 mesi in barrique 
 - **Alcol:** 13.5%
 - **Fascia di prezzo:** 45-49€

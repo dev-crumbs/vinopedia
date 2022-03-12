@@ -15,7 +15,7 @@ dateCreated: 2021-09-24T14:29:20.278Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Roero DOCG](/denominazioni/Italia/Piemonte/DOCG/Roero)
 - **Produttore:** [Vietti](/produttori/Italia/Piemonte/Vietti)
-- **Composizione:** 100% [Arneis](/vitigni/Italia/bacca-bianca/arneis)
+- **Composizione:** 100% [Arneis](/vitigni/Italia/arneis)
 - **Affinamento:** - 
 - **Alcol:** 12%
 - **Fascia di prezzo:** 10-14€

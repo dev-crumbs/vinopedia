@@ -10,4 +10,4 @@ dateCreated: 2021-08-21T14:55:08.041Z
 
 # Ugni blanc
 
-"Ugin blanc" è un sinonimo utilizzato in Francia per il vitigno [Trebbiano toscano](/vitigni/Italia/bacca-bianca/trebbiano-toscano).
+"Ugin blanc" è un sinonimo utilizzato in Francia per il vitigno [Trebbiano toscano](/vitigni/Italia/trebbiano-toscano).

@@ -15,7 +15,7 @@ dateCreated: 2021-08-27T17:49:50.429Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Brunello di Montalcino DOCG](/denominazioni/Italia/Toscana/DOCG/Brunello-di-Montalcino)
 - **Produttore:** [Tiezzi](/produttori/Italia/Toscana/Tiezzi) 
-- **Composizione:** 100% [Sangiovese](/vitigni/Italia/bacca-nera/sangiovese)
+- **Composizione:** 100% [Sangiovese](/vitigni/Italia/sangiovese)
 - **Affinamento:** 40 mesi in botte grande + 10 mesi in bottiglia
 - **Alcol:** 13.5%
 - **Fascia di prezzo:** 50-55€ 

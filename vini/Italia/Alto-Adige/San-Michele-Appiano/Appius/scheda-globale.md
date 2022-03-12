@@ -15,7 +15,7 @@ dateCreated: 2021-09-07T13:39:45.058Z
 - **Tipologia:** Bianco fermo 
 - **Denominazione:** [Alto Adige DOC](/denominazioni/Italia/Alto-Adige/DOC/Alto-Adige)
 - **Produttore:** [San Michele Appiano](/produttori/Italia/Alto-Adige/San-Michele-Appiano) 
-- **Composizione:** [Sauvignon blanc](/vitigni/Francia/bacca-bianca/sauvignon-blanc) + [Chardonnay](/vitigni/Francia/bacca-bianca/chardonnay) +  [Pinot grigio](/vitigni/Italia/bacca-bianca/pinot-grigio) + [Pinot bianco](/vitigni/Italia/bacca-bianca/pinot-bianco) -- composizione variabile secondo annata
+- **Composizione:** [Sauvignon blanc](/vitigni/Francia/bacca-bianca/sauvignon-blanc) + [Chardonnay](/vitigni/Francia/bacca-bianca/chardonnay) +  [Pinot grigio](/vitigni/Italia/pinot-grigio) + [Pinot bianco](/vitigni/Italia/pinot-bianco) -- composizione variabile secondo annata
 - **Affinamento:** 36 mesi in barrique e tonneau + 4 anni in bottiglia
 - **Alcol:** 14%
 - **Fascia di prezzo:** 100-124€

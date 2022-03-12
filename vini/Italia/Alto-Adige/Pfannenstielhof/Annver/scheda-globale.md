@@ -15,7 +15,7 @@ dateCreated: 2021-08-29T16:14:45.767Z
 - **Tipologia:** Rosso fermo 
 - **Denominazione:** [Alto Adige DOC](/denominazioni/Italia/Alto-Adige/DOC/Alto-Adige) (Santa Maddalena, Classico)
 - **Produttore:** [Pfannenstielhof](/produttori/Italia/Alto-Adige/Pfannenstielhof) 
-- **Composizione:** 95% [Schiava](/vitigni/Italia/bacca-nera/schiava) + 5% [Lagrein](/vitigni/Italia/bacca-nera/lagrein)
+- **Composizione:** 95% [Schiava](/vitigni/Italia/schiava) + 5% [Lagrein](/vitigni/Italia/lagrein)
 - **Affinamento:** 18 mesi in acciaio
 - **Alcol:** 14%
 - **Fascia di prezzo:** 15-19€

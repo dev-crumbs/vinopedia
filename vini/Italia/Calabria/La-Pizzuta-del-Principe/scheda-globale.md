@@ -15,7 +15,7 @@ dateCreated: 2021-08-26T20:25:45.111Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Val di Neto Rosso IGT](/denominazioni/Italia/Calabria/IGT/Val-di-Neto-Rosso)
 - **Produttore:** [La Pizzuta del Principe](/produttori/Italia/Calabria/La-Pizzuta-del-Principe)
-- **Composizione:** 100% [Greco nero](/vitigni/Italia/bacca-nera/greco-nero)
+- **Composizione:** 100% [Greco nero](/vitigni/Italia/greco-nero)
 - **Affinamento:** 18 mesi tra acciaio e botte grande di rovere
 - **Alcol:** 14%
 - **Fascia di prezzo:** 15-19€

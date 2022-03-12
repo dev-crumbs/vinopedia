@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 - **Tipologia:** Rosso dolce
 - **Denominazione:** [Vino generico](/denominazioni/Italia/Vino-generico)
 - **Produttore:** [La Tollara](/produttori/Italia/Emilia/La-Tollara) 
-- **Composizione:** 100% [Croatina](/vitigni/Italia/bacca-nera/croatina)
+- **Composizione:** 100% [Croatina](/vitigni/Italia/croatina)
 - **Affinamento:** ?
 - **Alcol:** 11%
 - **Fascia di prezzo:** 20-24€

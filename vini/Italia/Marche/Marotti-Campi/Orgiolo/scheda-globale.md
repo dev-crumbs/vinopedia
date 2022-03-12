@@ -15,7 +15,7 @@ dateCreated: 2021-10-01T09:53:06.758Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Lacrima di morro DOC](/denominazioni/Italia/Marche/DOC/Lacrima-di-morro) (Superiore)
 - **Produttore:** [Marotti Campi](/produttori/Italia/Marche/Marotti-Campi) 
-- **Composizione:** 100% [Lacrima di Morro d'Alba](/vitigni/Italia/bacca-nera/lacrima-di-morro-d-alba)
+- **Composizione:** 100% [Lacrima di Morro d'Alba](/vitigni/Italia/lacrima-di-morro-d-alba)
 - **Affinamento:** 12 mesi in barrique
 - **Alcol:** 13.5%
 - **Fascia di prezzo:** 10-14€

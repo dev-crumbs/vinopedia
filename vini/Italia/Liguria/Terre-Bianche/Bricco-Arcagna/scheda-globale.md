@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:33:44.868Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Rossese di Dolceacqua DOC](/denominazioni/Italia/Liguria/DOC/Rossese-di-Dolceacqua) 
 - **Produttore:** [Terre Bianche](/produttori/Italia/Liguria/Terre-Bianche) 
-- **Composizione:** 100% [Rossese](/vitigni/Italia/bacca-nera/rossese)
+- **Composizione:** 100% [Rossese](/vitigni/Italia/rossese)
 - **Affinamento:** 10 mesi in tonneau
 - **Alcol:** 14.5%
 - **Fascia di prezzo:** 25-29€

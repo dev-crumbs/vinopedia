@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Gutturnio DOC](/denominazioni/Italia/Emilia/DOC-Gutturnio) (Riserva)
 - **Produttore:** [Torre Fornello](/produttori/Italia/Emilia/Torre-Fornello) 
-- **Composizione:** 65% [Barbera](/vitigni/Italia/bacca-nera/barbera) + 35% [Croatina](/vitigni/Italia/bacca-nera/croatina)
+- **Composizione:** 65% [Barbera](/vitigni/Italia/barbera) + 35% [Croatina](/vitigni/Italia/croatina)
 - **Affinamento:** 18 mesi in botte + 80 mesi in bottiglia
 - **Alcol:** 14%
 - **Fascia di prezzo:** 15-19€

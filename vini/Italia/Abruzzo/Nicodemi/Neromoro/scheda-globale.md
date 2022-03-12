@@ -15,7 +15,7 @@ dateCreated: 2021-09-08T08:15:21.741Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Montepulciano d'Abruzzo Colline Teramane DOCG](/denominazioni/Italia/Abruzzo/DOC/Montepulciano-d-Abruzzo-Colline-Teramane) (Riserva)
 - **Produttore:** [Nicodemi](/produttori/Italia/Abruzzo/Nicodemi) 
-- **Composizione:** 100% [Montepulciano](/vitigni/Italia/bacca-nera/montepulciano)
+- **Composizione:** 100% [Montepulciano](/vitigni/Italia/montepulciano)
 - **Affinamento:** 16 mesi in barrique + 6 in bottiglia
 - **Alcol:** 13.5%
 - **Fascia di prezzo:** 30-34€

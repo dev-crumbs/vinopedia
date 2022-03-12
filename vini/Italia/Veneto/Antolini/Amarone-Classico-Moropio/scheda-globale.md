@@ -15,7 +15,7 @@ dateCreated: 2022-01-27T15:21:34.303Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** <span class="denominazione">[Amarone della Valpolicella DOCG](/denominazioni/Italia/Veneto/DOCG/Amarone-della-Valpolicella) (Classico)</span>
 - **Produttore:** <span class="cantina">[Antolini](/produttori/Italia/Veneto/Antolini)</span> 
-- **Composizione:** [Corvina](/vitigni/Italia/bacca-nera/corvina) + [Corvinone](/vitigni/Italia/bacca-nera/corvinone) + [Molinara](/vitigni/Italia/bacca-nera/molinara) + [Rondinella](/vitigni/Italia/bacca-nera/rondinella)
+- **Composizione:** [Corvina](/vitigni/Italia/corvina) + [Corvinone](/vitigni/Italia/corvinone) + [Molinara](/vitigni/Italia/molinara) + [Rondinella](/vitigni/Italia/rondinella)
 - **Affinamento:** 24 mesi in botte
 - **Alcol:** 16.5%
 - **Fascia di prezzo:** 40-44€

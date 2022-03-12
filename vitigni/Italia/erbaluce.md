@@ -20,11 +20,11 @@ Albaluce, Bian Roustì, Bianchera, Greco Bianco di Novara (provincia di Novara),
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Trebbiano toscano](/vitigni/Italia/bacca-bianca/trebbiano-toscano)
+[Trebbiano toscano](/vitigni/Italia/trebbiano-toscano)
 
 ## Origini e Parentele
 
-La prima menzione dell'Erbaluce appare in Croce (1606) con il nome di Elbalus, forse derivante da alba luce (che significa "luce dell'alba") perché gli acini brillano quando sono maturi. Si pensa che l'Erbaluce sia originario della regione del Canavese in provincia di Torino, ai piedi delle Alpi. L'analisi genetica suggerisce una stretta relazione con [Cascarolo Bianco](/vitigni/Italia/bacca-bianca/cascarolo-bianco) del Piemonte (Vouillamoz). Anche se i sinonimi Greco e Greco Bianco sono usati a Ghemme in provincia di Novara, probabilmente in riferimento alla sua capacità di fare vini dolci (cioè simili agli stili storici del vino greco), l'Erbaluce non ha alcuna relazione con la varietà campana [Greco](/vitigni/Italia/bacca-bianca/greco).
+La prima menzione dell'Erbaluce appare in Croce (1606) con il nome di Elbalus, forse derivante da alba luce (che significa "luce dell'alba") perché gli acini brillano quando sono maturi. Si pensa che l'Erbaluce sia originario della regione del Canavese in provincia di Torino, ai piedi delle Alpi. L'analisi genetica suggerisce una stretta relazione con [Cascarolo Bianco](/vitigni/Italia/cascarolo-bianco) del Piemonte (Vouillamoz). Anche se i sinonimi Greco e Greco Bianco sono usati a Ghemme in provincia di Novara, probabilmente in riferimento alla sua capacità di fare vini dolci (cioè simili agli stili storici del vino greco), l'Erbaluce non ha alcuna relazione con la varietà campana [Greco](/vitigni/Italia/greco).
 
 ### Altre Ipotesi
 

@@ -15,7 +15,7 @@ dateCreated: 2021-10-01T17:43:16.064Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Rossese di Dolceacqua DOC](/denominazioni/Italia/Liguria/DOC/Rossese-di-Dolceacqua) 
 - **Produttore:** [Poggi dell'Elmo](/produttori/Italia/Liguria/Poggi-dell-Elmo) 
-- **Composizione:** 100% [Rossese](/vitigni/Italia/bacca-nera/rossese)
+- **Composizione:** 100% [Rossese](/vitigni/Italia/rossese)
 - **Affinamento:** 7 mesi in acciaio
 - **Alcol:** 13.5%
 - **Fascia di prezzo:** 15-19€

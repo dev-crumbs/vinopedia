@@ -10,4 +10,4 @@ dateCreated: 2021-09-07T05:16:57.366Z
 
 # Greco di Tufo
 
-"Greco di Tufo" è un sinonimo per il vitigno [Greco](/vitigni/Italia/bacca-bianca/greco).
+"Greco di Tufo" è un sinonimo per il vitigno [Greco](/vitigni/Italia/greco).

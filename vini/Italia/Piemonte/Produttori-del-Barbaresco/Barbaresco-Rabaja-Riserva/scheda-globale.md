@@ -15,7 +15,7 @@ dateCreated: 2021-08-23T12:22:31.894Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Barbaresco DOCG](/denominazioni/Italia/Piemonte/DOCG/Barbaresco) (Rabajà - Riserva)
 - **Produttore:** [Produttori del Barbaresco](/produttori/Italia/Piemonte/Produttori-del-Barbaresco)
-- **Composizione:** 100% [Nebbiolo](/vitigni/Italia/bacca-nera/nebbiolo)
+- **Composizione:** 100% [Nebbiolo](/vitigni/Italia/nebbiolo)
 - **Affinamento:** 10 mesi in barrique 
 - **Alcol:** 14.5%
 - **Fascia di prezzo:** 45-49€

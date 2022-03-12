@@ -15,7 +15,7 @@ dateCreated: 2022-01-15T21:40:12.066Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Amarone della Valpolicella DOCG](/denominazioni/Italia/Veneto/DOCG/Amarone-della-Valpolicella)
 - **Produttore:** [Benedetti Corte Antica](/produttori/Italia/Veneto/Benedetti-Corte-Antica) 
-- **Composizione:** [Corvina](/vitigni/Italia/bacca-nera/corvina) + [Corvinone](/vitigni/Italia/bacca-nera/corvinone) + [Rondinella](/vitigni/Italia/bacca-nera/rondinella) + [Croatina](/vitigni/Italia/bacca-nera/Croatina)
+- **Composizione:** [Corvina](/vitigni/Italia/corvina) + [Corvinone](/vitigni/Italia/corvinone) + [Rondinella](/vitigni/Italia/rondinella) + [Croatina](/vitigni/Italia/Croatina)
 - **Affinamento:** 48 mesi in botte grande 
 - **Alcol:** 17%
 - **Fascia di prezzo:** 50-54€

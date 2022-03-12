@@ -15,7 +15,7 @@ dateCreated: 2021-10-01T17:43:01.516Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Montepulciano d'Abruzzo Colline Teramane DOG](/denominazioni/Italia/Abruzzo/DOC/Montepulciano-d-Abruzzo-Colline-Teramane) 
 - **Produttore:** [Barone Cornacchia](/produttori/Italia/Abruzzo/Barone-Cornacchia) 
-- **Composizione:** 100% [Montepulciano](/vitigni/Italia/bacca-nera/montepulciano)
+- **Composizione:** 100% [Montepulciano](/vitigni/Italia/montepulciano)
 - **Affinamento:** 30 mesi in barrique
 - **Alcol:** 14.5%
 - **Fascia di prezzo:** 15-19€

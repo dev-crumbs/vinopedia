@@ -15,7 +15,7 @@ dateCreated: 2021-09-03T21:03:53.486Z
 - **Tipologia:** Rosso liquoroso
 - **Denominazione:** [Alghero DOC](/denominazioni/Italia/Sardegna/DOC/Alghero) (Liquoroso, Riserva)
 - **Produttore:** [Sella e Mosca](/produttori/Italia/Sardegna/Sella-e-Mosca) 
-- **Composizione:** 100% [Cannonau](/vitigni/Italia/bacca-nera/cannonau)
+- **Composizione:** 100% [Cannonau](/vitigni/Italia/cannonau)
 - **Affinamento:** Appassimento su graticci + 120 mesi in botte grande di Slavonia 
 - **Alcol:** 18.5%
 - **Fascia di prezzo:** 25-29€

@@ -15,7 +15,7 @@ dateCreated: 2022-01-27T15:21:34.303Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** <span class="denominazione">[Amarone della Valpolicella DOCG](/denominazioni/Italia/Veneto/DOCG/Amarone-della-Valpolicella) (Classico)</span>
 - **Produttore:** <span class="cantina">[Secondo Marco](/produttori/Italia/Veneto/Secondo-Marco)</span> 
-- **Composizione:** 45% [Corvina](/vitigni/Italia/bacca-nera/corvina) + 45% [Corvinone](/vitigni/Italia/bacca-nera/corvinone) + 10% [Rondinella](/vitigni/Italia/bacca-nera/rondinella)
+- **Composizione:** 45% [Corvina](/vitigni/Italia/corvina) + 45% [Corvinone](/vitigni/Italia/corvinone) + 10% [Rondinella](/vitigni/Italia/rondinella)
 - **Affinamento:** 4 anni in botte grande + 12 mesi in bottiglia
 - **Alcol:** 16%
 - **Fascia di prezzo:** 70-74€

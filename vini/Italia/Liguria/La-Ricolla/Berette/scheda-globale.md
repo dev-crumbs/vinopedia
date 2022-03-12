@@ -15,7 +15,7 @@ dateCreated: 2021-08-29T16:15:27.525Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Colline del Genovesato IGT](/denominazioni/Italia/Liguria/IGT/Colline-del-Genovesato) 
 - **Produttore:** [La Ricolla](/produttori/Italia/Liguria/La-Ricolla) 
-- **Composizione:** 100% [Vermentino](/vitigni/Italia/bacca-bianca/vermentino)
+- **Composizione:** 100% [Vermentino](/vitigni/Italia/vermentino)
 - **Affinamento:** 12 mesi in acciaio sui lieviti
 - **Alcol:** 14%
 - **Fascia di prezzo:** 15-19€

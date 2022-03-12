@@ -15,7 +15,7 @@ dateCreated: 2021-10-04T06:51:19.833Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Vittoria DOC](/denominazioni/Italia/Sicilia/DOC/Vittoria)
 - **Produttore:** [Paolo Calì](/produttori/Italia/Sicilia/Paolo-Cali) 
-- **Composizione:** 100% [Nero d'Avola](/vitigni/Italia/bacca-nera/nero-d-avola)
+- **Composizione:** 100% [Nero d'Avola](/vitigni/Italia/nero-d-avola)
 - **Affinamento:** 12 mesi in acciaio + 4 in legno
 - **Alcol:** 13%
 - **Fascia di prezzo:** 15-19€

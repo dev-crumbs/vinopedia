@@ -15,7 +15,7 @@ dateCreated: 2021-09-24T12:31:12.058Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Barbaresco DOCG](/denominazioni/Italia/Piemonte/DOCG/Barbaresco) (Serraboella - Riserva)
 - **Produttore:** [Massimo Rivetti](/produttori/Italia/Piemonte/Massimo-Rivetti)
-- **Composizione:** 100% [Nebbiolo](/vitigni/Italia/bacca-nera/nebbiolo)
+- **Composizione:** 100% [Nebbiolo](/vitigni/Italia/nebbiolo)
 - **Affinamento:** 48 mesi tra barrique e botte grande
 - **Alcol:** 14%
 - **Fascia di prezzo:** 50-54€

@@ -15,7 +15,7 @@ dateCreated: 2021-09-07T15:36:11.646Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Chianti Classico DOCG](/denominazioni/Italia/Toscana/DOCG/Chianti-Classico) (Riserva)
 - **Produttore:** [San Giusto a Rentennano](/produttori/Italia/Toscana/San-Giusto-a-Rentennano) 
-- **Composizione:** 97% [Sangiovese](/vitigni/Italia/bacca-nera/sangiovese) + 3% [Canaiolo](/vitigni/Italia/bacca-nera/canaiolo)
+- **Composizione:** 97% [Sangiovese](/vitigni/Italia/sangiovese) + 3% [Canaiolo](/vitigni/Italia/canaiolo)
 - **Affinamento:** 20 mesi in barrique e botte grande
 - **Alcol:** 15%
 - **Fascia di prezzo:** 55-59€

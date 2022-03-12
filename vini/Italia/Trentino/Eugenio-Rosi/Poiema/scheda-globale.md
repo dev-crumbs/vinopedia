@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:35:02.344Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Vallagarina IGT](/denominazioni/Italia/Trentino/IGT/Vallagarina)
 - **Produttore:** [Eugenio Rosi](/produttori/Italia/Trentino/Eugenio-Rosi) 
-- **Composizione:** 100% [Marzemino](/vitigni/Italia/bacca-nera/marzemino)
+- **Composizione:** 100% [Marzemino](/vitigni/Italia/marzemino)
 - **Affinamento:** appassimento 30% delle uve + 12 mesi in botte grande + 12 mesi in bottiglia 
 - **Alcol:** 13%
 - **Fascia di prezzo:** 20-24€

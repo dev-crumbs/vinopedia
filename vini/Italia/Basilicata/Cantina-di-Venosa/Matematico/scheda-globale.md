@@ -15,7 +15,7 @@ dateCreated: 2021-09-30T08:13:22.567Z
 - **Tipologia:** Rosso fermo 
 - **Denominazione:** [Vino generico](/denominazioni/Italia/Vino-generico)
 - **Produttore:** [Cantina di Venosa](/produttori/Italia/Basilicata/Cantina-di-Venosa) 
-- **Composizione:** 100% [Aglianico del Vulture](/vitigni/Italia/bacca-nera/aglianico-del-vulture)
+- **Composizione:** 100% [Aglianico del Vulture](/vitigni/Italia/aglianico-del-vulture)
 - **Affinamento:** 6 mesi in barrique
 - **Alcol:** 14.5%
 - **Fascia di prezzo:** 35-39€

@@ -15,7 +15,7 @@ dateCreated: 2021-08-27T17:49:50.429Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Brunello di Montalcino DOCG](/denominazioni/Italia/Toscana/DOCG/Brunello-di-Montalcino) (Riserva)
 - **Produttore:** [Biondi Santi](/produttori/Italia/Toscana/Biondi-Santi) 
-- **Composizione:** 100% [Sangiovese](/vitigni/Italia/bacca-nera/sangiovese)
+- **Composizione:** 100% [Sangiovese](/vitigni/Italia/sangiovese)
 - **Affinamento:** 36 mesi in botte grande + periodo variabile in bottiglia per annata
 - **Alcol:** 13.5%
 - **Fascia di prezzo:** > 450 € 

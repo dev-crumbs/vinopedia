@@ -15,7 +15,7 @@ dateCreated: 2021-08-11T15:27:13.077Z
 - **Tipologia:** Rosso fermo 
 - **Denominazione:** Taurasi DOCG 
 - **Produttore:** Tenuta Cavalier Pepe 
-- **Composizione:** 100% [Aglianico](/vitigni/Italia/bacca-nera/aglianico)
+- **Composizione:** 100% [Aglianico](/vitigni/Italia/aglianico)
 - **Affinamento:** 24 mesi in cemento + 12 mesi in barrique
 - **Alcol:** 14.5%
 - **Fascia di prezzo:** 30-34€

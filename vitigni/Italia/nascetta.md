@@ -20,15 +20,15 @@ Anascetta, Nas-cëtta (a Novello in provincia di Cuneo)
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Nasco](/vitigni/Italia/bacca-bianca/nasco), [Vermentino](/vitigni/Italia/bacca-bianca/vermentino)
+[Nasco](/vitigni/Italia/nasco), [Vermentino](/vitigni/Italia/vermentino)
 
 ## Origini e parentele
-La Nascetta è una rara varietà della zona delle Langhe in Piemonte, nell'Italia nord-occidentale, ed è stata menzionata a metà dell'Ottocento come uva adatta a produrre vino di qualità. Un tempo era diffusa tra Alba e Mondovì, solitamente in assemblaggio con [Vermentino](/vitigni/Italia/bacca-bianca/vermentino)
+La Nascetta è una rara varietà della zona delle Langhe in Piemonte, nell'Italia nord-occidentale, ed è stata menzionata a metà dell'Ottocento come uva adatta a produrre vino di qualità. Un tempo era diffusa tra Alba e Mondovì, solitamente in assemblaggio con [Vermentino](/vitigni/Italia/vermentino)
 (Favorita) e Moscato Bianco ([Muscat Blanc À Petits Grains](/vitigni/Francia/bacca-bianca/muscat-blanc-a-petit-grains)).
 
 ### Altre Ipotesi
 
-Alcuni autori hanno ipotizzato un legame genetico con il [Nasco](/vitigni/Italia/bacca-bianca/nasco) o con il [Vermentino](/vitigni/Italia/bacca-bianca/vermentino).
+Alcuni autori hanno ipotizzato un legame genetico con il [Nasco](/vitigni/Italia/nasco) o con il [Vermentino](/vitigni/Italia/vermentino).
 
 ## Caratteristiche viticole
 

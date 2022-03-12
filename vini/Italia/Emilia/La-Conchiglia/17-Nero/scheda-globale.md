@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Gutturnio DOC](/denominazioni/Italia/Emilia/DOC-Gutturnio)
 - **Produttore:** [La Conchiglia](/produttori/Italia/Emilia/La-Conchiglia) 
-- **Composizione:** 34% [Barbera](/vitigni/Italia/bacca-nera/barbera) + 33% [Croatina](/vitigni/Italia/bacca-nera/croatina) + 33% [Syrah](/vitigni/Francia/bacca-nera/syrah)
+- **Composizione:** 34% [Barbera](/vitigni/Italia/barbera) + 33% [Croatina](/vitigni/Italia/croatina) + 33% [Syrah](/vitigni/Francia/bacca-nera/syrah)
 - **Affinamento:** 6 mesi in acciaio + 12 mesi in botte 
 - **Alcol:** 15%
 - **Fascia di prezzo:** 10-14€

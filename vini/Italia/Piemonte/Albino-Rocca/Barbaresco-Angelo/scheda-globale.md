@@ -15,7 +15,7 @@ dateCreated: 2021-09-24T12:31:16.342Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Barbaresco DOCG](/denominazioni/Italia/Piemonte/DOCG/Barbaresco)
 - **Produttore:** [Albino Rocca](/produttori/Italia/Piemonte/Albino-Rocca)
-- **Composizione:** 100% [Nebbiolo](/vitigni/Italia/bacca-nera/nebbiolo)
+- **Composizione:** 100% [Nebbiolo](/vitigni/Italia/nebbiolo)
 - **Affinamento:** 2 anni in botte grande
 - **Alcol:** 15%
 - **Fascia di prezzo:** 70-74€

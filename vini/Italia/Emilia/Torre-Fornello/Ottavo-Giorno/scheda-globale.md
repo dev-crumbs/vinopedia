@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 - **Tipologia:** Rosso passito
 - **Denominazione:** [Vino generico](/denominazioni/Italia/Vino-generico)
 - **Produttore:** [Torre Fornello](/produttori/Italia/Emilia/Torre-Fornello) 
-- **Composizione:** 100% [Croatina](/vitigni/Italia/bacca-nera/croatina)
+- **Composizione:** 100% [Croatina](/vitigni/Italia/croatina)
 - **Affinamento:** ?
 - **Alcol:** 13.5%
 - **Fascia di prezzo:** 20-24€

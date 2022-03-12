@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:32:35.010Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Montepulciano d'Abruzzo DOC](/denominazioni/Italia/Abruzzo/DOC/Montepulciano-d-Abruzzo) 
 - **Produttore:** [Fattoria La Valentina](/produttori/Italia/Abruzzo/Fattoria-La-Valentina) 
-- **Composizione:** 100% [Montepulciano](/vitigni/Italia/bacca-nera/montepulciano)
+- **Composizione:** 100% [Montepulciano](/vitigni/Italia/montepulciano)
 - **Affinamento:** 18 mesi in barrique e botte grande + 12 mesi in bottiglia
 - **Alcol:** 14.5%
 - **Fascia di prezzo:** 50-54€

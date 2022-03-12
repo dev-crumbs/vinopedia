@@ -15,7 +15,7 @@ dateCreated: 2021-10-01T17:43:26.472Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Montefalco DOC](/denominazioni/Italia/Umbria/IGT/Umbria)
 - **Produttore:** [Terre de la Custodia](/produttori/Italia/Umbria/Terre-de-la-Custodia) 
-- **Composizione:** 70% [Sangiovese](/vitigni/Italia/bacca-nera/sangiovese) + 15% [Merlot](/vitigni/Francia/bacca-nera/merlot) + 15% [Sagrantino](/vitigni/Italia/bacca-nera/sagrantino)
+- **Composizione:** 70% [Sangiovese](/vitigni/Italia/sangiovese) + 15% [Merlot](/vitigni/Francia/bacca-nera/merlot) + 15% [Sagrantino](/vitigni/Italia/sagrantino)
 - **Affinamento:** 14 mesi in barrique + 16 mesi in bottiglia 
 - **Alcol:** 15%
 - **Fascia di prezzo:** 15-19€

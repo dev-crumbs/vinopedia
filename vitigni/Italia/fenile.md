@@ -16,7 +16,7 @@ bianca
 ## Origini e parentele
 Apparentemente proveniente dalla costa amalfitana in Campania, Italia meridionale, il Fenile non è menzionato in nessun libro storico sulla viticoltura campana. I coltivatori locali suggeriscono che il nome si riferisce al colore paglierino (fieno) delle bacche (Manzo e Monaco 2001).
 
-Il profilo del DNA ha dimostrato che Fenile ha un profilo unico ed è geneticamente vicino a Pellecchiona e [Cacamosca](/vitigni/Italia/bacca-bianca/cacamosca), entrambe varietà tradizionali campane, la prima non coltivata commercialmente (Costantini et al. 2005).
+Il profilo del DNA ha dimostrato che Fenile ha un profilo unico ed è geneticamente vicino a Pellecchiona e [Cacamosca](/vitigni/Italia/cacamosca), entrambe varietà tradizionali campane, la prima non coltivata commercialmente (Costantini et al. 2005).
 
 ## Caratteristiche viticole
 
@@ -27,4 +27,4 @@ Il profilo del DNA ha dimostrato che Fenile ha un profilo unico ed è geneticame
 
 ## Diffusione geografica
 
-Vecchie viti di Fenile, spesso non innestate, si trovano interpiantate con altre vecchie varietà nei vigneti di Furore, Positana e Amalfi in Campania. Il Fenile è ammesso come uva supplementare nella sottozona Furore della DOC Costa d'Amalfi. È stato testato per alcuni anni e potrebbe in futuro essere incluso nel registro nazionale delle varietà. I vini hanno acidità moderata e sapori di albicocche, frutta candita ed esotica e miele, talvolta aromi di ginestra. Il Furore Bianco Fiorduva di Marisa Cuomo, Costa d'Amalfi DOC, è un blend secco, fermentato in botte, con proporzioni approssimativamente uguali di Fenile, [Ripolo](/vitigni/Italia/bacca-bianca/ripolo) e [Ginestra](/vitigni/Italia/bacca-bianca/ginestra) raccolti tardivamente.
+Vecchie viti di Fenile, spesso non innestate, si trovano interpiantate con altre vecchie varietà nei vigneti di Furore, Positana e Amalfi in Campania. Il Fenile è ammesso come uva supplementare nella sottozona Furore della DOC Costa d'Amalfi. È stato testato per alcuni anni e potrebbe in futuro essere incluso nel registro nazionale delle varietà. I vini hanno acidità moderata e sapori di albicocche, frutta candita ed esotica e miele, talvolta aromi di ginestra. Il Furore Bianco Fiorduva di Marisa Cuomo, Costa d'Amalfi DOC, è un blend secco, fermentato in botte, con proporzioni approssimativamente uguali di Fenile, [Ripolo](/vitigni/Italia/ripolo) e [Ginestra](/vitigni/Italia/ginestra) raccolti tardivamente.

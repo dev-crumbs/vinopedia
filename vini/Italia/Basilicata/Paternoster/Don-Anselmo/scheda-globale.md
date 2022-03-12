@@ -15,7 +15,7 @@ dateCreated: 2021-09-07T13:09:20.954Z
 - **Tipologia:** Rosso fermo 
 - **Denominazione:** [Aglianico del Vulture DOC](/denominazioni/Italia/Basilicata/DOC/Aglianico-del-Vulture)
 - **Produttore:** [Paternoster](/produttori/Italia/Basilicata/Paternoster) 
-- **Composizione:** 100% [Aglianico del Vulture](/vitigni/Italia/bacca-nera/aglianico-del-vulture)
+- **Composizione:** 100% [Aglianico del Vulture](/vitigni/Italia/aglianico-del-vulture)
 - **Affinamento:** 24 mesi in in barrique e tonneau + 12 mesi in bottiglia
 - **Alcol:** 14.5%
 - **Fascia di prezzo:** 35-39€

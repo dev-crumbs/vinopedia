@@ -15,7 +15,7 @@ dateCreated: 2021-09-28T19:38:43.049Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Frascati Superiore DOCG](/denominazioni/Italia/Lazio/DOCG/Frascati-Superiore)
 - **Produttore:** [De Sanctis](/produttori/Italia/Lazio/De Sanctis) 
-- **Composizione:** 80% [Malvasia puntinata](/vitigni/Italia/bacca-bianca/malvasia-puntinata) + 20% [Bombino bianco](/vitigni/Italia/bacca-bianca/bombino-bianco)
+- **Composizione:** 80% [Malvasia puntinata](/vitigni/Italia/malvasia-puntinata) + 20% [Bombino bianco](/vitigni/Italia/bombino-bianco)
 - **Affinamento:** 5 mesi in acciaio sui lieviti
 - **Alcol:** 13%
 - **Fascia di prezzo:** 10-14€

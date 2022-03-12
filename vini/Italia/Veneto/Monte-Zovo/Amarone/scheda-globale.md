@@ -15,7 +15,7 @@ dateCreated: 2022-01-27T15:21:34.303Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** <span class="denominazione">[Amarone della Valpolicella DOCG](/denominazioni/Italia/Veneto/DOCG/Amarone-della-Valpolicella)</span>
 - **Produttore:** <span class="cantina">[Monte Zovo](/produttori/Italia/Veneto/Monte-Zovo)</span> 
-- **Composizione:** [Corvina](/vitigni/Italia/bacca-nera/corvina) + [Rondinella](/vitigni/Italia/bacca-nera/rondinella) + [Corvinone](/vitigni/Italia/bacca-nera/corvinone)
+- **Composizione:** [Corvina](/vitigni/Italia/corvina) + [Rondinella](/vitigni/Italia/rondinella) + [Corvinone](/vitigni/Italia/corvinone)
 - **Affinamento:** 18 mesi in barrique + 6 mesi in tonneau + 12 in bottiglia
 - **Alcol:** 16%
 - **Fascia di prezzo:** 70-74€

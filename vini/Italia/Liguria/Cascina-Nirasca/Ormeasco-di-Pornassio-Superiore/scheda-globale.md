@@ -15,7 +15,7 @@ dateCreated: 2021-10-01T09:53:02.948Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Pornassio DOC](/denominazioni/Italia/Liguria/DOC/Pornassio) 
 - **Produttore:** [Cascina Nirasca](/produttori/Italia/Liguria/Cascina-Nirasca) 
-- **Composizione:** 100% [Ormeasco](/vitigni/Italia/bacca-nera/ormeasco)
+- **Composizione:** 100% [Ormeasco](/vitigni/Italia/ormeasco)
 - **Affinamento:** 6 mesi in botte grande
 - **Alcol:** 14%
 - **Fascia di prezzo:** 15-19€

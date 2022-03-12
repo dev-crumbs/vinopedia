@@ -15,7 +15,7 @@ dateCreated: 2021-09-07T06:05:15.571Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Terre aquilane IGT](/denominazioni/Italia/Abruzzo/IGT/Terre-aquilane) 
 - **Produttore:** [Feudo Antico](/produttori/Italia/Abruzzo/Feudo-Antico) 
-- **Composizione:** 100% [Pecorino](/vitigni/Italia/bacca-nera/Pecorino)
+- **Composizione:** 100% [Pecorino](/vitigni/Italia/Pecorino)
 - **Affinamento:** 6 mesi in acciaio + 4 in bottiglia
 - **Alcol:** 13.5%
 - **Fascia di prezzo:** 40-44€

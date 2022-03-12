@@ -15,7 +15,7 @@ dateCreated: 2022-01-27T15:21:34.303Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** <span class="denominazione">[Amarone della Valpolicella DOCG](/denominazioni/Italia/Veneto/DOCG/Amarone) (Classico)</span>
 - **Produttore:** <span class="cantina">[Rubinelli-Vajol](/produttori/Italia/Veneto/Rubinelli-Vajol)</span> 
-- **Composizione:** 40% [Corvina](/vitigni/Italia/bacca-nera/corvina) + 10% [Rondinella](/vitigni/Italia/bacca-nera/rondinella) + 40% [Corvinone](/vitigni/Italia/bacca-nera/corvinone) + 5% [Molinara](/vitigni/Italia/bacca-nera/molinara) + 5% [Oseleta](/vitigni/Italia/bacca-nera/oseleta)
+- **Composizione:** 40% [Corvina](/vitigni/Italia/corvina) + 10% [Rondinella](/vitigni/Italia/rondinella) + 40% [Corvinone](/vitigni/Italia/corvinone) + 5% [Molinara](/vitigni/Italia/molinara) + 5% [Oseleta](/vitigni/Italia/oseleta)
 - **Affinamento:** 36-48 mesi in legno
 - **Alcol:** 16%
 - **Fascia di prezzo:** 50-54€

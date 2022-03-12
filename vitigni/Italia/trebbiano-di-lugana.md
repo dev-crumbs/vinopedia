@@ -10,4 +10,4 @@ dateCreated: 2021-09-06T16:49:44.596Z
 
 # Trebbiano di Lugana
 
-"Trebbiano di Lugana" è un sinonimo utilizzato per il vitigno [Verdicchio bianco](/vitigni/Italia/bacca-bianca/verdicchio-bianco).
+"Trebbiano di Lugana" è un sinonimo utilizzato per il vitigno [Verdicchio bianco](/vitigni/Italia/verdicchio-bianco).

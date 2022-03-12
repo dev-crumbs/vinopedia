@@ -15,7 +15,7 @@ dateCreated: 2021-08-24T11:31:20.502Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Abruzzo DOC](/denominazioni/Italia/Abruzzo/DOC/Abruzzo) (Pecorino Superiore)
 - **Produttore:** [Codice Citra](/produttori/Italia/Abruzzo/Codice-Citra) 
-- **Composizione:** 100% [Pecorino](/vitigni/Italia/bacca-nera/Pecorino)
+- **Composizione:** 100% [Pecorino](/vitigni/Italia/Pecorino)
 - **Affinamento:** 4 mesi in acciaio
 - **Alcol:** 13%
 - **Fascia di prezzo:** 15-19€

@@ -15,7 +15,7 @@ dateCreated: 2022-01-27T15:21:34.303Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** <span class="denominazione">[Amarone della Valpolicella DOCG](/denominazioni/Italia/Veneto/DOCG/Amarone-della-Valpolicella) (Classico)</span>
 - **Produttore:** <span class="cantina">[Tommaso Bussola](/produttori/Italia/Veneto/Tommaso-Bussola)</span> 
-- **Composizione:** 40% [Corvina](/vitigni/Italia/bacca-nera/corvina) + 25% [Rondinella](/vitigni/Italia/bacca-nera/rondinella) + 30% [Corvinone](/vitigni/Italia/bacca-nera/corvinone)
+- **Composizione:** 40% [Corvina](/vitigni/Italia/corvina) + 25% [Rondinella](/vitigni/Italia/rondinella) + 30% [Corvinone](/vitigni/Italia/corvinone)
 - **Affinamento:** 40 mesi in barrique + 50 mesi in botte grande
 - **Alcol:** 17%
 - **Fascia di prezzo:** 175-199€

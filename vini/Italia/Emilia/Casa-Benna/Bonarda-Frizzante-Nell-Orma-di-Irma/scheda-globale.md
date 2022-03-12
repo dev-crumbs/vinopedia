@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 - **Tipologia:** Rosso frizzante
 - **Denominazione:** [Colli piacentini DOC](/denominazioni/Italia/Emilia/DOC-Colli-Piacentini)
 - **Produttore:** [Casa Benna](/produttori/Italia/Emilia/Casa-Benna) 
-- **Composizione:** 100% [Croatina](/vitigni/Italia/bacca-nera/croatina)
+- **Composizione:** 100% [Croatina](/vitigni/Italia/croatina)
 - **Affinamento:** 3 mesi in acciaio
 - **Alcol:** 12%
 - **Fascia di prezzo:** 5-9€

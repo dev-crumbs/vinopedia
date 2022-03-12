@@ -15,7 +15,7 @@ dateCreated: 2022-01-27T15:21:34.303Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** <span class="denominazione">[Amarone della Valpolicella DOCG](/denominazioni/Italia/Veneto/DOCG/Amarone-della-Valpolicella)</span>
 - **Produttore:** <span class="cantina">[Tedeschi](/produttori/Italia/Veneto/Tedeschi)</span> 
-- **Composizione:** 35% [Corvina](/vitigni/Italia/bacca-nera/corvina) + 20% [Rondinella](/vitigni/Italia/bacca-nera/rondinella) + 35% [Corvinone](/vitigni/Italia/bacca-nera/corvinone) + 2% [Dindarella](/vitigni/Italia/bacca-nera/dindarella) + 2% [Oseleta](/vitigni/Italia/bacca-nera/oseleta)
+- **Composizione:** 35% [Corvina](/vitigni/Italia/corvina) + 20% [Rondinella](/vitigni/Italia/rondinella) + 35% [Corvinone](/vitigni/Italia/corvinone) + 2% [Dindarella](/vitigni/Italia/dindarella) + 2% [Oseleta](/vitigni/Italia/oseleta)
 - **Affinamento:** 30 mesi in botte grande e barrique
 - **Alcol:** 16%
 - **Fascia di prezzo:** 45-49€

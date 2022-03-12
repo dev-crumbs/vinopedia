@@ -15,7 +15,7 @@ dateCreated: 2021-09-30T08:13:40.660Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Salento IGT](/denominazioni/Italia/Puglia/IGT/Salento)
 - **Produttore:** [Leone De Castris](/produttori/Italia/Puglia/Leone De Castris) 
-- **Composizione:** 80% [Negroamaro](/vitigni/Italia/bacca-nera/negroamaro) + 20% [Malvasia nera di Lecce](/vitigni/Italia/bacca-nera/malvasia-nera-di-lecce)
+- **Composizione:** 80% [Negroamaro](/vitigni/Italia/negroamaro) + 20% [Malvasia nera di Lecce](/vitigni/Italia/malvasia-nera-di-lecce)
 - **Affinamento:** 1 mese in acciaio
 - **Alcol:** 12%
 - **Fascia di prezzo:** 10-14€

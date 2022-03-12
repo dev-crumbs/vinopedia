@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Colli Piacentini DOC](/denominazioni/Italia/Emilia/DOC-Colli-Piacentini)
 - **Produttore:** [LaTollara](/produttori/Italia/Emilia/La-Tollara) 
-- **Composizione:** 100% [Barbera](/vitigni/Italia/bacca-nera/barbera)
+- **Composizione:** 100% [Barbera](/vitigni/Italia/barbera)
 - **Vinificazione:** leggero appassimento
 - **Affinamento:** 18 mesi in botte grande
 - **Alcol:** 13.5%

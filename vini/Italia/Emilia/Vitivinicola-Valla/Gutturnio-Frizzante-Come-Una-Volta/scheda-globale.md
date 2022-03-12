@@ -15,7 +15,7 @@ Una Volta
 - - **Tipologia:** Rosso frizzante metodo ancestrale
 - **Denominazione:** [Gutturnio DOC](/denominazioni/Italia/Emilia/DOC-Gutturnio)
 - **Produttore:** [Vitivinicola Valla](/produttori/Italia/Emilia/Vitivinicola-Valla) 
-- **Composizione:** 100% [Barbera](/vitigni/Italia/bacca-bianca/malvasia-di-candia-aromatica)
+- **Composizione:** 100% [Barbera](/vitigni/Italia/malvasia-di-candia-aromatica)
 - **Affinamento:** 12 mesi in acciaio
 - **Alcol:** 12.5%
 - **Fascia di prezzo:** 5-9€

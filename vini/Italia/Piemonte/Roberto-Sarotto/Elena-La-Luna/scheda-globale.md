@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:34:11.884Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Barbera d'Alba DOC](/denominazioni/Italia/Piemonte/DOC/Barbera-d-Alba)
 - **Produttore:** [Roberto Sarotto](/produttori/Italia/Piemonte/Roberto-Sarotto)
-- **Composizione:** 100% [Barbera](/vitigni/Italia/bacca-nera/barbera)
+- **Composizione:** 100% [Barbera](/vitigni/Italia/barbera)
 - **Affinamento:** ?
 - **Alcol:** 15%
 - **Fascia di prezzo:** 40-44€

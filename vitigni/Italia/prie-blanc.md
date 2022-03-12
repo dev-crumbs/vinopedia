@@ -10,4 +10,4 @@ dateCreated: 2022-01-14T19:43:58.882Z
 
 # Prié Blanc
 
-"Prié Blanc" è un sinonimo utilizzato per il vitigno [Prié](/vitigni/Italia/bacca-bianca/prie).
+"Prié Blanc" è un sinonimo utilizzato per il vitigno [Prié](/vitigni/Italia/prie).

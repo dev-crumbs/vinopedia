@@ -15,7 +15,7 @@ dateCreated: 2021-09-30T08:13:44.856Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Salice Salentino DOC](/denominazioni/Italia/Puglia/DOC/Salice-Salentino)
 - **Produttore:** [Paolo Leo](/produttori/Italia/Puglia/Paolo Leo) 
-- **Composizione:** 100% [Negroamaro](/vitigni/Italia/bacca-nera/negroamaro)
+- **Composizione:** 100% [Negroamaro](/vitigni/Italia/negroamaro)
 - **Affinamento:** 3 mesi in acciaio + 12 mesi in barrique di rovere
 - **Alcol:** 14.5%
 - **Fascia di prezzo:** 10-14€

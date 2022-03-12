@@ -15,7 +15,7 @@ dateCreated: 2021-10-04T06:50:57.503Z
 - **Tipologia:** Bianco fermo 
 - **Denominazione:** [Fiano di Avellino DOCG](/denominazioni/Italia/Campania/DOCG/Fiano-di-Avellino)
 - **Produttore:** [Ciro Picariello](/produttori/Italia/Campania/Ciro-Picariello) 
-- **Composizione:** 100% [Fiano](/vitigni/Italia/bacca-bianca/fiano)
+- **Composizione:** 100% [Fiano](/vitigni/Italia/fiano)
 - **Affinamento:** 12 mesi in acciaio
 - **Alcol:** 13.5%
 - **Fascia di prezzo:** 40-44€

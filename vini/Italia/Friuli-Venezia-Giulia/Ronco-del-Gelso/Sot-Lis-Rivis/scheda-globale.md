@@ -15,7 +15,7 @@ dateCreated: 2021-10-01T17:43:08.401Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Friuli Isonzo DOC](/denominazioni/Italia/Friuli-Venezia-Giulia/DOC/Friuli-Isonzo)
 - **Produttore:** [Ronco del Gelso](/produttori/Italia/Friuli-Venezia-Giulia/Ronco-del-Gelso) 
-- **Composizione:** 100% [Pinot grigio](/vitigni/Italia/bacca-bianca/pinot-grigio)
+- **Composizione:** 100% [Pinot grigio](/vitigni/Italia/pinot-grigio)
 - **Affinamento:** 12 mesi in botte grande di cui 6 sui lieviti
 - **Alcol:** 13.5%
 - **Fascia di prezzo:** 15-19€

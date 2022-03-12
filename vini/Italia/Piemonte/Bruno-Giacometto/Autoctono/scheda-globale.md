@@ -15,7 +15,7 @@ dateCreated: 2021-09-28T14:24:30.998Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Erbaluce di Caluso DOCG](/denominazioni/Italia/Piemonte/DOCG/Erbaluce-di-Caluso)
 - **Produttore:** [Bruno Giacometti](/produttori/Italia/Piemonte/Bruno-Giacometti)
-- **Composizione:** 100% [Erbaluce](/vitigni/Italia/bacca-bianca/erbaluce)
+- **Composizione:** 100% [Erbaluce](/vitigni/Italia/erbaluce)
 - **Affinamento:** 6 mesi in acciaio sui lieviti + 12 in bottiglia
 - **Alcol:** 12.5%
 - **Fascia di prezzo:** 10-14€

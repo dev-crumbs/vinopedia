@@ -15,7 +15,7 @@ dateCreated: 2021-09-28T15:49:42.391Z
 - **Tipologia:** Rosso frizzante
 - **Denominazione:** Lambrusco mantovano DOC 
 - **Produttore:** [Cantina Virgili Luigi](/produttori/italia/Lombardia/Cantine-Virgili-Luigi) 
-- **Composizione:** 100% [Grappello Ruberti](/vitigni/Italia/bacca-nera/grappello-ruberti)[^1] [^2]
+- **Composizione:** 100% [Grappello Ruberti](/vitigni/Italia/grappello-ruberti)[^1] [^2]
 - **Affinamento:** 4 mesi in acciaio
 - **Alcol:** 12%
 - **Fascia di prezzo:** 10-14€
@@ -45,5 +45,5 @@ Rays è un vino Sans Année, le annate si riferiscono agli anni in cui il vino �
 
 ## Note
 
-[^1]: Il produttore dichiara il sinonimo "[Grappello Ruberti](/vitigni/Italia/bacca-nera/grappello-ruberti)" invece del nome storico "[Lambrusco Viadanese](/vitigni/Italia/bacca-nera/lambrusco-viadanese)"
+[^1]: Il produttore dichiara il sinonimo "[Grappello Ruberti](/vitigni/Italia/grappello-ruberti)" invece del nome storico "[Lambrusco Viadanese](/vitigni/Italia/lambrusco-viadanese)"
 [^2]: la composizione è cambiata nel corso degli anni, viene riportata quella più recente nota

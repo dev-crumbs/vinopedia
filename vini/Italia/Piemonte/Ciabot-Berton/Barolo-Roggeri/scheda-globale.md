@@ -15,7 +15,7 @@ dateCreated: 2021-09-24T12:31:04.121Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Barolo DOCG](/denominazioni/Italia/Piemonte/DOCG/Barolo) (Roggeri)
 - **Produttore:** [Ciabot Berton](/produttori/Italia/Piemonte/Ciabot-Berton)
-- **Composizione:** 100% [Nebbiolo](/vitigni/Italia/bacca-nera/nebbiolo)
+- **Composizione:** 100% [Nebbiolo](/vitigni/Italia/nebbiolo)
 - **Affinamento:** 24 mesi in botte grande
 - **Alcol:** 14.5%
 - **Fascia di prezzo:** 40-44€

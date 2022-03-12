@@ -15,7 +15,7 @@ Classico Riserva
 Classico Riserva - **Tipologia:** Rosso fermo
 - **Denominazione:** [Amarone Classico Riserva della Valpolicella DOCG](/denominazioni/Italia/Veneto/DOCG/Amarone-della-Valpolicella) (Classico - Riserva)
 - **Produttore:** [Valentina Cubi](/produttori/Italia/Veneto/Valentina-Cubi) 
-- **Composizione:** [Corvina](/vitigni/Italia/bacca-nera/corvina) + [Corvinone](/vitigni/Italia/bacca-nera/corvinone) + [Rondinella](/vitigni/Italia/bacca-nera/rondinella)
+- **Composizione:** [Corvina](/vitigni/Italia/corvina) + [Corvinone](/vitigni/Italia/corvinone) + [Rondinella](/vitigni/Italia/rondinella)
 - **Affinamento:** 180 mesi in botte
 - **Alcol:** 16.5%
 - **Fascia di prezzo:** 100-124€

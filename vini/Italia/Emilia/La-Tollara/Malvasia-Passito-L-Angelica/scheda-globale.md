@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Colli Piacentini DOC](/denominazioni/Italia/Emilia/DOC-Colli-Piacentini)
 - **Produttore:** [La Tollara](/produttori/Italia/Emilia/La-Tollara) 
-- **Composizione:** 100% [Malvasia di Candia aromatica](/vitigni/Italia/bacca-bianca/malvasia-di-candia-aromatica)
+- **Composizione:** 100% [Malvasia di Candia aromatica](/vitigni/Italia/malvasia-di-candia-aromatica)
 - **Vinificazione:** appassimento su graticci per 4 mesi
 - **Affinamento:** 12 mesi in barrique + 4 anni in bottiglia
 - **Alcol:** 11%

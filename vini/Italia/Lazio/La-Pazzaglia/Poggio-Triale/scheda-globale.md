@@ -15,7 +15,7 @@ dateCreated: 2021-09-07T15:36:07.573Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Lazio IGT](/denominazioni/Italia/Lazio/IGT/Lazio)
 - **Produttore:** [La Pazzaglia](/produttori/Italia/Lazio/La-Pazzaglia) 
-- **Composizione:** 100% [Grechetto](/vitigni/Italia/bacca-bianca/grechetto)
+- **Composizione:** 100% [Grechetto](/vitigni/Italia/grechetto)
 - **Affinamento:** 12 mesi in acciaio di cui 4 sui lieviti
 - **Alcol:** 13.5%
 - **Fascia di prezzo:** 20-24€

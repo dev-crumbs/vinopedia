@@ -15,7 +15,7 @@ dateCreated: 2021-08-29T16:14:52.625Z
 - **Tipologia:** Rosso fermo 
 - **Denominazione:** [Aglianico del Vulture Superiore DOCG](/denominazioni/Italia/Basilicata/DOCG/Aglianico-del-Vulture-Superiore)
 - **Produttore:** [Re Manfredi](/produttori/Italia/Basilicata/Re-Manfredi) 
-- **Composizione:** 100% [Aglianico del Vulture](/vitigni/Italia/bacca-nera/aglianico-del-vulture)
+- **Composizione:** 100% [Aglianico del Vulture](/vitigni/Italia/aglianico-del-vulture)
 - **Affinamento:** 36 mesi in barrique
 - **Alcol:** 14%
 - **Fascia di prezzo:** 25-29€

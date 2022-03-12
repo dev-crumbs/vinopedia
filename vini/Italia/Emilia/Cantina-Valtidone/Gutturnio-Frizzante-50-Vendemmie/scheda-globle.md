@@ -15,7 +15,7 @@ Una Volta
 - **Tipologia:** Rosso frizzante
 - **Denominazione:** [Gutturnio DOC](/denominazioni/Italia/Emilia/DOC-Gutturnio)
 - **Produttore:** [Cantina Valtidone](/produttori/Italia/Emilia/Cantina-Valtidone) 
-- **Composizione:** 55% [Barbera](/vitigni/Italia/bacca-nera/barbera) + [Croatina](/vitigni/Italia/bacca-nera/croatina)
+- **Composizione:** 55% [Barbera](/vitigni/Italia/barbera) + [Croatina](/vitigni/Italia/croatina)
 - **Affinamento:** 6 mesi in acciaio
 - **Alcol:** 12.5%
 - **Fascia di prezzo:** 15-19€

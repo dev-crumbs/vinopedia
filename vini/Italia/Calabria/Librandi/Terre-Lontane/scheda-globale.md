@@ -15,7 +15,7 @@ dateCreated: 2021-09-28T15:49:28.163Z
 - **Tipologia:** Rosato fermo
 - **Denominazione:** [Calabria IGT](/denominazioni/Italia/Calabria/IGT/Calabria) 
 - **Produttore:** [Librandi](/produttori/Italia/Calabria/Librandi)
-- **Composizione:** 100% [Gaglioppo](/vitigni/Italia/bacca-nera/gaglioppo) + 30% [Cabernet franc](/vitigni/Francia/bacca-nera/cabernet-franc)
+- **Composizione:** 100% [Gaglioppo](/vitigni/Italia/gaglioppo) + 30% [Cabernet franc](/vitigni/Francia/bacca-nera/cabernet-franc)
 - **Affinamento:** 2 mesi in acciaio sui lieviti
 - **Alcol:** 13%
 - **Fascia di prezzo:** 10-14€

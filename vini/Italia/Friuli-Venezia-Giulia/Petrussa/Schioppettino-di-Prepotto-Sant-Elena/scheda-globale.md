@@ -15,7 +15,7 @@ dateCreated: 2021-09-03T21:03:03.576Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Friuli Colli Orientali](/denominazioni/Italia/Friuli-Venezia-Giulia/DOC/Friuli-Colli-Orientali)
 - **Produttore:** [Petrussa](/produttori/Italia/Friuli-Venezia-Giulia/Petrussa) 
-- **Composizione:** 100% [Schioppettino](/vitigni/Italia/bacca-nera/schioppettino)
+- **Composizione:** 100% [Schioppettino](/vitigni/Italia/schioppettino)
 - **Affinamento:** 18 mesi barrique
 - **Alcol:** 13%
 - **Fascia di prezzo:** 60-64€

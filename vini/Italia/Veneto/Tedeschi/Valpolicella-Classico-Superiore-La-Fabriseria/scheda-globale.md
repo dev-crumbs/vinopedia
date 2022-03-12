@@ -15,7 +15,7 @@ dateCreated: 2022-01-27T15:21:34.303Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** <span class="denominazione">[Valpolicella DOC](/denominazioni/Italia/Veneto/DOC/Valpolicella) (Classico, Superiore)</span>
 - **Produttore:** <span class="cantina">[Tedeschi](/produttori/Italia/Veneto/Tedeschi)</span> 
-- **Composizione:** 40% [Corvina](/vitigni/Italia/bacca-nera/corvina) + 15% [Rondinella](/vitigni/Italia/bacca-nera/rondinella) + 40% [Corvinone](/vitigni/Italia/bacca-nera/corvinone) + 5% [Oseleta](/vitigni/Italia/bacca-nera/oseleta)
+- **Composizione:** 40% [Corvina](/vitigni/Italia/corvina) + 15% [Rondinella](/vitigni/Italia/rondinella) + 40% [Corvinone](/vitigni/Italia/corvinone) + 5% [Oseleta](/vitigni/Italia/oseleta)
 - **Affinamento:** + 24 mesi in botte grande
 - **Alcol:** 15%
 - **Fascia di prezzo:** 35-39€

@@ -20,7 +20,7 @@ Malvasia col Puntino, Malvasia Gentile, Malvasia Puntinata
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Malvasia Bianca Di Piemonte](/vitigni/Italia/bacca-bianca/malvasia-bianca-di-piemonte)
+[Malvasia Bianca Di Piemonte](/vitigni/Italia/malvasia-bianca-di-piemonte)
 
 
 ## Origini e parentele

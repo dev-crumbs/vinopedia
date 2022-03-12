@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:32:47.834Z
 - **Tipologia:** Rosso dolce
 - **Denominazione:** [Alto Adige DOC](/denominazioni/Italia/Alto-Adige/DOC/Alto-Adige)
 - **Produttore:** [Franz Haas](/produttori/Italia/Alto-Adige/Franz-Haas) 
-- **Composizione:** [Moscato rosa](/vitigni/Italia/bacca-nera/moscato-rosa)
+- **Composizione:** [Moscato rosa](/vitigni/Italia/moscato-rosa)
 - **Affinamento:** solo acciaio
 - **Alcol:** 11.5%
 - **Fascia di prezzo:** 25-29€

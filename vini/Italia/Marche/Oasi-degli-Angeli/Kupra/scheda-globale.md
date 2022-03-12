@@ -15,7 +15,7 @@ dateCreated: 2021-09-03T21:03:29.503Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Marche IGT](/denominazioni/Italia/Marche/IGT/Kupra)
 - **Produttore:** [Oasi degli Angeli](/produttori/Italia/Marche/Oasi-degli-Angeli) 
-- **Composizione:** 100% [Bordò](/vitigni/Italia/bacca-nera/bordo)
+- **Composizione:** 100% [Bordò](/vitigni/Italia/bordo)
 - **Affinamento:** 30 mesi in barrique
 - **Alcol:** 14%
 - **Fascia di prezzo:** 200-249€

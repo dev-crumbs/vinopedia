@@ -10,4 +10,4 @@ dateCreated: 2022-01-31T17:33:59.282Z
 
 # Grechetto gentile
 
-"Grechetto gentile" è un sinonimo utilizzato per indicare il vitigno [Pignoletto](/vitigni/Italia/bacca-bianca/pignoletto)
+"Grechetto gentile" è un sinonimo utilizzato per indicare il vitigno [Pignoletto](/vitigni/Italia/pignoletto)

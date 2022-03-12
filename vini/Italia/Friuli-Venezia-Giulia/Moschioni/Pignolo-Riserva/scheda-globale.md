@@ -15,7 +15,7 @@ dateCreated: 2021-09-03T21:03:03.576Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Friuli Colli Orientali](/denominazioni/Italia/Friuli-Venezia-Giulia/DOC/Friuli-Colli-Orientali) (Riserva)
 - **Produttore:** [Moschioni](/produttori/Italia/Friuli-Venezia-Giulia/Moschioni) 
-- **Composizione:** 100% [Pignolo](/vitigni/Italia/bacca-nera/pignolo)
+- **Composizione:** 100% [Pignolo](/vitigni/Italia/pignolo)
 - **Affinamento:** 12 mesi barrique + 48 mesi botte grande
 - **Alcol:** 14%
 - **Fascia di prezzo:** 45-49€

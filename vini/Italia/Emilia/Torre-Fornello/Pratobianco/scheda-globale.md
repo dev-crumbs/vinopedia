@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Emilia IGT](/denominazioni/Italia/Emilia/IGT-Emilia)
 - **Produttore:** [Torre Fornello](/produttori/Italia/Emilia/Torre-Fornello) 
-- **Composizione:** 40% [Malvasia aromatica di Candia](/vitigni/Italia/bacca-bianca/malvasia-di-candia-aromatica) + 40% [Sauvignon blanc](/vitigni/Francia/bacca-bianca/sauvignon-blanc) + 20% [Chardonnay](/vitigni/Francia/bacca-bianca/chardonnay) 
+- **Composizione:** 40% [Malvasia aromatica di Candia](/vitigni/Italia/malvasia-di-candia-aromatica) + 40% [Sauvignon blanc](/vitigni/Francia/bacca-bianca/sauvignon-blanc) + 20% [Chardonnay](/vitigni/Francia/bacca-bianca/chardonnay) 
 - **Affinamento:** 6 mesi in acciaio e barrique
 - **Alcol:** 13%
 - **Fascia di prezzo:** 10-14€

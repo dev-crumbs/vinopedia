@@ -15,7 +15,7 @@ dateCreated: 2021-09-07T19:53:52.646Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Salento IGT](/denominazioni/Italia/Puglia/IGT/Salento)
 - **Produttore:** [Vallone](/produttori/Italia/Puglia/Vallone) 
-- **Composizione:** 100% [Negroamaro](/vitigni/Italia/bacca-nera/negroamaro)
+- **Composizione:** 100% [Negroamaro](/vitigni/Italia/negroamaro)
 - **Affinamento:** 26 mesi in acciaio + 12 mesi in barrique + 12 mesi in bottiglia
 - **Alcol:** 14.5%
 - **Fascia di prezzo:** 50-54€

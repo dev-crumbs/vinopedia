@@ -15,7 +15,7 @@ dateCreated: 2022-01-27T15:21:34.303Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** <span class="denominazione">[Amarone della Valpolicella DOCG](/denominazioni/Italia/Veneto/DOCG/Amarone-della-Valpolicella) (Classico)</span>
 - **Produttore:** <span class="cantina">[David Sterza](/produttori/Italia/Veneto/David Sterza)</span> 
-- **Composizione:** 60% [Corvina](/vitigni/Italia/bacca-nera/corvina) + 20% [Corvinone](/vitigni/Italia/bacca-nera/corvinone) + 3% [Oseleta](/vitigni/Italia/bacca-nera/oseleta) + 17% [Rondinella](/vitigni/Italia/bacca-nera/rondinella)
+- **Composizione:** 60% [Corvina](/vitigni/Italia/corvina) + 20% [Corvinone](/vitigni/Italia/corvinone) + 3% [Oseleta](/vitigni/Italia/oseleta) + 17% [Rondinella](/vitigni/Italia/rondinella)
 - **Affinamento:** 24 mesi in barrique e tonneau
 - **Alcol:** 16%
 - **Fascia di prezzo:** 30-34€

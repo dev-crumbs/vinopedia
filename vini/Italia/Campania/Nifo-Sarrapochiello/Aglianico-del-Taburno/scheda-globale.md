@@ -15,7 +15,7 @@ dateCreated: 2021-09-28T19:38:01.494Z
 - **Tipologia:** Rosso fermo 
 - **Denominazione:** [Aglianico del Taburno DOCG](/denominazioni/Italia/Campania/DOCG/Aglianico-del-Taburno) 
 - **Produttore:** [Nifo Sarrapochiello](/produttori/Italia/Campania/Nifo-Sarrapochiello) 
-- **Composizione:** 100% [Aglianico](/vitigni/Italia/bacca-nera/aglianico)
+- **Composizione:** 100% [Aglianico](/vitigni/Italia/aglianico)
 - **Affinamento:** 24 mesi in acciaio + 12 mesi in barrique 
 - **Alcol:** 14%
 - **Fascia di prezzo:** 10-14€

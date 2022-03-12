@@ -15,7 +15,7 @@ dateCreated: 2021-08-26T20:27:17.200Z
 - **Tipologia:** Bianco fermo
 - **Denominazione:** [Valle d'Aosta DOC](/denominazioni/Italia/Valle-d-Aosta/DOC/Valle-d-Aosta) 
 - **Produttore:** [Lo Triolet](/produttori/Italia/Valle-d-Aosta/Lo-Triolet) 
-- **Composizione:** 100% [Pinot Grigio](/vitigni/Italia/bacca-bianca/pinot-grigio) 
+- **Composizione:** 100% [Pinot Grigio](/vitigni/Italia/pinot-grigio) 
 - **Affinamento:** 12 mesi in botte grande 
 - **Alcol:** 14%
 - **Fascia di prezzo:** 15-19€

@@ -15,7 +15,7 @@ dateCreated: 2021-09-18T16:30:04.076Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Valle d'Aosta DOC](/denominazioni/Italia/Valle-d-Aosta/DOC/Valle-d-Aosta) 
 - **Produttore:** [Le Clocher](/produttori/Italia/Valle-d-Aosta/Le-Clocher) 
-- **Composizione:** 100% [Cornalin](/vitigni/Italia/bacca-nera/cornalin) 
+- **Composizione:** 100% [Cornalin](/vitigni/Italia/cornalin) 
 - **Affinamento:** ?
 - **Alcol:** ?
 - **Fascia di prezzo:** 10-14€

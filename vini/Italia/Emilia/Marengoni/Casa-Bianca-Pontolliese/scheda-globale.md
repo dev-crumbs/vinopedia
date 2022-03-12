@@ -15,7 +15,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 - **Tipologia:** Rosso fermo
 - **Denominazione:** [Emilia IGT](/denominazioni/Italia/Emilia/IGT/Emilia)
 - **Produttore:** [Marengoni](/produttori/Italia/Emilia/Marengoni) 
-- **Composizione:** 20% [Barbera](/vitigni/Italia/bacca-nera/barbera) + 20% [Cabernet franc](/vitigni/Italia/bacca-nera/cabernet-franc) + 20% [Cabernet Sauvignon](/vitigni/Italia/bacca-nera/cabernet-sauvignon) + 20% [Merlot](/vitigni/Italia/bacca-nera/merlot) + 20% [Croatina](/vitigni/Italia/bacca-nera/croatina)
+- **Composizione:** 20% [Barbera](/vitigni/Italia/barbera) + 20% [Cabernet franc](/vitigni/Italia/cabernet-franc) + 20% [Cabernet Sauvignon](/vitigni/Italia/cabernet-sauvignon) + 20% [Merlot](/vitigni/Italia/merlot) + 20% [Croatina](/vitigni/Italia/croatina)
 - **Affinamento:** 36 mesi in botte
 - **Alcol:** 14.5%
 - **Fascia di prezzo:** 20-24€
