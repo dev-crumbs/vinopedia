@@ -3,6 +3,7 @@ export function schedaGlobaleImport() {
   if (tempCheck == null){return;}
   //page headline input
   const headlineFull = document.querySelector(".headline").innerText.split(' – ')
+  document.querySelector("div[role='list'] .v-list-item__title").innerText = headlineFull[0] //adds title to top left list
   d3.text(`/vini/listone.csv`).then(function(data) {
       const csv = d3.csvParse(data);
       const filterGlobalCSV = function(d) {return d.Nome == headlineFull[0] && d.Produttore == headlineFull[2] && d.Entry === "1"}
