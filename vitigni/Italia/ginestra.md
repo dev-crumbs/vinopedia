@@ -18,7 +18,7 @@ Biancatenera (Scala), Biancazita (Furore, Tramonti, Corbara e Positano), Ginestr
 
 ## Origini e parentele
 
-La Ginestra era già menzionata da Acerbi (1825) come una delle principali varietà dell'area di Napoli in Campania nell'Italia meridionale. Il suo nome deriva dal sapore di ginestra nell'uva (ginestra italiana). La sinonimia tra Ginestra e Biancazita, una varietà coltivata nella stessa area e chiamata anche Biancatenera, era stata sospettata da Froio (1875) ed è stata recentemente confermata dal DNA profiling (Costantini et al. 2005). Lo stesso studio del DNA ha anche stabilito una possibile relazione genetica tra Ginestra e altre due varietà campane: [Caprettone](/vitigno/Italia/bacca-nera/caprettone) e Piedirosso Napoletano, una varietà non coltivata che non deve essere confusa con il [Piedirosso](/vitigni/Italia/piedirosso).
+La Ginestra era già menzionata da Acerbi (1825) come una delle principali varietà dell'area di Napoli in Campania nell'Italia meridionale. Il suo nome deriva dal sapore di ginestra nell'uva (ginestra italiana). La sinonimia tra Ginestra e Biancazita, una varietà coltivata nella stessa area e chiamata anche Biancatenera, era stata sospettata da Froio (1875) ed è stata recentemente confermata dal DNA profiling (Costantini et al. 2005). Lo stesso studio del DNA ha anche stabilito una possibile relazione genetica tra Ginestra e altre due varietà campane: [Caprettone](/vitigni/Italia/caprettone) e Piedirosso Napoletano, una varietà non coltivata che non deve essere confusa con il [Piedirosso](/vitigni/Italia/piedirosso).
 
 ## Caratteristiche viticole
 
