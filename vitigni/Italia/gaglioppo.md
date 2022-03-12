@@ -2,7 +2,7 @@
 title: Gaglioppo
 description: Vitigno | La caratteristica uva da vino rosso della Calabria
 published: true
-date: 2021-09-06T14:51:25.771Z
+date: 2022-03-12T10:29:47.640Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:43:05.076Z
@@ -19,12 +19,12 @@ Arvino Nero, Cirotana (Calabria), Gaglioppo di Cirò (Calabria), Galloppo (Calab
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Frappato](/vitigni/frappato), [Gallioppo Delle Marche](/vitigni/Italia/gaglioppo-delle-marche) (Marche), [Magliocco Canino](/vitigni/magliocco-canino) (Calabria), [Magliocco Dolce](/vitigni/magliocco-dolce) (Calabria), [Maiolica](/vitigni/maiolica) (Abruzzo)
+[Frappato](/vitigni/Italia/frappato), [Gallioppo Delle Marche](/vitigni/Italia/gaglioppo-delle-marche) (Marche), [Magliocco Canino](/vitigni/Italia/magliocco-canino) (Calabria), [Magliocco Dolce](/vitigni/Italia/magliocco-dolce) (Calabria), [Maiolica](/vitigni/Italia/maiolica) (Abruzzo)
 
 ## Origini e parentele
 La prima menzione del Gaglioppo come vino appare nel 1240, quando il 21 gennaio l'imperatore Federico II ordinò cento barili di buon vino 'galloppo' di Napoli ('centum barrilia de bono vino de galloppo usque Naepolim'; Huillard-Bréholles 1859). Si dice che il nome Gaglioppo abbia radici greche, kalós podos che significa 'piede buono/bello' (il 'piede' si riferisce al grappolo d'uva).
 
-Il profilo del DNA ha dimostrato che il GALLIOPPO DELLE MARCHE non è identico al Gaglioppo (Schneider, Raimondi, Grando et al. 2008). Una volta si pensava che il Morellino Pizzuto fosse un clone di [Sangiovese](/vitigni/Italia/sangiovese) in Toscana, proprio come il Morellino di Scansano (Scalabrelli et al. 2001), ma gli stessi autori hanno recentemente scoperto tramite DNA profiling che il Morellino Pizzuto è in realtà identico a Gaglioppo (Scalabrelli et al. 2008). Questa confusione si spiega con recenti studi sul DNA che suggeriscono una relazione genitore-figlio tra Gaglioppo e Sangiovese (Di Vecchi Staraz, This et al. 2007; Crespan, Calò et al. 2008), che è stata confermata recentemente dalla scoperta della parentela di Gaglioppo (Cipriani et al. 2010): è un possibile incrocio naturale di Sangiovese e [Mantonico Bianco](/vitigni/mantonico-bianco), quest'ultimo è una varietà tipica della Locride in Calabria, Italia meridionale. Questo rende Gaglioppo un fratello di NERELLO MASCALESE della Sicilia. Di conseguenza, Gaglioppo è nipote di [Ciliegiolo](/vitigni/ciliegiolo) e [Calabrese Di Montenuovo](/vitigni/calabrese-di-montenuovo), i genitori del Sangiovese; e Gaglioppo e [Frappato](/vitigni/frappato) dalla Sicilia sono probabilmente fratelli (Di Vecchi Staraz, This et al. 2007). È stata anche suggerita una possibile relazione genetica con [Aleatico](/vitigni/aleatico) (Filippetti, Silvestroni, Thomas e Intrieri 2001).
+Il profilo del DNA ha dimostrato che il GALLIOPPO DELLE MARCHE non è identico al Gaglioppo (Schneider, Raimondi, Grando et al. 2008). Una volta si pensava che il Morellino Pizzuto fosse un clone di [Sangiovese](/vitigni/Italia/sangiovese) in Toscana, proprio come il Morellino di Scansano (Scalabrelli et al. 2001), ma gli stessi autori hanno recentemente scoperto tramite DNA profiling che il Morellino Pizzuto è in realtà identico a Gaglioppo (Scalabrelli et al. 2008). Questa confusione si spiega con recenti studi sul DNA che suggeriscono una relazione genitore-figlio tra Gaglioppo e Sangiovese (Di Vecchi Staraz, This et al. 2007; Crespan, Calò et al. 2008), che è stata confermata recentemente dalla scoperta della parentela di Gaglioppo (Cipriani et al. 2010): è un possibile incrocio naturale di Sangiovese e [Mantonico Bianco](/vitigni/Italia/mantonico-bianco), quest'ultimo è una varietà tipica della Locride in Calabria, Italia meridionale. Questo rende Gaglioppo un fratello di [Nerello Mascalese](/vitigni/Italia/nerello-mascalese.md) della Sicilia. Di conseguenza, Gaglioppo è nipote di [Ciliegiolo](/vitigni/ciliegiolo) e [Calabrese Di Montenuovo](/vitigni/Italia/calabrese-di-montenuovo), i genitori del Sangiovese; e Gaglioppo e [Frappato](/vitigni/frappato) dalla Sicilia sono probabilmente fratelli (Di Vecchi Staraz, This et al. 2007). È stata anche suggerita una possibile relazione genetica con [Aleatico](/vitigni/Italia/aleatico) (Filippetti, Silvestroni, Thomas e Intrieri 2001).
 
 ### Altre Ipotesi
 
