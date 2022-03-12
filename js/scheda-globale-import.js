@@ -3,7 +3,7 @@ export function schedaGlobaleImport() {
   if (tempCheck == null){return;}
   //page headline input
   const headlineFull = document.querySelector(".headline").innerText.split(' – ')
-  d3.text(`../../../../listone.csv`).then(function(data) {
+  d3.text(`/vini/listone.csv`).then(function(data) {
       const csv = d3.csvParse(data);
       const filterGlobalCSV = function(d) {return d.Nome == headlineFull[0] && d.Produttore == headlineFull[2] && d.Entry === "1"}
       const filterSingleCSV = function(d) {return d.Nome == headlineFull[0] && d.Produttore == headlineFull[2] && d.Entry === "2"}
