@@ -3,7 +3,7 @@ export function schedaGlobaleImport() {
   if (tempCheck == null){return;}
   //page headline input
   const headlineFull = document.querySelector(".headline").innerText.split(' – ')
-  document.querySelector("div[role='list'] .v-list-item__title").innerText = headlineFull[0] //adds title to top left list
+  const listCheck = document.querySelector("div[role='list'] .v-list-item__title")
   d3.text(`/vini/listone.csv`).then(function(data) {
       const csv = d3.csvParse(data);
       const filterGlobalCSV = function(d) {return d.Nome == headlineFull[0] && d.Produttore == headlineFull[2] && d.Entry === "1"}
@@ -33,7 +33,7 @@ export function schedaGlobaleImport() {
       d3.select('h1').append().text(nomeCSV)
       d3.select('.caratteristiche li:nth-child(1)').append().text(" " + nomeCSV)
       d3.select('.caratteristiche li:nth-child(2)').append().text(" " + tipoCSV)
-      d3.select('.caratteristiche li:nth-child(3)').append().html(` <a href="/denominazioni/${nazioneCSV}/${regioneCSV}/${classificazioneCSV}-${denominazioneCSV.replaceAll(' ', '-')}">${denominazioneCSV} ${classificazioneCSV}</a> | ${menzioniCSV}`)
+      d3.select('.caratteristiche li:nth-child(3)').append().html(` <a href="/denominazioni/${nazioneCSV}/${regioneCSV}/${classificazioneCSV}-${denominazioneCSV.replaceAll(' ', '-')}">${denominazioneCSV} ${classificazioneCSV}</a> (${menzioniCSV})`)
       d3.select('.caratteristiche li:nth-child(4)').append().html(` <a href="/produttori/${nazioneCSV}/${regioneCSV}/${produttoreCSV.replaceAll(' ', '-')}">${produttoreCSV}</a>`)
       for (const i of composizioneArray) {
         const cleanVitigno = i.split(/( \d+)/)[0]
@@ -52,6 +52,10 @@ export function schedaGlobaleImport() {
       }
       for (const i of annateCSVArray) {
         d3.select('.annate').append("li").html(`${nomeCSV} <a href="/vini/${nazioneCSV}/${regioneCSV}/${produttoreCSV.replaceAll(' ', '-')}/${nomeCSV.replaceAll(' ', '-').replaceAll("'", '')}/${i.Anno}">${i.Anno}</a> -- <span class="${i.Valutazione}"></span> -- ${i.PunteggioMedio}/100`)
+      }
+      // add ittle to list
+      if (listCheck == null){return;} else {
+        document.querySelector("div[role='list'] .v-list-item__title").innerText = headlineFull[0]
       }
   });
 }
