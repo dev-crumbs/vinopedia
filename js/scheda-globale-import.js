@@ -35,10 +35,12 @@ export function schedaGlobaleImport() {
       d3.select('.caratteristiche li:nth-child(3)').append().html(` <a href="/denominazioni/${nazioneCSV}/${regioneCSV}/${classificazioneCSV}-${denominazioneCSV.replaceAll(' ', '-')}">${denominazioneCSV} ${classificazioneCSV}</a> (${menzioniCSV})`)
       d3.select('.caratteristiche li:nth-child(4)').append().html(` <a href="/produttori/${nazioneCSV}/${regioneCSV}/${produttoreCSV.replaceAll(' ', '-')}">${produttoreCSV}</a>`)
       for (const i of composizioneArray) {
+        const cleanVitigno = i.split(/( \d+)/)[0]
+        console.log(cleanVitigno)
         if (!--composizioneLength){
-          d3.select('.caratteristiche li:nth-child(5)').append().html(` <a href="/vitigni/${nazioneCSV}/${i.replaceAll(' ', '-').toLowerCase()}">${i}</a>`)          
+          d3.select('.caratteristiche li:nth-child(5)').append().html(` <a href="/vitigni/${nazioneCSV}/${cleanVitigno.replaceAll(' ', '-').replaceAll("’", "-").toLowerCase()}">${i}</a>`)          
         } else {
-          d3.select('.caratteristiche li:nth-child(5)').append().html(` <a href="/vitigni/${nazioneCSV}/${i.replaceAll(' ', '-').toLowerCase()}">${i}</a> -`)
+          d3.select('.caratteristiche li:nth-child(5)').append().html(` <a href="/vitigni/${nazioneCSV}/${cleanVitigno.replaceAll(' ', '-').toLowerCase()}">${i}</a> -`)
         }
       }
       d3.select('.caratteristiche li:nth-child(6)').append().text(" " + affinamentoCSV)
