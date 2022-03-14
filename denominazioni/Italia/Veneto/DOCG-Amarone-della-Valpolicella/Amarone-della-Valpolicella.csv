@@ -1,58 +1,58 @@
-Produttore,Vino,Voto Medio,2017,2016,2015,2014,2013,2012,2011,2010,2009,2008,2007
-Allegrini,Amarone Classico,3.8,3,5,4,3,sv,4,4,sv,sv,sv,sv
-Pasqua,Amarone Riserva Famiglia Pasqua,5.0,sv,sv,sv,sv,5,sv,sv,sv,sv,sv,sv
-Pasqua,Amarone Classico Riserva Cecilia Beretta Terre di Cariano,3.5,sv,sv,3,sv,sv,sv,4,sv,sv,sv,sv
-Pasqua,Amarone Famiglia Pasqua,3.0,sv,sv,sv,sv,3,3,sv,sv,sv,sv,sv
-Pasqua,Amarone Classico Villa Borghetti,3.0,sv,sv,sv,sv,3,sv,sv,sv,sv,sv,sv
-Recchia,Recchia,3.0,sv,3,sv,sv,sv,sv,sv,sv,sv,sv,sv
-Recchia,Amarone Classico Riserva Ca’ Bertoldi,4.0,sv,4,sv,sv,sv,sv,sv,sv,sv,sv,sv
-Roccolo Callisto,Amarone ,4.0,sv,4,sv,sv,sv,sv,sv,sv,sv,sv,sv
-Roccolo Grassi,Amarone ,4.8,sv,5,5,sv,4,5,sv,sv,sv,sv,sv
-San Cassiano,Amarone Riserva,3.0,sv,sv,sv,3,sv,sv,sv,sv,sv,sv,sv
-San Cassiano,Amarone,3.0,sv,3,sv,sv,sv,sv,sv,sv,sv,sv,sv
-Santa Sofia,Amarone Classico Riserva,4.0,sv,sv,sv,sv,sv,4,sv,sv,sv,sv,sv
-Santa Sofia,Amarone Classico,3.5,sv,sv,3,sv,4,sv,sv,sv,sv,sv,sv
-Santi,Amarone Classico Proemio,3.5,sv,sv,4,sv,3,3,4,sv,sv,sv,sv
-Santi,Amarone Classico Santico,3.0,sv,3,sv,3,3,sv,sv,sv,sv,sv,sv
-Santi,Amarone ,3.0,sv,sv,sv,sv,sv,3,3,sv,sv,sv,sv
-Scriani,Amarone Classico Riserva,4.0,sv,sv,4,sv,sv,sv,sv,sv,sv,sv,sv
-Scriani,Amarone Classico,3.0,sv,3,sv,sv,sv,sv,sv,sv,sv,sv,sv
-Secondo Marco,Amarone Classico Riserva,5.0,sv,sv,sv,sv,sv,sv,sv,sv,sv,5,sv
-Tenuta Sant Antonio,Amarone Riserva Lilium Est,5.0,sv,sv,sv,sv,sv,sv,sv,5,sv,sv,sv
-Tenuta Sant Antonio,Amarone Campo Dei Gigli,3.8,4,4,3,sv,4,4,sv,sv,sv,sv,sv
-Tenuta Sant Antonio,Amarone Telos L’ Amarone,3.0,sv,3,sv,sv,3,3,sv,sv,sv,sv,sv
-Tenuta Sant Antonio,Amarone Selezione Antonio Castagnedi,3.0,3,3,3,sv,3,sv,sv,sv,sv,sv,sv
-Tenuta Santa Maria,Amarone Classico Riserva,4.0,sv,sv,4,sv,4,sv,sv,sv,sv,sv,sv
-Tenuta Villa Bellini,Amarone Classico Centenarie,4.0,sv,sv,4,sv,sv,sv,sv,sv,sv,sv,sv
-Terre Di Leone,Amarone Classico Il Re Pazzo,3.0,sv,3,3,3,3,sv,sv,sv,sv,3,sv
-Terre Di Leone,Amarone Classico Terre Di Leone,4.0,sv,sv,sv,sv,sv,4,sv,4,sv,sv,sv
-Terre Di Leone,Amarone Classico Riserva Terre Di Leone,5.0,sv,sv,sv,sv,sv,sv,5,sv,sv,sv,sv
-Terre Di Leone,Amarone Classico,4.0,sv,sv,sv,sv,sv,sv,sv,sv,4,sv,sv
-Tezza,Amarone Valpantena Tezza,4.0,sv,sv,sv,sv,sv,sv,sv,sv,4,sv,sv
-Tezza,Amarone Corte Majoli,2.0,sv,sv,sv,sv,sv,sv,sv,sv,2,sv,sv
-Tommasi,Amarone Classico Riserva De Buris,5.0,sv,sv,sv,sv,sv,sv,sv,5,5,sv,sv
-Tommasi,Amarone Classico De Buris,5.0,sv,sv,sv,sv,sv,sv,sv,sv,sv,5,sv
-Tommasi,Amarone Classico,3.2,3,3,3,4,sv,3,sv,sv,sv,sv,sv
-Tommasi,Amarone Classico Riserva Ca’ Florian,4.0,sv,sv,sv,sv,sv,4,4,sv,4,sv,sv
-Venturini,Amarone Classico Riserva,5.0,sv,sv,sv,sv,sv,sv,sv,sv,5,sv,sv
-Venturini,Amarone Classico,3.4,sv,3,3,sv,3,4,4,sv,sv,sv,sv
-Venturini,Amarone Classico Campomasua,4.2,sv,sv,4,sv,5,4,4,4,sv,sv,sv
-Vigneti Di Ettore,Amarone Classico Riserva,5.0,sv,sv,sv,sv,sv,5,sv,sv,sv,sv,sv
-Vigneti Di Ettore,Amarone Classico,4.0,sv,4,3,sv,5,4,sv,sv,sv,sv,sv
-Villa Canestrari,Amarone Riserva Tenuta Casaletti,3.0,sv,sv,sv,3,3,sv,sv,sv,sv,sv,sv
-Villa Canestrari,Amarone Tenuta Casaletti,3.0,3,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv
-Villa Canestrari,Amarone Villa Canestrari,3.0,3,3,sv,sv,sv,sv,sv,sv,sv,sv,sv
-Villa Canestrari,Amarone Riserva Plenum,4.0,sv,sv,sv,sv,4,4,sv,sv,sv,sv,sv
-Villa Canestrari,Amarone Riserva 1888,4.0,sv,sv,sv,sv,4,4,sv,sv,sv,sv,sv
-Villa Spinosa,Amarone Classico,3.3,4,3,sv,3,sv,3,sv,sv,sv,sv,sv
-Villa Spinosa,Amarone Classico Albasini,4.0,sv,sv,sv,sv,4,sv,4,4,sv,sv,sv
-Villa Spinosa,Amarone Classico Guglielmi Di Jago 10 Anni,5.0,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv,5
-Villa Spinosa,Amarone Classico Etichetta Avorio,4.0,sv,sv,sv,sv,sv,sv,sv,sv,sv,4,sv
-Villabella,Amarone Classico Riserva Fracastoro,3.2,sv,sv,sv,sv,sv,3,3,3,sv,3,4
-Villabella,Amarone Classico,3.3,sv,sv,sv,sv,3,sv,3,4,sv,sv,sv
-Zenato,Amarone Classico,3.2,sv,4,3,sv,3,3,3,sv,sv,sv,sv
-Zenato,Amarone Classico Riserva Sergio Zenato,3.8,sv,sv,4,sv,4,4,4,sv,3,sv,sv
-Zeni,Amarone Classico Vigne Alte,3.0,3,3,3,sv,sv,3,sv,sv,sv,sv,sv
-Zeni,Amarone Barriques,3.0,sv,sv,3,sv,sv,sv,sv,3,sv,sv,sv
-Zeni,Amarone Classico Nino Zeni,3.0,sv,sv,3,sv,sv,sv,sv,sv,sv,sv,sv
-Zyme,Amarone Classico,4.0,sv,5,4,sv,3,sv,4,sv,4,sv,sv
+Produttore,Vino,Voto Medio,Prezzo Medio,2017,2016,2015,2014,2013,2012,2011,2010,2009,2008,2007
+Allegrini,Amarone Classico,3.8,80-84,3,5,4,3,sv,4,4,sv,sv,sv,sv
+Pasqua,Amarone Classico Riserva Cecilia Beretta Terre di Cariano,3.5,75-79,sv,sv,3,sv,sv,sv,4,sv,sv,sv,sv
+Pasqua,Amarone Classico Villa Borghetti,3.0,35-39,sv,sv,sv,sv,3,sv,sv,sv,sv,sv,sv
+Pasqua,Amarone Famiglia Pasqua,3.0,60-64,sv,sv,sv,sv,3,3,sv,sv,sv,sv,sv
+Pasqua,Amarone Riserva Famiglia Pasqua,5.0,125-149,sv,sv,sv,sv,5,sv,sv,sv,sv,sv,sv
+Recchia,Amarone Classico Masua Di Jago,3.0,30-34,sv,3,sv,sv,sv,sv,sv,sv,sv,sv,sv
+Recchia,Amarone Classico Riserva Ca’ Bertoldi,4.0,40-44,sv,4,sv,sv,sv,sv,sv,sv,sv,sv,sv
+Roccolo Callisto,Amarone ,4.0,45-49,sv,4,sv,sv,sv,sv,sv,sv,sv,sv,sv
+Roccolo Grassi,Amarone ,4.8,75-79,sv,5,5,sv,4,5,sv,sv,sv,sv,sv
+San Cassiano,Amarone Riserva,3.0,70-74,sv,sv,sv,3,sv,sv,sv,sv,sv,sv,sv
+San Cassiano,Amarone,3.0,45-49,sv,3,sv,sv,sv,sv,sv,sv,sv,sv,sv
+Santa Sofia,Amarone Classico Riserva,4.0,70-74,sv,sv,sv,sv,sv,4,sv,sv,sv,sv,sv
+Santa Sofia,Amarone Classico,3.5,35-39,sv,sv,3,sv,4,sv,sv,sv,sv,sv,sv
+Santi,Amarone Classico Proemio,3.5,60-64,sv,sv,4,sv,3,3,4,sv,sv,sv,sv
+Santi,Amarone Classico Santico,3.0,35-39,sv,3,sv,3,3,sv,sv,sv,sv,sv,sv
+Santi,Amarone ,3.0,35-39,sv,sv,sv,sv,sv,3,3,sv,sv,sv,sv
+Scriani,Amarone Classico Riserva,4.0,45-49,sv,sv,4,sv,sv,sv,sv,sv,sv,sv,sv
+Scriani,Amarone Classico,3.0,35-39,sv,3,sv,sv,sv,sv,sv,sv,sv,sv,sv
+Secondo Marco,Amarone Classico Riserva,5.0,200-225,sv,sv,sv,sv,sv,sv,sv,sv,sv,5,sv
+Tenuta Sant Antonio,Amarone Riserva Lilium Est,5.0,125-149,sv,sv,sv,sv,sv,sv,sv,5,sv,sv,sv
+Tenuta Sant Antonio,Amarone Campo Dei Gigli,3.8,80-84,4,4,3,sv,4,4,sv,sv,sv,sv,sv
+Tenuta Sant Antonio,Amarone Telos L’ Amarone,3.0,45-49,sv,3,sv,sv,3,3,sv,sv,sv,sv,sv
+Tenuta Sant Antonio,Amarone Selezione Antonio Castagnedi,3.0,45-49,3,3,3,sv,3,sv,sv,sv,sv,sv,sv
+Tenuta Santa Maria,Amarone Classico Riserva,4.0,90-94,sv,sv,4,sv,4,sv,sv,sv,sv,sv,sv
+Tenuta Villa Bellini,Amarone Classico Centenarie,4.0,95-99,sv,sv,4,sv,sv,sv,sv,sv,sv,sv,sv
+Terre Di Leone,Amarone Classico Il Re Pazzo,3.0,45-49,sv,3,3,3,3,sv,sv,sv,sv,3,sv
+Terre Di Leone,Amarone Classico Terre Di Leone,4.0,70-74,sv,sv,sv,sv,sv,4,sv,4,sv,sv,sv
+Terre Di Leone,Amarone Classico Riserva Terre Di Leone,5.0,90-94,sv,sv,sv,sv,sv,sv,5,sv,sv,sv,sv
+Terre Di Leone,Amarone Classico,4.0,60-64,sv,sv,sv,sv,sv,sv,sv,sv,4,sv,sv
+Tezza,Amarone Valpantena Tezza,4.0,40-44,sv,sv,sv,sv,sv,sv,sv,sv,4,sv,sv
+Tezza,Amarone Corte Majoli,2.0,30-34,sv,sv,sv,sv,sv,sv,sv,sv,2,sv,sv
+Tommasi,Amarone Classico Riserva De Buris,5.0,250-274,sv,sv,sv,sv,sv,sv,sv,5,5,sv,sv
+Tommasi,Amarone Classico De Buris,5.0,250-274,sv,sv,sv,sv,sv,sv,sv,sv,sv,5,sv
+Tommasi,Amarone Classico,3.2,45-49,3,3,3,4,sv,3,sv,sv,sv,sv,sv
+Tommasi,Amarone Classico Riserva Ca’ Florian,4.0,95-99,sv,sv,sv,sv,sv,4,4,sv,4,sv,sv
+Venturini,Amarone Classico Riserva,5.0,95-99,sv,sv,sv,sv,sv,sv,sv,sv,5,sv,sv
+Venturini,Amarone Classico,3.4,25-29,sv,3,3,sv,3,4,4,sv,sv,sv,sv
+Venturini,Amarone Classico Campomasua,4.2,35-39,sv,sv,4,sv,5,4,4,4,sv,sv,sv
+Vigneti Di Ettore,Amarone Classico Riserva,5.0,100-124,sv,sv,sv,sv,sv,5,sv,sv,sv,sv,sv
+Vigneti Di Ettore,Amarone Classico,4.0,45-49,sv,4,3,sv,5,4,sv,sv,sv,sv,sv
+Villa Canestrari,Amarone Riserva Tenuta Casaletti,3.0,40-44,sv,sv,sv,3,3,sv,sv,sv,sv,sv,sv
+Villa Canestrari,Amarone Tenuta Casaletti,3.0,35-39,3,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv
+Villa Canestrari,Amarone Villa Canestrari,3.0,30-34,3,3,sv,sv,sv,sv,sv,sv,sv,sv,sv
+Villa Canestrari,Amarone Riserva Plenum,4.0,55-59,sv,sv,sv,sv,4,4,sv,sv,sv,sv,sv
+Villa Canestrari,Amarone Riserva 1888,4.0,80-84,sv,sv,sv,sv,4,4,sv,sv,sv,sv,sv
+Villa Spinosa,Amarone Classico,3.3,35-39,4,3,sv,3,sv,3,sv,sv,sv,sv,sv
+Villa Spinosa,Amarone Classico Albasini,4.0,50-54,sv,sv,sv,sv,4,sv,4,4,sv,sv,sv
+Villa Spinosa,Amarone Classico Guglielmi Di Jago 10 Anni,5.0,75-79,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv,5
+Villa Spinosa,Amarone Classico Etichetta Avorio,4.0,40-44,sv,sv,sv,sv,sv,sv,sv,sv,sv,4,sv
+Villabella,Amarone Classico Riserva Fracastoro,3.2,60-64,sv,sv,sv,sv,sv,3,3,3,sv,3,4
+Villabella,Amarone Classico,3.3,30-34,sv,sv,sv,sv,3,sv,3,4,sv,sv,sv
+Zenato,Amarone Classico,3.2,45-49,sv,4,3,sv,3,3,3,sv,sv,sv,sv
+Zenato,Amarone Classico Riserva Sergio Zenato,3.8,90-94,sv,sv,4,sv,4,4,4,sv,3,sv,sv
+Zeni,Amarone Classico Vigne Alte,3.0,30-34,3,3,3,sv,sv,3,sv,sv,sv,sv,sv
+Zeni,Amarone Barriques,3.0,45-49,sv,sv,3,sv,sv,sv,sv,3,sv,sv,sv
+Zeni,Amarone Classico Nino Zeni,3.0,150-174,sv,sv,3,sv,sv,sv,sv,sv,sv,sv,sv
+Zyme,Amarone Classico,4.0,90-94,sv,5,4,sv,3,sv,4,sv,4,sv,sv
