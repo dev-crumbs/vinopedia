@@ -25,7 +25,7 @@ Un recente studio ampelografico ha dimostrato che il Iuvarello di Calabria è id
 
 ## Diffusione geografica
 
-Coltivato in tutta la Puglia nell'Italia meridionale ma soprattutto nella Murgia (vicino a Taranto) e nella Valle d'Itria. Contribuisce a vini DOC come Gravina, Martinafranca, Locorotondo, Ostuni e Lizzano ed è spesso mescolato con la più diffusa e produttiva [Verdeca](/vitigni/verdeca). La sua recente rinascita ha suscitato interesse nella produzione di vini monovarietali Bianco d'Alessano. A volte viene usato per la produzione di vermouth. 960 ha (2.370 acri) sono stati registrati nel censimento italiano del 2000.
+Coltivato in tutta la Puglia nell'Italia meridionale ma soprattutto nella Murgia (vicino a Taranto) e nella Valle d'Itria. Contribuisce a vini DOC come Gravina, Martinafranca, Locorotondo, Ostuni e Lizzano ed è spesso mescolato con la più diffusa e produttiva [Verdeca](/vitigni/Italia/verdeca). La sua recente rinascita ha suscitato interesse nella produzione di vini monovarietali Bianco d'Alessano. A volte viene usato per la produzione di vermouth. 960 ha (2.370 acri) sono stati registrati nel censimento italiano del 2000.
 
 ### In Australia
 

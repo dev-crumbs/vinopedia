@@ -24,7 +24,7 @@ Freisa di Chieri, Freisa Piccola, Freisetta, Fresia, Monferrina, Mounfrina, Span
 ## Origini e parentele
 La Freisa è una delle varietà più antiche e importanti del Piemonte. Anche se c'è qualche dubbio, si pensa che la prima menzione della Freisa sia in un documento del 1517 che parla di un pedaggio a Pancalieri, circa 30 km a sud ovest di Torino; si pagava il doppio per il vino fresearum rispetto ad altri vini (Nada Patrone 1988). La prima descrizione ampelografica affidabile del Freisa fu fatta da Giuseppe Nuvolone Pergamo (1787-98), conte di Scandaluzza.
 
-Il profilo del DNA ha dimostrato che Freisa e [Nebbiolo](/vitigni/Italia/nebbiolo) hanno una relazione genitore-figlio e che Freisa potrebbe avere una stretta relazione genetica con [Viognier](/vitigni/viognier) del Rodano settentrionale (Schneider, Boccacci et al. 2004). Inoltre, Freisa potrebbe essere strettamente imparentata con [Rèze](/vitigni/reze), un'antica varietà del Vallese in Svizzera (Vouillamoz, Schneider et al. 2007).
+Il profilo del DNA ha dimostrato che Freisa e [Nebbiolo](/vitigni/Italia/nebbiolo) hanno una relazione genitore-figlio e che Freisa potrebbe avere una stretta relazione genetica con [Viognier](/vitigni/Francia/viognier) del Rodano settentrionale (Schneider, Boccacci et al. 2004). Inoltre, Freisa potrebbe essere strettamente imparentata con [Rèze](/vitigni/reze), un'antica varietà del Vallese in Svizzera (Vouillamoz, Schneider et al. 2007).
 
 ## Caratteristiche viticole
 - Un vitigno robusto con alti livelli di antociani nelle bacche

@@ -45,7 +45,7 @@ Anche se le origini del Silvaner sono in Austria, i 44 ha (109 acri) piantati l�
 
 ### In Francia
 
-In Francia le piantagioni del vitigno chiamato qui Sylvaner piuttosto che Silvaner sono in calo e si trovano esclusivamente in Alsazia, dove c'è un totale di 1.446 ha (3.573 acri), circa il 10% del totale dei vignoble. Agathe Bursin, Rolly Gassmann, Josmeyer, René Muré, André Ostertag e Domaine Weinbach sono tra i migliori esponenti qui. La varietà può mantenere l'acidità in modo piuttosto proficuo rispetto al [Pinot Blanc](/vitigni/Francia/pinot-blanc) e all'[Auxerrois](/vitigni/auxerrois) che hanno spodestato il Sylvaner perché sono più facili da coltivare. Il Sylvaner si distingue particolarmente sui pendii del Bas-Rhin, specialmente intorno a Mittelbergheim - tanto che nel 2005 il vigneto Zotzenberg è stato riconosciuto come Grand Cru, eccezionalmente, per il suo Sylvaner.
+In Francia le piantagioni del vitigno chiamato qui Sylvaner piuttosto che Silvaner sono in calo e si trovano esclusivamente in Alsazia, dove c'è un totale di 1.446 ha (3.573 acri), circa il 10% del totale dei vignoble. Agathe Bursin, Rolly Gassmann, Josmeyer, René Muré, André Ostertag e Domaine Weinbach sono tra i migliori esponenti qui. La varietà può mantenere l'acidità in modo piuttosto proficuo rispetto al [Pinot Blanc](/vitigni/Francia/pinot-blanc) e all'[Auxerrois](/vitigni/Francia/auxerrois) che hanno spodestato il Sylvaner perché sono più facili da coltivare. Il Sylvaner si distingue particolarmente sui pendii del Bas-Rhin, specialmente intorno a Mittelbergheim - tanto che nel 2005 il vigneto Zotzenberg è stato riconosciuto come Grand Cru, eccezionalmente, per il suo Sylvaner.
 
 ### In Italia
 

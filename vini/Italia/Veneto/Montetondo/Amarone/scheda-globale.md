@@ -1,6 +1,6 @@
 ---
 title: Amarone – Amarone della Valpolicella DOCG – Montetondo – Veneto (IT) – 40-44€ – 3★
-description: Corvina + Corvinone + Rondinella | Guancia di manzo brasata all'Amarone – Capriolo in tecia con funghi e polenta
+description: Corvina + Corvinone + Rondinella | Guancia di manzo brasata all'Amarone – Capriolo in teglia con funghi e polenta
 published: true
 date: 2022-01-15T22:17:16.730Z
 tags: Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Vitigni | Corvina, Prezzi | 40-44€, Vitigni | Rondinella,  Valutazioni | 3 stelle, Alimento | manzo, Alimento | capriolo, Aromatizzazione | al vino, Aromatizzazione | con polenta, Aromatizzazione | con funghi, Cottura | brasato

@@ -20,7 +20,7 @@ Angelica (Trentino), Boschera o Boschera Bianca, Lugana (province di Brescia e V
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Maceratino](/vitigni/Italia/maceratino), [Perera](/vitigni/perera) (talvolta chiamato Pevarise in Veneto), [Trebbiano Romagnolo](/vitigni/Italia/trebbiano-romagnolo), [Verdeca](/vitigni/verdeca) (Puglia), [Verdelho](/vitigni/verdelho) (Sicilia)
+[Maceratino](/vitigni/Italia/maceratino), [Perera](/vitigni/perera) (talvolta chiamato Pevarise in Veneto), [Trebbiano Romagnolo](/vitigni/Italia/trebbiano-romagnolo), [Verdeca](/vitigni/Italia/verdeca) (Puglia), [Verdelho](/vitigni/verdelho) (Sicilia)
 
 
 ## Origini e parentele

@@ -30,7 +30,7 @@ Recenti analisi di parentela del DNA hanno suggerito che Monastrell e [Graciano]
 
 ### Altre ipotesi
 
-Si suppone spesso che il Monastrell, come molte altre varietà, sia stato introdotto in Spagna dai Fenici intorno al 500 a.C. ma non esistono assolutamente prove scientifiche per tale speculazione. Alcuni studiosi hanno suggerito una dubbia relazione genetica tra il Monastrell e il [Vermentino Nero](/vitigni/vermentino-nero) della Toscana ma ciò non è stato ancora testato dall'analisi del DNA.
+Si suppone spesso che il Monastrell, come molte altre varietà, sia stato introdotto in Spagna dai Fenici intorno al 500 a.C. ma non esistono assolutamente prove scientifiche per tale speculazione. Alcuni studiosi hanno suggerito una dubbia relazione genetica tra il Monastrell e il [Vermentino Nero](/vitigni/Italia/vermentino-nero) della Toscana ma ciò non è stato ancora testato dall'analisi del DNA.
 
 ## Caratteristiche viticole
 - Grappoli compatti da piccoli a medi di bacche piccole e medie, dolci e dalla buccia spessa con una caratteristica fioritura

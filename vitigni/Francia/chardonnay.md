@@ -20,7 +20,7 @@ Aubaine (Saône-et-Loire), Auvernat (Auvergne, Orléans), Auxerrois, Auxois (Mos
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Aligoté](/vitigni/Francia/aligote), [Auxerrois](/vitigni/auxerrois), [Melon](/vitigni/melon), [Pinot Blanc](/vitigni/Francia/pinot-blanc), [Sacy](/vitigni/sacy), [Savagnin Blanc](/vitigni/Francia/savagnin-blanc)
+[Aligoté](/vitigni/Francia/aligote), [Auxerrois](/vitigni/Francia/auxerrois), [Melon](/vitigni/melon), [Pinot Blanc](/vitigni/Francia/pinot-blanc), [Sacy](/vitigni/sacy), [Savagnin Blanc](/vitigni/Francia/savagnin-blanc)
 
 
 ## Origini e parentele

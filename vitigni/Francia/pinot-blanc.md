@@ -19,7 +19,7 @@ Auvernat Blanc (Orléanais in northern France), Beli Pinot (Slovenia), Burgunder
 ## Omonimi
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
-[Auxerrois](/vitigni/auxerrois), [Chardonnay](/vitigni/Francia/chardonnay) (Burgundy), [Knipperlé](/vitigni/knipperle) [Melon](/vitigni/melon), [Pignoletto](/vitigni/Italia/pignoletto), [Savagnin Blanc](/vitigni/Francia/savagnin-blanc) (called Clevner or Klävner in Alsace in France and in Baden-Württemberg in Germany)
+[Auxerrois](/vitigni/Francia/auxerrois), [Chardonnay](/vitigni/Francia/chardonnay) (Burgundy), [Knipperlé](/vitigni/knipperle) [Melon](/vitigni/melon), [Pignoletto](/vitigni/Italia/pignoletto), [Savagnin Blanc](/vitigni/Francia/savagnin-blanc) (called Clevner or Klävner in Alsace in France and in Baden-Württemberg in Germany)
 
 
 
@@ -46,9 +46,9 @@ L'introduzione di molti amanti del vino a questa varietà avviene attraverso l'A
 
 ### In Francia
 
-L'area della Francia coltivata a Pinot Bianco è aumentata costantemente fino a raggiungere i 1.565 ha (3.867 acri) alla fine degli anni '80, ma ora sta diminuendo lentamente, raggiungendo i 1.292 ha (3.193 acri) nel 2009, sorprendentemente in fondo alla classifica delle varietà bianche, forse perché così poco è piantato fuori dal suo territorio d'origine, l'Alsazia. Anche lì, è meno significativo in termini di superficie piantata rispetto a Riesling, Silvaner e [Auxerrois](/vitigni/auxerrois), con cui è tradizionalmente miscelato, anche se solo il Pinot Bianco è menzionato sull'etichetta e le statistiche ufficiali dell'Alsazia riportano le due varietà insieme per un totale di 3.331 ha (8.231 acri) nel 2009, più o meno costante negli ultimi dieci anni. Può anche essere incluso nel Crémant d'Alsace. Molto poco è ora coltivato in Borgogna, anche se è ancora tecnicamente ammissibile per l'inclusione nel Bourgogne Blanc.
+L'area della Francia coltivata a Pinot Bianco è aumentata costantemente fino a raggiungere i 1.565 ha (3.867 acri) alla fine degli anni '80, ma ora sta diminuendo lentamente, raggiungendo i 1.292 ha (3.193 acri) nel 2009, sorprendentemente in fondo alla classifica delle varietà bianche, forse perché così poco è piantato fuori dal suo territorio d'origine, l'Alsazia. Anche lì, è meno significativo in termini di superficie piantata rispetto a Riesling, Silvaner e [Auxerrois](/vitigni/Francia/auxerrois), con cui è tradizionalmente miscelato, anche se solo il Pinot Bianco è menzionato sull'etichetta e le statistiche ufficiali dell'Alsazia riportano le due varietà insieme per un totale di 3.331 ha (8.231 acri) nel 2009, più o meno costante negli ultimi dieci anni. Può anche essere incluso nel Crémant d'Alsace. Molto poco è ora coltivato in Borgogna, anche se è ancora tecnicamente ammissibile per l'inclusione nel Bourgogne Blanc.
 
-Il Pinot Bianco fa alcuni dei vini di maggior successo nella regione francese della Mosella, proprio come oltre il confine in Lussemburgo, dove c'erano 144 ha (356 acri) nel 2008 con pochissimi nuovi impianti in questo secolo. L'[Auxerrois](/vitigni/auxerrois) (184 ha/455 acri) è più apprezzato in questo estremo nord a causa della sua utile acidità inferiore.
+Il Pinot Bianco fa alcuni dei vini di maggior successo nella regione francese della Mosella, proprio come oltre il confine in Lussemburgo, dove c'erano 144 ha (356 acri) nel 2008 con pochissimi nuovi impianti in questo secolo. L'[Auxerrois](/vitigni/Francia/auxerrois) (184 ha/455 acri) è più apprezzato in questo estremo nord a causa della sua utile acidità inferiore.
 
 ### In Italia
 

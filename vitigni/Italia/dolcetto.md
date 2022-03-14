@@ -27,7 +27,7 @@ La prima menzione di Dolcetto appare nel 1593 a Dogliani vicino a Cuneo (Comba e
 
 La tesi di Galet (2000) che il Dolcetto sia identico al DOUCE NOIRE della Savoia, conosciuto come Charbono in California ma distinto dal vero (ma non più coltivato commercialmente) Charbono del Piemonte, è stata smentita dal profilo del DNA dell'Università della California a Davis. Alcuni autori consideravano il Dolcetto morfologicamente simile al Primitivo (vedi [Tribidrag](/vitigni/Croazia/tribidrag)) ma studi recenti sul DNA contraddicono questa ipotesi (Calò, Costacurta et al. 2008).
 
-Il Dolcetto è stato incrociato con [Chatus](/vitigni/chatus) per produrre [Passau](/vitigni/passau), [San Martino](/vitigni/Italia/san-martino) e [Valentino Nero](/vitigni/valentino-nero).
+Il Dolcetto è stato incrociato con [Chatus](/vitigni/chatus) per produrre [Passau](/vitigni/passau), [San Martino](/vitigni/Italia/san-martino) e [Valentino Nero](/vitigni/Italia/valentino-nero).
 
 Esiste un Dolcetto Bianco, ma paradossalmente non ha niente a che vedere con il Dolcetto Nero (Schneider e Mannini 2006).
 

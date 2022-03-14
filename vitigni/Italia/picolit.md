@@ -37,7 +37,7 @@ Come molte varietà antiche, si dice che il Picolit sia stato coltivato fin dall
 ## Caratteristiche Viticole
 
 - Vigoroso ma a bassa resa perché i fiori di Picolit spesso producono polline sterile, rendendo difficile la coltivazione e producendo grappoli sciolti con pochi acini 
-- Deve essere piantato insieme ad altre varietà come [Verduzzo Friulano](/vitigni/verduzzo-friulano) per migliorare l'allegagione delle bacche 
+- Deve essere piantato insieme ad altre varietà come [Verduzzo Friulano](/vitigni/Italia/verduzzo-friulano) per migliorare l'allegagione delle bacche 
 - Anche se matura alla fine di settembre o all'inizio di ottobre, di solito si raccoglie molto più tardi
 
 ## Diffusione geografica

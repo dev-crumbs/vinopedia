@@ -67,7 +67,7 @@ La maggior parte delle versioni venete sono piuttosto neutre e, al loro meglio, 
 
 ### Nel resto d'Europa
 
-Il Lussemburgo è relativamente appassionato di Pinot Grigio con un totale di 181 ettari piantati nel 2008, più del Pinot Bianco e poco meno dell'[Auxerrois](/vitigni/auxerrois). Il peso e l'acidità relativamente bassa del Pinot grigio sono utili in questo estremo nord.
+Il Lussemburgo è relativamente appassionato di Pinot Grigio con un totale di 181 ettari piantati nel 2008, più del Pinot Bianco e poco meno dell'[Auxerrois](/vitigni/Francia/auxerrois). Il peso e l'acidità relativamente bassa del Pinot grigio sono utili in questo estremo nord.
 
 In Germania, la varietà conosciuta come Grauburgunder, Grauer Burgunder o (occasionalmente) Ruländer è il quarto vitigno bianco più piantato nel paese, con 4.481 ha (11.073 acri) nel 2008, concentrati in Baden, Rheinhessen e Pfalz. I produttori raccomandati sono Bercher, Dr Heger, Franz Keller e specialmente Salwey in Baden. Il Ruländer è generalmente usato per stili più dolci, anche se i tradizionalisti Reinhold & Cornelia Schneider di Baden fanno una versione secca molto buona. Ha bisogno di un buon sito con terreni profondi e pesanti per massimizzare l'impressionante livello di estratto di cui è capace.
 

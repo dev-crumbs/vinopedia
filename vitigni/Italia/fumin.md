@@ -25,7 +25,7 @@ Nera
 
 Il Fumin è una delle varietà più antiche della Valle d'Aosta, citata nel 1785 con il nome dialettale Fumen (Vouillamoz e Moriondo 2011). Il nome Fumin potrebbe derivare dal francese fumée, che significa "fumo" (la Valle d'Aosta era una zona francofona fino al XIX secolo), in riferimento allo strato ceroso che ricopre gli acini maturi.
 
-Studi sul DNA hanno stabilito che il Fumin è un genitore dell'oscura varietà valdostana [Vuillermin](/vitigni/vuillermin), e un fratello del [Petit Rouge](/vitigni/Italia/petit-rouge), l'uva più diffusa in Valle d'Aosta (Vouillamoz e Moriondo 2011).
+Studi sul DNA hanno stabilito che il Fumin è un genitore dell'oscura varietà valdostana [Vuillermin](/vitigni/Francia/vuillermin), e un fratello del [Petit Rouge](/vitigni/Italia/petit-rouge), l'uva più diffusa in Valle d'Aosta (Vouillamoz e Moriondo 2011).
 
 ### Altre Ipotesi
 
