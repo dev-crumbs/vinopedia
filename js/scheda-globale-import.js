@@ -6,8 +6,8 @@ export function schedaGlobaleImport() {
   const listCheck = document.querySelector("div[role='list'] .v-list-item__title")
   d3.text(`/vini/listone.csv`).then(function(data) {
       const csv = d3.csvParse(data);
-      const filterGlobalCSV = function(d) {return d.Nome == headlineFull[0] && d.Produttore == headlineFull[2].replaceAll(' ', '-').replaceAll('é', 'e') && d.Entry === "1"}
-      const filterSingleCSV = function(d) {return d.Nome == headlineFull[0] && d.Produttore == headlineFull[2].replaceAll(' ', '-').replaceAll('é', 'e') && d.Entry === "2"}
+      const filterGlobalCSV = function(d) {return d.Nome == headlineFull[0] && d.Produttore == headlineFull[2].replaceAll('é', 'e') && d.Entry === "1"}
+      const filterSingleCSV = function(d) {return d.Nome == headlineFull[0] && d.Produttore == headlineFull[2].replaceAll('é', 'e') && d.Entry === "2"}
       //tutte le annate
       const nomeCSV = csv.filter(filterGlobalCSV)[0].Nome;
       const regioneCSV = csv.filter(filterGlobalCSV)[0].Regione;
