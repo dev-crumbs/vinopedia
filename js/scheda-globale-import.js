@@ -51,7 +51,7 @@ export function schedaGlobaleImport() {
         d3.select('.abbinamento').append("li").text(i)
       }
       for (const i of annateCSVArray) {
-        d3.select('.annate').append("li").html(`${nomeCSV} <a href="/vini/${nazioneCSV}/${regioneCSV}/${produttoreCSV.replaceAll(' ', '-')}/${nomeCSV.replaceAll(' ', '-').replaceAll("'", '')}/${i.Anno}">${i.Anno}</a> -- <span class="${i.Valutazione}"></span> -- ${i.PunteggioMedio}/100`)
+        d3.select('.annate').append("li").html(`${nomeCSV} <a href="/vini/${nazioneCSV}/${regioneCSV}/${produttoreCSV.replaceAll(' ', '-')}/${nomeCSV.replaceAll(' ', '-').replaceAll("'", '')}/${i.Anno}">${i.Anno}</a> -- <span class="star-${i.Valutazione}"></span> -- ${i.PunteggioMedio}/100`)
       }
       // add ittle to list
       if (listCheck == null){return;} else {
