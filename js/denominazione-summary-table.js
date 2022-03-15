@@ -86,6 +86,15 @@ export function denominazioneSummaryTable(){
         fourthTh.setAttribute("scope","col");
         fourthTh.setAttribute("data-type","number");
         fourthTh.classList.add("table__header");
+      //hide sv cells on mobile
+      if (window.innerWidth < 600) {
+        for (const i of document.querySelectorAll("td")) {
+          if (i.textContent.includes("sv")) {
+            i.style.display = "none"
+          }
+        }
+      }  
     });
   })
 }
+  

@@ -37,7 +37,6 @@ export function schedaGlobaleImport() {
       d3.select('.caratteristiche li:nth-child(4)').append().html(` <a href="/produttori/${nazioneCSV}/${regioneCSV}/${produttoreCSV.replaceAll(' ', '-')}">${produttoreCSV}</a>`)
       for (const i of composizioneArray) {
         const cleanVitigno = i.split(/( \d+)/)[0]
-        console.log(cleanVitigno)
         if (!--composizioneLength){
           d3.select('.caratteristiche li:nth-child(5)').append().html(` <a href="/vitigni/${nazioneCSV}/${cleanVitigno.replaceAll(' ', '-').replaceAll("’", "-").toLowerCase()}">${i}</a>`)          
         } else {
