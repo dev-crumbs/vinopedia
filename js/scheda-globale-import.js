@@ -3,6 +3,8 @@ export function schedaGlobaleImport() {
   if (tempCheck == null){return;}
   //page headline input
   const headlineFull = document.querySelector(".headline").innerText.split(' – ')
+  //console.log(headlineFull[0])
+  //console.log(headlineFull[2])
   const listCheck = document.querySelector("div[role='list'] .v-list-item__title")
   d3.text(`/vini/listone.csv`).then(function(data) {
       const csv = d3.csvParse(data);
@@ -34,13 +36,13 @@ export function schedaGlobaleImport() {
       d3.select('.caratteristiche li:nth-child(1)').append().text(" " + nomeCSV)
       d3.select('.caratteristiche li:nth-child(2)').append().text(" " + tipoCSV)
       d3.select('.caratteristiche li:nth-child(3)').append().html(` <a href="/denominazioni/${nazioneCSV}/${regioneCSV}/${classificazioneCSV}-${denominazioneCSV.replaceAll(' ', '-')}">${denominazioneCSV} ${classificazioneCSV}</a> | ${menzioniCSV}`)
-      d3.select('.caratteristiche li:nth-child(4)').append().html(` <a href="/produttori/${nazioneCSV}/${regioneCSV}/${produttoreCSV.replaceAll(' ', '-')}">${produttoreCSV}</a>`)
+      d3.select('.caratteristiche li:nth-child(4)').append().html(` <a href="/produttori/${nazioneCSV}/${regioneCSV}/${produttoreCSV.replaceAll("' ", '-').replaceAll(' ', '-')}">${produttoreCSV}</a>`)
       for (const i of composizioneArray) {
         const cleanVitigno = i.split(/( \d+)/)[0]
         if (!--composizioneLength){
-          d3.select('.caratteristiche li:nth-child(5)').append().html(` <a href="/vitigni/${nazioneCSV}/${cleanVitigno.replaceAll(' ', '-').replaceAll("’", "-").toLowerCase()}">${i}</a>`)          
+          d3.select('.caratteristiche li:nth-child(5)').append().html(` <a href="/vitigni/${nazioneCSV}/${cleanVitigno.replaceAll(' ', '-').replaceAll("'", "-").toLowerCase()}">${i}</a>`)          
         } else {
-          d3.select('.caratteristiche li:nth-child(5)').append().html(` <a href="/vitigni/${nazioneCSV}/${cleanVitigno.replaceAll(' ', '-').toLowerCase()}">${i}</a> -`)
+          d3.select('.caratteristiche li:nth-child(5)').append().html(` <a href="/vitigni/${nazioneCSV}/${cleanVitigno.replaceAll(' ', '-').replaceAll("'", "-").toLowerCase()}">${i}</a> -`)
         }
       }
       d3.select('.caratteristiche li:nth-child(6)').append().text(" " + affinamentoCSV)
@@ -50,7 +52,7 @@ export function schedaGlobaleImport() {
         d3.select('.abbinamento').append("li").text(i)
       }
       for (const i of annateCSVArray) {
-        d3.select('.annate').append("li").html(`${nomeCSV} <a href="/vini/${nazioneCSV}/${regioneCSV}/${produttoreCSV.replaceAll(' ', '-')}/${nomeCSV.replaceAll(' ', '-').replaceAll("'", '')}/${i.Anno}">${i.Anno}</a> -- <span class="star-${i.Valutazione}"></span> -- ${i.PunteggioMedio}/100`)
+        d3.select('.annate').append("li").html(`${nomeCSV} <a href="/vini/${nazioneCSV}/${regioneCSV}/${produttoreCSV.replaceAll("' ", '-').replaceAll(' ', '-').replaceAll("'", '-')}/${nomeCSV.replaceAll(' ', '-').replaceAll("'", '-')}/${i.Anno}">${i.Anno}</a> -- <span class="star-${i.Valutazione}"></span> -- ${i.PunteggioMedio}/100`)
       }
       // add ittle to list
       if (listCheck == null){return;} else {
