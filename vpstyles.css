@@ -49,13 +49,30 @@ table.denominazione-table th:nth-child(2) {text-align: left; cursor:pointer }
   table.denominazione-table td:nth-child(3){text-align: center}
 }
 @media screen and (max-width: 599px) {
-  table.denominazione-table tbody tr{height:160px; overflow-y:auto}
+  table.denominazione-table tbody td{padding:0px 3px!important}
+  table.denominazione-table tbody tr{max-height: 140px; margin-bottom: 20px;overflow-y:auto}
+  table.denominazione-table td:nth-child(1){
+      position:sticky;
+      background-color: #f2f2f2;
+      top:0px
+  }
+  table.denominazione-table td:nth-child(2){
+      position:sticky;
+      background-color: #f2f2f2;
+      top:20px
+  } 
   table.denominazione-table td:nth-child(3){
       position:sticky;
       background-color: #f2f2f2;
-      top:52px
+      top:40px
   }
-  
+  table.denominazione-table td:nth-child(4){
+      position:sticky;
+      background-color: #f2f2f2;
+      top:61px
+  }
+  table.denominazione-table th:nth-child(4) {display:block!important}
+  table.denominazione-table th{padding:0px}
 }
 /* #endregion */
 
@@ -65,7 +82,7 @@ width:90%;
 margin:auto
 }
 
-table.summary-table td,table.summary-table th{ padding: 3px 6px!important}
+table.summary-table td,table.summary-table th{ padding: 3px 6px!important;}
 
 table.summary-table th:nth-child(1) {text-align: left; cursor:pointer }
 table.summary-table th:nth-child(1n+4) {text-align: right;}
@@ -79,7 +96,7 @@ table.summary-table td:nth-child(1n+4) {text-align: right;}
   .summary-table td {
     border-bottom: 1px solid #ddd;
     display: block;
-    font-size: .8em;
+    font-size: 0.8em;
     text-align: right; }
   .summary-table td::before {
     content: attr(data-th);
@@ -106,6 +123,7 @@ table.summary-table td:nth-child(1n+4) {text-align: right;}
   table.summary-table th:nth-child(1n-3) {
     border-bottom: 0px solid transparent!important; 
     font-size: 90%;
+    padding:0px 5px!important
   }
 
   .summary-table caption {
@@ -126,11 +144,9 @@ table.summary-table td:nth-child(1n+4) {text-align: right;}
   table.summary-table td:nth-child(2),table.summary-table td:nth-child(1){
       position:sticky;
       background-color: #f2f2f2;
-      top:0px
-  }
+      top: 0px;}
   table.summary-table td:nth-child(2){
-      top:26px
-  }
+      top: 20px;}
 }
 
 @media screen and (min-width: 600px) {
@@ -373,6 +389,10 @@ table.summary-table td:nth-child(1n+4) {text-align: right;}
 /*first word bold description vitigni*/
 .description-bold {
   font-weight: 900;
+}
+/*hide icon in vertical navigation*/
+.v-navigation-drawer__content a[tabindex="0"] .v-avatar.v-list-item__avatar{
+display:none
 }
 
 .v-list-item__subtitle.caption,

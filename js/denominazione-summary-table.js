@@ -33,6 +33,11 @@ export function denominazioneSummaryTable(){
         .text(function (d) {
           return d.value;
         });
+      //aggiungi €
+      const prezzoAll = el.querySelectorAll("td[data-th='Prezzo Medio']");
+      for (const i of prezzoAll) {
+        i.innerText += "€"
+      }
       const nomeAll = el.querySelectorAll("td[data-th='Vino']");
       nomeAll.forEach(i =>{
         const nome = i.innerText.replaceAll(' ', '-').replaceAll('é','e')
@@ -77,7 +82,10 @@ export function denominazioneSummaryTable(){
       const thirdTh = el.querySelector('th:nth-child(3)');
         thirdTh.setAttribute("scope","col");
         thirdTh.classList.add("table__header");
+      const fourthTh = el.querySelector('th:nth-child(4)');
+        fourthTh.setAttribute("scope","col");
+        fourthTh.setAttribute("data-type","number");
+        fourthTh.classList.add("table__header");
     });
   })
 }
-  

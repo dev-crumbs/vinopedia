@@ -4,7 +4,7 @@ description: Moscato giallo 100% | Baccalà mantecato – crepe pere e noci – 
 published: true
 date: 2021-10-01T20:15:26.483Z
 tags: Vinificazione | bianco, Vinificazione | varietale, Regione | Veneto (IT), Alimento | baccalà, Cottura | mantecato, Valutazioni | 5 stelle, Vinificazione | passito, Vitigni | Moscato Giallo, Alimento | crepe, Aromatizzazione | pere e noci, Alimento | cioccolato, Aromatizzazione | frutto della passione, Prezzi | 20-24€
-editor: markdown
+editor: code
 dateCreated: 2021-08-31T15:46:53.719Z
 ---
 
@@ -20,11 +20,6 @@ dateCreated: 2021-08-31T15:46:53.719Z
 - **Alcol:** 13.5%
 - **Fascia di prezzo:** 20-24€
 {.grid-list}
-
-## Descrizione del produttore
-
-> II prestigioso “Gavi dei Gavi”® La Scolca® è ottenuto attraverso il più rigoroso rispetto della natura, delle più antiche e tradizionali regole di coltivazione, dalla potatura fino alla vendemmia con una severa ed attenta selezione nei vigneti che raggiungono i sessant’anni d’età. In cantina, con tecniche di vinificazione affinate in oltre 100 anni di esperienza, nasce un modello di Gavi tuttora insuperato: un termine di paragone e riferimento, frutto di una lunga tradizione da generazioni. Un vino che stupisce: contrappone ad un profumo delicato un carattere forte ed una grande personalità. Un vino sospeso nel tempo. Vivo ed intenso, armonioso ed equilibrato offre una sorprendente freschezza e continuità. I complessi sentori di pietra focaia, mandorla e noce sanno evolversi nel tempo: un vino con l’anima del fanciullo, ma con il cuore da adulto.
-
 
 ## Possibili abbinamenti
 *Vedere le singole annate per abbinamenti specifici*
