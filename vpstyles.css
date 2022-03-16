@@ -32,7 +32,6 @@ table.produttore-table th:nth-child(2) {min-width: 110px; cursor:pointer}
   [role="region"][aria-labelledby][tabindex] {
     width: 90%;
     max-height: 500px;
-    min-height: 200px; /*for hiding overflow while spinner is visible*/
     overflow: auto;
   }
   [role="region"][aria-labelledby][tabindex]:focus {
@@ -287,7 +286,8 @@ table.summary-table td:nth-child(1n+4) {text-align: right;}
 
 /* #region TABLE GLOBAL CODE */
 .table-container{
-  overflow-x:auto 
+  overflow-x:auto;
+  min-height: 200px; /*for hiding overflow while spinner is visible*/
 }
 .table__header:after{
   font-family: "Font Awesome 5 Free";
