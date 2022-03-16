@@ -50,6 +50,10 @@ export function denominazioneSummaryTable(){
         i.prepend(node)
         i.setAttribute("title",i.innerText)
       });
+      const produttoreAll = el.querySelectorAll("td[data-th='Produttore']");
+      for (i of produttoreAll){
+        i.setAttribute("title",i.innerText)
+      }
       const tdAll = el.querySelectorAll("td")
       tdAll.forEach(j =>{  
         if (j.textContent.includes("sv")) {

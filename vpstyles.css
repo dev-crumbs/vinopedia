@@ -28,105 +28,152 @@ table.produttore-table th:nth-child(2) {min-width: 110px; cursor:pointer}
 /* #endregion */
 
 /* #region SUMMARY TABLES DENOMINAZIONE*/
-[role="region"][aria-labelledby][tabindex] {
-  width: 90%;
-  max-height: 500px;
-  overflow: auto;
-}
-[role="region"][aria-labelledby][tabindex]:focus {
-  box-shadow: 0 0 0.5em rgba(0, 0, 0, 0.5);
-  outline: 0;
-}
-table.denominazione-table {
-  margin:auto;
-  white-space: nowrap;
-  border: none;
-  border-collapse: separate;
-  border-spacing: 0;
-  table-layout: fixed;
-}
-table.denominazione-table thead th {
-  padding: 3px;
-  position: sticky;
-  top: 0;
-  z-index: 1;
-  width: 25vw;
-  background: white;
-}
-table.denominazione-table td {
-  background: #fff;
-  padding: 4px 5px;
-  text-align: center;
+@media screen and (min-width: 599px) {
+  [role="region"][aria-labelledby][tabindex] {
+    width: 95%;
+    max-height: 500px;
+    overflow: auto;
+  }
+  [role="region"][aria-labelledby][tabindex]:focus {
+    outline: 0;
+  }
+  table.denominazione-table {
+    margin:auto;
+    white-space: nowrap;
+    border: none;
+    border-collapse: separate;
+    border-spacing: 0;
+    table-layout: fixed;
+  }
+  table.denominazione-table th {
+    padding: 3px;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    width: 25vw;
+    background: white;
+    text-align: left
+  }
+  table.denominazione-table th:nth-child(3) {
+    max-width: 80px
+  }
+  table.denominazione-table th:nth-child(4) {
+    max-width: 80px
+  }
+  table.denominazione-table td,table.denominazione-table th {
+    background: #fff;
+    max-width: 102px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;      
+  }
+  table.denominazione-table td:nth-child(2) {
+    max-width: 240px;
+  }
+  table.denominazione-table th:nth-child(1) {
+    position: sticky;
+    left: 0;
+    z-index: 2;
+  }
+  table.denominazione-table td:nth-child(1){
+    position:sticky;
+    left:0px
+  }
+  table.denominazione-table th:nth-child(2) {
+    position: sticky;
+    left: 102px;
+    z-index: 2;
+  }
+  table.denominazione-table td:nth-child(2){
+    position:sticky;
+    left:102px
+  }
+  table.denominazione-table th:nth-child(4) {
+    position: sticky;
+    left: 342px;
+    z-index: 2;
+  }
+  table.denominazione-table td:nth-child(4){
+    position:sticky;
+    left:342px
+  }
+  table.denominazione-table th:nth-child(5) {
+    position: sticky;
+    left: 422px;
+    z-index: 2;
+  }
+  table.denominazione-table td:nth-child(5){
+    position:sticky;
+    left:422px
+  }
 }
 
-table.denominazione-table tbody th {
-  font-weight: 100;
-  font-style: italic;
-  text-align: left;
-  position: relative;
-}
-table.denominazione-table thead th:first-child {
-  position: sticky;
-  left: 0;
-  z-index: 2;
-}
-table.denominazione-table tbody th {
-  position: sticky;
-  left: 0;
-  background: white;
-  z-index: 1;
-}
-caption {
-  text-align: left;
-  padding: 0.25rem;
-  position: sticky;
-  left: 0;
-}
-/*table.denominazione-table td:nth-child(1),table.denominazione-table td:nth-child(2) {
-text-overflow: ellipsis;
-overflow: hidden;
-white-space: nowrap;      
-}
-table.denominazione-table th:nth-child(2) {text-align: left; cursor:pointer }
-@media screen and (min-width: 600px) {
-  table.denominazione-table td:nth-child(2),table.denominazione-table th:nth-child(2){
-    position:sticky;
-    background-color: white;
-    left:100px;
-    max-width: 177px;
-  }
-  table.denominazione-table td:nth-child(3),table.denominazione-table th:nth-child(3){
-    position:sticky;
-    background-color: white;
-    left:277px
-  }
-  table.denominazione-table td:nth-child(3),table.denominazione-table td:nth-child(4){text-align: center}
-}*/
 @media screen and (max-width: 599px) {
-  table.denominazione-table tbody td{padding:0px 3px!important}
-  table.denominazione-table tbody tr{max-height: 140px; margin-bottom: 20px;overflow-y:auto}
-  table.denominazione-table td:nth-child(1){
+  .denominazione-table tbody tr{max-height: 140px; margin-bottom: 20px;overflow-y:auto}
+  .denominazione-table tbody td{padding:0px 3px!important}
+  
+  .denominazione-table tr {
+    border-bottom: 3px solid #ddd;
+    display: block;
+    margin-bottom: .625em; }
+  .denominazione-table td {
+    border-bottom: 1px solid #ddd;
+    display: block;
+    font-size: 0.8em;
+    text-align: right; }
+  .denominazione-table td::before {
+    content: attr(data-th);
+    float: left;
+    font-weight: bold;
+    text-transform: uppercase; }
+  .denominazione-table td:last-child {
+    border-bottom: 0; } 
+
+  .denominazione-table thead {
+    border: none;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    /*position: absolute;*/
+    width: 1px; }
+  .denominazione-table thead tr {
+    display: flex;
+    justify-content: end;
+  }
+  .denominazione-table th{display:none}
+  .denominazione-table th:nth-child(1),.denominazione-table th:nth-child(2),.denominazione-table th:nth-child(4),.denominazione-table th:nth-child(5) {display:block}
+  .denominazione-table th{padding:0px}
+  .denominazione-table th:nth-child(1n-3) {
+    border-bottom: 0px solid transparent!important; 
+    font-size: 90%;
+    padding:0px 5px!important
+  }
+  .denominazione-table {
+    border: 0; 
+    margin: auto!important;
+  }
+  .denominazione-table td:nth-child(1){
       position:sticky;
       background-color: #f2f2f2;
       top:0px
   }
-  table.denominazione-table td:nth-child(2){
+  .denominazione-table td:nth-child(2){
       position:sticky;
       background-color: #f2f2f2;
       top:20px
   } 
-  table.denominazione-table td:nth-child(3){
+  .denominazione-table td:nth-child(4){
       position:sticky;
       background-color: #f2f2f2;
       top:40px
   }
-  table.denominazione-table td:nth-child(4){
+  .denominazione-table td:nth-child(5){
       position:sticky;
       background-color: #f2f2f2;
-      top:61px
+      top:60px
   }
-  table.denominazione-table th:nth-child(4) {display:block!important}
-  table.denominazione-table th{padding:0px}
 }
 /* #endregion */
 
