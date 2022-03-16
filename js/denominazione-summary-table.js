@@ -34,7 +34,7 @@ export function denominazioneSummaryTable(){
           return d.value;
         });
       //aggiungi €
-      const prezzoAll = el.querySelectorAll("td[data-th='Prezzo Medio']");
+      const prezzoAll = el.querySelectorAll("td[data-th='Prezzo']");
       for (const i of prezzoAll) {
         i.innerText += "€"
       }
