@@ -117,6 +117,10 @@ export function denominazioneSummaryTable(){
           }
         }
       }  
-    }).then(function(){document.querySelector(".loader").remove()});
+    }).then(function(){
+      const tempCheck = document.querySelector(".loader")
+      if (tempCheck == null){return;} 
+      document.querySelector(".loader").remove()
+    });
   })
 }
