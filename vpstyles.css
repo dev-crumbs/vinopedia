@@ -616,8 +616,7 @@ max-width: 350px
   width: 25px;
   height: 25px;
   animation: spin 0.9s linear infinite;
-  left: 50%;
-  top: 0;
+  left: calc(50% - 25px);
   position: relative
 }
 
