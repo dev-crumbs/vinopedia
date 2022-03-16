@@ -54,6 +54,10 @@ export function denominazioneSummaryTable(){
       for (const i of produttoreAll){
         i.setAttribute("title",i.innerText)
       }
+      const thAll = el.querySelectorAll("thead th");
+      for (const i of thAll){
+        i.setAttribute("title",i.innerText)
+      }
       const tdAll = el.querySelectorAll("td")
       tdAll.forEach(j =>{  
         if (j.textContent.includes("sv")) {
