@@ -55,7 +55,7 @@ export function denominazioneSummaryTable(){
         if (j.textContent.includes("sv")) {
           j.style.color = "lightgray"
           //console.log(td.innerText.length)
-        } else if (j.innerText.length <= 3){
+        } else if (j.innerText.length <= 2){
           j.classList.add("star-table")
         }
       })
@@ -73,6 +73,21 @@ export function denominazioneSummaryTable(){
           k.style.color = "#252525"
         } 
       })
+      const mediaPesataAll = el.querySelectorAll("td[data-th='Media Pesata']")
+      mediaPesataAll.forEach(k =>{
+        k.style.fontWeight = "900"
+        if (k.innerText >= 0 && k.innerText <= 0.9 ){
+          k.style.color = "#cecece"
+        } else if (k.innerText >= 1 && k.innerText <= 1.5 ) {
+          k.style.color = "#a0a0a0"
+        } else if (k.innerText >= 1.6 && k.innerText <= 2.5 ) {
+          k.style.color = "#747474"
+        } else if (k.innerText >= 2.6 && k.innerText <= 3.4 ) {
+          k.style.color = "#4b4b4b"
+        } else if (k.innerText >= 3.5 && k.innerText <= 5 ) {
+          k.style.color = "#252525"
+        } 
+      })
       const firstTh = el.querySelector('th:nth-child(1)');
         firstTh.setAttribute("scope","col");
         firstTh.classList.add("table__header");
@@ -84,11 +99,8 @@ export function denominazioneSummaryTable(){
         thirdTh.classList.add("table__header");
       const fourthTh = el.querySelector('th:nth-child(4)');
         fourthTh.setAttribute("scope","col");
+        fourthTh.setAttribute("data-type","number");
         fourthTh.classList.add("table__header");
-      const fifthTh = el.querySelector('th:nth-child(5)');
-        fifthTh.setAttribute("scope","col");
-        fifthTh.setAttribute("data-type","number");
-        fifthTh.classList.add("table__header");
       //hide sv cells on mobile
       if (window.innerWidth < 600) {
         for (const i of document.querySelectorAll("td")) {
@@ -100,4 +112,3 @@ export function denominazioneSummaryTable(){
     });
   })
 }
-  
