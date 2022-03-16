@@ -84,8 +84,11 @@ export function denominazioneSummaryTable(){
         thirdTh.classList.add("table__header");
       const fourthTh = el.querySelector('th:nth-child(4)');
         fourthTh.setAttribute("scope","col");
-        fourthTh.setAttribute("data-type","number");
         fourthTh.classList.add("table__header");
+      const fifthTh = el.querySelector('th:nth-child(5)');
+        fifthTh.setAttribute("scope","col");
+        fifthTh.setAttribute("data-type","number");
+        fifthTh.classList.add("table__header");
       //hide sv cells on mobile
       if (window.innerWidth < 600) {
         for (const i of document.querySelectorAll("td")) {
