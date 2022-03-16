@@ -51,7 +51,7 @@ export function denominazioneSummaryTable(){
         i.setAttribute("title",i.innerText)
       });
       const produttoreAll = el.querySelectorAll("td[data-th='Produttore']");
-      for (i of produttoreAll){
+      for (const i of produttoreAll){
         i.setAttribute("title",i.innerText)
       }
       const tdAll = el.querySelectorAll("td")
