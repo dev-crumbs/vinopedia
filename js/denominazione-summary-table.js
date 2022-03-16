@@ -113,6 +113,6 @@ export function denominazioneSummaryTable(){
           }
         }
       }  
-    });
+    }).then(function(){document.querySelector(".loader").remove()});
   })
 }
