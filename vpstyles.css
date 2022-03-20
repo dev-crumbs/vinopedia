@@ -632,7 +632,9 @@ max-width: 350px
 	padding-bottom: 100%; 
 	vertical-align: middle; 
 	overflow: hidden;
-  max-width: 512px 
+  max-width: 512px;
+  resize: horizontal;
+  overflow: auto; 
 }
 
 .svg-content {
