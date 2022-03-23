@@ -123,7 +123,7 @@ export function denominazioneSummaryTable(){
     }).then(function(){
       const tempCheck = document.querySelector(".loader")
       if (tempCheck == null){return;} 
-      document.querySelector(".loader").remove()
+      document.querySelector(".loader-container").remove()
     });
   })
 }
