@@ -613,10 +613,13 @@ max-width: 350px
 .svg-container {
   display: inline-block;
 	position: relative;
-	width: 100%;
-	padding-bottom: 100%; 
+	width: 512px;
+  height: 512px;
 	vertical-align: middle; 
-	overflow: hidden; 
+	overflow: auto;
+  resize: both;
+  max-width:1024px;
+  max-height: 1024px 
 }
 
 .svg-content {
@@ -624,8 +627,6 @@ max-width: 350px
 	position: absolute;
 	top: 0;
 	left: 0;
-  resize: horizontal;
-  overflow: auto;
 }
 /* #endregion */
 
