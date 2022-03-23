@@ -609,22 +609,7 @@ max-width: 350px
 
 /* #endregion */
 
-.loader {
-  border: 10px solid #f3f3f3; /* Light grey */
-  border-top: 10px solid #3498db; /* Blue */
-  border-radius: 50%;
-  width: 25px;
-  height: 25px;
-  animation: spin 0.9s linear infinite;
-  left: calc(50% - 25px);
-  position: relative
-}
-
-@keyframes spin {
-  0% { transform: rotate(0deg); }
-  100% { transform: rotate(360deg); }
-}
-
+/* #region SVG CSS*/
 .svg-container {
   display: inline-block;
 	position: relative;
@@ -641,4 +626,29 @@ max-width: 350px
 	left: 0;
   resize: horizontal;
   overflow: auto;
+}
+/* #endregion */
+
+.loader {
+  border: 10px solid #f3f3f3; /* Light grey */
+  border-top: 10px solid #3498db; /* Blue */
+  border-radius: 50%;
+  width: 25px;
+  height: 25px;
+  animation: spin 0.9s linear infinite;
+  left: calc(50% - 25px);
+  position: relative
+}
+
+@keyframes spin {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+@media only screen and (max-width:599px) {
+  .loader {
+    left: calc(50% - 25px);
+    top: 50vh;
+    position: absolute
+  }
 }
