@@ -25,7 +25,7 @@ dateCreated: 2021-09-02T14:33:13.149Z
 - **Millesimo:** millesimato
 - **Tecnica:** Metodo Classico
 - **Contenuto zuccherino:** Brut
-- **Affinamento:** ?
+- **Affinamento:** 60 mesi sui lieviti
 {.grid-list}
 
 ## Possibili abbinamenti
@@ -34,5 +34,6 @@ dateCreated: 2021-09-02T14:33:13.149Z
 
 ## Annate
 - On Attend Les Invités Brut Rosé [2013](/vini/Italia/Emilia/Luretta/On-Attend-Les-Invites-Brut-Rose/2013) -- <span class="star-2"></span> -- 84/100
+- On Attend Les Invités Brut Rosé [2017](/vini/Italia/Emilia/Luretta/On-Attend-Les-Invites-Brut-Rose/2017) -- <span class="star-2"></span> -- 84/100
 
 
