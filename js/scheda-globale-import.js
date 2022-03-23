@@ -38,11 +38,12 @@ export function schedaGlobaleImport() {
       d3.select('.caratteristiche li:nth-child(3)').append().html(` <a href="/denominazioni/${nazioneCSV}/${regioneCSV}/${classificazioneCSV}-${denominazioneCSV.replaceAll(' ', '-')}">${denominazioneCSV} ${classificazioneCSV}</a> | ${menzioniCSV}`)
       d3.select('.caratteristiche li:nth-child(4)').append().html(` <a href="/produttori/${nazioneCSV}/${regioneCSV}/${produttoreCSV.replaceAll("' ", '-').replaceAll(' ', '-')}">${produttoreCSV}</a>`)
       for (const i of composizioneArray) {
-        const cleanVitigno = i.split(/( \d+)/)[0]
+        const cleanVitigno = i.split(/( \d+)/)[0].replaceAll(' ', '-').replaceAll("'", "-").toLowerCase()
+        function nationCheck(){switch(cleanVitigno){case"cabernet-sauvignon":case"cabernet-franc":case"carmenere":return"Francia";case"pinot-nero":return"Francia";default:return"Italia"}}
         if (!--composizioneLength){
-          d3.select('.caratteristiche li:nth-child(5)').append().html(` <a href="/vitigni/${nazioneCSV}/${cleanVitigno.replaceAll(' ', '-').replaceAll("'", "-").toLowerCase()}">${i}</a>`)          
+          d3.select('.caratteristiche li:nth-child(5)').append().html(` <a href="/vitigni/${nationCheck()}/${cleanVitigno}">${i}</a>`)          
         } else {
-          d3.select('.caratteristiche li:nth-child(5)').append().html(` <a href="/vitigni/${nazioneCSV}/${cleanVitigno.replaceAll(' ', '-').replaceAll("'", "-").toLowerCase()}">${i}</a> -`)
+          d3.select('.caratteristiche li:nth-child(5)').append().html(` <a href="/vitigni/${nationCheck()}/${cleanVitigno}">${i}</a> -`)
         }
       }
       d3.select('.caratteristiche li:nth-child(6)').append().text(" " + affinamentoCSV)
