@@ -30,4 +30,4 @@ La Barbera del Sannio è locale a Castelvenere nella Valle Telesina, in provinci
 - Relativamente resistente al marciume botritico del grappolo grazie alle bucce spesse.
 
 ## Diffusione geografica
-La Barbera del Sannio un tempo era un colorante piuttosto anonimo negli assemblaggi. Oggi, tuttavia, un numero crescente di produttori sta facendo vini varietali profondamente colorati, di medio corpo e profumati che sono stati autorizzati all'interno della denominazione Sannio in Campania, Italia, dal 1997. Tra i produttori raccomandati ci sono 'A Canc'llera e l'Antica Masseria Venditti (con il sinonimo di Barbetta) e Anna Bosco.
+La Barbera del Sannio un tempo era un colorante piuttosto anonimo nei blend. Oggi, tuttavia, un numero crescente di produttori sta facendo vini varietali profondamente colorati, di medio corpo e profumati che sono stati autorizzati all'interno della denominazione Sannio in Campania, Italia, dal 1997. Tra i produttori raccomandati ci sono 'A Canc'llera e l'Antica Masseria Venditti (con il sinonimo di Barbetta) e Anna Bosco.

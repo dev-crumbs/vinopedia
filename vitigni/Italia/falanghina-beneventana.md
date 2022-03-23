@@ -32,7 +32,7 @@ Maturazione da media a tardiva.
 
 ## Diffusione geografica
 
-La Falanghina è elencata in molte DOC della Campania, del sud Italia, alcune in assemblaggio, altre varietali. I regolamenti non fanno la distinzione tra Falanghina Beneventana e [Falanghina flegrea](/vitigni/Italia/falanghina-flegrea) ma sembra probabile che la prima sia piantata e usata in quelle a nord e ad est di Napoli, come Taburno, Guardia Sanframondi (o Guardiolo), Sannio, Sant'Agata dei' Goti e Solopaca. C'è anche un IGT chiamato Falanghina Beneventana. La varietà è adatta a vini spumanti e passiti, così come a vini fermi e secchi, che sono di solito non cotti e generalmente meno aromatici della Falanghina Flegrea.
+La Falanghina è elencata in molte DOC della Campania, del sud Italia, alcune in blend, altre varietali. I regolamenti non fanno la distinzione tra Falanghina Beneventana e [Falanghina flegrea](/vitigni/Italia/falanghina-flegrea) ma sembra probabile che la prima sia piantata e usata in quelle a nord e ad est di Napoli, come Taburno, Guardia Sanframondi (o Guardiolo), Sannio, Sant'Agata dei' Goti e Solopaca. C'è anche un IGT chiamato Falanghina Beneventana. La varietà è adatta a vini spumanti e passiti, così come a vini fermi e secchi, che sono di solito non cotti e generalmente meno aromatici della Falanghina Flegrea.
 
 Il censimento ufficiale italiano del 2000 elenca solo "Falanghina", quindi è impossibile dire quanto dei 1.721 ha (4.253 acri) sia Falanghina Beneventana.
 

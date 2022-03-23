@@ -1,6 +1,6 @@
 ---
 title: Rondinella
-description: Vitigno | Compagno di assemblaggio minore in rossi come Valpolicella e Bardolino.
+description: Vitigno | Compagno nei blend minore in rossi come Valpolicella e Bardolino.
 published: true
 date: 2021-09-06T09:46:01.357Z
 tags: 
@@ -21,7 +21,7 @@ La prima menzione di Rondinella risale al 1882 e questa storia relativamente bre
 - Buona resistenza alla maggior parte delle malattie fungine ma suscettibile all'esca.
 
 ## Diffusione geografica
-La Rondinella viene coltivata principalmente nella provincia di Verona nel nord Italia, in particolare a Bardolino e in Valpolicella, ad est del Lago di Garda, dove le sue rese prolifiche l'hanno in passato fatta apprezzare dai produttori di Valpolicella di tutti gli stili. L'altra sua caratteristica accattivante è la sua resistenza alle malattie fungine, che è un vantaggio nel processo di essiccazione usato nella produzione di Amarone e Recioto. Tuttavia, non è così apprezzato o saporito come il suo principale partner di assemblaggio, la [Corvina Veronese](/vitigni/Italia/corvina-veronese), che è preferita dai produttori attenti alla qualità. I regolamenti DOC per il Bardolino e la Valpolicella stabiliscono un massimo del 40% e del 30% rispettivamente, sebbene spesso sia anche meno di questo. Appena oltre il confine, in Lombardia, la varietà è una componente permessa nei Colli Montovani del Garda. Il censimento agricolo italiano del 2000 ha registrato piantagioni totali di 2.874 ha (7.101 acri). 
+La Rondinella viene coltivata principalmente nella provincia di Verona nel nord Italia, in particolare a Bardolino e in Valpolicella, ad est del Lago di Garda, dove le sue rese prolifiche l'hanno in passato fatta apprezzare dai produttori di Valpolicella di tutti gli stili. L'altra sua caratteristica accattivante è la sua resistenza alle malattie fungine, che è un vantaggio nel processo di essiccazione usato nella produzione di Amarone e Recioto. Tuttavia, non è così apprezzato o saporito come il suo principale partner nei blend, la [Corvina Veronese](/vitigni/Italia/corvina-veronese), che è preferita dai produttori attenti alla qualità. I regolamenti DOC per il Bardolino e la Valpolicella stabiliscono un massimo del 40% e del 30% rispettivamente, sebbene spesso sia anche meno di questo. Appena oltre il confine, in Lombardia, la varietà è una componente permessa nei Colli Montovani del Garda. Il censimento agricolo italiano del 2000 ha registrato piantagioni totali di 2.874 ha (7.101 acri). 
 
 ### In Australia
 

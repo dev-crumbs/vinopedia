@@ -30,4 +30,4 @@ Come suggerisce il nome, la Schiava Lombarda è probabilmente originaria della L
 
 ## Diffusione geografica
 
-La Schiava Lombarda è coltivata principalmente in Lombardia nel nord Italia, nelle province di Como, Brescia e Bergamo, ma anche in Trentino-Alto Adige, solitamente in assemblaggio con altre varietà. La Cantina Bergamasca produce un rosato varietale, classificato come IGT Bergamasca.
+La Schiava Lombarda è coltivata principalmente in Lombardia nel nord Italia, nelle province di Como, Brescia e Bergamo, ma anche in Trentino-Alto Adige, solitamente in blend con altre varietà. La Cantina Bergamasca produce un rosato varietale, classificato come IGT Bergamasca.

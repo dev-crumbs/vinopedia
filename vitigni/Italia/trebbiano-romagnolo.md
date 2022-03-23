@@ -37,7 +37,7 @@ Il Trebbiano Romagnolo è probabilmente originario della provincia di Ravenna in
 
 Il Trebbiano Romagnolo è la varietà più coltivata in Emilia-Romagna nell'Italia centro-settentrionale, principalmente nella provincia di Ravenna, in particolare tra Faenza, Lugo e Russi. Si trova anche nella provincia di Forlì e qua e là nelle province di Parma e Bologna, nonché, in misura minore, nel Lazio e in Sardegna. Il censimento agricolo italiano del 2000 ha registrato piantagioni totali di 20.033 ha (49.503 acri).
 
-Il Trebbiano Romagnolo è usato nell'assemblaggio di molti e vari vini bianchi secchi DOC, sia fermi che a volte spumanti, in Emilia-Romagna, tra cui Colli Bolognesi, Colli di Rimini, Colli di Scandiano e di Canossa e Colli Piacentini, nonché come componente opzionale di assemblaggio in diverse DOC del Lazio come Castelli Romani e Colli Albani. 
+Il Trebbiano Romagnolo è usato nei blend di molti e vari vini bianchi secchi DOC, sia fermi che a volte spumanti, in Emilia-Romagna, tra cui Colli Bolognesi, Colli di Rimini, Colli di Scandiano e di Canossa e Colli Piacentini, nonché come componente opzionale nei blend in diverse DOC del Lazio come Castelli Romani e Colli Albani. 
 
 ## Caratteristiche enologiche
 

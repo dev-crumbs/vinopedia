@@ -54,7 +54,7 @@ Come Ugni Blanc, e talvolta con il nome di Saint-Émilion, è la varietà di vin
 
 ### In Italia
 
-Nel 2000 c'erano 42.456 ha (104.911 acri) di questo particolare Trebbiano comunemente piantato in Italia, principalmente in Toscana e Umbria, oltre che in Emilia-Romagna e Veneto. Le piantagioni in Toscana sono diminuite da quando quest'uva da vino bianco ha cominciato a perdere il favore dei produttori di vino rosso nel Chianti, dove non è più una parte obbligatoria dell'assemblaggio, e ora che non è più sanzionato nel Chianti Classico. Sicuramente continuerà a diminuire dato che i bevitori di vino sono sempre più interessati al sapore piuttosto che al solo volume e prezzo (c'erano più di 61.000 ha/150.734 acri in Italia nel 1990). I tentativi di promuovere i bianchi secchi fatti con il surplus hanno generalmente incontrato poco successo e molto Trebbiano in Toscana è stato estirpato o dirottato per il Vin Santo.
+Nel 2000 c'erano 42.456 ha (104.911 acri) di questo particolare Trebbiano comunemente piantato in Italia, principalmente in Toscana e Umbria, oltre che in Emilia-Romagna e Veneto. Le piantagioni in Toscana sono diminuite da quando quest'uva da vino bianco ha cominciato a perdere il favore dei produttori di vino rosso nel Chianti, dove non è più una parte obbligatoria dei blend, e ora che non è più sanzionato nel Chianti Classico. Sicuramente continuerà a diminuire dato che i bevitori di vino sono sempre più interessati al sapore piuttosto che al solo volume e prezzo (c'erano più di 61.000 ha/150.734 acri in Italia nel 1990). I tentativi di promuovere i bianchi secchi fatti con il surplus hanno generalmente incontrato poco successo e molto Trebbiano in Toscana è stato estirpato o dirottato per il Vin Santo.
 
 ### In Spagna
 

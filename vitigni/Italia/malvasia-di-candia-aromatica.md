@@ -35,7 +35,7 @@ Candia è un antico nome dell'isola di Kríti (Creta), da dove si suppone proven
 - Le bacche hanno leggeri aromi simili al moscato e sono suscettibili alla peronospora.
 
 ## Diffusione geografica
-La Malvasia di Candia Aromatica è autorizzata nelle province di Piacenza, Parma e Reggio Emilia in Emilia-Romagna nel nord Italia e figura come parte dell'assemblaggio o come varietà dominante nelle DOC Colli Piacentini, Colli di Parma e Colli di Scandiano e di Canossa. Viene anche piantata nell'Oltrepò Pavese in Lombardia, imbottigliata come varietale sotto la DOC di quel nome, e più a sud nel Lazio, e in Campania nella DOC Solopaca (anche se alcune fonti dicono che quest'ultima è in realtà [Malvasia Bianca Di Candia](/vitigni/Italia/malvasia-bianca-di-candia)).
+La Malvasia di Candia Aromatica è autorizzata nelle province di Piacenza, Parma e Reggio Emilia in Emilia-Romagna nel nord Italia e figura come parte dei blend o come varietà dominante nelle DOC Colli Piacentini, Colli di Parma e Colli di Scandiano e di Canossa. Viene anche piantata nell'Oltrepò Pavese in Lombardia, imbottigliata come varietale sotto la DOC di quel nome, e più a sud nel Lazio, e in Campania nella DOC Solopaca (anche se alcune fonti dicono che quest'ultima è in realtà [Malvasia Bianca Di Candia](/vitigni/Italia/malvasia-bianca-di-candia)).
 
 Nel 2000 sono stati registrati in Italia 1.756 ha (4.339 acri) di Malvasia di Candia Aromatica.
 

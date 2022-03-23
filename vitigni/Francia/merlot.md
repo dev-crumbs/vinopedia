@@ -122,7 +122,7 @@ Il Merlot è estremamente importante in Cile, dove è la terza varietà più pia
 
 La varietà è molto meno importante per l'industria vinicola in Argentina, dove i frutti evidenti del Malbec dominante ([Cot](/vitigni/Francia/cot)) e in misura minore della Bonarda ([Douce Noire](/vitigni/douce-noire)) hanno bisogno della carne del Merlot molto meno di, diciamo, il Cabernet Sauvignon del Cile. C'erano 7.142 ha (17.648 acri) nel 2008, soprattutto a Mendoza e in misura minore a San Juan e altre regioni. Qui il Merlot è spesso mescolato al Malbec, come nelle offerte di successo di Finca La Anita, Chacra e NQN.
 
-L'Uruguay aveva 853 ha (2.108 acri) di Merlot nel 2009, circa il 10% dell'area totale dei vigneti e appena prima del Cabernet Sauvignon, con questa varietà relativamente morbida un importante, e in costante aumento, componente di assemblaggio con il duro [Tannat](/vitigni/tannat). Bouza e Pizzorno producono alcuni degli esempi migliori.
+L'Uruguay aveva 853 ha (2.108 acri) di Merlot nel 2009, circa il 10% dell'area totale dei vigneti e appena prima del Cabernet Sauvignon, con questa varietà relativamente morbida un importante, e in costante aumento, componente nei blend con il duro [Tannat](/vitigni/tannat). Bouza e Pizzorno producono alcuni degli esempi migliori.
 
 In Brasile, c'erano 1.089 ha (2.691 acri) nel Rio Grande do Sul nel 2007 con Miolo che mostrava una notevole fiducia nel vinificare il Merlot - forse non sorprende visto che Michel Rolland, di Pomerol, è stato consulente qui. Nel 2009 c'erano 30 ha (74 acri) di Merlot in Bolivia ed è stato trovato anche in Perù.
 

@@ -39,7 +39,7 @@ La parentela del Nerello Mascalese (con il nome Nerello Calabrese) è stata rece
 
 ## Caratteristiche enologiche
 
-I vini generalmente chiari e alcolici hanno un'acidità fresca, sapori di frutta rossa, tannini delicati e un'evidente nobiltà, che rende possibile berli giovani ma anche capaci di invecchiare con grazia. La sua capacità di comunicare il terroir è particolarmente apprezzata dalla crescente schiera di produttori dell'Etna. Benanti e Tenuta Terre Nerre producono notevoli vini varietali; altri produttori top includono Calabretta, Cornelissen, Graci, Passopisciaro, Girolamo Russo e Terre di Trente. Alcuni produttori preferiscono l'assemblaggio con il più ricco e fruttato NERO D'AVOLA ma i puristi dell'Etna possono essere sprezzanti della semplicità di quest'ultimo.
+I vini generalmente chiari e alcolici hanno un'acidità fresca, sapori di frutta rossa, tannini delicati e un'evidente nobiltà, che rende possibile berli giovani ma anche capaci di invecchiare con grazia. La sua capacità di comunicare il terroir è particolarmente apprezzata dalla crescente schiera di produttori dell'Etna. Benanti e Tenuta Terre Nerre producono notevoli vini varietali; altri produttori top includono Calabretta, Cornelissen, Graci, Passopisciaro, Girolamo Russo e Terre di Trente. Alcuni produttori preferisconoi blend con il più ricco e fruttato NERO D'AVOLA ma i puristi dell'Etna possono essere sprezzanti della semplicità di quest'ultimo.
 
 ## Diffusione geografica
 

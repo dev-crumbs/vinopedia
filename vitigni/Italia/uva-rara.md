@@ -30,7 +30,7 @@ Uva Rara è un'antica varietà del Piemonte e della Lombardia, Italia settentrio
 
 ## Diffusione geografica
 
-Contrariamente a qualsiasi aspettativa creata dal suo nome, l'Uva Rara è diffusa in Lombardia (soprattutto nella provincia di Pavia) e in Piemonte (nelle province di Alessandria, Asti, Biella, Novara, Torino e Vercelli) in Italia. C'erano 608 ha (1.502 acri) nel 2000 ma le piantagioni sono in calo. Può essere usato per ammorbidire gli assemblaggi a dominanza [Nebbiolo](/vitigni/Italia/nebbiolo.md) nelle DOC del nord come Boca, Colline Novaresi, Fara e Sizzano, Ghemme DOCG e, leggermente più a sud, in assemblaggio con soprattutto [Barbera](/vitigni/Italia/barbera.md) e [Croatina](/vitigni/Italia/croatina) nelle DOC Oltrepò Pavese e San Colombano al Lambro. Un vino varietale è autorizzato all'interno della denominazione Colline Novaresi.
+Contrariamente a qualsiasi aspettativa creata dal suo nome, l'Uva Rara è diffusa in Lombardia (soprattutto nella provincia di Pavia) e in Piemonte (nelle province di Alessandria, Asti, Biella, Novara, Torino e Vercelli) in Italia. C'erano 608 ha (1.502 acri) nel 2000 ma le piantagioni sono in calo. Può essere usato per ammorbidire i blend a dominanza [Nebbiolo](/vitigni/Italia/nebbiolo.md) nelle DOC del nord come Boca, Colline Novaresi, Fara e Sizzano, Ghemme DOCG e, leggermente più a sud, in blend con soprattutto [Barbera](/vitigni/Italia/barbera.md) e [Croatina](/vitigni/Italia/croatina) nelle DOC Oltrepò Pavese e San Colombano al Lambro. Un vino varietale è autorizzato all'interno della denominazione Colline Novaresi.
 
 ## caratteristiche enologiche
 

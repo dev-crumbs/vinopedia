@@ -37,6 +37,6 @@ Maturazione tardiva, nell'ultima settimana di ottobre.
 
 ## Diffusione geografica
 
-Il Fumin è stato coltivato pochissimo in Italia durante la maggior parte del ventesimo secolo, ma dagli anni '90 ci sono stati notevoli nuovi impianti e sono stati prodotti alcuni vini varietali, principalmente nel centro della Valle d'Aosta. I vini ben strutturati e profumati di ciliegia beneficiano dell'effetto ammorbidente dell'invecchiamento in rovere, ma sono anche usati per aggiungere colore e acidità agli assemblaggi. I livelli di alcol sono a volte un po' alti. C'erano 76 ha (188 acri) in Italia nel 2000.
+Il Fumin è stato coltivato pochissimo in Italia durante la maggior parte del ventesimo secolo, ma dagli anni '90 ci sono stati notevoli nuovi impianti e sono stati prodotti alcuni vini varietali, principalmente nel centro della Valle d'Aosta. I vini ben strutturati e profumati di ciliegia beneficiano dell'effetto ammorbidente dell'invecchiamento in rovere, ma sono anche usati per aggiungere colore e acidità ai blend. I livelli di alcol sono a volte un po' alti. C'erano 76 ha (188 acri) in Italia nel 2000.
 
 La DOC Valle d'Aosta (registrata nel 1971) permette un Fumin varietale. I produttori raccomandati sono Di Barrò, Les Crêtes, L'Atoueyo (Fernanda Saraillon) e Grosjean Frères.
