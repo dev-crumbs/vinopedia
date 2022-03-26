@@ -47,7 +47,11 @@ export function denominazioneSummaryTable(){
         node.href = path
         node.classList.add("summaryExtLink")
         node.setAttribute("target","_blank")
-        i.append(node)
+        if (window.innerWidth < 600) {
+              i.append(node)
+        } else {
+              i.prepend(node)
+        }
         i.setAttribute("title",i.innerText)
       });
       const produttoreAll = el.querySelectorAll("td[data-th='Produttore']");

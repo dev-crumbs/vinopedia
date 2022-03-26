@@ -276,7 +276,8 @@ table.summary-table td:nth-child(1n+4) {text-align: right;}
     font-weight: 900;
     content: "\f0c1";
     font-size: 85%;
-    padding-left:5px
+    padding-left:5px;
+    padding-right:5px;
   }
 /* #endregion*/
 
