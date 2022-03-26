@@ -47,7 +47,7 @@ export function denominazioneSummaryTable(){
         node.href = path
         node.classList.add("summaryExtLink")
         node.setAttribute("target","_blank")
-        i.prepend(node)
+        i.append(node)
         i.setAttribute("title",i.innerText)
       });
       const produttoreAll = el.querySelectorAll("td[data-th='Produttore']");
@@ -81,7 +81,7 @@ export function denominazioneSummaryTable(){
           k.style.color = "#252525"
         } 
       })
-      const mediaPesataAll = el.querySelectorAll("td[data-th='Media Pesata']")
+      /*const mediaPesataAll = el.querySelectorAll("td[data-th='Media Pesata']")
       mediaPesataAll.forEach(k =>{
         k.style.fontWeight = "900"
         if (k.innerText >= 0 && k.innerText <= 0.9 ){
@@ -94,8 +94,8 @@ export function denominazioneSummaryTable(){
           k.style.color = "#4b4b4b"
         } else if (k.innerText >= 3.5 && k.innerText <= 5 ) {
           k.style.color = "#252525"
-        } 
-      })
+        }
+      })*/
       const firstTh = el.querySelector('th:nth-child(1)');
         firstTh.setAttribute("scope","col");
         firstTh.classList.add("table__header");
