@@ -110,6 +110,9 @@ table.produttore-table th:nth-child(2) {min-width: 110px; cursor:pointer}
 
 @media screen and (max-width: 599px) {
 
+  .denominazione-table{
+    overflow:hidden
+  }
   .denominazione-table tbody td{
     padding:2px 3px!important;
     border: 0px solid white!important
@@ -147,12 +150,12 @@ table.produttore-table th:nth-child(2) {min-width: 110px; cursor:pointer}
     margin: -1px;
     overflow: hidden;
     padding: 0;
-    /*position: absolute;*/
+    /* position: absolute; */
     width: 1px; }
   .denominazione-table thead tr {
     display: flex;
-    justify-content: end;
-  }
+    justify-content: start;
+  position: sticky;}
   .denominazione-table th{display:none}
   .denominazione-table th:nth-child(1),.denominazione-table th:nth-child(2),.denominazione-table th:nth-child(4),.denominazione-table th:nth-child(5) {display:block}
   .denominazione-table th{padding:0px}
@@ -163,7 +166,7 @@ table.produttore-table th:nth-child(2) {min-width: 110px; cursor:pointer}
   }
   .denominazione-table {
     border: 0; 
-    margin: 0 10px!important;
+    margin: 0 0px!important;
   }
   td[data-th="Media Grezza"]{
     display: none
