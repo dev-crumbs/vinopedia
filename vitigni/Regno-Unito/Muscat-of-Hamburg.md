@@ -2,13 +2,13 @@
 title: Muscat of Hamburg
 description: Vitigno | Vitigno dall'origine incerta associato più facilmente all'uva da tavola coltivata a intermittenza in Inghilterra e ampiamente altrove
 published: true
-date: 2022-03-28T08:10:04.837Z
+date: 2022-03-28T08:10:18.938Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-28T08:10:04.837Z
 ---
 
-# Minutolo
+# Muscat of Hamburg
 
 ## Bacca
 nera
