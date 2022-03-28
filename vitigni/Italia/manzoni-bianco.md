@@ -1,8 +1,8 @@
 ---
 title: Manzoni Bianco
-description: Incrocio bianco italiano settentrionale potenzialmente di alta qualità che ha ereditato le qualità positive dei suoi genitori.
+description: Vitigno | Incrocio bianco italiano settentrionale potenzialmente di alta qualità che ha ereditato le qualità positive dei suoi genitori.
 published: true
-date: 2022-03-28T07:40:35.536Z
+date: 2022-03-28T08:10:43.702Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-28T07:35:30.690Z
