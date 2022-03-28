@@ -1,8 +1,8 @@
 ---
 title: Manzoni Moscato
-description: Uno dei meno coltivati tra gli incroci manzoniani, questa versione dalla buccia scura è usata per fare rosati dolci e frizzanti in Trentino.
+description: Vitigno | Uno dei meno coltivati tra gli incroci manzoniani, questa versione dalla buccia scura è usata per fare rosati dolci e frizzanti in Trentino.
 published: true
-date: 2022-03-28T07:45:20.629Z
+date: 2022-03-28T08:11:53.424Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-28T07:45:20.629Z
