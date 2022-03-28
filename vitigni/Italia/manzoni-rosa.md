@@ -1,8 +1,8 @@
 ---
 title: Manzoni Rosa
-description: Rarissimo incrocio veneto a bacca rosa.
+description: Vitigno | Rarissimo incrocio veneto a bacca rosa.
 published: true
-date: 2022-03-28T07:40:15.143Z
+date: 2022-03-28T08:11:06.845Z
 tags: 
 editor: markdown
 dateCreated: 2022-03-28T07:40:15.143Z
