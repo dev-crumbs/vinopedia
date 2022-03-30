@@ -3,6 +3,7 @@ export function schedaGlobaleImport() {
   const tempCheck = document.querySelector(".caratteristiche")
   const listCheck = document.querySelector("div[role='list'] .v-list-item__title")
   const spumanteCheck = document.querySelector(".spumantizzazione")
+  const noteCheck = document.querySelector(".note")
   if (tempCheck == null){return;}
   //page headline input
   const headlineFull = document.querySelector(".headline").innerText.split(' – ')
@@ -29,6 +30,7 @@ export function schedaGlobaleImport() {
       const prezzoCSV = csv.filter(filterGlobalCSV)[0].Prezzo;
       const abbinamentoCSV = csv.filter(filterGlobalCSV)[0].Abbinamento;
       const abbinamentoArray = abbinamentoCSV.split(' – ')
+      const noteCSV = csv.filter(filterGlobalCSV)[0].Note;
       //spumantizzazione
       const millesimoCSV = csv.filter(filterGlobalCSV)[0].Millesimo;
       const tecnicaCSV = csv.filter(filterGlobalCSV)[0].Tecnica;
@@ -45,7 +47,7 @@ export function schedaGlobaleImport() {
       d3.select('.caratteristiche li:nth-child(4)').append().html(` <a href="/produttori/${nazioneCSV}/${regioneCSV}/${produttoreCSV.replaceAll("' ", '-').replaceAll(' ', '-')}">${produttoreCSV}</a>`)
       for (const i of composizioneArray) {
         const cleanVitigno = i.split(/( \d+)/)[0].replaceAll(' ', '-').replaceAll("'", "-").toLowerCase()
-        function nationCheck(){switch(cleanVitigno){case"cabernet-sauvignon":case"cabernet-franc":case"carmenere":return"Francia";case"pinot-noir":return"Francia";case"merlot":return"Francia";case"syrah":return"Francia";case"sauvignon-blanc":return"Francia";case"chardonnay":return"Francia";case"pinot-blanc":return"Francia";case"kerner":return"Germania";default:return"Italia"}}
+        function nationCheck(){switch(cleanVitigno){case"cabernet-sauvignon":case"cabernet-franc":case"carmenere":return"Francia";case"pinot-noir":return"Francia";case"merlot":return"Francia";case"syrah":return"Francia";case"sauvignon-blanc":return"Francia";case"chardonnay":return"Francia";case"pinot-blanc":return"Francia";case"kerner":return"Germania";case"muller-thurgau":return"Svizzera";default:return"Italia"}}
         if (!--composizioneLength){
           d3.select('.caratteristiche li:nth-child(5)').append().html(` <a href="/vitigni/${nationCheck()}/${cleanVitigno}">${i}</a>`)          
         } else {
@@ -75,6 +77,9 @@ export function schedaGlobaleImport() {
         d3.select('.spumantizzazione li:nth-child(2)').append().text(" " + tecnicaCSV)
         d3.select('.spumantizzazione li:nth-child(3)').append().text(" " + zuccheroCSV)
         d3.select('.spumantizzazione li:nth-child(4)').append().text(" " + affinamentoCSV)
+      }
+      if (noteCheck == null){ } else{
+        d3.select('.note p:nth-child(1)').append().text(noteCSV)
       }
       if (listCheck == null){return;} else {
         document.querySelector("div[role='list'] .v-list-item__title").innerText = headlineFull[0]
