@@ -6,7 +6,7 @@ export function esperienzeImport(){
   d3.text(`${esperienza}.csv`).then( function(data) {
     var sortAscending = true;
     var csv = d3.csvParse(data), allheaders = d3.csvParseRows(data)[0],
-    table = d3.select(`div.table-container`).append('table').attr('class','sort esperienza-table');
+    table = d3.select(`div.esperienza-table-container`).append('table').attr('class','sort esperienza-table');
         var titles = Object.keys(data[0]);
         var headers = table.append('thead').append('tr')
                     .selectAll('th')
