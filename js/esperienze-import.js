@@ -31,52 +31,42 @@ export function esperienzeImport(){
       .text(function (d) {
         return d.value;
       });
-    const nomeAll = rows.selectAll("td[data-th='Vino']");
-    for (const i of nomeAll){
-      const nome = i.innerText.replaceAll(' ', '-').replaceAll('é','e')
-      const produttore = i.previousElementSibling.innerText.replaceAll("' ", '-').replaceAll(' ', '-').replaceAll("'", '-');
+    const vinoAll = document.querySelectorAll("table tbody tr");
+    console.log(vinoAll)
+    vinoAll.forEach(i =>{
+      console.log(i)
+      const nome = i.querySelector("td[data-th='Vino']").innerText.replaceAll(' ', '-').replaceAll('é','e')    
+      const nomeEl = i.querySelector("td[data-th='Vino']")
+      const produttore = i.querySelector("td[data-th='Produttore']").innerText.replaceAll("' ", '-').replaceAll(' ', '-').replaceAll("'", '-');
+      const produttoreEl = i.querySelector("td[data-th='Produttore']")
+      const regione = i.querySelector("td[data-th='Regione']").innerText.replaceAll("' ", '-').replaceAll(' ', '-')
       const path = "/it/vini/Italia/" + regione + "/" + produttore + "/" + nome + "/scheda-globale"
       const node = document.createElement("a");
       node.href = path
       node.classList.add("summaryExtLink")
       node.setAttribute("target","_blank")
       if (window.innerWidth < 600) {
-            i.append(node)
+            nomeEl.append(node)
       } else {
-            i.prepend(node)
+            nomeEl.prepend(node)
       }
-      i.setAttribute("title",i.innerText)
-    }
-    const produttoreAll = el.querySelectorAll("td[data-th='Produttore']");
-    for (const i of produttoreAll){
-      i.setAttribute("title",i.innerText)
-    }
-    const thAll = el.querySelectorAll("thead th");
-    for (const i of thAll){
-      i.setAttribute("title",i.innerText)
-    }
-    const tdAll = el.querySelectorAll("td")
-    tdAll.forEach(j =>{  
-      if (j.textContent.includes("sv")) {
-        j.style.color = "lightgray"
-        //console.log(td.innerText.length)
-      } else if (j.innerText.length <= 2){
-        j.classList.add("star-table")
-      }
+      nomeEl.setAttribute("title",nomeEl.innerText)
+      produttoreEl.setAttribute("title",produttoreEl.innerText)
     })
-    const firstTh = el.querySelector('th:nth-child(1)');
+    const firstTh = document.querySelector('th:nth-child(1)');
       firstTh.setAttribute("scope","col");
       firstTh.classList.add("table__header");
-    const secondTh = el.querySelector('th:nth-child(2)');
+    const secondTh = document.querySelector('th:nth-child(2)');
       secondTh.setAttribute("scope","col");
       secondTh.classList.add("table__header");
-    const thirdTh = el.querySelector('th:nth-child(3)');
+    const thirdTh = document.querySelector('th:nth-child(3)');
       thirdTh.setAttribute("scope","col");
       thirdTh.classList.add("table__header");
-    const fourthTh = el.querySelector('th:nth-child(4)');
+    const fourthTh = document.querySelector('th:nth-child(5)');
       fourthTh.setAttribute("scope","col");
+      fourthTh.setAttribute("data-type","number");
       fourthTh.classList.add("table__header");
-    const fifthTh = el.querySelector('th:nth-child(5)');
+    const fifthTh = document.querySelector('th:nth-child(6)');
       fifthTh.setAttribute("scope","col");
       fifthTh.setAttribute("data-type","number");
       fifthTh.classList.add("table__header");
