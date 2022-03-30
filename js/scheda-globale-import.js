@@ -79,7 +79,7 @@ export function schedaGlobaleImport() {
         d3.select('.spumantizzazione li:nth-child(4)').append().text(" " + affinamentoCSV)
       }
       if (noteCheck == null){ } else{
-        d3.select('.note p:nth-child(1)').append().text(noteCSV)
+        d3.select('.note').append().text(noteCSV)
       }
       if (listCheck == null){return;} else {
         document.querySelector("div[role='list'] .v-list-item__title").innerText = headlineFull[0]
