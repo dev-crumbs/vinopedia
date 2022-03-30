@@ -54,12 +54,13 @@ export function schedaGlobaleImport() {
       }
       if (spumanteCheck == null){      
         d3.select('.caratteristiche li:nth-child(6)').append().text(" " + affinamentoCSV)
+        d3.select('.caratteristiche li:nth-child(7)').append().text(" " + alcolCSV + "%") 
+        d3.select('.caratteristiche li:nth-child(8)').append().text(" " + prezzoCSV + "€")
       } else {
-        d3.select('.caratteristiche li:nth-child(6)').append().text(" " + alcolCSV)
-        d3.select('.caratteristiche li:nth-child(7)').append().text(" " + prezzoCSV)
+        d3.select('.caratteristiche li:nth-child(6)').append().text(" " + alcolCSV + "%")
+        d3.select('.caratteristiche li:nth-child(7)').append().text(" " + prezzoCSV + "€")
       }
-      d3.select('.caratteristiche li:nth-child(7)').append().text(" " + alcolCSV + "%") 
-      d3.select('.caratteristiche li:nth-child(8)').append().text(" " + prezzoCSV + "€")
+
       for (const i of abbinamentoArray) {
         d3.select('.abbinamento').append("li").text(i)
       }
