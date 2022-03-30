@@ -49,5 +49,6 @@ window.addEventListener("load", function(){
   // scheda globale import csv
   if (window.location.href.indexOf("/esperienze/") != -1){
     esperienzeImport()
+    setTimeout(tableSort, 1000) 
   }
 })
