@@ -31,8 +31,8 @@ export function esperienzeImport(){
       .text(function (d) {
         return d.value;
       });
-    const nomeAll = el.querySelectorAll("td[data-th='Vino']");
-    nomeAll.forEach(i =>{
+    const nomeAll = rows.selectAll("td[data-th='Vino']");
+    for (const i of nomeAll){
       const nome = i.innerText.replaceAll(' ', '-').replaceAll('é','e')
       const produttore = i.previousElementSibling.innerText.replaceAll("' ", '-').replaceAll(' ', '-').replaceAll("'", '-');
       const path = "/it/vini/Italia/" + regione + "/" + produttore + "/" + nome + "/scheda-globale"
@@ -46,7 +46,7 @@ export function esperienzeImport(){
             i.prepend(node)
       }
       i.setAttribute("title",i.innerText)
-    });
+    }
     const produttoreAll = el.querySelectorAll("td[data-th='Produttore']");
     for (const i of produttoreAll){
       i.setAttribute("title",i.innerText)
