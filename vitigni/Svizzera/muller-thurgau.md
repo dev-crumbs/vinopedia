@@ -2,13 +2,13 @@
 title: Müller-Thurgau
 description: Vitigno | Prolifico vitigno tedesco diffuso in tutto il mondo che produce bianchi morbidi e semi-aromatici in sovrabbondanza
 published: true
-date: 2021-09-06T14:54:05.874Z
+date: 2022-03-30T07:39:53.222Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-06T09:47:26.449Z
 ---
 
-# Müller-Thurgau
+# Müller Thurgau
 
 ## Bacca
 Bianca
