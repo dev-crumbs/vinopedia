@@ -1,5 +1,5 @@
-function sentoreCheck(){
-  switch(cleanVitigno){
+export function sentoreCheck(i) {
+  switch(i){
     case "aromatico":
       return "aromatico";
     case "acacia":

@@ -10,6 +10,7 @@ import { cantinaTableOut } from './it/js/cantina-table.js';
 import { firstWordBold } from './it/js/vitigni-first-word-bold.js';
 import { schedaGlobaleImport } from './it/js/scheda-globale-import.js';
 import { schedaSingolaImport } from './it/js/scheda-singola-import.js';
+import { sentoreCheck } from './it/js/listone-olfattivo.js';
 import { esperienzeImport } from './it/js/esperienze-import.js';
 
 window.addEventListener("load", function(){
