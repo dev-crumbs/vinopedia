@@ -62,9 +62,9 @@ window.addEventListener("load", function(){
     schedaGlobaleImport()
   }
   // scheda singola import csv
-  //if("2016".test(window.location.href) == true){
-    //schedaSingolaImport()
-  //}
+  if (window.location.href.indexOf("annata") != -1){
+    schedaSingolaImport()
+  }
   // esperienza table import csv
   if (window.location.href.indexOf("/esperienze/") != -1){
     esperienzeImport()
