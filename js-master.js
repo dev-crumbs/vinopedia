@@ -15,6 +15,11 @@ import { esperienzeImport } from './it/js/esperienze-import.js';
 window.addEventListener("load", function(){
   // custom label for search field
   searchLabel();
+  //test hiding
+  for (const i of document.querySelectorAll(".search-results-items v-list-item__title")) {
+  if (i.textContent.includes("000175")){
+    i.parentElement.parentElement.style.display = "none"
+  }
   //mobile navigation bottom
   if (window.innerWidth < 959) {
     let headers = document.querySelectorAll("div.contents > div > h2.toc-header");
