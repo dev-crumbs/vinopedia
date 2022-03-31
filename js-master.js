@@ -9,6 +9,7 @@ import { cantinaTableIn } from './it/js/cantina-table.js';
 import { cantinaTableOut } from './it/js/cantina-table.js';
 import { firstWordBold } from './it/js/vitigni-first-word-bold.js';
 import { schedaGlobaleImport } from './it/js/scheda-globale-import.js';
+import { schedaSingolaImport } from './it/js/scheda-singola-import.js';
 import { esperienzeImport } from './it/js/esperienze-import.js';
 
 window.addEventListener("load", function(){
@@ -46,7 +47,11 @@ window.addEventListener("load", function(){
   if (window.location.href.indexOf("/vini/") != -1){
     schedaGlobaleImport()
   }
-  // scheda globale import csv
+  // scheda singola import csv
+  if("2016".test(window.location.href) == true){
+    schedaSingolaImport()
+  }
+  // esperienza table import csv
   if (window.location.href.indexOf("/esperienze/") != -1){
     esperienzeImport()
     setTimeout(tableSort, 1000) 
