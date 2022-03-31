@@ -8,8 +8,7 @@ export function schedaSingolaImport() {
   const caption = document.querySelector(".is-page-header .caption").innerText
   d3.text(`/vini/listone.csv`).then(function(data) {
       const csv = d3.csvParse(data);
-      const filterCSV = function(d) {return d.Ref == caption && d.Anno == headlineFull[1]}
-      //tutte le annate
+      const filterCSV = function(d){return d.Ref == caption && d.Anno == headlineFull[1]} 
       const nomeCSV = csv.filter(filterCSV)[0].Nome;
       const regioneCSV = csv.filter(filterCSV)[0].Regione;
       const nazioneCSV = csv.filter(filterCSV)[0].Nazione;
