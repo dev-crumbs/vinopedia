@@ -192,6 +192,12 @@ table.produttore-table th:nth-child(2) {min-width: 110px; cursor:pointer}
   display:none
 }
 @media screen and (max-width: 599px) {
+
+  table.esperienza-table thead tr{
+    height: 50px;
+    align-items: center;
+    display: inline-flex;
+  } 
   table.esperienza-table th:nth-child(1){display:none}
   table.esperienza-table th:nth-child(6){display:block!important}
   table.esperienza-table th:nth-child(5){display:block!important}
