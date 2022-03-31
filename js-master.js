@@ -15,7 +15,7 @@ import { esperienzeImport } from './it/js/esperienze-import.js';
 window.addEventListener("load", function(){
   // custom label for search field
   searchLabel();
-  //test hiding
+  //hide single wines from search contents
   const searchInput = document.querySelector(".nav-header input")
   searchInput.addEventListener("keydown", function(){
     for (const i of document.querySelectorAll(".search-results-items .v-list-item__title")) {
@@ -24,6 +24,11 @@ window.addEventListener("load", function(){
       }
     }
   })
+  //hide caption from single wine pages
+  const hideCaption = document.querySelector(".is-page-header .caption")
+  if (hideCaption.textContent.match(/[0-9]{7}/)){
+    hideCaption.style.display = "none"
+  }
   //mobile navigation bottom
   if (window.innerWidth < 959) {
     let headers = document.querySelectorAll("div.contents > div > h2.toc-header");
