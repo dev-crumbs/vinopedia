@@ -17,13 +17,34 @@ window.addEventListener("load", function(){
   searchLabel();
   //hide single wines from search contents
   const searchInput = document.querySelector(".nav-header input")
-  searchInput.addEventListener("keydown", function(){
-    for (const i of document.querySelectorAll(".search-results-items .v-list-item__title")) {
-      if (i.textContent.match(/[0-9]{7}/)){
-        i.parentElement.parentElement.style.display = "none"
+  if (searchInput == null){ } else {
+    searchInput.addEventListener("keydown", function(){
+      for (const i of document.querySelectorAll(".search-results-items .v-list-item__subtitle")) {
+        if (i.textContent.match(/[0-9]{7}/)){
+          i.parentElement.parentElement.style.display = "none"
+        }
       }
-    }
-  })
+    })
+  }
+  const searchButton = document.querySelector("header.nav-header-inner button")
+  console.log(searchButton)
+  if (searchButton == null){ } else {
+    searchButton.addEventListener("click", function(){
+      const searchInput = document.querySelector(".nav-header input")
+      searchInput.addEventListener("keydown", function(){
+        console.log("test")
+        for (const i of document.querySelectorAll(".search-results-items .caption")) {
+          if (i.textContent.match(/[0-9]{7}/)){
+            i.parentElement.parentElement.style.display = "none"
+          }
+        }
+      })
+    })
+  }
+
+
+
+    
   //hide caption from single wine pages
   const hideCaption = document.querySelector(".is-page-header .caption")
   if (hideCaption.textContent.match(/[0-9]{7}/)){

@@ -32,9 +32,7 @@ export function esperienzeImport(){
         return d.value;
       });
     const vinoAll = document.querySelectorAll("table tbody tr");
-    console.log(vinoAll)
     vinoAll.forEach(i =>{
-      console.log(i)
       const nome = i.querySelector("td[data-th='Vino']").innerText.replaceAll(' ', '-').replaceAll('é','e')    
       const nomeEl = i.querySelector("td[data-th='Vino']")
       const produttore = i.querySelector("td[data-th='Produttore']").innerText.replaceAll("' ", '-').replaceAll(' ', '-').replaceAll("'", '-');
