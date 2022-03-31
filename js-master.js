@@ -44,7 +44,7 @@ window.addEventListener("load", function(){
     firstWordBold()
   }
   // scheda globale import csv
-  if (window.location.href.indexOf("/vini/") != -1){
+  if (window.location.href.indexOf("/scheda-globale/") != -1){
     schedaGlobaleImport()
   }
   // scheda singola import csv
