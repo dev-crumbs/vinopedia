@@ -1,3 +1,4 @@
+import { sentoreCheck } from '/it/js/listone-olfattivo.js';
 export function schedaSingolaImport() {
   //Checks
   const listCheck = document.querySelector("div[role='list'] .v-list-item__title")
@@ -58,9 +59,9 @@ export function schedaSingolaImport() {
       }
 
       d3.select('.abbinamento').append("li").text(abbinamentoCSV)
-
+      for (const i of sentoriSplit){
       d3.select('.riconoscimenti').append("div").attr("class", sentoreCheck(i)).text(i);
-      
+      }
       // spumante
       if (spumanteCheck == null){ } else {
         d3.select('.spumantizzazione li:nth-child(1)').append().text(" " + millesimoCSV)

@@ -78,6 +78,8 @@ export function sentoreCheck(i) {
       return "floreale";
     case "zagara":
       return "floreale";
+    case "agrumi":
+      return "fruttato";
     case "albicocca":
       return "fruttato";
     case "amarena":
