@@ -130,7 +130,7 @@ export function sentoreCheck(i) {
       return "fruttato";
     case "frutta sciroppata":
       return "fruttato";
-    case "f. sotto spirito":
+    case "frutta sotto spirito":
       return "fruttato";
     case "frutti di bosco":
       return "fruttato";
@@ -302,6 +302,8 @@ export function sentoreCheck(i) {
       return "vegetale";
     case "prezzemolo":
       return "vegetale";
+    case "radici":
+      return "vegetale";  
     case "rosmarino":
       return "vegetale";
     case "salvia":
@@ -360,7 +362,7 @@ export function sentoreCheck(i) {
       return "speziato";
     case "cardamomo":
       return "speziato";
-    case "c. di garofano":
+    case "chiodi di garofano":
       return "speziato";
     case "coriandolo":
       return "speziato";
