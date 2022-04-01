@@ -31,7 +31,6 @@ export function schedaSingolaImport() {
         const descrizioneCSV = csv.filter(filterCSV)[0].Descrizione;
         const descrizioneSplit = descrizioneCSV.split(' – ')
         const sentoriCSV = descrizioneSplit[1];
-        console.log(sentoriCSV)
         const sentoriSplit = sentoriCSV.split(' | ')
         const noteCSV = csv.filter(filterCSV)[0].Note;
         //spumantizzazione
@@ -92,9 +91,10 @@ export function schedaSingolaImport() {
         d3.select('.abbinamento').append("li").text(abbinamentoCSV)
         for (const i of sentoriSplit) {
             const nome = i.split(' - ')
+            const ricWidth = document.querySelector('.riconoscimenti').clientWidth
             var divOut = d3.select('.riconoscimenti').append("div")
                 .attr("class", sentoreCheck(nome[0]))
-                .attr("style", `width:${nome[1]}%`)
+                .attr("style", `width:${nome[1]}%; background-size: ${ricWidth}px`)
                 divOut.append("span").text(sentoreCheck(nome[0]))
                 divOut.append("span").text(" - " + nome[0])
 //            d3.select('.riconoscimenti').append("div").text(nome[0]);
