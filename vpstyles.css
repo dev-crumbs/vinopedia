@@ -721,7 +721,8 @@ max-width: 350px
   display: grid;
   grid-template-columns: 1fr;
   gap: 3px;
-  padding: 0px 5px
+  padding: 0px 5px;
+  max-width:500px
 }
 .riconoscimenti object {
   width: 100%;
