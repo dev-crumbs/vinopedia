@@ -720,7 +720,8 @@ max-width: 350px
 .riconoscimenti{
   display: grid;
   grid-template-columns: 1fr;
-  gap: 0px;
+  gap: 3px;
+  padding: 0px 5px
 }
 .riconoscimenti object {
   width: 100%;
@@ -728,7 +729,7 @@ max-width: 350px
 }
 .riconoscimenti div {
 
-  border-radius:5px;
+  border-radius:25px;
   padding:5px 10px;
   white-space:nowrap
 }
@@ -738,15 +739,24 @@ max-width: 350px
 }
 
 .fruttato{
-  background-image: linear-gradient(90deg, white 0%, #e66e6d 100%)
-  /*to right, white , #e66e6d);*/
+  background-image: linear-gradient(90deg, white 0%, #e66e6d 100%);
 }
+.fruttato span:nth-child(1){
+  color: #e66e6d
+}
+
 .floreale {
   background-image: linear-gradient(90deg, white 0%, #80b1d3 100%)
 }
 
-.minerale{
- background-image: linear-gradient(90deg, white 0%, #d3d3d3);
-  color:#292A2D!important;
+.floreale span:nth-child(1){
+  color: #80b1d3
 }
 
+.minerale{
+ background-image: linear-gradient(90deg, white 0%, #d3d3d3);
+}
+
+.minerale span:nth-child(1){
+  color: #696969;
+}
