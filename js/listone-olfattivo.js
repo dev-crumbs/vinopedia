@@ -12,7 +12,7 @@ export function sentoreCheck(i) {
       return "floreale";
     case "ciclamino":
       return "floreale";
-    case "fiori d'arancio":
+    case "fiori d’arancio":
       return "floreale";
     case "camomilla":
       return "floreale";
@@ -182,6 +182,8 @@ export function sentoreCheck(i) {
       return "fruttato";
     case "pesca":
       return "fruttato";
+    case "pesca bianca":
+      return "fruttato";  
     case "pompelmo":
       return "fruttato";
     case "prugna":
@@ -218,7 +220,7 @@ export function sentoreCheck(i) {
       return "vegetale";
     case "erbe agresti":
       return "vegetale";
-    case "e. aromatiche":
+    case "erbe aromatiche":
       return "vegetale";
     case "erbe officinali":
       return "vegetale";
