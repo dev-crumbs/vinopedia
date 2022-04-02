@@ -139,7 +139,11 @@ table.produttore-table th:nth-child(2) {min-width: 110px; cursor:pointer}
   .denominazione-table td:nth-child(n+3):before {
     content: attr(data-th);
     float: left;
+    font-weight: normal
   } 
+  .denominazione-table td[data-th="Media Pesata"]{
+    font-weight: bold
+  }
 
   .denominazione-table thead {
     border: none;
