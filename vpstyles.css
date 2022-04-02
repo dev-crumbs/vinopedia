@@ -757,9 +757,16 @@ max-width: 350px
 .vegetale {
   background-image: linear-gradient(90deg, white 0%, #c5d551 100%)
 }
+.vegetale span:nth-child(1){
+  color: #c5d551
+}
 
 .speziato {
   background-image: linear-gradient(90deg, white 0%, #f9c91d 100%)
+}
+
+.speziato span:nth-child(1){
+  color: #f9c91d
 }
 
 .altri {
@@ -768,6 +775,9 @@ max-width: 350px
 
 .tostato {
   background-image: linear-gradient(90deg, white 0%, #a27859 100%)
+}
+.tostato span:nth-child(1){
+  color: #a27859
 }
 
 .minerale{
