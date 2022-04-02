@@ -19,7 +19,7 @@ window.addEventListener("load", function(){
   //hide single wines from search contents
   const searchInput = document.querySelector(".nav-header input")
   if (searchInput == null){ } else {
-    searchInput.addEventListener("keyup", function(){
+    searchInput.addEventListener("keyup, keydown", function(){
       for (const i of document.querySelectorAll(".search-results-items .v-list-item__subtitle")) {
         if (i.textContent.match(/[0-9]{7}/)){
           i.parentElement.parentElement.style.display = "none"
@@ -32,7 +32,7 @@ window.addEventListener("load", function(){
   if (searchButton == null){ } else {
     searchButton.addEventListener("click", function(){
       const searchInput = document.querySelector(".nav-header input")
-      searchInput.addEventListener("keyup", function(){
+      searchInput.addEventListener("keyup, keydown", function(){
         console.log("test")
         for (const i of document.querySelectorAll(".search-results-items .caption")) {
           if (i.textContent.match(/[0-9]{7}/)){
