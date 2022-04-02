@@ -91,7 +91,9 @@ export function schedaSingolaImport() {
         }
 
         d3.select('.abbinamento').append("li").text(abbinamentoCSV)
-        if (descrizioneCSV == '') { } else {
+        if (descrizioneCSV == '') {
+            d3.select('.riconoscimenti').append("p").text("Non è disponibile un'analisi olfattiva per questa annata")
+        } else {
             for (const i of sentoriSplit) {
                 const nome = i.split(' - ')
                 const ricWidth = document.querySelector('.riconoscimenti').clientWidth
