@@ -1,8 +1,8 @@
 ---
 title: Cesanese d'Affile
-description: Vitigno | "Cesanese" d'Affile è un sinonimo.
+description: Vitigno | "Cesanese d'Affile" è un sinonimo.
 published: true
-date: 2021-09-06T15:22:01.288Z
+date: 2022-04-02T10:32:14.750Z
 tags: 
 editor: markdown
 dateCreated: 2021-09-06T15:21:58.663Z
