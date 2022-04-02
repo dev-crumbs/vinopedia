@@ -124,9 +124,9 @@ export function sentoreCheck(i) {
       return "fruttato";
     case "frutta distillata":
       return "fruttato";
-    case "f. in gelatina":
+    case "frutta in gelatina":
       return "fruttato";
-    case "f. in confettura":
+    case "frutta in confettura":
       return "fruttato";
     case "frutta sciroppata":
       return "fruttato";
@@ -261,6 +261,8 @@ export function sentoreCheck(i) {
     case "malva":
       return "vegetale";
     case "muschio":
+      return "vegetale";
+    case "olive nere":
       return "vegetale";
     case "pacciame":
       return "vegetale";
@@ -403,6 +405,8 @@ export function sentoreCheck(i) {
     case "caffè":
       return "tostato";
     case "cioccolato":
+      return "tostato";
+    case "cioccolato amaro":
       return "tostato";
     case "fava tonka":
       return "tostato";
