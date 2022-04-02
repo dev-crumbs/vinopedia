@@ -29,9 +29,11 @@ export function schedaSingolaImport() {
         const prezzoCSV = csv.filter(filterCSV)[0].Prezzo;
         const abbinamentoCSV = csv.filter(filterCSV)[0].Abbinamento;
         const descrizioneCSV = csv.filter(filterCSV)[0].Descrizione;
-        const descrizioneSplit = descrizioneCSV.split(' – ')
-        const sentoriCSV = descrizioneSplit[1];
-        const sentoriSplit = sentoriCSV.split(' | ')
+        if (descrizioneCSV == '') { } else {
+          const descrizioneSplit = descrizioneCSV.split(' – ')
+          const sentoriCSV = descrizioneSplit[1];
+          const sentoriSplit = sentoriCSV.split(' | ')
+        }
         const noteCSV = csv.filter(filterCSV)[0].Note;
         //spumantizzazione
         const millesimoCSV = csv.filter(filterCSV)[0].Millesimo;
@@ -89,15 +91,17 @@ export function schedaSingolaImport() {
         }
 
         d3.select('.abbinamento').append("li").text(abbinamentoCSV)
-        for (const i of sentoriSplit) {
-            const nome = i.split(' - ')
-            const ricWidth = document.querySelector('.riconoscimenti').clientWidth
-            var divOut = d3.select('.riconoscimenti').append("div")
-                .attr("class", sentoreCheck(nome[0]))
-                .attr("style", `width:${nome[1]}%; background-size: ${ricWidth}px`)
-                divOut.append("span").text(sentoreCheck(nome[0]))
-                divOut.append("span").text(" - " + nome[0])
-//            d3.select('.riconoscimenti').append("div").text(nome[0]);
+        if (descrizioneCSV == '') { } else {
+            for (const i of sentoriSplit) {
+                const nome = i.split(' - ')
+                const ricWidth = document.querySelector('.riconoscimenti').clientWidth
+                var divOut = d3.select('.riconoscimenti').append("div")
+                    .attr("class", sentoreCheck(nome[0]))
+                    .attr("style", `width:${nome[1]}%; background-size: ${ricWidth}px`)
+                    divOut.append("span").text(sentoreCheck(nome[0]))
+                    divOut.append("span").text(" - " + nome[0])
+    //            d3.select('.riconoscimenti').append("div").text(nome[0]);
+            }
         }
         // spumante
         if (spumanteCheck == null) {} else {
