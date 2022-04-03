@@ -2,13 +2,13 @@
 title: Malvasia del Lazio
 description: Vitigno | Fratello del Moscato di Amburgo, produce vini vinosi.
 published: true
-date: 2021-09-06T14:49:19.234Z
-tags: 
+date: 2022-04-03T07:48:11.164Z
+tags: lazio
 editor: markdown
 dateCreated: 2021-09-06T09:39:34.466Z
 ---
 
-# Minutolo
+# Malvasia Del Lazio
 
 ## Bacca
 Bianca
@@ -24,7 +24,7 @@ Malvasia col Puntino, Malvasia Gentile, Malvasia Puntinata
 
 
 ## Origini e parentele
-Recenti profili del DNA hanno dimostrato che la Malvasia del Lazio è un incrocio naturale tra Moscato di Alessandria e SCHIAVA GROSSA (Lacombe et al. 2007), il che spiega il leggero aroma di Moscato delle sue bacche. L'incrocio è avvenuto molto probabilmente nel Lazio, dove entrambi i genitori devono essere stati coltivati in passato. Poiché Malvasia del Lazio e MUSCAT DI HAMBURG condividono gli stessi genitori, sono fratelli e sorelle a pieno titolo (vedere i diagrammi pedigree di MUSCAT e Schiava Grossa).
+Recenti profili del DNA hanno dimostrato che la Malvasia del Lazio è un incrocio naturale tra Moscato di Alessandria e [Schiava Grossa](/vitigni/Italia/schiava-grossa) (Lacombe et al. 2007), il che spiega il leggero aroma di Moscato delle sue bacche. L'incrocio è avvenuto molto probabilmente nel Lazio, dove entrambi i genitori devono essere stati coltivati in passato. Poiché Malvasia del Lazio e [Moscato di Amburgo](/vitigni/Regno-Unito/Muscat-of-Hamburg) condividono gli stessi genitori, sono fratelli e sorelle a pieno titolo (vedere i diagrammi pedigree di [Muscat](/vitigni/Francia/muscat) e Schiava Grossa).
 
 Il sinonimo di Malvasia Puntinata deriva dai tipici puntini singoli (punti in italiano) sugli acini.
 
