@@ -1,32 +1,37 @@
-Produttore,Vino,Media Grezza,Media Pesata,Prezzo,2020,2019,2018,2017,2016,2015,2014,2013
-Alberto Giacobbe,Cesanese Del Piglio Superiore Riserva Lepanto,4.5,5.0,25-29,sv,sv,5,5,4,5,4,4
-Casale Della Ioria,Cesanese Del Piglio Zero S,3.0,0.2,10-14,sv,3,sv,sv,sv,sv,sv,sv
-Casale Della Ioria,Cesanese Del Piglio Superiore Riserva Torre Del Piano,4.8,5.0,20-24,sv,5,sv,5,4,5,sv,5
-Casale Della Ioria,Cesanese Del Piglio Superiore Tenuta Della Ioria,3.0,1.1,10-14,sv,sv,4,3,3,2,sv,sv
-Casale Della Ioria,Cesanese Del Piglio Campo Novo,2.5,0.3,10-14,sv,2,sv,sv,3,sv,sv,sv
-Corte Dei Papi,Cesanese Del Piglio San Magno,3.3,1.0,20-24,sv,4,3,sv,sv,3,sv,sv
-Corte Dei Papi,Cesanese Del Piglio Colle Ticchio,2.5,0.6,10-14,3,3,sv,2,2,sv,sv,sv
-Corte Dei Papi,Cesanese Del Piglio Superiore Ottavocielo,3.0,0.4,25-29,sv,sv,3,sv,sv,sv,sv,3
-Federici,Cesanese Del Piglio Sapiens,3.0,0.4,15-19,sv,3,sv,sv,sv,3,sv,sv
-Giovanni Terenzi,Cesanese Del Piglio Superiore Riserva Vajoscuro,4.7,5.0,15-19,sv,5,4,5,5,5,sv,4
-Giovanni Terenzi,Cesanese Del Piglio Superiore Colle Forma,3.6,3.4,10-14,sv,4,5,4,3,sv,sv,2
-Giovanni Terenzi,Cesanese Del Piglio Velobra,2.4,0.6,5-9,sv,3,sv,3,2,2,2,sv
-L'Avventura,Cesanese Del Piglio Superiore Picchiatello,3.0,0.8,15-19,sv,3,3,3,3,sv,sv,sv
-L'Avventura,Cesanese Del Piglio Superiore Amor,3.3,1.0,25-29,sv,3,4,3,sv,sv,sv,sv
-L'Avventura,Cesanese Del Piglio Superiore Arringo,3.0,0.4,25-29,sv,3,3,sv,sv,sv,sv,sv
-L'Avventura,Cesanese Del Piglio Campanino,3.0,0.4,15-19,sv,3,3,sv,sv,sv,sv,sv
-L'Avventura,Cesanese Del Piglio Riserva Camere Pinte,3.0,0.2,30-34,sv,sv,sv,3,sv,sv,sv,sv
-Luca Sbardella,Cesanese Del Piglio Superiore ,3.0,0.4,15-19,sv,3,3,sv,sv,sv,sv,sv
-Pileum,Cesanese Del Piglio Superiore Riserva Bolla Di Urbano,3.5,1.7,25-29,sv,4,3,sv,4,sv,3,sv
-Pileum,Cesanese Del Piglio Superiore Massitum,2.3,0.4,10-14,sv,3,sv,sv,2,2,sv,sv
-Pileum,Cesanese Del Piglio Superiore I Cloni,3.0,0.2,15-19,sv,3,sv,sv,sv,sv,sv,sv
-Pileum,Cesanese Del Piglio Superiore Riserva Pilarocca,4.0,2.1,25-29,sv,sv,sv,sv,5,3,sv,sv
-Pileum,Cesanese Del Piglio,2.0,0.1,5-9,sv,sv,sv,sv,sv,2,sv,sv
-Terre Antiche,Cesanese Del Piglio Eufonia,4.0,0.6,20-24,sv,4,sv,sv,sv,sv,sv,sv
-Terre Antiche,Cesanese Del Piglio Rubino,2.0,0.1,15-19,2,sv,sv,sv,sv,sv,sv,sv
-Cantina Sociale Del Piglio,Cesanese Del Piglio Cerciole,2.0,0.1,5-9,sv,sv,sv,sv,2,sv,sv,sv
-Cantina Sociale Del Piglio,Cesanese Del Piglio Elcini,2.0,0.1,10-14,sv,sv,sv,sv,sv,2,sv,sv
-Cantina Sociale Del Piglio,Cesanese Del Piglio De Antiochia,2.0,0.1,5-9,sv,sv,sv,sv,sv,2,sv,sv
-Villa Simone,Cesanese Del Piglio Villa Simone,2.0,0.1,10-14,sv,sv,sv,2,sv,2,sv,sv
-Coletti Conti,Cesanese Del Piglio Superiore Romanico,3.0,0.4,20-24,sv,sv,sv,sv,sv,3,3,sv
-Coletti Conti,Cesanese Del Piglio Hernicus,3.0,0.4,10-14,sv,sv,sv,sv,sv,3,3,sv
+Produttore,Vino,Media Grezza,Media Pesata,Prezzo,2020,2019,2018,2017,2016,2015,2014,2013,2012
+Alberto Giacobbe,Cesanese Del Piglio Superiore Riserva Lepanto,4.5,5.0,25-29,sv,sv,5,5,4,5,4,4,sv
+Alberto Giacobbe,Cesanese Di Olevano Romano Superiore Giacobbe,3.2,2.0,15-19,4,3,sv,3,3,4,2,sv,sv
+Cantina Sociale Del Piglio,Cesanese Del Piglio Cerciole,2.0,0.1,5-9,sv,sv,sv,sv,2,sv,sv,sv,sv
+Cantina Sociale Del Piglio,Cesanese Del Piglio Elcini,2.0,0.1,10-14,sv,sv,sv,sv,sv,2,sv,sv,sv
+Cantina Sociale Del Piglio,Cesanese Del Piglio De Antiochia,2.0,0.1,5-9,sv,sv,sv,sv,sv,2,sv,sv,sv
+Casale Della Ioria,Cesanese Del Piglio Zero S,3.0,0.2,10-14,sv,3,sv,sv,sv,sv,sv,sv,sv
+Casale Della Ioria,Cesanese Del Piglio Superiore Riserva Torre Del Piano,4.8,5.0,20-24,sv,5,sv,5,4,5,sv,5,sv
+Casale Della Ioria,Cesanese Del Piglio Superiore Tenuta Della Ioria,3.0,1.1,10-14,sv,sv,4,3,3,2,sv,sv,sv
+Casale Della Ioria,Cesanese Del Piglio Campo Novo,2.5,0.3,10-14,sv,2,sv,sv,3,sv,sv,sv,sv
+Coletti Conti,Cesanese Del Piglio Superiore Romanico,3.0,0.4,20-24,sv,sv,sv,sv,sv,3,3,sv,sv
+Coletti Conti,Cesanese Del Piglio Hernicus,3.0,0.4,10-14,sv,sv,sv,sv,sv,3,3,sv,sv
+Corte Dei Papi,Cesanese Del Piglio San Magno,3.3,1.0,20-24,sv,4,3,sv,sv,3,sv,sv,sv
+Corte Dei Papi,Cesanese Del Piglio Colle Ticchio,2.5,0.6,10-14,3,3,sv,2,2,sv,sv,sv,sv
+Corte Dei Papi,Cesanese Del Piglio Superiore Ottavocielo,3.0,0.4,25-29,sv,sv,3,sv,sv,sv,sv,3,sv
+Damiano Ciolli,Cesanese Di Olevano Romano Riserva Cirsium,4.8,5.0,25-29,sv,sv,sv,5,5,4,5,5,5
+Damiano Ciolli,Cesanese Di Olevano Romano Superiore Silene,3.5,2.5,10-14,sv,3,3,3,4,4,4,sv,sv
+Federici,Cesanese Del Piglio Sapiens,3.0,0.4,15-19,sv,3,sv,sv,sv,3,sv,sv,sv
+Formiconi,Cesanese Di Affile Riserva Capozzano,5.0,5.0,15-19,sv,5,5,5,5,5,5,sv,sv
+Formiconi,Cesanese Di Affile Cisinianum,3.5,2.5,10-14,3,4,3,3,sv,4,4,sv,sv
+Giovanni Terenzi,Cesanese Del Piglio Superiore Riserva Vajoscuro,4.7,5.0,15-19,sv,5,4,5,5,5,sv,4,sv
+Giovanni Terenzi,Cesanese Del Piglio Superiore Colle Forma,3.6,3.4,10-14,sv,4,5,4,3,sv,sv,2,sv
+Giovanni Terenzi,Cesanese Del Piglio Velobra,2.4,0.6,5-9,sv,3,sv,3,2,2,2,sv,sv
+L'Avventura,Cesanese Del Piglio Superiore Picchiatello,3.0,0.8,15-19,sv,3,3,3,3,sv,sv,sv,sv
+L'Avventura,Cesanese Del Piglio Superiore Amor,3.3,1.0,25-29,sv,3,4,3,sv,sv,sv,sv,sv
+L'Avventura,Cesanese Del Piglio Superiore Arringo,3.0,0.4,25-29,sv,3,3,sv,sv,sv,sv,sv,sv
+L'Avventura,Cesanese Del Piglio Campanino,3.0,0.4,15-19,sv,3,3,sv,sv,sv,sv,sv,sv
+L'Avventura,Cesanese Del Piglio Riserva Camere Pinte,3.0,0.2,30-34,sv,sv,sv,3,sv,sv,sv,sv,sv
+Luca Sbardella,Cesanese Del Piglio Superiore ,3.0,0.4,15-19,sv,3,3,sv,sv,sv,sv,sv,sv
+Pileum,Cesanese Del Piglio Superiore Riserva Bolla Di Urbano,3.5,1.7,25-29,sv,4,3,sv,4,sv,3,sv,sv
+Pileum,Cesanese Del Piglio Superiore Massitum,2.3,0.4,10-14,sv,3,sv,sv,2,2,sv,sv,sv
+Pileum,Cesanese Del Piglio Superiore I Cloni,3.0,0.2,15-19,sv,3,sv,sv,sv,sv,sv,sv,sv
+Pileum,Cesanese Del Piglio Superiore Riserva Pilarocca,4.0,2.1,25-29,sv,sv,sv,sv,5,3,sv,sv,sv
+Pileum,Cesanese Del Piglio,2.0,0.1,5-9,sv,sv,sv,sv,sv,2,sv,sv,sv
+Terre Antiche,Cesanese Del Piglio Eufonia,4.0,0.6,20-24,sv,4,sv,sv,sv,sv,sv,sv,sv
+Terre Antiche,Cesanese Del Piglio Rubino,2.0,0.1,15-19,2,sv,sv,sv,sv,sv,sv,sv,sv
+Villa Simone,Cesanese Del Piglio Villa Simone,2.0,0.1,10-14,sv,sv,sv,2,sv,2,sv,sv,sv
