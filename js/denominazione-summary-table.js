@@ -89,17 +89,14 @@ export function denominazioneSummaryTable(){
       const mediaPesataAll = el.querySelectorAll("td[data-th='V Score']")
       mediaPesataAll.forEach(k =>{
             const value = (k.innerText * 100) / 5;
-            const valueFixed = value.toFixed(1)
-            const valueFixedZ = value.toFixed(0)
+            const valueFixed = value.toFixed(0)
             if (window.innerWidth >= 600) {
                   k.style.width = valueFixed + "%"  
-                  k.innerText = valueFixed
             } else {
                   k.style.width = valueFixed + "%"
-                  k.innerText = valueFixedZ
             }
             k.setAttribute("title",valueFixed)
-
+            k.innerText = valueFixed
       })
       const firstTh = el.querySelector('th:nth-child(1)');
         firstTh.setAttribute("scope","col");
