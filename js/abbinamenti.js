@@ -1,47 +1,81 @@
 export function abbinamentiTree(){
-  var svg = d3.select("svg.abbinamenti"),
-      width = +svg.attr("width"),
-      height = +svg.attr("height"),
-      g = svg.append("g").attr("transform", "translate(" + (width / 2 + 40) + "," + (height / 2 + 90) + ")");
+  var margin = {top: 20, right: 90, bottom: 30, left: 90},
+    width = 660 - margin.left - margin.right,
+    height = 500 - margin.top - margin.bottom;
 
-  var stratify = d3.stratify()
-      .parentId(function(d) { return d.id.substring(0, d.id.lastIndexOf(".")); });
+// declares a tree layout and assigns the size
+var treemap = d3.tree()
+    .size([height, width]);
 
-  var tree = d3.tree()
-      .size([2 * Math.PI, 500])
-      .separation(function(a, b) { return (a.parent == b.parent ? 1 : 2) / a.depth; });
+// load the external data
+d3.csv("DOCG-Frascati-Superiore/abbinamenti.csv").then(function(flatData) {
 
-  d3.csv("DOCG-Frascati-Superiore/abbinamenti.csv", function(error, data) {
-    if (error) throw error;
+  // assign null correctly
+  flatData.forEach(function(d) {
+      if (d.parent == "null") { d.parent = null};
+    });
 
-    var root = tree(stratify(data));
+  // convert the flat data into a hierarchy 
+  var treeData = d3.stratify()
+    .id(function(d) { return d.id; })
+    .parentId(function(d) { return d.parentId; })
+    (flatData);
 
-    var link = g.selectAll(".link")
-      .data(root.links())
-      .enter().append("path")
-        .attr("class", "link")
-        .attr("d", d3.linkRadial()
-            .angle(function(d) { return d.x; })
-            .radius(function(d) { return d.y; }));
+  // assign the name to each node
+  treeData.each(function(d) {
+      d.name = d.data.name;
+    });
 
-    var node = g.selectAll(".node")
-      .data(root.descendants())
-      .enter().append("g")
-        .attr("class", function(d) { return "node" + (d.children ? " node--internal" : " node--leaf"); })
-        .attr("transform", function(d) { return "translate(" + radialPoint(d.x, d.y) + ")"; });
+  //  assigns the data to a hierarchy using parent-child relationships
+  var nodes = d3.hierarchy(treeData, function(d) {
+    return d.children;
+    });
 
-    node.append("circle")
-        .attr("r", 2.5);
+  // maps the node data to the tree layout
+  nodes = treemap(nodes);
 
-    node.append("text")
-        .attr("dy", "0.31em")
-        .attr("x", function(d) { return d.x < Math.PI === !d.children ? 6 : -6; })
-        .attr("text-anchor", function(d) { return d.x < Math.PI === !d.children ? "start" : "end"; })
-        .attr("transform", function(d) { return "rotate(" + (d.x < Math.PI ? d.x - Math.PI / 2 : d.x + Math.PI / 2) * 180 / Math.PI + ")"; })
-        .text(function(d) { return d.id.substring(d.id.lastIndexOf(".") + 1); });
-  });
+  // append the svg object to the body of the page
+  // appends a 'group' element to 'svg'
+  // moves the 'group' element to the top left margin
+  var svg = d3.select(".abbinamenti").append("svg")
+      .attr("width", width + margin.left + margin.right)
+      .attr("height", height + margin.top + margin.bottom),
+    g = svg.append("g")
+      .attr("transform",
+        "translate(" + margin.left + "," + margin.top + ")");
 
-  function radialPoint(x, y) {
-    return [(y = +y) * Math.cos(x -= Math.PI / 2), y * Math.sin(x)];
-  }
+  // adds the links between the nodes
+  var link = g.selectAll(".link")
+    .data( nodes.descendants().slice(1))
+    .enter().append("path")
+    .attr("class", "link")
+    .attr("d", function(d) {
+       return "M" + d.y + "," + d.x
+       + "C" + (d.y + d.parent.y) / 2 + "," + d.x
+       + " " + (d.y + d.parent.y) / 2 + "," + d.parent.x
+       + " " + d.parent.y + "," + d.parent.x;
+       });
+
+  // adds each node as a group
+  var node = g.selectAll(".node")
+    .data(nodes.descendants())
+    .enter().append("g")
+    .attr("class", function(d) { 
+      return "node" + 
+      (d.children ? " node--internal" : " node--leaf"); })
+    .attr("transform", function(d) { 
+      return "translate(" + d.y + "," + d.x + ")"; });
+
+  // adds the circle to the node
+  node.append("circle")
+    .attr("r", 10);
+
+  // adds the text to the node
+  node.append("text")
+    .attr("dy", ".35em")
+    .attr("x", function(d) { return d.children ? -13 : 13; })
+    .style("text-anchor", function(d) { 
+    return d.children ? "end" : "start"; })
+    .text(function(d) { return d.data.name; });
+});
 }

@@ -1,6 +1,101 @@
-id,value
-FrascatiSuperiore,1
-FrascatiSuperiore.pesce,2
-FrascatiSuperiore.pesce.allapiastra,3
-FrascatiSuperiore.pesce.allapiastra.polpo,4
-FrascatiSuperiore.pesce.allapiastra.polpo.sucremadicannellini,5
+name,parent,id,parentId
+Frascati Superiore,null,1,
+Carne,Frascati Superiore,2,1
+Carni bianche,Carne,3,2
+Carni rosse,Carne,4,2
+Quinto Quarto,Carne,5,2
+in padella,Carni bianche,6,3
+al forno,Carni bianche,7,3
+in padella,Quinto Quarto,8,5
+Faraona,in padella,9,6
+Pollo,in padella,10,6
+Cotiche,in padella,11,6
+Faraona,al forno,12,7
+Tacchino,al forno,13,7
+cosciotto con patate in camicia,Faraona,14,9
+con peperoni in agrodolce,Pollo,15,10
+con fagioli,Cotiche,16,11
+ripiena,Faraona,17,12
+rotolo alle erbe,Tacchino,18,13
+in padella,Carni rosse,19,4
+Vitello,in padella,20,19
+tonnato,Vitello,21,20
+Uova,Frascati Superiore,22,1
+al tegamino con asparagi,Uova,23,22
+frittata con asparagi,Uova,24,22
+Vegetali,Frascati Superiore,25,1
+Timballo pasticciato di carciofi,Vegetali,26,25
+Patate e funghi porcini,Vegetali,27,25
+Peperoni imbottiti al pollo,Vegetali,28,25
+Cereali,Frascati Superiore,29,1
+Riso,Cereali,30,29
+Riso patate e cozze,Riso,31,30
+Risotto,Riso,32,30
+con asparagi e gamberi,Risotto,33,32
+Farro,Cereali,34,29
+Insalata di farro con verdure grigliate e scampi,Farro,35,34
+Pasta,Cereali,36,29
+con carne,Pasta,37,36
+con pesce,Pasta,38,36
+con burrata e pomodori secchi,Pasta,39,36
+al burro e salvia,Pasta,40,36
+al pesto di pistacchi,Pasta,41,36
+al forno,Pasta,42,36
+carbonara,Pasta,43,36
+alla gricia,Pasta,44,36
+cacio e pepe,Pasta,45,36
+tonnarelli,cacio e pepe,46,45
+Gnocchi,al pesto di pistacchi,47,41
+Gnocchi,al burro e salvia,48,40
+Spaghetti,carbonara,49,43
+Timballo con ricotta e zafferano,al forno,50,42
+all'astice,con pesce,51,38
+allo scoglio,con pesce,52,38
+con cozze vongole e pomodorini,con pesce,53,38
+con ragù di scorfano,con pesce,54,38
+tonno e bottarga,con pesce,55,38
+con asparagi e gamberi in salsa di cannellini,con pesce,56,38
+con vongole e bottarga,con pesce,57,38
+con le telline,con pesce,58,38
+linguine,allo scoglio,59,38
+linguine,all'astice,60,51
+paccheri,con ragù di scorfano,61,54
+spaghetti,tonno e bottarga,62,55
+linguine,con asparagi e gamberi in salsa di cannellini,63,56
+paccheri,con vongole e bottarga,64,57
+spaghetti,allo scoglio,65,52
+spaghetti,con le telline,66,58
+Pesce,Frascati Superiore,67,1
+alla piastra,Pesce,68,67
+in padella,Pesce,69,67
+Zuppa,Pesce,70,67
+al coccio,Pesce,71,67
+mantecato,Pesce,72,67
+crudo,Pesce,73,67
+arrosto,Pesce,74,67
+in cartoccio,Pesce,75,67
+alla griglia,Pesce,76,67
+in guazzetto,Pesce,77,67
+al forno,Pesce,78,67
+Polpo su crema di cannellini,alla piastra,79,68
+Sarago,alla griglia,80,76
+Sgombro con cipolle e carciofi,in padella,81,69
+Polpo con patate e capperi,al coccio,82,71
+Tonno su crema di cannellini,in padella,83,69
+Spigola alle erbe in crosta di sale,in padella,84,69
+misto di mare,crudo,85,73
+alici imbottite,al forno,86,78
+Triglie,in cartoccio,87,75
+Cernia in salsa di pistacchi,in padella,88,69
+tartare di ricciola con stracciatella,crudo,89,73
+tartare di tonno,crudo,90,73
+Salmone con asparagi e salsa olandese,arrosto,91,74
+Baccalà con purè,mantecato,92,72
+Baccalà,in guazzetto,93,77
+Sogliola alla mugnaia,al forno,94,78
+Calamaro su ricotta e zest di limone,alla griglia,95,76
+Gambero con olio e pepe,crudo,96,73
+Sarago alla mediterranea,in cartoccio,97,75
+Maltagliati con fave fresche e bottarga,con pesce,98,38
+con colatura di alici,con pesce,99,38
+Mezze maniche agli scampi,con pesce,100,38
