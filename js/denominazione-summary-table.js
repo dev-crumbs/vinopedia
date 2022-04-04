@@ -85,21 +85,13 @@ export function denominazioneSummaryTable(){
           k.style.color = "#252525"
         } 
       })
-      /*const mediaPesataAll = el.querySelectorAll("td[data-th='Media Pesata']")
+      // graphic media Pesata
+      const mediaPesataAll = el.querySelectorAll("td[data-th='Media Pesata']")
       mediaPesataAll.forEach(k =>{
-        k.style.fontWeight = "900"
-        if (k.innerText >= 0 && k.innerText <= 0.9 ){
-          k.style.color = "#cecece"
-        } else if (k.innerText >= 1 && k.innerText <= 1.5 ) {
-          k.style.color = "#a0a0a0"
-        } else if (k.innerText >= 1.6 && k.innerText <= 2.5 ) {
-          k.style.color = "#747474"
-        } else if (k.innerText >= 2.6 && k.innerText <= 3.4 ) {
-          k.style.color = "#4b4b4b"
-        } else if (k.innerText >= 3.5 && k.innerText <= 5 ) {
-          k.style.color = "#252525"
-        }
-      })*/
+            const value = (k.innerText * 100) / 5;
+            k.style.width = value + "%"
+            k.style.opacity = value + "%"            
+      })
       const firstTh = el.querySelector('th:nth-child(1)');
         firstTh.setAttribute("scope","col");
         firstTh.classList.add("table__header");
