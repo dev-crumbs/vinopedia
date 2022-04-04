@@ -89,8 +89,9 @@ export function denominazioneSummaryTable(){
       const mediaPesataAll = el.querySelectorAll("td[data-th='Media Pesata']")
       mediaPesataAll.forEach(k =>{
             const value = (k.innerText * 100) / 5;
-            k.style.width = value + "%"
-            k.style.opacity = value + "%"            
+            const valueFixed = value.toFixed(1)
+            k.style.width = valueFixed + "%"       
+            k.setAttribute("title",valueFixed)
       })
       const firstTh = el.querySelector('th:nth-child(1)');
         firstTh.setAttribute("scope","col");
