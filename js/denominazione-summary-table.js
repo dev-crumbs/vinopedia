@@ -90,8 +90,16 @@ export function denominazioneSummaryTable(){
       mediaPesataAll.forEach(k =>{
             const value = (k.innerText * 100) / 5;
             const valueFixed = value.toFixed(1)
-            k.style.width = valueFixed + "%"       
+            const valueFixedZ = value.toFixed(0)
+            if (window.innerWidth >= 600) {
+                  k.style.width = valueFixed + "%"  
+                  k.innerText = valueFixed
+            } else {
+                  k.style.width = valueFixed + "%"
+                  k.innerText = valueFixedZ
+            }
             k.setAttribute("title",valueFixed)
+
       })
       const firstTh = el.querySelector('th:nth-child(1)');
         firstTh.setAttribute("scope","col");
@@ -104,6 +112,8 @@ export function denominazioneSummaryTable(){
         thirdTh.classList.add("table__header");
       const fourthTh = el.querySelector('th:nth-child(4)');
         fourthTh.setAttribute("scope","col");
+        fourthTh.classList.add("table__header");
+        fourthTh.setAttribute("data-type","number");
         fourthTh.classList.add("table__header");
       const fifthTh = el.querySelector('th:nth-child(5)');
         fifthTh.setAttribute("scope","col");

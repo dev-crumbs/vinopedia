@@ -28,24 +28,24 @@ table.produttore-table th:nth-child(2) {min-width: 110px; cursor:pointer}
 /* #endregion */
 
 /* #region SUMMARY TABLES DENOMINAZIONE*/
-td[data-th="Media Pesata"]{
-  font-size: 80%;
-  color: gray;
-  text-align: left;
-  position:relative;
+  .denominazione-table td[data-th="Media Pesata"]{
+    color: gray;
+    text-align: left;
+    position:relative;
+  }
 
-}
-td[data-th="Media Pesata"]:before{
-  position: absolute;
-  background-color: #1976d2;
-  height:20px;
-  content: '';
-  left:0px;
-  width: inherit;
-  border-top-right-radius:7px;
-  border-bottom-right-radius:7px;
-}
 @media screen and (min-width: 599px) {
+
+  td[data-th="Media Pesata"]:after{
+    position: absolute;
+    background-color: #1976d2;
+    height:20px;
+    content: '';
+    left:0px;
+    width: inherit;
+    border-top-right-radius:7px;
+    border-bottom-right-radius:7px;
+  }
   [role="region"][aria-labelledby][tabindex] {
     width: 90%;
     max-height: 500px;
@@ -127,6 +127,31 @@ td[data-th="Media Pesata"]:before{
 
 @media screen and (max-width: 599px) {
 
+  td[data-th="Media Pesata"]:before{
+    position: absolute;
+    content: '';
+    background-color: #1976d2;
+    height:20px;
+    left:0px;
+    width: inherit;
+    border-top-right-radius:7px;
+    border-bottom-right-radius:7px;
+    max-width:92%;
+  }
+  td[data-th="Media Pesata"]:after{
+    position:absolute;
+    content: 'Media Pesata';
+    font-weight: normal;
+    text-align:left;
+    left: 4px;
+    top: 1px;
+    color: lightgray;
+  }
+
+  td[data-th="Media Pesata"]{
+    min-width:100%
+  }
+  
   .denominazione-table{
     overflow:hidden
   }
@@ -153,7 +178,7 @@ td[data-th="Media Pesata"]:before{
     text-align: right;
   }
   
-  .denominazione-table td:nth-child(n+3):before {
+  .denominazione-table td:nth-child(n+5):before {
     content: attr(data-th);
     float: left;
     font-weight: normal
