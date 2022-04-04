@@ -12,6 +12,7 @@ import {schedaGlobaleImport} from './it/js/scheda-globale-import.js';
 import {schedaSingolaImport} from './it/js/scheda-singola-import.js';
 import {sentoreCheck} from './it/js/listone-olfattivo.js';
 import {esperienzeImport} from './it/js/esperienze-import.js';
+import {abbinamentiTree} from './it/js/abbinamenti.js';
 
 window.addEventListener("load", function() {
     // custom label for search field
@@ -89,10 +90,11 @@ window.addEventListener("load", function() {
         document.querySelector('#filterInput').addEventListener('keyup', tableFilter)
         setTimeout(tableSort, 1000)
     }
-    // denominazione talbe
+    // denominazione table
     if (window.location.href.indexOf("/denominazioni/") != -1) {
         denominazioneSummaryTable()
         denominazioneTableFilter()
+        abbinamentiTree()
         setTimeout(tableSort, 1000)
     }
     // cantina
