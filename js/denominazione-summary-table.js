@@ -85,8 +85,8 @@ export function denominazioneSummaryTable(){
           k.style.color = "#252525"
         } 
       })
-      // graphic media Pesata
-      const mediaPesataAll = el.querySelectorAll("td[data-th='Media Pesata']")
+      // graphic V Score
+      const mediaPesataAll = el.querySelectorAll("td[data-th='V Score']")
       mediaPesataAll.forEach(k =>{
             const value = (k.innerText * 100) / 5;
             const valueFixed = value.toFixed(1)
