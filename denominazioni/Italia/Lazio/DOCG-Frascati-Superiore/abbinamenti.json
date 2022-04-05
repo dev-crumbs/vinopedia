@@ -2,24 +2,30 @@
   "children": [
       {
         "name": "Pesce",
+        "family": "Pesce",
         "children": [
           {
             "name": "in padella",
+            "family": "Pesce",
             "children": [
               {
                 "name": "Sgombro con cipolle e carciofi",
+                "family": "Pesce",
                 "colname": "level4"
               },
               {
                 "name": "Tonno su crema di cannellini",
+                "family": "Pesce",
                 "colname": "level4"
               },
               {
                 "name": "Spigola alle erbe in crosta di sale",
+                "family": "Pesce",
                 "colname": "level4"
               },
               {
                 "name": "Cernia in salsa di pistacchi",
+                "family": "Pesce",
                 "colname": "level4"
               }
             ],
@@ -27,21 +33,26 @@
           },
           {
             "name": "crudo",
+            "family": "Pesce",
             "children": [
               {
                 "name": "Misto di mare",
+                "family": "Pesce",
                 "colname": "level4"
               },
               {
                 "name": "Tartare di ricciola con stracciatella",
+                "family": "Pesce",
                 "colname": "level4"
               },
               {
                 "name": "Spigola alle erbe in crosta di sale",
+                "family": "Pesce",
                 "colname": "level4"
               },
               {
                 "name": "Gambero con olio e pepe",
+                "family": "Pesce",
                 "colname": "level4"
               }
             ],
@@ -49,13 +60,16 @@
           },
           {
             "name": "in cartoccio",
+            "family": "Pesce",
             "children": [
               {
                 "name": "Triglie",
+                "family": "Pesce",
                 "colname": "level4"
               },
               {
                 "name": "Sarago alla mediterranea",
+                "family": "Pesce",
                 "colname": "level4"
               }
             ],
@@ -63,13 +77,16 @@
           },
           {
             "name": "alla griglia",
+            "family": "Pesce",
             "children": [
               {
                 "name": "Sarago alla griglia",
+                "family": "Pesce",
                 "colname": "level4"
               },
               {
                 "name": "Calamaro su ricotta e zest di limone",
+                "family": "Pesce",
                 "colname": "level4"
               }
             ],
@@ -77,13 +94,16 @@
           },
           {
             "name": "al forno",
+            "family": "Pesce",
             "children": [
               {
                 "name": "Alici imbottite",
+                "family": "Pesce",
                 "colname": "level4"
               },
               {
                 "name": "Sogliola alla mugnaia",
+                "family": "Pesce",
                 "colname": "level4"
               }
             ],
@@ -91,26 +111,32 @@
           },
           {
             "name": "Polpo alla piastra su crema di cannellini",
+            "family": "Pesce",
             "colname": "level3"
           },
           {
             "name": "Zuppa di pesce",
+            "family": "Pesce",
             "colname": "level3" 
           },
           {
             "name": "Polpo con patate e capperi al coccio",
+            "family": "Pesce",
             "colname": "level3"
           },
           {
             "name": "Baccalà mantecato con purè",
+            "family": "Pesce",
             "colname": "level3"
           },
           {
             "name": "Salmone arrosto con asparagi e salsa olandese",
+            "family": "Pesce",
             "colname": "level3"
           },
           {
             "name": "Baccalà in guazzetto",
+            "family": "Pesce",
             "colname": "level3"
           }
         ],
@@ -121,13 +147,16 @@
         "children": [
           {
             "name": "Riso",
+            "family": "Riso",
             "children": [
               {
                 "name": "Riso patate e cozze",
+                "family": "Riso",
                 "colname": "level4"
               },
               {
                 "name": "Risotto con asparagi e gamberi",
+                "family": "Riso",
                 "colname": "level4"
               }
             ],
@@ -135,9 +164,11 @@
           },
           {
             "name": "Farro",
+            "family": "Farro",
             "children": [
               {
                 "name": "Insalata di farro con verdure grigliate e scampi",
+                "family": "Farro",
                 "colname": "level4"
               }
             ],
@@ -148,58 +179,72 @@
             "children": [
               {
                 "name": "Gnocchi burro e salvia",
-                "colname": "level4"
+                "colname": "level4",
+                "family": "Pasta"
               },
               {
                 "name": "Gnocchi al pesto di pistacchi",
-                "colname": "level4"
+                "colname": "level4",
+                "family": "Pasta"
               },
               {
                 "name": "Spaghetti alla carbonara",
-                "colname": "level4"
+                "colname": "level4",
+                "family": "Pasta"
               },
               {
                 "name": "Tonnarelli cacio e pepe",
-                "colname": "level4"
+                "colname": "level4",
+                "family": "Pasta"
               },
               {
                 "name": "Gnocchi con burrata e pomodori secchi",
-                "colname": "level4"
+                "colname": "level4",
+                "family": "Pesce"
               },
               {
                 "name": "Piatti di pesce",
+                "family": "Pasta",
                 "children": [
                   {
                     "name": "all'astice",
-                    "colname": "level5"
+                    "colname": "level5",
+                    "family": "Pasta"
                   },
                   {
                     "name": "allo scoglio",
-                    "colname": "level5"
+                    "colname": "level5",
+                    "family": "Pasta"
                   },
                   {
                     "name": "con cozze vongole e pomodorini",
-                    "colname": "level5"
+                    "colname": "level5",
+                    "family": "Pasta"
                   },
                   {
                     "name": "con ragù di scorfano",
-                    "colname": "level5"
+                    "colname": "level5",
+                    "family": "Pasta"
                   },
                   {
                     "name": "con tonno e bottarga",
-                    "colname": "level5"
+                    "colname": "level5",
+                    "family": "Pasta"
                   },
                   {
                     "name": "con asparagi e gamberi in salsa di cannellini",
-                    "colname": "level5"
+                    "colname": "level5",
+                    "family": "Pasta"
                   },
                   {
                     "name": "con vongole e bottarga",
-                    "colname": "level5"
+                    "colname": "level5",
+                    "family": "Pasta"
                   },
                   {
                     "name": "con le telline",
-                    "colname": "level5"
+                    "colname": "level5",
+                    "family": "Pasta"
                   }
                 ],
                 "colname": "level4"
@@ -212,34 +257,42 @@
       },
       {
         "name": "Carne",
+        "family": "Carne",
         "children": [
            {
               "name": "Carni bianche",
+              "family": "Carne",
               "children": [
                  {
                     "name": "in padella",
+                    "family": "Carne",
                     "children": [
                        {
                           "name": "Cosciotto di faraona con patate in camicia",
-                          "colname": "level5"
+                          "colname": "level5",
+                          "family": "Carne"
                        },
                        {
                           "name": "Pollo con peperoni in agrodolce",
-                          "colname": "level5"
+                          "colname": "level5",
+                          "family": "Carne"
                        }
                     ],
                     "colname": "level4"
                  },
                  {
                     "name": "al forno",
+                    "family": "Carne",
                     "children": [
                        {
                           "name": "Faraona ripiena",
-                          "colname": "level5"
+                          "colname": "level5",
+                          "family": "Carne"
                        },
                        {
                           "name": "Rotolo di tacchino alle erbe",
-                          "colname": "level5"
+                          "colname": "level5",
+                          "family": "Carne"
                        }
                     ],
                     "colname": "level4"
@@ -249,13 +302,16 @@
            },
            {
               "name": "Carni rosse",
+              "family": "Carne",
               "children": [
                  {
                     "name": "in padella",
+                    "family": "Carne",
                     "children": [
                        {
                           "name": "Vitello tonnato",
-                          "colname": "level5"
+                          "colname": "level5",
+                          "family": "Carne"
                        }
                     ],
                     "colname": "level4"
@@ -265,13 +321,16 @@
            },
            {
               "name": "Quinto Quarto",
+              "family": "Carne",
               "children": [
                  {
                     "name": "in padella",
+                    "family": "Carne",
                     "children": [
                        {
                           "name": "Cotiche con fagioli",
-                          "colname": "level5"
+                          "colname": "level5",
+                          "family": "Carne"
                        }
                     ],
                     "colname": "level4"
@@ -283,36 +342,40 @@
         "colname": "level2"
      },
      {
-        "name": "uova",
+        "name": "Uova",
+        "family": "Uova",
         "children": [
            {
               "name": "al tegamino con asparagi",
-              "colname": "level3"
+              "colname": "level3",
+              "family": "Uova"
            },
            {
               "name": "frittata con asparagi",
-              "colname": "level3"
+              "colname": "level3",
+              "family": "Uova"
            }
         ],
         "colname": "level2"
      },
      {
        "name": "Vegetali",
+       "family": "Vegetali",
        "children": [
          {
            "name": "Timballo pasticciato di carciofi",
            "colname": "level3",
-           "parent": "Vegetali"
+           "family": "Vegetali"
          },
          {
            "name": "Patate e funghi porcini",
            "colname": "level3",
-           "parent": "Vegetali"
+           "family": "Vegetali"
          },
          {
            "name": "Peperoni imbottiti al pollo",
            "colname": "level3",
-           "parent": "Vegetali"
+           "family": "Vegetali"
          }
        ],
        "colname": "level2"
