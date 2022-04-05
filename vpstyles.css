@@ -589,6 +589,14 @@ table.summary-table td:nth-child(1n+4) {text-align: right;}
 /* #endregion */
 
 /* #region ORIGINAL THEME FIX*/
+@media only screen and (min-width:550px) and (max-width:899px) {
+div.headline {
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  max-width: 75%
+}
+}
 @media only screen and (max-width:550px) {
   .container.grey .no-gutters {
     display: none!important
