@@ -140,6 +140,8 @@ export function sentoreCheck(i) {
       return "fruttato";
     case "kiwi":
       return "fruttato";
+    case "kumquat":
+      return "fruttato";
     case "lampone":
       return "fruttato";
     case "lime":
@@ -160,6 +162,8 @@ export function sentoreCheck(i) {
       return "fruttato";
     case "mela":
       return "fruttato";
+    case "mela golden":
+        return "fruttato";
     case "melagrana":
       return "fruttato";
     case "melone":
@@ -191,6 +195,8 @@ export function sentoreCheck(i) {
     case "ribes":
       return "fruttato";
     case "susina":
+      return "fruttato";
+    case "susina gialla":
       return "fruttato";
     case "uva moscato":
       return "fruttato";
@@ -299,6 +305,8 @@ export function sentoreCheck(i) {
     case "melissa":
       return "vegetale";
     case "menta":
+      return "vegetale";
+    case "mentuccia":
       return "vegetale";
     case "origano":
       return "vegetale";
@@ -506,6 +514,8 @@ export function sentoreCheck(i) {
       return "altri";
     case "foglia di tè":
       return "altri";
+    case "foglia di tè verde":
+      return "altri";
     case "formaggio":
       return "altri";
     case "incenso":
@@ -525,6 +535,8 @@ export function sentoreCheck(i) {
     case "mentolo":
       return "altri";
     case "miele":
+      return "altri";
+    case "miele di zagara":
       return "altri";
     case "oliva":
       return "altri";
@@ -549,6 +561,8 @@ export function sentoreCheck(i) {
     case "tamarindo":
       return "altri";
     case "torrone":
+      return "altri";
+    case "yougurt alla fragola":
       return "altri";
     case "zucchero a velo":
       return "altri";
