@@ -168,7 +168,7 @@
             "family": "Cereali",
             "children": [
               {
-                "name": "Insalata di farro con verdure grigliate e scampi",
+                "name": "Insalata di farro verdure grigliate e scampi",
                 "family": "Cereali",
                 "colname": "level4"
               }
@@ -234,7 +234,7 @@
                     "family": "Cereali"
                   },
                   {
-                    "name": "paccheri asparagi e gamberi in salsa di cannellini",
+                    "name": "asparagi e gamberi in salsa di cannellini",
                     "colname": "level5",
                     "family": "Cereali"
                   },

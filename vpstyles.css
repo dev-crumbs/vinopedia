@@ -848,3 +848,8 @@ max-width: 350px
 .minerale span:nth-child(1){
   color: #696969;
 }
+
+/*Abbinamenti*/
+.abbinamenti svg {
+  max-width: 800px
+}
