@@ -843,15 +843,12 @@ max-width: 350px
 .minerale{
  background-image: linear-gradient(90deg, white 0%, #d3d3d3);
 }
-
+.minerale span:nth-child(1){
+  color: #696969;
+}
 .etereo{
   background-image: linear-gradient(90deg, white 0%, purple);
 }
-
 .etereo span:nth-child(1){
-  background-image: linear-gradient(90deg, white 0%, purple);
-}
-
-.minerale span:nth-child(1){
-  color: #696969;
+  color: linear-gradient(90deg, white 0%, purple);
 }
