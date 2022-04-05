@@ -1,4 +1,6 @@
 export function abbinamentiTree(){
+  const abbinamentiCheck = document.querySelector(".abbinamenti")
+  if (abbinamentiCheck == null) {return }
   // set the dimensions and margins of the graph
   const width = 900
   const height = 1000
