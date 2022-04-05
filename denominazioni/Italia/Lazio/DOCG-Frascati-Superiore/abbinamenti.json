@@ -202,10 +202,6 @@
         "name": "Pesce",
         "children": [
           {
-            "name": "Polpo alla piastra su crema di cannellini",
-            "colname": "level3"
-          },
-          {
             "name": "in padella",
             "children": [
               {
@@ -228,18 +224,6 @@
             "colname": "level3"
           },
           {
-            "name": "Zuppa di pesce",
-            "colname": "level3" 
-          },
-          {
-            "name": "Polpo con patate e capperi al coccio",
-            "colname": "level3"
-          },
-          {
-            "name": "Baccalà mantecato con purè",
-            "colname": "level3"
-          },
-          {
             "name": "crudo",
             "children": [
               {
@@ -259,10 +243,6 @@
                 "colname": "level4"
               }
             ],
-            "colname": "level3"
-          },
-          {
-            "name": "Salmone arrosto con asparagi e salsa olandese",
             "colname": "level3"
           },
           {
@@ -294,10 +274,6 @@
             "colname": "level3"
           },
           {
-            "name": "Baccalà in guazzetto",
-            "colname": "level3"
-          },
-          {
             "name": "al forno",
             "children": [
               {
@@ -309,6 +285,30 @@
                 "colname": "level4"
               }
             ],
+            "colname": "level3"
+          },
+          {
+            "name": "Polpo alla piastra su crema di cannellini",
+            "colname": "level3"
+          },
+          {
+            "name": "Zuppa di pesce",
+            "colname": "level3" 
+          },
+          {
+            "name": "Polpo con patate e capperi al coccio",
+            "colname": "level3"
+          },
+          {
+            "name": "Baccalà mantecato con purè",
+            "colname": "level3"
+          },
+          {
+            "name": "Salmone arrosto con asparagi e salsa olandese",
+            "colname": "level3"
+          },
+          {
+            "name": "Baccalà in guazzetto",
             "colname": "level3"
           }
         ],
