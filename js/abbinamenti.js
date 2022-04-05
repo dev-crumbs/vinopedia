@@ -8,7 +8,7 @@ export function abbinamentiTree(){
     .append("svg")
   //    .attr("width", width)
     //  .attr("height", height)
-    .attr("viewBox", "0 0 800 600")
+    .attr("viewBox", "0 0 800 800")
     .attr("preserveAspectRatio", "xMinYMin meet")
     .append("g")
       .attr("transform", "translate(10,0)");  // bit of margin on the left = 40
