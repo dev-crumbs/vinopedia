@@ -1,4 +1,7 @@
 export function denominazioneSummaryTable(){
+  //checks
+  const denominazioneCheck = document.querySelector(".denominazioneTipo")
+  if (denominazioneCheck == null) {}
   var denominazione = document.querySelector(".denominazioneNome").innerText.replaceAll(' ', '-');
   var denominazioneTipo = document.querySelectorAll(".denominazioneTipo");
   var regione = document.querySelector(".denominazioneRegione").innerText
