@@ -301,15 +301,18 @@
        "children": [
          {
            "name": "Timballo pasticciato di carciofi",
-           "colname": "level3"
+           "colname": "level3",
+           "parent": "Vegetali"
          },
          {
            "name": "Patate e funghi porcini",
-           "colname": "level3"
+           "colname": "level3",
+           "parent": "Vegetali"
          },
          {
            "name": "Peperoni imbottiti al pollo",
-           "colname": "level3"
+           "colname": "level3",
+           "parent": "Vegetali"
          }
        ],
        "colname": "level2"
