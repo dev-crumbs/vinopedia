@@ -850,5 +850,5 @@ max-width: 350px
   background-image: linear-gradient(90deg, white 0%, purple);
 }
 .etereo span:nth-child(1){
-  color: linear-gradient(90deg, white 0%, purple);
+  color: purple;
 }
