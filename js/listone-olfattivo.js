@@ -562,7 +562,7 @@ export function sentoreCheck(i) {
       return "altri";
     case "torrone":
       return "altri";
-    case "yougurt alla fragola":
+    case "yogurt alla fragola":
       return "altri";
     case "zucchero a velo":
       return "altri";
