@@ -29,7 +29,7 @@ table.produttore-table th:nth-child(2) {min-width: 110px; cursor:pointer}
 
 /* #region SUMMARY TABLES DENOMINAZIONE*/
   .denominazione-table td[data-th="V Score"]{
-    color: gray;
+    color: transparent;
     text-align: left;
     position:relative;
   }
@@ -38,7 +38,13 @@ table.produttore-table th:nth-child(2) {min-width: 110px; cursor:pointer}
 
   td[data-th="V Score"]:after{
     position: absolute;
-    background-color: #1976d2;
+    background: repeating-linear-gradient(
+      -45deg,
+      #84baf0,
+      #84baf0 10px,
+      #1976d2 10px,
+      #1976d2 20px
+    );
     height:20px;
     content: '';
     left:0px;
@@ -130,22 +136,31 @@ table.produttore-table th:nth-child(2) {min-width: 110px; cursor:pointer}
   td[data-th="V Score"]:before{
     position: absolute;
     content: '';
-    background-color: #1976d2;
-    height:20px;
-    left:0px;
+    background: repeating-linear-gradient(
+    -45deg,
+    #84baf0,
+    #84baf0 10px,
+    #1976d2 10px,
+    #1976d2 20px
+    );
+    height:22px;
+    left:84.5%;
+    top:3px;
     width: inherit;
-    border-top-right-radius:7px;
-    border-bottom-right-radius:7px;
-    max-width:92%;
+    border-radius:2px;
+    max-width:14%;
+    box-shadow: 1px 1px 1px rgba(0,0,0,0.5)
   }
   td[data-th="V Score"]:after{
     position:absolute;
     content: 'V Score';
     font-weight: normal;
-    text-align:left;
+    text-align:right;
     left: 4px;
     top: 1px;
-    color: lightgray;
+    color: #424242;
+    font-wei
+    text-shadow: 1px 0px 1px white
   }
 
   td[data-th="V Score"]{
