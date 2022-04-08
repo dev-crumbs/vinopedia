@@ -27,6 +27,7 @@ export function schedaSingolaImport() {
         const affinamentoCSV = csv.filter(filterCSV)[0].Affinamento;
         const alcolCSV = csv.filter(filterCSV)[0].Alcol;
         const prezzoCSV = csv.filter(filterCSV)[0].Prezzo;
+        const punteggioCSV = csv.filter(filterCSV)[0].PunteggioMedio;
         const abbinamentoCSV = csv.filter(filterCSV)[0].Abbinamento;
         const descrizioneCSV = csv.filter(filterCSV)[0].Descrizione;
         const noteCSV = csv.filter(filterCSV)[0].Note;
@@ -84,7 +85,9 @@ export function schedaSingolaImport() {
             d3.select('.caratteristiche li:nth-child(6)').append().text(" " + alcolCSV + "%")
             d3.select('.caratteristiche li:nth-child(7)').append().text(" " + prezzoCSV + "€")
         }
-
+        //punteggio singolo
+        d3.select('.punteggio').append().text(punteggioCSV)
+        
         d3.select('.abbinamento').append("li").text(abbinamentoCSV)
         if (descrizioneCSV == '') {
             d3.select('.riconoscimenti').append("p").text("Non è disponibile un'analisi olfattiva per questa annata")
