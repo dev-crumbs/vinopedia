@@ -798,9 +798,11 @@ max-width: 350px
 }
 .riconoscimenti div {
 
-  border-radius:25px;
+  border-radius:15px;
   padding:0px 10px;
-  white-space:nowrap
+  white-space:nowrap;
+  margin-top:-1px;
+  margin-bottom: -1px
 }
 
 .riconoscimenti div span:nth-child(1){
