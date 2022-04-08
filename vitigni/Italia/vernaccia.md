@@ -1,8 +1,8 @@
 ---
 title: Vernaccia
-description: Vitigno | Famiglia di vitigni
+description: Vitigno | Famiglia di vitigni geneticamente distinti
 published: true
-date: 2022-04-08T07:45:29.826Z
+date: 2022-04-08T07:45:40.721Z
 tags: 
 editor: markdown
 dateCreated: 2022-04-08T07:36:57.162Z
