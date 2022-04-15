@@ -753,6 +753,8 @@ max-width: 350px
 }
 /* #endregion */
 
+/* #region LOADER*/
+
 .loader {
   border: 10px solid #f3f3f3; /* Light grey */
   border-top: 10px solid #3498db; /* Blue */
@@ -784,7 +786,16 @@ max-width: 350px
     top:50%;
   }
 }
+/* #endregion */
 
+/* #region Abbinamenti*/
+.abbinamenti {
+  max-width: 900px
+}
+
+/* #endregion */
+
+/* #region RICONOSCIMENTI*/
 .riconoscimenti{
   display: grid;
   grid-template-columns: 1fr;
