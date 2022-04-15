@@ -306,6 +306,8 @@ export function sentoreCheck(i) {
       return "vegetale";
     case "cardo":
       return "vegetale";
+    case "finocchietto":      
+      return "vegetale";
     case "finocchio":
       return "vegetale";
     case "maggiorana":
