@@ -30,6 +30,8 @@ export function sentoreCheck(i) {
       return "floreale";
     case "giaggiolo":
       return "floreale";
+    case "giglio":
+      return "floreale";      
     case "ginestra":
       return "floreale";
     case "glicine":
@@ -68,6 +70,8 @@ export function sentoreCheck(i) {
       return "floreale";
     case "sambuco":
       return "floreale";
+    case "tarassaco":
+      return "floreale";      
     case "viola":
       return "floreale";
     case "viola mammola":
@@ -156,6 +160,8 @@ export function sentoreCheck(i) {
       return "fruttato";
     case "mandorla":
       return "fruttato";
+    case "mandorla verde":
+      return "fruttato";      
     case "mango":
       return "fruttato";
     case "marasca":
@@ -198,6 +204,8 @@ export function sentoreCheck(i) {
       return "fruttato";
     case "susina gialla":
       return "fruttato";
+    case "uva":
+      return "fruttato";      
     case "uva moscato":
       return "fruttato";
     case "uva spina":
@@ -350,6 +358,8 @@ export function sentoreCheck(i) {
       return "minerale";
     case "inchiostro":
       return "minerale";
+    case "macchia mediterranea":
+      return "minerale";      
     case "petrolio":
       return "minerale";
     case "pietra focaia":
@@ -442,6 +452,8 @@ export function sentoreCheck(i) {
       return "tostato";
     case "tabacco":
       return "tostato";
+    case "tabacco bianco":
+      return "tostato";      
     case "vinoso":
       return "vinoso";
     case "fragrante":
