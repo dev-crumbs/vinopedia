@@ -454,7 +454,7 @@ export function sentoreCheck(i) {
       return "tostato";
     case "tabacco":
       return "tostato";
-    case "tabacco bianco":
+    case "tabacco biondo":
       return "tostato";      
     case "vinoso":
       return "vinoso";
