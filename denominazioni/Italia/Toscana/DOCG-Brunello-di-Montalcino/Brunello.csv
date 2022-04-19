@@ -1,184 +1,184 @@
-Produttore,Vino,Media Grezza,V Score,Prezzo,2016,2015,2014,2013,2012,2011,2010,2006
-Abbadia Ardegna,Brunello Riserva,4.0,1.36,55-59,sv,sv,sv,5,3,sv,4,sv
-Abbadia Ardegna,Brunello Vigna Piaggia,3.5,0.84,40-44,sv,sv,4,4,3,3,sv,sv
-Abbadia Ardegna,Brunello,2.8,0.36,30-34,sv,sv,3,3,3,2,sv,sv
-Agostina Pieri,Brunello,3.7,1.47,35-39,4,4,4,4,3,3,sv,sv
-Agostina Pieri,Brunello Riserva,3.0,0.11,40-44,sv,3,sv,sv,sv,sv,sv,sv
-Altesino,Brunello,3.8,1.46,35-39,sv,4,3,sv,5,3,sv,sv
-Altesino,Brunello Montosoli,3.8,1.46,70-74,sv,5,3,sv,4,3,sv,sv
-Altesino,Brunello Riserva,4.0,0.63,80-84,sv,sv,sv,4,sv,sv,4,sv
-Banfi,Brunello Vigna Marrucheto,5.0,0.94,60-64,5,sv,sv,sv,sv,sv,sv,sv
-Banfi,Brunello Riserva Poggio All'Oro,4.8,3.13,125-149,sv,4,sv,5,5,sv,5,sv
-Banfi,Brunello Riserva Poggio Alle Mura,4.4,2.82,65-69,sv,4,sv,5,4,5,4,sv
-Banfi,Brunello Castello Banfi,2.8,0.46,30-34,3,3,2,3,sv,3,sv,sv
-Banfi,Brunello Poggio Alle Mura,3.6,1.16,40-44,sv,4,4,3,4,3,sv,sv
-Baricci,Brunello,5.0,3.75,50-54,5,5,5,5,sv,sv,sv,sv
-Baricci,Brunello Riserva Nello,4.5,1.25,100-124,sv,5,sv,sv,4,sv,sv,sv
-Beatesca,Brunello,4.0,0.31,65-69,4,sv,sv,sv,sv,sv,sv,sv
-Bertani Toscana,Brunello Vigna Spuntali,4.3,1.57,60-64,5,4,sv,4,sv,sv,sv,sv
-Bertani Toscana,Brunello Poggio Al Granchio,3.0,0.32,50-54,3,3,sv,3,sv,sv,sv,sv
-Bertani Toscana,Brunello Poggio Vigna Del Lago,3.0,0.32,55-59,3,3,sv,3,sv,sv,sv,sv
-Bertani Toscana,Brunello Val Di Suga,3.0,0.32,40-44,3,3,3,sv,sv,sv,sv,sv
-Bertani Toscana,Brunello Riserva Val Di Suga,3.0,0.11,45-49,sv,sv,sv,3,sv,sv,sv,sv
-Biondi-Santi,Brunello Riserva Tenuta Greppo,5.0,3.75,450-499,sv,sv,sv,5,5,5,5,sv
-Biondi-Santi,Brunello Tenuta Greppo,5.0,3.75,150-174,sv,5,sv,5,5,5,sv,sv
-Biondi-Santi,Brunello Riserva Storica Tenuta Greppo,4.0,0.31,300-349,sv,sv,sv,sv,sv,sv,sv,4
-Bolsignano,Brunello,4.0,0.31,30-34,sv,sv,sv,sv,4,sv,sv,sv
-Camigliano,Brunello Riserva Gualto,4.5,2.50,90-94,4,sv,sv,5,5,sv,4,sv
-Camigliano,Brunello Paesaggio Inatteso,3.3,0.53,50-54,3,4,sv,sv,3,sv,sv,sv
-Camigliano,Brunello,2.8,0.57,30-34,3,3,3,3,2,3,sv,sv
-Canalicchio Di Sopra,Brunello Riserva,4.3,1.98,100-124,sv,5,sv,sv,3,sv,5,sv
-Canalicchio Di Sopra,Brunello La Casaccia,3.5,0.42,100-124,3,4,sv,sv,sv,sv,sv,sv
-Canalicchio Di Sopra,Brunello,3.2,0.74,55-59,3,3,sv,3,4,3,sv,sv
-Cantina Di Montalcino,Brunello,3.0,0.11,30-34,sv,sv,sv,3,sv,sv,sv,sv
-Cantina Di Montalcino,Brunello Riserva Poggio Ambrosino,4.0,0.31,60-64,sv,sv,sv,sv,4,sv,sv,sv
-Capanna,Brunello Riserva,3.7,0.74,85-89,sv,4,sv,4,3,sv,sv,sv
-Capanna,Brunello,3.6,1.57,40-44,3,3,3,sv,5,4,sv,sv
-Caparzo,Brunello,3.3,0.53,30-34,sv,sv,sv,3,4,3,sv,sv
-Caparzo,Brunello Vigna La Casa,4.3,1.98,40-44,sv,sv,sv,5,5,3,sv,sv
-Caparzo,Brunello Riserva,3.5,0.42,45-49,sv,sv,sv,sv,sv,3,4,sv
-Caprili,Brunello,3.5,0.42,35-39,sv,sv,sv,sv,3,4,sv,sv
-Caprili,Brunello Riserva,3.0,0.11,75-79,sv,sv,sv,sv,sv,sv,3,sv
-Carpineto,Brunello Riserva,4.0,0.31,75-59,sv,4,sv,sv,sv,sv,sv,sv
-Carpineto,Brunello,2.5,0.29,40-44,2,3,3,2,sv,sv,sv,sv
-Casanova Di Neri,Brunello Tenuta Nuova,4.3,1.88,95-99,sv,4,sv,4,5,4,sv,sv
-Casanova Di Neri,Brunello Etichetta Bianca,4.0,0.31,50-54,sv,4,sv,sv,sv,sv,sv,sv
-Casanova Di Neri,Brunello Cerretalto,5.0,2.81,250-299,sv,sv,sv,5,5,sv,5,sv
-Casanova Di Neri,Brunello,3.5,0.84,45-49,sv,sv,4,3,4,3,sv,sv
-Casisano,Brunello Riserva Colombaiolo,4.0,0.31,75-79,sv,sv,sv,sv,sv,4,sv,sv
-Casisano,Brunello,3.0,0.11,35-39,sv,sv,sv,sv,3,sv,sv,sv
-Castello Romitorio,Brunello Riserva,4.0,0.63,100-124,sv,sv,sv,4,4,sv,sv,sv
-Castello Romitorio,Brunello Filo Di Seta,5.0,2.81,60-64,sv,sv,sv,5,5,5,sv,sv
-Castello Romitorio,Brunello,3.7,0.74,45-49,sv,sv,sv,4,4,3,sv,sv
-Castello Tricerchi,Brunello AD 1441,4.5,2.50,90-94,5,4,4,sv,5,sv,sv,sv
-Castello Tricerchi,Brunello,3.8,2.51,45-49,4,3,3,3,5,5,sv,sv
-Castiglion Del Bosco,Brunello,3.0,0.21,45-49,sv,sv,3,sv,sv,3,sv,sv
-Castiglion Del Bosco,Brunello Campo Del Drago,3.0,0.11,70-74,sv,sv,sv,sv,sv,3,sv,sv
-Castiglion Del Bosco,Brunello Riserva Millecento,3.0,0.11,175-199,sv,sv,sv,sv,sv,sv,3,sv
-Ciacci Piccolomini D'Aragona,Brunello,3.6,1.16,50-54,sv,4,3,4,3,4,sv,sv
-Col D'Orcia,Brunello Nastagio,4.3,1.88,45-49,sv,4,sv,4,5,4,sv,sv
-Col D'Orcia,Brunello,3.2,0.85,30-34,3,3,3,3,3,4,sv,sv
-Col D'Orcia,Brunello Riserva Poggio Al Vento,4.7,2.19,75-79,sv,sv,sv,4,5,5,sv,sv
-Dievole,Brunello Poggio Landi,2.7,0.25,35-39,3,3,sv,sv,2,sv,sv,sv
-Dievole,Brunello Podere Brizio,3.0,0.21,45-49,3,3,sv,sv,sv,sv,sv,sv
-Dievole,Brunello Riserva Podere Brizio,3.0,0.11,85-89,sv,sv,sv,3,sv,sv,sv,sv
-Dievole,Brunello Riserva Poggio Landi,3.0,0.11,80-84,sv,sv,sv,3,sv,sv,sv,sv
-Donatella Cinelli Colombini,Brunello Riserva,4.5,2.92,80-84,sv,5,sv,5,5,sv,3,sv
-Donatella Cinelli Colombini,Brunello Prime Donne,3.7,1.89,50-54,4,5,3,3,3,4,sv,sv
-Donatella Cinelli Colombini,Brunello,3.2,0.74,45-49,3,3,sv,3,4,3,sv,sv
-Fattoria Dei Barbi,Brunello Riserva,3.4,0.95,80-84,sv,4,sv,3,4,3,3,sv
-Fattoria Dei Barbi,Brunello Vigna Del Fiore,4.0,1.99,70-74,4,4,sv,5,4,3,sv,sv
-Fattoria Dei Barbi,Brunello,3.0,0.67,40-44,2,3,sv,4,3,3,sv,sv
-Fattoria Del Cerro,Brunello,3.5,0.42,35-39,4,3,sv,sv,sv,sv,sv,sv
-Fattoria Del Cerro,Brunello Riserva Poggio Abate,4.0,0.31,55-59,sv,4,sv,sv,sv,sv,sv,sv
-Franco Pacenti,Brunello,3.0,0.21,45-49,3,sv,3,sv,sv,sv,sv,sv
-Franco Pacenti,Brunello Riserva,3.0,0.11,70-74,sv,3,sv,sv,sv,sv,sv,sv
-Frescobaldi,Brunello Castelgiocondo,3.0,0.53,40-44,sv,3,3,3,3,3,sv,sv
-Frescobaldi,Brunello Riserva Ripe Al Convento,3.0,0.11,90-94,sv,sv,sv,sv,sv,sv,3,sv
-Fuligni,Brunello Riserva,4.7,2.19,100-124,sv,5,sv,5,sv,sv,4,sv
-Fuligni,Brunello,3.8,1.78,65-69,4,5,3,sv,4,3,sv,sv
-Giodo,Brunello Giodo,5.0,3.75,100-124,5,5,5,5,sv,sv,sv,sv
-Il Marroneto,Brunello Madonna Delle Grazie,5.0,3.75,200-249,5,5,sv,5,5,sv,sv,sv
-Il Marroneto,Brunello,4.2,2.20,75-79,5,4,4,4,4,sv,sv,sv
-Il Marroneto,Brunello Riserva Madonna Delle Grazie,5.0,0.94,200-249,sv,sv,sv,5,sv,sv,sv,sv
-La Gerla,Brunello Riserva Gli Angeli,4.4,2.82,100-124,sv,5,sv,5,4,4,4,sv
-La Gerla,Brunello,3.8,2.09,50-54,4,4,3,5,4,3,sv,sv
-La Lecciaia,Brunello,2.0,0.04,25-29,sv,sv,sv,sv,sv,2,sv,sv
-La Lecciaia,Brunello Riserva,3.0,0.11,30-34,sv,sv,sv,sv,sv,sv,3,sv
-La Lecciaia,Brunello Riserva Vigna Manapetra,3.0,0.11,30-34,sv,sv,sv,sv,sv,sv,3,sv
-La Palazzetta,Brunello,4.0,0.63,30-34,sv,sv,sv,sv,4,4,sv,sv
-Le Chiuse,Brunello,3.8,1.68,65-69,4,4,4,4,4,3,sv,sv
-Le Macioche,Brunello Riserva,3.7,1.15,75-79,sv,5,sv,3,3,sv,sv,sv
-Le Macioche,Brunello,4.0,0.63,65-69,4,sv,sv,4,sv,sv,sv,sv
-Le Ragnaie,Brunello,3.8,1.05,75-59,sv,4,sv,3,4,4,sv,sv
-Le Ragnaie,Brunello Fornace,4.8,3.13,150-174,sv,5,sv,5,4,5,sv,sv
-Le Ragnaie,Brunello V.V.,4.0,1.36,100-124,sv,sv,sv,4,5,3,sv,sv
-Loacker Toscana,Brunello Fiore Del Vento,5.0,2.81,60-64,5,5,sv,5,sv,sv,sv,sv
-Loacker Toscana,Brunello Campo Marzio,3.0,0.21,60-64,3,3,sv,sv,sv,sv,sv,sv
-Loacker Toscana,Brunello Fior di Meliloto,3.5,0.42,60-64,3,4,sv,sv,sv,sv,sv,sv
-Loacker Toscana,Brunello Corte Pavone,3.2,0.74,45-49,3,3,3,4,3,sv,sv,sv
-Loacker Toscana,Brunello Vigna Poggio Molino Al Vento,4.0,0.31,50-54,sv,sv,4,sv,sv,sv,sv,sv
-Luce Della Vite,Brunello Luce,4.8,3.13,90-94,sv,sv,4,5,5,5,sv,sv
-Mastrojanni,Brunello Vigna Loreto,4.4,3.23,90-94,5,4,sv,5,5,3,sv,sv
-Mastrojanni,Brunello,3.3,1.05,55-59,4,3,3,4,3,3,sv,sv
-Mastrojanni,Brunello Vigna Schiena D'Asino,5.0,2.81,125-149,sv,5,sv,5,sv,5,sv,sv
-Mate,Brunello Riserva,4.0,1.04,75-79,sv,5,sv,sv,3,sv,sv,sv
-Mate,Brunello,3.0,0.46,50-54,4,3,sv,2,sv,sv,sv,sv
-Palazzo,Brunello Riserva,4.5,1.25,55-59,sv,5,sv,4,sv,sv,sv,sv
-Palazzo,Brunello Cosimo Selezione,4.0,0.63,45-49,4,4,sv,sv,sv,sv,sv,sv
-Palazzo,Brunello,3.7,0.74,35-39,4,4,3,sv,sv,sv,sv,sv
-Pian Delle Vigne,Brunello Riserva Pian Delle Vigne,3.0,0.11,100-124,sv,3,sv,sv,sv,sv,sv,sv
-Pian Delle Vigne,Brunello Pian Delle Vigne,3.0,0.67,45-49,3,sv,3,3,4,2,sv,sv
-Pian Delle Vigne,Brunello Riserva Vignaferrovia,4.0,1.36,95-99,sv,sv,sv,5,4,sv,3,sv
-Piancornello,Brunello Riserva,3.3,1.08,65-69,sv,5,sv,3,2,sv,sv,sv
-Piancornello,Brunello,3.0,0.32,45-49,3,sv,sv,3,3,sv,sv,sv
-Pietroso,Brunello,4.7,4.38,55-59,4,5,5,5,5,4,sv,sv
-Pietroso,Brunello Riserva,4.0,1.04,100-124,sv,3,sv,sv,sv,sv,5,sv
-Pieve Santa Restituta,Brunello Sugarille,4.8,3.13,150-174,5,4,sv,5,sv,5,sv,sv
-Pieve Santa Restituta,Brunello Rennina,4.0,0.94,125-149,4,4,sv,4,sv,sv,sv,sv
-Podere Brizio,Brunello,3.0,0.21,30-34,sv,sv,sv,sv,3,3,sv,sv
-Podere Brizio,Brunello Riserva,3.0,0.11,55-59,sv,sv,sv,sv,sv,sv,3,sv
-Podere Le Ripi,Brunello Riserva Lupi E Sirene,4.5,1.25,100-124,sv,4,sv,sv,sv,5,sv,sv
-Podere Le Ripi,Brunello Riserva Cielo D'Ulisse,3.0,0.11,60-64,sv,sv,sv,3,sv,sv,sv,sv
-Podere Salicutti,Brunello Piaggione,3.0,0.11,60-69,sv,sv,sv,sv,sv,3,sv,sv
-Poggio Antico,Brunello Riserva,4.0,0.31,95-99,sv,sv,sv,sv,4,sv,sv,sv
-Poggio Antico,Brunello Altero,4.0,0.63,65-69,sv,sv,sv,4,4,sv,sv,sv
-Poggio Antico,Brunello,3.5,0.42,40-44,sv,sv,sv,4,3,sv,sv,sv
-Poggio Di Sotto,Brunello Riserva,5.0,4.69,250-299,sv,5,sv,5,5,5,5,sv
-Poggio Di Sotto,Brunello,4.8,5.00,125-149,5,5,4,5,5,5,sv,sv
-Poggio Nardone,Brunello,2.0,0.04,40-44,sv,sv,sv,2,sv,sv,sv,sv
-Poggio Nardone,Brunello Riserva,3.0,0.11,80-84,sv,sv,sv,sv,3,sv,sv,sv
-Querce bettina,Brunello,4.0,1.36,55-59,sv,3,sv,4,5,sv,sv,sv
-Querce bettina,Brunello Riserva,4.0,0.31,75-79,sv,sv,sv,4,sv,sv,sv,sv
-Quercecchio,Brunello,3.5,0.42,35-39,sv,sv,sv,sv,4,3,sv,sv
-Quercecchio,Brunello Riserva,4.0,0.31,55-59,sv,sv,sv,sv,4,sv,sv,sv
-Renieri,Brunello Riserva,4.0,0.63,50-54,sv,sv,sv,4,sv,sv,4,sv
-Renieri,Brunello,3.0,0.11,50-54,sv,sv,sv,sv,sv,3,sv,sv
-Roberto Cipresso,Brunello,4.7,2.19,65-69,5,5,4,sv,sv,sv,sv,sv
-Ruffino,Brunello Greppone Mazzi,2.3,0.18,35-39,sv,sv,sv,2,2,3,sv,sv
-Salvioni La Cerbaiola,Brunello,5.0,3.75,100-124,5,sv,sv,5,5,5,sv,sv
-San Carlo,Brunello Riserva,5.0,0.94,80-84,sv,5,sv,sv,sv,sv,sv,sv
-San Carlo,Brunello,3.8,1.68,40-44,4,4,4,4,3,4,sv,sv
-San Lorenzo,Brunello Riserva Bramante,5.0,1.87,100-124,sv,5,sv,5,sv,sv,sv,sv
-San Lorenzo,Brunello,3.0,0.11,50-54,3,sv,sv,sv,sv,sv,sv,sv
-San Lorenzo,Brunello Bramante,4.4,2.82,35-39,sv,5,4,5,4,4,sv,sv
-San Polo,Brunello Vignavecchia,5.0,2.81,300-349,5,5,sv,5,sv,sv,sv,sv
-San Polo,Brunello Riserva,3.5,0.42,250-299,3,4,sv,sv,sv,sv,sv,sv
-San Polo,Brunello Podernovi,3.5,0.42,125-149,3,4,sv,sv,sv,sv,sv,sv
-San Polo,Brunello,3.3,1.05,45-49,3,3,3,3,4,4,sv,sv
-Sensi,Brunello Officium Poggio Scudieri,3.0,0.11,25-29,3,sv,sv,sv,sv,sv,sv,sv
-Sensi,Brunello Boscoselvo,3.0,0.11,25-29,sv,sv,sv,sv,3,sv,sv,sv
-Sesti,Brunello Riserva Phenomena,4.8,4.06,90-94,sv,5,sv,5,4,5,5,sv
-Sesti,Brunello,4.0,1.99,60-64,5,sv,3,4,4,4,sv,sv
-Talenti,Brunello Riserva Pian Di Conte,4.5,2.92,75-79,sv,5,sv,5,5,3,sv,sv
-Talenti,Brunello Piero,4.5,1.25,100-124,4,5,sv,sv,sv,sv,sv,sv
-Talenti,Brunello,3.4,0.95,40-44,4,4,3,3,3,sv,sv,sv
-Talenti,Brunello Trentennale,3.0,0.11,35-39,sv,sv,sv,sv,sv,3,sv,sv
-Tenuta Buon Tempo,Brunello Riserva Oliveto P56,4.0,0.31,65-69,sv,4,sv,sv,sv,sv,sv,sv
-Tenuta Buon Tempo,Brunello,3.0,0.11,40-44,3,sv,sv,sv,sv,sv,sv,sv
-Tenuta Di Sesta,Brunello,3.0,0.78,40-44,4,3,3,3,3,2,sv,sv
-Tenuta Di Sesta,Brunello Riserva Duelecci Ovest,3.6,1.16,80-84,3,3,sv,sv,4,4,4,sv
-Tenuta Il Poggione,Brunello Riserva Vigna Paganelli,4.7,2.19,85-89,sv,5,sv,sv,5,sv,4,sv
-Tenuta Il Poggione,Brunello,4.5,4.17,45-49,5,5,5,4,5,3,sv,sv
-Tenuta La Fuga,Brunello,4.0,0.31,35-39,sv,sv,sv,sv,4,sv,sv,sv
-Tenuta La Fuga,Brunello Riserva Le Due Sorelle,5.0,0.94,60-64,sv,sv,sv,sv,sv,5,sv,sv
-Tenuta Le Potazzine,Brunello,4.3,3.55,75-79,4,5,5,3,4,5,sv,sv
-Tenuta Le Potazzine,Brunello Riserva,5.0,0.94,150-174,sv,sv,sv,sv,sv,5,sv,sv
-Tenuta San Giorgio,Brunello Ugolforte,4.8,4.06,45-49,5,5,5,5,sv,4,sv,sv
-Tenute Folonari,Brunello La Fuga,3.5,1.39,35-39,sv,4,3,5,sv,2,sv,sv
-Tenute Piccini,Brunello Villa Al Cortile,2.5,0.14,40-44,sv,3,sv,2,sv,sv,sv,sv
-Tenute Piccini,Brunello Riserva Villa Al Cortile,3.0,0.11,40-44,sv,sv,sv,sv,3,sv,sv,sv
-Tenute Silvio Nardi,Brunello Vigneto Manachiara,4.0,1.36,90-94,5,4,sv,sv,3,sv,sv,sv
-Tenute Silvio Nardi,Brunello Vigneto Poggio Doria,4.3,1.57,90-94,4,5,sv,sv,4,sv,sv,sv
-Tenute Silvio Nardi,Brunello,3.5,1.26,40-44,4,3,4,4,3,3,sv,sv
-Tenute Silvio Nardi,Brunello Riserva Vigneto Poggio Doria,3.5,0.42,90-94,sv,sv,sv,sv,4,sv,3,sv
-Terre Nere,Brunello Riserva Capriolo,4.0,0.31,100-124,sv,4,sv,sv,sv,sv,sv,sv
-Terre Nere,Brunello Riserva,4.0,0.31,65-69,sv,4,sv,sv,sv,sv,sv,sv
-Terre Nere,Brunello,4.0,0.31,45-49,4,sv,sv,sv,sv,sv,sv,sv
-Tiezzi,Brunello Vigna Soccorso,4.5,3.75,55-59,5,4,4,5,4,5,sv,sv
-Tiezzi,Brunello Riserva Vigna Soccorso,4.5,2.50,55-59,sv,4,sv,5,4,5,sv,sv
-Tiezzi,Brunello Poggio Cerrino,3.2,0.85,35-39,3,3,3,3,4,3,sv,sv
-Ventolaio,Brunello,3.0,0.11,45-49,sv,sv,sv,3,sv,sv,sv,sv
-Villa Poggio Salvi,Brunello Pomona,3.6,1.16,85-89,4,3,sv,4,4,3,sv,sv
-Villa Poggio Salvi,Brunello,3.0,0.64,30-34,3,3,3,3,3,3,sv,sv
-Villa Poggio Salvi,Brunello Riserva,3.0,0.32,60-64,sv,sv,sv,sv,3,3,3,sv
+Produttore,Vino,Media Grezza,Prezzo,V Score,Q/P,2016,2015,2014,2013,2012,2011,2010,2006
+Abbadia Ardegna,Brunello Riserva,4.0,55-59,1.36,27,sv,sv,sv,5,3,sv,4,sv
+Abbadia Ardegna,Brunello Vigna Piaggia,3.5,40-44,0.84,23,sv,sv,4,4,3,3,sv,sv
+Abbadia Ardegna,Brunello,2.8,30-34,0.36,13,sv,sv,3,3,3,2,sv,sv
+Agostina Pieri,Brunello,3.7,35-39,1.47,45,4,4,4,4,3,3,sv,sv
+Agostina Pieri,Brunello Riserva,3.0,40-44,0.11,03,sv,3,sv,sv,sv,sv,sv,sv
+Altesino,Brunello,3.8,35-39,1.46,45,sv,4,3,sv,5,3,sv,sv
+Altesino,Brunello Montosoli,3.8,70-74,1.46,23,sv,5,3,sv,4,3,sv,sv
+Altesino,Brunello Riserva,4.0,80-84,0.63,09,sv,sv,sv,4,sv,sv,4,sv
+Banfi,Brunello Vigna Marrucheto,5.0,60-64,0.94,17,5,sv,sv,sv,sv,sv,sv,sv
+Banfi,Brunello Riserva Poggio All'Oro,4.8,125-149,3.13,26,sv,4,sv,5,5,sv,5,sv
+Banfi,Brunello Riserva Poggio Alle Mura,4.4,65-69,2.82,47,sv,4,sv,5,4,5,4,sv
+Banfi,Brunello Castello Banfi,2.8,30-34,0.46,16,3,3,2,3,sv,3,sv,sv
+Banfi,Brunello Poggio Alle Mura,3.6,40-44,1.16,31,sv,4,4,3,4,3,sv,sv
+Baricci,Brunello,5.0,50-54,3.75,81,5,5,5,5,sv,sv,sv,sv
+Baricci,Brunello Riserva Nello,4.5,100-124,1.25,13,sv,5,sv,sv,4,sv,sv,sv
+Beatesca,Brunello,4.0,65-69,0.31,05,4,sv,sv,sv,sv,sv,sv,sv
+Bertani Toscana,Brunello Vigna Spuntali,4.3,60-64,1.57,28,5,4,sv,4,sv,sv,sv,sv
+Bertani Toscana,Brunello Poggio Al Granchio,3.0,50-54,0.32,07,3,3,sv,3,sv,sv,sv,sv
+Bertani Toscana,Brunello Poggio Vigna Del Lago,3.0,55-59,0.32,06,3,3,sv,3,sv,sv,sv,sv
+Bertani Toscana,Brunello Val Di Suga,3.0,40-44,0.32,09,3,3,3,sv,sv,sv,sv,sv
+Bertani Toscana,Brunello Riserva Val Di Suga,3.0,45-49,0.11,03,sv,sv,sv,3,sv,sv,sv,sv
+Biondi-Santi,Brunello Riserva Tenuta Greppo,5.0,450-499,3.75,09,sv,sv,sv,5,5,5,5,sv
+Biondi-Santi,Brunello Tenuta Greppo,5.0,150-174,3.75,26,sv,5,sv,5,5,5,sv,sv
+Biondi-Santi,Brunello Riserva Storica Tenuta Greppo,4.0,300-349,0.31,01,sv,sv,sv,sv,sv,sv,sv,4
+Bolsignano,Brunello,4.0,30-34,0.31,11,sv,sv,sv,sv,4,sv,sv,sv
+Camigliano,Brunello Riserva Gualto,4.5,90-94,2.50,31,4,sv,sv,5,5,sv,4,sv
+Camigliano,Brunello Paesaggio Inatteso,3.3,50-54,0.53,11,3,4,sv,sv,3,sv,sv,sv
+Camigliano,Brunello,2.8,30-34,0.57,20,3,3,3,3,2,3,sv,sv
+Canalicchio Di Sopra,Brunello Riserva,4.3,100-124,1.98,20,sv,5,sv,sv,3,sv,5,sv
+Canalicchio Di Sopra,Brunello La Casaccia,3.5,100-124,0.42,04,3,4,sv,sv,sv,sv,sv,sv
+Canalicchio Di Sopra,Brunello,3.2,55-59,0.74,15,3,3,sv,3,4,3,sv,sv
+Cantina Di Montalcino,Brunello,3.0,30-34,0.11,04,sv,sv,sv,3,sv,sv,sv,sv
+Cantina Di Montalcino,Brunello Riserva Poggio Ambrosino,4.0,60-64,0.31,06,sv,sv,sv,sv,4,sv,sv,sv
+Capanna,Brunello Riserva,3.7,85-89,0.74,10,sv,4,sv,4,3,sv,sv,sv
+Capanna,Brunello,3.6,40-44,1.57,42,3,3,3,sv,5,4,sv,sv
+Caparzo,Brunello,3.3,30-34,0.53,19,sv,sv,sv,3,4,3,sv,sv
+Caparzo,Brunello Vigna La Casa,4.3,40-44,1.98,53,sv,sv,sv,5,5,3,sv,sv
+Caparzo,Brunello Riserva,3.5,45-49,0.42,10,sv,sv,sv,sv,sv,3,4,sv
+Caprili,Brunello,3.5,35-39,0.42,13,sv,sv,sv,sv,3,4,sv,sv
+Caprili,Brunello Riserva,3.0,75-79,0.11,02,sv,sv,sv,sv,sv,sv,3,sv
+Carpineto,Brunello Riserva,4.0,75-59,0.31,05,sv,4,sv,sv,sv,sv,sv,sv
+Carpineto,Brunello,2.5,40-44,0.29,08,2,3,3,2,sv,sv,sv,sv
+Casanova Di Neri,Brunello Tenuta Nuova,4.3,95-99,1.88,22,sv,4,sv,4,5,4,sv,sv
+Casanova Di Neri,Brunello Etichetta Bianca,4.0,50-54,0.31,07,sv,4,sv,sv,sv,sv,sv,sv
+Casanova Di Neri,Brunello Cerretalto,5.0,250-299,2.81,12,sv,sv,sv,5,5,sv,5,sv
+Casanova Di Neri,Brunello,3.5,45-49,0.84,20,sv,sv,4,3,4,3,sv,sv
+Casisano,Brunello Riserva Colombaiolo,4.0,75-79,0.31,05,sv,sv,sv,sv,sv,4,sv,sv
+Casisano,Brunello,3.0,35-39,0.11,03,sv,sv,sv,sv,3,sv,sv,sv
+Castello Romitorio,Brunello Riserva,4.0,100-124,0.63,06,sv,sv,sv,4,4,sv,sv,sv
+Castello Romitorio,Brunello Filo Di Seta,5.0,60-64,2.81,51,sv,sv,sv,5,5,5,sv,sv
+Castello Romitorio,Brunello,3.7,45-49,0.74,18,sv,sv,sv,4,4,3,sv,sv
+Castello Tricerchi,Brunello AD 1441,4.5,90-94,2.50,31,5,4,4,sv,5,sv,sv,sv
+Castello Tricerchi,Brunello,3.8,45-49,2.51,60,4,3,3,3,5,5,sv,sv
+Castiglion Del Bosco,Brunello,3.0,45-49,0.21,05,sv,sv,3,sv,sv,3,sv,sv
+Castiglion Del Bosco,Brunello Campo Del Drago,3.0,70-74,0.11,02,sv,sv,sv,sv,sv,3,sv,sv
+Castiglion Del Bosco,Brunello Riserva Millecento,3.0,175-199,0.11,01,sv,sv,sv,sv,sv,sv,3,sv
+Ciacci Piccolomini D'Aragona,Brunello,3.6,50-54,1.16,25,sv,4,3,4,3,4,sv,sv
+Col D'Orcia,Brunello Nastagio,4.3,45-49,1.88,45,sv,4,sv,4,5,4,sv,sv
+Col D'Orcia,Brunello,3.2,30-34,0.85,30,3,3,3,3,3,4,sv,sv
+Col D'Orcia,Brunello Riserva Poggio Al Vento,4.7,75-79,2.19,32,sv,sv,sv,4,5,5,sv,sv
+Dievole,Brunello Poggio Landi,2.7,35-39,0.25,08,3,3,sv,sv,2,sv,sv,sv
+Dievole,Brunello Podere Brizio,3.0,45-49,0.21,05,3,3,sv,sv,sv,sv,sv,sv
+Dievole,Brunello Riserva Podere Brizio,3.0,85-89,0.11,01,sv,sv,sv,3,sv,sv,sv,sv
+Dievole,Brunello Riserva Poggio Landi,3.0,80-84,0.11,01,sv,sv,sv,3,sv,sv,sv,sv
+Donatella Cinelli Colombini,Brunello Riserva,4.5,80-84,2.92,40,sv,5,sv,5,5,sv,3,sv
+Donatella Cinelli Colombini,Brunello Prime Donne,3.7,50-54,1.89,41,4,5,3,3,3,4,sv,sv
+Donatella Cinelli Colombini,Brunello,3.2,45-49,0.74,18,3,3,sv,3,4,3,sv,sv
+Fattoria Dei Barbi,Brunello Riserva,3.4,80-84,0.95,13,sv,4,sv,3,4,3,3,sv
+Fattoria Dei Barbi,Brunello Vigna Del Fiore,4.0,70-74,1.99,31,4,4,sv,5,4,3,sv,sv
+Fattoria Dei Barbi,Brunello,3.0,40-44,0.67,18,2,3,sv,4,3,3,sv,sv
+Fattoria Del Cerro,Brunello,3.5,35-39,0.42,13,4,3,sv,sv,sv,sv,sv,sv
+Fattoria Del Cerro,Brunello Riserva Poggio Abate,4.0,55-59,0.31,06,sv,4,sv,sv,sv,sv,sv,sv
+Franco Pacenti,Brunello,3.0,45-49,0.21,05,3,sv,3,sv,sv,sv,sv,sv
+Franco Pacenti,Brunello Riserva,3.0,70-74,0.11,02,sv,3,sv,sv,sv,sv,sv,sv
+Frescobaldi,Brunello Castelgiocondo,3.0,40-44,0.53,14,sv,3,3,3,3,3,sv,sv
+Frescobaldi,Brunello Riserva Ripe Al Convento,3.0,90-94,0.11,01,sv,sv,sv,sv,sv,sv,3,sv
+Fuligni,Brunello Riserva,4.7,100-124,2.19,22,sv,5,sv,5,sv,sv,4,sv
+Fuligni,Brunello,3.8,65-69,1.78,30,4,5,3,sv,4,3,sv,sv
+Giodo,Brunello Giodo,5.0,100-124,3.75,38,5,5,5,5,sv,sv,sv,sv
+Il Marroneto,Brunello Madonna Delle Grazie,5.0,200-249,3.75,19,5,5,sv,5,5,sv,sv,sv
+Il Marroneto,Brunello,4.2,75-79,2.20,32,5,4,4,4,4,sv,sv,sv
+Il Marroneto,Brunello Riserva Madonna Delle Grazie,5.0,200-249,0.94,05,sv,sv,sv,5,sv,sv,sv,sv
+La Gerla,Brunello Riserva Gli Angeli,4.4,100-124,2.82,28,sv,5,sv,5,4,4,4,sv
+La Gerla,Brunello,3.8,50-54,2.09,45,4,4,3,5,4,3,sv,sv
+La Lecciaia,Brunello,2.0,25-29,0.04,02,sv,sv,sv,sv,sv,2,sv,sv
+La Lecciaia,Brunello Riserva,3.0,30-34,0.11,04,sv,sv,sv,sv,sv,sv,3,sv
+La Lecciaia,Brunello Riserva Vigna Manapetra,3.0,30-34,0.11,04,sv,sv,sv,sv,sv,sv,3,sv
+La Palazzetta,Brunello,4.0,30-34,0.63,22,sv,sv,sv,sv,4,4,sv,sv
+Le Chiuse,Brunello,3.8,65-69,1.68,28,4,4,4,4,4,3,sv,sv
+Le Macioche,Brunello Riserva,3.7,75-79,1.15,17,sv,5,sv,3,3,sv,sv,sv
+Le Macioche,Brunello,4.0,65-69,0.63,11,4,sv,sv,4,sv,sv,sv,sv
+Le Ragnaie,Brunello,3.8,75-59,1.05,18,sv,4,sv,3,4,4,sv,sv
+Le Ragnaie,Brunello Fornace,4.8,150-174,3.13,22,sv,5,sv,5,4,5,sv,sv
+Le Ragnaie,Brunello V.V.,4.0,100-124,1.36,14,sv,sv,sv,4,5,3,sv,sv
+Loacker Toscana,Brunello Fiore Del Vento,5.0,60-64,2.81,51,5,5,sv,5,sv,sv,sv,sv
+Loacker Toscana,Brunello Campo Marzio,3.0,60-64,0.21,04,3,3,sv,sv,sv,sv,sv,sv
+Loacker Toscana,Brunello Fior di Meliloto,3.5,60-64,0.42,08,3,4,sv,sv,sv,sv,sv,sv
+Loacker Toscana,Brunello Corte Pavone,3.2,45-49,0.74,18,3,3,3,4,3,sv,sv,sv
+Loacker Toscana,Brunello Vigna Poggio Molino Al Vento,4.0,50-54,0.31,07,sv,sv,4,sv,sv,sv,sv,sv
+Luce Della Vite,Brunello Luce,4.8,90-94,3.13,38,sv,sv,4,5,5,5,sv,sv
+Mastrojanni,Brunello Vigna Loreto,4.4,90-94,3.23,40,5,4,sv,5,5,3,sv,sv
+Mastrojanni,Brunello,3.3,55-59,1.05,21,4,3,3,4,3,3,sv,sv
+Mastrojanni,Brunello Vigna Schiena D'Asino,5.0,125-149,2.81,23,sv,5,sv,5,sv,5,sv,sv
+Mate,Brunello Riserva,4.0,75-79,1.04,15,sv,5,sv,sv,3,sv,sv,sv
+Mate,Brunello,3.0,50-54,0.46,10,4,3,sv,2,sv,sv,sv,sv
+Palazzo,Brunello Riserva,4.5,55-59,1.25,25,sv,5,sv,4,sv,sv,sv,sv
+Palazzo,Brunello Cosimo Selezione,4.0,45-49,0.63,15,4,4,sv,sv,sv,sv,sv,sv
+Palazzo,Brunello,3.7,35-39,0.74,22,4,4,3,sv,sv,sv,sv,sv
+Pian Delle Vigne,Brunello Riserva Pian Delle Vigne,3.0,100-124,0.11,01,sv,3,sv,sv,sv,sv,sv,sv
+Pian Delle Vigne,Brunello Pian Delle Vigne,3.0,45-49,0.67,16,3,sv,3,3,4,2,sv,sv
+Pian Delle Vigne,Brunello Riserva Vignaferrovia,4.0,95-99,1.36,16,sv,sv,sv,5,4,sv,3,sv
+Piancornello,Brunello Riserva,3.3,65-69,1.08,18,sv,5,sv,3,2,sv,sv,sv
+Piancornello,Brunello,3.0,45-49,0.32,08,3,sv,sv,3,3,sv,sv,sv
+Pietroso,Brunello,4.7,55-59,4.38,87,4,5,5,5,5,4,sv,sv
+Pietroso,Brunello Riserva,4.0,100-124,1.04,11,sv,3,sv,sv,sv,sv,5,sv
+Pieve Santa Restituta,Brunello Sugarille,4.8,150-174,3.13,22,5,4,sv,5,sv,5,sv,sv
+Pieve Santa Restituta,Brunello Rennina,4.0,125-149,0.94,08,4,4,sv,4,sv,sv,sv,sv
+Podere Brizio,Brunello,3.0,30-34,0.21,07,sv,sv,sv,sv,3,3,sv,sv
+Podere Brizio,Brunello Riserva,3.0,55-59,0.11,02,sv,sv,sv,sv,sv,sv,3,sv
+Podere Le Ripi,Brunello Riserva Lupi E Sirene,4.5,100-124,1.25,13,sv,4,sv,sv,sv,5,sv,sv
+Podere Le Ripi,Brunello Riserva Cielo D'Ulisse,3.0,60-64,0.11,02,sv,sv,sv,3,sv,sv,sv,sv
+Podere Salicutti,Brunello Piaggione,3.0,60-69,0.11,02,sv,sv,sv,sv,sv,3,sv,sv
+Poggio Antico,Brunello Riserva,4.0,95-99,0.31,04,sv,sv,sv,sv,4,sv,sv,sv
+Poggio Antico,Brunello Altero,4.0,65-69,0.63,11,sv,sv,sv,4,4,sv,sv,sv
+Poggio Antico,Brunello,3.5,40-44,0.42,11,sv,sv,sv,4,3,sv,sv,sv
+Poggio Di Sotto,Brunello Riserva,5.0,250-299,4.69,19,sv,5,sv,5,5,5,5,sv
+Poggio Di Sotto,Brunello,4.8,125-149,5.00,41,5,5,4,5,5,5,sv,sv
+Poggio Nardone,Brunello,2.0,40-44,0.04,01,sv,sv,sv,2,sv,sv,sv,sv
+Poggio Nardone,Brunello Riserva,3.0,80-84,0.11,01,sv,sv,sv,sv,3,sv,sv,sv
+Querce bettina,Brunello,4.0,55-59,1.36,27,sv,3,sv,4,5,sv,sv,sv
+Querce bettina,Brunello Riserva,4.0,75-79,0.31,05,sv,sv,sv,4,sv,sv,sv,sv
+Quercecchio,Brunello,3.5,35-39,0.42,13,sv,sv,sv,sv,4,3,sv,sv
+Quercecchio,Brunello Riserva,4.0,55-59,0.31,06,sv,sv,sv,sv,4,sv,sv,sv
+Renieri,Brunello Riserva,4.0,50-54,0.63,14,sv,sv,sv,4,sv,sv,4,sv
+Renieri,Brunello,3.0,50-54,0.11,02,sv,sv,sv,sv,sv,3,sv,sv
+Roberto Cipresso,Brunello,4.7,65-69,2.19,37,5,5,4,sv,sv,sv,sv,sv
+Ruffino,Brunello Greppone Mazzi,2.3,35-39,0.18,05,sv,sv,sv,2,2,3,sv,sv
+Salvioni La Cerbaiola,Brunello,5.0,100-124,3.75,38,5,sv,sv,5,5,5,sv,sv
+San Carlo,Brunello Riserva,5.0,80-84,0.94,13,sv,5,sv,sv,sv,sv,sv,sv
+San Carlo,Brunello,3.8,40-44,1.68,45,4,4,4,4,3,4,sv,sv
+San Lorenzo,Brunello Riserva Bramante,5.0,100-124,1.87,19,sv,5,sv,5,sv,sv,sv,sv
+San Lorenzo,Brunello,3.0,50-54,0.11,02,3,sv,sv,sv,sv,sv,sv,sv
+San Lorenzo,Brunello Bramante,4.4,35-39,2.82,86,sv,5,4,5,4,4,sv,sv
+San Polo,Brunello Vignavecchia,5.0,300-349,2.81,10,5,5,sv,5,sv,sv,sv,sv
+San Polo,Brunello Riserva,3.5,250-299,0.42,02,3,4,sv,sv,sv,sv,sv,sv
+San Polo,Brunello Podernovi,3.5,125-149,0.42,03,3,4,sv,sv,sv,sv,sv,sv
+San Polo,Brunello,3.3,45-49,1.05,25,3,3,3,3,4,4,sv,sv
+Sensi,Brunello Officium Poggio Scudieri,3.0,25-29,0.11,04,3,sv,sv,sv,sv,sv,sv,sv
+Sensi,Brunello Boscoselvo,3.0,25-29,0.11,04,sv,sv,sv,sv,3,sv,sv,sv
+Sesti,Brunello Riserva Phenomena,4.8,90-94,4.06,50,sv,5,sv,5,4,5,5,sv
+Sesti,Brunello,4.0,60-64,1.99,36,5,sv,3,4,4,4,sv,sv
+Talenti,Brunello Riserva Pian Di Conte,4.5,75-79,2.92,43,sv,5,sv,5,5,3,sv,sv
+Talenti,Brunello Piero,4.5,100-124,1.25,13,4,5,sv,sv,sv,sv,sv,sv
+Talenti,Brunello,3.4,40-44,0.95,25,4,4,3,3,3,sv,sv,sv
+Talenti,Brunello Trentennale,3.0,35-39,0.11,03,sv,sv,sv,sv,sv,3,sv,sv
+Tenuta Buon Tempo,Brunello Riserva Oliveto P56,4.0,65-69,0.31,05,sv,4,sv,sv,sv,sv,sv,sv
+Tenuta Buon Tempo,Brunello,3.0,40-44,0.11,03,3,sv,sv,sv,sv,sv,sv,sv
+Tenuta Di Sesta,Brunello,3.0,40-44,0.78,21,4,3,3,3,3,2,sv,sv
+Tenuta Di Sesta,Brunello Riserva Duelecci Ovest,3.6,80-84,1.16,16,3,3,sv,sv,4,4,4,sv
+Tenuta Il Poggione,Brunello Riserva Vigna Paganelli,4.7,85-89,2.19,28,sv,5,sv,sv,5,sv,4,sv
+Tenuta Il Poggione,Brunello,4.5,45-49,4.17,100,5,5,5,4,5,3,sv,sv
+Tenuta La Fuga,Brunello,4.0,35-39,0.31,10,sv,sv,sv,sv,4,sv,sv,sv
+Tenuta La Fuga,Brunello Riserva Le Due Sorelle,5.0,60-64,0.94,17,sv,sv,sv,sv,sv,5,sv,sv
+Tenuta Le Potazzine,Brunello,4.3,75-79,3.55,52,4,5,5,3,4,5,sv,sv
+Tenuta Le Potazzine,Brunello Riserva,5.0,150-174,0.94,07,sv,sv,sv,sv,sv,5,sv,sv
+Tenuta San Giorgio,Brunello Ugolforte,4.8,45-49,4.06,97,5,5,5,5,sv,4,sv,sv
+Tenute Folonari,Brunello La Fuga,3.5,35-39,1.39,42,sv,4,3,5,sv,2,sv,sv
+Tenute Piccini,Brunello Villa Al Cortile,2.5,40-44,0.14,04,sv,3,sv,2,sv,sv,sv,sv
+Tenute Piccini,Brunello Riserva Villa Al Cortile,3.0,40-44,0.11,03,sv,sv,sv,sv,3,sv,sv,sv
+Tenute Silvio Nardi,Brunello Vigneto Manachiara,4.0,90-94,1.36,17,5,4,sv,sv,3,sv,sv,sv
+Tenute Silvio Nardi,Brunello Vigneto Poggio Doria,4.3,90-94,1.57,19,4,5,sv,sv,4,sv,sv,sv
+Tenute Silvio Nardi,Brunello,3.5,40-44,1.26,34,4,3,4,4,3,3,sv,sv
+Tenute Silvio Nardi,Brunello Riserva Vigneto Poggio Doria,3.5,90-94,0.42,05,sv,sv,sv,sv,4,sv,3,sv
+Terre Nere,Brunello Riserva Capriolo,4.0,100-124,0.31,03,sv,4,sv,sv,sv,sv,sv,sv
+Terre Nere,Brunello Riserva,4.0,65-69,0.31,05,sv,4,sv,sv,sv,sv,sv,sv
+Terre Nere,Brunello,4.0,45-49,0.31,08,4,sv,sv,sv,sv,sv,sv,sv
+Tiezzi,Brunello Vigna Soccorso,4.5,55-59,3.75,74,5,4,4,5,4,5,sv,sv
+Tiezzi,Brunello Riserva Vigna Soccorso,4.5,55-59,2.50,50,sv,4,sv,5,4,5,sv,sv
+Tiezzi,Brunello Poggio Cerrino,3.2,35-39,0.85,26,3,3,3,3,4,3,sv,sv
+Ventolaio,Brunello,3.0,45-49,0.11,03,sv,sv,sv,3,sv,sv,sv,sv
+Villa Poggio Salvi,Brunello Pomona,3.6,85-89,1.16,15,4,3,sv,4,4,3,sv,sv
+Villa Poggio Salvi,Brunello,3.0,30-34,0.64,22,3,3,3,3,3,3,sv,sv
+Villa Poggio Salvi,Brunello Riserva,3.0,60-64,0.32,06,sv,sv,sv,sv,3,3,3,sv
