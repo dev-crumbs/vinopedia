@@ -70,7 +70,7 @@ export function denominazioneSummaryTable(){
         if (j.textContent.includes("sv")) {
           j.style.color = "lightgray"
           //console.log(td.innerText.length)
-        } else if (j.innerText.length <= 2){
+        } else if (j.innerText.length <= 1){
           j.classList.add("star-table")
         }
       })
@@ -93,13 +93,19 @@ export function denominazioneSummaryTable(){
       mediaPesataAll.forEach(k =>{
             const value = (k.innerText * 100) / 5;
             const valueFixed = value.toFixed(0)
+            const valueFixed2 = (valueFixed * 90) / 100        
             if (window.innerWidth >= 600) {
-                  k.style.width = valueFixed + "%"  
+                  k.style.width = valueFixed2 + "%"  
             } else {
-                  k.style.width = valueFixed + "%"
+                  k.style.width = valueFixed2 + "%"
             }
             k.setAttribute("title",valueFixed)
             k.innerText = valueFixed
+      })
+      const qpAll = el.querySelectorAll("td[data-th='Q/P']")
+      qpAll.forEach(k =>{
+            const value = (k.innerText * 90) / 100 
+            k.style.width = value + "%"  
       })
       const firstTh = el.querySelector('th:nth-child(1)');
         firstTh.setAttribute("scope","col");
@@ -119,6 +125,10 @@ export function denominazioneSummaryTable(){
         fifthTh.setAttribute("scope","col");
         fifthTh.setAttribute("data-type","number");
         fifthTh.classList.add("table__header");
+      const sixTh = el.querySelector('th:nth-child(6)');
+        sixTh.setAttribute("scope","col");
+        sixTh.setAttribute("data-type","number");
+        sixTh.classList.add("table__header");      
       //hide sv cells on mobile
       if (window.innerWidth < 600) {
         for (const i of document.querySelectorAll("td")) {
