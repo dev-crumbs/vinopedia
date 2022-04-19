@@ -99,13 +99,14 @@ export function denominazioneSummaryTable(){
             } else {
                   k.style.width = valueFixed2 + "%"
             }
-            k.setAttribute("title",valueFixed)
+            k.setAttribute("title",valueFixed  + "/100")
             k.innerText = valueFixed
       })
       const qpAll = el.querySelectorAll("td[data-th='Q/P']")
       qpAll.forEach(k =>{
             const value = (k.innerText * 90) / 100 
-            k.style.width = value + "%"  
+            k.style.width = value + "%"
+            k.setAttribute("title",k.innerText + "/100")
       })
       const firstTh = el.querySelector('th:nth-child(1)');
         firstTh.setAttribute("scope","col");
