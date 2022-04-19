@@ -93,19 +93,23 @@ export function denominazioneSummaryTable(){
       mediaPesataAll.forEach(k =>{
             const value = (k.innerText * 100) / 5;
             const valueFixed = value.toFixed(0)
-            const valueFixed2 = (valueFixed * 90) / 100        
+            const valueFixed90 = (valueFixed * 90) / 100        
             if (window.innerWidth >= 600) {
-                  k.style.width = valueFixed2 + "%"  
+                  k.style.width = valueFixed90 + "%"  
             } else {
-                  k.style.width = valueFixed2 + "%"
+                  k.style.width = valueFixed + "%"
             }
             k.setAttribute("title",valueFixed  + "/100")
             k.innerText = valueFixed
       })
       const qpAll = el.querySelectorAll("td[data-th='Q/P']")
       qpAll.forEach(k =>{
+        if (window.innerWidth >= 600) {
             const value = (k.innerText * 90) / 100 
             k.style.width = value + "%"
+        } else {
+            k.style.width = k.innerText + "%"
+        }
             k.setAttribute("title",k.innerText + "/100")
       })
       const firstTh = el.querySelector('th:nth-child(1)');
