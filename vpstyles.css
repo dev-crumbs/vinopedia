@@ -61,6 +61,15 @@ table.produttore-table th:nth-child(2) {min-width: 110px; cursor:pointer}
     border-radius:2px;
     box-shadow: 1px 1px 1px rgba(0,0,0,0.5)
   }
+  .denominazione-table td[data-th="Q/P"]:after{
+    background: repeating-linear-gradient(
+    -45deg,
+    #a4d7a6,
+    #a4d7a6 10px,
+    #4caf50 10px,
+    #4caf50 20px
+    );
+  }
 
   table.denominazione-table {
     margin:auto;
