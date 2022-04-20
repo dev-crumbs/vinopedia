@@ -1,4 +1,5 @@
 export function abbinamentiTree(){
+  const denominazione = document.querySelector(".denominazioneNome").innerText.replaceAll(' ', '-');
   const abbinamentiCheck = document.querySelector(".abbinamenti")
   if (abbinamentiCheck == null) {return }
   // set the dimensions and margins of the graph
@@ -16,7 +17,7 @@ export function abbinamentiTree(){
       .attr("transform", "translate(10,0)");  // bit of margin on the left = 40
   
   // read json data
-  d3.json("DOCG-Frascati-Superiore/abbinamenti.json").then( function(data) {
+  d3.json(`${denominazione}/abbinamenti.json`).then( function(data) {
   
     // Create the cluster layout:
     const cluster = d3.cluster()
