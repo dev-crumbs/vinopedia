@@ -3,15 +3,15 @@ export function abbinamentiTree(){
   const abbinamentiCheck = document.querySelector(".abbinamenti")
   if (abbinamentiCheck == null) {return }
   // set the dimensions and margins of the graph
-  const width = 900
-  const height = 1000
+  const width = 1600
+  const height = 1600
   
   // append the svg object to the body of the page
   const svg = d3.select(".abbinamenti")
     .append("svg")
   //    .attr("width", width)
     //  .attr("height", height)
-    .attr("viewBox", "0 0 1000 1000")
+    .attr("viewBox", `0 0 ${width} ${height}`)
     .attr("preserveAspectRatio", "xMinYMin meet")
     .append("g")
       .attr("transform", "translate(10,0)");  // bit of margin on the left = 40
