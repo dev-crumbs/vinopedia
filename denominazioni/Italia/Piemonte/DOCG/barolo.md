@@ -2,8 +2,8 @@
 title: Barolo DOCG
 description: 
 published: true
-date: 2022-04-20T08:42:03.025Z
-tags: denominazione
+date: 2022-04-20T15:13:42.921Z
+tags: 
 editor: markdown
 dateCreated: 2022-01-27T14:37:38.219Z
 ---
