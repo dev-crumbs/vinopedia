@@ -71,7 +71,7 @@ table.produttore-table th:nth-child(2) {min-width: 110px; cursor:pointer}
     #4caf50 20px
     );
   }
-  .denominazione-table th[data-th="Q/P"]{
+  .denominazione-table th[title="Q/P"]{
     min-width: 93px
   }
   table.denominazione-table {
