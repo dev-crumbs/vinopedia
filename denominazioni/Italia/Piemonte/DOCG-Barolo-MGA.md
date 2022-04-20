@@ -2,15 +2,13 @@
 title: DOCG Barolo Menzioni Geografiche Aggiuntive
 description: 
 published: true
-date: 2022-04-20T15:14:22.897Z
+date: 2022-04-20T15:14:42.937Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-27T14:37:38.219Z
 ---
 
-# Barolo DOCG
-
-## Menzioni Geografiche Aggiuntive (MGA)
+# DOCG Barolo Menzioni Geografiche Aggiuntive (MGA)
 
 - Comune di Verduno
   1. Boscatto
