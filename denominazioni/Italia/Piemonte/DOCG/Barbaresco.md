@@ -1,16 +1,14 @@
 ---
-title: Barbaresco DOCG 
+title: DOCG Barbaresco Menzioni Geografiche Aggiuntive
 description: 
 published: true
-date: 2021-09-06T15:06:34.716Z
+date: 2022-04-20T15:15:36.516Z
 tags: denominazione
 editor: markdown
-dateCreated: 2021-09-06T09:33:51.096Z
+dateCreated: 2022-02-01T16:48:05.127Z
 ---
 
-# Barbaresco DOCG
-
-## Menzioni Geografiche Aggiuntive (MGA)
+# DOCG Barbaresco Menzioni Geografiche Aggiuntive (MGA)
 
 - Comune di Alba:
   1. Meruzzano
