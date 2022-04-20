@@ -1,8 +1,8 @@
 ---
-title: Barolo DOCG
+title: DOCG Barolo Menzioni Geografiche Aggiuntive
 description: 
 published: true
-date: 2022-04-20T15:13:42.921Z
+date: 2022-04-20T15:14:22.897Z
 tags: 
 editor: markdown
 dateCreated: 2022-01-27T14:37:38.219Z
