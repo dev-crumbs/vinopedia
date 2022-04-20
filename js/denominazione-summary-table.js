@@ -104,6 +104,7 @@ export function denominazioneSummaryTable(){
       })
       const qpAll = el.querySelectorAll("td[data-th='Q/P']")
       qpAll.forEach(k =>{
+        const parsedValue = parseInt(k.innerText, 10);
         const value = (k.innerText * 90) / 100
         if (window.innerWidth >= 600) { 
             k.style.width = value + "%"
@@ -111,6 +112,7 @@ export function denominazioneSummaryTable(){
             k.style.width = value + "%"
         }
             k.setAttribute("title",k.innerText + "/100")
+            k.innerText = parsedValue
       })
       const firstTh = el.querySelector('th:nth-child(1)');
         firstTh.setAttribute("scope","col");
