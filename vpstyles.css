@@ -879,6 +879,11 @@ max-width: 350px
 .zoomActive {
   color:#1976d2!important;
 }
+@media only screen and (max-width:599px) {
+  .abbinamenti .zoomIn, .abbinamenti .zoomOut {
+    display:none
+  }
+}
 /* #endregion */
 
 /* #region RICONOSCIMENTI*/
