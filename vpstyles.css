@@ -854,9 +854,31 @@ max-width: 350px
 
 /* #region Abbinamenti*/
 .abbinamenti {
-  max-width: 900px
+  position: relative;
+  max-width: 90%;
+  overflow: hidden;
 }
-
+.zoomOn {
+  overflow: auto;
+  max-height:65vh;
+  }
+.abbinamenti .zoomIn {
+  position: sticky;
+  top: 0px;
+  left: 0px;
+  z-index: 2;
+  color:#1976d2;
+}
+.abbinamenti .zoomOut {
+  position: sticky;
+  top: 0px;
+  left: 40px;
+  z-index: 2;
+  color: gray;
+}
+.zoomActive {
+  color:#1976d2!important;
+}
 /* #endregion */
 
 /* #region RICONOSCIMENTI*/
