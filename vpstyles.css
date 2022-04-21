@@ -545,6 +545,8 @@ table.summary-table td:nth-child(1n+4) {text-align: right;}
 .vinobianco,
 .vinospumanterose,
 .vinospumantebianco,
+.zoomIn,
+.zoomOut,
 .star,
 .star-0,
 .star-1,
@@ -639,7 +641,16 @@ table.summary-table td:nth-child(1n+4) {text-align: right;}
   color: gold;
   font-size: 40px;
 }
-
+.zoomIn:before {
+  content: "\f0fe";
+  font-weight: 900;
+  font-size: 40px;
+}
+.zoomOut:before {
+  content: "\f146";
+  font-weight: 900;
+  font-size: 40px;
+}
 /* #endregion */
 
 /* #region ORIGINAL THEME FIX*/
