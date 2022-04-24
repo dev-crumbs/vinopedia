@@ -1,8 +1,8 @@
-Produttore,Vino,Media Grezza,Prezzo,V Score,Q/P,2020,2019,2018,2017,2016,2015,2014
-La Tosa,Malvasia Sorriso di Cielo,3.5,15-19,2.74,55,5,4,3,3,3,3,sv
-Il Poggiarello,Malvasia La Malvagia,3.0,10-14,0.17,05,3,sv,sv,sv,sv,sv,sv
-La Ciocca,Malvasia La Ciocca,2.0,10-14,0.06,02,2,sv,sv,sv,sv,sv,sv
-Luretta,Malvasia Boccadirosa,3.8,15-19,5.00,100,5,3,2,5,5,3,sv
-Mossi 1558,Malvasia Baciamano,1.5,10-14,0.06,02,2,1,sv,sv,sv,sv,sv
-Torre Fornello,Malvasia Donna Luigia,2.3,15-19,0.29,06,sv,3,sv,sv,2,sv,2
-Torre Fornello,Malvasia Una,4.0,30-34,1.03,11,sv,sv,sv,sv,sv,4,4
+Produttore;Vino;Media Grezza;Prezzo;V Score;Q/P;2020;2019;2018;2017;2016;2015;2014
+La Tosa;Malvasia Sorriso di Cielo;3.5;15-19;55;55;5;4;3;3;3;3;sv
+Il Poggiarello;Malvasia La Malvagia;3.0;10-14;3;05;3;sv;sv;sv;sv;sv;sv
+La Ciocca;Malvasia La Ciocca;2.0;10-14;1;02;2;sv;sv;sv;sv;sv;sv
+Luretta;Malvasia Boccadirosa;3.8;15-19;100;100;5;3;2;5;5;3;sv
+Mossi 1558;Malvasia Baciamano;1.5;10-14;1;02;2;1;sv;sv;sv;sv;sv
+Torre Fornello;Malvasia Donna Luigia;2.3;15-19;6;06;sv;3;sv;sv;2;sv;2
+Torre Fornello;Malvasia Una;4.0;30-34;21;11;sv;sv;sv;sv;sv;4;4

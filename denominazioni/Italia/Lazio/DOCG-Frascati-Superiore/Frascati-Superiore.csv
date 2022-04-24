@@ -1,26 +1,26 @@
-Produttore,Vino,Media Grezza,Prezzo,V Score,Q/P,2020,2019,2018,2017,2016,2015,2014
-Casale Marchese,Frascati Superiore,3.3,5-9,0.98,49,4,3,3,sv,3,sv,sv
-Casale Marchese,Frascati Superiore Quarto Marchese,3.0,10-14,0.49,14,3,3,3,sv,sv,sv,sv
-Casale Vallechiesa,Frascati Superiore Heredio,2.5,15-19,0.22,05,3,2,sv,sv,sv,sv,sv
-Castel De Paolis,Frascati Superiore,4.0,15-19,3.23,67,5,5,sv,sv,3,3,sv
-De Sanctis,Frascati Superiore Abelos,4.0,15-19,4.84,100,5,5,5,3,3,3,sv
-De Sanctis,Frascati Superiore Riserva Amacos,3.0,20-24,0.49,08,sv,sv,3,sv,3,3,sv
-Fontana Candida,Frascati Superiore Riserva Luna Mater,4.4,15-19,4.36,90,5,5,sv,4,4,4,sv
-Fontana Candida,Frascati Superiore Vigneto Santa Teresa,2.6,5-9,0.61,30,3,2,2,sv,3,3,sv
-L'Olivella,Frascati Superiore Racemo Biowine,2.5,5-9,0.44,22,3,2,3,2,sv,sv,sv
-Gabriele Magno,Frascati Superiore Riserva Vigneto La Torretta Di Valle Marciana,3.7,20-24,1.14,18,sv,4,4,3,sv,sv,sv
-Gabriele Magno,Frascati Superiore,3.3,10-14,0.82,24,sv,3,4,3,sv,sv,sv
-Merumalia,Frascati Superiore Riserva Primo,4.4,20-24,5.00,80,5,5,5,3,sv,4,sv
-Merumalia,Frascati Superiore Primo,3.2,15-19,1.31,27,3,3,3,3,4,3,sv
-Villa Simone,Frascati Superiore Riserva Vigneto Filonardi,3.0,15-19,0.66,14,sv,3,3,3,3,sv,sv
-Villa Simone,Frascati Superiore Villa Dei Preti,2.5,5-9,0.44,22,3,3,2,sv,2,sv,sv
-Casata Mergè,Frascati Superiore 1960,2.5,10-14,0.22,06,sv,3,2,sv,sv,sv,sv
-Casata Mergè,Frascati Superiore Riserva Sesto 21,3.0,15-19,0.49,10,sv,sv,3,3,3,sv,sv
-Cantine San Marco,Frascati Superiore De Notari Crio 12 Biologico,2.5,5-9,0.22,11,sv,3,2,sv,sv,sv,sv
-Cantine San Marco,Frascati Superiore De Notari,3.0,5-9,0.16,08,sv,sv,3,sv,sv,sv,sv
-Valle Vermiglia,Frascati Superiore Eremo Tuscolano,3.8,10-14,2.11,62,sv,3,4,4,sv,4,4
-Poggio Le Volpi,Frascati Superiore Riserva Epos,3.0,10-14,0.49,14,sv,sv,3,3,3,sv,sv
-Terre Dei Pallavicini,Frascati Superiore Poggio Verde,3.0,5-9,0.66,33,sv,sv,3,3,3,3,sv
-Tenuta Di Pietra Porzia,Frascati Superiore Gold Label,3.0,15-19,0.16,03,sv,sv,sv,3,sv,sv,sv
-Casale Mattia,Frascati Superiore Terre Del Casale,2.0,5-9,0.06,03,sv,sv,sv,sv,2,sv,sv
-Casale Mattia,Frascati Superiore Linea Storica,2.0,5-9,0.06,03,sv,sv,sv,sv,sv,2,sv
+Produttore;Vino;Media Grezza;Prezzo;V Score;Q/P;2020;2019;2018;2017;2016;2015;2014
+Casale Marchese;Frascati Superiore;3.3;5-9;20;49;4;3;3;sv;3;sv;sv
+Casale Marchese;Frascati Superiore Quarto Marchese;3.0;10-14;10;14;3;3;3;sv;sv;sv;sv
+Casale Vallechiesa;Frascati Superiore Heredio;2.5;15-19;4;05;3;2;sv;sv;sv;sv;sv
+Castel De Paolis;Frascati Superiore;4.0;15-19;65;67;5;5;sv;sv;3;3;sv
+De Sanctis;Frascati Superiore Abelos;4.0;15-19;97;100;5;5;5;3;3;3;sv
+De Sanctis;Frascati Superiore Riserva Amacos;3.0;20-24;10;08;sv;sv;3;sv;3;3;sv
+Fontana Candida;Frascati Superiore Riserva Luna Mater;4.4;15-19;87;90;5;5;sv;4;4;4;sv
+Fontana Candida;Frascati Superiore Vigneto Santa Teresa;2.6;5-9;12;30;3;2;2;sv;3;3;sv
+L'Olivella;Frascati Superiore Racemo Biowine;2.5;5-9;9;22;3;2;3;2;sv;sv;sv
+Gabriele Magno;Frascati Superiore Riserva Vigneto La Torretta Di Valle Marciana;3.7;20-24;23;18;sv;4;4;3;sv;sv;sv
+Gabriele Magno;Frascati Superiore;3.3;10-14;16;24;sv;3;4;3;sv;sv;sv
+Merumalia;Frascati Superiore Riserva Primo;4.4;20-24;100;80;5;5;5;3;sv;4;sv
+Merumalia;Frascati Superiore Primo;3.2;15-19;26;27;3;3;3;3;4;3;sv
+Villa Simone;Frascati Superiore Riserva Vigneto Filonardi;3.0;15-19;13;14;sv;3;3;3;3;sv;sv
+Villa Simone;Frascati Superiore Villa Dei Preti;2.5;5-9;9;22;3;3;2;sv;2;sv;sv
+Casata Mergè;Frascati Superiore 1960;2.5;10-14;4;06;sv;3;2;sv;sv;sv;sv
+Casata Mergè;Frascati Superiore Riserva Sesto 21;3.0;15-19;10;10;sv;sv;3;3;3;sv;sv
+Cantine San Marco;Frascati Superiore De Notari Crio 12 Biologico;2.5;5-9;4;11;sv;3;2;sv;sv;sv;sv
+Cantine San Marco;Frascati Superiore De Notari;3.0;5-9;3;08;sv;sv;3;sv;sv;sv;sv
+Valle Vermiglia;Frascati Superiore Eremo Tuscolano;3.8;10-14;42;62;sv;3;4;4;sv;4;4
+Poggio Le Volpi;Frascati Superiore Riserva Epos;3.0;10-14;10;14;sv;sv;3;3;3;sv;sv
+Terre Dei Pallavicini;Frascati Superiore Poggio Verde;3.0;5-9;13;33;sv;sv;3;3;3;3;sv
+Tenuta Di Pietra Porzia;Frascati Superiore Gold Label;3.0;15-19;3;03;sv;sv;sv;3;sv;sv;sv
+Casale Mattia;Frascati Superiore Terre Del Casale;2.0;5-9;1;03;sv;sv;sv;sv;2;sv;sv
+Casale Mattia;Frascati Superiore Linea Storica;2.0;5-9;1;03;sv;sv;sv;sv;sv;2;sv

@@ -1,33 +1,33 @@
-Produttore,Vino,Media Grezza,Prezzo,V Score,Q/P,2019,2018,2017,2016,2015,2014,2013,2012
-Andrea Felici,Castelli Di Jesi Verdicchio Riserva Classico Vigna Il Cantico Della Figura,4.6,55-59,4.11,46,sv,5,5,5,3,sv,5,sv
-Broccanera,Castelli Di Jesi Verdicchio Riserva Zirro,3.0,20-24,0.23,07,sv,sv,sv,3,3,sv,sv,sv
-Brunori,Castelli Di Jesi Verdicchio Riserva Classico San Nicolo,3.2,10-14,1.38,73,3,3,2,5,3,sv,sv,sv
-Bucci,Castelli Di Jesi Verdicchio Riserva Classico Villa Bucci,5.0,35-39,5.00,86,sv,5,5,5,5,5,sv,sv
-Casalfarneto,Castelli Di Jesi Verdicchio Riserva Classico Crisio,3.2,15-19,1.38,52,sv,3,3,3,5,2,sv,sv
-Colognola Tenuta Musone,Castelli Di Jesi Verdicchio Riserva Classico Labieno,3.0,15-19,0.49,18,sv,sv,4,2,3,sv,sv,sv
-Colonnara,Castelli Di Jesi Verdicchio Classico Riserva Tufico,3.0,10-14,0.23,12,sv,sv,sv,3,3,sv,sv,sv
-Fattoria Coroncino,Castelli Di Jesi Verdicchio Riserva Classico Stracacio,3.0,25-29,0.11,03,sv,sv,3,sv,sv,sv,sv,sv
-Fazi Battaglia Tenute San Sisto,Castelli Di Jesi Verdicchio Riserva Classico San Sisto,3.2,20-24,0.79,23,sv,4,3,3,3,3,sv,sv
-Filodivino,Castelli Di Jesi Verdicchio Riserva Classico Dino,3.0,20-24,0.34,10,sv,3,3,sv,3,sv,sv,sv
-Garofoli,Castelli Di Jesi Verdicchio Riserva Classico Serra Fiorese,3.8,15-19,2.68,100,sv,sv,4,5,3,3,5,3
-La Staffa,Castelli Di Jesi Verdicchio Riserva Classico Rincrocca,3.0,25-29,0.23,05,sv,3,3,sv,sv,sv,sv,sv
-Luca Cimarelli,Castelli Di Jesi Verdicchio Riserva Classico Selezione Cimarelli,3.0,20-24,0.11,03,3,sv,sv,sv,sv,sv,sv,sv
-Mancini,Castelli Di Jesi Verdicchio Classico Riserva,3.4,15-19,1.45,54,sv,sv,3,3,5,3,3,sv
-Marotti Campi,Castelli Di Jesi Verdicchio Riserva Classico Salmariano,3.3,10-14,1.13,60,sv,4,3,4,3,3,3,sv
-Moncaro,Castelli Di Jesi Verdicchio Riserva Classico Vigna Novali,3.2,15-19,0.94,35,sv,sv,4,3,2,4,3,sv
-Montecappone,Castelli Di Jesi Verdicchio Riserva Classico Utopia,4.5,30-34,3.11,62,sv,5,sv,3,5,sv,5,sv
-Montecappone,Castelli Di Jesi Verdicchio Riserva Classico Mirizzi Ergo Sum,3.0,60-64,0.11,01,sv,sv,sv,3,sv,sv,sv,sv
-Pievalta,Castelli Di Jesi Verdicchio Classico Riserva San Paolo,4.0,15-19,2.23,83,sv,sv,3,5,3,sv,5,sv
-Poderi Mattioli,Castelli Di Jesi Verdicchio Riserva Classico Vigna Novali,4.0,20-24,0.34,10,sv,4,sv,sv,sv,sv,sv,sv
-Poderi Mattioli,Castelli Di Jesi Verdicchio Riserva Lauro,3.0,20-24,0.11,03,sv,sv,sv,sv,sv,sv,3,sv
-Roberto Venturi,Castelli Di Jesi Verdicchio Riserva Qudi,2.5,20-24,0.15,04,sv,3,sv,2,sv,sv,sv,sv
-Santa Barbara,Castelli Di Jesi Verdicchio Riserva Classico Tardivo Ma Non Tardo,3.8,35-39,2.68,46,4,5,3,5,3,3,sv,sv
-Sparapani Frati Bianchi,Castelli Di Jesi Verdicchio Riserva Classico Donna Cloe,2.5,15-19,0.30,11,sv,sv,3,3,2,sv,2,sv
-Tenuta Di Tavignano,Castelli Di Jesi Verdicchio Riserva Classico Misco,3.6,25-29,1.68,39,sv,5,3,3,4,3,sv,sv
-Tenute Pieralisi Monte Schiavo,Castelli Di Jesi Verdicchio Riserva Classico Le Giuncare,3.3,15-19,0.56,21,sv,4,sv,sv,3,sv,3,sv
-Umani Ronchi,Castelli Di Jesi Verdicchio Riserva Classico Plenio,3.2,15-19,0.90,34,sv,4,3,3,3,3,3,sv
-Vallerosa Bonci,Castelli Di Jesi Verdicchio Riserva Classico Pietrone,3.5,30-34,0.45,09,sv,sv,sv,sv,4,sv,3,sv
-Vicari,Castelli Di Jesi Verdicchio Riserva Classico Oltretempo Del Pozzo Buono,3.0,25-29,0.23,05,sv,sv,sv,3,3,sv,sv,sv
-Vigna Degli Estensi,Castelli Di Jesi Verdicchio Riserva Logos,3.3,15-19,0.82,31,sv,sv,4,4,2,3,sv,sv
-Vignamato,Castelli Di Jesi Verdicchio Riserva Classico Ambrosia,3.8,25-29,1.56,37,sv,5,4,3,sv,sv,sv,3
-Zaccagnini,Castelli Di Jesi Verdicchio Classico Riserva Maestro Di Staffolo,3.0,25-29,0.11,03,sv,sv,sv,3,sv,sv,sv,sv
+Produttore;Vino;Media Grezza;Prezzo;V Score;Q/P;2019;2018;2017;2016;2015;2014;2013;2012
+Andrea Felici;Castelli Di Jesi Verdicchio Riserva Classico Vigna Il Cantico Della Figura;4.6;55-59;82;46;sv;5;5;5;3;sv;5;sv
+Broccanera;Castelli Di Jesi Verdicchio Riserva Zirro;3.0;20-24;5;07;sv;sv;sv;3;3;sv;sv;sv
+Brunori;Castelli Di Jesi Verdicchio Riserva Classico San Nicolo;3.2;10-14;28;73;3;3;2;5;3;sv;sv;sv
+Bucci;Castelli Di Jesi Verdicchio Riserva Classico Villa Bucci;5.0;35-39;100;86;sv;5;5;5;5;5;sv;sv
+Casalfarneto;Castelli Di Jesi Verdicchio Riserva Classico Crisio;3.2;15-19;28;52;sv;3;3;3;5;2;sv;sv
+Colognola Tenuta Musone;Castelli Di Jesi Verdicchio Riserva Classico Labieno;3.0;15-19;10;18;sv;sv;4;2;3;sv;sv;sv
+Colonnara;Castelli Di Jesi Verdicchio Classico Riserva Tufico;3.0;10-14;5;12;sv;sv;sv;3;3;sv;sv;sv
+Fattoria Coroncino;Castelli Di Jesi Verdicchio Riserva Classico Stracacio;3.0;25-29;2;03;sv;sv;3;sv;sv;sv;sv;sv
+Fazi Battaglia Tenute San Sisto;Castelli Di Jesi Verdicchio Riserva Classico San Sisto;3.2;20-24;16;23;sv;4;3;3;3;3;sv;sv
+Filodivino;Castelli Di Jesi Verdicchio Riserva Classico Dino;3.0;20-24;7;10;sv;3;3;sv;3;sv;sv;sv
+Garofoli;Castelli Di Jesi Verdicchio Riserva Classico Serra Fiorese;3.8;15-19;54;100;sv;sv;4;5;3;3;5;3
+La Staffa;Castelli Di Jesi Verdicchio Riserva Classico Rincrocca;3.0;25-29;5;05;sv;3;3;sv;sv;sv;sv;sv
+Luca Cimarelli;Castelli Di Jesi Verdicchio Riserva Classico Selezione Cimarelli;3.0;20-24;2;03;3;sv;sv;sv;sv;sv;sv;sv
+Mancini;Castelli Di Jesi Verdicchio Classico Riserva;3.4;15-19;29;54;sv;sv;3;3;5;3;3;sv
+Marotti Campi;Castelli Di Jesi Verdicchio Riserva Classico Salmariano;3.3;10-14;23;60;sv;4;3;4;3;3;3;sv
+Moncaro;Castelli Di Jesi Verdicchio Riserva Classico Vigna Novali;3.2;15-19;19;35;sv;sv;4;3;2;4;3;sv
+Montecappone;Castelli Di Jesi Verdicchio Riserva Classico Utopia;4.5;30-34;62;62;sv;5;sv;3;5;sv;5;sv
+Montecappone;Castelli Di Jesi Verdicchio Riserva Classico Mirizzi Ergo Sum;3.0;60-64;2;01;sv;sv;sv;3;sv;sv;sv;sv
+Pievalta;Castelli Di Jesi Verdicchio Classico Riserva San Paolo;4.0;15-19;45;83;sv;sv;3;5;3;sv;5;sv
+Poderi Mattioli;Castelli Di Jesi Verdicchio Riserva Classico Vigna Novali;4.0;20-24;7;10;sv;4;sv;sv;sv;sv;sv;sv
+Poderi Mattioli;Castelli Di Jesi Verdicchio Riserva Lauro;3.0;20-24;2;03;sv;sv;sv;sv;sv;sv;3;sv
+Roberto Venturi;Castelli Di Jesi Verdicchio Riserva Qudi;2.5;20-24;3;04;sv;3;sv;2;sv;sv;sv;sv
+Santa Barbara;Castelli Di Jesi Verdicchio Riserva Classico Tardivo Ma Non Tardo;3.8;35-39;54;46;4;5;3;5;3;3;sv;sv
+Sparapani Frati Bianchi;Castelli Di Jesi Verdicchio Riserva Classico Donna Cloe;2.5;15-19;6;11;sv;sv;3;3;2;sv;2;sv
+Tenuta Di Tavignano;Castelli Di Jesi Verdicchio Riserva Classico Misco;3.6;25-29;34;39;sv;5;3;3;4;3;sv;sv
+Tenute Pieralisi Monte Schiavo;Castelli Di Jesi Verdicchio Riserva Classico Le Giuncare;3.3;15-19;11;21;sv;4;sv;sv;3;sv;3;sv
+Umani Ronchi;Castelli Di Jesi Verdicchio Riserva Classico Plenio;3.2;15-19;18;34;sv;4;3;3;3;3;3;sv
+Vallerosa Bonci;Castelli Di Jesi Verdicchio Riserva Classico Pietrone;3.5;30-34;9;09;sv;sv;sv;sv;4;sv;3;sv
+Vicari;Castelli Di Jesi Verdicchio Riserva Classico Oltretempo Del Pozzo Buono;3.0;25-29;5;05;sv;sv;sv;3;3;sv;sv;sv
+Vigna Degli Estensi;Castelli Di Jesi Verdicchio Riserva Logos;3.3;15-19;16;31;sv;sv;4;4;2;3;sv;sv
+Vignamato;Castelli Di Jesi Verdicchio Riserva Classico Ambrosia;3.8;25-29;31;37;sv;5;4;3;sv;sv;sv;3
+Zaccagnini;Castelli Di Jesi Verdicchio Classico Riserva Maestro Di Staffolo;3.0;25-29;2;03;sv;sv;sv;3;sv;sv;sv;sv

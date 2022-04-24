@@ -36,11 +36,19 @@ export function denominazioneSummaryTable(){
         .text(function (d) {
           return d.value;
         });
-      //aggiungi €
-      const prezzoAll = el.querySelectorAll("td[data-th='Prezzo']");
-      for (const i of prezzoAll) {
-        i.innerText += "€"
-      }
+      //add widths for bars
+      rows.selectAll('td[data-th="V Score"], td[data-th="Q/P"]')
+        .style("width", function (d) {
+          return d.value + "%";
+        });
+      //add €
+      rows.selectAll('td[data-th="Prezzo"]')
+        .text(function (d) {
+          return d.value + "€";
+        });
+    }).then(function(){//post content populating js functions
+      //var startTime = performance.now()
+      //ext link 500ms
       const nomeAll = el.querySelectorAll("td[data-th='Vino']");
       nomeAll.forEach(i =>{
         const nome = i.innerText.replaceAll(' ', '-').replaceAll('é','e')
@@ -55,65 +63,13 @@ export function denominazioneSummaryTable(){
         } else {
               i.prepend(node)
         }
-        i.setAttribute("title",i.innerText)
       });
-      const produttoreAll = el.querySelectorAll("td[data-th='Produttore']");
-      for (const i of produttoreAll){
-        i.setAttribute("title",i.innerText)
-      }
-      const thAll = el.querySelectorAll("thead th");
-      for (const i of thAll){
-        i.setAttribute("title",i.innerText)
-      }
-      const tdAll = el.querySelectorAll("td")
-      tdAll.forEach(j =>{  
-        if (j.textContent.includes("sv")) {
-          j.style.color = "lightgray"
-          //console.log(td.innerText.length)
-        } else if (j.innerText.length <= 1){
+      // stars 100ms
+      const tdAll = el.querySelectorAll("td[data-th^='20'],td[data-th^='19']")
+      for (const j of tdAll) {
           j.classList.add("star-table")
-        }
-      })
-      const starAll = el.querySelectorAll("td.star-table")
-      starAll.forEach(k =>{
-        if (k.innerText >= 1 && k.innerText <= 1.9 ){
-          k.style.color = "#cecece"
-        } else if (k.innerText >= 2 && k.innerText <= 2.9 ) {
-          k.style.color = "#a0a0a0"
-        } else if (k.innerText >= 3 && k.innerText <= 3.9 ) {
-          k.style.color = "#747474"
-        } else if (k.innerText >= 4 && k.innerText <= 4.7 ) {
-          k.style.color = "#4b4b4b"
-        } else if (k.innerText >= 4.7 && k.innerText <= 5 ) {
-          k.style.color = "#252525"
-        } 
-      })
-      // graphic V Score
-      const mediaPesataAll = el.querySelectorAll("td[data-th='V Score']")
-      mediaPesataAll.forEach(k =>{
-            const value = (k.innerText * 100) / 5;
-            const valueFixed = value.toFixed(0)
-            const valueFixed90 = (valueFixed * 90) / 100        
-            if (window.innerWidth >= 600) {
-                  k.style.width = valueFixed90 + "%"  
-            } else {
-                  k.style.width = valueFixed90 + "%"
-            }
-            k.setAttribute("title",valueFixed  + "/100")
-            k.innerText = valueFixed
-      })
-      const qpAll = el.querySelectorAll("td[data-th='Q/P']")
-      qpAll.forEach(k =>{
-        const parsedValue = parseInt(k.innerText, 10);
-        const value = (k.innerText * 90) / 100
-        if (window.innerWidth >= 600) { 
-            k.style.width = value + "%"
-        } else {
-            k.style.width = value + "%"
-        }
-            k.setAttribute("title",k.innerText + "/100")
-            k.innerText = parsedValue
-      })
+      }
+      // add sorting filters
       const firstTh = el.querySelector('th:nth-child(1)');
         firstTh.setAttribute("scope","col");
         firstTh.classList.add("table__header");
@@ -135,16 +91,24 @@ export function denominazioneSummaryTable(){
       const sixTh = el.querySelector('th:nth-child(6)');
         sixTh.setAttribute("scope","col");
         sixTh.setAttribute("data-type","number");
-        sixTh.classList.add("table__header");      
+        sixTh.classList.add("table__header");
       //hide sv cells on mobile
-      if (window.innerWidth < 600) {
+      if (window.innerWidth <= 600) {
         for (const i of document.querySelectorAll("td")) {
           if (i.textContent.includes("sv")) {
             i.style.display = "none"
           }
         }
-      }  
-    }).then(function(){
+      } else {
+        const thAll = el.querySelectorAll("thead th");
+        for (const i of thAll){
+          i.setAttribute("title",i.innerText)
+        }
+      }
+
+      //var endTime = performance.now()
+      //console.log(`Call to doSomething took ${endTime - startTime} milliseconds`)
+      //remove loader
       const tempCheck = document.querySelector(".loader")
       if (tempCheck == null){return;} 
       document.querySelector(".loader-container").remove()
