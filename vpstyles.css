@@ -814,11 +814,11 @@ max-width: 350px
 }
 /* #endregion */
 
-/* #region LOADER*/
+/* #region LOADER
 
 .loader {
-  border: 10px solid #f3f3f3; /* Light grey */
-  border-top: 10px solid #3498db; /* Blue */
+  border: 10px solid #f3f3f3; 
+  border-top: 10px solid #3498db; 
   border-radius: 50%;
   width: 25px;
   height: 25px;
