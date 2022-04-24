@@ -39,7 +39,7 @@ export function denominazioneSummaryTable(){
       //add widths for bars
       rows.selectAll('td[data-th="V Score"], td[data-th="Q/P"]')
         .style("width", function (d) {
-          return d.value + "%";
+          return ((d.value*90)/100) + "%";
         });
       //add €
       rows.selectAll('td[data-th="Prezzo"]')
