@@ -1,10 +1,10 @@
-Produttore;Vino;Media Grezza;Prezzo;V Score;Q/P;2020;2019;2018;2017;2016;2015
-Cantina Valtidone;Gutturnio Frizzante 50 Vendemmie;2.0;15-19;37;15;3;sv;sv;sv;1;2
-Casa Benna;Gutturnio Frizzante Il Garrito;2.6;5-9;100;100;3;2;2;sv;3;3
-Il Poggiarello;Gutturnio Frizzante Spago;3.0;5-9;54;54;3;3;sv;sv;sv;sv
-La Ciocca;Gutturnio Frizzante La Ciocca;2.0;5-9;9;09;2;sv;sv;sv;sv;sv
-La Conchiglia;Gutturnio Frizzante Figlio Mio;2.0;10-14;9;05;2;sv;sv;sv;sv;sv
-La Tollara;Gutturnio Frizzante;3.0;5-9;81;81;sv;3;3;sv;3;sv
-Luretta;Gutturnio Frizzante;2.0;10-14;9;05;sv;sv;sv;sv;2;sv
-Marengoni;Gutturno Frizzante G842;2.3;5-9;55;55;3;2;2;2;sv;sv
-Vitivinicola Valla;Gutturno Frizzante Come Una Volta;2.5;5-9;36;36;sv;2;3;sv;sv;sv
+Produttore,Vino,Media Grezza,Prezzo,V Score,Q/P,2020,2019,2018,2017,2016,2015
+Cantina Valtidone,Gutturnio Frizzante 50 Vendemmie,2.0,15-19,37,15,3,sv,sv,sv,1,2
+Casa Benna,Gutturnio Frizzante Il Garrito,2.6,5-9,100,100,3,2,2,sv,3,3
+Il Poggiarello,Gutturnio Frizzante Spago,3.0,5-9,54,54,3,3,sv,sv,sv,sv
+La Ciocca,Gutturnio Frizzante La Ciocca,2.0,5-9,9,09,2,sv,sv,sv,sv,sv
+La Conchiglia,Gutturnio Frizzante Figlio Mio,2.0,10-14,9,05,2,sv,sv,sv,sv,sv
+La Tollara,Gutturnio Frizzante,3.0,5-9,81,81,sv,3,3,sv,3,sv
+Luretta,Gutturnio Frizzante,2.0,10-14,9,05,sv,sv,sv,sv,2,sv
+Marengoni,Gutturno Frizzante G842,2.3,5-9,55,55,3,2,2,2,sv,sv
+Vitivinicola Valla,Gutturno Frizzante Come Una Volta,2.5,5-9,36,36,sv,2,3,sv,sv,sv

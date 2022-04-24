@@ -1,206 +1,206 @@
-Produttore;Vino;Media Grezza;Prezzo;V Score;Q/P;2018;2017;2016;2015;2014;2013;2012;2011;2010;2009;2008;2007;2006;2004
-Albino Armani;Amarone;3.0;30-34;0.52;01;sv;sv;3;3;sv;sv;3;sv;3;sv;sv;sv;sv;sv
-Albino Armani;Amarone Classico Riserva Cuslanus;4.0;40-44;1.16;02;sv;sv;sv;4;sv;4;4;sv;sv;sv;sv;sv;sv;sv
-Albino Armani;Amarone Classico Cuslanus;3.0;35-39;0.13;00;sv;sv;sv;sv;sv;sv;sv;sv;3;sv;sv;sv;sv;sv
-Aldegheri;Amarone Classico Riserva;4.0;50-54;1.16;01;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv;4;4;sv;4
-Aldegheri;Amarone Classico Santambrogio;3.0;40-44;0.26;00;sv;sv;sv;3;sv;3;sv;sv;sv;sv;sv;sv;sv;sv
-Allegrini;Amarone Classico;3.8;80-84;2.58;02;sv;3;5;4;3;sv;4;4;sv;sv;sv;sv;sv;sv
-Antolini;Amarone Classico Ca Coato;3.3;50-54;0.65;01;sv;sv;3;3;sv;sv;sv;4;sv;sv;sv;sv;sv;sv
-Antolini;Amarone Classico Moropio;3.3;40-44;0.78;01;sv;4;3;3;sv;sv;3;sv;sv;sv;sv;sv;sv;sv
-Begali;Amarone Classico;3.0;45-49;0.65;01;sv;3;3;3;sv;3;3;sv;sv;sv;sv;sv;sv;sv
-Begali;Amarone Classico Riserva Monte Ca Bianca;4.3;55-59;2.31;03;sv;sv;sv;4;sv;5;4;4;sv;sv;sv;sv;sv;sv
-Benedetti Corte Antica;Amarone Classico;3.0;35-39;0.13;00;sv;sv;sv;sv;sv;sv;3;sv;sv;sv;sv;sv;sv;sv
-Benedetti Corte Antica;Amarone Classico Etichetta Red;3.0;35-39;0.13;00;sv;sv;3;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv
-Benedetti Corte Antica;Amarone Croce Del Gal Black;4.5;50-54;1.54;02;sv;sv;sv;sv;sv;sv;sv;5;sv;4;sv;sv;sv;sv
-Bertani;Amarone Classico;4.3;100-124;2.82;02;sv;sv;sv;sv;sv;sv;5;3;4;5;sv;sv;sv;sv
-Bertani;Amarone Valpantena;3.0;45-49;0.65;01;3;3;3;3;3;sv;sv;sv;sv;sv;sv;sv;sv;sv
-Bolla;Amarone Classico Rhetico;3.0;30-34;0.13;00;sv;sv;sv;3;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv
-Bolla;Amarone Classico Riserva Le Origini;4.0;50-54;0.39;00;sv;sv;sv;4;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv
-Brigaldara;Amarone Case Vecie;3.7;40-44;0.91;01;sv;sv;sv;4;sv;3;4;sv;sv;sv;sv;sv;sv;sv
-Brigaldara;Amarone Cavolo;4.0;35-39;2.06;04;sv;sv;4;5;sv;3;4;sv;sv;sv;sv;sv;sv;sv
-Brigaldara;Amarone Classico;3.7;35-39;1.42;03;sv;sv;5;3;sv;3;sv;sv;sv;sv;sv;sv;sv;sv
-Brigaldara;Amarone Riserva;5.0;75-79;1.15;01;sv;sv;sv;sv;sv;sv;sv;5;sv;sv;sv;sv;sv;sv
-Brunelli;Amarone Classico;3.0;30-34;0.13;00;sv;3;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv
-Brunelli;Amarone Classico Riserva Campo Del Titari;4.3;60-64;2.31;03;sv;sv;sv;4;sv;5;4;4;sv;sv;sv;sv;sv;sv
-Brunelli;Amarone Classico Riserva Campo Inferi;4.3;45-49;2.31;03;sv;sv;sv;5;sv;4;4;4;sv;sv;sv;sv;sv;sv
-Buglioni;Amarone Classico Riserva Teste Dure;4.0;175-199;0.39;00;sv;sv;sv;sv;sv;sv;sv;sv;4;sv;sv;sv;sv;sv
-Buglioni;Amarone Classico Il Lussurioso;3.0;50-54;0.13;00;sv;sv;sv;3;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv
-Ca' Botta;Amarone Riserva Pian Di Mezzo;4.0;50-54;0.39;00;sv;sv;sv;4;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv
-Ca' Botta;Amarone Tenuta Caio;3.0;40-44;0.13;00;sv;sv;3;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv
-Ca' La Bionda;Amarone Classico Ravezzol;4.5;65-69;1.54;02;sv;sv;sv;5;sv;sv;sv;4;sv;sv;sv;sv;sv;sv
-Ca' Rugate;Amarone;3.0;50-54;0.26;00;sv;sv;sv;sv;sv;3;3;sv;sv;sv;sv;sv;sv;sv
-Ca' Rugate;Amarone Punta 470;3.5;50-54;0.52;01;sv;3;4;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv
-Ca' Rugate;Amarone Punta Tolotti;3.0;50-54;0.26;00;sv;sv;sv;3;3;sv;sv;sv;sv;sv;sv;sv;sv;sv
-Camerani Adalia Corte Sant'Alda;Amarone Corte Sant'Alda Valmezzane;4.0;75-79;1.16;01;sv;sv;sv;4;sv;4;4;sv;sv;sv;sv;sv;sv;sv
-Camerani Adalia Corte Sant'Alda;Amarone Mithas;4.5;150-174;1.54;01;sv;sv;sv;sv;sv;5;4;sv;sv;sv;sv;sv;sv;sv
-Cantina Di Soave;Amarone Riserva Rocca Sveva;3.0;50-54;0.13;00;sv;sv;sv;3;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv
-Cantina Negrar;Amarone Bartolomeo Lorenzi;3.0;25-29;0.13;00;sv;3;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv
-Cantina Negrar;Amarone Classico Biologico;3.0;30-34;0.13;00;sv;sv;sv;sv;sv;3;sv;sv;sv;sv;sv;sv;sv;sv
-Cantina Negrar;Amarone Classico Domini Veneti;3.0;30-34;0.13;00;sv;3;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv
-Cantina Negrar;Amarone Classico Espressioni Castelrotto;3.5;95-99;0.52;00;sv;sv;sv;sv;sv;sv;sv;4;3;sv;sv;sv;sv;sv
-Cantina Negrar;Amarone Classico Espressioni Mazzurega;3.5;95-99;0.52;00;sv;sv;sv;sv;sv;sv;sv;3;4;sv;sv;sv;sv;sv
-Cantina Negrar;Amarone Classico Espressioni Monte;3.5;95-99;0.52;00;sv;sv;sv;sv;sv;sv;sv;3;4;sv;sv;sv;sv;sv
-Cantina Negrar;Amarone Classico Espressioni San Rocco;5.0;95-99;1.15;01;sv;sv;sv;sv;sv;sv;sv;sv;5;sv;sv;sv;sv;sv
-Cantina Negrar;Amarone Classico Espressioni Villa;3.5;95-99;0.52;00;sv;sv;sv;sv;sv;sv;sv;3;4;sv;sv;sv;sv;sv
-Cantina Negrar;Amarone Classico Pruviniano;3.0;40-44;0.39;01;sv;3;sv;sv;3;3;sv;sv;sv;sv;sv;sv;sv;sv
-Cantina Negrar;Amarone Classico Riserva Mater;4.0;125-149;1.16;01;sv;sv;sv;sv;sv;sv;4;4;4;sv;sv;sv;sv;sv
-Cantina Negrar;Amarone Classico Vigneti Di Jago Domini Veneti;3.7;50-54;0.91;01;sv;sv;sv;3;sv;4;sv;sv;4;sv;sv;sv;sv;sv
-Cavalchina;Amarone Terre d'Orti;3.0;30-34;0.79;02;sv;3;3;3;3;3;3;sv;sv;sv;sv;sv;sv;sv
-Cesari;Amarone Classico;3.0;30-34;0.52;01;sv;sv;3;3;3;3;sv;sv;sv;sv;sv;sv;sv;sv
-Cesari;Amarone Classico Il Bosco;3.0;45-49;0.39;01;sv;sv;sv;3;sv;3;sv;3;sv;sv;sv;sv;sv;sv
-Cesari;Amarone Classico Riserva Bosan;3.8;60-64;2.19;02;sv;sv;sv;sv;sv;sv;5;4;3;3;4;sv;sv;sv
-Coali Tenuta Savoia;Amarone Classico Vigneti Dei Coali;4.0;65-69;0.77;01;sv;sv;sv;sv;sv;4;4;sv;sv;sv;sv;sv;sv;sv
-Corte Adami;Amarone;4.0;35-39;0.77;01;sv;sv;4;4;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv
-Corte Canella;Amarone;4.0;65-69;0.39;00;sv;sv;sv;4;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv
-Corte Rugolin;Amarone Classico Crosara Delle Strie;3.0;35-39;0.26;00;sv;sv;sv;sv;sv;3;3;sv;sv;sv;sv;sv;sv;sv
-Corte Rugolin;Amarone Classico Monte Danieli;3.5;50-54;0.52;01;sv;sv;sv;sv;sv;sv;4;3;sv;sv;sv;sv;sv;sv
-Corte San Benedetto;Amarone Classico Riserva Camporal;5.0;50-54;1.15;01;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv;5;sv;sv;sv
-Corte Scaletta;Amarone;3.0;50-54;0.13;00;sv;sv;sv;sv;sv;3;sv;sv;sv;sv;sv;sv;sv;sv
-Corteforte;Amarone Classico Terre Di San Zeno;3.0;40-44;0.13;00;sv;sv;sv;sv;sv;3;sv;sv;sv;sv;sv;sv;sv;sv
-Corteforte;Amarone Classico Vigneti Di Osan;4.0;60-64;0.39;00;sv;sv;sv;sv;sv;sv;4;sv;sv;sv;sv;sv;sv;sv
-Costa Arente;Amarone;4.0;45-49;0.39;01;sv;sv;4;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv
-Dal Cero;Amarone;3.0;50-54;0.39;01;sv;sv;sv;3;sv;3;sv;3;sv;sv;sv;sv;sv;sv
-David Sterza;Amarone Classico;5.0;30-34;2.31;05;sv;5;5;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv
-Falezze;Amarone;5.0;100-124;1.15;01;sv;sv;sv;5;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv
-Farina;Amarone Classico;3.0;20-24;0.13;00;3;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv
-Farina;Amarone Classico Famiglia Farina;3.0;40-44;0.13;00;sv;sv;3;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv
-Farina;Amarone Classico Riserva Mezzadro alla Fontana;5.0;125-149;1.15;01;sv;sv;sv;sv;sv;sv;sv;5;sv;sv;sv;sv;sv;sv
-Farina;Amarone Riserva Montefante;3.0;45-49;0.13;00;sv;sv;sv;3;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv
-Fattori;Amarone;3.0;60-64;0.52;01;sv;sv;sv;3;sv;3;3;3;sv;sv;sv;sv;sv;sv
-Fattori;Amarone Col de la Bastia;3.0;40-44;0.65;01;sv;3;3;3;3;3;sv;sv;sv;sv;sv;sv;sv;sv
-Fattori;Amarone Riserva;4.0;60-64;0.77;01;sv;sv;4;4;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv
-Gamba;Amarone Classico Campedel;3.5;55-59;1.04;01;sv;sv;4;3;sv;3;4;sv;sv;sv;sv;sv;sv;sv
-Gamba;Amarone Classico Le Quare;3.2;35-39;0.91;02;sv;sv;3;3;3;3;4;sv;sv;sv;sv;sv;sv;sv
-Gamba;Amarone Classico Riserva Campedel;4.3;100-124;2.82;02;sv;sv;sv;5;sv;sv;3;4;5;sv;sv;sv;sv;sv
-Garbole;Amarone Riserva Hatteso;4.7;100-124;2.69;02;sv;sv;sv;sv;sv;sv;sv;4;5;5;sv;sv;sv;sv
-Gini;Amarone Riserva Scajari;4.0;90-94;0.39;00;sv;sv;sv;sv;sv;sv;sv;sv;4;sv;sv;sv;sv;sv
-Gino Fasoli;Amarone Alteo;4.0;75-79;1.67;01;sv;sv;sv;3;sv;sv;5;4;sv;sv;sv;sv;sv;sv
-Giuseppe Campagnola;Amarone Classico Vigneti Vallata Di Marano;3.0;30-34;0.13;00;sv;sv;sv;sv;3;sv;sv;sv;sv;sv;sv;sv;sv;sv
-Giusti Wine;Amarone Classico;3.5;100-124;1.04;01;sv;sv;3;sv;3;4;4;sv;sv;sv;sv;sv;sv;sv
-Graziano Pra;Amarone;3.2;55-59;0.91;01;sv;sv;sv;3;sv;3;3;3;4;sv;sv;sv;sv;sv
-Guerrieri Rizzardi;Amarone Classico Calcarole;3.7;85-89;0.91;01;sv;sv;sv;4;sv;3;sv;4;sv;sv;sv;sv;sv;sv
-Guerrieri Rizzardi;Amarone Classico Villa Rizzardi;3.0;50-54;0.13;00;sv;sv;sv;sv;sv;3;sv;sv;sv;sv;sv;sv;sv;sv
-I Campi;Amarone Campi Lunghi;3.5;45-49;1.04;01;sv;3;4;4;sv;3;sv;sv;sv;sv;sv;sv;sv;sv
-I Campi;Amarone Campo Marna Cinquecento;4.5;150-174;1.54;01;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv;5;4;sv
-Ilatium Morini;Amarone Campo Leon;3.8;45-49;1.80;03;sv;sv;sv;3;3;4;5;sv;sv;sv;sv;sv;sv;sv
-Ilatium Morini;Amarone Riserva Due Mori;4.0;100-124;0.39;00;sv;sv;sv;sv;sv;sv;sv;4;sv;sv;sv;sv;sv;sv
-La Collina Dei Ciliegi;Amarone;4.0;50-54;0.39;00;sv;4;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv
-La Dama;Amarone Classico;4.0;40-44;0.77;01;sv;4;sv;sv;sv;sv;sv;4;sv;sv;sv;sv;sv;sv
-Le Guaite ;Amarone;4.0;55-59;0.77;01;sv;sv;sv;sv;sv;sv;sv;sv;sv;4;4;sv;sv;sv
-Le Marognole;Amarone Classico Camporocco;3.0;35-39;0.39;01;sv;sv;3;3;sv;sv;3;sv;sv;sv;sv;sv;sv;sv
-Le Ragose;Amarone Classico;3.7;40-44;1.42;02;sv;sv;sv;sv;sv;sv;sv;sv;5;3;3;sv;sv;sv
-Le Ragose;Amarone Classico Caloetto;4.0;45-49;1.67;02;sv;sv;sv;sv;sv;sv;sv;sv;5;sv;4;3;sv;sv
-Le Ragose;Amarone Classico Marta Galli;4.0;45-49;0.39;01;sv;sv;sv;sv;sv;sv;sv;sv;4;sv;sv;sv;sv;sv
-Le Salette;Amarone Classico La Marega;3.3;30-34;0.65;01;sv;sv;3;4;3;sv;sv;sv;sv;sv;sv;sv;sv;sv
-Le Salette;Amarone Classico Pergole Vece;4.5;55-59;1.54;02;sv;sv;4;5;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv
-Luigi Maule;Amarone Classico Riserva;3.0;25-29;0.13;00;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv;3;sv;sv
-Manara;Amarone Classico Corte Manara;3.0;25-29;0.52;01;sv;sv;3;3;sv;3;sv;3;sv;sv;sv;sv;sv;sv
-Manara;Amarone Classico Postera;3.6;35-39;1.42;03;sv;sv;sv;3;3;4;4;sv;4;sv;sv;sv;sv;sv
-Marco Mosconi;Amarone;4.5;55-59;1.54;02;sv;sv;sv;5;sv;4;sv;sv;sv;sv;sv;sv;sv;sv
-Masi;Amarone Classico Campolongo Di Torbe;4.0;125-149;1.67;01;sv;sv;sv;sv;sv;5;3;4;sv;sv;sv;sv;sv;sv
-Masi;Amarone Classico Costasera;3.0;40-44;0.26;00;sv;sv;3;sv;sv;3;sv;sv;sv;sv;sv;sv;sv;sv
-Masi;Amarone Classico Mazzano;4.3;125-149;1.93;01;sv;sv;sv;sv;sv;sv;5;4;sv;4;sv;sv;sv;sv
-Masi;Amarone Classico Riserva Costasera;3.5;65-69;1.04;01;sv;sv;sv;3;sv;3;4;4;sv;sv;sv;sv;sv;sv
-Masi;Amarone Classico Vaio Armaron;3.3;70-74;0.65;01;sv;sv;sv;sv;sv;3;4;3;sv;sv;sv;sv;sv;sv
-Massimago;Amarone;4.0;70-74;0.39;00;sv;sv;4;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv
-Mizzon;Amarone Classico;5.0;45-49;1.15;02;sv;sv;sv;sv;sv;sv;sv;sv;sv;5;sv;sv;sv;sv
-Monte Cillario;Amarone Casa Erbisti;3.0;40-44;0.13;00;sv;sv;3;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv
-Monte Cillario;Amarone Riserva Rinaldo Marchesini;4.0;55-59;0.39;00;sv;sv;sv;sv;sv;4;sv;sv;sv;sv;sv;sv;sv;sv
-Monte Del Fra;Amarone Classico Riserva Scarnocchio;3.7;75-79;0.91;01;sv;sv;4;4;sv;3;sv;sv;sv;sv;sv;sv;sv;sv
-Monte Del Fra;Amarone Classico Tenuta Lena di Mezzo;3.0;45-49;0.52;01;sv;3;3;3;sv;sv;3;sv;sv;sv;sv;sv;sv;sv
-Monte Santoccio;Amarone Classico;4.0;35-39;0.77;01;sv;sv;4;4;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv
-Monte Santoccio;Amarone Classico Edizione Speciale Nicola Ferrari;4.0;45-49;0.77;01;sv;sv;4;4;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv
-Monte Zovo;Amarone;4.7;70-74;2.69;03;sv;5;5;4;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv
-Montetondo;Amarone;3.0;40-44;0.65;01;sv;sv;3;3;3;3;3;sv;sv;sv;sv;sv;sv;sv
-Nicolis;Amarone Classico;3.0;40-44;0.13;00;sv;sv;sv;sv;sv;sv;sv;sv;3;sv;sv;sv;sv;sv
-Nicolis;Amarone Classico Ambrosan;3.0;50-54;0.13;00;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv;3;sv;sv;sv
-Odino Vaona;Amarone Classico Pergrandi;3.3;30-34;0.65;01;sv;sv;3;4;sv;sv;3;sv;sv;sv;sv;sv;sv;sv
-Odino Vaona;Amarone Classico Riserva Pergrandi;5.0;75-79;1.15;01;sv;sv;sv;sv;sv;5;sv;sv;sv;sv;sv;sv;sv;sv
-Pasqua;Amarone Classico Riserva Cecilia Beretta Terre di Cariano;3.5;75-79;0.52;00;sv;sv;sv;3;sv;sv;sv;4;sv;sv;sv;sv;sv;sv
-Pasqua;Amarone Classico Villa Borghetti;3.0;35-39;0.13;00;sv;sv;sv;sv;sv;3;sv;sv;sv;sv;sv;sv;sv;sv
-Pasqua;Amarone Famiglia Pasqua;3.0;60-64;0.26;00;sv;sv;sv;sv;sv;3;3;sv;sv;sv;sv;sv;sv;sv
-Pasqua;Amarone Riserva Famiglia Pasqua;5.0;70-74;23;21;sv;sv;sv;sv;sv;5;sv;sv;sv;sv;sv;sv;sv;sv
-Pasqua;Amarone Riserva Famiglia Pasqua;5.0;125-149;23;11;sv;sv;sv;sv;sv;5;sv;sv;sv;sv;sv;sv;sv;sv
-Pieropan;Amarone;4.0;55-59;23;27;sv;sv;sv;4;4;4;sv;sv;sv;sv;sv;sv;sv;sv
-Recchia;Amarone Classico Masua Di Jago;3.0;30-34;3;05;sv;sv;3;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv
-Recchia;Amarone Classico Riserva Ca' Bertoldi;4.0;40-44;8;12;sv;sv;4;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv
-Roberto Mazzi;Amarone Classico Vigneto Punta Di Villa;4.0;50-54;8;10;sv;sv;sv;sv;sv;sv;sv;4;sv;sv;sv;sv;sv;sv
-Roberto Mazzi;Amarone Classico Vigneto Castel;3.0;55-59;3;03;sv;sv;sv;sv;sv;sv;3;sv;sv;sv;sv;sv;sv;sv
-Roccolo Callisto;Amarone ;4.0;45-49;8;11;sv;sv;4;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv
-Roccolo Grassi;Amarone ;4.8;75-79;77;67;sv;sv;5;5;sv;4;5;sv;sv;sv;sv;sv;sv;sv
-Romano Dal Forno;Amarone Vigneto Di Monte Lodoletta;5.0;300-349;46;10;sv;sv;sv;sv;sv;sv;5;5;sv;sv;sv;sv;sv;sv
-Rubinelli Vajol;Amarone Classico;4.0;50-54;15;20;sv;sv;sv;4;sv;4;sv;sv;sv;sv;sv;sv;sv;sv
-Rubinelli Vajol;Amarone Classico Riserva Destinee;5.0;150-174;23;10;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv;5;sv;sv;sv
-San Cassiano;Amarone Riserva;3.0;70-74;3;02;sv;sv;sv;sv;3;sv;sv;sv;sv;sv;sv;sv;sv;sv
-San Cassiano;Amarone;3.0;45-49;3;04;sv;sv;3;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv
-Santa Sofia;Amarone Classico Riserva;4.0;70-74;8;07;sv;sv;sv;sv;sv;sv;4;sv;sv;sv;sv;sv;sv;sv
-Santa Sofia;Amarone Classico;3.5;35-39;10;19;sv;sv;sv;3;sv;4;sv;sv;sv;sv;sv;sv;sv;sv
-Santi;Amarone Classico Proemio;3.5;60-64;21;22;sv;sv;sv;4;sv;3;3;4;sv;sv;sv;sv;sv;sv
-Santi;Amarone Classico Santico;3.0;35-39;8;14;sv;sv;3;sv;3;3;sv;sv;sv;sv;sv;sv;sv;sv
-Santi;Amarone;3.0;35-39;5;09;sv;sv;sv;sv;sv;sv;3;3;sv;sv;sv;sv;sv;sv
-Scriani;Amarone Classico Riserva;4.0;45-49;8;11;sv;sv;sv;4;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv
-Scriani;Amarone Classico;3.0;35-39;3;05;sv;sv;3;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv
-Secondo Marco;Amarone Classico;5.0;70-74;46;43;sv;sv;sv;sv;sv;5;5;sv;sv;sv;sv;sv;sv;sv
-Secondo Marco;Amarone Classico Riserva Fumetto;5.0;200-249;23;07;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv;5;sv;sv;sv
-Speri;Amarone Classico Sant Urbano;4.8;65-69;100;100;sv;5;5;5;sv;4;5;sv;sv;sv;sv;sv;sv;sv
-Stefano Accordini;Amarone Classico Acinatico;3.6;35-39;28;52;sv;4;4;3;3;sv;4;sv;sv;sv;sv;sv;sv;sv
-Stefano Accordini;Amarone Classico Riserva Vigneto Il Fornetto;4.5;75-79;62;54;sv;sv;sv;5;sv;sv;4;4;5;sv;sv;sv;sv;sv
-Tedeschi;Amarone Classico Riserva Capitel Monte Olmi;3.8;70-74;34;31;sv;sv;sv;4;sv;4;4;3;4;sv;sv;sv;sv;sv
-Tedeschi;Amarone Classico Riserva La Fabriseria;5.0;200-249;46;14;sv;sv;sv;5;sv;sv;sv;5;sv;sv;sv;sv;sv;sv
-Tedeschi;Amarone;3.0;50-54;8;10;sv;sv;sv;sv;3;3;3;sv;sv;sv;sv;sv;sv;sv
-Tedeschi;Amarone Marne 180;3.0;45-49;8;11;sv;sv;3;sv;sv;3;3;sv;sv;sv;sv;sv;sv;sv
-Tedeschi;Amarone Riserva Maternigo;5.0;125-149;23;11;sv;sv;sv;sv;sv;sv;sv;sv;5;sv;sv;sv;sv;sv
-Tenuta Sant Antonio;Amarone Riserva Lilium Est;5.0;125-149;23;11;sv;sv;sv;sv;sv;sv;sv;sv;5;sv;sv;sv;sv;sv
-Tenuta Sant Antonio;Amarone Campo Dei Gigli;3.8;80-84;34;27;sv;4;4;3;sv;4;4;sv;sv;sv;sv;sv;sv;sv
-Tenuta Sant Antonio;Amarone Telos L' Amarone;3.0;45-49;8;11;sv;sv;3;sv;sv;3;3;sv;sv;sv;sv;sv;sv;sv
-Tenuta Sant Antonio;Amarone Selezione Antonio Castagnedi;3.0;45-49;10;15;sv;3;3;3;sv;3;sv;sv;sv;sv;sv;sv;sv;sv
-Tenuta Santa Maria;Amarone Classico Riserva;4.0;90-94;15;11;sv;sv;sv;4;sv;4;sv;sv;sv;sv;sv;sv;sv;sv
-Tenuta Villa Bellini;Amarone Classico Centenarie;4.0;95-99;8;05;sv;sv;sv;4;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv
-Tenute Ugolini;Amarone Classico;4.0;50-54;8;10;sv;sv;sv;sv;sv;sv;sv;4;sv;sv;sv;sv;sv;sv
-Terre Di Leone;Amarone Classico Il Re Pazzo;3.0;45-49;13;19;sv;sv;3;3;3;3;sv;sv;sv;sv;3;sv;sv;sv
-Terre Di Leone;Amarone Classico Terre Di Leone;4.0;70-74;15;14;sv;sv;sv;sv;sv;sv;4;sv;4;sv;sv;sv;sv;sv
-Terre Di Leone;Amarone Classico Riserva Terre Di Leone;5.0;90-94;23;17;sv;sv;sv;sv;sv;sv;sv;5;sv;sv;sv;sv;sv;sv
-Terre Di Leone;Amarone Classico;4.0;60-64;8;08;sv;sv;sv;sv;sv;sv;sv;sv;sv;4;sv;sv;sv;sv
-Terre di Pietra;Amarone Classico Rosson;4.0;50-54;8;10;sv;sv;sv;sv;sv;sv;sv;sv;4;sv;sv;sv;sv;sv
-Tezza;Amarone Valpantena Tezza;4.0;40-44;8;12;sv;sv;sv;sv;sv;sv;sv;sv;sv;4;sv;sv;sv;sv
-Tezza;Amarone Corte Majoli;2.0;30-34;1;02;sv;sv;sv;sv;sv;sv;sv;sv;sv;2;sv;sv;sv;sv
-Tommasi;Amarone Classico Riserva De Buris;5.0;250-299;46;11;sv;sv;sv;sv;sv;sv;sv;sv;5;5;sv;sv;sv;sv
-Tommasi;Amarone Classico De Buris;5.0;250-299;23;06;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv;5;sv;sv;sv
-Tommasi;Amarone Classico;3.2;45-49;18;26;sv;3;3;3;4;sv;3;sv;sv;sv;sv;sv;sv;sv
-Tommasi;Amarone Classico Riserva Ca' Florian;4.0;95-99;23;16;sv;sv;sv;sv;sv;sv;4;4;sv;4;sv;sv;sv;sv
-Tommaso Bussola;Amarone Classico Vignetoalto;5.0;175-199;23;08;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv;5;sv;sv;sv
-Trabucchi D'Illasi;Amarone;3.0;70-74;5;05;sv;sv;sv;sv;sv;sv;sv;3;sv;3;sv;sv;sv;sv
-Trabucchi D'Illasi;Amarone Riserva Cent'Anni;5.0;100-124;23;14;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv;5;sv;sv;sv
-Valentina Cubi;Amarone Classico Morar;3.5;50-54;10;13;sv;sv;sv;sv;sv;4;sv;3;sv;sv;sv;sv;sv;sv
-Valentina Cubi;Amarone Classico Riserva;4.0;100-124;8;05;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv;4
-Venturini;Amarone Classico Riserva;5.0;95-99;23;16;sv;sv;sv;sv;sv;sv;sv;sv;sv;5;sv;sv;sv;sv
-Venturini;Amarone Classico;3.4;25-29;23;58;sv;sv;3;3;sv;3;4;4;sv;sv;sv;sv;sv;sv
-Venturini;Amarone Classico Campomasua;4.2;35-39;54;98;sv;sv;sv;4;sv;5;4;4;4;sv;sv;sv;sv;sv
-Vigneti Di Ettore;Amarone Classico Riserva;5.0;100-124;23;14;sv;sv;sv;sv;sv;sv;5;sv;sv;sv;sv;sv;sv;sv
-Vigneti Di Ettore;Amarone Classico;4.0;45-49;41;59;sv;sv;4;3;sv;5;4;sv;sv;sv;sv;sv;sv;sv
-Villa Canestrari;Amarone Riserva Tenuta Casaletti;3.0;40-44;5;08;sv;sv;sv;sv;3;3;sv;sv;sv;sv;sv;sv;sv;sv
-Villa Canestrari;Amarone Tenuta Casaletti;3.0;35-39;3;05;sv;3;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv
-Villa Canestrari;Amarone Villa Canestrari;3.0;30-34;5;11;sv;3;3;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv
-Villa Canestrari;Amarone Riserva Plenum;4.0;55-59;15;18;sv;sv;sv;sv;sv;4;4;sv;sv;sv;sv;sv;sv;sv
-Villa Canestrari;Amarone Riserva 1888;4.0;80-84;15;13;sv;sv;sv;sv;sv;4;4;sv;sv;sv;sv;sv;sv;sv
-Villa Rinaldi;Amarone Rinaldi Maior;4.0;75-79;8;07;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv;4;sv;sv;sv
-Villa Spinosa;Amarone Classico;3.3;35-39;16;28;sv;4;3;sv;3;sv;3;sv;sv;sv;sv;sv;sv;sv
-Villa Spinosa;Amarone Classico Albasini;4.0;50-54;23;30;sv;sv;sv;sv;sv;4;sv;4;4;sv;sv;sv;sv;sv
-Villa Spinosa;Amarone Classico Guglielmi Di Jago 10 Anni;5.0;75-79;23;20;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv;5;sv;sv
-Villa Spinosa;Amarone Classico Etichetta Avorio;4.0;40-44;8;12;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv;4;sv;sv;sv
-Villabella;Amarone Classico Riserva Fracastoro;3.2;60-64;18;20;sv;sv;sv;sv;sv;sv;3;3;3;sv;3;4;sv;sv
-Villabella;Amarone Classico;3.3;30-34;13;27;sv;sv;sv;sv;sv;3;sv;3;4;sv;sv;sv;sv;sv
-Viviani;Amarone Classico;3.0;40-44;8;13;sv;sv;sv;3;sv;3;3;sv;sv;sv;sv;sv;sv;sv
-Viviani;Amarone Classico Della Casa Dei Bepi;4.7;70-74;54;50;sv;sv;sv;sv;sv;5;5;4;sv;sv;sv;sv;sv;sv
-Zanoni;Amarone;4.0;45-49;15;22;sv;sv;sv;4;sv;sv;4;sv;sv;sv;sv;sv;sv;sv
-Zanoni;Amarone Zovo;4.0;45-49;8;11;sv;sv;sv;sv;sv;4;sv;sv;sv;sv;sv;sv;sv;sv
-Zardini;Amarone;3.0;35-39;10;19;sv;3;3;3;sv;3;sv;sv;sv;sv;sv;sv;sv;sv
-Zardini;Amarone Classico Riserva Leone Zardini;4.0;35-39;41;75;sv;sv;sv;4;sv;5;3;4;sv;sv;sv;sv;sv;sv
-Zenato;Amarone Classico;3.2;45-49;18;26;sv;sv;4;3;sv;3;3;3;sv;sv;sv;sv;sv;sv
-Zenato;Amarone Classico Riserva Sergio Zenato;3.8;90-94;34;24;sv;sv;sv;4;sv;4;4;4;sv;3;sv;sv;sv;sv
-Zeni;Amarone Classico Vigne Alte;3.0;30-34;10;22;sv;3;3;3;sv;sv;3;sv;sv;sv;sv;sv;sv;sv
-Zeni;Amarone Barriques;3.0;45-49;5;07;sv;sv;sv;3;sv;sv;sv;sv;3;sv;sv;sv;sv;sv
-Zeni;Amarone Classico Nino Zeni;3.0;150-174;3;01;sv;sv;sv;3;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv
-Zonin 1821;Amarone;3.0;35-39;3;05;sv;sv;sv;sv;sv;3;sv;sv;sv;sv;sv;sv;sv;sv
-Zyme;Amarone Classico;4.0;90-94;49;36;sv;sv;5;4;sv;3;sv;4;sv;4;sv;sv;sv;sv
-Zyme;Amarone Riserva La Mattonara;5.0;200-249;69;21;sv;sv;sv;sv;sv;sv;sv;sv;sv;sv;5;sv;5;5
+Produttore,Vino,Media Grezza,Prezzo,V Score,Q/P,2018,2017,2016,2015,2014,2013,2012,2011,2010,2009,2008,2007,2006,2004
+Albino Armani,Amarone,3.0,30-34,0.52,01,sv,sv,3,3,sv,sv,3,sv,3,sv,sv,sv,sv,sv
+Albino Armani,Amarone Classico Riserva Cuslanus,4.0,40-44,1.16,02,sv,sv,sv,4,sv,4,4,sv,sv,sv,sv,sv,sv,sv
+Albino Armani,Amarone Classico Cuslanus,3.0,35-39,0.13,00,sv,sv,sv,sv,sv,sv,sv,sv,3,sv,sv,sv,sv,sv
+Aldegheri,Amarone Classico Riserva,4.0,50-54,1.16,01,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv,4,4,sv,4
+Aldegheri,Amarone Classico Santambrogio,3.0,40-44,0.26,00,sv,sv,sv,3,sv,3,sv,sv,sv,sv,sv,sv,sv,sv
+Allegrini,Amarone Classico,3.8,80-84,2.58,02,sv,3,5,4,3,sv,4,4,sv,sv,sv,sv,sv,sv
+Antolini,Amarone Classico Ca Coato,3.3,50-54,0.65,01,sv,sv,3,3,sv,sv,sv,4,sv,sv,sv,sv,sv,sv
+Antolini,Amarone Classico Moropio,3.3,40-44,0.78,01,sv,4,3,3,sv,sv,3,sv,sv,sv,sv,sv,sv,sv
+Begali,Amarone Classico,3.0,45-49,0.65,01,sv,3,3,3,sv,3,3,sv,sv,sv,sv,sv,sv,sv
+Begali,Amarone Classico Riserva Monte Ca Bianca,4.3,55-59,2.31,03,sv,sv,sv,4,sv,5,4,4,sv,sv,sv,sv,sv,sv
+Benedetti Corte Antica,Amarone Classico,3.0,35-39,0.13,00,sv,sv,sv,sv,sv,sv,3,sv,sv,sv,sv,sv,sv,sv
+Benedetti Corte Antica,Amarone Classico Etichetta Red,3.0,35-39,0.13,00,sv,sv,3,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv
+Benedetti Corte Antica,Amarone Croce Del Gal Black,4.5,50-54,1.54,02,sv,sv,sv,sv,sv,sv,sv,5,sv,4,sv,sv,sv,sv
+Bertani,Amarone Classico,4.3,100-124,2.82,02,sv,sv,sv,sv,sv,sv,5,3,4,5,sv,sv,sv,sv
+Bertani,Amarone Valpantena,3.0,45-49,0.65,01,3,3,3,3,3,sv,sv,sv,sv,sv,sv,sv,sv,sv
+Bolla,Amarone Classico Rhetico,3.0,30-34,0.13,00,sv,sv,sv,3,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv
+Bolla,Amarone Classico Riserva Le Origini,4.0,50-54,0.39,00,sv,sv,sv,4,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv
+Brigaldara,Amarone Case Vecie,3.7,40-44,0.91,01,sv,sv,sv,4,sv,3,4,sv,sv,sv,sv,sv,sv,sv
+Brigaldara,Amarone Cavolo,4.0,35-39,2.06,04,sv,sv,4,5,sv,3,4,sv,sv,sv,sv,sv,sv,sv
+Brigaldara,Amarone Classico,3.7,35-39,1.42,03,sv,sv,5,3,sv,3,sv,sv,sv,sv,sv,sv,sv,sv
+Brigaldara,Amarone Riserva,5.0,75-79,1.15,01,sv,sv,sv,sv,sv,sv,sv,5,sv,sv,sv,sv,sv,sv
+Brunelli,Amarone Classico,3.0,30-34,0.13,00,sv,3,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv
+Brunelli,Amarone Classico Riserva Campo Del Titari,4.3,60-64,2.31,03,sv,sv,sv,4,sv,5,4,4,sv,sv,sv,sv,sv,sv
+Brunelli,Amarone Classico Riserva Campo Inferi,4.3,45-49,2.31,03,sv,sv,sv,5,sv,4,4,4,sv,sv,sv,sv,sv,sv
+Buglioni,Amarone Classico Riserva Teste Dure,4.0,175-199,0.39,00,sv,sv,sv,sv,sv,sv,sv,sv,4,sv,sv,sv,sv,sv
+Buglioni,Amarone Classico Il Lussurioso,3.0,50-54,0.13,00,sv,sv,sv,3,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv
+Ca' Botta,Amarone Riserva Pian Di Mezzo,4.0,50-54,0.39,00,sv,sv,sv,4,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv
+Ca' Botta,Amarone Tenuta Caio,3.0,40-44,0.13,00,sv,sv,3,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv
+Ca' La Bionda,Amarone Classico Ravezzol,4.5,65-69,1.54,02,sv,sv,sv,5,sv,sv,sv,4,sv,sv,sv,sv,sv,sv
+Ca' Rugate,Amarone,3.0,50-54,0.26,00,sv,sv,sv,sv,sv,3,3,sv,sv,sv,sv,sv,sv,sv
+Ca' Rugate,Amarone Punta 470,3.5,50-54,0.52,01,sv,3,4,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv
+Ca' Rugate,Amarone Punta Tolotti,3.0,50-54,0.26,00,sv,sv,sv,3,3,sv,sv,sv,sv,sv,sv,sv,sv,sv
+Camerani Adalia Corte Sant'Alda,Amarone Corte Sant'Alda Valmezzane,4.0,75-79,1.16,01,sv,sv,sv,4,sv,4,4,sv,sv,sv,sv,sv,sv,sv
+Camerani Adalia Corte Sant'Alda,Amarone Mithas,4.5,150-174,1.54,01,sv,sv,sv,sv,sv,5,4,sv,sv,sv,sv,sv,sv,sv
+Cantina Di Soave,Amarone Riserva Rocca Sveva,3.0,50-54,0.13,00,sv,sv,sv,3,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv
+Cantina Negrar,Amarone Bartolomeo Lorenzi,3.0,25-29,0.13,00,sv,3,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv
+Cantina Negrar,Amarone Classico Biologico,3.0,30-34,0.13,00,sv,sv,sv,sv,sv,3,sv,sv,sv,sv,sv,sv,sv,sv
+Cantina Negrar,Amarone Classico Domini Veneti,3.0,30-34,0.13,00,sv,3,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv
+Cantina Negrar,Amarone Classico Espressioni Castelrotto,3.5,95-99,0.52,00,sv,sv,sv,sv,sv,sv,sv,4,3,sv,sv,sv,sv,sv
+Cantina Negrar,Amarone Classico Espressioni Mazzurega,3.5,95-99,0.52,00,sv,sv,sv,sv,sv,sv,sv,3,4,sv,sv,sv,sv,sv
+Cantina Negrar,Amarone Classico Espressioni Monte,3.5,95-99,0.52,00,sv,sv,sv,sv,sv,sv,sv,3,4,sv,sv,sv,sv,sv
+Cantina Negrar,Amarone Classico Espressioni San Rocco,5.0,95-99,1.15,01,sv,sv,sv,sv,sv,sv,sv,sv,5,sv,sv,sv,sv,sv
+Cantina Negrar,Amarone Classico Espressioni Villa,3.5,95-99,0.52,00,sv,sv,sv,sv,sv,sv,sv,3,4,sv,sv,sv,sv,sv
+Cantina Negrar,Amarone Classico Pruviniano,3.0,40-44,0.39,01,sv,3,sv,sv,3,3,sv,sv,sv,sv,sv,sv,sv,sv
+Cantina Negrar,Amarone Classico Riserva Mater,4.0,125-149,1.16,01,sv,sv,sv,sv,sv,sv,4,4,4,sv,sv,sv,sv,sv
+Cantina Negrar,Amarone Classico Vigneti Di Jago Domini Veneti,3.7,50-54,0.91,01,sv,sv,sv,3,sv,4,sv,sv,4,sv,sv,sv,sv,sv
+Cavalchina,Amarone Terre d'Orti,3.0,30-34,0.79,02,sv,3,3,3,3,3,3,sv,sv,sv,sv,sv,sv,sv
+Cesari,Amarone Classico,3.0,30-34,0.52,01,sv,sv,3,3,3,3,sv,sv,sv,sv,sv,sv,sv,sv
+Cesari,Amarone Classico Il Bosco,3.0,45-49,0.39,01,sv,sv,sv,3,sv,3,sv,3,sv,sv,sv,sv,sv,sv
+Cesari,Amarone Classico Riserva Bosan,3.8,60-64,2.19,02,sv,sv,sv,sv,sv,sv,5,4,3,3,4,sv,sv,sv
+Coali Tenuta Savoia,Amarone Classico Vigneti Dei Coali,4.0,65-69,0.77,01,sv,sv,sv,sv,sv,4,4,sv,sv,sv,sv,sv,sv,sv
+Corte Adami,Amarone,4.0,35-39,0.77,01,sv,sv,4,4,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv
+Corte Canella,Amarone,4.0,65-69,0.39,00,sv,sv,sv,4,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv
+Corte Rugolin,Amarone Classico Crosara Delle Strie,3.0,35-39,0.26,00,sv,sv,sv,sv,sv,3,3,sv,sv,sv,sv,sv,sv,sv
+Corte Rugolin,Amarone Classico Monte Danieli,3.5,50-54,0.52,01,sv,sv,sv,sv,sv,sv,4,3,sv,sv,sv,sv,sv,sv
+Corte San Benedetto,Amarone Classico Riserva Camporal,5.0,50-54,1.15,01,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv,5,sv,sv,sv
+Corte Scaletta,Amarone,3.0,50-54,0.13,00,sv,sv,sv,sv,sv,3,sv,sv,sv,sv,sv,sv,sv,sv
+Corteforte,Amarone Classico Terre Di San Zeno,3.0,40-44,0.13,00,sv,sv,sv,sv,sv,3,sv,sv,sv,sv,sv,sv,sv,sv
+Corteforte,Amarone Classico Vigneti Di Osan,4.0,60-64,0.39,00,sv,sv,sv,sv,sv,sv,4,sv,sv,sv,sv,sv,sv,sv
+Costa Arente,Amarone,4.0,45-49,0.39,01,sv,sv,4,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv
+Dal Cero,Amarone,3.0,50-54,0.39,01,sv,sv,sv,3,sv,3,sv,3,sv,sv,sv,sv,sv,sv
+David Sterza,Amarone Classico,5.0,30-34,2.31,05,sv,5,5,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv
+Falezze,Amarone,5.0,100-124,1.15,01,sv,sv,sv,5,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv
+Farina,Amarone Classico,3.0,20-24,0.13,00,3,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv
+Farina,Amarone Classico Famiglia Farina,3.0,40-44,0.13,00,sv,sv,3,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv
+Farina,Amarone Classico Riserva Mezzadro alla Fontana,5.0,125-149,1.15,01,sv,sv,sv,sv,sv,sv,sv,5,sv,sv,sv,sv,sv,sv
+Farina,Amarone Riserva Montefante,3.0,45-49,0.13,00,sv,sv,sv,3,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv
+Fattori,Amarone,3.0,60-64,0.52,01,sv,sv,sv,3,sv,3,3,3,sv,sv,sv,sv,sv,sv
+Fattori,Amarone Col de la Bastia,3.0,40-44,0.65,01,sv,3,3,3,3,3,sv,sv,sv,sv,sv,sv,sv,sv
+Fattori,Amarone Riserva,4.0,60-64,0.77,01,sv,sv,4,4,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv
+Gamba,Amarone Classico Campedel,3.5,55-59,1.04,01,sv,sv,4,3,sv,3,4,sv,sv,sv,sv,sv,sv,sv
+Gamba,Amarone Classico Le Quare,3.2,35-39,0.91,02,sv,sv,3,3,3,3,4,sv,sv,sv,sv,sv,sv,sv
+Gamba,Amarone Classico Riserva Campedel,4.3,100-124,2.82,02,sv,sv,sv,5,sv,sv,3,4,5,sv,sv,sv,sv,sv
+Garbole,Amarone Riserva Hatteso,4.7,100-124,2.69,02,sv,sv,sv,sv,sv,sv,sv,4,5,5,sv,sv,sv,sv
+Gini,Amarone Riserva Scajari,4.0,90-94,0.39,00,sv,sv,sv,sv,sv,sv,sv,sv,4,sv,sv,sv,sv,sv
+Gino Fasoli,Amarone Alteo,4.0,75-79,1.67,01,sv,sv,sv,3,sv,sv,5,4,sv,sv,sv,sv,sv,sv
+Giuseppe Campagnola,Amarone Classico Vigneti Vallata Di Marano,3.0,30-34,0.13,00,sv,sv,sv,sv,3,sv,sv,sv,sv,sv,sv,sv,sv,sv
+Giusti Wine,Amarone Classico,3.5,100-124,1.04,01,sv,sv,3,sv,3,4,4,sv,sv,sv,sv,sv,sv,sv
+Graziano Pra,Amarone,3.2,55-59,0.91,01,sv,sv,sv,3,sv,3,3,3,4,sv,sv,sv,sv,sv
+Guerrieri Rizzardi,Amarone Classico Calcarole,3.7,85-89,0.91,01,sv,sv,sv,4,sv,3,sv,4,sv,sv,sv,sv,sv,sv
+Guerrieri Rizzardi,Amarone Classico Villa Rizzardi,3.0,50-54,0.13,00,sv,sv,sv,sv,sv,3,sv,sv,sv,sv,sv,sv,sv,sv
+I Campi,Amarone Campi Lunghi,3.5,45-49,1.04,01,sv,3,4,4,sv,3,sv,sv,sv,sv,sv,sv,sv,sv
+I Campi,Amarone Campo Marna Cinquecento,4.5,150-174,1.54,01,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv,5,4,sv
+Ilatium Morini,Amarone Campo Leon,3.8,45-49,1.80,03,sv,sv,sv,3,3,4,5,sv,sv,sv,sv,sv,sv,sv
+Ilatium Morini,Amarone Riserva Due Mori,4.0,100-124,0.39,00,sv,sv,sv,sv,sv,sv,sv,4,sv,sv,sv,sv,sv,sv
+La Collina Dei Ciliegi,Amarone,4.0,50-54,0.39,00,sv,4,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv
+La Dama,Amarone Classico,4.0,40-44,0.77,01,sv,4,sv,sv,sv,sv,sv,4,sv,sv,sv,sv,sv,sv
+Le Guaite ,Amarone,4.0,55-59,0.77,01,sv,sv,sv,sv,sv,sv,sv,sv,sv,4,4,sv,sv,sv
+Le Marognole,Amarone Classico Camporocco,3.0,35-39,0.39,01,sv,sv,3,3,sv,sv,3,sv,sv,sv,sv,sv,sv,sv
+Le Ragose,Amarone Classico,3.7,40-44,1.42,02,sv,sv,sv,sv,sv,sv,sv,sv,5,3,3,sv,sv,sv
+Le Ragose,Amarone Classico Caloetto,4.0,45-49,1.67,02,sv,sv,sv,sv,sv,sv,sv,sv,5,sv,4,3,sv,sv
+Le Ragose,Amarone Classico Marta Galli,4.0,45-49,0.39,01,sv,sv,sv,sv,sv,sv,sv,sv,4,sv,sv,sv,sv,sv
+Le Salette,Amarone Classico La Marega,3.3,30-34,0.65,01,sv,sv,3,4,3,sv,sv,sv,sv,sv,sv,sv,sv,sv
+Le Salette,Amarone Classico Pergole Vece,4.5,55-59,1.54,02,sv,sv,4,5,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv
+Luigi Maule,Amarone Classico Riserva,3.0,25-29,0.13,00,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv,3,sv,sv
+Manara,Amarone Classico Corte Manara,3.0,25-29,0.52,01,sv,sv,3,3,sv,3,sv,3,sv,sv,sv,sv,sv,sv
+Manara,Amarone Classico Postera,3.6,35-39,1.42,03,sv,sv,sv,3,3,4,4,sv,4,sv,sv,sv,sv,sv
+Marco Mosconi,Amarone,4.5,55-59,1.54,02,sv,sv,sv,5,sv,4,sv,sv,sv,sv,sv,sv,sv,sv
+Masi,Amarone Classico Campolongo Di Torbe,4.0,125-149,1.67,01,sv,sv,sv,sv,sv,5,3,4,sv,sv,sv,sv,sv,sv
+Masi,Amarone Classico Costasera,3.0,40-44,0.26,00,sv,sv,3,sv,sv,3,sv,sv,sv,sv,sv,sv,sv,sv
+Masi,Amarone Classico Mazzano,4.3,125-149,1.93,01,sv,sv,sv,sv,sv,sv,5,4,sv,4,sv,sv,sv,sv
+Masi,Amarone Classico Riserva Costasera,3.5,65-69,1.04,01,sv,sv,sv,3,sv,3,4,4,sv,sv,sv,sv,sv,sv
+Masi,Amarone Classico Vaio Armaron,3.3,70-74,0.65,01,sv,sv,sv,sv,sv,3,4,3,sv,sv,sv,sv,sv,sv
+Massimago,Amarone,4.0,70-74,0.39,00,sv,sv,4,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv
+Mizzon,Amarone Classico,5.0,45-49,1.15,02,sv,sv,sv,sv,sv,sv,sv,sv,sv,5,sv,sv,sv,sv
+Monte Cillario,Amarone Casa Erbisti,3.0,40-44,0.13,00,sv,sv,3,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv
+Monte Cillario,Amarone Riserva Rinaldo Marchesini,4.0,55-59,0.39,00,sv,sv,sv,sv,sv,4,sv,sv,sv,sv,sv,sv,sv,sv
+Monte Del Fra,Amarone Classico Riserva Scarnocchio,3.7,75-79,0.91,01,sv,sv,4,4,sv,3,sv,sv,sv,sv,sv,sv,sv,sv
+Monte Del Fra,Amarone Classico Tenuta Lena di Mezzo,3.0,45-49,0.52,01,sv,3,3,3,sv,sv,3,sv,sv,sv,sv,sv,sv,sv
+Monte Santoccio,Amarone Classico,4.0,35-39,0.77,01,sv,sv,4,4,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv
+Monte Santoccio,Amarone Classico Edizione Speciale Nicola Ferrari,4.0,45-49,0.77,01,sv,sv,4,4,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv
+Monte Zovo,Amarone,4.7,70-74,2.69,03,sv,5,5,4,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv
+Montetondo,Amarone,3.0,40-44,0.65,01,sv,sv,3,3,3,3,3,sv,sv,sv,sv,sv,sv,sv
+Nicolis,Amarone Classico,3.0,40-44,0.13,00,sv,sv,sv,sv,sv,sv,sv,sv,3,sv,sv,sv,sv,sv
+Nicolis,Amarone Classico Ambrosan,3.0,50-54,0.13,00,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv,3,sv,sv,sv
+Odino Vaona,Amarone Classico Pergrandi,3.3,30-34,0.65,01,sv,sv,3,4,sv,sv,3,sv,sv,sv,sv,sv,sv,sv
+Odino Vaona,Amarone Classico Riserva Pergrandi,5.0,75-79,1.15,01,sv,sv,sv,sv,sv,5,sv,sv,sv,sv,sv,sv,sv,sv
+Pasqua,Amarone Classico Riserva Cecilia Beretta Terre di Cariano,3.5,75-79,0.52,00,sv,sv,sv,3,sv,sv,sv,4,sv,sv,sv,sv,sv,sv
+Pasqua,Amarone Classico Villa Borghetti,3.0,35-39,0.13,00,sv,sv,sv,sv,sv,3,sv,sv,sv,sv,sv,sv,sv,sv
+Pasqua,Amarone Famiglia Pasqua,3.0,60-64,0.26,00,sv,sv,sv,sv,sv,3,3,sv,sv,sv,sv,sv,sv,sv
+Pasqua,Amarone Riserva Famiglia Pasqua,5.0,70-74,23,21,sv,sv,sv,sv,sv,5,sv,sv,sv,sv,sv,sv,sv,sv
+Pasqua,Amarone Riserva Famiglia Pasqua,5.0,125-149,23,11,sv,sv,sv,sv,sv,5,sv,sv,sv,sv,sv,sv,sv,sv
+Pieropan,Amarone,4.0,55-59,23,27,sv,sv,sv,4,4,4,sv,sv,sv,sv,sv,sv,sv,sv
+Recchia,Amarone Classico Masua Di Jago,3.0,30-34,3,05,sv,sv,3,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv
+Recchia,Amarone Classico Riserva Ca' Bertoldi,4.0,40-44,8,12,sv,sv,4,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv
+Roberto Mazzi,Amarone Classico Vigneto Punta Di Villa,4.0,50-54,8,10,sv,sv,sv,sv,sv,sv,sv,4,sv,sv,sv,sv,sv,sv
+Roberto Mazzi,Amarone Classico Vigneto Castel,3.0,55-59,3,03,sv,sv,sv,sv,sv,sv,3,sv,sv,sv,sv,sv,sv,sv
+Roccolo Callisto,Amarone ,4.0,45-49,8,11,sv,sv,4,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv
+Roccolo Grassi,Amarone ,4.8,75-79,77,67,sv,sv,5,5,sv,4,5,sv,sv,sv,sv,sv,sv,sv
+Romano Dal Forno,Amarone Vigneto Di Monte Lodoletta,5.0,300-349,46,10,sv,sv,sv,sv,sv,sv,5,5,sv,sv,sv,sv,sv,sv
+Rubinelli Vajol,Amarone Classico,4.0,50-54,15,20,sv,sv,sv,4,sv,4,sv,sv,sv,sv,sv,sv,sv,sv
+Rubinelli Vajol,Amarone Classico Riserva Destinee,5.0,150-174,23,10,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv,5,sv,sv,sv
+San Cassiano,Amarone Riserva,3.0,70-74,3,02,sv,sv,sv,sv,3,sv,sv,sv,sv,sv,sv,sv,sv,sv
+San Cassiano,Amarone,3.0,45-49,3,04,sv,sv,3,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv
+Santa Sofia,Amarone Classico Riserva,4.0,70-74,8,07,sv,sv,sv,sv,sv,sv,4,sv,sv,sv,sv,sv,sv,sv
+Santa Sofia,Amarone Classico,3.5,35-39,10,19,sv,sv,sv,3,sv,4,sv,sv,sv,sv,sv,sv,sv,sv
+Santi,Amarone Classico Proemio,3.5,60-64,21,22,sv,sv,sv,4,sv,3,3,4,sv,sv,sv,sv,sv,sv
+Santi,Amarone Classico Santico,3.0,35-39,8,14,sv,sv,3,sv,3,3,sv,sv,sv,sv,sv,sv,sv,sv
+Santi,Amarone,3.0,35-39,5,09,sv,sv,sv,sv,sv,sv,3,3,sv,sv,sv,sv,sv,sv
+Scriani,Amarone Classico Riserva,4.0,45-49,8,11,sv,sv,sv,4,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv
+Scriani,Amarone Classico,3.0,35-39,3,05,sv,sv,3,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv
+Secondo Marco,Amarone Classico,5.0,70-74,46,43,sv,sv,sv,sv,sv,5,5,sv,sv,sv,sv,sv,sv,sv
+Secondo Marco,Amarone Classico Riserva Fumetto,5.0,200-249,23,07,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv,5,sv,sv,sv
+Speri,Amarone Classico Sant Urbano,4.8,65-69,100,100,sv,5,5,5,sv,4,5,sv,sv,sv,sv,sv,sv,sv
+Stefano Accordini,Amarone Classico Acinatico,3.6,35-39,28,52,sv,4,4,3,3,sv,4,sv,sv,sv,sv,sv,sv,sv
+Stefano Accordini,Amarone Classico Riserva Vigneto Il Fornetto,4.5,75-79,62,54,sv,sv,sv,5,sv,sv,4,4,5,sv,sv,sv,sv,sv
+Tedeschi,Amarone Classico Riserva Capitel Monte Olmi,3.8,70-74,34,31,sv,sv,sv,4,sv,4,4,3,4,sv,sv,sv,sv,sv
+Tedeschi,Amarone Classico Riserva La Fabriseria,5.0,200-249,46,14,sv,sv,sv,5,sv,sv,sv,5,sv,sv,sv,sv,sv,sv
+Tedeschi,Amarone,3.0,50-54,8,10,sv,sv,sv,sv,3,3,3,sv,sv,sv,sv,sv,sv,sv
+Tedeschi,Amarone Marne 180,3.0,45-49,8,11,sv,sv,3,sv,sv,3,3,sv,sv,sv,sv,sv,sv,sv
+Tedeschi,Amarone Riserva Maternigo,5.0,125-149,23,11,sv,sv,sv,sv,sv,sv,sv,sv,5,sv,sv,sv,sv,sv
+Tenuta Sant Antonio,Amarone Riserva Lilium Est,5.0,125-149,23,11,sv,sv,sv,sv,sv,sv,sv,sv,5,sv,sv,sv,sv,sv
+Tenuta Sant Antonio,Amarone Campo Dei Gigli,3.8,80-84,34,27,sv,4,4,3,sv,4,4,sv,sv,sv,sv,sv,sv,sv
+Tenuta Sant Antonio,Amarone Telos L' Amarone,3.0,45-49,8,11,sv,sv,3,sv,sv,3,3,sv,sv,sv,sv,sv,sv,sv
+Tenuta Sant Antonio,Amarone Selezione Antonio Castagnedi,3.0,45-49,10,15,sv,3,3,3,sv,3,sv,sv,sv,sv,sv,sv,sv,sv
+Tenuta Santa Maria,Amarone Classico Riserva,4.0,90-94,15,11,sv,sv,sv,4,sv,4,sv,sv,sv,sv,sv,sv,sv,sv
+Tenuta Villa Bellini,Amarone Classico Centenarie,4.0,95-99,8,05,sv,sv,sv,4,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv
+Tenute Ugolini,Amarone Classico,4.0,50-54,8,10,sv,sv,sv,sv,sv,sv,sv,4,sv,sv,sv,sv,sv,sv
+Terre Di Leone,Amarone Classico Il Re Pazzo,3.0,45-49,13,19,sv,sv,3,3,3,3,sv,sv,sv,sv,3,sv,sv,sv
+Terre Di Leone,Amarone Classico Terre Di Leone,4.0,70-74,15,14,sv,sv,sv,sv,sv,sv,4,sv,4,sv,sv,sv,sv,sv
+Terre Di Leone,Amarone Classico Riserva Terre Di Leone,5.0,90-94,23,17,sv,sv,sv,sv,sv,sv,sv,5,sv,sv,sv,sv,sv,sv
+Terre Di Leone,Amarone Classico,4.0,60-64,8,08,sv,sv,sv,sv,sv,sv,sv,sv,sv,4,sv,sv,sv,sv
+Terre di Pietra,Amarone Classico Rosson,4.0,50-54,8,10,sv,sv,sv,sv,sv,sv,sv,sv,4,sv,sv,sv,sv,sv
+Tezza,Amarone Valpantena Tezza,4.0,40-44,8,12,sv,sv,sv,sv,sv,sv,sv,sv,sv,4,sv,sv,sv,sv
+Tezza,Amarone Corte Majoli,2.0,30-34,1,02,sv,sv,sv,sv,sv,sv,sv,sv,sv,2,sv,sv,sv,sv
+Tommasi,Amarone Classico Riserva De Buris,5.0,250-299,46,11,sv,sv,sv,sv,sv,sv,sv,sv,5,5,sv,sv,sv,sv
+Tommasi,Amarone Classico De Buris,5.0,250-299,23,06,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv,5,sv,sv,sv
+Tommasi,Amarone Classico,3.2,45-49,18,26,sv,3,3,3,4,sv,3,sv,sv,sv,sv,sv,sv,sv
+Tommasi,Amarone Classico Riserva Ca' Florian,4.0,95-99,23,16,sv,sv,sv,sv,sv,sv,4,4,sv,4,sv,sv,sv,sv
+Tommaso Bussola,Amarone Classico Vignetoalto,5.0,175-199,23,08,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv,5,sv,sv,sv
+Trabucchi D'Illasi,Amarone,3.0,70-74,5,05,sv,sv,sv,sv,sv,sv,sv,3,sv,3,sv,sv,sv,sv
+Trabucchi D'Illasi,Amarone Riserva Cent'Anni,5.0,100-124,23,14,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv,5,sv,sv,sv
+Valentina Cubi,Amarone Classico Morar,3.5,50-54,10,13,sv,sv,sv,sv,sv,4,sv,3,sv,sv,sv,sv,sv,sv
+Valentina Cubi,Amarone Classico Riserva,4.0,100-124,8,05,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv,4
+Venturini,Amarone Classico Riserva,5.0,95-99,23,16,sv,sv,sv,sv,sv,sv,sv,sv,sv,5,sv,sv,sv,sv
+Venturini,Amarone Classico,3.4,25-29,23,58,sv,sv,3,3,sv,3,4,4,sv,sv,sv,sv,sv,sv
+Venturini,Amarone Classico Campomasua,4.2,35-39,54,98,sv,sv,sv,4,sv,5,4,4,4,sv,sv,sv,sv,sv
+Vigneti Di Ettore,Amarone Classico Riserva,5.0,100-124,23,14,sv,sv,sv,sv,sv,sv,5,sv,sv,sv,sv,sv,sv,sv
+Vigneti Di Ettore,Amarone Classico,4.0,45-49,41,59,sv,sv,4,3,sv,5,4,sv,sv,sv,sv,sv,sv,sv
+Villa Canestrari,Amarone Riserva Tenuta Casaletti,3.0,40-44,5,08,sv,sv,sv,sv,3,3,sv,sv,sv,sv,sv,sv,sv,sv
+Villa Canestrari,Amarone Tenuta Casaletti,3.0,35-39,3,05,sv,3,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv
+Villa Canestrari,Amarone Villa Canestrari,3.0,30-34,5,11,sv,3,3,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv
+Villa Canestrari,Amarone Riserva Plenum,4.0,55-59,15,18,sv,sv,sv,sv,sv,4,4,sv,sv,sv,sv,sv,sv,sv
+Villa Canestrari,Amarone Riserva 1888,4.0,80-84,15,13,sv,sv,sv,sv,sv,4,4,sv,sv,sv,sv,sv,sv,sv
+Villa Rinaldi,Amarone Rinaldi Maior,4.0,75-79,8,07,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv,4,sv,sv,sv
+Villa Spinosa,Amarone Classico,3.3,35-39,16,28,sv,4,3,sv,3,sv,3,sv,sv,sv,sv,sv,sv,sv
+Villa Spinosa,Amarone Classico Albasini,4.0,50-54,23,30,sv,sv,sv,sv,sv,4,sv,4,4,sv,sv,sv,sv,sv
+Villa Spinosa,Amarone Classico Guglielmi Di Jago 10 Anni,5.0,75-79,23,20,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv,5,sv,sv
+Villa Spinosa,Amarone Classico Etichetta Avorio,4.0,40-44,8,12,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv,4,sv,sv,sv
+Villabella,Amarone Classico Riserva Fracastoro,3.2,60-64,18,20,sv,sv,sv,sv,sv,sv,3,3,3,sv,3,4,sv,sv
+Villabella,Amarone Classico,3.3,30-34,13,27,sv,sv,sv,sv,sv,3,sv,3,4,sv,sv,sv,sv,sv
+Viviani,Amarone Classico,3.0,40-44,8,13,sv,sv,sv,3,sv,3,3,sv,sv,sv,sv,sv,sv,sv
+Viviani,Amarone Classico Della Casa Dei Bepi,4.7,70-74,54,50,sv,sv,sv,sv,sv,5,5,4,sv,sv,sv,sv,sv,sv
+Zanoni,Amarone,4.0,45-49,15,22,sv,sv,sv,4,sv,sv,4,sv,sv,sv,sv,sv,sv,sv
+Zanoni,Amarone Zovo,4.0,45-49,8,11,sv,sv,sv,sv,sv,4,sv,sv,sv,sv,sv,sv,sv,sv
+Zardini,Amarone,3.0,35-39,10,19,sv,3,3,3,sv,3,sv,sv,sv,sv,sv,sv,sv,sv
+Zardini,Amarone Classico Riserva Leone Zardini,4.0,35-39,41,75,sv,sv,sv,4,sv,5,3,4,sv,sv,sv,sv,sv,sv
+Zenato,Amarone Classico,3.2,45-49,18,26,sv,sv,4,3,sv,3,3,3,sv,sv,sv,sv,sv,sv
+Zenato,Amarone Classico Riserva Sergio Zenato,3.8,90-94,34,24,sv,sv,sv,4,sv,4,4,4,sv,3,sv,sv,sv,sv
+Zeni,Amarone Classico Vigne Alte,3.0,30-34,10,22,sv,3,3,3,sv,sv,3,sv,sv,sv,sv,sv,sv,sv
+Zeni,Amarone Barriques,3.0,45-49,5,07,sv,sv,sv,3,sv,sv,sv,sv,3,sv,sv,sv,sv,sv
+Zeni,Amarone Classico Nino Zeni,3.0,150-174,3,01,sv,sv,sv,3,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv
+Zonin 1821,Amarone,3.0,35-39,3,05,sv,sv,sv,sv,sv,3,sv,sv,sv,sv,sv,sv,sv,sv
+Zyme,Amarone Classico,4.0,90-94,49,36,sv,sv,5,4,sv,3,sv,4,sv,4,sv,sv,sv,sv
+Zyme,Amarone Riserva La Mattonara,5.0,200-249,69,21,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv,5,sv,5,5
