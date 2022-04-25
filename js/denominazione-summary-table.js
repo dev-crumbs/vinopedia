@@ -5,6 +5,9 @@ export function denominazioneSummaryTable(){
   var denominazione = document.querySelector(".denominazioneNome").innerText.replaceAll(' ', '-');
   var denominazioneTipo = document.querySelectorAll(".denominazioneTipo");
   var regione = document.querySelector(".denominazioneRegione").innerText
+  var avgPriceArray = [];
+  var maxPriceArray = [];
+  var avgPrice = 0
   denominazioneTipo.forEach(el => {
     const denominazioneTipoNome = el.previousElementSibling.getAttribute('data-tn');
     const denominazioneTipoNomeL = denominazioneTipoNome.toLowerCase();
@@ -39,14 +42,25 @@ export function denominazioneSummaryTable(){
       //add widths for bars
       rows.selectAll('td[data-th="V Score"], td[data-th="Q/P"]')
         .style("width", function (d) {
-          return ((d.value*90)/100) + "%";
+          return d.value + "%";
         });
       //add €
       rows.selectAll('td[data-th="Prezzo"]')
         .text(function (d) {
+          const priceInterval = d.value.split("-")
+          const priceAvg = (Number(priceInterval[0])+Number(priceInterval[1]))/2
+          maxPriceArray.push(Number(priceInterval[1]))
+          avgPriceArray.push(priceAvg)
           return d.value + "€";
         });
+      //avg calculations
+      const sum = avgPriceArray.reduce((a, b) => a+b, 0);
+      const avg = (sum / avgPriceArray.length) || 0;
+      avgPrice = avg
     }).then(function(){//post content populating js functions
+      el.querySelector(".statistiche-denominazione li:nth-child(1) span").innerText = avgPriceArray.length
+      el.querySelector(".statistiche-denominazione li:nth-child(2) span").innerText = avgPrice + "€"
+      el.querySelector(".statistiche-denominazione li:nth-child(3) span").innerText = Math.max(...maxPriceArray) + "€"
       //var startTime = performance.now()
       //ext link 500ms
       const nomeAll = el.querySelectorAll("td[data-th='Vino']");
