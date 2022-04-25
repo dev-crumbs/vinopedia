@@ -58,9 +58,9 @@ export function denominazioneSummaryTable(){
       const avg = (sum / avgPriceArray.length) || 0;
       avgPrice = avg
     }).then(function(){//post content populating js functions
-      el.querySelector(".statistiche-denominazione li:nth-child(1) span").innerText = avgPriceArray.length
-      el.querySelector(".statistiche-denominazione li:nth-child(2) span").innerText = avgPrice + "€"
-      el.querySelector(".statistiche-denominazione li:nth-child(3) span").innerText = Math.max(...maxPriceArray) + "€"
+      document.querySelector(".statistiche-denominazione li:nth-child(1) span").innerText = avgPriceArray.length
+      document.querySelector(".statistiche-denominazione li:nth-child(2) span").innerText = avgPrice.toFixed(0) + "€"
+      document.querySelector(".statistiche-denominazione li:nth-child(3) span").innerText = Math.max(...maxPriceArray) + "€"
       //var startTime = performance.now()
       //ext link 500ms
       const nomeAll = el.querySelectorAll("td[data-th='Vino']");
