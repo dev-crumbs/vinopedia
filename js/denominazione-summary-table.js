@@ -36,6 +36,9 @@ export function denominazioneSummaryTable(){
         .attr('data-th', function (d) {
           return d.name;
         })
+        .attr('title', function (d) {
+          return d.value;
+        })
         .text(function (d) {
           return d.value;
         });
@@ -43,7 +46,7 @@ export function denominazioneSummaryTable(){
       rows.selectAll('td[data-th="V Score"], td[data-th="Q/P"]')
         .style("width", function (d) {
           return ((d.value*90)/100) + "%";
-        });
+        })
       //add €
       rows.selectAll('td[data-th="Prezzo"]')
         .text(function (d) {
@@ -79,7 +82,7 @@ export function denominazioneSummaryTable(){
         }
       });
       // stars 100ms
-      const tdAll = el.querySelectorAll("td[data-th^='20'],td[data-th^='19']")
+      const tdAll = el.querySelectorAll("td[data-th^='20']:not([title='sv']),td[data-th^='19']:not([title='sv'])")
       for (const j of tdAll) {
           j.classList.add("star-table")
       }
