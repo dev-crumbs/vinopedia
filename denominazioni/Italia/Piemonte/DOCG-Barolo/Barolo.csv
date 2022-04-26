@@ -1,111 +1,183 @@
-Produttore,Vino,Media Grezza,Prezzo,V Score,Q/P,2017,2016,2015,2014,2013,2012,2011,2010,2009,2008
-Anna Maria Abbona,Barolo Bricco San Pietro,3.0,55-59,9,09,3,3,3,3,sv,sv,sv,sv,sv,sv
-Anna Maria Abbona,Barolo Del Comune Di Castiglione Falletto,3.0,40-44,13,19,3,3,3,3,3,3,sv,sv,sv,sv
-Marziano Abbona,Barolo Pressenda,3.0,45-49,11,14,3,3,3,sv,3,3,sv,sv,sv,sv
-Marziano Abbona,Barolo,2.8,30-34,11,22,3,3,3,3,2,3,sv,sv,sv,sv
-Marziano Abbona,Barolo Cerviano-Merli,3.0,45-49,4,06,sv,3,sv,sv,sv,sv,3,sv,sv,sv
-Marziano Abbona,Barolo,3.0,30-34,2,04,3,sv,sv,sv,sv,sv,sv,sv,sv,sv
-Marziano Abbona,Barolo Ravera,3.3,35-39,11,18,sv,sv,4,sv,3,3,sv,sv,sv,sv
-Claudio Alario,Barolo Sorano,3.2,50-54,28,33,5,2,3,3,3,3,sv,sv,sv,sv
-Claudio Alario,Barolo Riva Rocca,3.2,45-49,17,22,3,3,4,3,3,3,sv,sv,sv,sv
-Fratelli Alessandria,Barolo Monvigliero,4.8,60-64,100,100,5,4,5,5,5,5,sv,sv,sv,sv
-Fratelli Alessandria,Barolo Gramolere,3.3,50-54,21,25,4,3,3,3,4,3,sv,sv,sv,sv
-Fratelli Alessandria,Barolo San Lorenzo Di Verduno,3.6,45-49,31,41,3,5,4,sv,3,3,sv,sv,sv,sv
-Fratelli Alessandria,Barolo Del Comune Di Verduno,3.0,35-39,13,21,3,3,3,3,3,3,sv,sv,sv,sv
-Gianfranco Alessandria,Barolo San Giovanni,4.8,65-69,100,93,5,5,5,4,5,5,sv,sv,sv,sv
-Gianfranco Alessandria,Barolo,3.7,45-49,29,39,4,4,3,4,4,3,sv,sv,sv,sv
-Arnaldo Rivera,Barolo Rocche Di Castiglione,3.0,65-69,9,08,3,3,3,3,sv,sv,sv,sv,sv,sv
-Arnaldo Rivera,Barolo Vignarionda,4.5,65-69,50,46,4,4,5,5,sv,sv,sv,sv,sv,sv
-Arnaldo Rivera,Barolo Castello,3.0,45-49,9,11,3,3,3,3,sv,sv,sv,sv,sv,sv
-Arnaldo Rivera,Barolo Ravera,3.0,45-49,6,08,3,3,3,sv,sv,sv,sv,sv,sv,sv
-Arnaldo Rivera,Barolo Monvigliero,3.8,45-49,29,39,3,5,4,3,sv,sv,sv,sv,sv,sv
-Arnaldo Rivera,Barolo Undicicomuni,3.0,30-34,9,16,3,3,3,3,sv,sv,sv,sv,sv,sv
-Arnaldo Rivera,Barolo Bussia,3.0,45-49,6,08,sv,3,3,3,sv,sv,sv,sv,sv,sv
-Arnaldo Rivera,Barolo Boiolo,3.0,45-49,4,06,sv,sv,3,3,sv,sv,sv,sv,sv,sv
-Ascheri,Barolo,3.3,35-39,13,21,4,3,3,3,sv,sv,sv,sv,sv,sv
-Ascheri,Barolo Coste Bricco,3.0,75-79,4,03,sv,3,3,sv,sv,sv,sv,sv,sv,sv
-Ascheri,Barolo Pisapola,3.0,60-64,4,04,sv,3,3,sv,sv,sv,sv,sv,sv,sv
-Ascheri,Barolo Sorano,3.0,75-79,4,03,sv,3,3,sv,sv,sv,sv,sv,sv,sv
-Ascheri,Barolo Ascheri,3.0,100-124,4,02,sv,3,3,sv,sv,sv,sv,sv,sv,sv
-L'Astemia Pentita,Barolo Terlo,3.6,70-74,31,27,5,4,3,3,3,sv,sv,sv,sv,sv
-L'Astemia Pentita,Barolo Cannubi,3.8,70-74,27,23,4,3,4,4,4,sv,sv,sv,sv,sv
-L'Astemia Pentita,Barolo,2.5,30-34,6,11,3,3,2,2,sv,sv,sv,sv,sv,sv
-L'Astemia Pentita,Barolo Riserva Cannubi,3.5,85-89,8,06,sv,sv,sv,3,4,sv,sv,sv,sv,sv
-L'Astemia Pentita,Barolo Riserva Terlo,3.0,85-89,2,02,sv,sv,sv,sv,3,sv,sv,sv,sv,sv
-Azelia,Barolo Cerretta,5.0,100-124,37,21,5,5,sv,sv,sv,sv,sv,sv,sv,sv
-Azelia,Barolo San Rocco,4.2,90-94,67,45,5,3,3,5,5,4,sv,sv,sv,sv
-Azelia,Barolo Margheria,4.2,90-94,58,39,4,4,5,4,3,5,sv,sv,sv,sv
-Azelia,Barolo Bricco Fiasco,3.5,90-94,25,17,4,3,4,3,4,3,sv,sv,sv,sv
-Azelia,Barolo,3.0,35-39,13,21,3,3,3,3,3,3,sv,sv,sv,sv
-Barale,Barolo Riserva Bussia,4.8,65-69,63,58,sv,sv,sv,5,5,sv,5,4,sv,sv
-Barale,Barolo Bussia,4.0,50-54,40,47,3,4,5,4,4,sv,sv,sv,sv,sv
-Barale,Barolo Castellero,3.2,50-54,15,18,3,3,4,3,3,sv,sv,sv,sv,sv
-Barale,Barolo Del Comune Di Barolo,3.0,30-34,4,08,3,sv,sv,sv,sv,3,sv,sv,sv,sv
-Barale,Barolo Cannubi,4.8,60-64,63,63,sv,sv,5,4,5,5,sv,sv,sv,sv
-Barale,Barolo Vendemmia,3.0,35-39,2,04,sv,3,sv,sv,sv,sv,sv,sv,sv,sv
-Batasiolo,Barolo Brunate,3.0,40-44,4,06,3,sv,sv,3,sv,sv,sv,sv,sv,sv
-Batasiolo,Barolo Briccolina,3.5,60-64,17,17,3,3,4,4,sv,sv,sv,sv,sv,sv
-Batasiolo,Barolo Bussia Vigneto Bofani,3.0,40-44,4,06,3,sv,sv,3,sv,sv,sv,sv,sv,sv
-Batasiolo,Barolo Cerequio,3.0,40-44,6,09,3,3,3,sv,sv,sv,sv,sv,sv,sv
-Batasiolo,Barolo Boscareto,3.0,40-44,4,06,3,sv,sv,3,sv,sv,sv,sv,sv,sv
-Batasiolo,Barolo,3.0,25-29,2,05,sv,sv,3,sv,sv,sv,sv,sv,sv,sv
-Luigi Baudana,Barolo Baudana,4.7,80-84,88,66,5,5,4,5,5,4,sv,sv,sv,sv
-Luigi Baudana,Barolo Cerretta,4.6,80-84,69,52,5,4,5,4,sv,5,sv,sv,sv,sv
-Bava,Barolo Scarrone,3.0,35-39,2,04,sv,sv,3,sv,sv,sv,sv,sv,sv,sv
-Bel Colle,Barolo Monvigliero,3.0,35-39,13,21,3,3,3,3,3,3,sv,sv,sv,sv
-Bel Colle,Barolo Simposio,3.0,30-34,9,16,3,sv,sv,3,3,3,sv,sv,sv,sv
-Bersano,Barolo Badarina,2.8,50-54,9,11,sv,sv,3,sv,3,2,3,3,sv,sv
-Bersano,Barolo Riserva Badarina,3.3,50-54,13,15,sv,sv,sv,sv,3,3,3,4,sv,sv
-Boasso Gabutti,Barolo Margheria,3.0,40-44,13,19,3,3,3,3,3,3,sv,sv,sv,sv
-Boasso Gabutti,Barolo Gabutti,3.2,50-54,17,20,3,3,3,3,3,4,sv,sv,sv,sv
-Boasso Gabutti,Barolo Del Comune Di Serralunga,2.8,25-29,11,26,3,3,3,3,3,2,sv,sv,sv,sv
-Boasso Gabutti,Barolo Riserva Margheria,3.0,50-54,4,05,sv,sv,3,sv,3,sv,sv,sv,sv,sv
-Enzo Boglietti,Barolo Arione,4.7,85-89,88,62,5,5,4,5,5,4,sv,sv,sv,sv
-Enzo Boglietti,Barolo Fossati,3.7,65-69,38,35,5,3,3,4,4,3,sv,sv,sv,sv
-Enzo Boglietti,Barolo Brunate,4.3,85-89,63,45,4,4,5,4,4,5,sv,sv,sv,sv
-Enzo Boglietti,Barolo Boiolo,3.0,50-54,13,15,3,3,3,3,3,3,sv,sv,sv,sv
-Enzo Boglietti,Barolo Case Nere,3.3,85-89,21,15,3,4,3,3,3,4,sv,sv,sv,sv
-Enzo Boglietti,Barolo Del Comune Di La Morra,3.0,45-49,2,03,3,sv,sv,sv,sv,sv,sv,sv,sv,sv
-Enzo Boglietti,Barolo Riserva ,#DIV/0!,100-124,6,03,sv,sv,sv,sv,sv,sv,sv,sv,sv,4
-Silvano Bolmida,Barolo Bussia,3.5,45-49,8,11,4,3,sv,sv,sv,sv,sv,sv,sv,sv
-Silvano Bolmida,Barolo Bussia Vigna Dei Fantini,3.0,45-49,4,06,3,3,sv,sv,sv,sv,sv,sv,sv,sv
-Silvano Bolmida,Barolo Riserva Bussia,3.0,65-69,2,02,sv,sv,3,sv,sv,sv,sv,sv,sv,sv
-Borgogno,Barolo Liste,4.0,75-79,54,44,sv,5,4,3,5,3,4,sv,sv,sv
-Borgogno,Barolo Cannubi,4.2,95-99,67,43,sv,4,5,5,3,5,3,sv,sv,sv
-Borgogno,Barolo Riserva,3.2,100-124,17,09,sv,sv,sv,3,3,4,3,3,3,sv
-Borgogno,Barolo,3.0,50-54,11,13,sv,3,3,3,3,3,sv,sv,sv,sv
-Borgogno,Barolo Fossati,3.6,45-49,31,41,sv,3,3,sv,3,4,5,sv,sv,sv
-Fratelli Borgogno,Barolo Riserva Cannubi,3.7,60-64,15,15,sv,sv,4,sv,4,3,sv,sv,sv,sv
-Fratelli Borgogno,Barolo Cannubi,3.0,60-64,9,09,3,3,3,3,sv,sv,sv,sv,sv,sv
-Fratelli Borgogno,Barolo,3.0,40-44,4,06,3,sv,3,sv,sv,sv,sv,sv,sv,sv
-Boroli,Barolo Brunella,4.2,85-89,52,37,5,5,4,4,3,sv,sv,sv,sv,sv
-Boroli,Barolo Cerequio,3.3,80-84,29,22,3,3,3,5,3,3,sv,sv,sv,sv
-Boroli,Barolo Villero,4.2,80-84,58,44,4,4,5,3,5,4,sv,sv,sv,sv
-Boroli,Barolo,3.5,40-44,17,25,sv,3,sv,4,4,3,sv,sv,sv,sv
-Agostino Bosco,Barolo La Serra,3.0,40-44,13,19,3,3,3,3,3,3,sv,sv,sv,sv
-Agostino Bosco,Barolo Del Comune Di La Morra,3.0,25-29,2,05,3,sv,sv,sv,sv,sv,sv,sv,sv,sv
-Agostino Bosco,Barolo Neirane,3.0,30-34,11,21,3,3,3,3,3,sv,sv,sv,sv,sv
-Gianfranco Bovio,Barolo Riserva De-Rieumes,5.0,65-69,37,35,sv,sv,5,sv,5,sv,sv,sv,sv,sv
-Gianfranco Bovio,Barolo Arborina,3.6,45-49,31,41,3,3,3,sv,4,5,sv,sv,sv,sv
-Gianfranco Bovio,Barolo Gattera,3.0,45-49,11,14,3,3,3,sv,3,3,sv,sv,sv,sv
-Gianfranco Bovio,Barolo Parussi,3.5,50-54,8,10,3,4,sv,sv,sv,sv,sv,sv,sv,sv
-Gianfranco Bovio,Barolo,3.0,30-34,13,25,3,3,3,3,3,3,sv,sv,sv,sv
-Gianfranco Bovio,Barolo Rocchettevino,3.0,40-44,4,06,sv,3,3,sv,sv,sv,sv,sv,sv,sv
-Brezza,Barolo Sarmassa Riserva Vigna Bricco,4.7,60-64,44,44,sv,sv,5,sv,4,sv,5,sv,sv,sv
-Brezza,Barolo Sarmassa,4.3,45-49,71,94,5,5,5,3,4,4,sv,sv,sv,sv
-Brezza,Barolo Cannubi,3.8,40-44,34,50,4,4,4,4,3,4,sv,sv,sv,sv
-Brezza,Barolo Castellero,3.2,40-44,15,22,3,4,3,3,3,sv,sv,sv,sv,sv
-Brezza,Barolo,3.0,25-29,6,15,sv,sv,sv,3,3,3,sv,sv,sv,sv
-Bricco Maiolica,Barolo Del Comune Di Diano Contadin,3.0,50-54,13,15,3,3,3,3,3,3,sv,sv,sv,sv
-Brovia,Barolo Rocche Di Castiglione,4.0,95-99,48,31,5,4,3,sv,3,5,sv,sv,sv,sv
-Brovia,Barolo Villero,4.4,95-99,65,41,5,3,5,sv,5,4,sv,sv,sv,sv
-Brovia,Barolo Brea Vigna Ca Mia,4.8,95-99,81,52,4,5,5,sv,5,5,sv,sv,sv,sv
-Brovia,Barolo Brovia,3.0,55-59,11,12,3,3,3,sv,3,3,sv,sv,sv,sv
-Brovia,Barolo Garblet Sue,3.5,80-84,17,13,sv,3,4,sv,4,3,sv,sv,sv,sv
-Brovia,Barolo Unio,4.0,70-74,6,05,sv,sv,sv,4,sv,sv,sv,sv,sv,sv
-Bugia Nen,Barolo Cerretta,3.5,55-59,8,09,4,3,sv,sv,sv,sv,sv,sv,sv,sv
-Bugia Nen,Barolo Prapò,4.0,55-59,13,14,4,4,sv,sv,sv,sv,sv,sv,sv,sv
-Burlotto,Barolo Monvigliero,4.8,90-94,100,67,5,5,5,5,5,4,sv,sv,sv,sv
-Burlotto,Barolo Cannubi,3.8,100-124,42,23,5,4,3,4,4,3,sv,sv,sv,sv
-Burlotto,Barolo Acclivi,4.6,80-84,69,52,4,5,4,sv,5,5,sv,sv,sv,sv
-Burlotto,Barolo,3.6,45-49,23,31,4,4,4,3,3,sv,sv,sv,sv,sv
+Produttore,Vino,Media Grezza,Prezzo,V Score,Q/P,2017,2016,2015,2014,2013,2012,2011,2010,2009,2008,2006
+Anna Maria Abbona,Barolo Bricco San Pietro,3.0,55-59,8,08,3,3,3,3,sv,sv,sv,sv,sv,sv,sv
+Anna Maria Abbona,Barolo Del Comune Di Castiglione Falletto,3.0,40-44,11,16,3,3,3,3,3,3,sv,sv,sv,sv,sv
+Marziano Abbona,Barolo Pressenda,3.0,45-49,9,12,3,3,3,sv,3,3,sv,sv,sv,sv,sv
+Marziano Abbona,Barolo,2.8,30-34,10,19,3,3,3,3,2,3,sv,sv,sv,sv,sv
+Marziano Abbona,Barolo Cerviano-Merli,3.0,45-49,4,05,sv,3,sv,sv,sv,sv,3,sv,sv,sv,sv
+Marziano Abbona,Barolo,3.0,30-34,2,04,3,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv
+Marziano Abbona,Barolo Ravera,3.3,35-39,9,15,sv,sv,4,sv,3,3,sv,sv,sv,sv,sv
+Claudio Alario,Barolo Sorano,3.2,50-54,25,29,5,2,3,3,3,3,sv,sv,sv,sv,sv
+Claudio Alario,Barolo Riva Rocca,3.2,45-49,15,19,3,3,4,3,3,3,sv,sv,sv,sv,sv
+Fratelli Alessandria,Barolo Monvigliero,4.8,60-64,89,87,5,4,5,5,5,5,sv,sv,sv,sv,sv
+Fratelli Alessandria,Barolo Gramolere,3.3,50-54,19,22,4,3,3,3,4,3,sv,sv,sv,sv,sv
+Fratelli Alessandria,Barolo San Lorenzo Di Verduno,3.6,45-49,28,36,3,5,4,sv,3,3,sv,sv,sv,sv,sv
+Fratelli Alessandria,Barolo Del Comune Di Verduno,3.0,35-39,11,19,3,3,3,3,3,3,sv,sv,sv,sv,sv
+Gianfranco Alessandria,Barolo San Giovanni,4.8,65-69,89,80,5,5,5,4,5,5,sv,sv,sv,sv,sv
+Gianfranco Alessandria,Barolo,3.7,45-49,26,34,4,4,3,4,4,3,sv,sv,sv,sv,sv
+Arnaldo Rivera,Barolo Rocche Di Castiglione,3.0,65-69,8,07,3,3,3,3,sv,sv,sv,sv,sv,sv,sv
+Arnaldo Rivera,Barolo Vignarionda,4.5,65-69,45,40,4,4,5,5,sv,sv,sv,sv,sv,sv,sv
+Arnaldo Rivera,Barolo Castello,3.0,45-49,8,10,3,3,3,3,sv,sv,sv,sv,sv,sv,sv
+Arnaldo Rivera,Barolo Ravera,3.0,45-49,6,07,3,3,3,sv,sv,sv,sv,sv,sv,sv,sv
+Arnaldo Rivera,Barolo Monvigliero,3.8,45-49,26,33,3,5,4,3,sv,sv,sv,sv,sv,sv,sv
+Arnaldo Rivera,Barolo Undicicomuni,3.0,30-34,8,14,3,3,3,3,sv,sv,sv,sv,sv,sv,sv
+Arnaldo Rivera,Barolo Bussia,3.0,45-49,6,07,sv,3,3,3,sv,sv,sv,sv,sv,sv,sv
+Arnaldo Rivera,Barolo Boiolo,3.0,45-49,4,05,sv,sv,3,3,sv,sv,sv,sv,sv,sv,sv
+Ascheri,Barolo,3.3,35-39,11,18,4,3,3,3,sv,sv,sv,sv,sv,sv,sv
+Ascheri,Barolo Coste Bricco,3.0,75-79,4,03,sv,3,3,sv,sv,sv,sv,sv,sv,sv,sv
+Ascheri,Barolo Pisapola,3.0,60-64,4,04,sv,3,3,sv,sv,sv,sv,sv,sv,sv,sv
+Ascheri,Barolo Sorano,3.0,75-79,4,03,sv,3,3,sv,sv,sv,sv,sv,sv,sv,sv
+Ascheri,Barolo Ascheri,3.0,100-124,4,02,sv,3,3,sv,sv,sv,sv,sv,sv,sv,sv
+L'Astemia Pentita,Barolo Terlo,3.6,70-74,28,23,5,4,3,3,3,sv,sv,sv,sv,sv,sv
+L'Astemia Pentita,Barolo Cannubi,3.8,70-74,24,20,4,3,4,4,4,sv,sv,sv,sv,sv,sv
+L'Astemia Pentita,Barolo,2.5,30-34,5,10,3,3,2,2,sv,sv,sv,sv,sv,sv,sv
+L'Astemia Pentita,Barolo Riserva Cannubi,3.5,85-89,7,05,sv,sv,sv,3,4,sv,sv,sv,sv,sv,sv
+L'Astemia Pentita,Barolo Riserva Terlo,3.0,85-89,2,01,sv,sv,sv,sv,3,sv,sv,sv,sv,sv,sv
+Azelia,Barolo Cerretta,5.0,100-124,33,18,5,5,sv,sv,sv,sv,sv,sv,sv,sv,sv
+Azelia,Barolo San Rocco,4.2,90-94,59,39,5,3,3,5,5,4,sv,sv,sv,sv,sv
+Azelia,Barolo Margheria,4.2,90-94,52,34,4,4,5,4,3,5,sv,sv,sv,sv,sv
+Azelia,Barolo Bricco Fiasco,3.5,90-94,22,15,4,3,4,3,4,3,sv,sv,sv,sv,sv
+Azelia,Barolo,3.0,35-39,11,19,3,3,3,3,3,3,sv,sv,sv,sv,sv
+Barale,Barolo Riserva Bussia,4.8,65-69,56,50,sv,sv,sv,5,5,sv,5,4,sv,sv,sv
+Barale,Barolo Bussia,4.0,50-54,35,41,3,4,5,4,4,sv,sv,sv,sv,sv,sv
+Barale,Barolo Castellero,3.2,50-54,13,15,3,3,4,3,3,sv,sv,sv,sv,sv,sv
+Barale,Barolo Del Comune Di Barolo,3.0,30-34,4,07,3,sv,sv,sv,sv,3,sv,sv,sv,sv,sv
+Barale,Barolo Cannubi,4.8,60-64,56,54,sv,sv,5,4,5,5,sv,sv,sv,sv,sv
+Barale,Barolo Vendemmia,3.0,35-39,2,03,sv,3,sv,sv,sv,sv,sv,sv,sv,sv,sv
+Batasiolo,Barolo Brunate,3.0,40-44,4,05,3,sv,sv,3,sv,sv,sv,sv,sv,sv,sv
+Batasiolo,Barolo Briccolina,3.5,60-64,15,15,3,3,4,4,sv,sv,sv,sv,sv,sv,sv
+Batasiolo,Barolo Bussia Vigneto Bofani,3.0,40-44,4,05,3,sv,sv,3,sv,sv,sv,sv,sv,sv,sv
+Batasiolo,Barolo Cerequio,3.0,40-44,6,08,3,3,3,sv,sv,sv,sv,sv,sv,sv,sv
+Batasiolo,Barolo Boscareto,3.0,40-44,4,05,3,sv,sv,3,sv,sv,sv,sv,sv,sv,sv
+Batasiolo,Barolo,3.0,25-29,2,04,sv,sv,3,sv,sv,sv,sv,sv,sv,sv,sv
+Luigi Baudana,Barolo Baudana,4.7,80-84,78,57,5,5,4,5,5,4,sv,sv,sv,sv,sv
+Luigi Baudana,Barolo Cerretta,4.6,80-84,61,45,5,4,5,4,sv,5,sv,sv,sv,sv,sv
+Bava,Barolo Scarrone,3.0,35-39,2,03,sv,sv,3,sv,sv,sv,sv,sv,sv,sv,sv
+Bel Colle,Barolo Monvigliero,3.0,35-39,11,19,3,3,3,3,3,3,sv,sv,sv,sv,sv
+Bel Colle,Barolo Simposio,3.0,30-34,8,14,3,sv,sv,3,3,3,sv,sv,sv,sv,sv
+Bersano,Barolo Badarina,2.8,50-54,8,10,sv,sv,3,sv,3,2,3,3,sv,sv,sv
+Bersano,Barolo Riserva Badarina,3.3,50-54,11,13,sv,sv,sv,sv,3,3,3,4,sv,sv,sv
+Boasso Gabutti,Barolo Margheria,3.0,40-44,11,16,3,3,3,3,3,3,sv,sv,sv,sv,sv
+Boasso Gabutti,Barolo Gabutti,3.2,50-54,15,17,3,3,3,3,3,4,sv,sv,sv,sv,sv
+Boasso Gabutti,Barolo Del Comune Di Serralunga,2.8,25-29,10,23,3,3,3,3,3,2,sv,sv,sv,sv,sv
+Boasso Gabutti,Barolo Riserva Margheria,3.0,50-54,4,04,sv,sv,3,sv,3,sv,sv,sv,sv,sv,sv
+Enzo Boglietti,Barolo Arione,4.7,85-89,78,54,5,5,4,5,5,4,sv,sv,sv,sv,sv
+Enzo Boglietti,Barolo Fossati,3.7,65-69,34,30,5,3,3,4,4,3,sv,sv,sv,sv,sv
+Enzo Boglietti,Barolo Brunate,4.3,85-89,56,39,4,4,5,4,4,5,sv,sv,sv,sv,sv
+Enzo Boglietti,Barolo Boiolo,3.0,50-54,11,13,3,3,3,3,3,3,sv,sv,sv,sv,sv
+Enzo Boglietti,Barolo Case Nere,3.3,85-89,19,13,3,4,3,3,3,4,sv,sv,sv,sv,sv
+Enzo Boglietti,Barolo Del Comune Di La Morra,3.0,45-49,2,02,3,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv
+Enzo Boglietti,Barolo Riserva ,#DIV/0!,100-124,6,03,sv,sv,sv,sv,sv,sv,sv,sv,sv,4,sv
+Silvano Bolmida,Barolo Bussia,3.5,45-49,7,10,4,3,sv,sv,sv,sv,sv,sv,sv,sv,sv
+Silvano Bolmida,Barolo Bussia Vigna Dei Fantini,3.0,45-49,4,05,3,3,sv,sv,sv,sv,sv,sv,sv,sv,sv
+Silvano Bolmida,Barolo Riserva Bussia,3.0,65-69,2,02,sv,sv,3,sv,sv,sv,sv,sv,sv,sv,sv
+Borgogno,Barolo Liste,4.0,75-79,48,38,sv,5,4,3,5,3,4,sv,sv,sv,sv
+Borgogno,Barolo Cannubi,4.2,95-99,59,37,sv,4,5,5,3,5,3,sv,sv,sv,sv
+Borgogno,Barolo Riserva,3.2,100-124,15,08,sv,sv,sv,3,3,4,3,3,3,sv,sv
+Borgogno,Barolo,3.0,50-54,9,11,sv,3,3,3,3,3,sv,sv,sv,sv,sv
+Borgogno,Barolo Fossati,3.6,45-49,28,36,sv,3,3,sv,3,4,5,sv,sv,sv,sv
+Fratelli Borgogno,Barolo Riserva Cannubi,3.7,60-64,13,13,sv,sv,4,sv,4,3,sv,sv,sv,sv,sv
+Fratelli Borgogno,Barolo Cannubi,3.0,60-64,8,07,3,3,3,3,sv,sv,sv,sv,sv,sv,sv
+Fratelli Borgogno,Barolo,3.0,40-44,4,05,3,sv,3,sv,sv,sv,sv,sv,sv,sv,sv
+Boroli,Barolo Brunella,4.2,85-89,46,32,5,5,4,4,3,sv,sv,sv,sv,sv,sv
+Boroli,Barolo Cerequio,3.3,80-84,26,19,3,3,3,5,3,3,sv,sv,sv,sv,sv
+Boroli,Barolo Villero,4.2,80-84,52,38,4,4,5,3,5,4,sv,sv,sv,sv,sv
+Boroli,Barolo,3.5,40-44,15,22,sv,3,sv,4,4,3,sv,sv,sv,sv,sv
+Agostino Bosco,Barolo La Serra,3.0,40-44,11,16,3,3,3,3,3,3,sv,sv,sv,sv,sv
+Agostino Bosco,Barolo Del Comune Di La Morra,3.0,25-29,2,04,3,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv
+Agostino Bosco,Barolo Neirane,3.0,30-34,9,18,3,3,3,3,3,sv,sv,sv,sv,sv,sv
+Gianfranco Bovio,Barolo Riserva De-Rieumes,5.0,65-69,33,30,sv,sv,5,sv,5,sv,sv,sv,sv,sv,sv
+Gianfranco Bovio,Barolo Arborina,3.6,45-49,28,36,3,3,3,sv,4,5,sv,sv,sv,sv,sv
+Gianfranco Bovio,Barolo Gattera,3.0,45-49,9,12,3,3,3,sv,3,3,sv,sv,sv,sv,sv
+Gianfranco Bovio,Barolo Parussi,3.5,50-54,7,09,3,4,sv,sv,sv,sv,sv,sv,sv,sv,sv
+Gianfranco Bovio,Barolo,3.0,30-34,11,21,3,3,3,3,3,3,sv,sv,sv,sv,sv
+Gianfranco Bovio,Barolo Rocchettevino,3.0,40-44,4,05,sv,3,3,sv,sv,sv,sv,sv,sv,sv,sv
+Brezza,Barolo Sarmassa Riserva Vigna Bricco,4.7,60-64,39,38,sv,sv,5,sv,4,sv,5,sv,sv,sv,sv
+Brezza,Barolo Sarmassa,4.3,45-49,63,81,5,5,5,3,4,4,sv,sv,sv,sv,sv
+Brezza,Barolo Cannubi,3.8,40-44,30,43,4,4,4,4,3,4,sv,sv,sv,sv,sv
+Brezza,Barolo Castellero,3.2,40-44,13,19,3,4,3,3,3,sv,sv,sv,sv,sv,sv
+Brezza,Barolo,3.0,25-29,6,13,sv,sv,sv,3,3,3,sv,sv,sv,sv,sv
+Bricco Maiolica,Barolo Del Comune Di Diano Contadin,3.0,50-54,11,13,3,3,3,3,3,3,sv,sv,sv,sv,sv
+Brovia,Barolo Rocche Di Castiglione,4.0,95-99,43,27,5,4,3,sv,3,5,sv,sv,sv,sv,sv
+Brovia,Barolo Villero,4.4,95-99,57,36,5,3,5,sv,5,4,sv,sv,sv,sv,sv
+Brovia,Barolo Brea Vigna Ca Mia,4.8,95-99,72,45,4,5,5,sv,5,5,sv,sv,sv,sv,sv
+Brovia,Barolo Brovia,3.0,55-59,9,10,3,3,3,sv,3,3,sv,sv,sv,sv,sv
+Brovia,Barolo Garblet Sue,3.5,80-84,15,11,sv,3,4,sv,4,3,sv,sv,sv,sv,sv
+Brovia,Barolo Unio,4.0,70-74,6,05,sv,sv,sv,4,sv,sv,sv,sv,sv,sv,sv
+Bugia Nen,Barolo Cerretta,3.5,55-59,7,08,4,3,sv,sv,sv,sv,sv,sv,sv,sv,sv
+Bugia Nen,Barolo Prapò,4.0,55-59,11,12,4,4,sv,sv,sv,sv,sv,sv,sv,sv,sv
+Burlotto,Barolo Monvigliero,4.8,90-94,89,58,5,5,5,5,5,4,sv,sv,sv,sv,sv
+Burlotto,Barolo Cannubi,3.8,100-124,37,20,5,4,3,4,4,3,sv,sv,sv,sv,sv
+Burlotto,Barolo Acclivi,4.6,80-84,61,45,4,5,4,sv,5,5,sv,sv,sv,sv,sv
+Burlotto,Barolo,3.6,45-49,21,26,4,4,4,3,3,sv,sv,sv,sv,sv,sv
+Ca Viola,Barolo Sottocastello Di Novello,4.4,65-69,57,52,5,4,3,sv,5,5,sv,sv,sv,sv,sv
+Ca Viola,Barolo Caviot,3.0,45-49,6,07,3,3,3,sv,sv,sv,sv,sv,sv,sv,sv
+Ca Viola,Barolo Riserva Sottocastello Di Novello,5.0,125-149,17,07,sv,sv,sv,sv,5,sv,sv,sv,sv,sv,sv
+Cagliero,Barolo Ravera,4.3,35-39,61,100,4,5,5,4,4,4,4,sv,sv,sv,sv
+Cagliero,Barolo Terlo,3.0,30-34,4,07,3,3,sv,sv,sv,sv,sv,sv,sv,sv,sv
+Cagliero,Barolo Riserva Ravera,#DIV/0!,40-44,2,03,sv,sv,sv,sv,sv,sv,sv,sv,3,sv,sv
+Cascina Ballarin,Barolo Riserva Bricco Rocca Tistot,3.3,80-84,9,07,sv,sv,4,sv,3,sv,sv,3,sv,sv,sv
+Cascina Ballarin,Barolo Bricco Rocca,3.6,45-49,21,26,4,4,4,sv,3,3,sv,sv,sv,sv,sv
+Cascina Ballarin,Barolo Tre Ciabot,2.8,35-39,10,16,3,2,3,3,3,3,sv,sv,sv,sv,sv
+Cascina Ballarin,Barolo Bussia,3.3,55-59,11,12,sv,3,3,sv,3,4,sv,sv,sv,sv,sv
+Cascina Ballarin,Barolo Riserva Tistot,3.0,80-84,2,01,sv,sv,sv,sv,3,sv,sv,sv,sv,sv,sv
+Cascina Bongiovanni,Barolo Pernanno,4.3,45-49,63,81,4,3,4,5,5,5,sv,sv,sv,sv,sv
+Cascina Bongiovanni,Barolo,3.2,35-39,15,25,3,4,3,3,3,3,sv,sv,sv,sv,sv
+Cascina Bongiovanni,Barolo Riserva,3.0,60-64,4,04,sv,sv,3,sv,3,sv,sv,sv,sv,sv,sv
+Cascina Chicco,Barolo Riserva Ginestra,3.0,45-49,11,15,sv,sv,3,sv,3,3,3,3,3,sv,sv
+Cascina Chicco,Barolo Rocche Di Castelletto,3.0,25-29,11,25,3,3,3,3,3,3,sv,sv,sv,sv,sv
+Cascina Fontana,Barolo Del Comune Di Castiglione Falletto,5.0,75-79,50,39,sv,5,5,sv,5,sv,sv,sv,sv,sv,sv
+Cascina Fontana,Barolo,4.2,50-54,39,45,sv,4,5,4,4,4,sv,sv,sv,sv,sv
+Castello Di Verduno,Barolo Riserva Monvigliero,5.0,70-74,67,56,sv,sv,5,sv,sv,5,5,5,sv,sv,sv
+Castello Di Verduno,Barolo Massara,3.2,50-54,15,17,3,3,3,3,3,4,sv,sv,sv,sv,sv
+Castello Di Verduno,Barolo,3.0,25-29,2,04,sv,sv,sv,sv,3,sv,sv,sv,sv,sv,sv
+Cavallotto,Barolo Riserva Bricco Boschis Vigna San Giuseppe,5.0,125-149,83,37,sv,sv,5,sv,5,5,5,5,sv,sv,sv
+Cavallotto,Barolo Bricco Boschis,4.2,70-74,46,39,5,5,3,sv,4,4,sv,sv,sv,sv,sv
+Cavallotto,Barolo Riserva Vignolo,3.6,100-124,21,11,sv,sv,4,sv,4,3,3,4,sv,sv,sv
+Ceretto,Barolo Brunate,4.8,100-124,72,39,5,5,5,sv,4,5,sv,sv,sv,sv,sv
+Ceretto,Barolo Prapò,4.2,100-124,46,25,4,5,4,5,3,sv,sv,sv,sv,sv,sv
+Ceretto,Barolo Bussia,3.0,100-124,6,03,3,3,3,sv,sv,sv,sv,sv,sv,sv,sv
+Ceretto,Barolo,3.2,50-54,13,15,sv,3,3,3,3,4,sv,sv,sv,sv,sv
+Ceretto,Barolo Bricco Rocche,4.5,175-199,45,14,sv,sv,4,4,sv,5,5,sv,sv,sv,sv
+Michele Chiarlo,Barolo Cerequio,3.8,70-74,39,33,5,3,3,sv,5,3,sv,sv,sv,sv,sv
+Michele Chiarlo,Barolo Cannubi,3.8,70-74,32,27,4,3,5,sv,4,3,sv,sv,sv,sv,sv
+Michele Chiarlo,Barolo Riserva Cerequio,4.0,125-149,19,08,sv,sv,sv,sv,5,sv,sv,3,sv,sv,sv
+Michele Chiarlo,Barolo Tortoniano,3.3,35-39,9,15,sv,sv,sv,3,3,4,sv,sv,sv,sv,sv
+Chionetti,Barolo Parussi,4.0,40-44,19,27,5,3,sv,sv,sv,sv,sv,sv,sv,sv,sv
+Chionetti,Barolo Bussia Vigna Pianpolvere,3.3,70-74,9,08,4,3,3,sv,sv,sv,sv,sv,sv,sv,sv
+Chionetti,Barolo Roncaglie,4.0,70-74,6,05,4,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv
+Chionetti,Barolo Primo,3.0,35-39,2,03,sv,sv,3,sv,sv,sv,sv,sv,sv,sv,sv
+Ciabot Berton,Barolo Rocchettevino,3.0,40-44,11,16,sv,3,3,3,3,3,3,sv,sv,sv,sv
+Ciabot Berton,Barolo Del Comune Di La Morra,3.0,25-29,11,25,3,3,3,3,3,3,sv,sv,sv,sv,sv
+Ciabot Berton,Barolo Ciabot Berton 1961,3.0,35-39,11,19,sv,3,3,3,3,3,3,sv,sv,sv,sv
+Ciabot Berton,Barolo Roggeri,3.0,40-44,11,16,sv,3,3,3,3,3,3,sv,sv,sv,sv
+Ciabot Berton,Barolo Riserva Rocchettevino,3.0,75-79,2,01,sv,sv,sv,sv,sv,sv,sv,3,sv,sv,sv
+Domenico Clerico,Barolo Ginestra Ciabot Mentin,4.7,75-79,95,74,5,4,4,5,5,5,5,sv,sv,sv,sv
+Domenico Clerico,Barolo Del Comune Di Serralunga Aeroplan servaj,4.5,85-89,74,51,5,5,5,4,3,sv,5,sv,sv,sv,sv
+Domenico Clerico,Barolo Percristina,4.0,175-199,28,09,sv,sv,sv,sv,sv,sv,sv,4,5,sv,4
+Domenico Clerico,Barolo Ginestra Pajana,3.4,75-79,24,19,3,4,3,3,3,4,4,sv,sv,sv,sv
+Domenico Clerico,Barolo Del Comune Di Monforte,3.2,45-49,15,19,3,3,4,3,3,3,sv,sv,sv,sv,sv
+Cogno,Barolo Riserva Ravera Vigna Elena,4.7,95-99,78,48,sv,sv,5,4,5,5,5,4,sv,sv,sv
+Cogno,Barolo Ravera Bricco Pernice,4.7,90-94,78,51,sv,5,5,4,5,4,5,sv,sv,sv,sv
+Cogno,Barolo Ravera,4.5,70-74,67,56,4,5,5,4,5,4,sv,sv,sv,sv,sv
+Cogno,Barolo Cascina Nuova,3.2,40-44,13,19,3,3,3,sv,4,3,sv,sv,sv,sv,sv
+Conterno,Barolo Riserva Monfortino,5.0,750-999,67,05,sv,sv,5,5,5,sv,sv,5,sv,sv,sv
+Conterno,Barolo Vigna Francia,4.8,200-249,56,15,5,5,4,sv,sv,5,sv,sv,sv,sv,sv
+Conterno,Barolo Vigna Cerretta,4.7,200-249,78,21,5,4,4,5,5,5,sv,sv,sv,sv,sv
+Conterno,Barolo Vigna Arione,4.3,200-249,28,07,4,4,5,sv,sv,sv,sv,sv,sv,sv,sv
+Conterno Fantino,Barolo Mosconi Vigna Ped,5.0,75-79,100,78,5,5,5,5,5,5,sv,sv,sv,sv,sv
+Conterno Fantino,Barolo Ginestra Vigna Sorì Ginestra,4.5,80-84,67,49,4,5,4,5,5,4,sv,sv,sv,sv,sv
+Conterno Fantino,Barolo Ginestra Vigna Del Gris,3.7,65-69,26,24,4,3,4,4,4,3,sv,sv,sv,sv,sv
+Conterno Fantino,Barolo Castelletto Vigna Pressenda,3.2,65-69,13,12,4,3,3,3,3,sv,sv,sv,sv,sv,sv
+Cordero Di Montezemolo,Barolo Enrico VI,4.8,75-79,89,70,5,5,5,4,5,5,sv,sv,sv,sv,sv
+Cordero Di Montezemolo,Barolo Gattera,3.2,65-69,15,14,4,3,3,3,3,3,sv,sv,sv,sv,sv
+Cordero Di Montezemolo,Barolo Monfalletto,3.0,35-39,11,19,3,3,3,3,3,3,sv,sv,sv,sv,sv
+Giovanni Corino,Barolo Giachini,3.2,50-54,15,17,3,3,3,3,3,4,sv,sv,sv,sv,sv
+Giovanni Corino,Barolo Riserva,3.0,95-99,4,02,sv,sv,3,sv,3,sv,sv,sv,sv,sv,sv
+Giovanni Corino,Barolo Bricco Manescotto,3.0,50-54,6,07,3,3,3,sv,sv,sv,sv,sv,sv,sv,sv
+Giovanni Corino,Barolo Arborina,3.0,55-59,11,12,3,3,3,3,3,3,sv,sv,sv,sv,sv
+Giovanni Corino,Barolo Del Comune Di La Morra,3.0,30-34,11,21,3,3,3,3,3,3,sv,sv,sv,sv,sv
+Renato Corino,Barolo Arborina,4.0,45-49,48,62,5,4,4,3,3,5,sv,sv,sv,sv,sv
+Renato Corino,Barolo Rocche Dell'Annunziata,4.0,55-59,48,51,4,3,5,5,4,3,sv,sv,sv,sv,sv
+Renato Corino,Barolo Roncaglie Stefano Corino,3.0,50-54,4,04,3,3,sv,sv,sv,sv,sv,sv,sv,sv,sv
+Renato Corino,Barolo Del Comune Di La Morra,3.0,30-34,9,18,sv,3,3,3,3,3,sv,sv,sv,sv,sv
+Renato Corino,Barolo Riserva,4.0,65-69,19,17,sv,sv,sv,sv,3,sv,5,sv,sv,sv,sv
