@@ -7,7 +7,8 @@ export function schedaSingolaImport() {
     //page headline input
     const headlineFull = document.querySelector(".headline").innerText.split(' – ')
     const caption = document.querySelector(".is-page-header .caption").innerText
-    d3.text(`/vini/listone.csv`).then(function(data) {
+    const breadcrumbRegion = document.querySelector(".v-breadcrumbs a:nth-of-type(3) span").innerText
+    d3.text(`/vini/${breadcrumbRegion}.csv`).then(function(data) {
         const csv = d3.csvParse(data);
         const filterCSV = function(d) {
             return d.Ref == caption && d.Anno == headlineFull[1]

@@ -7,9 +7,8 @@ export function schedaGlobaleImport() {
   if (tempCheck == null){return;}
   //page headline input
   const headlineFull = document.querySelector(".headline").innerText.split(' – ')
-  //console.log(headlineFull[0])
-  //console.log(headlineFull[2])
-  d3.text(`/vini/listone.csv`).then(function(data) {
+  const regioneH = headlineFull[3].split(' (')
+  d3.text(`/vini/${regioneH[0]}.csv`).then(function(data) {
       const csv = d3.csvParse(data);
       const filterGlobalCSV = function(d) {return d.Nome == headlineFull[0] && d.Produttore == headlineFull[2].replaceAll('é', 'e') && d.Entry === "1"}
       const filterSingleCSV = function(d) {return d.Nome == headlineFull[0] && d.Produttore == headlineFull[2].replaceAll('é', 'e') && d.Entry === "2"}
