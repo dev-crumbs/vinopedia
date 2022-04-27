@@ -1,5 +1,6 @@
 export function denominazioneSummaryTable(){
   //checks
+  const statisticheCheck = document.querySelector(".statistiche-denominazione")
   const denominazioneCheck = document.querySelector(".denominazioneTipo")
   if (denominazioneCheck == null) {}
   var denominazione = document.querySelector(".denominazioneNome").innerText.replaceAll(' ', '-');
@@ -61,9 +62,11 @@ export function denominazioneSummaryTable(){
       const avg = (sum / avgPriceArray.length) || 0;
       avgPrice = avg
     }).then(function(){//post content populating js functions
-      document.querySelector(".statistiche-denominazione li:nth-child(1) span").innerText = avgPriceArray.length
-      document.querySelector(".statistiche-denominazione li:nth-child(2) span").innerText = avgPrice.toFixed(0) + "€"
-      document.querySelector(".statistiche-denominazione li:nth-child(3) span").innerText = Math.max(...maxPriceArray) + "€"
+      if (statisticheCheck == null) {} else {
+        document.querySelector(".statistiche-denominazione li:nth-child(1) span").innerText = avgPriceArray.length
+        document.querySelector(".statistiche-denominazione li:nth-child(2) span").innerText = avgPrice.toFixed(0) + "€"
+        document.querySelector(".statistiche-denominazione li:nth-child(3) span").innerText = Math.max(...maxPriceArray) + "€"
+      }
       //var startTime = performance.now()
       //ext link 500ms
       const nomeAll = el.querySelectorAll("td[data-th='Vino']");
