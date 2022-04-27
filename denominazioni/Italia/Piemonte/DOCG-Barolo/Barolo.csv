@@ -66,7 +66,7 @@ Enzo Boglietti,Barolo Brunate,4.3,85-89,56,39,4,4,5,4,4,5,sv,sv,sv,sv,sv,sv
 Enzo Boglietti,Barolo Boiolo,3.0,50-54,11,13,3,3,3,3,3,3,sv,sv,sv,sv,sv,sv
 Enzo Boglietti,Barolo Case Nere,3.3,85-89,19,13,3,4,3,3,3,4,sv,sv,sv,sv,sv,sv
 Enzo Boglietti,Barolo Del Comune Di La Morra,3.0,45-49,2,2,3,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv
-Enzo Boglietti,Barolo Riserva ,#DIV/0!,100-124,6,3,sv,sv,sv,sv,sv,sv,sv,sv,sv,4,sv,sv
+Enzo Boglietti,Barolo Riserva ,4.0,100-124,6,3,sv,sv,sv,sv,sv,sv,sv,sv,sv,4,sv,sv
 Silvano Bolmida,Barolo Bussia,3.5,45-49,7,10,4,3,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv
 Silvano Bolmida,Barolo Bussia Vigna Dei Fantini,3.0,45-49,4,5,3,3,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv
 Silvano Bolmida,Barolo Riserva Bussia,3.0,65-69,2,2,sv,sv,3,sv,sv,sv,sv,sv,sv,sv,sv,sv
@@ -114,7 +114,7 @@ Ca Viola,Barolo Caviot,3.0,45-49,6,7,3,3,3,sv,sv,sv,sv,sv,sv,sv,sv,sv
 Ca Viola,Barolo Riserva Sottocastello Di Novello,5.0,125-149,17,7,sv,sv,sv,sv,5,sv,sv,sv,sv,sv,sv,sv
 Cagliero,Barolo Ravera,4.3,35-39,61,100,4,5,5,4,4,4,4,sv,sv,sv,sv,sv
 Cagliero,Barolo Terlo,3.0,30-34,4,7,3,3,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv
-Cagliero,Barolo Riserva Ravera,#DIV/0!,40-44,2,3,sv,sv,sv,sv,sv,sv,sv,sv,3,sv,sv,sv
+Cagliero,Barolo Riserva Ravera,3.0,40-44,2,3,sv,sv,sv,sv,sv,sv,sv,sv,3,sv,sv,sv
 Cascina Ballarin,Barolo Riserva Bricco Rocca Tistot,3.3,80-84,9,7,sv,sv,4,sv,3,sv,sv,3,sv,sv,sv,sv
 Cascina Ballarin,Barolo Bricco Rocca,3.6,45-49,21,26,4,4,4,sv,3,3,sv,sv,sv,sv,sv,sv
 Cascina Ballarin,Barolo Tre Ciabot,2.8,35-39,10,16,3,2,3,3,3,3,sv,sv,sv,sv,sv,sv
@@ -153,7 +153,7 @@ Ciabot Berton,Barolo Roggeri,3.0,40-44,11,16,sv,3,3,3,3,3,3,sv,sv,sv,sv,sv
 Ciabot Berton,Barolo Riserva Rocchettevino,3.0,75-79,2,1,sv,sv,sv,sv,sv,sv,sv,3,sv,sv,sv,sv
 Domenico Clerico,Barolo Ginestra Ciabot Mentin,4.7,75-79,95,74,5,4,4,5,5,5,5,sv,sv,sv,sv,sv
 Domenico Clerico,Barolo Del Comune Di Serralunga Aeroplan servaj,4.5,85-89,74,51,5,5,5,4,3,sv,5,sv,sv,sv,sv,sv
-Domenico Clerico,Barolo Percristina,4.0,175-199,28,9,sv,sv,sv,sv,sv,sv,sv,4,5,sv,sv,4
+Domenico Clerico,Barolo Percristina,4.3,175-199,28,9,sv,sv,sv,sv,sv,sv,sv,4,5,sv,sv,4
 Domenico Clerico,Barolo Ginestra Pajana,3.4,75-79,24,19,3,4,3,3,3,4,4,sv,sv,sv,sv,sv
 Domenico Clerico,Barolo Del Comune Di Monforte,3.2,45-49,15,19,3,3,4,3,3,3,sv,sv,sv,sv,sv,sv
 Cogno,Barolo Riserva Ravera Vigna Elena,4.7,95-99,78,48,sv,sv,5,4,5,5,5,4,sv,sv,sv,sv
@@ -210,7 +210,7 @@ Gianni Gagliardo,Barolo Castelletto,3.0,75-79,8,6,3,3,3,sv,3,sv,sv,sv,sv,sv,sv,s
 Gianni Gagliardo,Barolo Preve,3.0,100-124,2,1,sv,sv,sv,sv,sv,3,sv,sv,sv,sv,sv,sv
 Gianni Gagliardo,Barolo Serre,3.0,65-69,2,2,sv,sv,sv,sv,sv,3,sv,sv,sv,sv,sv,sv
 Gianni Gagliardo,Barolo Gianni Gagliardo,3.0,35-39,8,12,sv,sv,3,3,3,3,sv,sv,sv,sv,sv,sv
-Gianni Gagliardo,Barolo Serre 10 Anni,#DIV/0!,175-199,4,1,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv,3,3
+Gianni Gagliardo,Barolo Serre 10 Anni,3.0,175-199,4,1,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv,3,3
 Gianni Gagliardo,Barolo La Morra,3.0,55-59,2,2,sv,3,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv
 Mario Gagliasso,Barolo Torriglione,3.3,30-34,19,35,4,4,3,3,3,3,sv,sv,sv,sv,sv,sv
 Mario Gagliasso,Barolo Rocche Dell'Annunziata,3.0,30-34,11,21,3,3,3,3,3,3,sv,sv,sv,sv,sv,sv
