@@ -3,7 +3,7 @@ title: Vin Santo Vigna del Duomo – Colli Piacentini DOC – Zerioli – Emilia
 description: Malvasia di Candia aromatica 100% | Gorgonzola
 published: true
 date: 2021-10-01T20:11:51.188Z
-tags: Vinificazione | bianco, Regione | Emilia (IT), Vinificazione | passito, Valutazioni | 5 stelle, Vitigni | Malvasia di Candia aromatica, Prezzi | 20-24€, Alimento | formaggi, 
+tags: 
 editor: markdown
 dateCreated: 2021-09-02T14:33:13.149Z
 ---

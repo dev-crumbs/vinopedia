@@ -3,7 +3,7 @@ title: Arvange Pas Dose – Vino Generico – Cantina Valtidone – Emilia (IT) 
 description: Pinot Nero 95% + Chardonnay 5% |
 published: true
 date: 2021-10-01T20:11:51.188Z
-tags: Vinificazione | bianco, Regione | Emilia (IT), Vinificazione | sans-annee, Vinificazione | blend, Vinificazione | spumante, Vinificazione | metodo classico, Vinificazione | pas-dose, Valutazioni | 3 stelle, Vitigni | Chardonnay, Vitigni |Pinot nero, Prezzi | 35-39€
+tags: 
 editor: markdown
 dateCreated: 2021-09-02T14:33:13.149Z
 ---

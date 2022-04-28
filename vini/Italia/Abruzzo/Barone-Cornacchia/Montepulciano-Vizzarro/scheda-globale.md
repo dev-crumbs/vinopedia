@@ -3,7 +3,7 @@ title: Montepulciano Vizzarro – Montepulciano d'Abruzzo Colline Teramane DOCG 
 description: Montepulciano 100% | Cosciotto d'agnello al forno – costine d'agnello alla brace – Pasta alla teramana – Capriolo in salmì – Castrato alla brace – Cinghiale in umido
 published: true
 date: 2021-10-01T19:55:04.911Z
-tags: Vinificazione | rosso, Vinificazione | varietale, Vitigni | Montepulciano, Regione | Abruzzo (IT), Vinificazione | fermo, Valutazioni | 5 stelle, Prezzi | 15-19€, Alimento | agnello, Cottura | al forno, Cottura | alla brace, Alimento | pasta, Aromatizzazione | alla teramana, Alimento | capriolo, Aromatizzazione | in salmì, Alimento | castrato
+tags: 
 editor: markdown
 dateCreated: 2021-10-01T17:43:01.516Z
 ---

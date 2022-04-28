@@ -3,7 +3,7 @@ title: Il Giorgione – Vino generico – La Tollara – Emilia (IT) – 24-29�
 description: Croatina 100% | Medaglioni di cervo al ribes – Capriolo al tegame con salsa ai mirtilli 
 published: true
 date: 2021-10-01T20:11:51.188Z
-tags: Vinificazione | rosso, Regione | Emilia (IT), Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 5 stelle, Vitigni | Croatina, Prezzi | 24-29€, Alimento | cervo, Aromatizzazione | al ribes, Alimento | capriolo, Cottura | al tegame, Aromatizzazione | con salsa ai mirtilli
+tags: 
 editor: markdown
 dateCreated: 2021-09-02T14:33:13.149Z
 ---

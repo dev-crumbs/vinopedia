@@ -3,7 +3,7 @@ title: Casa Bianca Pontolliese – Emilia IGT – Marengoni – Emilia (IT) – 
 description: Barbera 20% + Cabernet franc 20% + Cabernet Sauvignon 20% + Croatina 20% + Merlot 20% | Sella di cervo con salsa ai frutti rossi – Stracotto di manzo
 published: true
 date: 2021-10-01T20:11:51.188Z
-tags: Vinificazione | rosso, Regione | Emilia (IT), Vinificazione | blend, Vinificazione | fermo, Valutazioni | 4 stelle, Vitigni | Barbera, Vitigni | Cabernet franc, Vitigni | Cabernet Sauvignon, Vitigni | Merlot, Vitigni | Croatina, Prezzi | 20-24€, Alimento | cervo, Aromatizzazione | salsa ai frutti rossi, Alimento | manzo, Cottura | stracotto
+tags: 
 editor: markdown
 dateCreated: 2021-09-02T14:33:13.149Z
 ---

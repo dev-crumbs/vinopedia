@@ -3,7 +3,7 @@ title: Moscato Giallo – Vigneti delle Dolomiti IGT – Franz Haas – Alto-Adi
 description: 100% Moscato Giallo | Lasagnette verdure e moscardini – Galantina di luccio con gamberetti di fiume
 published: true
 date: 2021-10-01T19:55:26.461Z
-tags: Vinificazione | bianco, Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 5 stelle, Regione | Alto-Adige (IT), Vitigni | Moscato giallo, Prezzi | 20-24€, Alimento | pasta, Aromatizzazione | verdure e moscardini, Alimento | luccio
+tags: 
 editor: markdown
 dateCreated: 2021-09-02T14:32:47.834Z
 ---

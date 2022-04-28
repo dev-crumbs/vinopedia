@@ -3,7 +3,7 @@ title: Barolo Roggeri – Barolo Roggeri DOCG – Ciabot Berton – Piemonte (IT
 description: Nebbiolo 100% | Beccacce al ginepro – Filetto al porto – Medaglioni alla villeroy – Coniglio al ginepro
 published: true
 date: 2021-10-01T19:58:59.048Z
-tags: Vinificazione | rosso, Vinificazione | varietale, Regione | Piemonte (IT), Vitigni | Nebbiolo, Valutazioni | 3 stelle, beccacce al ginepro, filetto al porto, medaglioni alla villeroy, coniglio al ginepro, Prezzi | 40-44€
+tags: 
 editor: markdown
 dateCreated: 2021-09-24T12:31:04.121Z
 ---

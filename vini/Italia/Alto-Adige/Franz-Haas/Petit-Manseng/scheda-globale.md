@@ -3,7 +3,7 @@ title: Petit Manseng – Vigneti delle Dolomiti IGT – Franz Haas – Alto-Adig
 description: 100% Petit Manseng | Agnolotti ripieni di coregone
 published: true
 date: 2021-10-01T19:55:26.461Z
-tags: Vinificazione | bianco, Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 5 stelle, Regione | Alto-Adige (IT), Vitigni | Petit Manseng, Prezzi | 20-24€, Alimento | pasta, Aromatizzazione | al coregone
+tags: 
 editor: markdown
 dateCreated: 2021-09-02T14:32:47.834Z
 ---

@@ -3,7 +3,7 @@ title: Riserva del Fondatore 976 Brut – Trento DOC – Letrari – Trentino (I
 description: Pinot Noir 50% + Chardonnay 50% | Rombo al forno – Bigné ripieni di trentingrana – Foie gras scaloppato alla piastra – Paella alla valenciana – Ostriche belon 
 published: true
 date: 2021-10-01T20:01:08.458Z
-tags: Vinificazione | blend, spumante, Vinificazione | bianco, trentino, metodo classico, Rombo al forno, Vitigni | Chardonnay, pinot nero, brut, Bigné ripieni di trentingrana, sans annee, Valutazioni | 3 stelle, pinot noir, Prezzi | 75-79€, Foie gras scaloppato alla piastra, Paella alla valenciana, ostriche belon
+tags: 
 editor: markdown
 dateCreated: 2021-08-12T08:47:39.689Z
 ---

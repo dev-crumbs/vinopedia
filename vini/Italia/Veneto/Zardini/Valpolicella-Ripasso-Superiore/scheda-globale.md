@@ -3,7 +3,7 @@ title: Valpolicella Ripasso Superiore – Valpolicella Ripasso Superiore DOC –
 description: Corvina 50% + Corvinone 40% + Rondinella 10% | Tagliatelle al ragù di lepre
 published: true
 date: 2022-01-28T17:14:37.370Z
-tags: Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Prezzi | 15-19€, Vitigni | Corvina, Vitigni | Rondinella, Vitigni | Corvinone, Valutazioni | 3 stelle, Alimento | pasta, Aromatizzazione | al ragù di lepre
+tags: 
 editor: markdown
 dateCreated: 2022-01-27T15:21:34.303Z
 ---

@@ -3,7 +3,7 @@ title: Valpolicella Ripasso Superiore Capitel San Rocco – Valpolicella Ripasso
 description: Corvina 35% + Rondinella 20% + Corvinone 35% + Altre | Faraona al forno
 published: true
 date: 2022-01-28T17:14:37.370Z
-tags: Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Prezzi | 20-24€, Vitigni | Corvina, Vitigni | Rondinella, Vitigni | Corvinone, Vitigni | Molinara, Vitigni | Oseleta, Valutazioni | 3 stelle
+tags: 
 editor: markdown
 dateCreated: 2022-01-27T15:21:34.303Z
 ---

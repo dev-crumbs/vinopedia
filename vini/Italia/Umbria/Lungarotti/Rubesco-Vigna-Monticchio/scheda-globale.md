@@ -3,7 +3,7 @@ title: Rubesco Vigna Monticchio – Torgiano Rosso Riserva DOCG – Lungarotti �
 description: Sangiovese 100% | Cinghiale di dolceforte – Scamorza al coccio con guanciale croccante affumicato – Filetto alla rossini – Piccione ripieno su polenta – Carrè di maialino con cipolla – Lombata di capretto
 published: true
 date: 2021-10-01T20:01:45.921Z
-tags: Vinificazione | rosso, umbria, Vinificazione | varietale, Vitigni | Sangiovese, Vinificazione | fermo, Valutazioni | 5 stelle, filetto alla rossini, cinghiale di dolceforte, scamorza al coccio con guanciale croccante affumicato, piccione ripieno su polenta, carrè di maialino con cipolla, Prezzi | 30-34€, Lombata di capretto
+tags: 
 editor: markdown
 dateCreated: 2021-09-18T16:29:59.606Z
 ---

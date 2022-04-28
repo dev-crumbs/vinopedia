@@ -3,7 +3,7 @@ title: Ca' Novina – Vino generico – Fattorie Vallona – Emilia (IT) – 15-
 description: Grechetto gentile 50% + Chardonnay 50%
 published: true
 date: 2021-10-01T20:11:45.882Z
-tags: Regione | Emilia (IT), Vinificazione | bianco, Vinificazione | blend, Vinificazione | millesimato, Vinificazione | spumante, Vinificazione | metodo classico, Vinificazione | brut, Vitigni | Grechetto gentile, Vitigni | Chardonnay, Valutazioni | 3 stelle, Prezzi | 15-20€
+tags: 
 editor: markdown
 dateCreated: 2021-08-31T15:46:06.033Z
 ---

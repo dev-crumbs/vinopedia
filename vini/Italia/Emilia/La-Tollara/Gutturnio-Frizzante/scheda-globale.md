@@ -3,7 +3,7 @@ title: Gutturnio Frizzante – Gutturnio DOC – La Tollara – Emilia (IT) – 
 description: Barbera 60% + Croatina 40%  | Vincisgrassi
 published: true
 date: 2021-10-01T20:11:51.188Z
-tags: Vinificazione | rosso, Regione | Emilia (IT), Vinificazione | varietale, Vinificazione | frizzante, Valutazioni | 3 stelle, Vitigni | Barbera, Vitigni | Croatina, Prezzi | 5-9€, Alimento | Vincisgrassi
+tags: 
 editor: markdown
 dateCreated: 2021-09-02T14:33:13.149Z
 ---

@@ -3,7 +3,7 @@ title: Malvasia La Ciocca – Colli Piacentini DOC – La Ciocca – Emilia (IT)
 description: Barbera 60% + Croatina 40% | Petto d'anatra
 published: true
 date: 2021-10-01T20:11:51.188Z
-tags: Vinificazione | bianco, Regione | Emilia (IT), Vinificazione | blend, Vinificazione | fermo, Valutazioni | 2 stelle, Vitigni | Malvasia di Candia aromatica, Prezzi | 10-14€, Alimento | anatra,  
+tags: 
 editor: markdown
 dateCreated: 2021-09-02T14:33:13.149Z
 ---

@@ -3,7 +3,7 @@ title: Pinot Nero Achab – Colli Piacentini DOC – Luretta – Emilia (IT) –
 description: Pinot nero 100%
 published: true
 date: 2021-10-01T20:11:51.188Z
-tags: Vinificazione | rosso, Regione | Emilia (IT), Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 3 stelle, Vitigni | Pinot nero, Prezzi | 25-29€
+tags: 
 editor: markdown
 dateCreated: 2021-09-02T14:33:13.149Z
 ---

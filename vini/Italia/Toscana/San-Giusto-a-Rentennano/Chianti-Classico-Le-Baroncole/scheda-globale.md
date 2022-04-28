@@ -3,7 +3,7 @@ title: Chianti Classico Le Baròncole Riserva – Chianti Classico Riserva DOCG 
 description: Sangiovese 97% + Canaiolo 3% | Anatra arrosto con ciliegie – Fagiano con salsa di cipolle rosse – Spiedo di piccione e foie gras – Risotto con animelle
 published: true
 date: 2021-10-04T06:51:26.278Z
-tags: Vinificazione | rosso, Vinificazione | blend, Regione | Toscana (IT), Vitigni | Sangiovese, Vitigni |Canaiolo, Vinificazione | fermo, Valutazioni | 5 stelle, Prezzi | 55-59€, Alimento | piccione, Cottura | allo spiedo, Aromatizzazione | foie gras, Alimento | anatra , Cottura | arrosto, Aromatizzazione | con ciliegie, Alimento | fagiano, Aromatizzazione | con salsa di cipolle rosse, Alimento | Risotto con animelle
+tags: 
 editor: markdown
 dateCreated: 2021-09-07T15:36:11.646Z
 ---

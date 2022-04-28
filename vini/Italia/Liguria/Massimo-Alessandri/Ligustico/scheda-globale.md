@@ -3,7 +3,7 @@ title: Ligustico – Vino generico – Massimo Alessandri – Liguria (IT) – 3
 description: Granaccia 50% + Syrah 50% | Arrosto di manzo – Pecorino di pienza stagionato
 published: true
 date: 2021-10-01T20:12:30.935Z
-tags: Vinificazione | rosso, Vinificazione | blend, Granaccia, Vitigni | Syrah,liguria, Alimento | manzo, Cottura | arrosto, Alimento | formaggi,  Vinificazione | fermo, Valutazioni | 5 stelle, Prezzi | 30-34€
+tags: 
 editor: markdown
 dateCreated: 2021-08-26T10:19:41.335Z
 ---

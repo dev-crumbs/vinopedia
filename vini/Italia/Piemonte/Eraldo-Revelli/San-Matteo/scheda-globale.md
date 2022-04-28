@@ -3,7 +3,7 @@ title: San Matteo – Dogliani Superiore DOCG – Eraldo Revelli – Piemonte (I
 description: Dolcetto 100% | Timballo con ragù di carne – Spezzatino alle erbe – Fritto misto piemontese – Tagliatelle al ragù – Stinco al forno
 published: true
 date: 2021-10-04T06:51:10.314Z
-tags: Vinificazione | rosso, Vinificazione | varietale, Regione | Piemonte (IT), Valutazioni | 5 stelle, stinco al forno, tagliatelle al ragù, Prezzi | 15-19€, dolcetto, timballo con ragù di carne, spezzatino alle erbe, fritto misto piemontese
+tags: 
 editor: markdown
 dateCreated: 2021-10-04T06:51:07.853Z
 ---

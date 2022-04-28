@@ -3,7 +3,7 @@ title: Primedizione Cuvée – Emilia IGT – Fattorie Vallona – Emilia (IT) �
 description: Grechetto gentile 50% + Altre varietà | Risotto al melone e gorgonzola – Pollo al curry – Risotto allo zafferano
 published: true
 date: 2021-10-01T20:11:45.882Z
-tags: Regione | Emilia (IT), Vinificazione | bianco, Vinificazione | blend, Vinificazione | fermo, Vitigni | Grechetto gentile, Alimento | Risotto al melone e gorgonzola, Alimento | risotto allo zafferano, Alimento | pollo, Aromatizzazione | al curry, Valutazioni | 3 stelle, Prezzi | 10-14€
+tags: 
 editor: markdown
 dateCreated: 2021-08-31T15:46:06.033Z
 ---

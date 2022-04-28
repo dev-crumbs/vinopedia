@@ -3,7 +3,7 @@ title: Sauvignon – Alto Adige DOC – Franz Haas – Alto-Adige (IT) – 20-24
 description: 100% Sauvignon Blanc 
 published: true
 date: 2021-10-01T19:55:26.461Z
-tags: Vinificazione | bianco, Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 2 stelle, Regione | Alto-Adige (IT), Vitigni | Sauvignon blanc, Prezzi | 20-24€
+tags: 
 editor: markdown
 dateCreated: 2021-09-02T14:32:47.834Z
 ---

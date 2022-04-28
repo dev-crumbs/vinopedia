@@ -3,7 +3,7 @@ title: Pinot Nero Musica – Emilia IGT – Torre Fornello – Emilia (IT) – 1
 description: Pinot nero 100% | Bomba di riso con piccione
 published: true
 date: 2021-10-01T20:11:51.188Z
-tags: Vinificazione | rosso, Regione | Emilia (IT), Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 3 stelle, Vitigni | Pinot nero, Prezzi | 10-14€, Alimento | Bomba di riso con piccione, Alimento | piccione
+tags: 
 editor: markdown
 dateCreated: 2021-09-02T14:33:13.149Z
 ---

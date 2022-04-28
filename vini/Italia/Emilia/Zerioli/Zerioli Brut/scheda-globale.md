@@ -3,7 +3,7 @@ title: Zerioli Brut – Vino Generico – Zerioli – Emilia (IT) – 15-19€ �
 description: Pinot Nero 100% | Paccheri con sugo di rombo
 published: true
 date: 2021-10-01T20:11:51.188Z
-tags: Vinificazione | bianco, Regione | Emilia (IT), Vinificazione | millesimato, Vinificazione | varietale, Vinificazione | spumante, Vinificazione | metodo classico, Vinificazione | brut, Valutazioni | 3 stelle, Vitigni | Pinot nero, Prezzi | 15-19€, Alimento | pasta, Aromatizzazione | al sugo di rombo
+tags: 
 editor: markdown
 dateCreated: 2021-09-02T14:33:13.149Z
 ---

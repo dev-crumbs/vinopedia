@@ -3,7 +3,7 @@ title: Divina Villa Riserva – Colli del Trasimeno DOC – Duca della Corgna �
 description: Gamay 100% | Tagliata al rosmarino – Tordi allo spiedo – Filetto al tartufo – Costata di manzo – Spiedo di cacciagione
 published: true
 date: 2021-10-01T20:15:10.714Z
-tags: Vinificazione | rosso, umbria, Vinificazione | varietale, Valutazioni | 5 stelle, Prezzi | 10-14€, gamay, tagliata al rosmarino, tordi allo spiedo, filetto al tartufo, costata di manzo, spiedo di cacciagione
+tags: 
 editor: markdown
 dateCreated: 2021-09-30T08:13:53.379Z
 ---

@@ -3,7 +3,7 @@ title: Gutturnio Frizzante 50 Vendemmie – Gutturnio DOC – Cantina Valtidone 
 description: Barbera 55% + Croatina 45% | Pisarei e fasoi
 published: true
 date: 2021-10-01T20:11:51.188Z
-tags: Vinificazione | rosso, Regione | Emilia (IT), Vinificazione | blend, Vinificazione | frizzante, Valutazioni | 3 stelle, Vitigni | Barbera, Vitigni | Croatina, Prezzi | 15-19€, Alimento | pisarei e fasoi
+tags: 
 editor: markdown
 dateCreated: 2021-09-02T14:33:13.149Z
 ---

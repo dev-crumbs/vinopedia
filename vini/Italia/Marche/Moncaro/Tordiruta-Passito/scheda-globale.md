@@ -3,7 +3,7 @@ title: Tordiruta Passito – Verdicchio dei Castelli di Jesi DOC – Moncaro –
 description: Verdicchio 100% | Sfogliata di albicocche con salsa di vaniglia – Blu del Montefeltro – Formaggi erborinati
 published: true
 date: 2021-10-01T20:12:57.016Z
-tags: Vinificazione | bianco, Vinificazione | varietale, Vinificazione | passito, marche, Valutazioni | 5 stelle, verdicchio, Sfogliata di albicocche con salsa di vaniglia, Blu del Montefeltro, Formaggi erborinati, Prezzi | 30-34€
+tags: 
 editor: markdown
 dateCreated: 2021-09-01T10:16:55.566Z
 ---

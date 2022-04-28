@@ -3,7 +3,7 @@ title: Bischofsleiten – Alto Adige DOC – Castel Sallegg – Alto Adige (IT) 
 description: Schiava 100% | Filetto di vitello allo speck – Tartare con mela – Petto di pollo farcito – Costoletta alla milanese – Bucatini all'amatriciana
 published: true
 date: 2022-01-20T14:10:08.034Z
-tags: Vinificazione | rosso, Vinificazione | varietale, Valutazioni | 5 stelle, Regione | Alto-Adige (IT), schiava, Prezzi | 10-14€, Alimento | vitello, Aromatizzazione | allo speck, tartare con mela, petto di pollo farcito, costoletta alla milanese, bucatini all'amatriciana
+tags: 
 editor: markdown
 dateCreated: 2022-01-20T14:10:08.034Z
 ---

@@ -3,7 +3,7 @@ title: Malvasia Una – Colli Piacentini DOC – Torre Fornello – Emilia (IT) 
 description: Malvasia aromatica di Candia 100% | Cozze al roquefort – Tartare di ricciola e gorgonzola
 published: true
 date: 2021-10-01T20:11:51.188Z
-tags: Vinificazione | bianco, Regione | Emilia (IT), Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 4 stelle, Vitigni | Malvasia di Candia aromatica, Alimento | cozze, Aromatizzazione | al roquefort, Alimento | ricciola, Aromatizzazione | Al gorgonzola, Prezzi | 30-34€,
+tags: 
 editor: markdown
 dateCreated: 2021-09-02T14:33:13.149Z
 ---

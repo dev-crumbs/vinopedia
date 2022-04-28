@@ -3,7 +3,7 @@ title: Sauvignon I Nani e Le Ballerine – Colli Piacentini DOC – Luretta – 
 description: Sauvignon-Blanc 100% | Coniglio con pancetta e bacche di ginepro – Branzino all'acqua pazza
 published: true
 date: 2021-10-01T20:11:51.188Z
-tags: Vinificazione | bianco, Regione | Emilia (IT), Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 4 stelle, Vitigni | Sauvignon-Blanc, Prezzi | 15-19€, Alimento | coniglio, Aromatizzazione | con pancetta e ginepro, Alimento | branzino, Cottura | all'acqua pazza
+tags: 
 editor: markdown
 dateCreated: 2021-09-02T14:33:13.149Z
 ---

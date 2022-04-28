@@ -3,7 +3,7 @@ title: Valpolicella Superiore Maternigo – Valpolicella Superiore DOCG – Tede
 description: Corvina 40% + Rondinella 20% + Corvinone 40%
 published: true
 date: 2022-01-28T17:14:37.370Z
-tags: Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Prezzi | 30-34€, Vitigni | Corvina, Vitigni | Rondinella, Vitigni | Corvinone, Vitigni | Molinara, Vitigni | Oseleta, Valutazioni | 3 stelle
+tags: 
 editor: markdown
 dateCreated: 2022-01-27T15:21:34.303Z
 ---

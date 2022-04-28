@@ -3,7 +3,7 @@ title: Barbera Nato Bio – Colli Piacentini DOC – Cantine Campana – Emilia 
 description: Barbera 100% | Stinco di maiale in salsa barbecue
 published: true
 date: 2021-10-01T20:11:51.188Z
-tags: Vinificazione | rosso, Regione | Emilia (IT), Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 3 stelle, Vitigni | Barbera, Prezzi | 10-14€, Alimento | maiale, Aromatizzazione | in salsa barbecue
+tags: 
 editor: markdown
 dateCreated: 2021-09-02T14:33:13.149Z
 ---

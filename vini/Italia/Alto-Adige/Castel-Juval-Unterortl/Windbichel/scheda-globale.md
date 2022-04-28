@@ -3,7 +3,7 @@ title: Windbichel – Alto-Adige Val Venosta DOC – Castel Juval Unterortl – 
 description: Riesling 100% | Asparagi allo zabaione salato – Ravioli zucca e taleggio – Sushi e sashimi – Onigiri con salmone avocado e formaggio – Catalana di scampi reali
 published: true
 date: 2021-10-01T20:11:45.882Z
-tags: Vinificazione | bianco, emilia, Vinificazione | varietale, Vinificazione | fermo, riesling, Asparagi allo zabaione salato, Ravioli zucca e taleggio, Sushi e sashimi, Valutazioni | 5 stelle, Onigiri con salmone avocado e formaggio, Catalana di scampi reali, Prezzi | 30-34€
+tags: 
 editor: markdown
 dateCreated: 2021-08-31T15:46:06.033Z
 ---

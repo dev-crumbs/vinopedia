@@ -3,7 +3,7 @@ title: Moro Polo – Colli Euganei DOC – Ca' Lustra Zanovello – Veneto (IT) 
 description: Merlot 60% + Cabernet Sauvignon 20% + Carmenere 20% | Controfiletto di Sorana con salsa alle prugne – Zuppa di fagioli con pastin
 published: true
 date: 2022-01-15T22:17:16.730Z
-tags: Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Vitigni | Cabernet Sauvignon, Vitigni | Merlot, Prezzi | 10-14€, carmenere, controfiletto di sorana con salsa alle prugne, zuppa di fagioli con pastin
+tags: 
 editor: markdown
 dateCreated: 2022-01-15T21:40:12.066Z
 ---

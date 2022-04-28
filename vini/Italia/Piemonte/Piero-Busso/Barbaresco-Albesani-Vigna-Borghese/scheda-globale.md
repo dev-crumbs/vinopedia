@@ -3,7 +3,7 @@ title: Barbaresco Albesani Vigna Borgese  – Barbaresco Albesani DOCG – Piero
 description: Nebbiolo 100% | Braciola di maiale – Tagliata di manzo – Filetto di manzo con porcini
 published: true
 date: 2021-10-01T19:59:15.183Z
-tags: Regione | Piemonte (IT), Vinificazione | rosso, Vinificazione | varietale, Vitigni | Nebbiolo, Valutazioni | 5 stelle, Alimento | maiale, Alimento | manzo, Aromatizzazione | ai porcini, Prezzi | 50-54€
+tags: 
 editor: markdown
 dateCreated: 2021-09-24T12:31:16.342Z
 ---

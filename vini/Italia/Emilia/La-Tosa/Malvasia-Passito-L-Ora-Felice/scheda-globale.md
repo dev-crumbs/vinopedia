@@ -3,7 +3,7 @@ title: Malvasia Passito L'Ora Felice – Emilia IGT – La Tosa – Emilia (IT) 
 description: Malvasia aromatica di Candia 100% | Formaggi erborinati – Crema catalana 
 published: true
 date: 2021-10-01T20:11:51.188Z
-tags: Vinificazione | bianco, Regione | Emilia (IT), Vinificazione | varietale, Vinificazione | passito, Valutazioni | 4 stelle, Vitigni | Malvasia di Candia aromatica, Prezzi | 25-29€, Alimento | formaggi,  Alimento | Crema catalana 
+tags: 
 editor: markdown
 dateCreated: 2021-09-02T14:33:13.149Z
 ---

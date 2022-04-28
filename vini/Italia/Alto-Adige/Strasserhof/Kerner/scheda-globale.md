@@ -3,7 +3,7 @@ title: Kerner – Alto Adige Valle Isarco DOC – Stratterhof – Alto-Adige (IT
 description: Kerner 100% | Trancio di salmone al sesamo – Ravioli di ricotta – Spiedini di gamberoni
 published: true
 date: 2021-10-01T20:10:59.126Z
-tags: Vinificazione | bianco, Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 5 stelle, Regione | Alto-Adige (IT), Prezzi | 10-14€, kerner, trancio di salmone al sesamo, ravioli di ricotta, spiedini di gamberoni
+tags: 
 editor: markdown
 dateCreated: 2021-09-30T08:13:18.301Z
 ---

@@ -3,7 +3,7 @@ title: Bologna bianco – Colli Bolognesi DOC – Fattorie Vallona – Emilia (I
 description: Sauvignon blanc + Chardonnay + Petit manseng | Sformato di zucca e tartufo – Risotto agli asparagi – Tempura di salva rosmarino e fiori di zucca
 published: true
 date: 2022-02-07T12:30:33.179Z
-tags: valutazioni | 3 stelle, prezzi | 10-14€, aromatizzazione | al tartufo, vinificazione | bianco, vinificazione | fermo, vinificazione | blend, regione | emilia (it), vitigni | sauvignon blanc, vitigni | chardonnay, vitigni | petit manseng, alimento | sformato di zucca, alimento | risotto agli asparagi, alimento | tempura, aromatizzazione | salvia rosmarino e fiori di zucca
+tags: 
 editor: markdown
 dateCreated: 2022-02-04T12:07:33.439Z
 ---

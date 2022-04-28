@@ -3,7 +3,7 @@ title: Ortrugo Frizzante – Ortrugo dei Colli Piacentini DOC – Marengoni – 
 description: Ortrugo 100%
 published: true
 date: 2021-10-01T20:11:51.188Z
-tags: Vinificazione | bianco, Regione | Emilia (IT), Vinificazione | varietale, Vinificazione | frizzante, Valutazioni | 2 stelle, Vitigni | Ortrugo, Prezzi | 5-9€, Alimento | Arrosticini
+tags: 
 editor: markdown
 dateCreated: 2021-09-02T14:33:13.149Z
 ---

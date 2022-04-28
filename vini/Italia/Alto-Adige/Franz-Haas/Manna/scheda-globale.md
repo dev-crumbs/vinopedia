@@ -3,7 +3,7 @@ title: Manna – Vigneti delle Dolomiti IGT – Franz Haas – Alto-Adige (IT) �
 description: 40% Riesling + 20% Chardonnay + 15% Gewurztraminer + 15% Kerner + 10% Sauvignon Blanc | Crespelle con uva e cavolo cappuccio – Galantina di pollo – Tarté flambe con feta e verdurine – Aragosta alla catalana
 published: true
 date: 2021-10-01T19:55:26.461Z
-tags: Vinificazione | bianco, Vinificazione | blend, Vinificazione | fermo, Valutazioni | 5 stelle, Regione | Alto-Adige (IT), Vitigni | Gewurztraminer, Vitigni | Chardonnay, Vitigni | Riesling, Vitigni | Kerner, Vitigni | Sauvignon blanc, Prezzi | 20-24€, Alimento | crespelle, Aromatizzazione | con uva e cavolo cappuccio, Alimento | pollo, Alimento | aragosta, Aromatizzazione | alla catalana
+tags: 
 editor: markdown
 dateCreated: 2021-09-02T14:32:47.834Z
 ---

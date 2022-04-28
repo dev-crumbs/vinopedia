@@ -3,7 +3,7 @@ title: Bologna Rosso – Colli Bolognesi DOC – Fattorie Vallona – Emilia (IT
 description: Cabernet Sauvignon 50% + Merlot 25% + Barbera 25% | Faraona arrosto
 published: true
 date: 2021-10-01T20:11:56.684Z
-tags: Regione | Emilia (IT), Vinificazione | rosso, Vinificazione | blend, Vinificazione | fermo, Valutazioni | 5 stelle, Vitigni | Cabernet Sauvignon, Vitigni | merlot, Vitigni | barbera, Prezzi | 10-14€, Alimento | faraona, Cottura | arrosto
+tags: 
 editor: markdown
 dateCreated: 2021-09-07T16:16:38.527Z
 ---

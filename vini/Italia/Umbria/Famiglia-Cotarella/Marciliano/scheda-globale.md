@@ -3,7 +3,7 @@ title: Marciliano – Umbria IGT – Famiglia Cotarella – Umbria (IT) – 40-4
 description: Cabernet Sauvignon 70% + Cabernet Franc 30% | Pernice in casseruola – Sella di lepre in granella di cacao – Peposo – Filetto alla rossini – Filetto di cervo ai frutti di bosco – Guancia di manzo brasata
 published: true
 date: 2021-10-01T20:01:40.504Z
-tags: Vinificazione | rosso, Vinificazione | blend, umbria, Vinificazione | fermo, Valutazioni | 5 stelle, Vitigni | Cabernet franc, filetto di cervo ai frutti di bosco, Vitigni | Cabernet Sauvignon, pernice in casseruola, sella di lepre in granella di cacao, peposo, filetto alla rossini, Prezzi | 40-44€, Guancia di manzo brasata
+tags: 
 editor: markdown
 dateCreated: 2021-09-02T14:35:15.146Z
 ---

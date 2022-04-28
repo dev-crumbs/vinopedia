@@ -3,7 +3,7 @@ title: L'Apparita – Toscana IGT – Castello di Ama – Toscana (IT) – 150-1
 description: Merlot 100% | Pernice in salmì – Sella di cervo ai mirtilli – Petto d'anatra al tartufo nero – Anatra laccata alla pechinese – Petto d'anatra al forno
 published: true
 date: 2021-10-01T20:14:46.700Z
-tags: Vinificazione | rosso, Regione | Toscana (IT), Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 5 stelle, Vitigni | Merlot, Alimento | pernice, Aromatizzazione | in salmì, sella di cervo ai mirtilli, Alimento | anatra, Aromatizzazione | al tartufo,  Aromatizzazione | alla pechinese, Cottura | al forno, Prezzi | 150-174€
+tags: 
 editor: markdown
 dateCreated: 2021-09-03T21:03:57.435Z
 ---

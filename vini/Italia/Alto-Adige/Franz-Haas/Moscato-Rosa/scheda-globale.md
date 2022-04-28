@@ -3,7 +3,7 @@ title: Moscato Rosa – Alto Adige DOC – Franz Haas – Alto-Adige (IT) – 25
 description: 100% Moscato rosa | Torta allo yogurt con lamponi – Torta Sacher – Cioccolato
 published: true
 date: 2021-10-01T19:55:26.461Z
-tags: Vinificazione | rosso, Vinificazione | varietale, Vinificazione | dolce, Valutazioni | 2 stelle, Regione | Alto-Adige (IT), Prezzi | 25-29€, Alimento | torta allo yogurt, Aromatizzazione | con lamponi, Alimento | Torta Sacher, Alimento | Cioccolato
+tags: 
 editor: markdown
 dateCreated: 2021-09-02T14:32:47.834Z
 ---

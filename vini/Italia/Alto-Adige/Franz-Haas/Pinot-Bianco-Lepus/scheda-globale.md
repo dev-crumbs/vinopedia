@@ -3,7 +3,7 @@ title: Pinot Bianco Lepus – Alto Adige DOC – Franz Haas – Alto-Adige (IT) 
 description: 100% Pinot Bianco Lepus Blanc | Spigola in crosta di sale
 published: true
 date: 2021-10-01T19:55:26.461Z
-tags: Vinificazione | bianco, Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 3 stelle, Regione | Alto-Adige (IT), Vitigni | Pinot Bianco, Prezzi | 20-24€, Alimento | spigola, Aromatizzazione | in crosta di sale
+tags: 
 editor: markdown
 dateCreated: 2021-09-02T14:32:47.834Z
 ---

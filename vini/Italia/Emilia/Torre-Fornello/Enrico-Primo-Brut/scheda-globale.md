@@ -3,7 +3,7 @@ title: Enrico Primo Brut – Vino Generico – Torre Fornello – Emilia (IT) �
 description: Chardonnay 100% | Carpaccio di salmone al pepe rosa – Coda di rospo gratinata
 published: true
 date: 2021-10-01T20:11:51.188Z
-tags: Vinificazione | bianco, Regione | Emilia (IT), Vinificazione | millesimato, Vinificazione | varietale, Vinificazione | spumante, Vinificazione | metodo classico, Vinificazione | brut, Valutazioni | 3 stelle, Vitigni | Chardonnay, Alimento | salmone, Cottura | carpaccio, Aromatizzazione | al pepe rosa, Prezzi | 15-19€, Alimento | coda di rospo, Aromatizzazione | gratinato
+tags: 
 editor: markdown
 dateCreated: 2021-09-02T14:33:13.149Z
 ---

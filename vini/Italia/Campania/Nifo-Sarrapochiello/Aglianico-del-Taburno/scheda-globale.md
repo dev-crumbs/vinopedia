@@ -3,7 +3,7 @@ title: Aglianico del Taburno – Aglianico del Taburno DOCG – Nifo Sarrapochie
 description: Aglianico 100% | Carrè di agnello alle erbe aromatiche
 published: true
 date: 2021-10-01T20:11:37.957Z
-tags: campania, Vinificazione | rosso, Vitigni | Aglianico, Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 5 stelle, Alimento | agnello, Aromatizzazione | alle erbe aromatiche, Prezzi | 10-14€
+tags: 
 editor: markdown
 dateCreated: 2021-09-28T19:38:01.494Z
 ---

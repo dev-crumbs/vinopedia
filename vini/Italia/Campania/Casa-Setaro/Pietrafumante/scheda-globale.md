@@ -3,7 +3,7 @@ title: Pietrafumante Brut – Vino generico – Casa Setaro – Campania (IT) �
 description: Caprettone 100% | Tartare di salmone avocado e lime
 published: true
 date: 2021-10-01T19:57:54.181Z
-tags: millesimato,Vinificazione | bianco, Vinificazione | varietale, spumante, metodo classico, Caprettone, brut, Tartare di salmone avocado e lime, Prezzi | 20-24€
+tags: 
 editor: markdown
 dateCreated: 2021-09-03T21:03:21.131Z
 ---

@@ -3,7 +3,7 @@ title: Permartina Vendemmia Tardiva – Colli Bolognesi DOC – Fattorie Vallona
 description: Grechetto gentile 80% + Riesling 20% | Fegato alla veneziana – Pecorino di fossa con marmellata d'arancia
 published: true
 date: 2021-10-01T20:11:45.882Z
-tags: Regione | Emilia (IT), Vinificazione | bianco, Vinificazione | blend, Vinificazione | fermo, Vitigni | Grechetto gentile, Vitigni | Riesling, Alimento | Fegato alla veneziana, Alimento | formaggi,  Aromatizzazione | con marmellata d'arancia, Valutazioni | 5 stelle, Prezzi | 10-14€
+tags: 
 editor: markdown
 dateCreated: 2021-08-31T15:46:06.033Z
 ---

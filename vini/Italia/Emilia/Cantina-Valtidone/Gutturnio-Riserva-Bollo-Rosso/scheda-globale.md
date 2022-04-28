@@ -3,7 +3,7 @@ title: Gutturnio Riserva Bollo Rosso – Gutturnio Riserva DOC – Cantina Valti
 description: Barbera 55% + Croatina 45% | Piccola di cavallo – Stracotto alla piacentina – Filetto ai ferri – Spezzatino di manzo con polenta – Fagiano alla mazzolara
 published: true
 date: 2021-10-01T20:11:51.188Z
-tags: Vinificazione | rosso, Regione | Emilia (IT), Vinificazione | blend, Vinificazione | fermo, Valutazioni | 4 stelle, Vitigni | Barbera, Vitigni | Croatina, Prezzi | 15-19€, Alimento | Cavallo, Cottura | piccola, Alimento | Stracotto alla piacentina, Alimento | manzo, Cottura | ai ferri, Cottura | spezzatino, Aromatizzazione | con polenta, Alimento | fagiano, Aromatizzazione | alla mazzolara
+tags: 
 editor: markdown
 dateCreated: 2021-09-02T14:33:13.149Z
 ---

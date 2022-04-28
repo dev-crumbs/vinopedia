@@ -3,7 +3,7 @@ title: Brunello di Montalcino Vigna Soccorso – Brunello di Montalcino DOCG –
 description: Sangiovese 100% | Cosciotto di cinghiale in salsa al vino e ginepro – Tacchino al cartoccio con mele e peperoni – Quaglie al tartufo – Germano reale al forno – Tagliata al tartufo – Cinghiale in agrodolce
 published: true
 date: 2021-10-01T20:00:52.685Z
-tags: Prezzi | 50-55€, Vinificazione | rosso, Regione | Toscana (IT), Vinificazione | varietale, Vitigni | Sangiovese, Alimento | cinghiale, Aromatizzazione | salsa al vino e ginepro, Alimento | tacchino, Cottura | al cartoccio, Aromatizzazione | con mele e peperoni, Alimento | quaglia, Aromatizzazione | al tartufo,  Alimento | germano reale, Cottura | al forno, Aromatizzazione | in agrodolce, Vinificazione | fermo, Valutazioni | 5 stelle, 
+tags: 
 editor: markdown
 dateCreated: 2021-08-27T17:49:50.429Z
 ---

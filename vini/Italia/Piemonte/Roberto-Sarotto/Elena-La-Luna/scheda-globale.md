@@ -3,7 +3,7 @@ title: Elena La Luna – Barbera d'Alba DOC – Roberto Sarotto – Piemonte (IT
 description: Barbera 100% | 
 published: true
 date: 2021-10-01T20:13:48.574Z
-tags: Vinificazione | rosso, Regione | Piemonte (IT), Vinificazione | varietale, Valutazioni | 5 stelle, Vitigni | Barbera, Prezzi | 40-44€
+tags: 
 editor: markdown
 dateCreated: 2021-09-02T14:34:11.884Z
 ---

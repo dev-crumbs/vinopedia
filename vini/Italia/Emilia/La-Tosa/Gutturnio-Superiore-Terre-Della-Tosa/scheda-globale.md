@@ -3,7 +3,7 @@ title: Gutturnio Superiore Terre Della Tosa – Gutturnio Superiore DOC – La T
 description: Barbera 65% + Croatina 35% | Tagliata di puledro al rosmarino
 published: true
 date: 2021-10-01T20:11:48.495Z
-tags: Vinificazione | rosso, Vinificazione | blend, Regione | Emilia (IT), Vinificazione | fermo, Valutazioni | 3 stelle, Vitigni | Barbera, Vitigni | Croatina, Alimento | cavallo, Aromatizzazione | al rosmarino, Prezzi | 10-14€
+tags: 
 editor: markdown
 dateCreated: 2021-09-03T21:02:59.390Z
 ---

@@ -3,7 +3,7 @@ title: Pignoletto Classico Ammestesso – Colli Bolognesi Classico Pignoletto DO
 description: Grechetto gentile 100% | Coniglio con carciofi e patate
 published: true
 date: 2021-10-01T20:11:45.882Z
-tags: Regione | Emilia (IT), Vinificazione | bianco, Vinificazione | varietale, Vinificazione | fermo, Vitigni | Grechetto gentile, Alimento | coniglio, Aromatizzazione | con carciofi e patate, Valutazioni | 4 stelle, Prezzi | 15-18€
+tags: 
 editor: markdown
 dateCreated: 2021-08-31T15:46:06.033Z
 ---

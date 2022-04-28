@@ -3,7 +3,7 @@ title: Rosignol Rosso – Veneto IGT – Pietro Zardini – Veneto (IT) – 15-1
 description: Corvina 70% + Molinara 20% + Rondinella 5% + Rossignola 5%
 published: true
 date: 2022-01-28T17:14:37.370Z
-tags: Vinificazione | rosso, Vinificazione | blend, Regione | Veneto (IT), Vinificazione | fermo, Prezzi | 15-19€, Vitigni | Corvina, Vitigni | Rondinella, Vitigni | Corvinone, Valutazioni | 3 stelle
+tags: 
 editor: markdown
 dateCreated: 2022-01-27T15:21:34.303Z
 ---

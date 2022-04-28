@@ -3,7 +3,7 @@ title: Merlot Affederico – Colli Bolognesi DOC – Fattorie Vallona – Emilia
 description: Merlot 25% | Cinghiale in umido con polenta
 published: true
 date: 2021-10-01T20:11:56.684Z
-tags: Regione | Emilia (IT), Vinificazione | rosso, Vinificazione | varietale, Vinificazione | fermo, Valutazioni | 5 stelle, Vitigni | Merlot, Prezzi | 15-19€, Alimento | cinghiale, Cottura | in umido, Aromatizzazione | con polenta
+tags: 
 editor: markdown
 dateCreated: 2021-09-07T16:16:38.527Z
 ---

@@ -3,7 +3,7 @@ title: Pignoletto Vivace – Pignoletto DOC – Fattorie Vallona – Emilia (IT)
 description: Grechetto gentile 100% 
 published: true
 date: 2021-10-01T20:11:45.882Z
-tags: Regione | Emilia (IT), Vinificazione | bianco, Vinificazione | varietale, Vinificazione | frizzante, Vitigni | Grechetto gentile, Valutazioni | 2 stelle, Prezzi | 5-9€
+tags: 
 ed2t-itor: markdown
 dateCreated: 2021-08-31T15:46:06.033Z
 ---
