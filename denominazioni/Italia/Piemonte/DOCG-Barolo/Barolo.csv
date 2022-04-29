@@ -15,7 +15,7 @@ Fratelli Alessandria,Barolo Del Comune Di Verduno,3.0,35-39,11,19,3,3,3,3,3,3,sv
 Gianfranco Alessandria,Barolo San Giovanni,4.8,65-69,89,80,5,5,5,4,5,5,sv,sv,sv,sv,sv,sv
 Gianfranco Alessandria,Barolo,3.7,45-49,26,34,4,4,3,4,4,3,sv,sv,sv,sv,sv,sv
 Arnaldo Rivera,Barolo Rocche Di Castiglione,3.0,65-69,8,7,3,3,3,3,sv,sv,sv,sv,sv,sv,sv,sv
-Arnaldo Rivera,Barolo Vignarionda,4.5,65-69,45,40,4,4,5,5,sv,sv,sv,sv,sv,sv,sv,sv
+Arnaldo Rivera,Barolo Vignarionda,4.5,65-69,44,40,4,4,5,5,sv,sv,sv,sv,sv,sv,sv,sv
 Arnaldo Rivera,Barolo Castello,3.0,45-49,8,10,3,3,3,3,sv,sv,sv,sv,sv,sv,sv,sv
 Arnaldo Rivera,Barolo Ravera,3.0,45-49,6,7,3,3,3,sv,sv,sv,sv,sv,sv,sv,sv,sv
 Arnaldo Rivera,Barolo Monvigliero,3.8,45-49,26,33,3,5,4,3,sv,sv,sv,sv,sv,sv,sv,sv
@@ -61,7 +61,7 @@ Boasso Gabutti,Barolo Gabutti,3.2,50-54,15,17,3,3,3,3,3,4,sv,sv,sv,sv,sv,sv
 Boasso Gabutti,Barolo Del Comune Di Serralunga,2.8,25-29,10,23,3,3,3,3,3,2,sv,sv,sv,sv,sv,sv
 Boasso Gabutti,Barolo Riserva Margheria,3.0,50-54,4,4,sv,sv,3,sv,3,sv,sv,sv,sv,sv,sv,sv
 Enzo Boglietti,Barolo Arione,4.7,85-89,78,54,5,5,4,5,5,4,sv,sv,sv,sv,sv,sv
-Enzo Boglietti,Barolo Fossati,3.7,65-69,34,30,5,3,3,4,4,3,sv,sv,sv,sv,sv,sv
+Enzo Boglietti,Barolo Fossati,3.7,65-69,33,30,5,3,3,4,4,3,sv,sv,sv,sv,sv,sv
 Enzo Boglietti,Barolo Brunate,4.3,85-89,56,39,4,4,5,4,4,5,sv,sv,sv,sv,sv,sv
 Enzo Boglietti,Barolo Boiolo,3.0,50-54,11,13,3,3,3,3,3,3,sv,sv,sv,sv,sv,sv
 Enzo Boglietti,Barolo Case Nere,3.3,85-89,19,13,3,4,3,3,3,4,sv,sv,sv,sv,sv,sv
@@ -137,7 +137,7 @@ Ceretto,Barolo Brunate,4.8,100-124,72,39,5,5,5,sv,4,5,sv,sv,sv,sv,sv,sv
 Ceretto,Barolo Prapò,4.2,100-124,46,25,4,5,4,5,3,sv,sv,sv,sv,sv,sv,sv
 Ceretto,Barolo Bussia,3.0,100-124,6,3,3,3,3,sv,sv,sv,sv,sv,sv,sv,sv,sv
 Ceretto,Barolo,3.2,50-54,13,15,sv,3,3,3,3,4,sv,sv,sv,sv,sv,sv
-Ceretto,Barolo Bricco Rocche,4.5,175-199,45,14,sv,sv,4,4,sv,5,5,sv,sv,sv,sv,sv
+Ceretto,Barolo Bricco Rocche,4.5,175-199,44,14,sv,sv,4,4,sv,5,5,sv,sv,sv,sv,sv
 Michele Chiarlo,Barolo Cerequio,3.8,70-74,39,33,5,3,3,sv,5,3,sv,sv,sv,sv,sv,sv
 Michele Chiarlo,Barolo Cannubi,3.8,70-74,32,27,4,3,5,sv,4,3,sv,sv,sv,sv,sv,sv
 Michele Chiarlo,Barolo Riserva Cerequio,4.0,125-149,19,8,sv,sv,sv,sv,5,sv,sv,3,sv,sv,sv,sv
@@ -151,7 +151,7 @@ Ciabot Berton,Barolo Del Comune Di La Morra,3.0,25-29,11,25,3,3,3,3,3,3,sv,sv,sv
 Ciabot Berton,Barolo Ciabot Berton 1961,3.0,35-39,11,19,sv,3,3,3,3,3,3,sv,sv,sv,sv,sv
 Ciabot Berton,Barolo Roggeri,3.0,40-44,11,16,sv,3,3,3,3,3,3,sv,sv,sv,sv,sv
 Ciabot Berton,Barolo Riserva Rocchettevino,3.0,75-79,2,1,sv,sv,sv,sv,sv,sv,sv,3,sv,sv,sv,sv
-Domenico Clerico,Barolo Ginestra Ciabot Mentin,4.7,75-79,95,74,5,4,4,5,5,5,5,sv,sv,sv,sv,sv
+Domenico Clerico,Barolo Ginestra Ciabot Mentin,4.7,75-79,94,74,5,4,4,5,5,5,5,sv,sv,sv,sv,sv
 Domenico Clerico,Barolo Del Comune Di Serralunga Aeroplan servaj,4.5,85-89,74,51,5,5,5,4,3,sv,5,sv,sv,sv,sv,sv
 Domenico Clerico,Barolo Percristina,4.3,175-199,28,9,sv,sv,sv,sv,sv,sv,sv,4,5,sv,sv,4
 Domenico Clerico,Barolo Ginestra Pajana,3.4,75-79,24,19,3,4,3,3,3,4,4,sv,sv,sv,sv,sv
@@ -252,13 +252,13 @@ Bruna Grimaldi,Barolo Riserva Badarina,3.7,75-79,20,16,sv,sv,sv,sv,sv,3,5,3,sv,s
 Giacomo Grimaldi,Barolo Ravera,4.5,50-54,22,26,5,4,sv,sv,sv,sv,sv,sv,sv,sv,sv,sv
 Giacomo Grimaldi,Barolo Sottocastello Di Novello,4.3,50-54,56,65,4,4,5,4,5,4,sv,sv,sv,sv,sv,sv
 Giacomo Grimaldi,Barolo,3.3,35-39,19,31,3,4,3,4,3,3,sv,sv,sv,sv,sv,sv
-Giacomo Grimaldi,Barolo Le Coste,4.5,54-59,45,48,sv,sv,4,5,4,5,sv,sv,sv,sv,sv,sv
+Giacomo Grimaldi,Barolo Le Coste,4.5,54-59,44,48,sv,sv,4,5,4,5,sv,sv,sv,sv,sv,sv
 Icardi,Barolo Riserva Serra,4.0,100-124,6,3,sv,sv,4,sv,sv,sv,sv,sv,sv,sv,sv,sv
 Icardi,Barolo Fossati,4.0,80-84,11,8,sv,4,4,sv,sv,sv,sv,sv,sv,sv,sv,sv
 Icardi,Barolo Parej,3.3,40-44,11,16,sv,3,4,sv,3,3,sv,sv,sv,sv,sv,sv
 Palladino,Barolo Ornato,4.0,45-49,41,53,5,4,4,4,4,3,sv,sv,sv,sv,sv,sv
 Palladino,Barolo Parafada,4.5,45-49,67,86,4,5,4,4,5,5,sv,sv,sv,sv,sv,sv
-Palladino,Barolo Riserva San Bernando,4.5,65-69,45,40,sv,sv,4,sv,5,5,sv,4,sv,sv,sv,sv
+Palladino,Barolo Riserva San Bernando,4.5,65-69,44,40,sv,sv,4,sv,5,5,sv,4,sv,sv,sv,sv
 Palladino,Barolo Del Comune Di Serralunga,3.0,35-39,11,19,3,3,3,3,3,3,sv,sv,sv,sv,sv,sv
 La Fusina,Barolo Perno,3.0,30-34,8,14,3,3,3,3,sv,sv,sv,sv,sv,sv,sv,sv
 La Spinetta,Barolo Vigneto Campè,4.5,125-149,67,29,5,4,4,5,5,4,sv,sv,sv,sv,sv,sv
@@ -285,7 +285,7 @@ Franco Maria Martinetti,Barolo Marasco,3.8,50-54,37,43,4,3,3,5,4,4,sv,sv,sv,sv,s
 Franco Maria Martinetti,Barolo Riserva Marasco,3.5,75-79,7,6,sv,sv,sv,sv,3,4,sv,sv,sv,sv,sv,sv
 Massolino - Vigna Rionda,Barolo Margheria,4.7,65-69,78,70,5,4,5,5,5,4,sv,sv,sv,sv,sv,sv
 Massolino - Vigna Rionda,Barolo Parafada,4.0,65-69,48,44,5,5,4,4,3,3,sv,sv,sv,sv,sv,sv
-Massolino - Vigna Rionda,Barolo Riserva Vigna Rionda ,5.0,100-124,100,54,5,5,5,5,5,5,sv,sv,sv,sv,sv,sv
+Massolino - Vigna Rionda,Barolo Riserva Vignarionda ,5.0,100-124,100,54,5,5,5,5,5,5,sv,sv,sv,sv,sv,sv
 Massolino - Vigna Rionda,Barolo Parussi,3.8,65-69,24,22,4,4,3,sv,4,4,sv,sv,sv,sv,sv,sv
 Massolino - Vigna Rionda,Barolo,3.2,35-39,15,25,3,3,3,3,4,3,sv,sv,sv,sv,sv,sv
 Casa Di E Mirafiore,Barolo Lazzarito,4.0,60-64,37,36,5,5,3,3,sv,sv,sv,sv,sv,sv,sv,sv
@@ -302,3 +302,14 @@ Monti,Barolo Bussia,3.0,55-59,4,4,3,sv,sv,3,sv,sv,sv,sv,sv,sv,sv,sv
 Monti,Barolo Bricco San Pietro,3.0,50-54,4,4,sv,3,3,sv,sv,sv,sv,sv,sv,sv,sv,sv
 Monti,Barolo Del Comune Di Monforte,3.3,40-44,9,13,sv,3,sv,sv,3,4,sv,sv,sv,sv,sv,sv
 Monti,Barolo Riserva Bussia,4.0,65-69,24,22,sv,sv,sv,sv,4,3,sv,5,sv,sv,sv,sv
+Angelo Negro E Figli,Barolo Del Comune Di Serralunga,3.0,40-44,9,14,3,3,3,3,3,sv,sv,sv,sv,sv,sv,sv
+Oddero,Barolo Brunate,3.4,95-99,24,15,5,3,3,sv,3,3,sv,sv,sv,sv,sv,sv
+Oddero,Barolo Riserva Vignarionda ,4.6,150-174,100,37,sv,sv,sv,5,4,5,4,sv,5,5,4,5
+Oddero,Barolo Rocche Di Castiglione,3.7,75-79,33,26,3,3,4,4,5,3,sv,sv,sv,sv,sv,sv
+Oddero,Barolo Riserva Bussia Vigna Mondoca,3.7,95-99,26,16,sv,sv,4,4,4,4,3,3,sv,sv,sv,sv
+Oddero,Barolo Villero,3.4,70-74,17,14,4,3,3,sv,3,4,sv,sv,sv,sv,sv,sv
+Oddero,Barolo,3.0,40-44,11,16,3,3,3,3,3,3,sv,sv,sv,sv,sv,sv
+Figli Di Luigi Oddero,Barolo Rocche Rivera,3.8,95-99,32,20,5,4,4,3,3,sv,sv,sv,sv,sv,sv,sv
+Figli Di Luigi Oddero,Barolo Vignarionda,4.8,125-149,72,32,sv,sv,5,5,5,5,sv,4,sv,sv,sv,sv
+Figli Di Luigi Oddero,Barolo,4.0,65-69,28,25,4,4,4,4,4,sv,sv,sv,sv,sv,sv,sv
+Figli Di Luigi Oddero,Barolo Specola,3.0,75-79,4,3,3,sv,sv,sv,sv,sv,3,sv,sv,sv,sv,sv
