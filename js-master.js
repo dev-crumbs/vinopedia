@@ -95,7 +95,6 @@ window.addEventListener("load", function() {
         denominazioneSummaryTable()
         denominazioneTableFilter()
         abbinamentiTree()
-        setTimeout(tableSort, 1000)
     }
     // cantina
     if (window.location.href.indexOf("/cantina") != -1) {

@@ -132,6 +132,6 @@ export function denominazioneSummaryTable(){
       const tempCheck = document.querySelector(".loader")
       if (tempCheck == null){return;} 
       document.querySelector(".loader-container").remove()
-    });
+    }).then(tableSort);
   })
 }
