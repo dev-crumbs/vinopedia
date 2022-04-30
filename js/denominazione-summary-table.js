@@ -1,3 +1,4 @@
+import {tableSort} from '/it/js/table-filter.js';
 export function denominazioneSummaryTable(){
   //checks
   const statisticheCheck = document.querySelector(".statistiche-denominazione")
