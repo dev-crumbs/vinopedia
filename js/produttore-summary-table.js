@@ -26,6 +26,9 @@ export function produttoreSummaryTable(){
       .attr('data-th', function (d) {
         return d.name;
       })
+      .attr('title', function (d) {
+          return d.value;
+        })
       .text(function (d) {
         return d.value;
       });

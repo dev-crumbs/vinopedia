@@ -146,9 +146,22 @@ table.produttore-table th:nth-child(2) {min-width: 110px; cursor:pointer}
   }
 }
 
-
 @media screen and (max-width: 599px) {
 
+  .denominazione-table td[data-th^='20']:not([title='sv']),.denominazione-table td[data-th^='19']:not([title='sv']) {
+     display: inline-flex;
+     width:50px;
+     text-align:center;
+     position:relative;
+     top:20px;
+     left:5px;
+     height:50px
+  }
+  .denominazione-table td[data-th^='20']:not([title='sv']):before,.denominazione-table td[data-th^='19']:not([title='sv']):before {
+     position:absolute;
+     top:-20px;
+     left:-4px
+  }
   .denominazione-table td[data-th="V Score"],.denominazione-table td[data-th="Q/P"]{
     text-align: right;
     position:relative;
@@ -279,20 +292,6 @@ table.produttore-table th:nth-child(2) {min-width: 110px; cursor:pointer}
     border: 0; 
     margin: 0 0px!important;
   }
-   td.star-table{
-     display: inline-flex;
-     width:50px;
-     text-align:center;
-     position:relative;
-     top:20px;
-     left:5px;
-     height:50px
-   }
-  td.star-table::before {
-    position:absolute;
-    top:-20px;
-    left:-4px
-  }
 }
 /* #endregion */
 
@@ -334,6 +333,22 @@ table.produttore-table th:nth-child(2) {min-width: 110px; cursor:pointer}
 /* #endregion SUMMARY TABLES ESPERIENZE*/
 
 /* #region SUMMARY TABLES ALL*/
+
+td[data-th^='20']:not([title='sv']),.denominazione-table td[data-th^='19']:not([title='sv']) {
+  font-style: normal;
+  font-variant: normal;
+  text-rendering: auto;
+  font-weight: bold
+}
+
+td[data-th^='20']:not([title='sv']):after,td[data-th^='19']:not([title='sv']):after {
+  font-family: "Font Awesome 5 Free";
+  font-weight: 900;
+  content: "\f005";
+  font-size:70%;
+  padding-bottom: 2px
+}  
+
 table.summary-table{
 width:90%;
 margin:auto
@@ -556,19 +571,6 @@ table.summary-table td:nth-child(1n+4) {text-align: right;}
   font-variant: normal;
   text-rendering: auto;
   font-family: "Font Awesome 5 Free"
-}
-.star-table{
-  font-style: normal;
-  font-variant: normal;
-  text-rendering: auto;
-  font-weight: bold
-}
-.star-table:after{
-  font-family: "Font Awesome 5 Free";
-  font-weight: 900;
-  content: "\f005";
-  font-size:70%;
-  padding-bottom: 2px
 }
 .star:before {
   font-weight: 900;

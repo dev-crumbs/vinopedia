@@ -85,11 +85,6 @@ export function denominazioneSummaryTable(){
               i.prepend(node)
         }
       });
-      // stars 100ms
-      const tdAll = el.querySelectorAll("td[data-th^='20']:not([title='sv']),td[data-th^='19']:not([title='sv'])")
-      for (const j of tdAll) {
-          j.classList.add("star-table")
-      }
       // add sorting filters
       const firstTh = el.querySelector('th:nth-child(1)');
         firstTh.setAttribute("scope","col");
