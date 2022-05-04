@@ -49,7 +49,7 @@ export function denominazioneSummaryTable(){
         .style("width", function (d) {
           return ((d.value*90)/100) + "%";
         })
-      //add €
+      //add € to filter
       rows.selectAll('td[data-th="Prezzo"]')
         .text(function (d) {
           const priceInterval = d.value.split("-")
@@ -57,6 +57,16 @@ export function denominazioneSummaryTable(){
           maxPriceArray.push(Number(priceInterval[1]))
           avgPriceArray.push(priceAvg)
           return d.value + "€";
+        });
+      //add V to filter 
+      rows.selectAll('td[data-th="V Score"]')
+        .text(function (d) {
+          return d.value + "V";
+        });
+      //add Q/P to filter  
+      rows.selectAll('td[data-th="Q/P"]')
+        .text(function (d) {
+          return d.value + "QP";
         });
       //avg calculations
       const sum = avgPriceArray.reduce((a, b) => a+b, 0);
@@ -68,7 +78,7 @@ export function denominazioneSummaryTable(){
         document.querySelector(".statistiche-denominazione li:nth-child(2) span").innerText = avgPrice.toFixed(0) + "€"
         document.querySelector(".statistiche-denominazione li:nth-child(3) span").innerText = Math.max(...maxPriceArray) + "€"
       }
-      //var startTime = performance.now()
+      var startTime = performance.now()
       //ext link 500ms
       const nomeAll = el.querySelectorAll("td[data-th='Vino']");
       nomeAll.forEach(i =>{
@@ -122,8 +132,8 @@ export function denominazioneSummaryTable(){
         }
       }
 
-      //var endTime = performance.now()
-      //console.log(`Call to doSomething took ${endTime - startTime} milliseconds`)
+      var endTime = performance.now()
+      console.log(`Call to doSomething took ${endTime - startTime} milliseconds`)
       //remove loader
       const tempCheck = document.querySelector(".loader")
       if (tempCheck == null){return;} 
