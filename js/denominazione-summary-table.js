@@ -59,15 +59,15 @@ export function denominazioneSummaryTable(){
           return d.value + "€";
         });
       //add V to filter 
-      rows.selectAll('td[data-th="V Score"]')
-        .text(function (d) {
-          return d.value + "V";
-        });
-      //add Q/P to filter  
-      rows.selectAll('td[data-th="Q/P"]')
-        .text(function (d) {
-          return d.value + "QP";
-        });
+      // rows.selectAll('td[data-th="V Score"]')
+      //   .text(function (d) {
+      //     return d.value + "V";
+      //   });
+      // //add Q/P to filter  
+      // rows.selectAll('td[data-th="Q/P"]')
+      //   .text(function (d) {
+      //     return d.value + "QP";
+      //   });
       //avg calculations
       const sum = avgPriceArray.reduce((a, b) => a+b, 0);
       const avg = (sum / avgPriceArray.length) || 0;
