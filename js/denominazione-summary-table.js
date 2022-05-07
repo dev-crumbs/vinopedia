@@ -3,9 +3,11 @@ export function denominazioneSummaryTable(){
   //checks
   const statisticheCheck = document.querySelector(".statistiche-denominazione")
   const denominazioneCheck = document.querySelector(".denominazioneTipo")
-  if (denominazioneCheck == null) {
+  const staticCheck = document.querySelector(".static")
+  if (denominazioneCheck == null) {}
+  if (staticCheck == null) {} else {
     setTimeout(tableSort, 1000)
-    console.log("static")
+    console.log("test")
   }
   var denominazione = document.querySelector(".denominazioneNome").innerText.replaceAll(' ', '-');
   var denominazioneTipo = document.querySelectorAll(".denominazioneTipo");
