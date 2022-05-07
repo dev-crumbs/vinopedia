@@ -3,7 +3,10 @@ export function denominazioneSummaryTable(){
   //checks
   const statisticheCheck = document.querySelector(".statistiche-denominazione")
   const denominazioneCheck = document.querySelector(".denominazioneTipo")
-  if (denominazioneCheck == null) {tableSort}
+  if (denominazioneCheck == null) {
+    setTimeout(tableSort, 1000)
+    console.log("static")
+  }
   var denominazione = document.querySelector(".denominazioneNome").innerText.replaceAll(' ', '-');
   var denominazioneTipo = document.querySelectorAll(".denominazioneTipo");
   var regione = document.querySelector(".denominazioneRegione").innerText
