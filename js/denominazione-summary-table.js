@@ -1,20 +1,37 @@
 import {tableSort} from '/it/js/table-filter.js';
 export function denominazioneSummaryTable(){
-  //checks
-  const statisticheCheck = document.querySelector(".statistiche-denominazione")
-  const denominazioneCheck = document.querySelector(".denominazioneTipo")
-  const staticCheck = document.querySelector(".static")
-  if (denominazioneCheck == null) {}
-  if (staticCheck == null) {} else {
-    setTimeout(tableSort, 1000)
-    console.log("test")
-  }
   var denominazione = document.querySelector(".denominazioneNome").innerText.replaceAll(' ', '-');
   var denominazioneTipo = document.querySelectorAll(".denominazioneTipo");
   var regione = document.querySelector(".denominazioneRegione").innerText
   var avgPriceArray = [];
   var maxPriceArray = [];
   var avgPrice = 0
+  //checks
+  const statisticheCheck = document.querySelector(".statistiche-denominazione")
+  const denominazioneCheck = document.querySelector(".denominazioneTipo")
+  const staticCheck = document.querySelector(".static")
+  if (denominazioneCheck == null) {}
+  if (staticCheck == null) {} else {
+    //setTimeout(function(){
+      const priceIntervalAll = document.querySelectorAll(".denominazione-table td[data-th='Prezzo']")
+      for (const i of priceIntervalAll) { 
+        const priceIntervalEUR = i.innerText.split("€")
+        const priceInterval = priceIntervalEUR[0].split("-")
+        const priceAvg = (Number(priceInterval[0])+Number(priceInterval[1]))/2
+        console.log(priceInterval[1])
+        maxPriceArray.push(Number(priceInterval[1]))
+        avgPriceArray.push(priceAvg)
+        const sum = avgPriceArray.reduce((a, b) => a+b, 0);
+        const avg = (sum / avgPriceArray.length) || 0;
+        avgPrice = avg
+      }
+      document.querySelector(".statistiche-denominazione li:nth-child(1) span").innerText = avgPriceArray.length
+      document.querySelector(".statistiche-denominazione li:nth-child(2) span").innerText = avgPrice.toFixed(0) + "€"
+      document.querySelector(".statistiche-denominazione li:nth-child(3) span").innerText = Math.max(...maxPriceArray) + "€"
+      //},1000)
+    setTimeout(tableSort, 1000)    
+    console.log("test")
+  }
   denominazioneTipo.forEach(el => {
     const denominazioneTipoNome = el.previousElementSibling.getAttribute('data-tn');
     const denominazioneTipoNomeL = denominazioneTipoNome.toLowerCase();
