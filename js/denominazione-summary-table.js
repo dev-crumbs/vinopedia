@@ -140,14 +140,8 @@ export function denominazioneSummaryTable(){
         sixTh.setAttribute("scope","col");
         sixTh.setAttribute("data-type","number");
         sixTh.classList.add("table__header");
-      //hide sv cells on mobile
-      if (window.innerWidth <= 600) {
-        for (const i of document.querySelectorAll("td")) {
-          if (i.textContent.includes("sv")) {
-            i.style.display = "none"
-          }
-        }
-      } else {
+      //title on th desktop
+      if (window.innerWidth >= 600) {
         const thAll = el.querySelectorAll("thead th");
         for (const i of thAll){
           i.setAttribute("title",i.innerText)
