@@ -131,10 +131,21 @@ export function denominazioneSummaryTable(){
       if (tempCheck == null){return;} 
       document.querySelector(".loader-container").remove()
       const dataTable = new simpleDatatables.DataTable(".denominazione-table", {
+        layout: {
+          top: "{search}",
+          bottom: "{pager}",
+        },
+        labels: {
+          placeholder: "Cerca nella tabella",
+          perPage: "{select} risultati per pagina",
+          noRows: "Nessun risultato corrispondente",
+          info: "{start} to {end} of {rows} entries",
+        },
     	searchable: true,
         columns: [
           { select: 3, type: "number"},
-        ]
+        ],
+        nextPrev: false
       })
     })
   })
