@@ -164,8 +164,10 @@ table.produttore-table th:nth-child(2) {min-width: 110px; cursor:pointer}
   .denominazione-table td[data-th^='20']:not([title='sv']),.denominazione-table td[data-th^='19']:not([title='sv']) {
      display: inline-flex;
      width:50px;
-     text-align: center;
-     position: relative;
+     text-align:
+     center;
+     position:
+     relative;
      top:20px;
      left:5px;
      height:50px
@@ -978,16 +980,16 @@ max-width: 350px
   border-radius: 5px;
   padding: 5px 0px;
 }
-
+.dataTable-pagination-list {
+  padding: 0px!important;
+  display: flex;
+  justify-content: center;
+  gap: 20px
+}
 .dataTable-container{
   overflow-x:auto;
   max-width:95%;
   margin: auto;
-}
-.dataTable-pagination-list {
-  padding: 0px!important;
-  display: flex;
-  justify-content: space-around;
 }
 .dataTable-pagination-list li:nth-child(1) {
   margin-top:8px!important
@@ -1017,6 +1019,12 @@ max-width: 350px
   background-color: #4caf50;
 }
 @media only screen and (max-width:599px) {
+  .dataTable-pagination-list {
+    padding: 0px!important;
+    display: flex;
+    justify-content: space-around;
+    gap: 0px;
+  }
   .dataTable-container{
     overflow-y:
     auto;
