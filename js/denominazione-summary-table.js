@@ -78,7 +78,7 @@ export function denominazioneSummaryTable(){
         .text(function (d) {
           const priceInterval = d.value.split("-")
           const priceAvg = (Number(priceInterval[0])+Number(priceInterval[1]))/2
-          maxPriceArray.push(Number(priceInterval[1]))
+          maxPriceArray.push(priceAvg)
           avgPriceArray.push(priceAvg)
           return(priceAvg.toFixed(0))
         });
@@ -100,7 +100,7 @@ export function denominazioneSummaryTable(){
       if (statisticheCheck == null) {} else {
         document.querySelector(".statistiche-denominazione li:nth-child(1) span").innerText = avgPriceArray.length
         document.querySelector(".statistiche-denominazione li:nth-child(2) span").innerText = avgPrice.toFixed(0) + "€"
-        document.querySelector(".statistiche-denominazione li:nth-child(3) span").innerText = Math.max(...maxPriceArray) + "€"
+        document.querySelector(".statistiche-denominazione li:nth-child(3) span").innerText = Math.max(...maxPriceArray).toFixed(0) + "€"
       }
       var startTime = performance.now()
       //ext link 500ms
