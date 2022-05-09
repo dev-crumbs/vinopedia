@@ -7,7 +7,7 @@ export function schedaSingolaImport() {
     //page headline input
     const headlineFull = document.querySelector(".headline").innerText.split(' – ')
     const caption = document.querySelector(".is-page-header .caption").innerText
-    const breadcrumbRegion = document.querySelector(".v-breadcrumbs a:nth-of-type(3) span").innerText
+    var breadcrumbRegion = (window.innerWidth >= 600) ? document.querySelector(".v-breadcrumbs a:nth-of-type(3) span").innerText : document.querySelector("div.v-list.primary > div:nth-child(4) > div.v-list-item__title").innerHTML   
     d3.text(`/vini/${breadcrumbRegion}.csv`).then(function(data) {
         const csv = d3.csvParse(data);
         const filterCSV = function(d) {
