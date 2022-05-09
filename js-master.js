@@ -13,6 +13,7 @@ import {schedaSingolaImport} from './it/js/scheda-singola-import.js';
 import {sentoreCheck} from './it/js/listone-olfattivo.js';
 import {esperienzeImport} from './it/js/esperienze-import.js';
 import {abbinamentiTree} from './it/js/abbinamenti.js';
+import {paginate} from './it/js/paginate.min.js';
 
 window.addEventListener("load", function() {
     // custom label for search field
@@ -93,8 +94,8 @@ window.addEventListener("load", function() {
     // denominazione table
     if (window.location.href.indexOf("/denominazioni/") != -1) {
         denominazioneSummaryTable()
-        denominazioneTableFilter()
         abbinamentiTree()
+        paginate()
     }
     // cantina
     if (window.location.href.indexOf("/cantina") != -1) {

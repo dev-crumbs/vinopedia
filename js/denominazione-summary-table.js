@@ -1,4 +1,3 @@
-import {tableSort} from '/it/js/table-filter.js';
 export function denominazioneSummaryTable(){
   var denominazione = document.querySelector(".denominazioneNome").innerText.replaceAll(' ', '-');
   var denominazioneTipo = document.querySelectorAll(".denominazioneTipo");
@@ -29,8 +28,6 @@ export function denominazioneSummaryTable(){
       document.querySelector(".statistiche-denominazione li:nth-child(2) span").innerText = avgPrice.toFixed(0) + "€"
       document.querySelector(".statistiche-denominazione li:nth-child(3) span").innerText = Math.max(...maxPriceArray) + "€"
       //},1000)
-    setTimeout(tableSort, 1000)    
-    console.log("test")
   }
   denominazioneTipo.forEach(el => {
     const denominazioneTipoNome = el.previousElementSibling.getAttribute('data-tn');
@@ -154,6 +151,8 @@ export function denominazioneSummaryTable(){
       const tempCheck = document.querySelector(".loader")
       if (tempCheck == null){return;} 
       document.querySelector(".loader-container").remove()
-    }).then(tableSort);
+    }).then(
+      paginate.init('.denominazioneTable')
+    );
   })
 }
