@@ -1032,12 +1032,6 @@ max-width: 350px
   .dataTable-input {
     text-align: center
   }
-  .search-results .dataTable-container {
-    max-width: 96%;
-  }
-  .search-results .dataTable-container .dataTable-table{
-    padding: 0px 7px;
-  }
 }
 
 /* #endregion */
