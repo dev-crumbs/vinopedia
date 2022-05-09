@@ -1021,6 +1021,7 @@ max-width: 350px
     overflow-y:
     auto;
     max-height: 80%;
+    max-width: 100%;
   }
   .dataTable-dropdown{
     background-color:white
@@ -1030,6 +1031,12 @@ max-width: 350px
   }
   .dataTable-input {
     text-align: center
+  }
+  .search-results .dataTable-container {
+    max-width: 90%;
+  }
+  .search-results .dataTable-container .dataTable-table{
+    padding: 0px 7px;
   }
 }
 
