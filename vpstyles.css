@@ -146,7 +146,7 @@ table.produttore-table th:nth-child(2) {min-width: 110px; cursor:pointer}
   }
   .denominazione-table th[title="Q/P"]{
     min-width: 93px;
-    text-align: center;
+    text-align: left;
   }
 }
 
@@ -159,7 +159,7 @@ table.produttore-table th:nth-child(2) {min-width: 110px; cursor:pointer}
   }
   .denominazione-table th[title="V Score"]{
     min-width: max-content;
-    text-align: center;
+    text-align: left;
   }
   .denominazione-table td[data-th^='20']:not([title='sv']),.denominazione-table td[data-th^='19']:not([title='sv']) {
      display: inline-flex;
