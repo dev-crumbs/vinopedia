@@ -16,7 +16,7 @@ export function denominazioneSummaryTable(){
       for (const i of priceIntervalAll) { 
         const priceIntervalEUR = i.innerText.split("€")
         const priceInterval = priceIntervalEUR[0].split("-")
-        const priceAvg = (Number(priceInterval[0])+Number(priceInterval[1]))/2
+        const priceAvg = ((Number(priceInterval[0])+Number(priceInterval[1]))/2).toFixed(0)
         console.log(priceInterval[1])
         maxPriceArray.push(Number(priceInterval[1]))
         avgPriceArray.push(priceAvg)
@@ -35,7 +35,7 @@ export function denominazioneSummaryTable(){
     d3.text(`${denominazione}/${denominazioneTipoNome}.csv`).then( function(data) {
       var sortAscending = true;
       var csv = d3.csvParse(data), allheaders = d3.csvParseRows(data)[0],
-      table = d3.select(`[data-tn="${denominazioneTipoNome}"] + .denominazioneTipo div.table-container`).append('table').attr('class','sort denominazione-table');
+      table = d3.select(`[data-tn="${denominazioneTipoNome}"] + .denominazioneTipo div.table-container`).append('table').attr('class','sort denominazione-table').attr('id','testF');
           var titles = Object.keys(data[0]);
           var headers = table.append('thead').append('tr')
                       .selectAll('th')
@@ -44,7 +44,7 @@ export function denominazioneSummaryTable(){
                       .text(function (d) {
                           return d;
                         })
-      var rows = table.append('tbody').selectAll('tr')
+      var rows = table.append('tbody').attr('class','list').selectAll('tr')
                   .data(csv).enter()
                   .append('tr');
       rows.selectAll('td')
@@ -70,12 +70,15 @@ export function denominazioneSummaryTable(){
         })
       //add € to filter
       rows.selectAll('td[data-th="Prezzo"]')
+        .attr('avg',function(d){
+          return d.value + "€";
+        })
         .text(function (d) {
           const priceInterval = d.value.split("-")
           const priceAvg = (Number(priceInterval[0])+Number(priceInterval[1]))/2
           maxPriceArray.push(Number(priceInterval[1]))
           avgPriceArray.push(priceAvg)
-          return d.value + "€";
+          return(priceAvg.toFixed(0))
         });
       //add V to filter 
       // rows.selectAll('td[data-th="V Score"]')
@@ -114,29 +117,6 @@ export function denominazioneSummaryTable(){
               i.prepend(node)
         }
       });
-      // add sorting filters
-      const firstTh = el.querySelector('th:nth-child(1)');
-        firstTh.setAttribute("scope","col");
-        firstTh.classList.add("table__header");
-      const secondTh = el.querySelector('th:nth-child(2)');
-        secondTh.setAttribute("scope","col");
-        secondTh.classList.add("table__header");
-      const thirdTh = el.querySelector('th:nth-child(3)');
-        thirdTh.setAttribute("scope","col");
-        thirdTh.classList.add("table__header");
-      const fourthTh = el.querySelector('th:nth-child(4)');
-        fourthTh.setAttribute("scope","col");
-        fourthTh.classList.add("table__header");
-        fourthTh.setAttribute("data-type","number");
-        fourthTh.classList.add("table__header");
-      const fifthTh = el.querySelector('th:nth-child(5)');
-        fifthTh.setAttribute("scope","col");
-        fifthTh.setAttribute("data-type","number");
-        fifthTh.classList.add("table__header");
-      const sixTh = el.querySelector('th:nth-child(6)');
-        sixTh.setAttribute("scope","col");
-        sixTh.setAttribute("data-type","number");
-        sixTh.classList.add("table__header");
       //title on th desktop
       if (window.innerWidth >= 600) {
         const thAll = el.querySelectorAll("thead th");
@@ -144,13 +124,18 @@ export function denominazioneSummaryTable(){
           i.setAttribute("title",i.innerText)
         }
       }
-
       var endTime = performance.now()
       console.log(`Call to doSomething took ${endTime - startTime} milliseconds`)
       //remove loader
       const tempCheck = document.querySelector(".loader")
       if (tempCheck == null){return;} 
       document.querySelector(".loader-container").remove()
+      const dataTable = new simpleDatatables.DataTable("#testF", {
+    	searchable: true,
+        columns: [
+          { select: 3, type: "number"},
+        ]
+      })
     })
   })
 }
