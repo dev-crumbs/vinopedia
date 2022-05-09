@@ -35,7 +35,7 @@ export function denominazioneSummaryTable(){
     d3.text(`${denominazione}/${denominazioneTipoNome}.csv`).then( function(data) {
       var sortAscending = true;
       var csv = d3.csvParse(data), allheaders = d3.csvParseRows(data)[0],
-      table = d3.select(`[data-tn="${denominazioneTipoNome}"] + .denominazioneTipo div.table-container`).append('table').attr('class','sort denominazione-table').attr('id','testF');
+      table = d3.select(`[data-tn="${denominazioneTipoNome}"] + .denominazioneTipo div.table-container`).append('table').attr('class','sort denominazione-table');
           var titles = Object.keys(data[0]);
           var headers = table.append('thead').append('tr')
                       .selectAll('th')
@@ -130,7 +130,7 @@ export function denominazioneSummaryTable(){
       const tempCheck = document.querySelector(".loader")
       if (tempCheck == null){return;} 
       document.querySelector(".loader-container").remove()
-      const dataTable = new simpleDatatables.DataTable("#testF", {
+      const dataTable = new simpleDatatables.DataTable(".denominazione-table", {
     	searchable: true,
         columns: [
           { select: 3, type: "number"},
