@@ -149,6 +149,8 @@ export function denominazioneSummaryTable(){
     	searchable: true,
         columns: [
           { select: 3, type: "number"},
+          { select: 4, type: "number"},
+          { select: 5, type: "number", sort: "desc"},
         ],
         nextPrev: false
       })
