@@ -1,3 +1,5 @@
+import {tableSort} from '/it/js/table-filter.js';
+import {denominazioneTableFilter} from '/it/js/table-filter.js';
 export function denominazioneSummaryTable(){
   var denominazione = document.querySelector(".denominazioneNome").innerText.replaceAll(' ', '-');
   var denominazioneTipo = document.querySelectorAll(".denominazioneTipo");
@@ -128,7 +130,10 @@ export function denominazioneSummaryTable(){
       console.log(`Call to doSomething took ${endTime - startTime} milliseconds`)
       //remove loader
       const tempCheck = document.querySelector(".loader")
-      if (tempCheck == null){return;} 
+      if (tempCheck == null){
+        denominazioneTableFilter()
+        setTimeout(tableSort, 1000)
+        return;} 
       document.querySelector(".loader-container").remove()
       const dataTable = new simpleDatatables.DataTable(".denominazione-table", {
         layout: {
