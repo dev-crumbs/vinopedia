@@ -66,7 +66,7 @@ export function denominazioneSummaryTable(){
           return d.value;
         });
       //add widths for bars
-      rows.selectAll('td[data-th="V Score"], td[data-th="Q/P"]')
+      rows.selectAll('td[data-th="VScore"], td[data-th="QP"]')
         .style("width", function (d) {
           return ((d.value*90)/100) + "%";
         })
@@ -83,12 +83,12 @@ export function denominazioneSummaryTable(){
           return(priceAvg.toFixed(0))
         });
       //add V to filter 
-      // rows.selectAll('td[data-th="V Score"]')
+      // rows.selectAll('td[data-th="VScore"]')
       //   .text(function (d) {
       //     return d.value + "V";
       //   });
-      // //add Q/P to filter  
-      // rows.selectAll('td[data-th="Q/P"]')
+      // //add QP to filter  
+      // rows.selectAll('td[data-th="QP"]')
       //   .text(function (d) {
       //     return d.value + "QP";
       //   });

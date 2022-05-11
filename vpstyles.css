@@ -115,11 +115,11 @@ table.produttore-table th:nth-child(2) {min-width: 110px; cursor:pointer}
     position:sticky;
     left:430px
   }
-    .denominazione-table td[data-th="V Score"],.denominazione-table td[data-th="Q/P"]{
+    .denominazione-table td[data-th="VScore"],.denominazione-table td[data-th=" QP"]{
     color: transparent;
     text-align: left;
   }
-  .denominazione-table td[data-th="V Score"]:after,.denominazione-table td[data-th="Q/P"]:after{
+  .denominazione-table td[data-th="VScore"]:after,.denominazione-table td[data-th=" QP"]:after{
     position: absolute;
     background: repeating-linear-gradient(
       -45deg,
@@ -135,7 +135,7 @@ table.produttore-table th:nth-child(2) {min-width: 110px; cursor:pointer}
     border-radius:2px;
     box-shadow: 1px 1px 1px rgba(0,0,0,0.5)
   }
-  .denominazione-table td[data-th="Q/P"]:after{
+  .denominazione-table td[data-th=" QP"]:after{
     background: repeating-linear-gradient(
     -45deg,
     #a4d7a6,
@@ -144,7 +144,7 @@ table.produttore-table th:nth-child(2) {min-width: 110px; cursor:pointer}
     #4caf50 20px
     );
   }
-  .denominazione-table th[title="Q/P"]{
+  .denominazione-table th[title=" QP"]{
     min-width: 93px;
     text-align: left;
   }
@@ -157,7 +157,7 @@ table.produttore-table th:nth-child(2) {min-width: 110px; cursor:pointer}
   .denominazione-table td[title="sv"]{
     display:none
   }
-  .denominazione-table th[title="V Score"]{
+  .denominazione-table th[title="VScore"]{
     min-width: max-content;
     text-align: left;
   }
@@ -177,7 +177,7 @@ table.produttore-table th:nth-child(2) {min-width: 110px; cursor:pointer}
      top:-20px;
      left:-4px
   }
-  .denominazione-table td[data-th="V Score"],.denominazione-table td[data-th="Q/P"]{
+  .denominazione-table td[data-th="VScore"],.denominazione-table td[data-th=" QP"]{
     text-align: right;
     position:relative;
   }
@@ -197,7 +197,7 @@ table.produttore-table th:nth-child(2) {min-width: 110px; cursor:pointer}
     right: 0px;
   }
 
-  .denominazione-table td[data-th="V Score"]:before,.denominazione-table td[data-th="Q/P"]:before{
+  .denominazione-table td[data-th="VScore"]:before,.denominazione-table td[data-th=" QP"]:before{
     position: absolute;
     content: '';
     background: repeating-linear-gradient(
@@ -216,7 +216,7 @@ table.produttore-table th:nth-child(2) {min-width: 110px; cursor:pointer}
     box-shadow: 1px 1px 1px rgba(0,0,0,0.5);
     color: transparent;
   }
-  .denominazione-table td[data-th="Q/P"]:before{
+  .denominazione-table td[data-th=" QP"]:before{
     background: repeating-linear-gradient(
     -45deg,
     #a4d7a6,
@@ -225,9 +225,9 @@ table.produttore-table th:nth-child(2) {min-width: 110px; cursor:pointer}
     #4caf50 20px
     );
   }
-  .denominazione-table td[data-th="V Score"]:after{
+  .denominazione-table td[data-th="VScore"]:after{
     position:absolute;
-    content: 'V Score';
+    content: 'VScore';
     font-weight: normal;
     text-align:right;
     left: 4px;
@@ -235,9 +235,9 @@ table.produttore-table th:nth-child(2) {min-width: 110px; cursor:pointer}
     color: #424242;
     text-shadow: 3px 3px 4px white,-3px -3px 4px white,-3px 3px 4px white,3px -3px 4px white;
   }
-  .denominazione-table td[data-th="Q/P"]:after{
+  .denominazione-table td[data-th=" QP"]:after{
     position:absolute;
-    content: 'Q/P';
+    content: ' QP';
     font-weight: normal;
     text-align:right;
     left: 4px;
@@ -246,7 +246,7 @@ table.produttore-table th:nth-child(2) {min-width: 110px; cursor:pointer}
     text-shadow: 3px 3px 4px white,-3px -3px 4px white,-3px 3px 4px white,3px -3px 4px white;
   }
 
-  .denominazione-table td[data-th="V Score"],.denominazione-table td[data-th="Q/P"]{
+  .denominazione-table td[data-th="VScore"],.denominazione-table td[data-th=" QP"]{
     min-width:100%
   }
 
