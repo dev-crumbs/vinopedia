@@ -42,7 +42,7 @@ export function schedaGlobaleImport() {
       d3.select('h1').append().text(nomeCSV)
       d3.select('.caratteristiche li:nth-child(1)').append().text(" " + nomeCSV)
       d3.select('.caratteristiche li:nth-child(2)').append().text(" " + tipoCSV)
-      d3.select('.caratteristiche li:nth-child(3)').append().html(` <a href="/denominazioni/${nazioneCSV}/${regioneCSV}/${classificazioneCSV}-${denominazioneCSV.replaceAll(' ', '-')}">${denominazioneCSV} ${classificazioneCSV}</a> | ${menzioniCSV}`)
+      d3.select('.caratteristiche li:nth-child(3)').append().html(` <a href="/denominazioni/${nazioneCSV}/${regioneCSV}/${classificazioneCSV}-${denominazioneCSV.replaceAll(' ', '-')}">${classificazioneCSV} ${denominazioneCSV} </a> | ${menzioniCSV}`)
       d3.select('.caratteristiche li:nth-child(4)').append().html(` <a href="/produttori/${nazioneCSV}/${regioneCSV}/${produttoreCSV.replaceAll("' ", '-').replaceAll(' ', '-')}">${produttoreCSV}</a>`)
       for (const i of composizioneArray) {
         const cleanVitigno = i.split(/( \d+)/)[0].replaceAll(' ', '-').replaceAll("'", "-").toLowerCase()
@@ -83,6 +83,15 @@ export function schedaGlobaleImport() {
       if (listCheck == null){return;} else {
         document.querySelector("div[role='list'] .v-list-item__title").innerText = headlineFull[0]
       }
-
   });
+  d3.text(`/denominazioni/${nazioneCSV}/${regioneCSV}/${classificazioneCSV}-${denominazioneCSV.replaceAll(' ', '-')}/${classificazioneCSV}-${denominazioneCSV.replaceAll(' ', '-')}.csv`).then(function(data) {
+    const csv = d3.csvParse(data);
+    const filterInDen = function(d) {return d.Vino == headlineFull[0] && d.Produttore == headlineFull[2].replaceAll('é', 'e')}
+    // retrieve qp and v
+    const VScore = csv.filter(filterInDen)[0].VScore;
+    const QP = csv.filter(filterInDen)[0].QP;
+
+    d3.select('.vscore').append().text(" " + VScore)
+    d3.select('.qp').append().text(" " + QP)
+  })
 }

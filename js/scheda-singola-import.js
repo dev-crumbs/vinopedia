@@ -7,7 +7,8 @@ export function schedaSingolaImport() {
     //page headline input
     const headlineFull = document.querySelector(".headline").innerText.split(' – ')
     const caption = document.querySelector(".is-page-header .caption").innerText
-    var breadcrumbRegion = (window.innerWidth >= 600) ? document.querySelector(".v-breadcrumbs a:nth-of-type(3) span").innerText : document.querySelector("div.v-list.primary > div:nth-child(4) > div.v-list-item__title").innerHTML   
+    var breadcrumbRegion = (window.innerWidth >= 600) ? document.querySelector(".v-breadcrumbs a:nth-of-type(3) span").innerText : document.querySelector("div.v-list.primary > div:nth-child(4) > div.v-list-item__title").innerHTML
+    
     d3.text(`/vini/${breadcrumbRegion}.csv`).then(function(data) {
         const csv = d3.csvParse(data);
         const filterCSV = function(d) {
@@ -40,7 +41,7 @@ export function schedaSingolaImport() {
         d3.select('h1').append().text(nomeCSV)
         d3.select('.caratteristiche li:nth-child(1)').append().text(" " + nomeCSV)
         d3.select('.caratteristiche li:nth-child(2)').append().text(" " + tipoCSV)
-        d3.select('.caratteristiche li:nth-child(3)').append().html(` <a href="/denominazioni/${nazioneCSV}/${regioneCSV}/${classificazioneCSV}-${denominazioneCSV.replaceAll(' ', '-')}">${denominazioneCSV} ${classificazioneCSV}</a> | ${menzioniCSV}`)
+        d3.select('.caratteristiche li:nth-child(3)').append().html(` <a href="/denominazioni/${nazioneCSV}/${regioneCSV}/${classificazioneCSV}-${denominazioneCSV.replaceAll(' ', '-')}">${classificazioneCSV} ${denominazioneCSV}</a> | ${menzioniCSV}`)
         d3.select('.caratteristiche li:nth-child(4)').append().html(` <a href="/produttori/${nazioneCSV}/${regioneCSV}/${produttoreCSV.replaceAll("' ", '-').replaceAll(' ', '-')}">${produttoreCSV}</a>`)
         for (const i of composizioneArray) {
             const cleanVitigno = i.split(/( \d+)/)[0].replaceAll(' ', '-').replaceAll("'", "-").toLowerCase()
