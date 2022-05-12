@@ -1,8 +1,8 @@
 ---
-title: Minutolo
+title: Montù
 description: Vitigno | varietà emiliano-romagnola resistente alle malattie che prende il nome dalla famiglia che l'ha salvata
 published: true
-date: 2022-05-12T06:43:54.156Z
+date: 2022-05-12T06:46:47.211Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-12T06:43:54.156Z
