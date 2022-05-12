@@ -2,7 +2,7 @@
 title: Mantonico bianco
 description: Vitigno | Vitigno minore calabrese
 published: true
-date: 2022-05-12T06:57:25.320Z
+date: 2022-05-12T06:57:32.459Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-12T06:56:55.758Z
@@ -14,7 +14,7 @@ dateCreated: 2022-05-12T06:56:55.758Z
 Bianca
 
 ## Sinonimi
-Mantonico Pizzutella *, Mantonacu Viru della Locride, Mantonico Vero
+Mantonico Pizzutella, Mantonacu Viru della Locride, Mantonico Vero
 
 ## Omonimi
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
