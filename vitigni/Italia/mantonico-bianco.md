@@ -2,7 +2,7 @@
 title: Mantonico bianco
 description: Vitigno | Vitigno minore calabrese
 published: true
-date: 2022-05-12T06:56:55.758Z
+date: 2022-05-12T06:57:25.320Z
 tags: 
 editor: markdown
 dateCreated: 2022-05-12T06:56:55.758Z
@@ -20,7 +20,7 @@ Mantonico Pizzutella *, Mantonacu Viru della Locride, Mantonico Vero
 > Si dicono omonimi due vitigni geneticamente differenti ma che erano considerati identici prima dell'avvento dell'analisi genetica
 {.is-info}
 
-[Montonico bianco](/vitigni/Italia/montonico-bianco) [Guardavalle]((/vitigni/Italia/guardavalle) (Cosenza)
+[Montonico bianco](/vitigni/Italia/montonico-bianco) [Guardavalle](/vitigni/Italia/guardavalle) (Cosenza)
 
 
 ## Origini e parentele
