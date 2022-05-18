@@ -145,7 +145,7 @@ table.produttore-table th:nth-child(2) {min-width: 110px; cursor:pointer}
     );
   }
   .denominazione-table th[title="QP"]{
-    min-width: 73px;
+    min-width: 93px;
     text-align: left;
   }
 }
