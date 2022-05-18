@@ -4,13 +4,6 @@ Ancarani,Romagna Sangiovese Superiore Biagio Antico,2.8,10-14,16,23,sv,3,3,2,3,3
 Ancarani,Romagna Sangiovese Oriolo,3.0,10-14,6,9,sv,sv,sv,sv,3,3,sv,sv,sv,sv
 Balia Di Zola,Romagna Sangiovese Modigliana Riserva Redinoce,3.2,15-19,24,25,sv,sv,3,3,3,3,3,4,sv,sv
 Balia Di Zola,Romagna Sangiovese Superiore Balitore,2.5,10-14,12,18,3,3,3,2,2,2,sv,sv,sv,sv
-Stefano Berti,Romagna Sangiovese Predappio Riserva Calisto,4.6,15-19,97,100,sv,sv,5,sv,4,4,5,sv,5,sv
-Stefano Berti,Romagna Sangiovese Predappio Ravaldo,3.0,10-14,15,22,sv,3,3,3,3,3,sv,sv,sv,sv
-Stefano Berti,Romagna Sangiovese Bartimeo,2.7,5-9,7,18,sv,2,sv,3,3,sv,sv,sv,sv,sv
-Stefano Berti,Romagna Sangiovese Superiore Nonà,2.5,5-9,4,10,sv,sv,2,sv,3,sv,sv,sv,sv,sv
-Raffaella Bissoni,Romagna Sangiovese Superiore Riserva Bissoni,3.0,20-24,9,7,sv,sv,3,sv,3,3,sv,sv,sv,sv
-Raffaella Bissoni,Romagna Sangiovese Bertinoro Girapoggio,3.0,20-24,18,14,sv,3,3,3,3,3,3,sv,sv,sv
-Raffaella Bissoni,Romagna Sangiovese Bertinoro Riserva Vigna Colecchio,3.0,35-39,12,6,sv,sv,sv,sv,3,3,sv,3,3,sv
 Branchini,Romagna Sangiovese Superiore Contragrande,2.7,5-9,7,18,sv,2,3,sv,sv,3,sv,sv,sv,sv
 Branchini,Romagna Sangiovese Riserva Cardinala,2.7,15-19,7,7,sv,sv,sv,sv,sv,sv,sv,3,3,2
 Branchini,Romagna Sangiovese Superiore Cardinala Nuova,3.7,10-14,21,30,sv,sv,sv,sv,sv,4,4,3,sv,sv
@@ -20,7 +13,7 @@ Braschi,Romagna Sangiovese Bertinoro Riserva Il Costone,2.8,15-19,10,10,sv,sv,sv
 Braschi,Romagna Sangiovese Monte Sasso,2.0,10-14,1,1,sv,sv,sv,2,sv,sv,sv,sv,sv,sv
 Braschi,Romagna Sangiovese Superiore Il Gelso,2.7,10-14,7,10,sv,sv,sv,3,3,2,sv,sv,sv,sv
 Braschi,Romagna Sangiovese Monte Sasso,3.0,10-14,16,23,sv,sv,sv,2,4,3,3,sv,sv,sv
-Braschi,Romagna Sangiovese Riserva Monte Sasso,1.0,10-14,0,0,sv,sv,sv,1,sv,sv,sv,sv,sv,sv
+Braschi,Romagna Sangiovese Riserva Monte Sasso,1.0,10-14,1,1,sv,sv,sv,1,sv,sv,sv,sv,sv,sv
 Calonga,Romagna Sangiovese Superiore Il Bruno,3.0,10-14,6,9,3,sv,3,sv,sv,sv,sv,sv,sv,sv
 Calonga,Romagna Sangiovese Superiore Leggiolo,2.7,10-14,7,10,sv,sv,sv,2,3,3,sv,sv,sv,sv
 Calonga,Romagna Sangiovese Riserva Michelongiolo,3.7,15-19,32,33,sv,sv,sv,sv,5,3,sv,sv,3,sv
@@ -29,8 +22,9 @@ Castelluccio,Romagna Sangiovese Superiore Le More,2.0,10-14,7,10,3,2,2,2,2,1,sv,
 Celli,Romagna Sangiovese Superiore Le Grillaie,2.5,5-9,12,30,3,3,2,3,2,2,sv,sv,sv,sv
 Celli,Romagna Sangiovese Bertinoro Riserva Bron E Bruseval,3.0,15-19,15,15,sv,sv,3,3,3,3,3,sv,sv,sv
 Celli,Romagna Sangiovese Superiore Riserva Le Grillaie,2.3,5-9,10,25,sv,sv,3,3,2,2,2,2,sv,sv
-Umberto Cesari,Romagna Sangiovese Riserva Laurento,2.6,10-14,11,16,sv,sv,3,sv,3,3,2,2,sv,sv
-Umberto Cesari,Romagna Sangiovese Riserva,2.0,10-14,2,3,sv,sv,sv,sv,sv,sv,2,2,sv,sv
+Chiara Condello,Romagna Sangiovese Predappio Riserva Le Lucciole,4.8,50-54,88,30,sv,sv,5,5,5,4,sv,sv,sv,sv
+Chiara Condello,Romagna Sangiovese Predappio Tre Vigne,2.0,15-19,1,1,sv,2,sv,sv,sv,sv,sv,sv,sv,sv
+Chiara Condello,Romagna Sangiovese Predappio Chiara Condello,3.3,15-19,15,15,sv,sv,4,3,3,sv,sv,sv,sv,sv
 Collina,Romagna Sangiovese Superiore Rio Paglia,2.5,10-14,4,6,3,2,sv,sv,sv,sv,sv,sv,sv,sv
 Colombarda,Romagna Sangiovese Superiore,2.0,10-14,1,1,2,sv,sv,sv,sv,sv,sv,sv,sv,sv
 Condè,Romagna Sangiovese Predappio Riserva Raggio Brusa,4.2,60-64,74,21,sv,sv,5,4,4,3,sv,5,sv,sv
@@ -40,9 +34,6 @@ Condè,Romagna Sangiovese Superiore Condè,3.3,10-14,15,22,sv,3,sv,sv,4,3,sv,sv,
 Condè,Romagna Sangiovese Superiore Riserva Condè,4.0,30-34,9,5,sv,sv,sv,sv,sv,4,sv,sv,sv,sv
 Condè,Romagna Sangiovese Predappio Riserva Condè,4.0,30-34,18,10,sv,sv,sv,sv,sv,sv,sv,4,4,sv
 Condè,Romagna Sangiovese Superiore Condè,2.0,10-14,3,4,sv,sv,sv,sv,sv,sv,sv,3,1,sv
-Chiara Condello,Romagna Sangiovese Predappio Riserva Le Lucciole,4.8,50-54,88,30,sv,sv,5,5,5,4,sv,sv,sv,sv
-Chiara Condello,Romagna Sangiovese Predappio Tre Vigne,2.0,15-19,1,1,sv,2,sv,sv,sv,sv,sv,sv,sv,sv
-Chiara Condello,Romagna Sangiovese Predappio Chiara Condello,3.3,15-19,15,15,sv,sv,4,3,3,sv,sv,sv,sv,sv
 Corte San Ruffillo,Romagna Sangiovese Superiore,3.0,15-19,3,3,sv,sv,3,sv,sv,sv,sv,sv,sv,sv
 Costa Archi,Romagna Sangiovese Serra Riserva Il Beneficio,5.0,15-19,26,27,sv,sv,sv,5,sv,sv,sv,sv,sv,sv
 Costa Archi,Romagna Sangiovese Serra Assiolo,3.8,10-14,50,73,sv,sv,4,3,5,4,3,sv,sv,sv
@@ -51,10 +42,10 @@ Drei Donà Tenuta La Palazza,Romagna Sangiovese Predappio Notturno,3.6,10-14,48,
 Drei Donà Tenuta La Palazza,Romagna Sangiovese Superiore Riserva Pruno,3.8,25-29,41,27,sv,sv,sv,4,5,3,sv,3,sv,sv
 Drei Donà Tenuta La Palazza,Romagna Sangiovese Superiore Riserva Cuvee Palazza,2.5,20-24,4,3,sv,sv,sv,sv,sv,3,sv,2,sv,sv
 Drei Donà Tenuta La Palazza,Romagna Sangiovese Superiore Riserva Pruno Grande Annata,4.0,45-49,9,3,sv,sv,sv,sv,sv,4,sv,sv,sv,sv
-Monticino Rosso,Romagna Sangiovese Superiore S,2.6,5-9,12,30,3,sv,3,3,3,1,sv,sv,sv,sv
-Monticino Rosso,Romagna Sangiovese Superiore Riserva Frutti Rossi,3.3,10-14,15,22,sv,sv,sv,3,3,4,sv,sv,sv,sv
-Monticino Rosso,Romagna Sangiovese Superiore S Zero Solfiti,2.3,5-9,6,15,sv,sv,2,2,3,2,sv,sv,sv,sv
-Monticino Rosso,Romagna Sangiovese Superiore Riserva Le Morine,2.7,15-19,7,7,sv,sv,sv,sv,sv,2,3,sv,3,sv
+Enio Ottaviani,Romagna Sangiovese Dado,3.0,30-34,9,5,sv,sv,3,3,3,sv,sv,sv,sv,sv
+Enio Ottaviani,Romagna Sangiovese Superiore Caciara,2.8,10-14,13,19,sv,3,2,3,3,3,sv,sv,sv,sv
+Enio Ottaviani,Romagna Sangiovese Bioprimalba,2.0,10-14,2,3,sv,sv,sv,2,sv,2,sv,sv,sv,sv
+Enio Ottaviani,Romagna Sangiovese Superiore Riserva Sole Rosso,2.0,15-19,1,1,sv,sv,sv,sv,sv,2,sv,sv,sv,sv
 Fattoria Nicolucci,Romagna Sangiovese Predappio Riserva Vigna Del Generale,4.3,25-29,100,65,sv,sv,5,4,5,4,3,5,sv,sv
 Fattoria Nicolucci,Romagna Sangiovese Predappio Riserva Vigna Del Generale Selezione CXXX,4.5,95-99,35,6,sv,sv,sv,sv,4,5,sv,sv,sv,sv
 Fattoria Nicolucci,Romagna Sangiovese Superiore Tre Rocche,3.0,10-14,15,22,sv,3,3,3,3,3,sv,sv,sv,sv
@@ -70,3 +61,151 @@ Ferrucci,Romagna Sangiovese Superiore Riserva Domus Caia,3.7,15-19,53,55,sv,sv,5
 Ferrucci,Romagna Sangiovese Superiore Centurione,3.0,10-14,26,38,4,4,3,3,2,2,sv,sv,sv,sv
 Ferrucci,Romagna Sangiovese Serra Legio,3.0,15-19,6,6,sv,sv,3,3,sv,sv,sv,sv,sv,sv
 Ferrucci,Romagna Sangiovese Auriga,3.0,5-9,6,15,sv,sv,sv,3,sv,3,sv,sv,sv,sv
+Fiorentini,Romagna Sangiovese Castrocaro Riserva Dei Dottori,3.0,15-19,13,13,sv,sv,sv,sv,4,2,sv,3,sv,sv
+Fiorentini,Romagna Sangiovese Castrocaro Fiorone,3.0,10-14,9,13,sv,sv,3,3,sv,3,sv,sv,sv,sv
+Fiorentini,Romagna Sangiovese Riserva Vigna Dei Dottori,3.0,10-14,3,4,sv,sv,sv,sv,sv,3,sv,sv,sv,sv
+Fiorentini,Romagna Sangiovese Superiore Riserva Vigna Dei Dottori,3.0,10-14,3,4,sv,sv,sv,sv,sv,3,sv,sv,sv,sv
+Gallegati,Romagna Sangiovese Brisighella Corallo Rosso,3.0,10-14,37,55,sv,5,3,3,3,2,2,sv,sv,sv
+Gallegati,Romagna Sangiovese Brisighella Riserva Corallo Nero,3.3,15-19,18,18,sv,sv,sv,3,3,3,sv,sv,4,sv
+Gallegati,Romagna Sangiovese Brisighella Riserva Corallo Nero Per Elena E Sofia,3.0,15-19,3,3,sv,sv,sv,sv,sv,sv,sv,sv,3,sv
+Giovanna Madonia,Romagna Sangiovese Bertinoro Riserva Ombroso,4.0,20-24,88,70,sv,sv,5,5,5,3,sv,3,3,sv
+Giovanna Madonia,Romagna Sangiovese Superiore Fermavento,2.2,10-14,7,10,sv,3,2,sv,2,2,sv,2,sv,sv
+I Sabbioni,Romagna Sangiovese Superiore I Voli Dei Gruccioni,2.7,10-14,7,10,sv,sv,3,3,2,sv,sv,sv,sv,sv
+I Sabbioni,Romagna Sangiovese Oriolo I Sabbioni,2.7,25-29,7,5,sv,sv,3,3,2,sv,sv,sv,sv,sv
+I Sabbioni,Romagna Sangiovese Riserva I Rifugi,3.0,20-24,9,7,sv,sv,sv,sv,3,3,3,sv,sv,sv
+I Sabbioni,Romagna Sangiovese Superiore Le Liti,3.0,15-19,6,6,sv,sv,sv,3,3,sv,sv,sv,sv,sv
+I Sabbioni,Romagna Sangiovese Superiore Rubrarosa Bonadea,3.0,10-14,3,4,sv,sv,sv,sv,sv,3,sv,sv,sv,sv
+I Sabbioni,Romagna Sangiovese Oriolo Rubrarosa Sisto,2.0,15-19,1,1,sv,sv,sv,sv,sv,2,sv,sv,sv,sv
+I Sabbioni,Romagna Sangiovese Superiore Riserva Rubrarosa Elaide,2.0,20-24,1,1,sv,sv,sv,sv,sv,sv,2,sv,sv,sv
+Il Teatro,Romagna Sangiovese Atto II,3.3,15-19,15,15,sv,3,4,3,sv,sv,sv,sv,sv,sv
+Il Teatro,Romagna Sangiovese Modigliana Violano,3.5,20-24,12,9,sv,3,sv,4,sv,sv,sv,sv,sv,sv
+La Fornace,Romagna Sangiovese Predappio Riserva Profondo Rosso,3.0,10-14,9,13,sv,sv,sv,3,3,3,sv,sv,sv,sv
+La Fornace,Romagna Sangiovese Predappio Cassiano,3.0,5-9,6,15,sv,sv,3,3,sv,sv,sv,sv,sv,sv
+La Fornace,Romagna Sangiovese Superiore Fornace,3.5,5-9,12,30,sv,sv,3,4,sv,sv,sv,sv,sv,sv
+La Grotta,Romagna Sangiovese Superiore Riserva Cleto,2.5,10-14,4,6,sv,sv,sv,3,2,sv,sv,sv,sv,sv
+La Grotta,Romagna Sangiovese Superiore Mazapegul,2.0,5-9,2,5,2,sv,sv,2,sv,sv,sv,sv,sv,sv
+La Grotta,Romagna Sangiovese Superiore Sallius,2.0,10-14,4,6,sv,sv,sv,2,2,2,2,sv,sv,sv
+La Grotta,Romagna Sangiovese Superiore Riserva Conte Dursano,2.0,10-14,1,1,sv,sv,sv,sv,sv,sv,sv,2,sv,sv
+Lu.Va.,Romagna Sangiovese Modigliana Riserva Cucco Nero,3.0,20-24,12,10,sv,sv,3,3,3,3,sv,sv,sv,sv
+Lu.Va.,Romagna Sangiovese Superiore Cucco Rosso,2.7,10-14,7,10,3,sv,2,3,sv,sv,sv,sv,sv,sv
+Lu.Va.,Romagna Sangiovese Modigliana Il Carbonaro,2.8,10-14,10,15,sv,2,3,3,3,sv,sv,sv,sv,sv
+Maria Galassi,Romagna Sangiovese Bertinoro Riserva Nato Re,4.0,15-19,27,27,sv,sv,4,sv,4,sv,sv,sv,4,sv
+Maria Galassi,Romagna Sangiovese Superiore Smembar Senza Solfiti,2.7,10-14,7,10,sv,3,sv,3,2,sv,sv,sv,sv,sv
+Maria Galassi,Romagna Sangiovese Superiore Ca Storta,2.7,5-9,11,27,sv,2,4,sv,2,sv,sv,sv,sv,sv
+Maria Galassi,Romagna Sangiovese Superiore E Be Di Smembar,2.7,5-9,7,18,sv,sv,sv,2,3,3,sv,sv,sv,sv
+Maria Galassi,Romagna Sangiovese Superiore Nato Re,2.5,10-14,4,6,sv,sv,sv,sv,sv,3,2,sv,sv,sv
+Maria Galassi,Romagna Sangiovese Superiore Paternus,3.0,10-14,6,9,sv,sv,sv,sv,sv,3,3,sv,sv,sv
+Maria Galassi,Romagna Sangiovese Superiore Smembar,1.0,5-9,1,2,sv,sv,sv,sv,sv,sv,1,sv,sv,sv
+Merlotta,Romagna Sangiovese Superiore Petali Di Viola,2.7,5-9,14,35,3,3,2,sv,3,3,2,sv,sv,sv
+Merlotta,Romagna Sangiovese Superiore Riserva Fondatori PG,2.8,15-19,10,10,sv,sv,sv,sv,3,3,2,3,sv,sv
+Montaia,Romagna Sangiovese Superiore Sangio Selezione Oro,1.5,5-9,1,3,sv,sv,2,sv,sv,sv,1,sv,sv,sv
+Montaia,Romagna Sangiovese Superiore Riserva Sangio Oro,3.0,10-14,3,4,sv,sv,sv,sv,sv,sv,sv,3,sv,sv
+Montaia,Romagna Sangiovese Superiore Riserva,3.0,15-19,3,3,sv,sv,sv,sv,sv,sv,sv,3,sv,sv
+Montaia,Romagna Sangiovese,2.0,5-9,1,3,sv,sv,sv,sv,sv,2,sv,sv,sv,sv
+Montaia,Romagna Sangiovese Superiore,2.0,10-14,1,1,sv,sv,sv,sv,sv,2,sv,sv,sv,sv
+Monticino Rosso,Romagna Sangiovese Superiore S,2.6,5-9,12,30,3,sv,3,3,3,1,sv,sv,sv,sv
+Monticino Rosso,Romagna Sangiovese Superiore Riserva Frutti Rossi,3.3,10-14,15,22,sv,sv,sv,3,3,4,sv,sv,sv,sv
+Monticino Rosso,Romagna Sangiovese Superiore S Zero Solfiti,2.3,5-9,6,15,sv,sv,2,2,3,2,sv,sv,sv,sv
+Monticino Rosso,Romagna Sangiovese Superiore Riserva Le Morine,2.7,15-19,7,7,sv,sv,sv,sv,sv,2,3,sv,3,sv
+Morini Società Agricola,Romagna Sangiovese Oriolo Morale,2.5,5-9,4,10,sv,3,2,sv,sv,sv,sv,sv,sv,sv
+Morini Società Agricola,Romagna Sangiovese Oriolo Riserva Nonno Rico,3.7,15-19,32,33,sv,sv,sv,sv,3,sv,sv,3,5,sv
+Morini Società Agricola,Romagna Sangiovese Superiore Morale,2.0,5-9,3,8,sv,sv,sv,sv,3,1,sv,sv,sv,sv
+Mutiliana,Romagna Sangiovese Modigliana Tramazo,5.0,25-29,26,17,sv,sv,5,sv,sv,sv,sv,sv,sv,sv
+Mutiliana,Romagna Sangiovese Modigliana Ibbola,3.0,25-29,3,2,sv,sv,3,sv,sv,sv,sv,sv,sv,sv
+Mutiliana,Romagna Sangiovese Modigliana Acereta,3.0,25-29,3,2,sv,sv,3,sv,sv,sv,sv,sv,sv,sv
+Noelia Ricci,Romagna Sangiovese Predappio Il Sangiovese,3.5,10-14,51,75,5,4,4,3,3,2,sv,sv,sv,sv
+Noelia Ricci,Romagna Sangiovese Predappio Godenza,3.0,20-24,15,12,sv,3,3,sv,3,3,3,sv,sv,sv
+Pandolfa,Romagna Sangiovese Superiore Federico,2.3,5-9,10,25,3,2,2,3,2,2,sv,sv,sv,sv
+Pandolfa,Romagna Sangiovese Superiore Riserva Pandolfo,2.8,15-19,13,13,sv,sv,2,3,3,3,sv,3,sv,sv
+Pandolfa,Romagna Sangiovese Superiore Pandolfo,3.2,10-14,21,30,sv,4,3,3,3,3,sv,sv,sv,sv
+Paolo Francesconi,Romagna Sangiovese Riserva Le Iadi,3.4,20-24,27,21,sv,sv,sv,3,3,3,4,sv,4,sv
+Paolo Francesconi,Romagna Sangiovese Superiore Limbecca,2.5,10-14,8,12,sv,sv,sv,3,3,2,2,sv,sv,sv
+Pertinello,Romagna Sangiovese Il Bosco Di Pertinello,2.8,10-14,10,15,3,3,3,2,sv,sv,sv,sv,sv,sv
+Pertinello,Romagna Sangiovese Superiore Pertinello,3.0,15-19,3,3,sv,3,sv,sv,sv,sv,sv,sv,sv,sv
+Pertinello,Romagna Sangiovese Riserva Il Sasso Di Pertinello,3.0,25-29,3,2,sv,sv,sv,sv,sv,3,sv,sv,sv,sv
+Pertinello,Romagna Sangiovese Pertinello,3.0,15-19,3,3,sv,3,sv,sv,sv,sv,sv,sv,sv,sv
+Podere La Berta,Romagna Sangiovese Superiore Riserva Olmatello,2.8,15-19,10,10,sv,sv,sv,3,3,3,sv,2,sv,sv
+Podere La Berta,Romagna Sangiovese Superiore,3.0,5-9,15,38,3,3,3,3,3,sv,sv,sv,sv,sv
+Podere La Berta,Romagna Sangiovese Superiore Solano,2.8,10-14,13,19,sv,3,3,3,3,sv,2,sv,sv,sv
+Podere La Berta,Romagna Sangiovese Berta,2.7,5-9,7,18,sv,2,3,3,sv,sv,sv,sv,sv,sv
+Podere Vecciano,Romagna Sangiovese Superiore Vignalmonte,2.6,10-14,11,16,sv,sv,3,3,3,2,2,sv,sv,sv
+Podere Vecciano,Romagna Sangiovese Superiore Montetauro,2.3,5-9,5,13,sv,2,2,3,sv,sv,sv,sv,sv,sv
+Podere Vecciano,Romagna Sangiovese Superiore Riserva D'Enio,3.0,15-19,12,12,sv,sv,sv,3,3,3,3,sv,sv,sv
+Poderi Dal Nespoli,Romagna Sangiovese Superiore Prugneto Edizione Limitata,3.0,15-19,3,3,sv,sv,sv,3,sv,sv,sv,sv,sv,sv
+Poderi Dal Nespoli,Romagna Sangiovese Superiore Riserva Il Nespoli,3.5,15-19,24,24,sv,sv,3,sv,4,4,sv,3,sv,sv
+Poderi Dal Nespoli,Romagna Sangiovese Superiore Prugneto,2.5,15-19,8,8,sv,sv,3,2,3,2,sv,sv,sv,sv
+Poggio Della Dogana,Romagna Sangiovese Castrocaro Santa Reparata,3.5,10-14,12,17,sv,sv,4,3,sv,sv,sv,sv,sv,sv
+Poggio Della Dogana,Romagna Sangiovese Superiore I Quattro Bastioni,2.7,10-14,7,10,sv,3,2,3,sv,sv,sv,sv,sv,sv
+Poggio Della Dogana,Romagna Sangiovese Riserva Poggiogirato,4.0,20-24,9,7,sv,sv,sv,4,sv,sv,sv,sv,sv,sv
+Raffaella Bissoni,Romagna Sangiovese Superiore Riserva Bissoni,3.0,20-24,9,7,sv,sv,3,sv,3,3,sv,sv,sv,sv
+Raffaella Bissoni,Romagna Sangiovese Bertinoro Girapoggio,3.0,20-24,18,14,sv,3,3,3,3,3,3,sv,sv,sv
+Raffaella Bissoni,Romagna Sangiovese Bertinoro Riserva Vigna Colecchio,3.0,35-39,12,6,sv,sv,sv,sv,3,3,sv,3,3,sv
+Rocca Le Caminate,Romagna Sangiovese Predappio Sbargoleto,2.5,5-9,8,20,sv,sv,3,sv,3,2,sv,2,sv,sv
+Rocca Le Caminate,Romagna Sangiovese Predappio Riserva Vitignano,2.7,10-14,7,10,sv,sv,sv,sv,2,sv,sv,3,3,sv
+Rocca Le Caminate,Romagna Sangiovese Predappio Bramabene,2.0,5-9,3,8,sv,sv,sv,sv,2,2,sv,2,sv,sv
+Sadivino,Romagna Sangiovese Predappio Riserva Maestroso,3.4,20-24,42,34,sv,sv,sv,5,4,3,sv,2,3,sv
+Sadivino,Romagna Sangiovese Riserva La Solfatara,2.5,15-19,8,8,sv,sv,sv,2,3,sv,3,2,sv,sv
+Sadivino,Romagna Sangiovese Superiore San Joves,2.8,15-19,13,13,sv,sv,sv,3,3,3,3,2,sv,sv
+Sadivino,Romagna Sangiovese Superiore Simonà,3.0,5-9,6,15,sv,sv,3,sv,3,sv,sv,sv,sv,sv
+San Patrignano,Romagna Sangiovese Superiore Ora,2.3,10-14,6,9,sv,sv,3,sv,3,1,sv,sv,sv,sv
+San Patrignano,Romagna Sangiovese Superiore Riserva Avi,3.3,15-19,18,18,sv,sv,sv,sv,4,3,3,sv,3,sv
+San Patrignano,Romagna Sangiovese Superiore La Spallata,2.7,10-14,7,10,sv,sv,sv,3,3,2,sv,sv,sv,sv
+San Patrignano,Romagna Sangiovese Superiore Ventanni,3.0,35-39,3,1,sv,sv,sv,sv,3,sv,sv,sv,sv,sv
+San Valentino,Romagna Sangiovese Superiore Scabi,2.4,5-9,9,23,sv,2,2,2,3,sv,3,sv,sv,sv
+San Valentino,Romagna Sangiovese Superiore Riserva Terre Di Covignano,3.0,25-29,6,4,sv,sv,sv,3,3,sv,sv,sv,sv,sv
+San Valentino,Romagna Sangiovese Superiore Riserva Conte Di Covignano,2.0,15-19,1,1,sv,sv,sv,2,sv,sv,sv,sv,sv,sv
+Stefano Berti,Romagna Sangiovese Predappio Riserva Calisto,4.6,15-19,97,100,sv,sv,5,sv,4,4,5,sv,5,sv
+Stefano Berti,Romagna Sangiovese Predappio Ravaldo,3.0,10-14,15,22,sv,3,3,3,3,3,sv,sv,sv,sv
+Stefano Berti,Romagna Sangiovese Bartimeo,2.7,5-9,7,18,sv,2,sv,3,3,sv,sv,sv,sv,sv
+Stefano Berti,Romagna Sangiovese Superiore Nonà,2.5,5-9,4,10,sv,sv,2,sv,3,sv,sv,sv,sv,sv
+Tenuta Casali,Romagna Sangiovese Superiore Riserva San Vicinio Quartosole,3.8,20-24,66,52,sv,sv,5,4,3,5,sv,2,sv,sv
+Tenuta Casali,Romagna Sangiovese Superiore Vigna Baruccia,3.3,10-14,18,26,sv,sv,4,3,3,3,sv,sv,sv,sv
+Tenuta Casali,Romagna Sangiovese Superiore Vigna Palazzina,3.0,10-14,16,23,sv,3,3,4,sv,2,sv,sv,sv,sv
+Tenuta Del Gelso,Romagna Sangiovese Superiore,3.0,15-19,3,3,3,sv,sv,sv,sv,sv,sv,sv,sv,sv
+Tenuta La Viola,Romagna Sangiovese Bertinoro Riserva P. Honorii,3.8,20-24,71,56,sv,sv,sv,5,4,5,3,3,3,sv
+Tenuta La Viola,Romagna Sangiovese Bertinoro Interra,2.8,20-24,16,13,sv,3,3,2,3,3,3,sv,sv,sv
+Tenuta La Viola,Romagna Sangiovese Bertinoro Il Colombarone,2.8,10-14,16,23,sv,3,3,3,3,3,2,sv,sv,sv
+Tenuta La Viola,Romagna Sangiovese Superiore Oddone,2.8,5-9,13,33,sv,3,3,3,3,2,sv,sv,sv,sv
+Tenuta Neri,Romagna Sangiovese Superiore Riserva Luis,3.0,25-29,9,6,sv,sv,sv,3,3,sv,sv,3,sv,sv
+Tenuta Piccolo Brunelli,Romagna Sangiovese Predappio Cesco 1938,3.8,10-14,41,60,sv,5,4,3,sv,sv,sv,3,sv,sv
+Tenuta Piccolo Brunelli,Romagna Sangiovese Predappio Riserva Dante 1872,3.0,15-19,13,13,sv,sv,3,sv,sv,4,sv,2,sv,sv
+Tenuta Piccolo Brunelli,Romagna Sangiovese Superiore Pietro 1904,3.0,10-14,3,4,sv,sv,3,sv,sv,sv,sv,sv,sv,sv
+Tenuta Piccolo Brunelli,Romagna Sangiovese Superiore Il Conte Pietro,2.5,10-14,4,6,sv,sv,3,sv,sv,sv,sv,2,sv,sv
+Tenuta Saiano,Romagna Sangiovese Superiore Gianciotto,2.3,10-14,6,9,sv,2,3,2,2,sv,sv,sv,sv,sv
+Tenuta Saiano,Romagna Sangiovese Superiore Riserva Il Montebello,3.0,20-24,9,7,sv,sv,sv,sv,3,3,3,sv,sv,sv
+Tenuta Santa Lucia,Romagna Sangiovese Superiore Taibo,2.5,10-14,8,12,sv,2,3,3,sv,2,sv,sv,sv,sv
+Tenuta Santa Lucia,Romagna Sangiovese Superiore Riserva Sassignolo,3.0,15-19,32,33,sv,sv,sv,sv,3,3,sv,5,1,sv
+Tenuta Uccellina,Romagna Sangiovese Superiore Clivo Del Re,2.7,10-14,7,10,sv,sv,2,3,3,sv,sv,sv,sv,sv
+Tenuta Uccellina,Romagna Sangiovese Superiore Riserva Ghineo,3.0,15-19,3,3,sv,sv,sv,sv,sv,3,sv,sv,sv,sv
+Tenuta Villa Trentola,Romagna Sangiovese Superiore Il Prugnolo,3.5,15-19,24,24,sv,sv,4,3,sv,3,4,sv,sv,sv
+Tenuta Villa Trentola,Romagna Sangiovese Superiore Ultimo Atto,2.0,15-19,4,4,sv,2,2,2,2,sv,sv,sv,sv,sv
+Tenuta Villa Trentola,Romagna Sangiovese Bertinoro Riserva Il Moro,3.0,15-19,3,3,sv,sv,sv,sv,sv,sv,sv,sv,3,sv
+Torre San Martino,Romagna Sangiovese Modigliana Vigna 1922,3.3,30-34,45,25,sv,sv,3,3,4,3,2,5,sv,sv
+Torre San Martino,Romagna Sangiovese Modigliana Gemme,2.6,15-19,11,11,sv,3,2,3,2,3,sv,sv,sv,sv
+Tozzi,Romagna Sangiovese Iko,2.5,10-14,4,6,sv,sv,2,3,sv,sv,sv,sv,sv,sv
+Tre Monti,Romagna Sangiovese Superiore Riserva Thea,3.0,15-19,19,19,sv,sv,4,sv,3,3,3,2,sv,sv
+Tre Monti,Romagna Sangiovese Riserva Petrignone,3.2,10-14,21,30,sv,sv,3,3,4,3,sv,3,sv,sv
+Tre Monti,Romagna Sangiovese Superiore Campo Di Mezzo,2.8,5-9,10,25,sv,sv,3,3,3,2,sv,sv,sv,sv
+Tre Monti,Romagna Sangiovese Superiore Sono Rosso,3.0,5-9,3,8,sv,sv,3,sv,sv,sv,sv,sv,sv,sv
+Trere,Romagna Sangiovese Riserva Amarcord D'Un Ross,2.4,15-19,13,13,sv,sv,2,2,2,4,sv,2,sv,sv
+Trere,Romagna Sangiovese Superiore Vigna Dello Sperone,2.4,15-19,9,9,2,2,3,sv,2,3,sv,sv,sv,sv
+Trere,Romagna Sangiovese Superiore Riserva Violeo,2.5,35-39,4,2,sv,sv,sv,sv,3,2,sv,sv,sv,sv
+Trere,Romagna Sangiovese Lona Bona,2.5,5-9,4,10,sv,sv,sv,2,3,sv,sv,sv,sv,sv
+Umberto Cesari,Romagna Sangiovese Riserva Laurento,2.6,10-14,11,16,sv,sv,3,sv,3,3,2,2,sv,sv
+Umberto Cesari,Romagna Sangiovese Riserva,2.0,10-14,2,3,sv,sv,sv,sv,sv,sv,2,2,sv,sv
+Villa Bagnolo,Romagna Sangiovese Superiore Riserva Bagnolo,2.5,10-14,4,6,sv,sv,3,sv,sv,sv,sv,2,sv,sv
+Villa Bagnolo,Romagna Sangiovese Superiore Riserva Valdilà,3.0,25-29,3,2,sv,sv,sv,sv,sv,3,sv,sv,sv,sv
+Villa Bagnolo,Romagna Sangiovese Superiore Sassetto,2.7,10-14,12,17,sv,sv,1,sv,3,4,sv,sv,sv,sv
+Villa Bagnolo,Romagna Sangiovese Superiore Sorgara,2.3,10-14,5,7,sv,sv,sv,sv,sv,2,3,2,sv,sv
+Villa Otto Lune,Romagna Sangiovese Superiore Marnoso,3.0,10-14,6,9,sv,sv,3,3,sv,sv,sv,sv,sv,sv
+Villa Papiano,Romagna Sangiovese Modigliana Vigna Probi,3.0,10-14,3,4,sv,sv,sv,sv,3,sv,sv,sv,sv,sv
+Villa Papiano,Romagna Sangiovese Modigliana Riserva I Probi Di Papiano,3.8,15-19,50,52,sv,sv,sv,3,3,5,4,4,sv,sv
+Villa Papiano,Romagna Sangiovese Superiore Le Papesse,2.0,10-14,6,9,sv,3,2,2,1,2,sv,sv,sv,sv
+Villa San Lazzaro,Romagna Sangiovese Superiore Gagliotto,2.5,5-9,4,10,sv,3,sv,sv,2,sv,sv,sv,sv,sv
+Villa San Lazzaro,Romagna Sangiovese Superiore Riserva Gagliotto,3.0,5-9,3,8,sv,sv,sv,sv,sv,3,sv,sv,sv,sv
+Villa Venti,Romagna Sangiovese Superiore Primo Segno,3.0,10-14,22,32,sv,3,3,3,4,3,sv,2,sv,sv
+Villa Venti,Romagna Sangiovese Longiano Riserva Villa Venti,3.0,20-24,3,2,sv,sv,sv,sv,3,sv,sv,sv,sv,sv
+Zavalloni,Romagna Sangiovese Superiore Solaris,2.8,15-19,16,17,sv,3,3,3,3,3,sv,2,sv,sv
+Zavalloni,Romagna Sangiovese Superiore,2.5,10-14,4,6,3,sv,sv,sv,sv,2,sv,sv,sv,sv
+Zavalloni,Romagna Sangiovese Superiore Riserva Amedeo,3.0,15-19,15,15,sv,sv,sv,3,3,3,sv,3,3,sv
+Zavalloni,Romagna Sangiovese,1.0,5-9,1,2,sv,sv,sv,sv,sv,1,sv,sv,sv,sv
