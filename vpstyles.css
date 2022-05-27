@@ -108,12 +108,12 @@ table.produttore-table th:nth-child(2) {min-width: 110px; cursor:pointer}
   }
   table.denominazione-table th:nth-child(6) {
     position: sticky;
-    left: 430px;
+    left: 425px;
     z-index: 2;
   }
   table.denominazione-table td:nth-child(6){
     position:sticky;
-    left:430px
+    left:425px
   }
     .denominazione-table td[data-th="VScore"],.denominazione-table td[data-th="QP"]{
     color: transparent;
