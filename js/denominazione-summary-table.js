@@ -97,13 +97,23 @@ export function denominazioneSummaryTable(){
       const avg = (sum / avgPriceArray.length) || 0;
       avgPrice = avg
       if (window.location.href.indexOf("/Tutti-i-Chianti") != -1) {
-        const allChianti = document.querySelectorAll(".denominazione-table tbody td:nth-child(1),.denominazione-table tbody td:nth-child(2)")
-        for (const i of allChianti) {
-          i.style.backgroundColor = "inherit"
-        }
-        const allClassico = document.querySelectorAll("td[title*='Chianti Classico']")
-        for (const i of allClassico) {
-          i.parentElement.style.backgroundColor = "#f4f4f4"
+        if(window.innerWidth < 600){
+          const allChianti = document.querySelectorAll(".denominazione-table tbody td:nth-child(1),.denominazione-table tbody td:nth-child(2)")
+          for (const i of allChianti) {
+            i.style.backgroundColor = "inherit"
+          }
+          const allClassico = document.querySelectorAll("td[title*='Chianti Classico']")
+          for (const i of allClassico) {
+            i.parentElement.style.backgroundColor = "#f4f4f4"
+          }
+        } else {
+          const allClassico = document.querySelectorAll("td[title*='Chianti Classico']")
+          for (const i of allClassico) {
+            const allClassicoParent = i.parentElement.querySelectorAll("td")
+            for (const j of allClassicoParent) {
+              j.style.backgroundColor = "#f4f4f4"
+            }
+          }
         }
       }
     }).then(function(){//post content populating js functions
