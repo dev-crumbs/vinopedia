@@ -7,6 +7,7 @@ export function denominazioneSummaryTable(){
   var avgPriceArray = [];
   var maxPriceArray = [];
   var avgPrice = 0
+  var avgScoreRawArray = [];
   //checks
   const statisticheCheck = document.querySelector(".statistiche-denominazione")
   const denominazioneCheck = document.querySelector(".denominazioneTipo")
@@ -82,6 +83,12 @@ export function denominazioneSummaryTable(){
           avgPriceArray.push(priceAvg)
           return(priceAvg.toFixed(0))
         });
+      rows.selectAll('td[data-th="Media Grezza"]')
+        .text(function (d) {
+          const avg = Number(d.value)
+          avgScoreRawArray.push(avg)
+          return(avg)
+        });
       //add V to filter 
       // rows.selectAll('td[data-th="VScore"]')
       //   .text(function (d) {
@@ -94,8 +101,12 @@ export function denominazioneSummaryTable(){
       //   });
       //avg calculations
       const sum = avgPriceArray.reduce((a, b) => a+b, 0);
+      console.log(sum)
       const avg = (sum / avgPriceArray.length) || 0;
       avgPrice = avg
+      //avg raw score calculations
+      const avgScoreRawSum = avgScoreRawArray.reduce((c, d) => c+d, 0);
+      const avgAvgScoreRaw = (avgScoreRawSum / avgScoreRawArray.length) || 0;
       if (window.location.href.indexOf("/Tutti-i-Chianti") != -1) {
         if(window.innerWidth < 600){
           const allChianti = document.querySelectorAll(".denominazione-table tbody td:nth-child(1),.denominazione-table tbody td:nth-child(2)")
@@ -121,6 +132,7 @@ export function denominazioneSummaryTable(){
         document.querySelector(".statistiche-denominazione li:nth-child(1) span").innerText = avgPriceArray.length
         document.querySelector(".statistiche-denominazione li:nth-child(2) span").innerText = avgPrice.toFixed(0) + "€"
         document.querySelector(".statistiche-denominazione li:nth-child(3) span").innerText = Math.max(...maxPriceArray).toFixed(0) + "€"
+        document.querySelector(".statistiche-denominazione li:nth-child(4) span").innerText = avgAvgScoreRaw.toFixed(1)
       }
       var startTime = performance.now()
       //ext link 500ms
