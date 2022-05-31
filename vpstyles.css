@@ -720,7 +720,8 @@ div.v-speed-dial.v-speed-dial--right {
     font-family: Roboto,sans-serif;
     padding: 10px 0;
     width: 100vw;
-    box-shadow: 0 -3px 2px #d3d3d3
+    box-shadow: 0 -3px 2px #d3d3d3;
+    z-index: 2
   }
   .dc-summary a {
     margin: 3px 5px;
