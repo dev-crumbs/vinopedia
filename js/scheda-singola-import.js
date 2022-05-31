@@ -69,6 +69,8 @@ export function schedaSingolaImport() {
                     return "Germania";
                 case "muller-thurgau":
                     return "Svizzera";
+                case "alicante":
+                    return "Francia";
                 default:
                     return "Italia"
                 }
