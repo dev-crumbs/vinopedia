@@ -1,7 +1,7 @@
 import {tableSort} from '/it/js/table-filter.js';
 import {denominazioneTableFilter} from '/it/js/table-filter.js';
 export function denominazioneSummaryTable(){
-  var denominazione = document.querySelector(".denominazioneNome").innerText.replaceAll(' ', '-');
+  var denominazione = document.querySelector(".denominazioneNome").innerText.replaceAll(' ', '-').replaceAll("'", '-');
   var denominazioneTipo = document.querySelectorAll(".denominazioneTipo");
   var regione = document.querySelector(".denominazioneRegione").innerText
   var avgPriceArray = [];
@@ -168,24 +168,29 @@ export function denominazioneSummaryTable(){
         setTimeout(tableSort, 1000)
         return;} 
       document.querySelector(".loader-container").remove()
-      const dataTable = new simpleDatatables.DataTable(".denominazione-table", {
-        layout: {
-          top: "{search}",
-          bottom: "{pager}",
-        },
-        labels: {
-          placeholder: "Cerca nella tabella",
-          perPage: "{select} risultati per pagina",
-          noRows: "Nessun risultato corrispondente",
-          info: "{start} to {end} of {rows} entries",
-        },
-    	searchable: true,
-        columns: [
-          { select: [3,5,6,7,8,9,10,11], type: "number"},
-          { select: 4, type: "number", sort: "desc"}
-        ],
-        nextPrev: false
-      })
+      const allTables = document.querySelectorAll(".denominazione-table")
+      for (var i = 0; i < allTables.length; i++) {
+        allTables[i].classList.add(`tableNumber${i}`)
+        console.log(allTables[i].className)
+        const dataTable = new simpleDatatables.DataTable(`.tableNumber${i}`, {
+          layout: {
+            top: "{search}",
+            bottom: "{pager}",
+          },
+          labels: {
+            placeholder: "Cerca nella tabella",
+            perPage: "{select} risultati per pagina",
+            noRows: "Nessun risultato corrispondente",
+            info: "{start} to {end} of {rows} entries",
+          },
+      	searchable: true,
+          columns: [
+            { select: [3,5,6,7,8,9,10,11], type: "number"},
+            { select: 4, type: "number", sort: "desc"}
+          ],
+          nextPrev: false
+        })
+      }
     })
   })
 }
