@@ -171,7 +171,6 @@ export function denominazioneSummaryTable(){
       const allTables = document.querySelectorAll(".denominazione-table")
       for (var i = 0; i < allTables.length; i++) {
         allTables[i].classList.add(`tableNumber${i}`)
-        console.log(allTables[i].className)
         const dataTable = new simpleDatatables.DataTable(`.tableNumber${i}`, {
           layout: {
             top: "{search}",
