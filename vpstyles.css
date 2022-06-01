@@ -60,7 +60,6 @@ table.produttore-table th:nth-child(2) {min-width: 110px; cursor:pointer}
   }
   .denominazione-table td,.denominazione-table th {
     background: #fff;
-    max-width: 102px;
     text-overflow: ellipsis;
     overflow: hidden;
     white-space: nowrap;      
