@@ -60,6 +60,7 @@ table.produttore-table th:nth-child(2) {min-width: 110px; cursor:pointer}
   }
   .denominazione-table td,.denominazione-table th {
     background: #fff;
+    max-width: 400px;
     text-overflow: ellipsis;
     overflow: hidden;
     white-space: nowrap;      
@@ -98,21 +99,21 @@ table.produttore-table th:nth-child(2) {min-width: 110px; cursor:pointer}
   }
   table.denominazione-table th:nth-child(5) {
     position: sticky;
-    left: 350px;
+    left: 560px;
     z-index: 2;
   }
   table.denominazione-table td:nth-child(5){
     position:sticky;
-    left:350px
+    left:560px
   }
   table.denominazione-table th:nth-child(6) {
     position: sticky;
-    left: 425px;
+    left: 635px;
     z-index: 2;
   }
   table.denominazione-table td:nth-child(6){
     position:sticky;
-    left:425px
+    left:635px
   }
     .denominazione-table td[data-th="VScore"],.denominazione-table td[data-th="QP"]{
     color: transparent;
