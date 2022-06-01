@@ -4,11 +4,6 @@ export function denominazioneSummaryTable(){
   var denominazione = document.querySelector(".denominazioneNome").innerText.replaceAll(' ', '-').replaceAll("'", '-');
   var denominazioneTipo = document.querySelectorAll(".denominazioneTipo");
   var regione = document.querySelector(".denominazioneRegione").innerText
-  var avgPriceArray = [];
-  var maxPriceArray = [];
-  var avgPrice = 0
-  var avgScoreRawArray = [];
-  var avgScoreRaw = 0;
   //checks
   const statisticheCheck = document.querySelector(".statistiche-denominazione")
   const denominazioneCheck = document.querySelector(".denominazioneTipo")
@@ -37,6 +32,13 @@ export function denominazioneSummaryTable(){
     const denominazioneTipoNome = el.previousElementSibling.getAttribute('data-tn');
     const denominazioneTipoNomeL = denominazioneTipoNome.toLowerCase();
     d3.text(`${denominazione}/${denominazioneTipoNome}.csv`).then( function(data) {
+      //stats variables
+      var avgPriceArray = [];
+      var maxPriceArray = [];
+      var avgPrice = 0
+      var avgScoreRawArray = [];
+      var avgScoreRaw = 0;
+      //
       var sortAscending = true;
       var csv = d3.csvParse(data), allheaders = d3.csvParseRows(data)[0],
       table = d3.select(`[data-tn="${denominazioneTipoNome}"] + .denominazioneTipo div.table-container`).append('table').attr('class','sort denominazione-table');
@@ -108,6 +110,14 @@ export function denominazioneSummaryTable(){
       const avgScoreRawSum = avgScoreRawArray.reduce((c, d) => c+d, 0);
       const avgAvgScoreRaw = (avgScoreRawSum / avgScoreRawArray.length) || 0;
       avgScoreRaw = avgAvgScoreRaw
+      //populate stats
+      if (statisticheCheck == null) {} else {
+        el.querySelector(".statistiche-denominazione li:nth-child(1) span").innerText = avgPriceArray.length
+        el.querySelector(".statistiche-denominazione li:nth-child(2) span").innerText = avgPrice.toFixed(0) + "€"
+        el.querySelector(".statistiche-denominazione li:nth-child(3) span").innerText = Math.max(...maxPriceArray).toFixed(0) + "€"
+        el.querySelector(".statistiche-denominazione li:nth-child(4) span").innerText = avgScoreRaw.toFixed(1)
+      }
+      //tutti-i-chianti only code
       if (window.location.href.indexOf("/Tutti-i-Chianti") != -1) {
         if(window.innerWidth < 600){
           const allChianti = document.querySelectorAll(".denominazione-table tbody td:nth-child(1),.denominazione-table tbody td:nth-child(2)")
@@ -129,12 +139,6 @@ export function denominazioneSummaryTable(){
         }
       }
     }).then(function(){//post content populating js functions
-      if (statisticheCheck == null) {} else {
-        document.querySelector(".statistiche-denominazione li:nth-child(1) span").innerText = avgPriceArray.length
-        document.querySelector(".statistiche-denominazione li:nth-child(2) span").innerText = avgPrice.toFixed(0) + "€"
-        document.querySelector(".statistiche-denominazione li:nth-child(3) span").innerText = Math.max(...maxPriceArray).toFixed(0) + "€"
-        document.querySelector(".statistiche-denominazione li:nth-child(4) span").innerText = avgScoreRaw.toFixed(1)
-      }
       var startTime = performance.now()
       //ext link 500ms
       const nomeAll = el.querySelectorAll("td[data-th='Vino']");
