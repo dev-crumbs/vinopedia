@@ -2,7 +2,7 @@
 title: Vien De Nus
 description: Vitigno | Minore vitigno aostano utilizzavo in blend
 published: true
-date: 2022-06-05T22:21:17.068Z
+date: 2022-06-05T22:21:42.850Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-05T22:21:17.068Z
@@ -19,8 +19,6 @@ Gros Rouge, Gros Vien, Oriou Gros
 
 ## Origini e parentele
 Vien de Nus significa letteralmente "vite di Nus", dal nome del villaggio valdostano tra le città di Aosta e Saint-Vincent dove questa varietà è probabilmente nata. La sua prima menzione e descrizione compare negli scritti di Gatta (1838), ampelografo dilettante e medico professionista della vicina Ivrea (Piemonte). L'analisi del DNA ha stabilito che il Vien de Nus è una progenie del [Petit Rouge](/vitigni/Italia/petit-rouge) valdostano e di un'altra varietà sconosciuta e probabilmente estinta, e che il Vien de Nus ha probabilmente strette relazioni con l'[Eyholzer Rote](/vitigni/Svizzera/eyholzer-rote) e il [Rouge du pays](/vitigni/Italia/rouge-du-pays) del vicino Vallese (Vouillamoz e Moriondo 2011).
-
-Tradotto con www.DeepL.com/Translator (versione gratuita)
 
 ## Caratteristiche viticole
 
