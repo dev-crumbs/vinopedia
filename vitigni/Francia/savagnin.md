@@ -2,10 +2,10 @@
 title: Savagnin
 description: Vitigno | Antica varietà dalle numerose mutazioni
 published: true
-date: 2021-09-06T15:08:20.429Z
-tags: , bacca bianca
+date: 2022-06-21T16:45:49.066Z
+tags: 
 editor: markdown
-dateCreated: 2021-09-06T09:36:26.269Z
+dateCreated: 2022-06-21T14:03:45.323Z
 ---
 
 # Savagnin
