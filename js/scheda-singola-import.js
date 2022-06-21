@@ -6,13 +6,13 @@ export function schedaSingolaImport() {
     const noteCheck = document.querySelector(".note")
     //page headline input
     const headlineFull = document.querySelector(".headline").innerText.split(' – ')
-    const caption = document.querySelector(".is-page-header .caption").innerText
+    const caption = document.querySelector(".is-page-header .caption").innerText.split('a')
     var breadcrumbRegion = (window.innerWidth >= 600) ? document.querySelector(".v-breadcrumbs a:nth-of-type(3) span").innerText : document.querySelector("div.v-list.primary > div:nth-child(4) > div.v-list-item__title").innerHTML
     
     d3.text(`/vini/${breadcrumbRegion}.csv`).then(function(data) {
         const csv = d3.csvParse(data);
         const filterCSV = function(d) {
-            return d.Ref == caption && d.Anno == headlineFull[1]
+            return d.Ref == caption[1] && d.Anno == headlineFull[1]
         }
         const nomeCSV = csv.filter(filterCSV)[0].Nome;
         const regioneCSV = csv.filter(filterCSV)[0].Regione;
