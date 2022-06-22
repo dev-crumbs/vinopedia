@@ -53,10 +53,10 @@ export function schedaGlobaleImport() {
         function nationCheck(){switch(cleanVitigno){case"cabernet-sauvignon":return"Francia";case"cabernet-franc":return"Francia";case"carmenere":return"Francia";case"pinot-noir":return"Francia";case"merlot":return"Francia";case"syrah":return"Francia";case"sauvignon-blanc":return"Francia";case"chardonnay":return"Francia";case"pinot-blanc":return"Francia";case"kerner":return"Germania";case"muller-thurgau":return"Svizzera";default:return"Italia"}}
         if (!--composizioneLength){
           d3.select('.caratteristiche li:nth-child(5)').append("a").text(`${i}`) 
-          d3.select('.caratteristiche li:nth-child(5) a').attr("href", `/vitigni/${nationCheck()}/${cleanVitigno}`) 
+          d3.select(`.caratteristiche li:nth-child(5) a:nth-of-type(${composizioneArray.indexOf(i) + 1})`).attr("href", `/vitigni/${nationCheck()}/${cleanVitigno}`)         
         } else {
           d3.select('.caratteristiche li:nth-child(5)').append("a").text(`${i}`) 
-          d3.select('.caratteristiche li:nth-child(5) a').attr("href", `/vitigni/${nationCheck()}/${cleanVitigno}`)
+          d3.select(`.caratteristiche li:nth-child(5) a:nth-of-type(${composizioneArray.indexOf(i) + 1})`).attr("href", `/vitigni/${nationCheck()}/${cleanVitigno}`)
           d3.select('.caratteristiche li:nth-child(5)').append("span").text(" - ")
         }
       }
@@ -101,15 +101,20 @@ export function schedaGlobaleImport() {
       }                           
       const denominazioneFull2 = document.querySelector(".grid-list.caratteristiche li:nth-child(3) a").innerText.replaceAll(" ", "-").replaceAll("'", "-")
       const denominazione2 = denominazioneFull2.split("-")
-      d3.text(`/denominazioni/${nazione2}/${regione2}/${denominazione2[0]}-${regione2}/${denominazioneFull2}.csv`).then(function(data) {
-       const csv2 = d3.csvParse(data);
-       const filterInDen = function(d) {return d.Vino == headlineFull[0] && d.Produttore == headlineFull[2]}
-       // retrieve qp and v
-       const VScore = csv2.filter(filterInDen)[0].VScore;
-       const QP = csv2.filter(filterInDen)[0].QP;
-  
-       d3.select('.vscore').append().text(" " + VScore)
-       d3.select('.qp').append().text(" " + QP)
-     })
+      if(denominazione2[1] == "Generico"){
+         d3.select('.vscore').text("Non è possibile una comparazione equa per questo vino")
+         d3.select('.qp').remove()
+      } else {
+         d3.text(`/denominazioni/${nazione2}/${regione2}/${denominazione2[0]}-${regione2}/${denominazioneFull2}.csv`).then(function(data) {
+         const csv2 = d3.csvParse(data);
+         const filterInDen = function(d) {return d.Vino == headlineFull[0] && d.Produttore == headlineFull[2]}
+         // retrieve qp and v
+         const VScore = csv2.filter(filterInDen)[0].VScore;
+         const QP = csv2.filter(filterInDen)[0].QP;
+    
+         d3.select('.vscore').append().text(" " + VScore)
+         d3.select('.qp').append().text(" " + QP)
+       })
+      }
   })
 }
