@@ -2,10 +2,10 @@
 title: Uva Longanesi
 description: Vitigno | varietà emiliano-romagnola resistente alle malattie che prende il nome dalla famiglia che l'ha salvata
 published: true
-date: 2022-05-12T06:46:57.509Z
+date: 2022-06-22T06:07:00.025Z
 tags: 
 editor: markdown
-dateCreated: 2022-05-12T06:43:54.156Z
+dateCreated: 2022-06-21T14:18:22.227Z
 ---
 
 # Uva Longanesi
@@ -14,7 +14,7 @@ dateCreated: 2022-05-12T06:43:54.156Z
 Nera
 
 ## Sinonimi
-Bursôn, Longanesi, Negretto Longanesi
+[Bursôn](/vitigni/Italia/burson) , Longanesi, Negretto Longanesi
 
 
 ## Origini e parentele
