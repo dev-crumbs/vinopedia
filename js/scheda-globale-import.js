@@ -11,8 +11,10 @@ export function schedaGlobaleImport() {
   const regioneHSan = regioneH[0].replaceAll(' ', '-').replaceAll("'", '-')
   d3.text(`/vini/${regioneHSan}.csv`).then(function myFunction(data) {
       const csv = d3.csvParse(data);
-      const filterGlobalCSV = function(d) {return d.Nome == headlineFull[0] && d.Produttore == headlineFull[2].replaceAll('é', 'e') && d.Entry === "1"}
-      const filterSingleCSV = function(d) {return d.Nome == headlineFull[0] && d.Produttore == headlineFull[2].replaceAll('é', 'e') && d.Entry === "2"}
+    console.log(headlineFull[0])
+        console.log(headlineFull[2])
+      const filterGlobalCSV = function(d) {return d.Nome == headlineFull[0] && d.Produttore == headlineFull[2] && d.Entry === "1"}
+      const filterSingleCSV = function(d) {return d.Nome == headlineFull[0] && d.Produttore == headlineFull[2] && d.Entry === "2"}
       //tutte le annate
       const nomeCSV = csv.filter(filterGlobalCSV)[0].Nome;
       const regioneCSV = csv.filter(filterGlobalCSV)[0].Regione;
@@ -99,7 +101,7 @@ export function schedaGlobaleImport() {
       if(nazione2 == "IT)"){
         nazione2 = "Italia"
       }                           
-      const denominazioneFull2 = document.querySelector(".grid-list.caratteristiche li:nth-child(3) a").innerText.replaceAll(" ", "-").replaceAll("'", "-")
+      const denominazioneFull2 = document.querySelector(".grid-list.caratteristiche li:nth-child(3) a").innerText.replaceAll(" ", "-").replaceAll("'", "-").replaceAll("é", "e")
       const denominazione2 = denominazioneFull2.split("-")
       if(denominazione2[1] == "Generico"){
          d3.select('.vscore').text("Non è possibile una comparazione equa per questo vino")
