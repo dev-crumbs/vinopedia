@@ -1,8 +1,8 @@
 ---
 title: DOC Valle D'Aosta Bianco
-description: Denominazione
+description: Denominazione | Tipologia della denominazione Valle D'Aosta
 published: true
-date: 2022-06-23T14:55:19.546Z
+date: 2022-06-23T14:55:55.454Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-23T14:55:19.546Z
