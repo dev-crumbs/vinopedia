@@ -11,8 +11,6 @@ export function schedaGlobaleImport() {
   const regioneHSan = regioneH[0].replaceAll(' ', '-').replaceAll("'", '-')
   d3.text(`/vini/${regioneHSan}.csv`).then(function myFunction(data) {
       const csv = d3.csvParse(data);
-    console.log(headlineFull[0])
-        console.log(headlineFull[2])
       const filterGlobalCSV = function(d) {return d.Nome == headlineFull[0] && d.Produttore == headlineFull[2] && d.Entry === "1"}
       const filterSingleCSV = function(d) {return d.Nome == headlineFull[0] && d.Produttore == headlineFull[2] && d.Entry === "2"}
       //tutte le annate
@@ -107,7 +105,7 @@ export function schedaGlobaleImport() {
          d3.select('.vscore').text("Non è possibile una comparazione equa per questo vino")
          d3.select('.qp').remove()
       } else {
-         d3.text(`/denominazioni/${nazione2}/${regione2}/${denominazione2[0]}-${regione2}/${denominazioneFull2}.csv`).then(function(data) {
+         d3.text(`/denominazioni/${nazione2}/${regione2}/${denominazioneFull2}/${denominazioneFull2}.csv`).then(function(data) {
          const csv2 = d3.csvParse(data);
          const filterInDen = function(d) {return d.Vino == headlineFull[0] && d.Produttore == headlineFull[2]}
          // retrieve qp and v
