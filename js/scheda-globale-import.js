@@ -44,7 +44,7 @@ export function schedaGlobaleImport() {
       d3.select('.caratteristiche li:nth-child(1)').append("span").text(" " + nomeCSV)
       d3.select('.caratteristiche li:nth-child(2)').append("span").text(" " + tipoCSV)
       d3.select('.caratteristiche li:nth-child(3)').append("a").text(`${classificazioneCSV} ${denominazioneCSV}`)
-      d3.select('.caratteristiche li:nth-child(3) a').attr("href",`/denominazioni/${nazioneCSV}/${regioneCSV}/${classificazioneCSV}-${denominazioneCSV.replaceAll(' ', '-')}`)
+      d3.select('.caratteristiche li:nth-child(3) a').attr("href",`/denominazioni/${nazioneCSV}/${regioneCSV.replaceAll("'", '-').replaceAll(' ', '-')}/${classificazioneCSV}-${denominazioneCSV.replaceAll("'", '-').replaceAll(' ', '-')}`)
       d3.select('.caratteristiche li:nth-child(3)').append("span").text(` | ${menzioniCSV}`)
       d3.select('.caratteristiche li:nth-child(4)').append("a").text(`${produttoreCSV}`)
       d3.select('.caratteristiche li:nth-child(4) a').attr("href",`/produttori/${nazioneCSV}/${regioneCSV}/${produttoreCSV.replaceAll("' ", '-').replaceAll(' ', '-')}`)

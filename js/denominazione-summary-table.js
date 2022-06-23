@@ -3,7 +3,7 @@ import {denominazioneTableFilter} from '/it/js/table-filter.js';
 export function denominazioneSummaryTable(){
   var denominazione = document.querySelector(".denominazioneNome").innerText.replaceAll(' ', '-').replaceAll("'", '-');
   var denominazioneTipo = document.querySelectorAll(".denominazioneTipo");
-  var regione = document.querySelector(".denominazioneRegione").innerText
+  var regione = document.querySelector(".denominazioneRegione").innerText.replaceAll("'", '-').replaceAll(' ', '-')
   //checks
   const statisticheCheck = document.querySelector(".statistiche-denominazione")
   const denominazioneCheck = document.querySelector(".denominazioneTipo")
@@ -31,7 +31,7 @@ export function denominazioneSummaryTable(){
   denominazioneTipo.forEach(el => {
     const denominazioneTipoNome = el.previousElementSibling.getAttribute('data-tn');
     const denominazioneTipoNomeL = denominazioneTipoNome.toLowerCase();
-    d3.text(`${denominazione}/${denominazioneTipoNome}.csv`).then( function(data) {
+    d3.text(`${denominazioneTipoNome}/${denominazioneTipoNome}.csv`).then( function(data) {
       //stats variables
       var avgPriceArray = [];
       var maxPriceArray = [];
@@ -143,7 +143,7 @@ export function denominazioneSummaryTable(){
       //ext link 500ms
       const nomeAll = el.querySelectorAll("td[data-th='Vino']");
       nomeAll.forEach(i =>{
-        const nome = i.innerText.replaceAll(' ', '-').replaceAll('é','e')
+        const nome = i.innerText.replaceAll(' ', '-').replaceAll('é','e').replaceAll("'", '-')
         const produttore = i.previousElementSibling.innerText.replaceAll("' ", '-').replaceAll(' ', '-').replaceAll("'", '-');
         const path = "/it/vini/Italia/" + regione + "/" + produttore + "/" + nome + "/scheda-globale"
         const node = document.createElement("a");
