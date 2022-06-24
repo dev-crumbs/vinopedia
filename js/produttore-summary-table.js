@@ -188,8 +188,8 @@ export function produttoreSummaryTable(){
           },
       	searchable: true,
           columns: [
-            { select: [3,5,6,7], type: "number"},
-            { select: 4, type: "number", sort: "desc"}
+            { select: [2,3,4,5,6], type: "number"},
+            { select: 2, type: "number", sort: "desc"}
           ],
           nextPrev: false
         })
