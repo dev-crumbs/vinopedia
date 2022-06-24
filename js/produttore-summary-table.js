@@ -33,9 +33,9 @@ export function produttoreSummaryTable(){
         return d.value;
       });
       const nomeAll = document.querySelectorAll("td[data-th='Vino']");
-      const regione = document.querySelector(".produttoreRegione").innerText
+      const regione = document.querySelector(".produttoreRegione").innerText.replaceAll("'",'-').replaceAll(" ",'-')
       for (let i = 0; i < nomeAll.length; i++){
-        const nome = nomeAll[i].innerText.replaceAll(' ', '-').replaceAll('é','e')
+        const nome = nomeAll[i].innerText.replaceAll(' ', '-').replaceAll('é','e').replaceAll("'",'-')
         const path = "/it/vini/Italia/" + regione + "/" + produttore + "/" + nome + "/scheda-globale"
         const node = document.createElement("a");
         node.href = path
