@@ -149,13 +149,19 @@
   }
 
    .produttore-table td[data-th="Media Grezza"]{
-    display: none
+    position: absolute;
+     top: 1px;
+     right: 35px;
+     background-color: #b198de;
+     font-weight: bold;
   }
   
    .produttore-table td[data-th="Prezzo"]{
     position:absolute;
-    top: 0px;
+    top: 1px;
     right: 0px;
+    background-color: #ffa27f;
+     font-weight: bold;
   }
 
    .produttore-table td[data-th="VScore"]:before, .produttore-table td[data-th="QP"]:before{
@@ -259,7 +265,19 @@
     position: sticky;
   }
    .produttore-table th{display:none}
-   .produttore-table th:nth-child(3), .produttore-table th:nth-child(4), .produttore-table th:nth-child(5) {display:block}
+   .produttore-table th:nth-child(2), .produttore-table th:nth-child(3), .produttore-table th:nth-child(4), .produttore-table th:nth-child(5) {display:block}
+   .produttore-table th:nth-child(2) {
+     white-space:nowrap;
+     overflow:hidden;
+     min-width: 70px;
+     text-overflow: ellipsis;
+   }
+    .produttore-table th:nth-child(2) a {  
+      color: #673ab7!important;
+    }
+    .produttore-table th:nth-child(3) a {  
+      color: orangered!important;
+    }  
    .produttore-table th{padding:0px}
    .produttore-table th:nth-child(1n-4) {
     border-bottom: 0px solid transparent!important; 
