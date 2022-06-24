@@ -87,8 +87,6 @@ window.addEventListener("load", function() {
     // produttore table and sort/filter tools
     if (window.location.href.indexOf("/produttori/") != -1) {
         produttoreSummaryTable()
-        document.querySelector('#filterInput').addEventListener('keyup', tableFilter)
-        setTimeout(tableSort, 1000)
     }
     // denominazione table
     if (window.location.href.indexOf("/denominazioni/") != -1) {

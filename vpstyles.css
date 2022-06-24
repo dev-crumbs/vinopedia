@@ -1,30 +1,277 @@
 /* #region SUMMARY TABLES PRODUTTORE*/
-@media screen and (max-width: 599px) {
-  table.produttore-table tbody tr{height:130px; overflow-y:auto}
-  table.produttore-table th:nth-child(1n+3) {display:none}
-  table.produttore-table th:nth-child(1n-2) {
-    border-bottom: 0px solid transparent!important; 
-    font-size: 90%;
-  }
+.produttore-table td[data-th='Prezzo']:after{
+  content: '€'
 }
-@media screen and (min-width: 600px) {
-  table.produttore-table td:nth-child(2),table.produttore-table th:nth-child(2){
+
+@media screen and (min-width: 599px) {
+
+  [role="region"][aria-labelledby][tabindex] {
+    width: 90%;
+    /*max-height: 500px;
+    /overflow: auto;*/
+  }
+  [role="region"][aria-labelledby][tabindex]:focus {
+    outline: 0;
+  }
+   .produttore-table {
+    margin:auto;
+    white-space: nowrap;
+    border: none;
+    border-collapse: separate;
+    border-spacing: 0;
+    table-layout: fixed;
+  }
+   .produttore-table th {
+    padding: 3px;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    background: white;
+  }
+   .produttore-table td, .produttore-table th {
+    background: #fff;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;      
+  }
+   .produttore-table td:nth-child(n+2){
+    text-align:center
+  }
+  .produttore-table th:nth-child(1) {
+    position: sticky;
+    left: 0px;
+    z-index: 2;
+    min-width:300px;
+    max-width:300px;
+    text-align: left
+  }
+
+  .produttore-table td:nth-child(1){
     position:sticky;
-    background-color: white;
-    left:180px
+    left:0px;
+    min-width:300px;
+    max-width:300px;
+  }
+  .produttore-table th:nth-child(2) {
+    max-width: 80px
+  }
+  .produttore-table th:nth-child(3) {
+    max-width: 80px
+  }
+  .produttore-table th:nth-child(4) {
+    position: sticky;
+    left: 300px;
+    z-index: 2;
+  }
+  .produttore-table td:nth-child(4){
+    position:sticky;
+    left:300px
+  }
+  .produttore-table th:nth-child(5) {
+    position: sticky;
+    left: 375px;
+    z-index: 2;
+  }
+  .produttore-table td:nth-child(5){
+    position:sticky;
+    left:375px
+  }
+   .produttore-table td[data-th="VScore"], .produttore-table td[data-th="QP"]{
+    color: transparent;
+    text-align: left;
+  }
+   .produttore-table td[data-th="VScore"]:after, .produttore-table td[data-th="QP"]:after{
+    position: absolute;
+    background: repeating-linear-gradient(
+      -45deg,
+      #84baf0,
+      #84baf0 10px,
+      #1976d2 10px,
+      #1976d2 20px
+    );
+    height:20px;
+    content: '';
+    left:0px;
+    width: inherit;
+    border-radius:2px;
+    box-shadow: 1px 1px 1px rgba(0,0,0,0.5)
+  }
+   .produttore-table td[data-th="QP"]:after{
+    background: repeating-linear-gradient(
+    -45deg,
+    #a4d7a6,
+    #a4d7a6 10px,
+    #4caf50 10px,
+    #4caf50 20px
+    );
+  }
+   .produttore-table th[title="QP"]{
+    min-width: 73px;
+    text-align: left;
   }
 }
 
-table.produttore-table td:nth-child(1) {
-  max-width: 180px;
-  text-overflow: ellipsis;
-  overflow: hidden;
-  white-space: nowrap;      
+@media screen and (max-width: 599px) {
+   .produttore-table {
+    background-color: white;
+  }
+   .produttore-table td[title="sv"]{
+    display:none
+  }
+   .produttore-table th[title="VScore"]{
+    min-width: max-content;
+    text-align: left;
+  }
+   .produttore-table td[data-th^='20']:not([title='sv']), .produttore-table td[data-th^='19']:not([title='sv']) {
+     display: inline-flex;
+     width:50px;
+     text-align:
+     center;
+     position:
+     relative;
+     top:20px;
+     left:5px;
+     height:50px
+  }
+   .produttore-table td[data-th^='20']:not([title='sv']):before, .produttore-table td[data-th^='19']:not([title='sv']):before {
+     position:absolute;
+     top:-20px;
+     left:-4px
+  }
+   .produttore-table td[data-th="VScore"], .produttore-table td[data-th="QP"]{
+    text-align: right;
+    position:relative;
+  }
+
+   .produttore-table tr{
+    position: relative;
+    text-align: left;
+  }
+
+   .produttore-table td[data-th="Media Grezza"]{
+    display: none
+  }
+  
+   .produttore-table td[data-th="Prezzo"]{
+    position:absolute;
+    top: 0px;
+    right: 0px;
+  }
+
+   .produttore-table td[data-th="VScore"]:before, .produttore-table td[data-th="QP"]:before{
+    position: absolute;
+    content: '';
+    background: repeating-linear-gradient(
+    -45deg,
+    #84baf0,
+    #84baf0 10px,
+    #1976d2 10px,
+    #1976d2 20px
+    );
+    height:22px;
+    left:0;
+    top:3px;
+    max-width:100%;
+    width: inherit;
+    border-radius:2px;
+    box-shadow: 1px 1px 1px rgba(0,0,0,0.5);
+    color: transparent;
+  }
+   .produttore-table td[data-th="QP"]:before{
+    background: repeating-linear-gradient(
+    -45deg,
+    #a4d7a6,
+    #a4d7a6 10px,
+    #4caf50 10px,
+    #4caf50 20px
+    );
+  }
+   .produttore-table td[data-th="VScore"]:after{
+    position:absolute;
+    content: 'VScore';
+    font-weight: normal;
+    text-align:right;
+    left: 4px;
+    top: 3px;
+    color: #424242;
+    text-shadow: 3px 3px 4px white,-3px -3px 4px white,-3px 3px 4px white,3px -3px 4px white;
+  }
+   .produttore-table td[data-th="QP"]:after{
+    position:absolute;
+    content: "QP";
+    font-weight: normal;
+    text-align:right;
+    left: 4px;
+    top: 4px;
+    color: #424242;
+    text-shadow: 3px 3px 4px white,-3px -3px 4px white,-3px 3px 4px white,3px -3px 4px white;
+  }
+
+   .produttore-table td[data-th="VScore"], .produttore-table td[data-th="QP"]{
+    min-width:100%
+  }
+
+   .produttore-table{
+    overflow:hidden;
+    width: 100%
+  }
+   .produttore-table tbody td:nth-child(1){
+    background-color:#f1f1f1;
+  }
+   .produttore-table tbody td{
+    padding:2px 3px!important;
+    border: 0px solid white!important
+  }
+   .produttore-table tbody td:first-child{
+    padding:2px 3px!important;
+  }
+ 
+   .produttore-table td {
+    display: block;
+    font-size: 1em;
+    text-align: left
+  }
+   .produttore-table td:nth-child(1) {
+    font-weight:bold
+  }
+   .produttore-table td:nth-child(n+2){
+    text-align: right;
+  }
+  
+   .produttore-table td:nth-child(n+4):before {
+    content: attr(data-th);
+    float: left;
+    font-weight: normal
+  } 
+
+   .produttore-table thead {
+    border: none;
+    clip: rect(0 0 0 0);
+    height: 1px;
+    margin: -1px;
+    overflow: hidden;
+    padding: 0;
+    /* position: absolute; */
+    width: 1px; }
+   .produttore-table thead tr {
+    display: flex;
+    justify-content: space-around;
+    position: sticky;
+  }
+   .produttore-table th{display:none}
+   .produttore-table th:nth-child(3), .produttore-table th:nth-child(4), .produttore-table th:nth-child(5) {display:block}
+   .produttore-table th{padding:0px}
+   .produttore-table th:nth-child(1n-4) {
+    border-bottom: 0px solid transparent!important; 
+    font-size: 90%;
+    padding:0px 5px!important
+  }
+   .produttore-table {
+    border: 0; 
+    margin: 0 0px!important;
+  }
 }
-table.produttore-table th:nth-child(1n+3) {text-align: right;}
-table.produttore-table td:nth-child(1n+3) {text-align: right;}
-table.produttore-table td:nth-child(2) {text-align: center;}
-table.produttore-table th:nth-child(2) {min-width: 110px; cursor:pointer}
+
 /* #endregion */
 
 /* #region SUMMARY TABLES DENOMINAZIONE*/
@@ -108,7 +355,8 @@ table.produttore-table th:nth-child(2) {min-width: 110px; cursor:pointer}
     z-index: 2;
   }
   table.denominazione-table td:nth-child(5){
-    position:sticky;
+    position:
+    sticky;
     left:460px
   }
   table.denominazione-table th:nth-child(6) {
@@ -120,7 +368,7 @@ table.produttore-table th:nth-child(2) {min-width: 110px; cursor:pointer}
     position:sticky;
     left:535px
   }
-    .denominazione-table td[data-th="VScore"],.denominazione-table td[data-th="QP"]{
+  .denominazione-table td[data-th="VScore"],.denominazione-table td[data-th="QP"]{
     color: transparent;
     text-align: left;
   }
@@ -356,7 +604,7 @@ table.produttore-table th:nth-child(2) {min-width: 110px; cursor:pointer}
 
 /* #region SUMMARY TABLES ALL*/
 
-td[data-th^='20']:not([title='sv']),.denominazione-table td[data-th^='19']:not([title='sv']) {
+td[data-th^='20']:not([title='sv']),.produttore-table td[data-th^='19']:not([title='sv']),.denominazione-table td[data-th^='19']:not([title='sv']) {
   font-style: normal;
   font-variant: normal;
   text-rendering: auto;
