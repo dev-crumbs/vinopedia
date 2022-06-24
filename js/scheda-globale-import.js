@@ -43,7 +43,11 @@ export function schedaGlobaleImport() {
       d3.select('h1').append().text(nomeCSV)
       d3.select('.caratteristiche li:nth-child(1)').append("span").text(" " + nomeCSV)
       d3.select('.caratteristiche li:nth-child(2)').append("span").text(" " + tipoCSV)
-      d3.select('.caratteristiche li:nth-child(3)').append("a").text(`${classificazioneCSV} ${denominazioneCSV}`)
+      if (classificazioneCSV){ 
+        d3.select('.caratteristiche li:nth-child(3)').append("a").text(`${classificazioneCSV + " " + denominazioneCSV}`)
+      } else {
+        d3.select('.caratteristiche li:nth-child(3)').append("a").text(`${denominazioneCSV}`)      
+      }
       d3.select('.caratteristiche li:nth-child(3) a').attr("href",`/denominazioni/${nazioneCSV}/${regioneCSV.replaceAll("'", '-').replaceAll(' ', '-')}/${classificazioneCSV}-${denominazioneCSV.replaceAll("'", '-').replaceAll(' ', '-')}`)
       d3.select('.caratteristiche li:nth-child(3)').append("span").text(` | ${menzioniCSV}`)
       d3.select('.caratteristiche li:nth-child(4)').append("a").text(`${produttoreCSV}`)
