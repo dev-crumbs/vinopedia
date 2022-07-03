@@ -104,10 +104,23 @@ export function schedaGlobaleImport() {
         nazione2 = "Italia"
       }                           
       const denominazioneFull2 = document.querySelector(".grid-list.caratteristiche li:nth-child(3) a").innerText.replaceAll(" ", "-").replaceAll("'", "-").replaceAll("é", "e")
+      const tipologia2 = document.querySelector(".grid-list.caratteristiche li:nth-child(2) span").innerText
       const denominazione2 = denominazioneFull2.split("-")
       if(denominazione2[1] == "Generico"){
          d3.select('.vscore').text("Non è possibile una comparazione equa per questo vino")
          d3.select('.qp').remove()
+      } else if (tipologia2.includes("Spumante")){
+        console.log("spumante")
+        d3.text(`/denominazioni/${nazione2}/${regione2}/${denominazioneFull2}-Spumanti/${denominazioneFull2}-Spumanti.csv`).then(function(data) {
+         const csv2 = d3.csvParse(data);
+         const filterInDen = function(d) {return d.Vino == headlineFull[0] && d.Produttore == headlineFull[2]}
+         // retrieve qp and v
+         const VScore = csv2.filter(filterInDen)[0].VScore;
+         const QP = csv2.filter(filterInDen)[0].QP;
+    
+         d3.select('.vscore').append().text(" " + VScore)
+         d3.select('.qp').append().text(" " + QP)
+       })
       } else {
          d3.text(`/denominazioni/${nazione2}/${regione2}/${denominazioneFull2}/${denominazioneFull2}.csv`).then(function(data) {
          const csv2 = d3.csvParse(data);
