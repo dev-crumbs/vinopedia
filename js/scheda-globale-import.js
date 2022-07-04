@@ -34,6 +34,7 @@ export function schedaGlobaleImport() {
       //punteggi
       const punteggioAIS = csv.filter(filterGlobalCSV)[0].AIS;
       const punteggioGR = csv.filter(filterGlobalCSV)[0].GR;
+      const mediaGlobale = csv.filter(filterGlobalCSV)[0].PunteggioMedio;
       //spumantizzazione
       const millesimoCSV = csv.filter(filterGlobalCSV)[0].Millesimo;
       const tecnicaCSV = csv.filter(filterGlobalCSV)[0].Tecnica;
@@ -76,8 +77,12 @@ export function schedaGlobaleImport() {
         d3.select('.caratteristiche li:nth-child(7)').append("span").text(" " + prezzoCSV + "€")
       }
       // punteggi
-      d3.select('.m-ais').append("span").text(punteggioAIS)
-      d3.select('.m-gr').append("span").text(punteggioGR)
+      d3.select('.m-glo').append("p").text("Media Globale")
+      d3.select('.m-glo').append("p").text(mediaGlobale)
+      d3.select('.m-ais').append("p").text("Media AIS")
+      d3.select('.m-ais').append("p").text(punteggioAIS)
+      d3.select('.m-gr').append("p").text("Media G.Rosso")
+      d3.select('.m-gr').append("p").text(punteggioGR)
       //abbinamenti
       for (const i of abbinamentoArray) {
         d3.select('.abbinamento').append("li").text(i)
@@ -124,8 +129,10 @@ export function schedaGlobaleImport() {
          const VScore = csv2.filter(filterInDen)[0].VScore;
          const QP = csv2.filter(filterInDen)[0].QP;
     
-         d3.select('.vscore').append("span").text(VScore)
-         d3.select('.qp').append("span").text(QP)
+         d3.select('.vscore').append("p").text("V Score")
+         d3.select('.vscore').append("p").text(VScore + "/100")
+         d3.select('.qp').append("p").text("Qualità Prezzo")
+         d3.select('.qp').append("p").text(QP + "/100")
        })
       } else {
          d3.text(`/denominazioni/${nazione2}/${regione2}/${denominazioneFull2}/${denominazioneFull2}.csv`).then(function(data) {
@@ -135,8 +142,10 @@ export function schedaGlobaleImport() {
          const VScore = csv2.filter(filterInDen)[0].VScore;
          const QP = csv2.filter(filterInDen)[0].QP;
     
-         d3.select('.vscore').append().text(" " + VScore)
-         d3.select('.qp').append().text(" " + QP)
+         d3.select('.vscore').append("p").text("V Score")
+         d3.select('.vscore').append("p").text(VScore + "/100")
+         d3.select('.qp').append("p").text("Qualità Prezzo")
+         d3.select('.qp').append("p").text(QP + "/100")           
        })
       }
   })
