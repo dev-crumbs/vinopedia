@@ -31,6 +31,9 @@ export function schedaGlobaleImport() {
       const abbinamentoCSV = csv.filter(filterGlobalCSV)[0].Abbinamento;
       const abbinamentoArray = abbinamentoCSV.split(' – ')
       const noteCSV = csv.filter(filterGlobalCSV)[0].Note;
+      //punteggi
+      const punteggioAIS = csv.filter(filterGlobalCSV)[0].AIS;
+      const punteggioGR = csv.filter(filterGlobalCSV)[0].GR;
       //spumantizzazione
       const millesimoCSV = csv.filter(filterGlobalCSV)[0].Millesimo;
       const tecnicaCSV = csv.filter(filterGlobalCSV)[0].Tecnica;
@@ -72,14 +75,17 @@ export function schedaGlobaleImport() {
         d3.select('.caratteristiche li:nth-child(6)').append("span").text(" " + alcolCSV + "%")
         d3.select('.caratteristiche li:nth-child(7)').append("span").text(" " + prezzoCSV + "€")
       }
-
+      // punteggi
+      d3.select('.m-ais').append().text(" " + punteggioAIS)
+      d3.select('.m-gr').append().text(" " + punteggioGR)
+      //abbinamenti
       for (const i of abbinamentoArray) {
         d3.select('.abbinamento').append("li").text(i)
       }
       for (const i of annateCSVArray) {
         d3.select('.annate').append("li").html(`${nomeCSV} <a href="/it/vini/${nazioneCSV}/${regioneCSV}/${produttoreCSV.replaceAll("' ", '-').replaceAll(' ', '-').replaceAll("'", '-')}/${nomeCSV.replaceAll(' ', '-').replaceAll("'", '-')}/annata-${i.Anno}">${i.Anno}</a> -- <span class="star-${i.Valutazione}"></span> -- ${i.PunteggioMedio}/100`)
       }
-      // add ittle to list
+      // add title to list
       if (spumanteCheck == null){
         
       } else {
