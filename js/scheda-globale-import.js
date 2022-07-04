@@ -76,8 +76,8 @@ export function schedaGlobaleImport() {
         d3.select('.caratteristiche li:nth-child(7)').append("span").text(" " + prezzoCSV + "€")
       }
       // punteggi
-      d3.select('.m-ais').append().text(" " + punteggioAIS)
-      d3.select('.m-gr').append().text(" " + punteggioGR)
+      d3.select('.m-ais').append("span").text(punteggioAIS)
+      d3.select('.m-gr').append("span").text(punteggioGR)
       //abbinamenti
       for (const i of abbinamentoArray) {
         d3.select('.abbinamento').append("li").text(i)
@@ -124,8 +124,8 @@ export function schedaGlobaleImport() {
          const VScore = csv2.filter(filterInDen)[0].VScore;
          const QP = csv2.filter(filterInDen)[0].QP;
     
-         d3.select('.vscore').append().text(" " + VScore)
-         d3.select('.qp').append().text(" " + QP)
+         d3.select('.vscore').append("span").text(VScore)
+         d3.select('.qp').append("span").text(QP)
        })
       } else {
          d3.text(`/denominazioni/${nazione2}/${regione2}/${denominazioneFull2}/${denominazioneFull2}.csv`).then(function(data) {
