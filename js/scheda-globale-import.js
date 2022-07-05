@@ -77,12 +77,24 @@ export function schedaGlobaleImport() {
         d3.select('.caratteristiche li:nth-child(7)').append("span").text(" " + prezzoCSV + "€")
       }
       // punteggi
-      d3.select('.m-glo').append("p").text("Media Globale")
-      d3.select('.m-glo').append("p").text(mediaGlobale)
-      d3.select('.m-ais').append("p").text("Media AIS")
-      d3.select('.m-ais').append("p").text(punteggioAIS)
-      d3.select('.m-gr').append("p").text("Media G.Rosso")
-      d3.select('.m-gr').append("p").text(punteggioGR)
+      if (mediaGlobale == "nd"){
+        d3.select('.m-glo').remove();
+      } else {
+        d3.select('.m-glo').append("p").text("Media Globale")
+        d3.select('.m-glo').append("p").text(mediaGlobale)
+      }
+      if (punteggioAIS == "nd"){
+        d3.select('.m-ais').remove();
+      } else {
+        d3.select('.m-ais').append("p").text("Media AIS")
+        d3.select('.m-ais').append("p").text(punteggioAIS)
+      }
+      if (punteggioGR == "nd"){
+        d3.select('.m-gr').remove()
+      } else {
+        d3.select('.m-gr').append("p").text("Media G.Rosso")
+        d3.select('.m-gr').append("p").text(punteggioGR)
+      }
       //abbinamenti
       for (const i of abbinamentoArray) {
         d3.select('.abbinamento').append("li").text(i)
@@ -94,10 +106,10 @@ export function schedaGlobaleImport() {
       if (spumanteCheck == null){
         
       } else {
-        d3.select('.spumantizzazione li:nth-child(1)').append("span").text(" " + millesimoCSV)
-        d3.select('.spumantizzazione li:nth-child(2)').append("span").text(" " + tecnicaCSV)
-        d3.select('.spumantizzazione li:nth-child(3)').append("span").text(" " + zuccheroCSV)
-        d3.select('.spumantizzazione li:nth-child(4)').append("span").text(" " + affinamentoCSV)
+        d3.select('.spumantizzazione li:nth-child(1)').append("span").text(millesimoCSV)
+        d3.select('.spumantizzazione li:nth-child(2)').append("span").text(tecnicaCSV)
+        d3.select('.spumantizzazione li:nth-child(3)').append("span").text(zuccheroCSV)
+        d3.select('.spumantizzazione li:nth-child(4)').append("span").text(affinamentoCSV)
       }
       if (noteCheck == null){ } else{
         d3.select('.note').append().text(noteCSV)
@@ -128,7 +140,7 @@ export function schedaGlobaleImport() {
          // retrieve qp and v
          const VScore = csv2.filter(filterInDen)[0].VScore;
          const QP = csv2.filter(filterInDen)[0].QP;
-    
+
          d3.select('.vscore').append("p").text("V Score")
          d3.select('.vscore').append("p").text(VScore + "/100")
          d3.select('.qp').append("p").text("Qualità Prezzo")
