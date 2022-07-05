@@ -1,7 +1,7 @@
 Produttore,Vino,Media Grezza,Prezzo,VScore,QP,2020,2019,2018,2017,2016,2015,2014,2013
 Andre Pellissier,Valle D'Aosta Pinot Noir Elevation,3.0,30-34,10,8,sv,3,3,sv,sv,sv,sv,sv
 Anna De Santis,Valle D'Aosta Pinot Noir,2.0,25-29,2,2,sv,sv,sv,sv,2,sv,sv,sv
-Cave Gargantua,Valle D'Aosta Pinot Noir Pierre,4.0,25-29,29,27,sv,sv,4,4,sv,sv,sv,sv
+Cave Gargantua,Valle D'Aosta Pinot Noir Pierre,3.5,25-29,19,18,sv,sv,3,4,sv,sv,sv,sv
 Clos Blanc,Valle D'Aosta Pinot Noir,3.0,10-14,5,10,sv,sv,sv,sv,3,sv,sv,sv
 Crotta Di Prado,Valle D'Aosta Pinot Noir,2.0,10-14,8,18,sv,2,1,sv,sv,3,2,sv
 Grosejan Vins,Valle D'Aosta Pinot Noir Vigne Tzeriat,2.7,15-19,11,17,sv,3,3,sv,2,sv,sv,sv
@@ -13,13 +13,14 @@ Les Granges,Valle D'Aosta Pinot Noir,2.5,15-19,7,10,sv,sv,sv,sv,3,2,sv,sv
 Lo Triolet,Valle D'Aosta Pinot Noir,3.0,15-19,15,22,sv,sv,3,sv,3,3,sv,sv
 Mai Domi,Valle D'Aosta Pinot Noir,2.0,25-29,2,2,sv,sv,2,sv,sv,sv,sv,sv
 Maison Agricole,Valle D'Aosta Pinot Noir,2.5,10-14,7,14,sv,sv,sv,sv,3,2,sv,sv
-Maison Anselmet,Valle D'Aosta Pinot Noir Semel Pater,3.2,45-49,34,18,sv,3,sv,4,3,3,3,sv
+Maison Anselmet,Valle D'Aosta Pinot Noir Semel Pater,3.5,45-49,77,42,sv,3,sv,4,3,3,3,5
 Maison Anselmet,Valle D'Aosta Pinot Noir Tradition,3.5,25-29,19,18,sv,sv,sv,4,sv,3,sv,sv
 Nicola Del Negro,Valle D'Aosta Pinot Noir Laon,3.0,30-34,5,4,sv,3,sv,sv,sv,sv,sv,sv
 Nicola Del Negro,Valle D'Aosta Pinot Noir,2.0,10-14,2,4,sv,sv,2,sv,sv,sv,sv,sv
-Noussan,Valle D'Aosta Pinot Noir,3.0,15-19,5,7,sv,sv,sv,sv,3,sv,sv,sv
+Noussan,Valle D'Aosta Pinot Noir,3.0,15-19,10,15,sv,sv,sv,3,3,sv,sv,sv
 Ottin,Valle D'Aosta Pinot Noir L'Emerico,4.7,40-44,100,61,sv,sv,5,4,5,sv,sv,sv
 Ottin,Valle D'Aosta Pinot Noir,3.7,20-24,86,100,sv,3,3,4,4,5,3,sv
 Rosset Terroir,Valle D'Aosta Pinot Noir 850,3.0,35-39,5,3,sv,3,sv,sv,sv,sv,sv,sv
 Tanteun E Marietta,Valle D'Aosta Pinot Noir R.E.M.,2.7,15-19,11,17,sv,3,3,sv,sv,2,sv,sv
 Cave Gargantua,Valle D'Aosta Pinot Noir Pierre,2.3,15-19,8,12,sv,2,sv,sv,3,2,sv,sv
+Les Cretes,Valle D'Aosta Pinot Noir Revei,3.0,30-34,10,8,sv,sv,3,3,sv,sv,sv,sv
