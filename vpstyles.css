@@ -1354,9 +1354,10 @@ max-width: 350px
 .annate-table {
   border: 1px solid #ccc;
   border-collapse: collapse;
-  margin: 20px auto!important;
+  margin-top: 10px!important;
   padding: 0;
-  width: 90%;
+  width: 600px;
+  border: 0
 }
 
 .annate-table th,
@@ -1373,7 +1374,8 @@ max-width: 350px
 
 @media screen and (max-width: 600px) {
   .annate-table {
-    border: 0;
+    margin: 20px auto!important;
+    width: 90%
   }
  
   .annate-table thead {
