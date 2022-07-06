@@ -99,17 +99,35 @@ export function schedaGlobaleImport() {
       for (const i of abbinamentoArray) {
         d3.select('.abbinamento').append("li").text(i)
       }
+      //annate
+      const annateHead = d3.select('.annate-table thead tr')
+          annateHead.append("th").text("Annata")
+          annateHead.append("th").text("Media")
+          annateHead.append("th").text("AIS")
+          annateHead.append("th").text("Gambero Rosso")
       for (const i of annateCSVArray) {
-        d3.select('.annate').append("li").html(`${nomeCSV} <a href="/it/vini/${nazioneCSV}/${regioneCSV}/${produttoreCSV.replaceAll("' ", '-').replaceAll(' ', '-').replaceAll("'", '-')}/${nomeCSV.replaceAll(' ', '-').replaceAll("'", '-')}/annata-${i.Anno}">${i.Anno}</a> -- <span class="star-${i.Valutazione}"></span> -- ${i.PunteggioMedio}/100`)
+        const annateBodyRow = d3.select('.annate-table tbody').append("tr")
+          annateBodyRow.append("td").html(`<a href="/it/vini/${nazioneCSV}/${regioneCSV}/${produttoreCSV.replaceAll("' ", '-').replaceAll(' ', '-').replaceAll("'", '-')}/${nomeCSV.replaceAll(' ', '-').replaceAll("'", '-')}/annata-${i.Anno}">${i.Anno}</a>`) 
+          annateBodyRow.append("td").html(`${i.Valutazione}<span class="star"></span> -- ${i.PunteggioMedio}/100`)
+          if (i.ValutazioneAIS == "nd") {
+            annateBodyRow.append("td").html(`${i.ValutazioneAIS}`).attr("data-label","AIS")
+          } else {
+            annateBodyRow.append("td").html(`${i.ValutazioneAIS}<span class="star"></span> -- ${i.AIS}/100`).attr("data-label","AIS")
+          }   
+          if (i.ValutazioneGR == "nd") {
+            annateBodyRow.append("td").html(`${i.ValutazioneGR}`).attr("data-label","Gambero Rosso")
+          } else {
+          annateBodyRow.append("td").html(`${i.ValutazioneGR}<span class="star"></span> -- ${i.GR}/100`).attr("data-label","Gambero Rosso")   
+          }
       }
       // add title to list
       if (spumanteCheck == null){
         
       } else {
-        d3.select('.spumantizzazione li:nth-child(1)').append("span").text(millesimoCSV)
-        d3.select('.spumantizzazione li:nth-child(2)').append("span").text(tecnicaCSV)
-        d3.select('.spumantizzazione li:nth-child(3)').append("span").text(zuccheroCSV)
-        d3.select('.spumantizzazione li:nth-child(4)').append("span").text(affinamentoCSV)
+        d3.select('.spumantizzazione li:nth-child(1)').append("span").text(" " + millesimoCSV)
+        d3.select('.spumantizzazione li:nth-child(2)').append("span").text(" " + tecnicaCSV)
+        d3.select('.spumantizzazione li:nth-child(3)').append("span").text(" " + zuccheroCSV)
+        d3.select('.spumantizzazione li:nth-child(4)').append("span").text(" " + affinamentoCSV)
       }
       if (noteCheck == null){ } else{
         d3.select('.note').append().text(noteCSV)
@@ -142,7 +160,7 @@ export function schedaGlobaleImport() {
          const QP = csv2.filter(filterInDen)[0].QP;
 
          d3.select('.vscore').append("p").text("V Score")
-         d3.select('.vscore').append("p").text(VScore + "/100")
+         d3.select('.vscore').append("p").html(VScore + "/100")
          d3.select('.qp').append("p").text("Qualità Prezzo")
          d3.select('.qp').append("p").text(QP + "/100")
        })
