@@ -55,7 +55,7 @@ export function schedaGlobaleImport() {
       d3.select('.caratteristiche li:nth-child(3) a').attr("href",`/denominazioni/${nazioneCSV}/${regioneCSV.replaceAll("'", '-').replaceAll(' ', '-')}/${classificazioneCSV}-${denominazioneCSV.replaceAll("'", '-').replaceAll(' ', '-')}`)
       d3.select('.caratteristiche li:nth-child(3)').append("span").text(` | ${menzioniCSV}`)
       d3.select('.caratteristiche li:nth-child(4)').append("a").text(`${produttoreCSV}`)
-      d3.select('.caratteristiche li:nth-child(4) a').attr("href",`/produttori/${nazioneCSV}/${regioneCSV}/${produttoreCSV.replaceAll("' ", '-').replaceAll(' ', '-')}`)
+      d3.select('.caratteristiche li:nth-child(4) a').attr("href",`/produttori/${nazioneCSV}/${regioneCSV.replaceAll("'", '-').replaceAll(' ', '-')}/${produttoreCSV.replaceAll("' ", '-').replaceAll(' ', '-')}`)
       for (const i of composizioneArray) {
         const cleanVitigno = i.split(/( \d+)/)[0].replaceAll(' ', '-').replaceAll("'", "-").toLowerCase()
         function nationCheck(){switch(cleanVitigno){case"cabernet-sauvignon":return"Francia";case"cabernet-franc":return"Francia";case"carmenere":return"Francia";case"pinot-noir":return"Francia";case"merlot":return"Francia";case"syrah":return"Francia";case"sauvignon-blanc":return"Francia";case"chardonnay":return"Francia";case"pinot-blanc":return"Francia";case"kerner":return"Germania";case"muller-thurgau":return"Svizzera";default:return"Italia"}}
