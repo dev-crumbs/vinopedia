@@ -389,6 +389,7 @@
   .denominazione-table td[data-th="VScore"],.denominazione-table td[data-th="QP"]{
     color: transparent;
     text-align: left;
+    position:relative;
   }
   .denominazione-table td[data-th="VScore"]:after,.denominazione-table td[data-th="QP"]:after{
     position: absolute;
@@ -450,7 +451,6 @@
   }
   .denominazione-table td[data-th="VScore"],.denominazione-table td[data-th="QP"]{
     text-align: right;
-    position:relative;
   }
 
   .denominazione-table tr{
