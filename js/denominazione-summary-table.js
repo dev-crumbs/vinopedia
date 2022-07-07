@@ -36,6 +36,7 @@ export function denominazioneSummaryTable(){
         const avgPrice = (Number(splitPrices[0]) + Number(splitPrices[1])) / 2
         return avgPrice
       }
+      var startTime = performance.now()
       for (const i of winesList) {
         const produttoreBodyRow = d3.select(`.denominazioneTipo[data-tn="${denominazione}"] .denominazione-table tbody`).append("tr").attr("data-th", `${i.Nome}-row`)
         produttoreBodyRow.append("td").attr("data-th", "Produttore").attr("title", `${i.Produttore}`).html(`<a href="/it/produttori/${nazione}/${regione}/${i.Produttore.replaceAll(' ', '-').replaceAll("'", '-')}.html">${i.Produttore}</a>`)
@@ -51,29 +52,9 @@ export function denominazioneSummaryTable(){
             d3.select(`.denominazioneTipo[data-tn="${denominazione}"] .denominazione-table tr[data-th="${k.Nome}-row"] td[data-th="${k.Anno}"]`).attr("title", `${k.Valutazione}`).text(`${k.Valutazione}`)
         }  
       }
-      for (const i of years) {
-            const all132 = document.querySelector(`.denominazioneTipo[data-tn="${denominazione}"] .denominazione-table th[data-th="${i}"]`)
-            const all13 = document.querySelectorAll(`.denominazioneTipo[data-tn="${denominazione}"] .denominazione-table td[data-th="${i}"]`)
-            const all = []
-            for (const j of all13) {
-                all.push(j.innerText)
-            }
-            const allEqual = arr => arr.every( v => v === arr[0] )
-
-            if (allEqual(all) == true){ 
-                all132.remove()
-                for (const i of all13){
-                    i.remove()
-                }
-            } else {
-                for (const i of all13){
-                    if(i.innerText == "") {
-                        i.innerText = "sv"
-                        i.setAttribute("title", "sv")
-                    }
-                }
-            }
-        }
+      var endTime = performance.now()
+      console.log(`Call to doSomething took ${endTime - startTime} milliseconds`)      
+      
         const dataTable = new simpleDatatables.DataTable(`.denominazioneTipo[data-tn="${denominazione}"] .denominazione-table`, {
           layout: {
             top: "{search}",
@@ -118,7 +99,33 @@ export function denominazioneSummaryTable(){
         document.querySelector(`.denominazioneTipo[data-tn="${denominazione}"] .statistiche-denominazione li:nth-child(3) span`).innerText = Math.max(...arrayPrice) + "€"
         document.querySelector(`.denominazioneTipo[data-tn="${denominazione}"] .statistiche-denominazione li:nth-child(4) span`).innerText = globalAvg
     }).then(function(){//post content populating js functions
-        
+        document.querySelector(".loader-container").remove()
+        var startTime2 = performance.now()
+      for (const i of years) {
+            const all132 = document.querySelector(`.denominazioneTipo[data-tn="${denominazione}"] .denominazione-table th[data-th="${i}"]`)
+            const all13 = document.querySelectorAll(`.denominazioneTipo[data-tn="${denominazione}"] .denominazione-table td[data-th="${i}"]`)
+            const all = []
+            for (const j of all13) {
+                all.push(j.innerText)
+            }
+            const allEqual = arr => arr.every( v => v === arr[0] )
+
+            if (allEqual(all) == true){ 
+                all132.remove()
+                for (const i of all13){
+                    i.remove()
+                }
+            } else {
+                for (const i of all13){
+                    if(i.innerText == "") {
+                        i.innerText = "sv"
+                        i.setAttribute("title", "sv")
+                    }
+                }
+            }
+        }
+        var endTime2 = performance.now()
+        console.log(`Call to doSomething took ${endTime2 - startTime2} milliseconds`)
       })
   }
 }
