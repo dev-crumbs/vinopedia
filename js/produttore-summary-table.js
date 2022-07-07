@@ -6,9 +6,9 @@ export function produttoreSummaryTable() {
     const produttoreURL = document.querySelector(".headline").innerText.replaceAll("' ", '-').replaceAll(' ', '-').replaceAll("'", '-')
     const headlineCaption = document.querySelector(".caption").innerText.split(' | ')
     const nazione = headlineCaption[1]
-    const regione = headlineCaption[2].replaceAll(" ", "-").replaceAll("'", "-");    
+    const regione = headlineCaption[2].replaceAll(" ", "-").replaceAll("'", "-");
     const years = [2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005]
-    d3.text(`/vini/${regione}.csv`).then(function myFunction(data) {
+    d3.text(`/vini/${regione.toLowerCase()}.csv`).then(function myFunction(data) {
         const csv = d3.csvParse(data);
         const winesFilter = function(d) {
             return d.Produttore == produttore && d.Entry === "1"

@@ -8,7 +8,7 @@ export function schedaGlobaleImport() {
   //page headline input
   const headlineFull = document.querySelector(".headline").innerText.split(' – ')
   const regioneH = headlineFull[3].split(' (')
-  const regioneHSan = regioneH[0].replaceAll(' ', '-').replaceAll("'", '-')
+  const regioneHSan = regioneH[0].toLowerCase().replaceAll(' ', '-').replaceAll("'", '-')
   d3.text(`/vini/${regioneHSan}.csv`).then(function myFunction(data) {
       const csv = d3.csvParse(data);
       const filterGlobalCSV = function(d) {return d.Nome == headlineFull[0] && d.Produttore == headlineFull[2] && d.Entry === "1"}
