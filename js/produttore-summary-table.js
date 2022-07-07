@@ -96,5 +96,32 @@ export function produttoreSummaryTable() {
         nextPrev: false
       })
     }
+    //statistiche produttore
+    const arrayWines = document.querySelectorAll(".produttore-table td[data-th='Vino']")
+    //media delle medie
+    const arrayAvgTd = document.querySelectorAll(".produttore-table td[data-th='Media Grezza']")
+    const arrayAvgString = []
+    for (const i of arrayAvgTd) {
+        arrayAvgString.push(i.innerText)
+    }
+    const arrayAvg = arrayAvgString.map(Number)
+    const sumAvg = arrayAvg.reduce((a, b) => a+b, 0);
+    const globalAvg = ((sumAvg / arrayAvg.length) || 0).toFixed(1);
+    //prezzo medio    
+    const arrayPriceTd = document.querySelectorAll(".produttore-table td[data-th='Prezzo']")
+    const arrayPriceString = []
+    for (const i of arrayPriceTd) {
+        arrayPriceString.push(i.innerText)
+    }
+    const arrayPrice = arrayPriceString.map(Number)
+    const sumPrice = arrayPrice.reduce((a, b) => a+b, 0);
+    const globalPrice = ((sumPrice / arrayPrice.length) || 0).toFixed(0);
+        
+    document.querySelector(".statistiche-produttore li:nth-child(1) span").innerText = arrayWines.length
+    document.querySelector(".statistiche-produttore li:nth-child(2) span").innerText = globalPrice + "€"
+    document.querySelector(".statistiche-produttore li:nth-child(3) span").innerText = Math.max(...arrayPrice) + "€"
+    document.querySelector(".statistiche-produttore li:nth-child(4) span").innerText = globalAvg
+
+
   })
 }
