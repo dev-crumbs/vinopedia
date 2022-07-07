@@ -5,8 +5,8 @@ export function produttoreSummaryTable() {
     const produttore = document.querySelector(".headline").innerText
     const produttoreURL = document.querySelector(".headline").innerText.replaceAll("' ", '-').replaceAll(' ', '-').replaceAll("'", '-')
     const headlineCaption = document.querySelector(".caption").innerText.split(' | ')
-    const regione = headlineCaption[1].replaceAll(" ", "-").replaceAll("'", "-");
-    const nazione = document.querySelector(".prouttoreNazione").innerText
+    const nazione = headlineCaption[1]
+    const regione = headlineCaption[2].replaceAll(" ", "-").replaceAll("'", "-");    
     const years = [2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005]
     d3.text(`/vini/${regione}.csv`).then(function myFunction(data) {
         const csv = d3.csvParse(data);
@@ -35,7 +35,7 @@ export function produttoreSummaryTable() {
         }
         for (const i of winesList) {
             const produttoreBodyRow = d3.select('.produttore-table tbody').append("tr").attr("title", `${i.Nome}-row`)
-            produttoreBodyRow.append("td").attr("data-th", "Vino").html(`<a href="/it/vini/Italia/${regione}/${produttoreURL}/${i.Nome.replaceAll(' ', '-').replaceAll("'", '-')}/scheda-globale.html">${i.Nome}</a>`)
+            produttoreBodyRow.append("td").attr("data-th", "Vino").html(`<a href="/it/vini/${nazione}/${regione}/${produttoreURL}/${i.Nome.replaceAll(' ', '-').replaceAll("'", '-')}/scheda-globale.html">${i.Nome}</a>`)
             produttoreBodyRow.append("td").attr("data-th", "Media Grezza").text(`${i.MediaGrezza}`)
             produttoreBodyRow.append("td").attr("data-th", "Prezzo").html(`${calcPrice(i)}`)
             produttoreBodyRow.append("td").attr("data-th", "VScore").attr("title", `${i.VScore}`).style("width", function (d) {
