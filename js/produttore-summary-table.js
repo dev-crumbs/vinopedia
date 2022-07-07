@@ -34,8 +34,8 @@ export function produttoreSummaryTable() {
             return avgPrice
         }
         for (const i of winesList) {
-            const produttoreBodyRow = d3.select('.produttore-table tbody').append("tr").attr("title", `${i.Nome}-row`)
-            produttoreBodyRow.append("td").attr("data-th", "Vino").html(`<a href="/it/vini/${nazione}/${regione}/${produttoreURL}/${i.Nome.replaceAll(' ', '-').replaceAll("'", '-')}/scheda-globale.html">${i.Nome}</a>`)
+            const produttoreBodyRow = d3.select('.produttore-table tbody').append("tr").attr("data-th", `${i.Nome}-row`)
+            produttoreBodyRow.append("td").attr("data-th", "Vino").attr("title", `${i.Nome}`).html(`<a href="/it/vini/${nazione}/${regione}/${produttoreURL}/${i.Nome.replaceAll(' ', '-').replaceAll("'", '-')}/scheda-globale.html">${i.Nome}</a>`)
             produttoreBodyRow.append("td").attr("data-th", "Media Grezza").text(`${i.MediaGrezza}`)
             produttoreBodyRow.append("td").attr("data-th", "Prezzo").html(`${calcPrice(i)}`)
             produttoreBodyRow.append("td").attr("data-th", "VScore").attr("title", `${i.VScore}`).style("width", function (d) {
@@ -46,7 +46,7 @@ export function produttoreSummaryTable() {
                 produttoreBodyRow.append("td").attr("data-th", `${years[j]}`)
             }
             for (const k of wineList) {
-                d3.select(`.produttore-table tr[title="${k.Nome}-row"] td[data-th="${k.Anno}"]`).attr("title", `${k.Valutazione}`).text(`${k.Valutazione}`)
+                d3.select(`.produttore-table tr[data-th="${k.Nome}-row"] td[data-th="${k.Anno}"]`).attr("title", `${k.Valutazione}`).text(`${k.Valutazione}`)
             }
         }
         for (const i of years) {
