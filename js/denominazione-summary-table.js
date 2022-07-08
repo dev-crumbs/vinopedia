@@ -13,7 +13,7 @@ export function denominazioneSummaryTable(){
     //function declarations
     //destroyEmptiness
     function destroyEmptiness(){
-      var startTime2 = performance.now()
+      //var startTime2 = performance.now()
       for (const i of years) {
         const all132 = document.querySelector(`.denominazioneTipo[data-tn="${denominazione}"] .denominazione-table th[data-th="${i}"]`)
         const all13 = document.querySelectorAll(`.denominazioneTipo[data-tn="${denominazione}"] .denominazione-table td[data-th="${i}"]`)
@@ -30,8 +30,9 @@ export function denominazioneSummaryTable(){
             }
         }
       }
-      var endTime2 = performance.now()
-      console.log(`Call to doSomething took ${endTime2 - startTime2} milliseconds`)  
+      document.querySelector(".loader-container").remove()
+      //var endTime2 = performance.now()
+      //console.log(`Call to doSomething took ${endTime2 - startTime2} milliseconds`)  
     }
     //calcSinglePrice
     function calcPrice(i) {
@@ -99,9 +100,6 @@ export function denominazioneSummaryTable(){
       document.querySelector(`.denominazioneTipo[data-tn="${denominazione}"] .statistiche-denominazione li:nth-child(3) span`).innerText = Math.max(...arrayPrice) + "€"
       document.querySelector(`.denominazioneTipo[data-tn="${denominazione}"] .statistiche-denominazione li:nth-child(4) span`).innerText = globalAvg        
     }).then(function(){   
-      document.querySelector(".loader-container").remove()
-      
-
       //safer to open csv a second time for bigger tables
       d3.text(`/vini/${regione.toLowerCase()}.csv`).then( function(data) {
         const csv = d3.csvParse(data);
