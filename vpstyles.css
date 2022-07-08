@@ -438,8 +438,7 @@
      width:50px;
      text-align:
      center;
-     position:
-     relative;
+     position: relative;
      top:20px;
      left:5px;
      height:50px
@@ -451,6 +450,7 @@
   }
   .denominazione-table td[data-th="VScore"],.denominazione-table td[data-th="QP"]{
     text-align: right;
+    position: relative
   }
 
   .denominazione-table tr{
@@ -629,13 +629,13 @@ td[data-th^='20']:not([title='sv']),.produttore-table td[data-th^='19']:not([tit
   font-weight: bold
 }
 
-td[data-th^='20']:not([title='sv']):after,td[data-th^='19']:not([title='sv']):after {
+td[title="1"]:after, td[title="2"]:after,td[title="3"]:after,td[title="4"]:after,td[title="5"]:after {
   font-family: "Font Awesome 5 Free";
   font-weight: 900;
   content: "\f005";
   font-size:70%;
   padding-bottom: 2px
-}  
+}
 
 table.summary-table{
 width:90%;
