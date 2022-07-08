@@ -5,7 +5,7 @@ export function denominazioneSummaryTable(){
   const headlineCaption = document.querySelector(".caption").innerText.split(' | ')
   const nazione = headlineCaption[1]
   const regione = headlineCaption[2].replaceAll(" ", "-").replaceAll("'", "-");
-  const years = [2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005]
+  const years = [2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005,2004,2003]
   //endnew
   var denominazioneArray = document.querySelectorAll(".denominazioneTipo");
   for (const el of denominazioneArray){
@@ -13,6 +13,7 @@ export function denominazioneSummaryTable(){
     //function declarations
     //destroyEmptiness
     function destroyEmptiness(){
+      var startTime2 = performance.now()
       for (const i of years) {
         const all132 = document.querySelector(`.denominazioneTipo[data-tn="${denominazione}"] .denominazione-table th[data-th="${i}"]`)
         const all13 = document.querySelectorAll(`.denominazioneTipo[data-tn="${denominazione}"] .denominazione-table td[data-th="${i}"]`)
@@ -27,15 +28,10 @@ export function denominazioneSummaryTable(){
             for (const i of all13){
                 i.remove()
             }
-        } else {
-            for (const i of all13){
-                if(i.innerText == "") {
-                    i.innerText = "sv"
-                    i.setAttribute("title", "sv")
-                }
-            }
         }
       }
+      var endTime2 = performance.now()
+      console.log(`Call to doSomething took ${endTime2 - startTime2} milliseconds`)  
     }
     //calcSinglePrice
     function calcPrice(i) {
@@ -60,12 +56,12 @@ export function denominazioneSummaryTable(){
       produttoreHead.append("th").text("VScore")
       produttoreHead.append("th").text("QP")
       for (const i in years) {
-        produttoreHead.append("th").text(`${years[i]}`).attr("data-th",`${years[i]}`)
+        produttoreHead.append("th").text(`${years[i]}`).attr("data-th",`${years[i]}`).attr("title","sv")
       }
 
       var startTime = performance.now()
       for (const i of winesList) {
-        const produttoreBodyRow = d3.select(`.denominazioneTipo[data-tn="${denominazione}"] .denominazione-table tbody`).append("tr").attr("data-th", `${i.Nome}-row`)
+        const produttoreBodyRow = d3.select(`.denominazioneTipo[data-tn="${denominazione}"] .denominazione-table tbody`).append("tr").attr("data-th", `${i.Produttore}-${i.Nome}`)
         produttoreBodyRow.append("td").attr("data-th", "Produttore").attr("title", `${i.Produttore}`).html(`<a href="/it/produttori/${nazione}/${regione}/${i.Produttore.replaceAll(' ', '-').replaceAll("'", '-')}.html">${i.Produttore}</a>`)
         produttoreBodyRow.append("td").attr("data-th", "Vino").attr("title", `${i.Nome}`).html(`<a href="/it/vini/${nazione}/${regione}/test/${i.Nome.replaceAll(' ', '-').replaceAll("'", '-')}/scheda-globale.html">${i.Nome}</a>`)
         produttoreBodyRow.append("td").attr("data-th", "Media Grezza").text(`${i.MediaGrezza}`)
@@ -73,7 +69,7 @@ export function denominazioneSummaryTable(){
         produttoreBodyRow.append("td").attr("data-th", "VScore").attr("title", `${i.VScore}`).style("width", function (d) {return ((i.VScore*90)/100) + "%"}).text(`${i.VScore}`)
         produttoreBodyRow.append("td").attr("data-th", "QP").attr("title", `${i.QP}`).style("width", function (d) {return ((i.QP*90)/100) + "%"}).text(`${i.QP}`)
         for (const j in years) {
-            produttoreBodyRow.append("td").attr("data-th", `${years[j]}`)
+            produttoreBodyRow.append("td").attr("data-th", `${years[j]}`).attr("title", "sv").text("sv")
         }  
       }
       var endTime = performance.now()
@@ -101,45 +97,42 @@ export function denominazioneSummaryTable(){
       document.querySelector(`.denominazioneTipo[data-tn="${denominazione}"] .statistiche-denominazione li:nth-child(1) span`).innerText = arrayWines.length
       document.querySelector(`.denominazioneTipo[data-tn="${denominazione}"] .statistiche-denominazione li:nth-child(2) span`).innerText = globalPrice + "€"
       document.querySelector(`.denominazioneTipo[data-tn="${denominazione}"] .statistiche-denominazione li:nth-child(3) span`).innerText = Math.max(...arrayPrice) + "€"
-      document.querySelector(`.denominazioneTipo[data-tn="${denominazione}"] .statistiche-denominazione li:nth-child(4) span`).innerText = globalAvg
-      //start dataTable after statistics
-      const dataTable = new simpleDatatables.DataTable(`.denominazioneTipo[data-tn="${denominazione}"] .denominazione-table`, {
-        layout: {
-          top: "{search}",
-          bottom: "{pager}",
-        },
-        labels: {
-          placeholder: "Cerca nella tabella",
-          perPage: "{select} risultati per pagina",
-          noRows: "Nessun risultato corrispondente",
-          info: "{start} to {end} of {rows} entries",
-        },
-      searchable: true,
-        columns: [
-          { select: [3,5,6,7], type: "number"},
-          { select: 4, type: "number", sort: "desc"}
-        ],
-        nextPrev: false
-      })
-        
-    }).then(function(){    
-        document.querySelector(".loader-container").remove()
-        //var startTime2 = performance.now()
+      document.querySelector(`.denominazioneTipo[data-tn="${denominazione}"] .statistiche-denominazione li:nth-child(4) span`).innerText = globalAvg        
+    }).then(function(){   
+      document.querySelector(".loader-container").remove()
+      
 
-        //safer to open csv a second time for bigger tables
-        d3.text(`/vini/${regione.toLowerCase()}.csv`).then( function(data) {
-          const csv = d3.csvParse(data);
-          const wineFilter = function(d) {
-            return d.Denominazione == denominazione && d.Entry === "2"
-          }
-          const wineList = csv.filter(wineFilter)
-          for (const k of wineList) {
-            d3.select(`.denominazioneTipo[data-tn="${denominazione}"] .denominazione-table tr[data-th="${k.Nome}-row"] td[data-th="${k.Anno}"]`).attr("title", `${k.Valutazione}`).text(`${k.Valutazione}`)
-          }
-        }).then(destroyEmptiness)
-        
-        //var endTime2 = performance.now()
-        //console.log(`Call to doSomething took ${endTime2 - startTime2} milliseconds`)
+      //safer to open csv a second time for bigger tables
+      d3.text(`/vini/${regione.toLowerCase()}.csv`).then( function(data) {
+        const csv = d3.csvParse(data);
+        const wineFilter = function(d) {
+          return d.Denominazione == denominazione && d.Entry === "2"
+        }
+        const wineList = csv.filter(wineFilter)
+        for (const k of wineList) {
+          d3.select(`.denominazioneTipo[data-tn="${denominazione}"] .denominazione-table tr[data-th="${k.Produttore}-${k.Nome}"] td[data-th="${k.Anno}"]`).attr("title", `${k.Valutazione}`).text(`${k.Valutazione}`)
+        }
+      }).then(destroyEmptiness).then(function(){
+        //start dataTable after everything else
+        const dataTable = new simpleDatatables.DataTable(`.denominazioneTipo[data-tn="${denominazione}"] .denominazione-table`, {
+          layout: {
+            top: "{search}",
+            bottom: "{pager}",
+          },
+          labels: {
+            placeholder: "Cerca nella tabella",
+            perPage: "{select} risultati per pagina",
+            noRows: "Nessun risultato corrispondente",
+            info: "{start} to {end} of {rows} entries",
+          },
+        searchable: true,
+          columns: [
+            { select: [3,5,6,7], type: "number"},
+            { select: 4, type: "number", sort: "desc"}
+          ],
+          nextPrev: false
+        })
+      })
       })
   }
 }
