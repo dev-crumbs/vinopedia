@@ -10,16 +10,47 @@ export function denominazioneSummaryTable(){
   var denominazioneArray = document.querySelectorAll(".denominazioneTipo");
   for (const el of denominazioneArray){
     const denominazione = el.getAttribute('data-tn')
+    //function declarations
+    //destroyEmptiness
+    function destroyEmptiness(){
+      for (const i of years) {
+        const all132 = document.querySelector(`.denominazioneTipo[data-tn="${denominazione}"] .denominazione-table th[data-th="${i}"]`)
+        const all13 = document.querySelectorAll(`.denominazioneTipo[data-tn="${denominazione}"] .denominazione-table td[data-th="${i}"]`)
+        const all = []
+        for (const j of all13) {
+            all.push(j.innerText)
+        }
+        const allEqual = arr => arr.every( v => v === arr[0] )
+
+        if (allEqual(all) == true){ 
+            all132.remove()
+            for (const i of all13){
+                i.remove()
+            }
+        } else {
+            for (const i of all13){
+                if(i.innerText == "") {
+                    i.innerText = "sv"
+                    i.setAttribute("title", "sv")
+                }
+            }
+        }
+      }
+    }
+    //calcSinglePrice
+    function calcPrice(i) {
+      const splitPrices = i.Prezzo.split("-");
+      const avgPrice = (Number(splitPrices[0]) + Number(splitPrices[1])) / 2
+      return avgPrice
+    }
+    //open csv first time
     d3.text(`/vini/${regione.toLowerCase()}.csv`).then( function(data) {
       const csv = d3.csvParse(data);
       const winesFilter = function(d) {
           return d.Denominazione == denominazione && d.Entry === "1"
       }
       const winesList = csv.filter(winesFilter)
-      const wineFilter = function(d) {
-          return d.Denominazione == denominazione && d.Entry === "2"
-      }
-      const wineList = csv.filter(wineFilter)
+      
       //pop table
       const produttoreHead = d3.select(`.denominazioneTipo[data-tn="${denominazione}"] .denominazione-table thead tr`)
       produttoreHead.append("th").text("Produttore")
@@ -31,11 +62,7 @@ export function denominazioneSummaryTable(){
       for (const i in years) {
         produttoreHead.append("th").text(`${years[i]}`).attr("data-th",`${years[i]}`)
       }
-      function calcPrice(i) {
-        const splitPrices = i.Prezzo.split("-");
-        const avgPrice = (Number(splitPrices[0]) + Number(splitPrices[1])) / 2
-        return avgPrice
-      }
+
       var startTime = performance.now()
       for (const i of winesList) {
         const produttoreBodyRow = d3.select(`.denominazioneTipo[data-tn="${denominazione}"] .denominazione-table tbody`).append("tr").attr("data-th", `${i.Nome}-row`)
@@ -47,85 +74,72 @@ export function denominazioneSummaryTable(){
         produttoreBodyRow.append("td").attr("data-th", "QP").attr("title", `${i.QP}`).style("width", function (d) {return ((i.QP*90)/100) + "%"}).text(`${i.QP}`)
         for (const j in years) {
             produttoreBodyRow.append("td").attr("data-th", `${years[j]}`)
-        }
-        for (const k of wineList) {
-            d3.select(`.denominazioneTipo[data-tn="${denominazione}"] .denominazione-table tr[data-th="${k.Nome}-row"] td[data-th="${k.Anno}"]`).attr("title", `${k.Valutazione}`).text(`${k.Valutazione}`)
         }  
       }
       var endTime = performance.now()
       console.log(`Call to doSomething took ${endTime - startTime} milliseconds`)      
-      
-        const dataTable = new simpleDatatables.DataTable(`.denominazioneTipo[data-tn="${denominazione}"] .denominazione-table`, {
-          layout: {
-            top: "{search}",
-            bottom: "{pager}",
-          },
-          labels: {
-            placeholder: "Cerca nella tabella",
-            perPage: "{select} risultati per pagina",
-            noRows: "Nessun risultato corrispondente",
-            info: "{start} to {end} of {rows} entries",
-          },
-        searchable: true,
-          columns: [
-            { select: [3,5,6,7], type: "number"},
-            { select: 4, type: "number", sort: "desc"}
-          ],
-          nextPrev: false
-        })
-        //statistiche denominazionee
-        const arrayWines = document.querySelectorAll(`.denominazioneTipo[data-tn="${denominazione}"] .denominazione-table td[data-th='Vino']`)
-        //media delle medie
-        const arrayAvgTd = document.querySelectorAll(`.denominazioneTipo[data-tn="${denominazione}"] .denominazione-table td[data-th='Media Grezza']`)
-        const arrayAvgString = []
-        for (const i of arrayAvgTd) {
-            arrayAvgString.push(i.innerText)
-        }
-        const arrayAvg = arrayAvgString.map(Number)
-        const sumAvg = arrayAvg.reduce((a, b) => a+b, 0);
-        const globalAvg = ((sumAvg / arrayAvg.length) || 0).toFixed(1);
-        //prezzo medio    
-        const arrayPriceTd = document.querySelectorAll(`.denominazioneTipo[data-tn="${denominazione}"] .denominazione-table td[data-th='Prezzo']`)
-        const arrayPriceString = []
-        for (const i of arrayPriceTd) {
-            arrayPriceString.push(i.innerText)
-        }
-        const arrayPrice = arrayPriceString.map(Number)
-        const sumPrice = arrayPrice.reduce((a, b) => a+b, 0);
-        const globalPrice = ((sumPrice / arrayPrice.length) || 0).toFixed(0);
-            
-        document.querySelector(`.denominazioneTipo[data-tn="${denominazione}"] .statistiche-denominazione li:nth-child(1) span`).innerText = arrayWines.length
-        document.querySelector(`.denominazioneTipo[data-tn="${denominazione}"] .statistiche-denominazione li:nth-child(2) span`).innerText = globalPrice + "€"
-        document.querySelector(`.denominazioneTipo[data-tn="${denominazione}"] .statistiche-denominazione li:nth-child(3) span`).innerText = Math.max(...arrayPrice) + "€"
-        document.querySelector(`.denominazioneTipo[data-tn="${denominazione}"] .statistiche-denominazione li:nth-child(4) span`).innerText = globalAvg
-    }).then(function(){//post content populating js functions
+      //statistiche denominazionee prima di dataTable
+      const arrayWines = document.querySelectorAll(`.denominazioneTipo[data-tn="${denominazione}"] .denominazione-table td[data-th='Vino']`)
+      //media delle medie
+      const arrayAvgTd = document.querySelectorAll(`.denominazioneTipo[data-tn="${denominazione}"] .denominazione-table td[data-th='Media Grezza']`)
+      const arrayAvgString = []
+      for (const i of arrayAvgTd) {
+          arrayAvgString.push(i.innerText)
+      }
+      const arrayAvg = arrayAvgString.map(Number)
+      const sumAvg = arrayAvg.reduce((a, b) => a+b, 0);
+      const globalAvg = ((sumAvg / arrayAvg.length) || 0).toFixed(1);
+      //prezzo medio    
+      const arrayPriceTd = document.querySelectorAll(`.denominazioneTipo[data-tn="${denominazione}"] .denominazione-table td[data-th='Prezzo']`)
+      const arrayPriceString = []
+      for (const i of arrayPriceTd) {
+          arrayPriceString.push(i.innerText)
+      }
+      const arrayPrice = arrayPriceString.map(Number)
+      const sumPrice = arrayPrice.reduce((a, b) => a+b, 0);
+      const globalPrice = ((sumPrice / arrayPrice.length) || 0).toFixed(0);
+      document.querySelector(`.denominazioneTipo[data-tn="${denominazione}"] .statistiche-denominazione li:nth-child(1) span`).innerText = arrayWines.length
+      document.querySelector(`.denominazioneTipo[data-tn="${denominazione}"] .statistiche-denominazione li:nth-child(2) span`).innerText = globalPrice + "€"
+      document.querySelector(`.denominazioneTipo[data-tn="${denominazione}"] .statistiche-denominazione li:nth-child(3) span`).innerText = Math.max(...arrayPrice) + "€"
+      document.querySelector(`.denominazioneTipo[data-tn="${denominazione}"] .statistiche-denominazione li:nth-child(4) span`).innerText = globalAvg
+      //start dataTable after statistics
+      const dataTable = new simpleDatatables.DataTable(`.denominazioneTipo[data-tn="${denominazione}"] .denominazione-table`, {
+        layout: {
+          top: "{search}",
+          bottom: "{pager}",
+        },
+        labels: {
+          placeholder: "Cerca nella tabella",
+          perPage: "{select} risultati per pagina",
+          noRows: "Nessun risultato corrispondente",
+          info: "{start} to {end} of {rows} entries",
+        },
+      searchable: true,
+        columns: [
+          { select: [3,5,6,7], type: "number"},
+          { select: 4, type: "number", sort: "desc"}
+        ],
+        nextPrev: false
+      })
+        
+    }).then(function(){    
         document.querySelector(".loader-container").remove()
-        var startTime2 = performance.now()
-      for (const i of years) {
-            const all132 = document.querySelector(`.denominazioneTipo[data-tn="${denominazione}"] .denominazione-table th[data-th="${i}"]`)
-            const all13 = document.querySelectorAll(`.denominazioneTipo[data-tn="${denominazione}"] .denominazione-table td[data-th="${i}"]`)
-            const all = []
-            for (const j of all13) {
-                all.push(j.innerText)
-            }
-            const allEqual = arr => arr.every( v => v === arr[0] )
+        //var startTime2 = performance.now()
 
-            if (allEqual(all) == true){ 
-                all132.remove()
-                for (const i of all13){
-                    i.remove()
-                }
-            } else {
-                for (const i of all13){
-                    if(i.innerText == "") {
-                        i.innerText = "sv"
-                        i.setAttribute("title", "sv")
-                    }
-                }
-            }
-        }
-        var endTime2 = performance.now()
-        console.log(`Call to doSomething took ${endTime2 - startTime2} milliseconds`)
+        //safer to open csv a second time for bigger tables
+        d3.text(`/vini/${regione.toLowerCase()}.csv`).then( function(data) {
+          const csv = d3.csvParse(data);
+          const wineFilter = function(d) {
+            return d.Denominazione == denominazione && d.Entry === "2"
+          }
+          const wineList = csv.filter(wineFilter)
+          for (const k of wineList) {
+            d3.select(`.denominazioneTipo[data-tn="${denominazione}"] .denominazione-table tr[data-th="${k.Nome}-row"] td[data-th="${k.Anno}"]`).attr("title", `${k.Valutazione}`).text(`${k.Valutazione}`)
+          }
+        }).then(destroyEmptiness)
+        
+        //var endTime2 = performance.now()
+        //console.log(`Call to doSomething took ${endTime2 - startTime2} milliseconds`)
       })
   }
 }
