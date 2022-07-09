@@ -30,7 +30,8 @@ export function denominazioneSummaryTable(){
             }
         }
       }
-      document.querySelector(".loader-container").remove()
+      const loaderCheck = document.querySelector(".loader-container")
+        if(loaderCheck) {loaderCheck.remove()} else {}
       //var endTime2 = performance.now()
       //console.log(`Call to doSomething took ${endTime2 - startTime2} milliseconds`)  
     }
