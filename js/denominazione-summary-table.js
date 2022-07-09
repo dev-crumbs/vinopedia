@@ -5,12 +5,11 @@ export function denominazioneSummaryTable(){
   const headlineCaption = document.querySelector(".caption").innerText.split(' | ')
   const nazione = headlineCaption[1]
   const regione = headlineCaption[2].replaceAll(" ", "-").replaceAll("'", "-");
-  const years = [2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012, 2011, 2010, 2009, 2008, 2007, 2006, 2005,2004,2003]
+  const years = [2022,2021,2020,2019,2018,2017,2016,2015,2014,2013,2012,2011,2010,2009,2008,2007,2006,2005,2004,2003]
   //endnew
   var denominazioneArray = document.querySelectorAll(".denominazioneTipo");
   for (const el of denominazioneArray){
     const denominazione = el.getAttribute('data-tn')
-    console.log(denominazione)
     //function declarations
     //destroyEmptiness
     function destroyEmptiness(){
@@ -53,7 +52,7 @@ export function denominazioneSummaryTable(){
         }
       }
       const winesList = csv.filter(winesFilter)        
-      //pop table
+      //table pop
       const produttoreHead = d3.select(`.denominazioneTipo[data-tn="${denominazione}"] .denominazione-table thead tr`)
       produttoreHead.append("th").text("Produttore")
       produttoreHead.append("th").text("Vino")
@@ -64,8 +63,6 @@ export function denominazioneSummaryTable(){
       for (const i in years) {
         produttoreHead.append("th").text(`${years[i]}`).attr("data-th",`${years[i]}`).attr("title","sv")
       }
-
-      var startTime = performance.now()
       for (const i of winesList) {
         const produttoreBodyRow = d3.select(`.denominazioneTipo[data-tn="${denominazione}"] .denominazione-table tbody`).append("tr").attr("data-th", `${i.Produttore}-${i.Nome}`)
         produttoreBodyRow.append("td").attr("data-th", "Produttore").attr("title", `${i.Produttore}`).html(`<a href="/it/produttori/${nazione}/${regione}/${i.Produttore.replaceAll(' ', '-').replaceAll("'", '-')}.html">${i.Produttore}</a>`)
@@ -78,8 +75,6 @@ export function denominazioneSummaryTable(){
             produttoreBodyRow.append("td").attr("data-th", `${years[j]}`).attr("title", "sv").text("sv")
         }  
       }
-      var endTime = performance.now()
-      console.log(`Call to doSomething took ${endTime - startTime} milliseconds`)      
       //statistiche denominazionee prima di dataTable
       const arrayWines = document.querySelectorAll(`.denominazioneTipo[data-tn="${denominazione}"] .denominazione-table td[data-th='Vino']`)
       //media delle medie
@@ -141,5 +136,5 @@ export function denominazioneSummaryTable(){
         })
       })
       })
-  }
+  } //for (const i od denominazioneArray)
 }
