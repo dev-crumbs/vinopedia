@@ -20,13 +20,15 @@ export function produttoreSummaryTable() {
             all.push(j.innerText)
         }
         const allEqual = arr => arr.every( v => v === arr[0] )
-
-        if (allEqual(all) == true){ 
-            all132.remove()
-            for (const i of all13){
-                i.remove()
+        if (all.length == 1) {
+        } else {
+            if (allEqual(all) == true){ 
+                all132.remove()
+                for (const i of all13){
+                    i.remove()
+                }
             }
-        }
+        }  
       }
       const loaderCheck = document.querySelector(".loader-container")
         if(loaderCheck) {loaderCheck.remove()} else {}
