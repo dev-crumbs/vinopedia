@@ -91,7 +91,7 @@ window.addEventListener("load", function() {
     // denominazione table
     if (window.location.href.indexOf("/denominazioni/") != -1) {
         denominazioneSummaryTable()
-        abbinamentiTree()
+        //abbinamentiTree()
     }
     // cantina
     if (window.location.href.indexOf("/cantina") != -1) {

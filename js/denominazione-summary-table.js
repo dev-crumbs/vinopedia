@@ -10,6 +10,7 @@ export function denominazioneSummaryTable(){
   var denominazioneArray = document.querySelectorAll(".denominazioneTipo");
   for (const el of denominazioneArray){
     const denominazione = el.getAttribute('data-tn')
+    console.log(denominazione)
     //function declarations
     //destroyEmptiness
     function destroyEmptiness(){
@@ -43,12 +44,15 @@ export function denominazioneSummaryTable(){
     }
     //open csv first time
     d3.text(`/vini/${regione.toLowerCase()}.csv`).then( function(data) {
-      const csv = d3.csvParse(data);
+      const csv = d3.csvParse(data); 
       const winesFilter = function(d) {
+        if (denominazione == "Denominazioni Del Cesanese"){
+          return d.Denominazione == "Cesanese Del Piglio" && d.Entry === "1" || d.Denominazione == "Cesanese Di Affile" && d.Entry === "1" || d.Denominazione == "Cesanese Di Olevano Romano" && d.Entry === "1"
+        } else {
           return d.Denominazione == denominazione && d.Entry === "1"
+        }
       }
-      const winesList = csv.filter(winesFilter)
-      
+      const winesList = csv.filter(winesFilter)        
       //pop table
       const produttoreHead = d3.select(`.denominazioneTipo[data-tn="${denominazione}"] .denominazione-table thead tr`)
       produttoreHead.append("th").text("Produttore")
@@ -105,7 +109,11 @@ export function denominazioneSummaryTable(){
       d3.text(`/vini/${regione.toLowerCase()}.csv`).then( function(data) {
         const csv = d3.csvParse(data);
         const wineFilter = function(d) {
-          return d.Denominazione == denominazione && d.Entry === "2"
+          if (denominazione == "Denominazioni Del Cesanese"){
+            return d.Denominazione == "Cesanese Del Piglio" && d.Entry === "2" || d.Denominazione == "Cesanese Di Affile" && d.Entry === "2" || d.Denominazione == "Cesanese Di Olevano Romano" && d.Entry === "2"
+          } else {
+            return d.Denominazione == denominazione && d.Entry === "2"
+          }
         }
         const wineList = csv.filter(wineFilter)
         for (const k of wineList) {
