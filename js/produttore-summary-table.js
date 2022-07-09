@@ -101,7 +101,7 @@ export function produttoreSummaryTable() {
         d3.text(`/vini/${regione.toLowerCase()}.csv`).then( function(data) {
           const csv = d3.csvParse(data);
           const wineFilter = function(d) {
-            return d.Denominazione == denominazione && d.Entry === "2"
+            return d.Produttore == produttore && d.Entry === "2"
           }
           const wineList = csv.filter(wineFilter)
           for (const k of wineList) {
