@@ -20,7 +20,7 @@ export function produttoreSummaryTable() {
             all.push(j.innerText)
         }
         const allEqual = arr => arr.every( v => v === arr[0] )
-        if (all.length == 1) {
+        if (all.length == 1) { // se la tabella contiene un solo vino
         } else {
             if (allEqual(all) == true){ 
                 all132.remove()
