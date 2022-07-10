@@ -106,6 +106,22 @@
     #4caf50 20px
     );
   }
+  .produttore-table td[data-th="QP"]:before{
+    background-color: lightgreen;
+    content: '';
+    height: 21px;
+    width: 67%;
+    position: absolute;
+    border-radius: 2px;
+  }
+  .produttore-table td[data-th="RS"]:before{
+    background-color: lightblue;
+    content: '';
+    height: 21px;
+    width: 67%;
+    position: absolute;
+    border-radius: 2px;
+  }
 }
 
 @media screen and (max-width: 599px) {
@@ -408,6 +424,22 @@
     #4caf50 10px,
     #4caf50 20px
     );
+  }
+  .denominazione-table td[data-th="QP"]:before{
+    background-color: lightgreen;
+    content: '';
+    height: 21px;
+    width: 67%;
+    position: absolute;
+    border-radius: 2px;
+  }
+  .denominazione-table td[data-th="RS"]:before{
+    background-color: lightblue;
+    content: '';
+    height: 21px;
+    width: 67%;
+    position: absolute;
+    border-radius: 2px;
   }
 }
 
