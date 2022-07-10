@@ -20,6 +20,7 @@
     border-collapse: separate;
     border-spacing: 0;
     table-layout: fixed;
+    max-width: min-content
   }
    .produttore-table th {
     padding: 3px;
@@ -105,10 +106,6 @@
     #4caf50 20px
     );
   }
-   .produttore-table th[title="QP"]{
-    min-width: 73px;
-    text-align: left;
-  }
 }
 
 @media screen and (max-width: 599px) {
@@ -117,10 +114,6 @@
   }
    .produttore-table td[title="sv"]{
     display:none
-  }
-   .produttore-table th[title="RS"]{
-    min-width: max-content;
-    text-align: left;
   }
    .produttore-table td[data-th^='20']:not([title='sv']), .produttore-table td[data-th^='19']:not([title='sv']) {
      display: inline-flex;
@@ -416,10 +409,6 @@
     #4caf50 20px
     );
   }
-  .denominazione-table th[title="QP"]{
-    min-width: 73px;
-    text-align: left;
-  }
 }
 
 @media screen and (max-width: 599px) {
@@ -428,10 +417,6 @@
   }
   .denominazione-table td[title="sv"]{
     display:none
-  }
-  .denominazione-table th[title="RS"]{
-    min-width: max-content;
-    text-align: left;
   }
   .denominazione-table td[data-th^='20']:not([title='sv']),.denominazione-table td[data-th^='19']:not([title='sv']) {
      display: inline-flex;
