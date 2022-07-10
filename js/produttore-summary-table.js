@@ -57,7 +57,7 @@ export function produttoreSummaryTable() {
       produttoreHead.append("th").text("Vino")
       produttoreHead.append("th").text("Media Grezza")
       produttoreHead.append("th").text("Prezzo")
-      produttoreHead.append("th").text("VScore")
+      produttoreHead.append("th").text("RS")
       produttoreHead.append("th").text("QP")
       for (const i in years) {
           produttoreHead.append("th").text(`${years[i]}`).attr("data-th",`${years[i]}`)
@@ -67,7 +67,7 @@ export function produttoreSummaryTable() {
         produttoreBodyRow.append("td").attr("data-th", "Vino").attr("title", `${i.Nome}`).html(`<a href="/it/vini/${nazione}/${regione}/test/${i.Nome.replaceAll(' ', '-').replaceAll("'", '-')}/scheda-globale.html">${i.Nome}</a>`)
         produttoreBodyRow.append("td").attr("data-th", "Media Grezza").text(`${i.MediaGrezza}`)
         produttoreBodyRow.append("td").attr("data-th", "Prezzo").html(`${calcPrice(i)}`)
-        produttoreBodyRow.append("td").attr("data-th", "VScore").attr("title", `${i.VScore}`).style("width", function (d) {return ((i.VScore*90)/100) + "%"}).text(`${i.VScore}`)
+        produttoreBodyRow.append("td").attr("data-th", "RS").attr("title", `${i.RS}`).style("width", function (d) {return ((i.RS*90)/100) + "%"}).text(`${i.RS}`)
         produttoreBodyRow.append("td").attr("data-th", "QP").attr("title", `${i.QP}`).style("width", function (d) {return ((i.QP*90)/100) + "%"}).text(`${i.QP}`)
         for (const j in years) {
             produttoreBodyRow.append("td").attr("data-th", `${years[j]}`).attr("title", "sv").text("sv")

@@ -156,11 +156,11 @@ export function schedaGlobaleImport() {
          const csv2 = d3.csvParse(data);
          const filterInDen = function(d) {return d.Vino == headlineFull[0] && d.Produttore == headlineFull[2]}
          // retrieve qp and v
-         const VScore = csv2.filter(filterInDen)[0].VScore;
+         const RS = csv2.filter(filterInDen)[0].RS;
          const QP = csv2.filter(filterInDen)[0].QP;
 
          d3.select('.vscore').append("p").text("V Score")
-         d3.select('.vscore').append("p").html(VScore + "/100")
+         d3.select('.vscore').append("p").html(RS + "/100")
          d3.select('.qp').append("p").text("Qualità Prezzo")
          d3.select('.qp').append("p").text(QP + "/100")
        })
@@ -169,11 +169,11 @@ export function schedaGlobaleImport() {
          const csv2 = d3.csvParse(data);
          const filterInDen = function(d) {return d.Vino == headlineFull[0] && d.Produttore == headlineFull[2]}
          // retrieve qp and v
-         const VScore = csv2.filter(filterInDen)[0].VScore;
+         const RS = csv2.filter(filterInDen)[0].RS;
          const QP = csv2.filter(filterInDen)[0].QP;
     
          d3.select('.vscore').append("p").text("V Score")
-         d3.select('.vscore').append("p").text(VScore + "/100")
+         d3.select('.vscore').append("p").text(RS + "/100")
          d3.select('.qp').append("p").text("Qualità Prezzo")
          d3.select('.qp').append("p").text(QP + "/100")           
        })

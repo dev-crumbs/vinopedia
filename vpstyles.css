@@ -76,11 +76,11 @@
     position:sticky;
     left:375px
   }
-   .produttore-table td[data-th="VScore"], .produttore-table td[data-th="QP"]{
+   .produttore-table td[data-th="RS"], .produttore-table td[data-th="QP"]{
     color: transparent;
     text-align: left;
   }
-   .produttore-table td[data-th="VScore"]:after, .produttore-table td[data-th="QP"]:after{
+   .produttore-table td[data-th="RS"]:after, .produttore-table td[data-th="QP"]:after{
     position: absolute;
     background: repeating-linear-gradient(
       -45deg,
@@ -118,7 +118,7 @@
    .produttore-table td[title="sv"]{
     display:none
   }
-   .produttore-table th[title="VScore"]{
+   .produttore-table th[title="RS"]{
     min-width: max-content;
     text-align: left;
   }
@@ -138,7 +138,7 @@
      top:-20px;
      left:-4px
   }
-   .produttore-table td[data-th="VScore"], .produttore-table td[data-th="QP"]{
+   .produttore-table td[data-th="RS"], .produttore-table td[data-th="QP"]{
     text-align: right;
     position:relative;
   }
@@ -164,7 +164,7 @@
      font-weight: bold;
   }
 
-   .produttore-table td[data-th="VScore"]:before, .produttore-table td[data-th="QP"]:before{
+   .produttore-table td[data-th="RS"]:before, .produttore-table td[data-th="QP"]:before{
     position: absolute;
     content: '';
     background: repeating-linear-gradient(
@@ -192,9 +192,9 @@
     #4caf50 20px
     );
   }
-   .produttore-table td[data-th="VScore"]:after{
+   .produttore-table td[data-th="RS"]:after{
     position:absolute;
-    content: 'VScore';
+    content: 'RS';
     font-weight: normal;
     text-align:right;
     left: 4px;
@@ -213,7 +213,7 @@
     text-shadow: 3px 3px 4px white,-3px -3px 4px white,-3px 3px 4px white,3px -3px 4px white;
   }
 
-   .produttore-table td[data-th="VScore"], .produttore-table td[data-th="QP"]{
+   .produttore-table td[data-th="RS"], .produttore-table td[data-th="QP"]{
     min-width:100%
   }
 
@@ -386,12 +386,12 @@
     position:sticky;
     left:535px
   }
-  .denominazione-table td[data-th="VScore"],.denominazione-table td[data-th="QP"]{
+  .denominazione-table td[data-th="RS"],.denominazione-table td[data-th="QP"]{
     color: transparent;
     text-align: left;
     position:relative;
   }
-  .denominazione-table td[data-th="VScore"]:after,.denominazione-table td[data-th="QP"]:after{
+  .denominazione-table td[data-th="RS"]:after,.denominazione-table td[data-th="QP"]:after{
     position: absolute;
     background: repeating-linear-gradient(
       -45deg,
@@ -429,7 +429,7 @@
   .denominazione-table td[title="sv"]{
     display:none
   }
-  .denominazione-table th[title="VScore"]{
+  .denominazione-table th[title="RS"]{
     min-width: max-content;
     text-align: left;
   }
@@ -448,7 +448,7 @@
      top:-20px;
      left:-4px
   }
-  .denominazione-table td[data-th="VScore"],.denominazione-table td[data-th="QP"]{
+  .denominazione-table td[data-th="RS"],.denominazione-table td[data-th="QP"]{
     text-align: right;
     position: relative
   }
@@ -468,7 +468,7 @@
     right: 0px;
   }
 
-  .denominazione-table td[data-th="VScore"]:before,.denominazione-table td[data-th="QP"]:before{
+  .denominazione-table td[data-th="RS"]:before,.denominazione-table td[data-th="QP"]:before{
     position: absolute;
     content: '';
     background: repeating-linear-gradient(
@@ -496,9 +496,9 @@
     #4caf50 20px
     );
   }
-  .denominazione-table td[data-th="VScore"]:after{
+  .denominazione-table td[data-th="RS"]:after{
     position:absolute;
-    content: 'VScore';
+    content: 'RS';
     font-weight: normal;
     text-align:right;
     left: 4px;
@@ -517,7 +517,7 @@
     text-shadow: 3px 3px 4px white,-3px -3px 4px white,-3px 3px 4px white,3px -3px 4px white;
   }
 
-  .denominazione-table td[data-th="VScore"],.denominazione-table td[data-th="QP"]{
+  .denominazione-table td[data-th="RS"],.denominazione-table td[data-th="QP"]{
     min-width:100%
   }
 
