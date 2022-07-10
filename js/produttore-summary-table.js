@@ -3,7 +3,7 @@ import {denominazioneTableFilter} from '/it/js/table-filter.js';
 export function produttoreSummaryTable() {
     //Checks
     const produttore = document.querySelector(".headline").innerText
-    const produttoreURL = document.querySelector(".headline").innerText.replaceAll("' ", '-').replaceAll(' ', '-').replaceAll("'", '-')
+    const produttoreURL = document.querySelector(".headline").innerText.replaceAll("' ", '-').replaceAll(' ', '-').replaceAll("'", '-').replaceAll("è", 'e').replaceAll("à", 'a').replaceAll("é", 'e').replaceAll("ù", 'u')
     const headlineCaption = document.querySelector(".caption").innerText.split(' | ')
     const nazione = headlineCaption[1]
     const regione = headlineCaption[2].replaceAll(" ", "-").replaceAll("'", "-");
@@ -64,7 +64,7 @@ export function produttoreSummaryTable() {
       }
       for (const i of winesList) {
         const produttoreBodyRow = d3.select(`.produttore-table tbody`).append("tr").attr("data-th", `${i.Produttore}-${i.Nome}`)
-        produttoreBodyRow.append("td").attr("data-th", "Vino").attr("title", `${i.Nome}`).html(`<a href="/it/vini/${nazione}/${regione}/test/${i.Nome.replaceAll(' ', '-').replaceAll("'", '-')}/scheda-globale.html">${i.Nome}</a>`)
+        produttoreBodyRow.append("td").attr("data-th", "Vino").attr("title", `${i.Nome}`).html(`<a href="/it/vini/${nazione}/${regione}/${produttoreURL}/${i.Nome.replaceAll(' ', '-').replaceAll("'", '-')}/scheda-globale.html">${i.Nome}</a>`)
         produttoreBodyRow.append("td").attr("data-th", "Media Grezza").text(`${i.MediaGrezza}`)
         produttoreBodyRow.append("td").attr("data-th", "Prezzo").html(`${calcPrice(i)}`)
         produttoreBodyRow.append("td").attr("data-th", "RS").attr("title", `${i.RS}`).style("width", function (d) {return ((i.RS*90)/100) + "%"}).text(`${i.RS}`)

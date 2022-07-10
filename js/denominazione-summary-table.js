@@ -66,7 +66,8 @@ export function denominazioneSummaryTable(){
       for (const i of winesList) {
         const produttoreBodyRow = d3.select(`.denominazioneTipo[data-tn="${denominazione}"] .denominazione-table tbody`).append("tr").attr("data-th", `${i.Produttore}-${i.Nome}`)
         produttoreBodyRow.append("td").attr("data-th", "Produttore").attr("title", `${i.Produttore}`).html(`<a href="/it/produttori/${nazione}/${regione}/${i.Produttore.replaceAll(' ', '-').replaceAll("'", '-')}.html">${i.Produttore}</a>`)
-        produttoreBodyRow.append("td").attr("data-th", "Vino").attr("title", `${i.Nome}`).html(`<a href="/it/vini/${nazione}/${regione}/test/${i.Nome.replaceAll(' ', '-').replaceAll("'", '-')}/scheda-globale.html">${i.Nome}</a>`)
+        const produttoreURL = document.querySelector(".headline").innerText.replaceAll("' ", '-').replaceAll(' ', '-').replaceAll("'", '-').replaceAll("è", 'e').replaceAll("à", 'a').replaceAll("é", 'e').replaceAll("ù", 'u') 
+        produttoreBodyRow.append("td").attr("data-th", "Vino").attr("title", `${i.Nome}`).html(`<a href="/it/vini/${nazione}/${regione}/produttoreURL/${i.Nome.replaceAll(' ', '-').replaceAll("'", '-')}/scheda-globale.html">${i.Nome}</a>`)
         produttoreBodyRow.append("td").attr("data-th", "Media Grezza").text(`${i.MediaGrezza}`)
         produttoreBodyRow.append("td").attr("data-th", "Prezzo").html(`${calcPrice(i)}`)
         produttoreBodyRow.append("td").attr("data-th", "RS").attr("title", `${i.RS}`).style("width", function (d) {return ((i.RS*90)/100) + "%"}).text(`${i.RS}`)
