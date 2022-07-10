@@ -110,17 +110,19 @@
     background-color: lightgreen;
     content: '';
     height: 21px;
-    width: 67%;
+    width: 90%;
     position: absolute;
     border-radius: 2px;
+    left: 0
   }
   .produttore-table td[data-th="RS"]:before{
     background-color: lightblue;
     content: '';
     height: 21px;
-    width: 67%;
+    width: 90%;
     position: absolute;
     border-radius: 2px;
+    left: 0
   }
 }
 
@@ -429,17 +431,19 @@
     background-color: lightgreen;
     content: '';
     height: 21px;
-    width: 67%;
+    width: 90%;
     position: absolute;
     border-radius: 2px;
+    left: 0
   }
   .denominazione-table td[data-th="RS"]:before{
     background-color: lightblue;
     content: '';
     height: 21px;
-    width: 67%;
+    width: 90%;
     position: absolute;
     border-radius: 2px;
+    left: 0
   }
 }
 
