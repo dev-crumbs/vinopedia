@@ -1,14 +1,14 @@
 ---
-title: Malvasia – Famiglia di vitigni
+title: Malvasia (famiglia)
 description: Vitigno | Nome generico di un'ampia classe di vitigni non necessariamente imparentati
 published: true
-date: 2022-07-13T19:20:01.277Z
+date: 2022-07-13T19:23:33.068Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-21T14:12:19.794Z
 ---
 
-# Malvasia
+# Malvasia (famiglia)
 
 "Malvasia" (con i suoi diversi sinonimi) è un nome comunemente applicato ad un'ampia gamma di vitigni generalmente non correlati, sia come nome principale che in una serie di sinonimi.
 
