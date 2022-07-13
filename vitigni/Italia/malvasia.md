@@ -2,7 +2,7 @@
 title: Malvasia (famiglia)
 description: Vitigno | Nome generico di un'ampia classe di vitigni non necessariamente imparentati
 published: true
-date: 2022-07-13T19:23:33.068Z
+date: 2022-07-13T19:24:42.951Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-21T14:12:19.794Z
@@ -51,4 +51,4 @@ I vitigni attualmente coltivati per scopi commerciali che condividono il nome "M
 - [Malvasia Preta](/vitigni/Spagna/malvasia-preta)
 - [Malvasia Rei](/vitigni/Italia/malvasia-rei)
 - [Malvasija Dubrovačka](/vitigni/Croazia/malvasija-dubrovacka)
-- [Malvazija Istarska](/vitigni/malvazija-istarska)
+- [Malvazija Istarska](/vitigni/Croazia/malvazija-istarska)
