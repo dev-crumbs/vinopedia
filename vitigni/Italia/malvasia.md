@@ -1,8 +1,8 @@
 ---
-title: Malvasia
+title: Malvasia (famiglia)
 description: Vitigno | Nome generico di un'ampia classe di vitigni non necessariamente imparentati
 published: true
-date: 2022-06-21T16:18:19.539Z
+date: 2022-07-13T19:18:01.408Z
 tags: 
 editor: markdown
 dateCreated: 2022-06-21T14:12:19.794Z
