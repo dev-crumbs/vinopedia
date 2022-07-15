@@ -32,6 +32,8 @@ export function schedaGlobaleImport() {
       const abbinamentoArray = abbinamentoCSV.split(' – ')
       const noteCSV = csv.filter(filterGlobalCSV)[0].Note;
       //punteggi
+      const RS = csv.filter(filterGlobalCSV)[0].RS;
+      const QP = csv.filter(filterGlobalCSV)[0].QP;
       const punteggioAIS = csv.filter(filterGlobalCSV)[0].AIS;
       const punteggioGR = csv.filter(filterGlobalCSV)[0].GR;
       const mediaGlobale = csv.filter(filterGlobalCSV)[0].PunteggioMedio;
@@ -43,7 +45,7 @@ export function schedaGlobaleImport() {
       const annateCSVArray = csv.filter(filterSingleCSV)
       const valutazioneCSV = csv.filter(filterSingleCSV)[0].Valutazione;
       const punteggioMedioCSV = csv.filter(filterSingleCSV)[0].PunteggioMedio;
-
+    
       d3.select('h1').append().text(nomeCSV)
       d3.select('.caratteristiche li:nth-child(1)').append("span").text(" " + nomeCSV)
       d3.select('.caratteristiche li:nth-child(2)').append("span").text(" " + tipoCSV)
@@ -95,6 +97,11 @@ export function schedaGlobaleImport() {
         d3.select('.m-gr').append("p").text("Media G.Rosso")
         d3.select('.m-gr').append("p").text(punteggioGR)
       }
+      //RS-QP
+       d3.select('.vscore').append("p").text("V Score")
+       d3.select('.vscore').append("p").html(RS + "/100")
+       d3.select('.qp').append("p").text("Qualità Prezzo")
+       d3.select('.qp').append("p").text(QP + "/100")
       //abbinamenti
       for (const i of abbinamentoArray) {
         d3.select('.abbinamento').append("li").text(i)
@@ -134,49 +141,6 @@ export function schedaGlobaleImport() {
       }
       if (listCheck == null){return;} else {
         document.querySelector("div[role='list'] .v-list-item__title").innerText = headlineFull[0]
-      }
-    return nazioneCSV;
-  }).then(function myFunction(data) {;
-        //second csv
-      let nazione2 = headlineFull[3].split(" (")
-      let regione2 = nazione2[0].replaceAll(" ", "-").replaceAll("'", "-")
-      nazione2 = nazione2[1]
-      if(nazione2 == "IT)"){
-        nazione2 = "Italia"
-      }                           
-      const denominazioneFull2 = document.querySelector(".grid-list.caratteristiche li:nth-child(3) a").innerText.replaceAll(" ", "-").replaceAll("'", "-").replaceAll("é", "e")
-      const tipologia2 = document.querySelector(".grid-list.caratteristiche li:nth-child(2) span").innerText
-      const denominazione2 = denominazioneFull2.split("-")
-      if(denominazione2[1] == "Generico"){
-         d3.select('.vscore').text("Non è possibile una comparazione equa per questo vino")
-         d3.select('.qp').remove()
-      } else if (tipologia2.includes("Spumante")){
-        console.log("spumante")
-        d3.text(`/denominazioni/${nazione2}/${regione2}/${denominazioneFull2}-Spumanti/${denominazioneFull2}-Spumanti.csv`).then(function(data) {
-         const csv2 = d3.csvParse(data);
-         const filterInDen = function(d) {return d.Vino == headlineFull[0] && d.Produttore == headlineFull[2]}
-         // retrieve qp and v
-         const RS = csv2.filter(filterInDen)[0].RS;
-         const QP = csv2.filter(filterInDen)[0].QP;
-
-         d3.select('.vscore').append("p").text("V Score")
-         d3.select('.vscore').append("p").html(RS + "/100")
-         d3.select('.qp').append("p").text("Qualità Prezzo")
-         d3.select('.qp').append("p").text(QP + "/100")
-       })
-      } else {
-         d3.text(`/denominazioni/${nazione2}/${regione2}/${denominazioneFull2}/${denominazioneFull2}.csv`).then(function(data) {
-         const csv2 = d3.csvParse(data);
-         const filterInDen = function(d) {return d.Vino == headlineFull[0] && d.Produttore == headlineFull[2]}
-         // retrieve qp and v
-         const RS = csv2.filter(filterInDen)[0].RS;
-         const QP = csv2.filter(filterInDen)[0].QP;
-    
-         d3.select('.vscore').append("p").text("V Score")
-         d3.select('.vscore').append("p").text(RS + "/100")
-         d3.select('.qp').append("p").text("Qualità Prezzo")
-         d3.select('.qp').append("p").text(QP + "/100")           
-       })
       }
   })
 }
