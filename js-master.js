@@ -89,8 +89,8 @@ window.addEventListener("load", function() {
         produttoreSummaryTable()
     }
     // denominazione table
-    if (window.location.href.indexOf("/denominazioni/Italia/Piemonte/DOCG-Barolo.html") != -1){
-      const dataTable = new simpleDatatables.DataTable(`.denominazioneTipo[data-tn="${denominazione}"] .denominazione-table`, {
+    id1: if (window.location.href.indexOf("/denominazioni/Italia/Piemonte/DOCG-Barolo") != -1){
+      const dataTable = new simpleDatatables.DataTable(`.denominazioneTipo[data-tn="Barolo"] .denominazione-table`, {
         layout: {
           top: "{search}",
           bottom: "{pager}",
@@ -108,6 +108,7 @@ window.addEventListener("load", function() {
         ],
         nextPrev: false
       })
+      break id1;
     } else if (window.location.href.indexOf("/denominazioni/") != -1) {
       denominazioneSummaryTable()
       //abbinamentiTree()
