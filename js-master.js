@@ -89,10 +89,29 @@ window.addEventListener("load", function() {
         produttoreSummaryTable()
     }
     // denominazione table
-    if (window.location.href.indexOf("/denominazioni/") != -1) {
-        denominazioneSummaryTable()
-        //abbinamentiTree()
-    }
+    if (window.location.href.indexOf("/denominazioni/Italia/Piemonte/DOCG-Barolo.html") != -1){
+      const dataTable = new simpleDatatables.DataTable(`.denominazioneTipo[data-tn="${denominazione}"] .denominazione-table`, {
+        layout: {
+          top: "{search}",
+          bottom: "{pager}",
+        },
+        labels: {
+          placeholder: "Cerca nella tabella",
+          perPage: "{select} risultati per pagina",
+          noRows: "Nessun risultato corrispondente",
+          info: "{start} to {end} of {rows} entries",
+        },
+      searchable: true,
+        columns: [
+          { select: [3,5,6,7], type: "number"},
+          { select: 4, type: "number", sort: "desc"}
+        ],
+        nextPrev: false
+      })
+    } else if (window.location.href.indexOf("/denominazioni/") != -1) {
+      denominazioneSummaryTable()
+      //abbinamentiTree()
+    } 
     // cantina
     if (window.location.href.indexOf("/cantina") != -1) {
         cantinaTableIn()
