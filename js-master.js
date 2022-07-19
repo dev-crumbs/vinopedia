@@ -91,7 +91,7 @@ window.addEventListener("load", function() {
         produttoreSummaryTable()
     }
     // denominazione table
-    id1: if ((window.location.href.indexOf("/denominazioni/Italia/Piemonte/DOCG-Barolo") != -1) || (window.location.href.indexOf("/denominazioni/Italia/Toscana/DOCG-Chianti-Classico") != -1)){
+    id1: if ((window.location.href.indexOf("/denominazioni/Italia/Piemonte/DOCG-Barolo") != -1) || (window.location.href.indexOf("/denominazioni/Italia/Toscana/DOCG-Chianti") != -1) || (window.location.href.indexOf("/denominazioni/Italia/Romagna/DOC-Romagna-Sangiovese") != -1)){
       denominazioneSummaryTableStatic()
       break id1;
     } else if (window.location.href.indexOf("/denominazioni/") != -1) {
