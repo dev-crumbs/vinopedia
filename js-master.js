@@ -4,6 +4,7 @@ import {tableSort} from './it/js/table-filter.js';
 import {searchLabel} from './it/js/mobile-nav-bottom.js';
 import {mobileNavBottom} from './it/js/mobile-nav-bottom.js';
 import {denominazioneSummaryTable} from './it/js/denominazione-summary-table.js';
+import {denominazioneSummaryTableStatic} from '.it/js/denominazione-summary-table-static.js'
 import {denominazioneTableFilter} from './it/js/table-filter.js';
 import {cantinaTableIn} from './it/js/cantina-table.js';
 import {cantinaTableOut} from './it/js/cantina-table.js';
@@ -13,6 +14,7 @@ import {schedaSingolaImport} from './it/js/scheda-singola-import.js';
 import {sentoreCheck} from './it/js/listone-olfattivo.js';
 import {esperienzeImport} from './it/js/esperienze-import.js';
 import {abbinamentiTree} from './it/js/abbinamenti.js';
+
 
 window.addEventListener("load", function() {
     // custom label for search field
@@ -89,25 +91,8 @@ window.addEventListener("load", function() {
         produttoreSummaryTable()
     }
     // denominazione table
-    id1: if (window.location.href.indexOf("/denominazioni/Italia/Piemonte/DOCG-Barolo") != -1){
-      const dataTable = new simpleDatatables.DataTable(`.denominazioneTipo[data-tn="Barolo"] .denominazione-table`, {
-        layout: {
-          top: "{search}",
-          bottom: "{pager}",
-        },
-        labels: {
-          placeholder: "Cerca nella tabella",
-          perPage: "{select} risultati per pagina",
-          noRows: "Nessun risultato corrispondente",
-          info: "{start} to {end} of {rows} entries",
-        },
-      searchable: true,
-        columns: [
-          { select: [3,5,6,7], type: "number"},
-          { select: 4, type: "number", sort: "desc"}
-        ],
-        nextPrev: false
-      })
+    id1: if ((window.location.href.indexOf("/denominazioni/Italia/Piemonte/DOCG-Barolo") != -1) || (window.location.href.indexOf("/denominazioni/Italia/Toscana/DOCG-Chianti-Classico") != -1)){
+      denominazioneSummaryTableStatic()
       break id1;
     } else if (window.location.href.indexOf("/denominazioni/") != -1) {
       denominazioneSummaryTable()
