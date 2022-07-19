@@ -7,6 +7,8 @@ export function denominazioneSummaryTable(){
   const regione = headlineCaption[2].replaceAll(" ", "-").replaceAll("'", "-");
   const years = [2022,2021,2020,2019,2018,2017,2016,2015,2014,2013,2012,2011,2010,2009,2008,2007,2006,2005,2004,2003]
   //endnew
+  //checks
+  const dynPage = headlineCaption[0]
   var denominazioneArray = document.querySelectorAll(".denominazioneTipo");
   for (const el of denominazioneArray){
     const denominazione = el.getAttribute('data-tn')
@@ -115,25 +117,27 @@ export function denominazioneSummaryTable(){
           d3.select(`.denominazioneTipo[data-tn="${denominazione}"] .denominazione-table tr[data-th="${k.Produttore}-${k.Nome}"] td[data-th="${k.Anno}"]`).attr("title", `${k.Valutazione}`).text(`${k.Valutazione}`)
         }
       }).then(destroyEmptiness).then(function(){
-        //start dataTable after everything else
-        const dataTable = new simpleDatatables.DataTable(`.denominazioneTipo[data-tn="${denominazione}"] .denominazione-table`, {
-          layout: {
-            top: "{search}",
-            bottom: "{pager}",
-          },
-          labels: {
-            placeholder: "Cerca nella tabella",
-            perPage: "{select} risultati per pagina",
-            noRows: "Nessun risultato corrispondente",
-            info: "{start} to {end} of {rows} entries",
-          },
-        searchable: true,
-          columns: [
-            { select: [3,5,6,7], type: "number"},
-            { select: 4, type: "number", sort: "desc"}
-          ],
-          nextPrev: false
-        })
+        if (dynPage == "dyn"){} else {
+          //start dataTable after everything else
+          const dataTable = new simpleDatatables.DataTable(`.denominazioneTipo[data-tn="${denominazione}"] .denominazione-table`, {
+            layout: {
+              top: "{search}",
+              bottom: "{pager}",
+            },
+            labels: {
+              placeholder: "Cerca nella tabella",
+              perPage: "{select} risultati per pagina",
+              noRows: "Nessun risultato corrispondente",
+              info: "{start} to {end} of {rows} entries",
+            },
+          searchable: true,
+            columns: [
+              { select: [3,5,6,7], type: "number"},
+              { select: 4, type: "number", sort: "desc"}
+            ],
+            nextPrev: false
+          })
+        }
       })
       })
   } //for (const i od denominazioneArray)
