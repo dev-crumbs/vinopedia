@@ -1,4 +1,6 @@
 export function denominazioneSummaryTableStatic(){
+  //get csv name
+  var denominazione = document.querySelector(".denominazioneTipo").getAttribute("data-tn")
   //
   //statistiche denominazionee prima di dataTable
   //
@@ -28,7 +30,6 @@ export function denominazioneSummaryTableStatic(){
   //
   //dataTable
   //
-  var denominazione = document.querySelector(".denominazioneTipo").getAttribute("data-tn")
   const dataTable = new simpleDatatables.DataTable(`.denominazioneTipo[data-tn='${denominazione}'] .denominazione-table`, {
     layout: {
       top: "{search}",
